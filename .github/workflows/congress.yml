@@ -1,0 +1,45 @@
+name: Congress Trades
+
+on:
+  schedule:
+    # Every 30 minutes. PTRs are weeks old already, so 5 minute polling
+    # would just hammer the House Clerk for no benefit.
+    - cron: "7,37 * * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: congress-monitor
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  congress:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - name: Run congress monitor
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+        run: python congress.py
+      - name: Commit state
+        run: |
+          git config user.name "filings-monitor"
+          git config user.email "actions@github.com"
+          git add state data
+          if git diff --staged --quiet; then echo "nothing changed"; exit 0; fi
+          git commit -m "congress: $(date -u '+%Y-%m-%d %H:%M UTC')"
+          for i in 1 2 3; do
+            git pull --rebase --autostash origin ${{ github.ref_name }} && \
+            git push origin HEAD:${{ github.ref_name }} && exit 0
+            sleep 5
+          done
+          exit 1
