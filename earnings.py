@@ -228,7 +228,7 @@ def run_digest():
     body += digest
     body.append(("WATCHING", f"{len(WATCHLIST)} large caps"))
 
-    telegram(box("WEEK AHEAD - EARNINGS", body,
+    telegram(box("\U0001F4C4 WEEK AHEAD - EARNINGS", body,
                  footer="You cannot beat the market to a release. "
                         "This is so you are not holding into one blind."))
 
