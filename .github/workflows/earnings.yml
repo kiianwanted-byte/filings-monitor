@@ -1,0 +1,37 @@
+name: Weekly Earnings Digest
+
+on:
+  schedule:
+    # 23:00 UTC Sunday = 07:00 Monday Singapore
+    - cron: "0 23 * * 0"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  earnings:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - name: Send weekly digest
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+          FINNHUB_KEY: ${{ secrets.FINNHUB_KEY }}
+        run: python earnings.py
+      - name: Commit state
+        run: |
+          git config user.name "filings-monitor"
+          git config user.email "actions@github.com"
+          git add state
+          if git diff --staged --quiet; then exit 0; fi
+          git commit -m "earnings digest $(date -u '+%Y-%m-%d')"
+          git pull --rebase --autostash origin ${{ github.ref_name }}
+          git push origin HEAD:${{ github.ref_name }}
