@@ -113,6 +113,29 @@ def ensure_files():
             path.write_text(json.dumps(default))
 
 
+def prune_csv(path, header, days, date_col="timestamp"):
+    """Keep the file to a rolling window so the repo and the reads stay small."""
+    if not path.exists():
+        return
+    cutoff = datetime.now(timezone.utc) - timedelta(days=days)
+    kept = []
+    with path.open(newline="", encoding="utf-8") as f:
+        for row in csv.DictReader(f):
+            try:
+                d = datetime.fromisoformat(row[date_col])
+                if d.tzinfo is None:
+                    d = d.replace(tzinfo=timezone.utc)
+            except (ValueError, KeyError, TypeError):
+                kept.append(row)      # unparseable date, keep it rather than lose it
+                continue
+            if d >= cutoff:
+                kept.append(row)
+    with path.open("w", newline="", encoding="utf-8") as f:
+        w = csv.DictWriter(f, fieldnames=header)
+        w.writeheader()
+        w.writerows(kept)
+
+
 def load_json(path, default):
     try:
         return json.loads(path.read_text())
@@ -373,6 +396,11 @@ def discover(seen):
             known.add(key)
             added += 1
 
+    # A runaway queue means something upstream broke. Cap it and say so.
+    if len(queue) > 2000:
+        log(f"WARNING: queue at {len(queue)}, trimming to newest 2000")
+        queue = queue[-2000:]
+
     save_json(QUEUE_FILE, queue)
     save_json(HEALTH_FILE, health)
     log(f"discovery: {added} new filings, queue now {len(queue)}")
@@ -489,6 +517,14 @@ def handle_form4(item):
     ticker = val(root, "issuerTradingSymbol").upper()
     company = val(root, "issuerName") or item["company"]
 
+    # An amendment corrects an earlier filing. Label it so a changed number
+    # never looks like a brand new purchase.
+    amended = str(val(root, "documentType")).strip().endswith("/A")
+
+    # A purchase made under a pre-scheduled 10b5-1 plan was decided months
+    # ago. It carries far less signal than a discretionary open market buy.
+    planned = is_true(val(root, "aff10b5One"))
+
     owners = []
     for o in find_all(root, "reportingOwner"):
         name = val(o, "rptOwnerName")
@@ -556,8 +592,13 @@ def handle_form4(item):
             return False
 
     priority = "HIGH" if cluster["fires"] else ("MEDIUM" if passes else "LOW")
+    if planned:
+        priority = "LOW"          # scheduled, not a conviction signal
+
     title = (f"INSIDER CLUSTER - {cluster['insiders']} BUYERS"
              if cluster["fires"] else "INSIDER BUY")
+    if amended:
+        title = "AMENDED  " + title
 
     rows = [
         ("PRIORITY", priority),
@@ -565,7 +606,8 @@ def handle_form4(item):
         ("COMPANY", company),
         ("PERSON", insider),
         ("ROLE", role),
-        ("ACTION", "BUY (open market, own money)"),
+        ("ACTION", "BUY (open market, own money)"
+                    + ("  [10b5-1 PLANNED]" if planned else "")),
         ("SHARES", num(shares)),
         ("PRICE", f"${avg_price:.2f}" if avg_price else "not disclosed"),
         ("VALUE", money(value) if value else "n/a"),
@@ -746,17 +788,28 @@ def heartbeat():
     now = datetime.now(timezone.utc)
     stale, ok = [], []
 
-    for form in FORMS:
-        ts = health.get(form)
+    # Congress runs in its own workflow but reports health the same way.
+    cong = load_json(STATE_DIR / "congress_health.json", {})
+    watched = list(FORMS) + [f"congress-{k}" for k in ("house", "senate")]
+    merged = dict(health)
+    for k, v in cong.items():
+        merged[f"congress-{k}"] = v
+
+    for form in watched:
+        ts = merged.get(form)
         if not ts:
-            stale.append(f"{form} (never)")
+            # Congress modules only appear once they have run successfully.
+            if form.startswith("congress-"):
+                stale.append(f"{form} (never ran)")
+            else:
+                stale.append(f"{form} (never)")
             continue
         try:
             age = (now - datetime.fromisoformat(ts)).total_seconds() / 3600
         except ValueError:
             stale.append(f"{form} (bad ts)")
             continue
-        if age > 48:
+        if age > 96:      # covers weekends and long holiday closures
             stale.append(f"{form} ({round(age)}h)")
         else:
             ok.append(form)
@@ -827,6 +880,13 @@ def main():
     seen_set = set(seen)
     queue = discover(seen_set)
     drain(queue, seen)
+
+    # Housekeeping once an hour, based on the clock, so it is cheap.
+    if datetime.now(timezone.utc).minute < 5:
+        prune_csv(BUYS_CSV, BUYS_HEADER, 180)
+        prune_csv(ALERTS_CSV, ALERTS_HEADER, 365)
+        log("pruned rolling windows")
+
     log("done")
 
 
