@@ -66,6 +66,18 @@ SENATE_SEARCH = "https://efdsearch.senate.gov/search/report/data/"
 session = requests.Session()
 session.headers.update({"User-Agent": USER_AGENT})
 
+# eFD returns 503 to non-browser clients. The House Clerk does not care, so
+# this header set is applied to Senate requests only.
+SENATE_HEADERS = {
+    "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                   "AppleWebKit/537.36 (KHTML, like Gecko) "
+                   "Chrome/126.0.0.0 Safari/537.36"),
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Connection": "keep-alive",
+    "Upgrade-Insecure-Requests": "1",
+}
+
 alerts_sent = 0
 
 
@@ -261,21 +273,24 @@ def extract_house_rows(text):
         after = text[m.end():m.end() + 200]
 
         am = AMOUNT_SPAN_RE.search(after)
-        if not am or am.start() > 90:
-            continue          # no amount close enough, not a real trade row
+        if not am or am.start() > 55:
+            continue          # no amount close enough, so not a real trade row
         low = int(am.group(1).replace(",", ""))
         high = int(am.group(2).replace(",", ""))
 
-        # Ticker may be before the code or after it on the wrapped line.
+        # Ticker sits either just before the transaction code or on the
+        # wrapped continuation line. Searching further than that picks up the
+        # PREVIOUS row's ticker, which silently mislabels the trade.
         window_after = after[:am.end()]
         tm = TICKER_RE.search(window_after)
-        if not tm:
-            hits = TICKER_RE.findall(before)
-            ticker = hits[-1] if hits else ""
-        else:
+        if tm:
             ticker = tm.group(1)
-        if ticker in ("ST", "OP", "PS", "RP", "SP"):
-            ticker = ""       # asset-type tags, not tickers
+        else:
+            near = before[-45:]                 # adjacent only, never further
+            hits = TICKER_RE.findall(near)
+            ticker = hits[-1] if hits else ""
+        if ticker in ("ST", "OP", "PS", "RP", "SP", "JT", "DC", "SR"):
+            ticker = ""       # ownership and asset-type tags, not tickers
 
         # Asset name spans the wrap too.
         tail = before.split("\n")[-1] if "\n" in before else before
@@ -299,7 +314,31 @@ def extract_house_rows(text):
             "action": action_label(m.group("action")),
             "low": low, "high": high, "trade_date": td,
         })
-    return rows
+
+    return dedupe_rows(rows)
+
+
+def dedupe_rows(rows):
+    """
+    The same trade often produces more than one anchor in the extracted text,
+    and the spare copy tends to pull its amount from the category legend at
+    the foot of the form. Keep one row per trade, preferring the copy that
+    carries a ticker, then the larger disclosed band.
+    """
+    best = {}
+    for r in rows:
+        key = (r["action"], r["trade_date"], _clean(r["asset"])[:18].lower())
+        cur = best.get(key)
+        if cur is None:
+            best[key] = r
+            continue
+        better = (
+            (bool(r["ticker"]), r["low"]) >
+            (bool(cur["ticker"]), cur["low"])
+        )
+        if better:
+            best[key] = r
+    return list(best.values())
 
 
 def parse_house_pdf(doc_id, year):
@@ -352,7 +391,7 @@ def run_house(seen, health):
 def senate_session():
     """eFD makes you accept a terms page before it returns anything."""
     try:
-        r = session.get(SENATE_HOME, timeout=30)
+        r = session.get(SENATE_HOME, headers=SENATE_HEADERS, timeout=30)
         if r.status_code != 200:
             log(f"senate: home HTTP {r.status_code}")
             return None
@@ -367,7 +406,7 @@ def senate_session():
         r2 = session.post(SENATE_HOME, data={
             "prohibition_agreement": "1",
             "csrfmiddlewaretoken": token,
-        }, headers={"Referer": SENATE_HOME}, timeout=30)
+        }, headers=dict(SENATE_HEADERS, Referer=SENATE_HOME), timeout=30)
         if r2.status_code not in (200, 302):
             log(f"senate: agreement HTTP {r2.status_code}")
             return None
@@ -437,7 +476,8 @@ def run_senate(seen, health):
 
         # eFD renders trades as an HTML table on the report page.
         try:
-            pr = session.get(link, timeout=30)
+            pr = session.get(link, headers=dict(SENATE_HEADERS,
+                                                Referer=SENATE_HOME), timeout=30)
             html = pr.text if pr.status_code == 200 else ""
         except requests.RequestException:
             html = ""
@@ -599,11 +639,13 @@ def senate_post(data, tries=3):
     wait = 2.0
     for attempt in range(1, tries + 1):
         try:
-            r = session.post(SENATE_SEARCH, data=payload, headers={
-                "Referer": SENATE_HOME,
-                "X-CSRFToken": token or "",
-                "X-Requested-With": "XMLHttpRequest",
-            }, timeout=45)
+            r = session.post(SENATE_SEARCH, data=payload, headers=dict(
+                SENATE_HEADERS,
+                Referer=SENATE_HOME,
+                Accept="application/json, text/javascript, */*; q=0.01",
+                **{"X-CSRFToken": token or "",
+                   "X-Requested-With": "XMLHttpRequest"},
+            ), timeout=45)
         except requests.RequestException as e:
             if attempt == tries:
                 log(f"senate: post failed :: {e}")
