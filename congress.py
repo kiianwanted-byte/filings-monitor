@@ -139,38 +139,60 @@ def action_label(code):
 # Alerting
 # ---------------------------------------------------------------
 
-def send(chamber, member, party_state, ticker, asset, action,
-         low, high, trade_date, filed_date, link, priority):
-    global alerts_sent
-
+def log_trade(chamber, member, ticker, asset, action, low, high,
+              trade_date, filed_date, priority, link):
+    """Every trade goes to the CSV, regardless of whether it is alerted."""
     lag = days_between(trade_date, filed_date) if trade_date and filed_date else ""
-
     append_csv(TRADES_CSV, [
         datetime.now(timezone.utc).isoformat(timespec="seconds"),
         chamber, member, ticker, asset, action, low, high,
         trade_date, filed_date, lag, priority, link,
     ])
+    return lag
 
-    if priority == "LOW":
-        return False
-    if alerts_sent >= MAX_ALERTS_PER_RUN:
+
+def send_filing(chamber, member, party_state, filed_date, link, trades):
+    """
+    One message per FILING, not per trade.
+
+    A single PTR routinely discloses a dozen trades. Sending each as its own
+    alert produced a wall of near identical messages all pointing at the same
+    PDF, which is how a useful feed turns into one you mute.
+    """
+    global alerts_sent
+
+    pushable = [t for t in trades if t["priority"] != "LOW"]
+    if not pushable or alerts_sent >= MAX_ALERTS_PER_RUN:
         return False
 
-    rows = [
+    # A filing is only HIGH if something inside it is.
+    priority = "HIGH" if any(t["priority"] == "HIGH" for t in pushable) else "MEDIUM"
+
+    lags = [t["lag"] for t in pushable if t["lag"] != ""]
+    lag_txt = (f"{min(lags)} to {max(lags)} days" if lags and min(lags) != max(lags)
+               else (f"{lags[0]} days" if lags else "unknown"))
+
+    header = [
         ("PRIORITY", priority),
         ("MEMBER", member),
         ("CHAMBER", chamber + (f"  ({party_state})" if party_state else "")),
-        ("TICKER", ticker or "not listed"),
-        ("ASSET", asset[:44] if asset else ""),
-        ("ACTION", action),
-        ("AMOUNT", amount_label(low, high)),
-        ("TRADE", dmy(trade_date)),
         ("FILED", dmy(filed_date)),
-        ("LAG", f"{lag} days" if lag != "" else "unknown"),
+        ("LAG", lag_txt),
+        ("TRADES", f"{len(pushable)} above threshold"
+                   + (f", {len(trades) - len(pushable)} smaller" if len(trades) > len(pushable) else "")),
     ]
 
-    telegram(box("CONGRESS TRADE", rows, link=link,
-                 footer="Disclosed under the STOCK Act. The trade already "
+    lines = []
+    for t in sorted(pushable, key=lambda x: -x["low"])[:12]:
+        tick = t["ticker"] or "--"
+        lines.append((f"{t['action'][:4]} {tick}",
+                      f"{amount_label(t['low'], t['high'])}   {dmy(t['trade_date'])}"
+                      + ("" if t["ticker"] else f"   {t['asset'][:26]}")))
+    if len(pushable) > 12:
+        lines.append(("...", f"+{len(pushable) - 12} more in the filing"))
+
+    telegram(box("CONGRESS FILING", header + [("", "")] + lines, link=link,
+                 footer="Disclosed under the STOCK Act. These trades already "
                         "happened weeks ago."))
     alerts_sent += 1
     return True
@@ -390,9 +412,12 @@ def run_house(seen, health):
             continue
 
         for t in trades:
-            send("House", f["member"], f["state"], t["ticker"], t["asset"],
-                 t["action"], t["low"], t["high"], t["trade_date"], filed,
-                 link, classify(t["low"]))
+            t["priority"] = classify(t["low"])
+            t["lag"] = log_trade("House", f["member"], t["ticker"], t["asset"],
+                                 t["action"], t["low"], t["high"],
+                                 t["trade_date"], filed, t["priority"], link)
+
+        send_filing("House", f["member"], f["state"], filed, link, trades)
 
 
 # ---------------------------------------------------------------
@@ -500,10 +525,14 @@ def run_senate(seen, health):
             send_parse_failure("Senate", member, filed, link)
             continue
 
+        office_txt = re.sub(r"<[^>]+>", "", str(office))[:24]
         for t in trades:
-            send("Senate", member, re.sub(r"<[^>]+>", "", str(office))[:24],
-                 t["ticker"], t["asset"], t["action"], t["low"], t["high"],
-                 t["trade_date"], filed, link, classify(t["low"]))
+            t["priority"] = classify(t["low"])
+            t["lag"] = log_trade("Senate", member, t["ticker"], t["asset"],
+                                 t["action"], t["low"], t["high"],
+                                 t["trade_date"], filed, t["priority"], link)
+
+        send_filing("Senate", member, office_txt, filed, link, trades)
 
 
 SEN_CELL_RE = re.compile(r"<td[^>]*>(.*?)</td>", re.S | re.I)
