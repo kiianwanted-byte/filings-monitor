@@ -595,8 +595,8 @@ def handle_form4(item):
     if planned:
         priority = "LOW"          # scheduled, not a conviction signal
 
-    title = (f"INSIDER CLUSTER - {cluster['insiders']} BUYERS"
-             if cluster["fires"] else "INSIDER BUY")
+    title = (f"\U0001F7E2 INSIDER CLUSTER - {cluster['insiders']} BUYERS"
+             if cluster["fires"] else "\U0001F7E2 INSIDER BUY")
     if amended:
         title = "AMENDED  " + title
 
@@ -667,7 +667,7 @@ def handle_form144(item):
     return send_alert("FORM_144", ticker, company,
                       f"proposed sale {money(value)}", value, "",
                       item["link"],
-                      box("INSIDER SELL NOTICE - Form 144", rows,
+                      box("\U0001F534 INSIDER SELL NOTICE - Form 144", rows,
                           link=item["link"],
                           footer="Filed BEFORE the sale happens. "
                                  "Intent to sell, not a completed trade."),
@@ -690,7 +690,7 @@ def handle_8k(item):
 
     severe = "4.02" in hits or "1.03" in hits
     priority = "HIGH" if any(h in EIGHTK_HIGH for h in hits) else "LOW"
-    title = "8-K MATERIAL EVENT" + ("  [SEVERE]" if severe else "")
+    title = "\U0001F4C4 8-K MATERIAL EVENT" + ("  [SEVERE]" if severe else "")
 
     rows = [("PRIORITY", priority),
             ("COMPANY", item["company"]),
@@ -712,7 +712,7 @@ def handle_nt(item):
     ]
     return send_alert("LATE_FILING", "", item["company"], item["form"],
                       0, "", item["link"],
-                      box("LATE FILING NOTICE", rows, link=item["link"],
+                      box("\U0001F4C4 LATE FILING NOTICE", rows, link=item["link"],
                           footer="Stated reason is in Part III of the filing."))
 
 
@@ -735,7 +735,7 @@ def handle_13d(item):
     ]
     return send_alert("13D", "", item["company"], filed_by, 0, "",
                       item["link"],
-                      box("ACTIVIST STAKE - 13D", rows, link=item["link"],
+                      box("\U0001F4C4 ACTIVIST STAKE - 13D", rows, link=item["link"],
                           footer="Stake size and stated purpose: Items 4 and 5."))
 
 
