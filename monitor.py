@@ -30,16 +30,25 @@ TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID", "")
 SEC_USER_AGENT = os.environ.get("SEC_USER_AGENT", "")
 FINNHUB_KEY = os.environ.get("FINNHUB_KEY", "")
 
+# Only alerts at or above this level reach Telegram.
+# Everything else is still written to the CSV for later review.
+# Options: "HIGH", "MEDIUM", "LOW"
+ALERT_MIN_PRIORITY = "MEDIUM"
+PRIORITY_RANK = {"HIGH": 3, "MEDIUM": 2, "LOW": 1}
+
 # Alert thresholds for insider buys
-MIN_TRADE_VALUE = 100_000
-MIN_HOLDING_CHANGE_PCT = 10
+MIN_TRADE_VALUE = 250_000        # was 100k, raised to cut noise
+MIN_HOLDING_CHANGE_PCT = 20      # was 10
 MIN_MARKET_CAP = 300_000_000
+
+# Form 144 sell notices are very common and mostly routine.
+FORM144_MIN_VALUE = 5_000_000
 
 # Cluster detection
 CLUSTER_WINDOW_DAYS = 14
 CLUSTER_MIN_INSIDERS = 2
 
-# 8-K item codes worth an alert
+# 8-K item codes. HIGH ones push to Telegram, LOW ones only hit the CSV.
 EIGHTK_ITEMS = {
     "1.01": "Material definitive agreement",
     "1.02": "Termination of material agreement",
@@ -50,6 +59,11 @@ EIGHTK_ITEMS = {
     "4.02": "NON-RELIANCE ON PRIOR FINANCIALS",
     "5.02": "Departure or election of directors or officers",
 }
+
+# These are the distress and structural signals. Rare, and they matter.
+EIGHTK_HIGH = {"1.03", "2.04", "3.01", "4.01", "4.02"}
+# These fire constantly and are usually routine corporate housekeeping.
+EIGHTK_LOW = {"1.01", "1.02", "5.02"}
 
 FORMS = ["4", "144", "8-K", "NT 10-Q", "NT 10-K", "SC 13D"]
 FEED_COUNT = 100
@@ -70,7 +84,7 @@ ALERTS_CSV = DATA_DIR / "alerts.csv"
 BUYS_CSV = DATA_DIR / "buys.csv"
 
 ALERTS_HEADER = ["timestamp", "type", "ticker", "company", "headline",
-                 "value_usd", "lag_days", "link"]
+                 "value_usd", "lag_days", "link", "priority"]
 BUYS_HEADER = ["timestamp", "trade_date", "ticker", "company", "insider",
                "role", "shares", "price", "value_usd", "holding_change_pct",
                "accession"]
@@ -155,6 +169,33 @@ def num(n):
         return str(n)
 
 
+def esc(s):
+    """Telegram HTML mode requires these three escaped."""
+    return (str(s).replace("&", "&amp;")
+                  .replace("<", "&lt;")
+                  .replace(">", "&gt;"))
+
+
+def box(title, rows, link="", footer=""):
+    """
+    Renders a monospace block so labels line up:
+
+        INSIDER BUY
+        TICKER   NVDA
+        PERSON   Colette Kress
+        ACTION   BUY (open market)
+    """
+    rows = [(k, v) for k, v in rows if v not in ("", None)]
+    width = max((len(k) for k, _ in rows), default=0)
+    body = "\n".join(f"{k.ljust(width)}  {v}" for k, v in rows)
+    out = f"{esc(title)}\n<pre>{esc(body)}</pre>"
+    if footer:
+        out += f"\n{esc(footer)}"
+    if link:
+        out += f"\n{esc(link)}"
+    return out
+
+
 # ---------------------------------------------------------------
 # HTTP
 # ---------------------------------------------------------------
@@ -204,6 +245,7 @@ def telegram(text):
         r = session.post(url, json={
             "chat_id": TELEGRAM_CHAT_ID,
             "text": text[:4000],
+            "parse_mode": "HTML",
             "disable_web_page_preview": True,
         }, timeout=20)
         if r.status_code != 200:
@@ -216,14 +258,23 @@ def telegram(text):
         return False
 
 
-def send_alert(kind, ticker, company, headline, value, lag, link, message):
+def send_alert(kind, ticker, company, headline, value, lag, link, message,
+               priority="HIGH"):
+    """
+    Everything is logged to the CSV. Only alerts at or above
+    ALERT_MIN_PRIORITY are pushed to Telegram.
+    """
     global alerts_sent
-    telegram(message)
     append_csv(ALERTS_CSV, [
         datetime.now(timezone.utc).isoformat(timespec="seconds"),
         kind, ticker, company, headline,
-        int(value) if value else "", lag, link,
+        int(value) if value else "", lag, link, priority,
     ])
+
+    if PRIORITY_RANK.get(priority, 1) < PRIORITY_RANK[ALERT_MIN_PRIORITY]:
+        return False
+
+    telegram(message)
     alerts_sent += 1
     return True
 
@@ -504,27 +555,32 @@ def handle_form4(item):
         if cap is not None and cap < MIN_MARKET_CAP:
             return False
 
-    lines = [
-        f"INSIDER CLUSTER - {cluster['insiders']} buyers" if cluster["fires"]
-        else "INSIDER BUY",
-        f"{ticker or '?'}  {company}",
-        f"{insider}{', ' + role if role else ''}",
-        f"Purchase {num(shares)} sh"
-        + (f" at ${avg_price:.2f}" if avg_price else "")
-        + (f" = {money(value)}" if value else " (price not disclosed)"),
-        "Holding change " + ("new position" if pct == 999 else f"+{pct:.1f}%"),
-        f"Trade {dmy(trade_date)}, filed {dmy(item['filed'])}"
-        + (f", lag {lag}d" if lag != "" else ""),
+    priority = "HIGH" if cluster["fires"] else ("MEDIUM" if passes else "LOW")
+    title = (f"INSIDER CLUSTER - {cluster['insiders']} BUYERS"
+             if cluster["fires"] else "INSIDER BUY")
+
+    rows = [
+        ("PRIORITY", priority),
+        ("TICKER", ticker or "n/a"),
+        ("COMPANY", company),
+        ("PERSON", insider),
+        ("ROLE", role),
+        ("ACTION", "BUY (open market, own money)"),
+        ("SHARES", num(shares)),
+        ("PRICE", f"${avg_price:.2f}" if avg_price else "not disclosed"),
+        ("VALUE", money(value) if value else "n/a"),
+        ("HOLDING", "new position" if pct == 999 else f"+{pct:.1f}%"),
+        ("TRADE", dmy(trade_date)),
+        ("FILED", dmy(item["filed"]) + (f"  (lag {lag}d)" if lag != "" else "")),
     ]
     if cluster["fires"]:
-        lines.append(f"Cluster: {cluster['insiders']} insiders bought in last "
-                     f"{CLUSTER_WINDOW_DAYS}d, {money(cluster['total'])} total")
-    lines.append(item["link"])
+        rows.append(("CLUSTER", f"{cluster['insiders']} insiders / "
+                                f"{CLUSTER_WINDOW_DAYS}d / {money(cluster['total'])}"))
 
     return send_alert(
         "INSIDER_CLUSTER" if cluster["fires"] else "INSIDER_BUY",
         ticker, company, f"{insider} {money(value)}", value, lag,
-        item["link"], "\n".join(lines))
+        item["link"], box(title, rows, link=item["link"]), priority)
 
 
 # ---------------------------------------------------------------
@@ -551,25 +607,29 @@ def handle_form144(item):
 
     if not units and not value:
         return False
-    if value and value < MIN_TRADE_VALUE:
-        return False
+    priority = "MEDIUM" if value >= FORM144_MIN_VALUE else "LOW"
 
-    lines = [x for x in [
-        "PROPOSED SALE - Form 144",
-        f"{ticker or '?'}  {company}",
-        f"Filer: {person}" if person else "",
-        f"Proposed {num(units) + ' sh' if units else 'sale'}"
-        + (f", approx {money(value)}" if value else ""),
-        f"Broker: {broker}" if broker else "",
-        f"Approx sale date: {dmy(sale_date)}" if sale_date else "",
-        f"Filed {dmy(item['filed'])}",
-        "Note: filed before the sale occurs",
-        item["link"],
-    ] if x]
+    rows = [
+        ("PRIORITY", priority),
+        ("TICKER", ticker or "not in filing"),
+        ("COMPANY", company),
+        ("PERSON", person),
+        ("ACTION", "SELL (proposed, not yet executed)"),
+        ("SHARES", num(units) if units else ""),
+        ("VALUE", money(value) if value else ""),
+        ("SALE DATE", dmy(sale_date)),
+        ("BROKER", broker),
+        ("FILED", dmy(item["filed"])),
+    ]
 
     return send_alert("FORM_144", ticker, company,
                       f"proposed sale {money(value)}", value, "",
-                      item["link"], "\n".join(lines))
+                      item["link"],
+                      box("INSIDER SELL NOTICE - Form 144", rows,
+                          link=item["link"],
+                          footer="Filed BEFORE the sale happens. "
+                                 "Intent to sell, not a completed trade."),
+                      priority)
 
 
 # ---------------------------------------------------------------
@@ -587,27 +647,31 @@ def handle_8k(item):
         return False
 
     severe = "4.02" in hits or "1.03" in hits
-    header = f"8-K - ITEM {', '.join(hits)}" + ("  (SEVERE)" if severe else "")
+    priority = "HIGH" if any(h in EIGHTK_HIGH for h in hits) else "LOW"
+    title = "8-K MATERIAL EVENT" + ("  [SEVERE]" if severe else "")
 
-    lines = [header, item["company"]]
-    lines += [f"{h} {EIGHTK_ITEMS[h]}" for h in hits]
-    lines += [f"Filed {dmy(item['filed'])}", item["link"]]
+    rows = [("PRIORITY", priority),
+            ("COMPANY", item["company"]),
+            ("FILED", dmy(item["filed"]))]
+    rows += [(f"ITEM {h}", EIGHTK_ITEMS[h]) for h in hits]
 
     return send_alert("8K", "", item["company"], f"items {','.join(hits)}",
-                      0, "", item["link"], "\n".join(lines))
+                      0, "", item["link"], box(title, rows, link=item["link"]),
+                      priority)
 
 
 def handle_nt(item):
-    lines = [
-        f"LATE FILING - {item['form']}",
-        item["company"],
-        "Company has told the SEC it cannot file on time.",
-        "Open the filing for the stated reason (Part III).",
-        f"Filed {dmy(item['filed'])}",
-        item["link"],
+    rows = [
+        ("PRIORITY", "HIGH"),
+        ("COMPANY", item["company"]),
+        ("FORM", item["form"]),
+        ("MEANING", "Cannot file accounts on time"),
+        ("FILED", dmy(item["filed"])),
     ]
     return send_alert("LATE_FILING", "", item["company"], item["form"],
-                      0, "", item["link"], "\n".join(lines))
+                      0, "", item["link"],
+                      box("LATE FILING NOTICE", rows, link=item["link"],
+                          footer="Stated reason is in Part III of the filing."))
 
 
 def handle_13d(item):
@@ -620,16 +684,17 @@ def handle_13d(item):
         if m:
             filed_by = m.group(1).replace("&amp;", "&").strip()
 
-    lines = [
-        "13D FILED - activist stake",
-        f"Subject: {item['company']}",
-        f"Filed by: {filed_by}" if filed_by else "Filed by: see filing",
-        f"Filed {dmy(item['filed'])}",
-        "Stake size and stated purpose are in Items 4 and 5.",
-        item["link"],
+    rows = [
+        ("PRIORITY", "HIGH"),
+        ("TARGET", item["company"]),
+        ("BUYER", filed_by or "see filing"),
+        ("ACTION", "Activist stake above 5%"),
+        ("FILED", dmy(item["filed"])),
     ]
     return send_alert("13D", "", item["company"], filed_by, 0, "",
-                      item["link"], "\n".join(lines))
+                      item["link"],
+                      box("ACTIVIST STAKE - 13D", rows, link=item["link"],
+                          footer="Stake size and stated purpose: Items 4 and 5."))
 
 
 HANDLERS = {
@@ -712,19 +777,35 @@ def heartbeat():
 
     queue = load_json(QUEUE_FILE, [])
 
-    lines = [x for x in [
-        "HEARTBEAT - ATTENTION" if stale else "HEARTBEAT - EDGAR feeds green",
-        now.strftime("%a %d %b %Y"),
-        f"Feeds ok: {', '.join(ok) if ok else 'none'}",
-        f"STALE: {', '.join(stale)}" if stale else "",
-        f"Alerts last 24h: {today}",
-        f"Alerts last 7d: {week}",
-        f"Queue backlog: {len(queue)}",
-        "A stale feed usually means a format change. Check the Actions log."
-        if stale else "",
-    ] if x]
+    # Silent when healthy. One weekly liveness ping on Mondays so that
+    # total silence never becomes ambiguous.
+    is_monday = now.weekday() == 0
 
-    telegram("\n".join(lines))
+    if not stale and not is_monday:
+        log("heartbeat: all feeds healthy, staying quiet")
+        return
+
+    if stale:
+        rows = [
+            ("PRIORITY", "HIGH"),
+            ("PROBLEM", ", ".join(stale)),
+            ("MEANING", "No new filings seen from these feeds"),
+            ("LIKELY CAUSE", "EDGAR changed a URL or feed format"),
+            ("ACTION", "Open the repo Actions tab, read the newest run log"),
+            ("THEN", "Send the error to Claude to patch monitor.py"),
+            ("STILL OK", ", ".join(ok) if ok else "none"),
+            ("BACKLOG", str(len(queue))),
+        ]
+        telegram(box("EDGAR MONITOR IS BROKEN", rows))
+        return
+
+    rows = [
+        ("STATUS", "All feeds healthy"),
+        ("FEEDS", ", ".join(ok)),
+        ("ALERTS 7D", str(week)),
+        ("BACKLOG", str(len(queue))),
+    ]
+    telegram(box("WEEKLY CHECK - EDGAR OK", rows))
 
 
 # ---------------------------------------------------------------
