@@ -251,24 +251,7 @@ def parse_house_pdf(doc_id, year):
         log("house: pdfplumber not installed")
         return []
 
-    url = HOUSE_PDF.format(year=year, doc=doc_id)
-    try:
-        r = session.get(url, timeout=60)
-    except requests.RequestException as e:
-        log(f"house: pdf unreachable {doc_id} :: {e}")
-        return []
-    if r.status_code != 200:
-        return []
-
-    text = ""
-    try:
-        with pdfplumber.open(io.BytesIO(r.content)) as pdf:
-            for page in pdf.pages[:12]:
-                text += (page.extract_text() or "") + "\n"
-    except Exception as e:
-        log(f"house: pdf parse failed {doc_id} :: {e}")
-        return []
-
+    text = house_pdf_text(doc_id, year)
     if not text.strip():
         return []      # scanned document, would need OCR
 
@@ -506,6 +489,7 @@ def parse_senate_html(html):
 # ---------------------------------------------------------------
 
 def connectivity_test():
+    """Verbose enough to tune the parser without another round trip."""
     print("=== CONGRESS CONNECTIVITY TEST ===")
     year = datetime.now(timezone.utc).year
 
@@ -515,22 +499,85 @@ def connectivity_test():
         print("  FAILED. The ZIP URL or format may have changed.")
     else:
         print(f"  OK. {len(idx)} periodic transaction reports in the index.")
-        if idx:
-            newest = sorted(idx, key=lambda f: f.get("filed", ""))[-1]
-            print(f"  Newest: {newest['member']} filed {newest['filed']} "
-                  f"doc {newest['doc_id']}")
-            print("  Trying to read that PDF...")
-            rows = parse_house_pdf(newest["doc_id"], newest["year"])
-            print(f"  Parsed {len(rows)} trade rows.")
-            for r in rows[:3]:
-                print(f"    {r['ticker'] or '-':6} {r['action']:6} "
-                      f"{amount_label(r['low'], r['high'])}  {r['trade_date']}")
+        newest = sorted(idx, key=lambda f: f.get("filed", ""))[-5:][::-1]
+
+        for f in newest:
+            print(f"\n  --- {f['member']} ({f['state']}) filed {f['filed']} "
+                  f"doc {f['doc_id']} ---")
+            raw = house_pdf_text(f["doc_id"], f["year"])
+            if not raw:
+                print("      no extractable text (scanned document)")
+                continue
+
+            money_lines = [ln.strip() for ln in raw.splitlines() if "$" in ln]
+            rows = parse_house_pdf(f["doc_id"], f["year"])
+            print(f"      lines containing '$': {len(money_lines)}   "
+                  f"rows parsed: {len(rows)}")
+
+            for r in rows[:4]:
+                print(f"        PARSED  {r['ticker'] or '(no ticker)':12} "
+                      f"{r['action']:6} {amount_label(r['low'], r['high']):22} "
+                      f"{r['trade_date']}  {r['asset'][:38]}")
+
+            # Show money lines the regex did NOT claim, that is where bugs hide.
+            unmatched = [ln for ln in money_lines
+                         if not HOUSE_ROW_RE.search(ln)][:4]
+            for ln in unmatched:
+                print(f"        UNMATCHED  {ln[:110]}")
 
     print("\n[Senate] eFD session")
     tok = senate_session()
-    print("  OK, session established." if tok else "  FAILED to establish session.")
+    if not tok:
+        print("  FAILED to establish session.")
+    else:
+        print("  OK, session established.")
+        rows = senate_probe()
+        print(f"  Search returned {rows} rows in the last 30 days.")
 
     print("\n=== END ===")
+
+
+def house_pdf_text(doc_id, year):
+    """Raw text of a House PTR, used by the diagnostic."""
+    try:
+        import pdfplumber
+    except ImportError:
+        return ""
+    url = HOUSE_PDF.format(year=year, doc=doc_id)
+    try:
+        r = session.get(url, timeout=60)
+    except requests.RequestException:
+        return ""
+    if r.status_code != 200:
+        return ""
+    text = ""
+    try:
+        with pdfplumber.open(io.BytesIO(r.content)) as pdf:
+            for page in pdf.pages[:12]:
+                text += (page.extract_text() or "") + "\n"
+    except Exception:
+        return ""
+    return text
+
+
+def senate_probe():
+    """Row count only, for the diagnostic."""
+    start = (datetime.now(timezone.utc) - timedelta(days=30)).strftime("%m/%d/%Y")
+    token = session.cookies.get("csrftoken")
+    try:
+        r = session.post(SENATE_SEARCH, data={
+            "start": "0", "length": "100", "report_types": "[11]",
+            "filer_types": "[]", "submitted_start_date": start,
+            "submitted_end_date": "", "candidate_state": "", "senator_state": "",
+            "office_id": "", "first_name": "", "last_name": "",
+            "csrfmiddlewaretoken": token,
+        }, headers={"Referer": SENATE_HOME, "X-CSRFToken": token or "",
+                    "X-Requested-With": "XMLHttpRequest"}, timeout=45)
+        if r.status_code != 200:
+            return f"HTTP {r.status_code}"
+        return len(r.json().get("data", []))
+    except Exception as e:
+        return f"error: {str(e)[:60]}"
 
 
 # ---------------------------------------------------------------
