@@ -1,0 +1,26 @@
+timestamp,type,ticker,company,headline,value_usd,lag_days,link
+2026-08-27T05:45:15+00:00,FORM_144,,"Life Time Group Holdings, Inc.",proposed sale $557K,557231,,https://www.sec.gov/Archives/edgar/data/1972831/000199937126018837/0001999371-26-018837-index.htm
+2026-08-27T05:45:16+00:00,FORM_144,,"Life Time Group Holdings, Inc.",proposed sale $80.25M,80249518,,https://www.sec.gov/Archives/edgar/data/1972834/000199937126018836/0001999371-26-018836-index.htm
+2026-08-27T05:45:17+00:00,FORM_144,,"Life Time Group Holdings, Inc.",proposed sale $11.02M,11021135,,https://www.sec.gov/Archives/edgar/data/1972856/000199937126018835/0001999371-26-018835-index.htm
+2026-08-27T05:45:18+00:00,FORM_144,,"Life Time Group Holdings, Inc.",proposed sale $2.13M,2125703,,https://www.sec.gov/Archives/edgar/data/1869198/000119312526369187/0001193125-26-369187-index.htm
+2026-08-27T05:45:19+00:00,FORM_144,,"Life Time Group Holdings, Inc.",proposed sale $213K,213305,,https://www.sec.gov/Archives/edgar/data/1869198/000119312526369183/0001193125-26-369183-index.htm
+2026-08-27T05:45:20+00:00,FORM_144,,"Life Time Group Holdings, Inc.",proposed sale $125.93M,125927302,,https://www.sec.gov/Archives/edgar/data/1886438/000119312526369181/0001193125-26-369181-index.htm
+2026-08-27T05:45:22+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $1.19M,1192235,,https://www.sec.gov/Archives/edgar/data/2126744/000212674426000004/0002126744-26-000004-index.htm
+2026-08-27T05:45:24+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $256K,255636,,https://www.sec.gov/Archives/edgar/data/2126751/000212675126000005/0002126751-26-000005-index.htm
+2026-08-27T05:45:25+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $1.29M,1287226,,https://www.sec.gov/Archives/edgar/data/2126752/000212675226000010/0002126752-26-000010-index.htm
+2026-08-27T05:45:26+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $271K,270707,,https://www.sec.gov/Archives/edgar/data/2126753/000212675326000009/0002126753-26-000009-index.htm
+2026-08-27T05:45:28+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $272K,272110,,https://www.sec.gov/Archives/edgar/data/2126755/000212675526000007/0002126755-26-000007-index.htm
+2026-08-27T05:45:29+00:00,FORM_144,,TWIN DISC INC,proposed sale $500K,500000,,https://www.sec.gov/Archives/edgar/data/1341537/000143774926029033/0001437749-26-029033-index.htm
+2026-08-27T05:45:30+00:00,FORM_144,,"10X Genomics, Inc.",proposed sale $2.21M,2206653,,https://www.sec.gov/Archives/edgar/data/1786720/000196858226000886/0001968582-26-000886-index.htm
+2026-08-27T05:45:31+00:00,FORM_144,,"Evolent Health, Inc.",proposed sale $327K,327476,,https://www.sec.gov/Archives/edgar/data/1946147/000162828026059130/0001628280-26-059130-index.htm
+2026-08-27T05:45:33+00:00,FORM_144,,FIRST BANCORP /PR,proposed sale $282K,282000,,https://www.sec.gov/Archives/edgar/data/1224437/000162828026059129/0001628280-26-059129-index.htm
+2026-08-27T05:45:34+00:00,FORM_144,,Kinetik Holdings Inc.,proposed sale $4.20M,4201926,,https://www.sec.gov/Archives/edgar/data/1904934/000090514826003957/0000905148-26-003957-index.htm
+2026-08-27T05:45:36+00:00,FORM_144,,"Intellicheck, Inc.",proposed sale $349K,348568,,https://www.sec.gov/Archives/edgar/data/1996464/000197449426000267/0001974494-26-000267-index.htm
+2026-08-27T05:45:37+00:00,FORM_144,,"CoreWeave, Inc.",proposed sale $185K,184884,,https://www.sec.gov/Archives/edgar/data/2058048/000196858226000884/0001968582-26-000884-index.htm
+2026-08-27T05:45:38+00:00,FORM_144,,RenaissanceRe Holdings Ltd,proposed sale $126K,126295,,https://www.sec.gov/Archives/edgar/data/1492528/000162828026059116/0001628280-26-059116-index.htm
+2026-08-27T05:45:39+00:00,FORM_144,,"Freshpet, Inc.",proposed sale $2.76M,2763216,,https://www.sec.gov/Archives/edgar/data/1680803/000195917326006478/0001959173-26-006478-index.htm
+2026-08-27T05:45:40+00:00,FORM_144,,"TEXAS ROADHOUSE, INC.",proposed sale $102K,102325,,https://www.sec.gov/Archives/edgar/data/2078707/000195004726008733/0001950047-26-008733-index.htm
+2026-08-27T05:45:41+00:00,FORM_144,,OppFi Inc.,proposed sale $559K,558797,,https://www.sec.gov/Archives/edgar/data/1874705/000195917326006477/0001959173-26-006477-index.htm
+2026-08-27T05:45:42+00:00,FORM_144,,"Precigen, Inc.",proposed sale $1.37M,1372700,,https://www.sec.gov/Archives/edgar/data/1356090/000195824426000558/0001958244-26-000558-index.htm
+2026-08-27T05:45:43+00:00,FORM_144,,"Casella Waste Systems, Inc.",proposed sale $103K,103114,,https://www.sec.gov/Archives/edgar/data/1224062/000195824426000557/0001958244-26-000557-index.htm
+2026-08-27T05:45:44+00:00,FORM_144,,ZTO Express (Cayman) Inc.,proposed sale $4.26M,4264000,,https://www.sec.gov/Archives/edgar/data/1971621/000195824426000556/0001958244-26-000556-index.htm
