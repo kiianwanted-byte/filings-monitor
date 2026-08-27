@@ -1,0 +1,60 @@
+name: Filings Monitor
+
+on:
+  schedule:
+    # Every 5 minutes. GitHub cron is best effort and can run late under load.
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+# Never let two runs overlap, they would fight over the state files.
+concurrency:
+  group: filings-monitor
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run monitor
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+          FINNHUB_KEY: ${{ secrets.FINNHUB_KEY }}
+        run: python monitor.py
+
+      - name: Commit state and data
+        run: |
+          git config user.name "filings-monitor"
+          git config user.email "actions@github.com"
+          git add state data
+          if git diff --staged --quiet; then
+            echo "nothing changed"
+            exit 0
+          fi
+          git commit -m "state: $(date -u '+%Y-%m-%d %H:%M UTC')"
+          # Another run may have pushed while we worked. Rebase and retry.
+          for i in 1 2 3; do
+            git pull --rebase --autostash origin ${{ github.ref_name }} && \
+            git push origin HEAD:${{ github.ref_name }} && exit 0
+            echo "push attempt $i failed, retrying"
+            sleep 5
+          done
+          echo "could not push state after 3 attempts"
+          exit 1
