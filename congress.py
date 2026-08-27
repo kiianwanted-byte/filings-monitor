@@ -50,6 +50,11 @@ HIGH_MIN_AMOUNT = 500_001      # at or above this, always push
 MAX_FILINGS_PER_RUN = 25
 MAX_ALERTS_PER_RUN = 15
 
+# eFD returns 503 to GitHub's IP range regardless of headers. House coverage
+# is unaffected and covers the whole lower chamber. Flip this to True to retry
+# Senate later, or if you ever move this to a different host.
+SENATE_ENABLED = os.environ.get("SENATE_ENABLED", "").lower() in ("1", "true", "yes")
+
 SEEN_FILE = STATE_DIR / "congress_seen.json"
 HEALTH_FILE = STATE_DIR / "congress_health.json"
 TRADES_CSV = DATA_DIR / "congress_trades.csv"
@@ -278,17 +283,23 @@ def extract_house_rows(text):
         low = int(am.group(1).replace(",", ""))
         high = int(am.group(2).replace(",", ""))
 
-        # Ticker sits either just before the transaction code or on the
-        # wrapped continuation line. Searching further than that picks up the
-        # PREVIOUS row's ticker, which silently mislabels the trade.
-        window_after = after[:am.end()]
-        tm = TICKER_RE.search(window_after)
+        # The ticker lands in one of three places depending on how the line
+        # wrapped: between the dates and the amount, after the amount on the
+        # continuation line, or just before the transaction code. Search all
+        # three, but never far enough to reach the NEXT row, which is what
+        # caused tickers to attach to the wrong company.
+        tail = after[:am.end() + 50]
+        nxt = ACTION_DATE_RE.search(tail, am.end())
+        if nxt:
+            tail = tail[:nxt.start()]           # stop at the next trade row
+
+        tm = TICKER_RE.search(tail)
         if tm:
             ticker = tm.group(1)
         else:
-            near = before[-45:]                 # adjacent only, never further
-            hits = TICKER_RE.findall(near)
+            hits = TICKER_RE.findall(before[-45:])   # adjacent only
             ticker = hits[-1] if hits else ""
+        window_after = after[:am.end()]
         if ticker in ("ST", "OP", "PS", "RP", "SP", "JT", "DC", "SR"):
             ticker = ""       # ownership and asset-type tags, not tickers
 
@@ -596,7 +607,8 @@ def connectivity_test():
             for ln in unmatched:
                 print(f"        UNMATCHED  {ln[:110]}")
 
-    print("\n[Senate] eFD session")
+    print(f"\n[Senate] enabled: {SENATE_ENABLED}")
+    print("[Senate] eFD session")
     tok = senate_session()
     if not tok:
         print("  FAILED to establish session.")
@@ -704,10 +716,13 @@ def main():
     except Exception as e:
         log(f"house run failed :: {e}")
 
-    try:
-        run_senate(seen, health)
-    except Exception as e:
-        log(f"senate run failed :: {e}")
+    if SENATE_ENABLED:
+        try:
+            run_senate(seen, health)
+        except Exception as e:
+            log(f"senate run failed :: {e}")
+    else:
+        log("senate disabled (eFD blocks this host, set SENATE_ENABLED=1 to retry)")
 
     seen_list = list(seen)[-30_000:]
     save_json(SEEN_FILE, seen_list)
