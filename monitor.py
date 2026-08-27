@@ -790,7 +790,11 @@ def heartbeat():
 
     # Congress runs in its own workflow but reports health the same way.
     cong = load_json(STATE_DIR / "congress_health.json", {})
-    watched = list(FORMS) + [f"congress-{k}" for k in ("house", "senate")]
+    # Only watch congress modules that have actually reported at least once.
+    # Senate is off by default, and a disabled module is not a broken one.
+    watched = list(FORMS) + ["congress-house"]
+    if "senate" in cong:
+        watched.append("congress-senate")
     merged = dict(health)
     for k, v in cong.items():
         merged[f"congress-{k}"] = v
