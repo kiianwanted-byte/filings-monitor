@@ -228,48 +228,86 @@ def fetch_house_index(year):
     return out
 
 
-# A House PTR row looks like:
-#   Bloom Energy Corporation (BE) [ST] P 07/24/2026 08/19/2026 $1,000,001 - $5,000,000
-# The [ST] asset-type tag sits between the ticker and the transaction code,
-# and is sometimes absent. Case sensitive on purpose: a lowercase "p" inside
-# a company name must not be mistaken for a purchase code.
-HOUSE_ROW_RE = re.compile(
-    r"(?P<asset>[A-Za-z0-9][^\n]{2,80}?)\s*"
-    r"(?:\((?P<ticker>[A-Z][A-Z0-9.\-]{0,6})\)\s*)?"
-    r"(?:\[[A-Za-z]{1,3}\]\s*)?"
-    r"(?P<action>S \(partial\)|[PSE])\s+"
+# House PTR rows WRAP across lines in the extracted text. A single trade
+# frequently renders as:
+#
+#   Berkshire Hathaway Inc. New P 07/28/2026 08/01/2026 $15,001 -
+#   Common Stock (BRK.B) [ST] $50,000
+#
+# So the ticker and the upper amount bound sit on the following line. Parsing
+# line by line loses both. Instead we anchor on the one thing that is always
+# contiguous, the transaction code followed by two dates, then read outward.
+
+ACTION_DATE_RE = re.compile(
+    r"(?<![A-Za-z])(?P<action>S \(partial\)|[PSE])\s+"
     r"(?P<tdate>\d{1,2}/\d{1,2}/\d{4})\s+"
-    r"(?P<ndate>\d{1,2}/\d{1,2}/\d{4})\s+"
-    r"(?P<amount>\$[\d,]+\s*[-\u2013\u2014]\s*\$[\d,]+)")
+    r"(?P<ndate>\d{1,2}/\d{1,2}/\d{4})")
+
+# Allow up to 80 characters of wrapped text between the two dollar figures.
+AMOUNT_SPAN_RE = re.compile(r"\$([\d,]+)\s*[-\u2013\u2014]\s*[^$]{0,80}?\$([\d,]+)")
+
+TICKER_RE = re.compile(r"\(([A-Z][A-Z0-9.\-]{0,6})\)")
 
 
-def parse_house_pdf(doc_id, year):
-    """Extract trade rows from a House PTR PDF. Returns [] if unreadable."""
-    try:
-        import pdfplumber
-    except ImportError:
-        log("house: pdfplumber not installed")
-        return []
+def _clean(s):
+    return re.sub(r"\s+", " ", s).strip(" .,-\u2013")
 
-    text = house_pdf_text(doc_id, year)
-    if not text.strip():
-        return []      # scanned document, would need OCR
 
+def extract_house_rows(text):
+    """Pull trade rows out of raw PTR text. Wrap-tolerant."""
     rows = []
-    for m in HOUSE_ROW_RE.finditer(text):
-        low, high = parse_amount(m.group("amount"))
-        asset = re.sub(r"\s+", " ", m.group("asset")).strip(" .-")
+    for m in ACTION_DATE_RE.finditer(text):
+        before = text[max(0, m.start() - 160):m.start()]
+        after = text[m.end():m.end() + 200]
+
+        am = AMOUNT_SPAN_RE.search(after)
+        if not am or am.start() > 90:
+            continue          # no amount close enough, not a real trade row
+        low = int(am.group(1).replace(",", ""))
+        high = int(am.group(2).replace(",", ""))
+
+        # Ticker may be before the code or after it on the wrapped line.
+        window_after = after[:am.end()]
+        tm = TICKER_RE.search(window_after)
+        if not tm:
+            hits = TICKER_RE.findall(before)
+            ticker = hits[-1] if hits else ""
+        else:
+            ticker = tm.group(1)
+        if ticker in ("ST", "OP", "PS", "RP", "SP"):
+            ticker = ""       # asset-type tags, not tickers
+
+        # Asset name spans the wrap too.
+        tail = before.split("\n")[-1] if "\n" in before else before
+        head = window_after[:tm.start()] if tm else ""
+        raw_asset = tail + " " + head
+        raw_asset = raw_asset.split("$")[0]              # drop wrapped amounts
+        raw_asset = re.sub(r"\[[A-Za-z]{1,3}\]", "", raw_asset)
+        raw_asset = re.sub(r"\([A-Z][A-Z0-9.\-]{0,6}\)", "", raw_asset)
+        raw_asset = re.sub(r"\d{1,2}/\d{1,2}/\d{4}", "", raw_asset)
+        asset = _clean(raw_asset)
+        asset = re.sub(r"^(SP|JT|DC|ST)\s+", "", asset)   # ownership prefixes
+
         try:
             td = datetime.strptime(m.group("tdate"), "%m/%d/%Y").strftime("%Y-%m-%d")
         except ValueError:
             td = ""
+
         rows.append({
-            "asset": asset,
-            "ticker": (m.group("ticker") or "").upper(),
+            "asset": asset[:70],
+            "ticker": ticker,
             "action": action_label(m.group("action")),
             "low": low, "high": high, "trade_date": td,
         })
     return rows
+
+
+def parse_house_pdf(doc_id, year):
+    """Extract trade rows from a House PTR PDF. Returns [] if unreadable."""
+    text = house_pdf_text(doc_id, year)
+    if not text.strip():
+        return []          # scanned document, would need OCR
+    return extract_house_rows(text)
 
 
 def run_house(seen, health):
@@ -345,29 +383,20 @@ def run_senate(seen, health):
         return
 
     start = (datetime.now(timezone.utc) - timedelta(days=30)).strftime("%m/%d/%Y")
-    try:
-        r = session.post(SENATE_SEARCH, data={
-            "start": "0",
-            "length": "100",
-            "report_types": "[11]",           # periodic transaction reports
-            "filer_types": "[]",
-            "submitted_start_date": start,
-            "submitted_end_date": "",
-            "candidate_state": "",
-            "senator_state": "",
-            "office_id": "",
-            "first_name": "",
-            "last_name": "",
-            "csrfmiddlewaretoken": token,
-        }, headers={"Referer": SENATE_HOME,
-                    "X-CSRFToken": token,
-                    "X-Requested-With": "XMLHttpRequest"}, timeout=45)
-    except requests.RequestException as e:
-        log(f"senate: search failed :: {e}")
-        return
-
-    if r.status_code != 200:
-        log(f"senate: search HTTP {r.status_code}")
+    r = senate_post({
+        "start": "0",
+        "length": "100",
+        "report_types": "[11]",           # periodic transaction reports
+        "filer_types": "[]",
+        "submitted_start_date": start,
+        "submitted_end_date": "",
+        "candidate_state": "",
+        "senator_state": "",
+        "office_id": "",
+        "first_name": "",
+        "last_name": "",
+    })
+    if r is None:
         return
 
     try:
@@ -520,8 +549,10 @@ def connectivity_test():
                       f"{r['trade_date']}  {r['asset'][:38]}")
 
             # Show money lines the regex did NOT claim, that is where bugs hide.
+            claimed = {r["trade_date"] for r in rows}
             unmatched = [ln for ln in money_lines
-                         if not HOUSE_ROW_RE.search(ln)][:4]
+                         if not any(d[8:10] + "/" in ln or d in ln for d in claimed)
+                         and "$" in ln][:4]
             for ln in unmatched:
                 print(f"        UNMATCHED  {ln[:110]}")
 
@@ -560,24 +591,52 @@ def house_pdf_text(doc_id, year):
     return text
 
 
+def senate_post(data, tries=3):
+    """eFD returns 503 under load. Retry before treating it as broken."""
+    token = session.cookies.get("csrftoken")
+    payload = dict(data)
+    payload["csrfmiddlewaretoken"] = token
+    wait = 2.0
+    for attempt in range(1, tries + 1):
+        try:
+            r = session.post(SENATE_SEARCH, data=payload, headers={
+                "Referer": SENATE_HOME,
+                "X-CSRFToken": token or "",
+                "X-Requested-With": "XMLHttpRequest",
+            }, timeout=45)
+        except requests.RequestException as e:
+            if attempt == tries:
+                log(f"senate: post failed :: {e}")
+                return None
+            time.sleep(wait); wait *= 2; continue
+
+        if r.status_code == 200:
+            return r
+        if r.status_code in (429, 500, 502, 503, 504):
+            if attempt == tries:
+                log(f"senate: HTTP {r.status_code} after {tries} tries")
+                return None
+            time.sleep(wait); wait *= 2; continue
+        log(f"senate: HTTP {r.status_code}")
+        return None
+    return None
+
+
 def senate_probe():
     """Row count only, for the diagnostic."""
     start = (datetime.now(timezone.utc) - timedelta(days=30)).strftime("%m/%d/%Y")
-    token = session.cookies.get("csrftoken")
+    r = senate_post({
+        "start": "0", "length": "100", "report_types": "[11]",
+        "filer_types": "[]", "submitted_start_date": start,
+        "submitted_end_date": "", "candidate_state": "", "senator_state": "",
+        "office_id": "", "first_name": "", "last_name": "",
+    })
+    if r is None:
+        return "unavailable (503 or timeout, often transient)"
     try:
-        r = session.post(SENATE_SEARCH, data={
-            "start": "0", "length": "100", "report_types": "[11]",
-            "filer_types": "[]", "submitted_start_date": start,
-            "submitted_end_date": "", "candidate_state": "", "senator_state": "",
-            "office_id": "", "first_name": "", "last_name": "",
-            "csrfmiddlewaretoken": token,
-        }, headers={"Referer": SENATE_HOME, "X-CSRFToken": token or "",
-                    "X-Requested-With": "XMLHttpRequest"}, timeout=45)
-        if r.status_code != 200:
-            return f"HTTP {r.status_code}"
         return len(r.json().get("data", []))
-    except Exception as e:
-        return f"error: {str(e)[:60]}"
+    except ValueError:
+        return "non-JSON response"
 
 
 # ---------------------------------------------------------------
