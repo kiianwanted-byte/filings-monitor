@@ -68,7 +68,7 @@ session = requests.Session()
 # Sources
 # ---------------------------------------------------------------
 
-def fetch_nasdaq(day):
+def fetch_nasdaq(day, debug=False):
     """Nasdaq's public calendar. No key, but it is picky about headers."""
     url = NASDAQ_CAL.format(date=day.strftime("%Y-%m-%d"))
     try:
@@ -91,6 +91,11 @@ def fetch_nasdaq(day):
         rows = (r.json().get("data") or {}).get("rows") or []
     except ValueError:
         return None
+
+    if debug:
+        allsyms = [(r.get("symbol") or "").upper() for r in rows]
+        print(f"    total companies reporting: {len(rows)}")
+        print(f"    sample: {', '.join(allsyms[:12])}")
 
     out = []
     for row in rows:
@@ -122,6 +127,11 @@ def fetch_finnhub(start, end):
         rows = r.json().get("earningsCalendar") or []
     except ValueError:
         return None
+
+    if debug:
+        allsyms = [(r.get("symbol") or "").upper() for r in rows]
+        print(f"    total companies reporting: {len(rows)}")
+        print(f"    sample: {', '.join(allsyms[:12])}")
 
     out = []
     for row in rows:
@@ -235,7 +245,7 @@ def connectivity_test():
         day += timedelta(days=1)
 
     print(f"\n[Nasdaq] calendar for {day}")
-    rows = fetch_nasdaq(day)
+    rows = fetch_nasdaq(day, debug=True)
     if rows is None:
         print("  FAILED. Nasdaq blocked the request or changed its format.")
         print("  Fallback: add a free FINNHUB_KEY secret.")
@@ -243,6 +253,19 @@ def connectivity_test():
         print(f"  OK. {len(rows)} watchlist companies reporting that day.")
         for r in rows[:5]:
             print(f"    {r['symbol']:6} {r['name']}")
+
+    print("\n[Nasdaq] full week probe")
+    d = datetime.now(timezone.utc).date()
+    d += timedelta(days=(7 - d.weekday()) % 7 or 0)
+    total = 0
+    for i in range(5):
+        day_i = d + timedelta(days=i)
+        got = fetch_nasdaq(day_i)
+        n = len(got) if got is not None else 0
+        total += n
+        print(f"    {day_i.strftime('%a %d %b')}: {n} watchlist companies")
+        time.sleep(0.6)
+    print(f"    week total: {total}")
 
     print(f"\n[Finnhub] key present: {'yes' if FINNHUB_KEY else 'no'}")
     if FINNHUB_KEY:
