@@ -185,13 +185,16 @@ def send_filing(chamber, member, party_state, filed_date, link, trades):
     lines = []
     for t in sorted(pushable, key=lambda x: -x["low"])[:12]:
         tick = t["ticker"] or "--"
+        mark = ("\U0001F7E2" if t["action"].startswith("BUY")
+                else "\U0001F534" if t["action"].startswith("SELL") else "")
         lines.append((f"{t['action'][:4]} {tick}",
                       f"{amount_label(t['low'], t['high'])}   {dmy(t['trade_date'])}"
-                      + ("" if t["ticker"] else f"   {t['asset'][:26]}")))
+                      + ("" if t["ticker"] else f"   {t['asset'][:26]}")
+                      + (f"  {mark}" if mark else "")))
     if len(pushable) > 12:
         lines.append(("...", f"+{len(pushable) - 12} more in the filing"))
 
-    telegram(box("CONGRESS FILING", header + [("", "")] + lines, link=link,
+    telegram(box("\U0001F4C4 CONGRESS FILING", header + [("", "")] + lines, link=link,
                  footer="Disclosed under the STOCK Act. These trades already "
                         "happened weeks ago."))
     alerts_sent += 1
@@ -210,7 +213,7 @@ def send_parse_failure(chamber, member, filed_date, link):
         ("FILED", dmy(filed_date)),
         ("NOTE", "Trade details could not be read automatically"),
     ]
-    telegram(box("CONGRESS FILING - open manually", rows, link=link,
+    telegram(box("\U0001F4C4 CONGRESS FILING - open manually", rows, link=link,
                  footer="Usually a scanned or handwritten PTR."))
     alerts_sent += 1
 
