@@ -1,0 +1,26 @@
+name: Diagnostics
+
+# Run this by hand whenever something looks broken.
+on:
+  workflow_dispatch:
+
+jobs:
+  diagnose:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - name: Congress connectivity
+        env:
+          SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+        run: python congress.py test
+        continue-on-error: true
+      - name: Earnings connectivity
+        env:
+          SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+          FINNHUB_KEY: ${{ secrets.FINNHUB_KEY }}
+        run: python earnings.py test
+        continue-on-error: true
