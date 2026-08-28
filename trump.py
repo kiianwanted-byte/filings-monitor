@@ -60,10 +60,26 @@ TRADES_HEADER = ["timestamp", "filing_date", "ticker", "asset", "action",
 
 # OGE publishes through a Lotus Notes application. These are the entry points
 # worth trying; the diagnostic reports which of them actually respond.
+# OGE runs a Lotus Domino application. Domino views expose a structured feed
+# via ?ReadViewEntries, which is far more reliable than scraping the rendered
+# HTML, where the links are document handles rather than files.
+VIEW_BASE = "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index"
+
 INDEX_CANDIDATES = [
-    "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index?OpenView",
-    "https://extapps2.oge.gov/201/Presiden.nsf/PAS%20Index?OpenView",
-    "https://extapps2.oge.gov/201/Presiden.nsf/Legacy+Index?OpenView",
+    VIEW_BASE + "?ReadViewEntries&Count=1000",
+    VIEW_BASE + "?ReadViewEntries&Count=1000&OutputFormat=JSON",
+    VIEW_BASE + "?OpenView&Count=1000",
+    VIEW_BASE + "?OpenView",
+]
+
+# Known filings, used only if discovery fails entirely. Lets the parser and
+# alerting run end to end rather than the whole module sitting dead.
+SEED_FILINGS = [
+    "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/2BF91F890F718ACB85258E5B002DE16B/$FILE/Donald-J-Trump-08.12.2026-278T.pdf",
+    "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/F9CA13B970439E8F85258E27002DDF15/$FILE/Donald-J-Trump-06.25.2026-278T%20(2).pdf",
+    "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/405E4EC4E27BE8D185258DF7002DD1C0/$FILE/Trump,%20Donald%20J.-05.08.2026-278T(2).pdf",
+    "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/5326D3AF5BE7C25385258DF7002DD1B7/$FILE/Trump,%20Donald%20J.-05.08.2026-278T.pdf",
+    "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/CD75555856A7D2E485258DE4002DD4A0/$FILE/Donald-J-Trump-4.20.2026-278T.pdf",
 ]
 
 session = requests.Session()
@@ -233,14 +249,57 @@ def pdf_text(content, max_pages=200):
 # Discovery
 # ---------------------------------------------------------------
 
+# Domino renders attachment links in a few shapes depending on the view.
 PDF_LINK_RE = re.compile(r'href="([^"]*\.pdf[^"]*)"', re.IGNORECASE)
+ATTACH_RE = re.compile(r'([A-F0-9]{32})[^"\'<>]*?\$FILE/([^"\'<>]+?\.pdf)',
+                       re.IGNORECASE)
+UNID_RE = re.compile(r'unid="([A-F0-9]{32})"', re.IGNORECASE)
 
 
-def find_filings():
+def absolutise(href):
+    if href.startswith("http"):
+        return href
+    if href.startswith("/"):
+        return "https://extapps2.oge.gov" + href
+    return "https://extapps2.oge.gov/" + href
+
+
+def is_trump_278t(label):
+    low = label.lower()
+    if "trump" not in low:
+        return False
+    flat = label.upper().replace("-", "").replace(" ", "")
+    return "278T" in flat
+
+
+def harvest(html):
+    """Pull every plausible Trump 278-T attachment URL out of a page."""
+    out, seen = [], set()
+
+    for href in PDF_LINK_RE.findall(html):
+        full = absolutise(href)
+        label = requests.utils.unquote(full.split("/")[-1])
+        if is_trump_278t(label) and full not in seen:
+            seen.add(full)
+            out.append({"url": full, "label": label})
+
+    for unid, fname in ATTACH_RE.findall(html):
+        label = requests.utils.unquote(fname)
+        if not is_trump_278t(label):
+            continue
+        full = f"{VIEW_BASE}/{unid}/$FILE/{fname}"
+        if full not in seen:
+            seen.add(full)
+            out.append({"url": full, "label": label})
+
+    return out
+
+
+def find_filings(verbose=False):
     """Returns a list of {url, label} for Trump 278-T documents."""
     for url in INDEX_CANDIDATES:
         try:
-            r = session.get(url, timeout=45)
+            r = session.get(url, timeout=60)
         except requests.RequestException as e:
             log(f"index unreachable {url} :: {e}")
             continue
@@ -248,23 +307,29 @@ def find_filings():
             log(f"index HTTP {r.status_code} {url}")
             continue
 
-        found = []
-        for href in PDF_LINK_RE.findall(r.text):
-            full = href if href.startswith("http") else \
-                "https://extapps2.oge.gov" + (href if href.startswith("/") else "/" + href)
-            label = requests.utils.unquote(full.split("/")[-1])
-            if "trump" not in label.lower():
-                continue
-            if "278-T" not in label and "278T" not in label.upper():
-                continue
-            found.append({"url": full, "label": label})
+        found = harvest(r.text)
+        if verbose:
+            print(f"    {url}")
+            print(f"      HTTP 200, {len(r.text)} chars, "
+                  f"{len(PDF_LINK_RE.findall(r.text))} pdf hrefs, "
+                  f"{len(ATTACH_RE.findall(r.text))} attachment refs, "
+                  f"{len(UNID_RE.findall(r.text))} view entries, "
+                  f"{len(found)} Trump 278-T")
+            if not found:
+                sample = re.findall(r'href="([^"]{10,110})"', r.text)[:5]
+                for s in sample:
+                    print(f"        sample href: {s}")
 
         if found:
             log(f"index ok: {url}, {len(found)} Trump 278-T documents")
+            found.sort(key=lambda f: label_date(f["label"]), reverse=True)
             return found
 
-    log("no OGE index responded with Trump 278-T links")
-    return []
+    log("discovery failed, falling back to seed list")
+    seeds = [{"url": u, "label": requests.utils.unquote(u.split("/")[-1])}
+             for u in SEED_FILINGS]
+    seeds.sort(key=lambda f: label_date(f["label"]), reverse=True)
+    return seeds
 
 
 def label_date(label):
@@ -369,11 +434,9 @@ def process(filing, seen):
 def connectivity_test():
     print("=== TRUMP 278-T CONNECTIVITY TEST ===")
     print("\n[OGE] index candidates")
-    filings = find_filings()
+    filings = find_filings(verbose=True)
     if not filings:
-        print("  FAILED. No index URL returned Trump 278-T links.")
-        print("  Next step: open extapps2.oge.gov in a browser, find the")
-        print("  Trump filings page, and send me that URL.")
+        print("  FAILED. No index responded and no seeds configured.")
         print("\n=== END ===")
         return
 
