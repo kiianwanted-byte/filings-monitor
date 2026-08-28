@@ -70,6 +70,8 @@ INDEX_CANDIDATES = [
     VIEW_BASE + "?ReadViewEntries&Count=1000&OutputFormat=JSON",
     VIEW_BASE + "?OpenView&Count=1000",
     VIEW_BASE + "?OpenView",
+    "https://www.oge.gov/web/OGE.nsf/Officials%20Individual%20Disclosures%20Search%20Collection",
+    "https://open-cabinet.org/officials/trump-donald-j",
 ]
 
 # Known filings, used only if discovery fails entirely. Lets the parser and
@@ -393,7 +395,8 @@ def aggregate(rows):
     """
     agg = {}
     for r in rows:
-        key = (r["ticker"], r["action"])
+        ident = r["ticker"] or re.sub(r"\s+", " ", r["asset"]).strip().lower()[:28]
+        key = (ident, r["action"])
         a = agg.setdefault(key, {"ticker": r["ticker"], "action": r["action"],
                                  "count": 0, "low": 0, "high": 0,
                                  "first": "", "last": "", "asset": r["asset"]})
@@ -589,7 +592,8 @@ def send_filing(label, link, filed, rows):
     for a in big[:MAX_LINES_IN_MESSAGE]:
         mark = "\U0001F7E2" if a["action"] == "BUY" else \
                "\U0001F534" if a["action"] == "SELL" else ""
-        lines.append((f"{a['action'][:4]} {a['ticker']}",
+        label = a["ticker"] or a["asset"][:16]
+        lines.append((f"{a['action'][:4]} {label}",
                       f"{a['count']}x   {money(a['low'])} - {money(a['high'])}"
                       + (f"  {mark}" if mark else "")))
     if len(big) > MAX_LINES_IN_MESSAGE:
@@ -653,8 +657,8 @@ def connectivity_test():
         eq = [x for x in rows if is_equity(x)]
         print(f"  rows parsed: {len(rows)}, equity rows: {len(eq)}")
         for a in sorted(aggregate(eq), key=lambda x: -x["low"])[:8]:
-            print(f"    {a['action']:5} {a['ticker']:6} {a['count']}x  "
-                  f"{money(a['low'])} - {money(a['high'])}")
+            print(f"    {a['action']:5} {(a['ticker'] or a['asset'][:16]):16} "
+                  f"{a['count']}x  {money(a['low'])} - {money(a['high'])}")
         if not eq:
             print("  Sample lines containing '$' for tuning:")
             for ln in [l.strip() for l in text.splitlines() if "$" in l][:6]:
