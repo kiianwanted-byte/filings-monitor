@@ -197,3 +197,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-08-28T22:18:20+00:00,INSIDER_BUY,ATTO,"Attovia Therapeutics, Inc.",WALSH COLIN $10.29M,10285000,23,https://www.sec.gov/Archives/edgar/data/2058707/000186617426000011/0001866174-26-000011-index.htm,MEDIUM
 2026-08-28T22:18:22+00:00,INSIDER_CLUSTER,ATTO,"Attovia Therapeutics, Inc.",GOLDMAN SACHS GROUP INC $10.29M,10285000,23,https://www.sec.gov/Archives/edgar/data/2148331/000088698226000522/0000886982-26-000522-index.htm,HIGH
 2026-08-28T22:18:23+00:00,INSIDER_BUY,RNAQ,Rainier Acquisition Corp,GROSSMAN JONAS $1.94M,1943750,0,https://www.sec.gov/Archives/edgar/data/2152033/000110465926103344/0001104659-26-103344-index.htm,MEDIUM
+2026-08-28T22:25:53+00:00,FORM_144,,"Hinge Health, Inc.",proposed sale $6.03M,6027030,,https://www.sec.gov/Archives/edgar/data/1897385/000197407826000336/0001974078-26-000336-index.htm,MEDIUM
+2026-08-28T22:25:54+00:00,FORM_144,,"Paycom Software, Inc.",proposed sale $668K,667979,,https://www.sec.gov/Archives/edgar/data/2082976/000119312526374865/0001193125-26-374865-index.htm,LOW
+2026-08-28T22:25:55+00:00,FORM_144,,"Attovia Therapeutics, Inc.",proposed sale $2.22M,2221947,,https://www.sec.gov/Archives/edgar/data/2058707/000089183626000065/0000891836-26-000065-index.htm,LOW
+2026-08-28T22:25:55+00:00,FORM_144,,TFS FINANCIAL CORPORATION,proposed sale $11K,10801,,https://www.sec.gov/Archives/edgar/data/1530997/000195004726008834/0001950047-26-008834-index.htm,LOW
+2026-08-28T22:25:55+00:00,8K,,"SeeQC, Inc.",items 1.02,,,https://www.sec.gov/Archives/edgar/data/1779977/000121390026095141/0001213900-26-095141-index.htm,LOW
