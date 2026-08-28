@@ -1,1085 +1,5 @@
 [
 {
-"key": "4|0000950103-26-013148",
-"form": "4",
-"accession": "0000950103-26-013148",
-"company": "ROYAL BANK OF CANADA",
-"cik": "0001000275",
-"link": "https://www.sec.gov/Archives/edgar/data/1000275/000095010326013148/0000950103-26-013148-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0001493152-26-040662",
-"form": "4",
-"accession": "0001493152-26-040662",
-"company": "WIRTH JAMES F",
-"cik": "0001055365",
-"link": "https://www.sec.gov/Archives/edgar/data/1055365/000149315226040662/0001493152-26-040662-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0001193125-26-374789",
-"form": "4",
-"accession": "0001193125-26-374789",
-"company": "Boundless Bio, Inc.",
-"cik": "0001782303",
-"link": "https://www.sec.gov/Archives/edgar/data/1782303/000119312526374789/0001193125-26-374789-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0001213900-26-095200",
-"form": "4",
-"accession": "0001213900-26-095200",
-"company": "JPMORGAN CHASE & CO",
-"cik": "0000019617",
-"link": "https://www.sec.gov/Archives/edgar/data/19617/000121390026095200/0001213900-26-095200-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0001140361-26-034865",
-"form": "4",
-"accession": "0001140361-26-034865",
-"company": "BlackRock TCP Capital Corp.",
-"cik": "0001370755",
-"link": "https://www.sec.gov/Archives/edgar/data/1370755/000114036126034865/0001140361-26-034865-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0001918704-26-025557",
-"form": "4",
-"accession": "0001918704-26-025557",
-"company": "BofA Finance LLC",
-"cik": "0001682472",
-"link": "https://www.sec.gov/Archives/edgar/data/1682472/000191870426025557/0001918704-26-025557-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0001398344-26-016069",
-"form": "4",
-"accession": "0001398344-26-016069",
-"company": "FINANCIAL INVESTORS TRUST",
-"cik": "0000915802",
-"link": "https://www.sec.gov/Archives/edgar/data/915802/000139834426016069/0001398344-26-016069-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0000950103-26-013147",
-"form": "4",
-"accession": "0000950103-26-013147",
-"company": "ROYAL BANK OF CANADA",
-"cik": "0001000275",
-"link": "https://www.sec.gov/Archives/edgar/data/1000275/000095010326013147/0000950103-26-013147-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0001213900-26-095199",
-"form": "4",
-"accession": "0001213900-26-095199",
-"company": "JPMORGAN CHASE & CO",
-"cik": "0000019617",
-"link": "https://www.sec.gov/Archives/edgar/data/19617/000121390026095199/0001213900-26-095199-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0001140361-26-034863",
-"form": "4",
-"accession": "0001140361-26-034863",
-"company": "Jefferies Financial Group Inc.",
-"cik": "0000096223",
-"link": "https://www.sec.gov/Archives/edgar/data/96223/000114036126034863/0001140361-26-034863-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0001193125-26-374780",
-"form": "4",
-"accession": "0001193125-26-374780",
-"company": "Blecharczyk Nathan",
-"cik": "0001834147",
-"link": "https://www.sec.gov/Archives/edgar/data/1834147/000119312526374780/0001193125-26-374780-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0001140361-26-034862",
-"form": "4",
-"accession": "0001140361-26-034862",
-"company": "Jefferies Financial Group Inc.",
-"cik": "0000096223",
-"link": "https://www.sec.gov/Archives/edgar/data/96223/000114036126034862/0001140361-26-034862-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0001749355-26-000006",
-"form": "4",
-"accession": "0001749355-26-000006",
-"company": "KIM HENRY",
-"cik": "0001749355",
-"link": "https://www.sec.gov/Archives/edgar/data/1749355/000174935526000006/0001749355-26-000006-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0001918704-26-025556",
-"form": "4",
-"accession": "0001918704-26-025556",
-"company": "BofA Finance LLC",
-"cik": "0001682472",
-"link": "https://www.sec.gov/Archives/edgar/data/1682472/000191870426025556/0001918704-26-025556-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0001398344-26-016068",
-"form": "4",
-"accession": "0001398344-26-016068",
-"company": "FINANCIAL INVESTORS TRUST",
-"cik": "0000915802",
-"link": "https://www.sec.gov/Archives/edgar/data/915802/000139834426016068/0001398344-26-016068-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0001213900-26-095195",
-"form": "4",
-"accession": "0001213900-26-095195",
-"company": "JPMorgan Chase Financial Co. LLC",
-"cik": "0001665650",
-"link": "https://www.sec.gov/Archives/edgar/data/1665650/000121390026095195/0001213900-26-095195-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0001398344-26-016067",
-"form": "4",
-"accession": "0001398344-26-016067",
-"company": "FINANCIAL INVESTORS TRUST",
-"cik": "0000915802",
-"link": "https://www.sec.gov/Archives/edgar/data/915802/000139834426016067/0001398344-26-016067-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0001398344-26-016066",
-"form": "4",
-"accession": "0001398344-26-016066",
-"company": "STERLING CAPITAL FUNDS",
-"cik": "0000889284",
-"link": "https://www.sec.gov/Archives/edgar/data/889284/000139834426016066/0001398344-26-016066-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0001108524-26-000192",
-"form": "4",
-"accession": "0001108524-26-000192",
-"company": "Harris Parker",
-"cik": "0001294774",
-"link": "https://www.sec.gov/Archives/edgar/data/1294774/000110852426000192/0001108524-26-000192-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0001288952-26-000006",
-"form": "4",
-"accession": "0001288952-26-000006",
-"company": "SCHMERTZLER MICHAEL",
-"cik": "0001288952",
-"link": "https://www.sec.gov/Archives/edgar/data/1288952/000128895226000006/0001288952-26-000006-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0001163739-26-000056",
-"form": "4",
-"accession": "0001163739-26-000056",
-"company": "Tudor David J",
-"cik": "0001432308",
-"link": "https://www.sec.gov/Archives/edgar/data/1432308/000116373926000056/0001163739-26-000056-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0002078339-26-000012",
-"form": "4",
-"accession": "0002078339-26-000012",
-"company": "Hanson Scott McLean",
-"cik": "0002078339",
-"link": "https://www.sec.gov/Archives/edgar/data/2078339/000207833926000012/0002078339-26-000012-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0001918704-26-025555",
-"form": "4",
-"accession": "0001918704-26-025555",
-"company": "BofA Finance LLC",
-"cik": "0001682472",
-"link": "https://www.sec.gov/Archives/edgar/data/1682472/000191870426025555/0001918704-26-025555-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0001536588-26-000029",
-"form": "4",
-"accession": "0001536588-26-000029",
-"company": "Bradley Melinda Hodges",
-"cik": "0002141919",
-"link": "https://www.sec.gov/Archives/edgar/data/2141919/000153658826000029/0001536588-26-000029-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0001193125-26-374764",
-"form": "4",
-"accession": "0001193125-26-374764",
-"company": "STATE STREET INSTITUTIONAL INVESTMENT TRUST",
-"cik": "0001107414",
-"link": "https://www.sec.gov/Archives/edgar/data/1107414/000119312526374764/0001193125-26-374764-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0001999371-26-019228",
-"form": "4",
-"accession": "0001999371-26-019228",
-"company": "Collaborative Investment Series Trust",
-"cik": "0001719812",
-"link": "https://www.sec.gov/Archives/edgar/data/1719812/000199937126019228/0001999371-26-019228-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0001999371-26-019227",
-"form": "4",
-"accession": "0001999371-26-019227",
-"company": "Collaborative Investment Series Trust",
-"cik": "0001719812",
-"link": "https://www.sec.gov/Archives/edgar/data/1719812/000199937126019227/0001999371-26-019227-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0001193125-26-374749",
-"form": "4",
-"accession": "0001193125-26-374749",
-"company": "GS Finance Corp.",
-"cik": "0001419828",
-"link": "https://www.sec.gov/Archives/edgar/data/1419828/000119312526374749/0001193125-26-374749-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0001193125-26-374747",
-"form": "4",
-"accession": "0001193125-26-374747",
-"company": "Jeldi Arun",
-"cik": "0002050529",
-"link": "https://www.sec.gov/Archives/edgar/data/2050529/000119312526374747/0001193125-26-374747-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0001918704-26-025554",
-"form": "4",
-"accession": "0001918704-26-025554",
-"company": "BofA Finance LLC",
-"cik": "0001682472",
-"link": "https://www.sec.gov/Archives/edgar/data/1682472/000191870426025554/0001918704-26-025554-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0001999371-26-019226",
-"form": "4",
-"accession": "0001999371-26-019226",
-"company": "Collaborative Investment Series Trust",
-"cik": "0001719812",
-"link": "https://www.sec.gov/Archives/edgar/data/1719812/000199937126019226/0001999371-26-019226-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0001979116-26-000010",
-"form": "4",
-"accession": "0001979116-26-000010",
-"company": "Cerwin Brittany C",
-"cik": "0001979116",
-"link": "https://www.sec.gov/Archives/edgar/data/1979116/000197911626000010/0001979116-26-000010-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0000950103-26-013146",
-"form": "4",
-"accession": "0000950103-26-013146",
-"company": "ROYAL BANK OF CANADA",
-"cik": "0001000275",
-"link": "https://www.sec.gov/Archives/edgar/data/1000275/000095010326013146/0000950103-26-013146-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0001213900-26-095190",
-"form": "4",
-"accession": "0001213900-26-095190",
-"company": "JPMorgan Chase Financial Co. LLC",
-"cik": "0001665650",
-"link": "https://www.sec.gov/Archives/edgar/data/1665650/000121390026095190/0001213900-26-095190-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0001104659-26-103329",
-"form": "4",
-"accession": "0001104659-26-103329",
-"company": "GMR Solutions Inc.",
-"cik": "0001898718",
-"link": "https://www.sec.gov/Archives/edgar/data/1898718/000110465926103329/0001104659-26-103329-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0001847250-26-000008",
-"form": "4",
-"accession": "0001847250-26-000008",
-"company": "Pool III James K",
-"cik": "0001847250",
-"link": "https://www.sec.gov/Archives/edgar/data/1847250/000184725026000008/0001847250-26-000008-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0000077543-26-000197",
-"form": "4",
-"accession": "0000077543-26-000197",
-"company": "REISS DALE ANNE",
-"cik": "0001438802",
-"link": "https://www.sec.gov/Archives/edgar/data/1438802/000007754326000197/0000077543-26-000197-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0001847239-26-000008",
-"form": "4",
-"accession": "0001847239-26-000008",
-"company": "Spittle Steve",
-"cik": "0001847239",
-"link": "https://www.sec.gov/Archives/edgar/data/1847239/000184723926000008/0001847239-26-000008-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0001628280-26-059441",
-"form": "4",
-"accession": "0001628280-26-059441",
-"company": "Tartara Diego",
-"cik": "0001975513",
-"link": "https://www.sec.gov/Archives/edgar/data/1975513/000162828026059441/0001628280-26-059441-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0001918704-26-025553",
-"form": "4",
-"accession": "0001918704-26-025553",
-"company": "BofA Finance LLC",
-"cik": "0001682472",
-"link": "https://www.sec.gov/Archives/edgar/data/1682472/000191870426025553/0001918704-26-025553-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0001248449-26-000009",
-"form": "4",
-"accession": "0001248449-26-000009",
-"company": "FITZGERALD TIMOTHY JOHN",
-"cik": "0001248449",
-"link": "https://www.sec.gov/Archives/edgar/data/1248449/000124844926000009/0001248449-26-000009-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0001104659-26-103325",
-"form": "4",
-"accession": "0001104659-26-103325",
-"company": "GMR Solutions Inc.",
-"cik": "0001898718",
-"link": "https://www.sec.gov/Archives/edgar/data/1898718/000110465926103325/0001104659-26-103325-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0001104659-26-103321",
-"form": "4",
-"accession": "0001104659-26-103321",
-"company": "HSBC USA INC /MD/",
-"cik": "0000083246",
-"link": "https://www.sec.gov/Archives/edgar/data/83246/000110465926103321/0001104659-26-103321-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0001999371-26-019224",
-"form": "4",
-"accession": "0001999371-26-019224",
-"company": "Collaborative Investment Series Trust",
-"cik": "0001719812",
-"link": "https://www.sec.gov/Archives/edgar/data/1719812/000199937126019224/0001999371-26-019224-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0000950103-26-013145",
-"form": "4",
-"accession": "0000950103-26-013145",
-"company": "ROYAL BANK OF CANADA",
-"cik": "0001000275",
-"link": "https://www.sec.gov/Archives/edgar/data/1000275/000095010326013145/0000950103-26-013145-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0001213900-26-095183",
-"form": "4",
-"accession": "0001213900-26-095183",
-"company": "JPMorgan Chase Financial Co. LLC",
-"cik": "0001665650",
-"link": "https://www.sec.gov/Archives/edgar/data/1665650/000121390026095183/0001213900-26-095183-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0001918704-26-025552",
-"form": "4",
-"accession": "0001918704-26-025552",
-"company": "BofA Finance LLC",
-"cik": "0001682472",
-"link": "https://www.sec.gov/Archives/edgar/data/1682472/000191870426025552/0001918704-26-025552-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0001918704-26-025551",
-"form": "4",
-"accession": "0001918704-26-025551",
-"company": "BofA Finance LLC",
-"cik": "0001682472",
-"link": "https://www.sec.gov/Archives/edgar/data/1682472/000191870426025551/0001918704-26-025551-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0001213900-26-095181",
-"form": "4",
-"accession": "0001213900-26-095181",
-"company": "T1 Energy Inc.",
-"cik": "0001992243",
-"link": "https://www.sec.gov/Archives/edgar/data/1992243/000121390026095181/0001213900-26-095181-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0001918704-26-025550",
-"form": "4",
-"accession": "0001918704-26-025550",
-"company": "BofA Finance LLC",
-"cik": "0001682472",
-"link": "https://www.sec.gov/Archives/edgar/data/1682472/000191870426025550/0001918704-26-025550-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0001213900-26-095180",
-"form": "4",
-"accession": "0001213900-26-095180",
-"company": "Cambria ETF Trust",
-"cik": "0001529390",
-"link": "https://www.sec.gov/Archives/edgar/data/1529390/000121390026095180/0001213900-26-095180-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0001193125-26-374732",
-"form": "4",
-"accession": "0001193125-26-374732",
-"company": "GS Finance Corp.",
-"cik": "0001419828",
-"link": "https://www.sec.gov/Archives/edgar/data/1419828/000119312526374732/0001193125-26-374732-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0001104659-26-103317",
-"form": "4",
-"accession": "0001104659-26-103317",
-"company": "Desai Amar",
-"cik": "0002143425",
-"link": "https://www.sec.gov/Archives/edgar/data/2143425/000110465926103317/0001104659-26-103317-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0000894189-26-024220",
-"form": "4",
-"accession": "0000894189-26-024220",
-"company": "HOTCHKIS & WILEY FUNDS /DE/",
-"cik": "0001145022",
-"link": "https://www.sec.gov/Archives/edgar/data/1145022/000089418926024220/0000894189-26-024220-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0000894189-26-024219",
-"form": "4",
-"accession": "0000894189-26-024219",
-"company": "HOTCHKIS & WILEY FUNDS /DE/",
-"cik": "0001145022",
-"link": "https://www.sec.gov/Archives/edgar/data/1145022/000089418926024219/0000894189-26-024219-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0000894189-26-024218",
-"form": "4",
-"accession": "0000894189-26-024218",
-"company": "HOTCHKIS & WILEY FUNDS /DE/",
-"cik": "0001145022",
-"link": "https://www.sec.gov/Archives/edgar/data/1145022/000089418926024218/0000894189-26-024218-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0000950103-26-013144",
-"form": "4",
-"accession": "0000950103-26-013144",
-"company": "ROYAL BANK OF CANADA",
-"cik": "0001000275",
-"link": "https://www.sec.gov/Archives/edgar/data/1000275/000095010326013144/0000950103-26-013144-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0001193125-26-374730",
-"form": "4",
-"accession": "0001193125-26-374730",
-"company": "GS Finance Corp.",
-"cik": "0001419828",
-"link": "https://www.sec.gov/Archives/edgar/data/1419828/000119312526374730/0001193125-26-374730-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0001398344-26-016058",
-"form": "4",
-"accession": "0001398344-26-016058",
-"company": "FINANCIAL INVESTORS TRUST",
-"cik": "0000915802",
-"link": "https://www.sec.gov/Archives/edgar/data/915802/000139834426016058/0001398344-26-016058-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "4|0001104659-26-103314",
-"form": "4",
-"accession": "0001104659-26-103314",
-"company": "BLACK DOUG",
-"cik": "0001672083",
-"link": "https://www.sec.gov/Archives/edgar/data/1672083/000110465926103314/0001104659-26-103314-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "144|0001950047-26-008833",
-"form": "144",
-"accession": "0001950047-26-008833",
-"company": "ADI GLOBAL DISTRIBUTION INC.",
-"cik": "0002105139",
-"link": "https://www.sec.gov/Archives/edgar/data/2105139/000195004726008833/0001950047-26-008833-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "144|0001950047-26-008832",
-"form": "144",
-"accession": "0001950047-26-008832",
-"company": "Anderson Barbara J.",
-"cik": "0001850133",
-"link": "https://www.sec.gov/Archives/edgar/data/1850133/000195004726008832/0001950047-26-008832-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "144|0001950047-26-008831",
-"form": "144",
-"accession": "0001950047-26-008831",
-"company": "Britt Christopher R",
-"cik": "0002061801",
-"link": "https://www.sec.gov/Archives/edgar/data/2061801/000195004726008831/0001950047-26-008831-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "144|0001950047-26-008829",
-"form": "144",
-"accession": "0001950047-26-008829",
-"company": "Shefman Randy",
-"cik": "0001796187",
-"link": "https://www.sec.gov/Archives/edgar/data/1796187/000195004726008829/0001950047-26-008829-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "144|0001959173-26-006532",
-"form": "144",
-"accession": "0001959173-26-006532",
-"company": "Blecharczyk Nathan",
-"cik": "0001834147",
-"link": "https://www.sec.gov/Archives/edgar/data/1834147/000195917326006532/0001959173-26-006532-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "144|0001628280-26-059429",
-"form": "144",
-"accession": "0001628280-26-059429",
-"company": "L Catterton, L.P.",
-"cik": "0001917736",
-"link": "https://www.sec.gov/Archives/edgar/data/1917736/000162828026059429/0001628280-26-059429-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "144|0001950047-26-008828",
-"form": "144",
-"accession": "0001950047-26-008828",
-"company": "Eisen Anthony Mathew",
-"cik": "0001933928",
-"link": "https://www.sec.gov/Archives/edgar/data/1933928/000195004726008828/0001950047-26-008828-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "144|0001948454-26-000007",
-"form": "144",
-"accession": "0001948454-26-000007",
-"company": "Lyon Shawn M",
-"cik": "0001948454",
-"link": "https://www.sec.gov/Archives/edgar/data/1948454/000194845426000007/0001948454-26-000007-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "144|0001950047-26-008827",
-"form": "144",
-"accession": "0001950047-26-008827",
-"company": "La Lande Rashida",
-"cik": "0001728090",
-"link": "https://www.sec.gov/Archives/edgar/data/1728090/000195004726008827/0001950047-26-008827-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "144|0001950047-26-008826",
-"form": "144",
-"accession": "0001950047-26-008826",
-"company": "Creed Joseph E",
-"cik": "0001739859",
-"link": "https://www.sec.gov/Archives/edgar/data/1739859/000195004726008826/0001950047-26-008826-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "144|0001950047-26-008825",
-"form": "144",
-"accession": "0001950047-26-008825",
-"company": "Eigenmann Philip D",
-"cik": "0001721984",
-"link": "https://www.sec.gov/Archives/edgar/data/1721984/000195004726008825/0001950047-26-008825-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "144|0001974078-26-000335",
-"form": "144",
-"accession": "0001974078-26-000335",
-"company": "Eton Pharmaceuticals, Inc.",
-"cik": "0001710340",
-"link": "https://www.sec.gov/Archives/edgar/data/1710340/000197407826000335/0001974078-26-000335-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "144|0001950047-26-008824",
-"form": "144",
-"accession": "0001950047-26-008824",
-"company": "GALLAGHER JOHN R",
-"cik": "0001967117",
-"link": "https://www.sec.gov/Archives/edgar/data/1967117/000195004726008824/0001950047-26-008824-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "144|0001950047-26-008823",
-"form": "144",
-"accession": "0001950047-26-008823",
-"company": "JFrog Ltd",
-"cik": "0001800667",
-"link": "https://www.sec.gov/Archives/edgar/data/1800667/000195004726008823/0001950047-26-008823-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "144|0001959173-26-006531",
-"form": "144",
-"accession": "0001959173-26-006531",
-"company": "Remer Eric Richard",
-"cik": "0001856906",
-"link": "https://www.sec.gov/Archives/edgar/data/1856906/000195917326006531/0001959173-26-006531-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "144|0001950047-26-008822",
-"form": "144",
-"accession": "0001950047-26-008822",
-"company": "Johnson Susan A",
-"cik": "0001899654",
-"link": "https://www.sec.gov/Archives/edgar/data/1899654/000195004726008822/0001950047-26-008822-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "144|0001959173-26-006530",
-"form": "144",
-"accession": "0001959173-26-006530",
-"company": "Vaid Helen",
-"cik": "0001807907",
-"link": "https://www.sec.gov/Archives/edgar/data/1807907/000195917326006530/0001959173-26-006530-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "144|0001959173-26-006529",
-"form": "144",
-"accession": "0001959173-26-006529",
-"company": "OLIVO MARIA",
-"cik": "0001224083",
-"link": "https://www.sec.gov/Archives/edgar/data/1224083/000195917326006529/0001959173-26-006529-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "144|0001950047-26-008821",
-"form": "144",
-"accession": "0001950047-26-008821",
-"company": "Cancelmo Peter B",
-"cik": "0001778968",
-"link": "https://www.sec.gov/Archives/edgar/data/1778968/000195004726008821/0001950047-26-008821-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "144|0001965301-26-000133",
-"form": "144",
-"accession": "0001965301-26-000133",
-"company": "Venker Eric",
-"cik": "0001801917",
-"link": "https://www.sec.gov/Archives/edgar/data/1801917/000196530126000133/0001965301-26-000133-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "144|0001921094-26-000966",
-"form": "144",
-"accession": "0001921094-26-000966",
-"company": "Blum Alexander",
-"cik": "0002042056",
-"link": "https://www.sec.gov/Archives/edgar/data/2042056/000192109426000966/0001921094-26-000966-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "144|0001950047-26-008820",
-"form": "144",
-"accession": "0001950047-26-008820",
-"company": "Drucker Mann Lindsay",
-"cik": "0002008127",
-"link": "https://www.sec.gov/Archives/edgar/data/2008127/000195004726008820/0001950047-26-008820-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "144|0002106698-26-000004",
-"form": "144",
-"accession": "0002106698-26-000004",
-"company": "Cummings George W. III",
-"cik": "0002106698",
-"link": "https://www.sec.gov/Archives/edgar/data/2106698/000210669826000004/0002106698-26-000004-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "144|0001921094-26-000965",
-"form": "144",
-"accession": "0001921094-26-000965",
-"company": "Peterson Michael",
-"cik": "0001745371",
-"link": "https://www.sec.gov/Archives/edgar/data/1745371/000192109426000965/0001921094-26-000965-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "144|0001950047-26-008819",
-"form": "144",
-"accession": "0001950047-26-008819",
-"company": "Affirm Holdings, Inc.",
-"cik": "0001820953",
-"link": "https://www.sec.gov/Archives/edgar/data/1820953/000195004726008819/0001950047-26-008819-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "144|0001950047-26-008818",
-"form": "144",
-"accession": "0001950047-26-008818",
-"company": "Edmond Landon",
-"cik": "0001991399",
-"link": "https://www.sec.gov/Archives/edgar/data/1991399/000195004726008818/0001950047-26-008818-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "144|0001950047-26-008817",
-"form": "144",
-"accession": "0001950047-26-008817",
-"company": "Dignan Andy",
-"cik": "0002000932",
-"link": "https://www.sec.gov/Archives/edgar/data/2000932/000195004726008817/0001950047-26-008817-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "144|0001921094-26-000964",
-"form": "144",
-"accession": "0001921094-26-000964",
-"company": "ARNOLD FRANCES",
-"cik": "0001665419",
-"link": "https://www.sec.gov/Archives/edgar/data/1665419/000192109426000964/0001921094-26-000964-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "144|0001950047-26-008816",
-"form": "144",
-"accession": "0001950047-26-008816",
-"company": "KENNEY CHRISTOPHER JOHN",
-"cik": "0001880129",
-"link": "https://www.sec.gov/Archives/edgar/data/1880129/000195004726008816/0001950047-26-008816-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "144|0001950047-26-008815",
-"form": "144",
-"accession": "0001950047-26-008815",
-"company": "Sharma Pankaj",
-"cik": "0001999488",
-"link": "https://www.sec.gov/Archives/edgar/data/1999488/000195004726008815/0001950047-26-008815-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "144|0001950047-26-008814",
-"form": "144",
-"accession": "0001950047-26-008814",
-"company": "HENDRICKSON THOMAS",
-"cik": "0001238978",
-"link": "https://www.sec.gov/Archives/edgar/data/1238978/000195004726008814/0001950047-26-008814-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "144|0001950047-26-008813",
-"form": "144",
-"accession": "0001950047-26-008813",
-"company": "Mulligan Brendan",
-"cik": "0002073801",
-"link": "https://www.sec.gov/Archives/edgar/data/2073801/000195004726008813/0001950047-26-008813-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "144|0001950047-26-008812",
-"form": "144",
-"accession": "0001950047-26-008812",
-"company": "Dennehy Robert",
-"cik": "0001588004",
-"link": "https://www.sec.gov/Archives/edgar/data/1588004/000195004726008812/0001950047-26-008812-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "144|0001950047-26-008811",
-"form": "144",
-"accession": "0001950047-26-008811",
-"company": "Vistance Networks, Inc.",
-"cik": "0001517228",
-"link": "https://www.sec.gov/Archives/edgar/data/1517228/000195004726008811/0001950047-26-008811-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "144|0001950047-26-008810",
-"form": "144",
-"accession": "0001950047-26-008810",
-"company": "Arora Tarun",
-"cik": "0002057569",
-"link": "https://www.sec.gov/Archives/edgar/data/2057569/000195004726008810/0001950047-26-008810-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "144|0001921094-26-000963",
-"form": "144",
-"accession": "0001921094-26-000963",
-"company": "Bruls Annette",
-"cik": "0002032351",
-"link": "https://www.sec.gov/Archives/edgar/data/2032351/000192109426000963/0001921094-26-000963-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "144|0001969223-26-000966",
-"form": "144",
-"accession": "0001969223-26-000966",
-"company": "Xometry, Inc.",
-"cik": "0001657573",
-"link": "https://www.sec.gov/Archives/edgar/data/1657573/000196922326000966/0001969223-26-000966-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "144|0001949846-26-000555",
-"form": "144",
-"accession": "0001949846-26-000555",
-"company": "Bettinger Walter W",
-"cik": "0001296479",
-"link": "https://www.sec.gov/Archives/edgar/data/1296479/000194984626000555/0001949846-26-000555-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "144|0001969223-26-000965",
-"form": "144",
-"accession": "0001969223-26-000965",
-"company": "DE GEUS AART",
-"cik": "0001249802",
-"link": "https://www.sec.gov/Archives/edgar/data/1249802/000196922326000965/0001969223-26-000965-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "144|0001959173-26-006528",
-"form": "144",
-"accession": "0001959173-26-006528",
-"company": "Lorenger Jeffrey D",
-"cik": "0001311511",
-"link": "https://www.sec.gov/Archives/edgar/data/1311511/000195917326006528/0001959173-26-006528-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "144|0001959173-26-006527",
-"form": "144",
-"accession": "0001959173-26-006527",
-"company": "DePinto Joseph Michael",
-"cik": "0001321400",
-"link": "https://www.sec.gov/Archives/edgar/data/1321400/000195917326006527/0001959173-26-006527-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "144|0001968582-26-000896",
-"form": "144",
-"accession": "0001968582-26-000896",
-"company": "BlackSky Technology Inc.",
-"cik": "0001753539",
-"link": "https://www.sec.gov/Archives/edgar/data/1753539/000196858226000896/0001968582-26-000896-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "144|0001950047-26-008809",
-"form": "144",
-"accession": "0001950047-26-008809",
-"company": "Britt Christopher R",
-"cik": "0002061801",
-"link": "https://www.sec.gov/Archives/edgar/data/2061801/000195004726008809/0001950047-26-008809-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "144|0002106698-26-000003",
-"form": "144",
-"accession": "0002106698-26-000003",
-"company": "Cummings George W. III",
-"cik": "0002106698",
-"link": "https://www.sec.gov/Archives/edgar/data/2106698/000210669826000003/0002106698-26-000003-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "144|0001628280-26-059404",
-"form": "144",
-"accession": "0001628280-26-059404",
-"company": "METLIFE INC",
-"cik": "0001099219",
-"link": "https://www.sec.gov/Archives/edgar/data/1099219/000162828026059404/0001628280-26-059404-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "144|0001973379-26-000311",
-"form": "144",
-"accession": "0001973379-26-000311",
-"company": "McGogney Connor",
-"cik": "0002148390",
-"link": "https://www.sec.gov/Archives/edgar/data/2148390/000197337926000311/0001973379-26-000311-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "144|0001959173-26-006526",
-"form": "144",
-"accession": "0001959173-26-006526",
-"company": "PREVOZNIK MICHAEL E",
-"cik": "0001222679",
-"link": "https://www.sec.gov/Archives/edgar/data/1222679/000195917326006526/0001959173-26-006526-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "144|0001950047-26-008808",
-"form": "144",
-"accession": "0001950047-26-008808",
-"company": "WOOTEN GREGORY F",
-"cik": "0001594755",
-"link": "https://www.sec.gov/Archives/edgar/data/1594755/000195004726008808/0001950047-26-008808-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "144|0001973379-26-000310",
-"form": "144",
-"accession": "0001973379-26-000310",
-"company": "Komasinski Michael",
-"cik": "0002056554",
-"link": "https://www.sec.gov/Archives/edgar/data/2056554/000197337926000310/0001973379-26-000310-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "144|0001628280-26-059393",
-"form": "144",
-"accession": "0001628280-26-059393",
-"company": "Roseborough Teresa Wynn",
-"cik": "0001534511",
-"link": "https://www.sec.gov/Archives/edgar/data/1534511/000162828026059393/0001628280-26-059393-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "8-K|0001193125-26-374788",
-"form": "8-K",
-"accession": "0001193125-26-374788",
-"company": "Spero Therapeutics, Inc.",
-"cik": "0001701108",
-"link": "https://www.sec.gov/Archives/edgar/data/1701108/000119312526374788/0001193125-26-374788-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "8-K|0001193125-26-374787",
-"form": "8-K",
-"accession": "0001193125-26-374787",
-"company": "Boundless Bio, Inc.",
-"cik": "0001782303",
-"link": "https://www.sec.gov/Archives/edgar/data/1782303/000119312526374787/0001193125-26-374787-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "8-K|0001493152-26-040660",
-"form": "8-K",
-"accession": "0001493152-26-040660",
-"company": "Brand Engagement Network Inc.",
-"cik": "0001838163",
-"link": "https://www.sec.gov/Archives/edgar/data/1838163/000149315226040660/0001493152-26-040660-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "8-K|0001493152-26-040658",
-"form": "8-K",
-"accession": "0001493152-26-040658",
-"company": "MOBIX LABS, INC",
-"cik": "0001855467",
-"link": "https://www.sec.gov/Archives/edgar/data/1855467/000149315226040658/0001493152-26-040658-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "8-K|0000802481-26-000059",
-"form": "8-K",
-"accession": "0000802481-26-000059",
-"company": "PILGRIMS PRIDE CORP",
-"cik": "0000802481",
-"link": "https://www.sec.gov/Archives/edgar/data/802481/000080248126000059/0000802481-26-000059-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "8-K|0001213900-26-095196",
-"form": "8-K",
-"accession": "0001213900-26-095196",
-"company": "Constellation Acquisition Corp I",
-"cik": "0001834032",
-"link": "https://www.sec.gov/Archives/edgar/data/1834032/000121390026095196/0001213900-26-095196-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "8-K|0001493152-26-040656",
-"form": "8-K",
-"accession": "0001493152-26-040656",
-"company": "INTELLIGENT BIO SOLUTIONS INC.",
-"cik": "0001725430",
-"link": "https://www.sec.gov/Archives/edgar/data/1725430/000149315226040656/0001493152-26-040656-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "8-K|0001193125-26-374752",
-"form": "8-K",
-"accession": "0001193125-26-374752",
-"company": "POWERCOMPUTE, INC.",
-"cik": "0001640384",
-"link": "https://www.sec.gov/Archives/edgar/data/1640384/000119312526374752/0001193125-26-374752-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "8-K|0001493152-26-040652",
-"form": "8-K",
-"accession": "0001493152-26-040652",
-"company": "ALLIANCE ENTERTAINMENT HOLDING CORP",
-"cik": "0001823584",
-"link": "https://www.sec.gov/Archives/edgar/data/1823584/000149315226040652/0001493152-26-040652-index.htm",
-"filed": "2026-08-28"
-},
-{
-"key": "8-K|0001493152-26-040653",
-"form": "8-K",
-"accession": "0001493152-26-040653",
-"company": "Glucotrack, Inc.",
-"cik": "0001506983",
-"link": "https://www.sec.gov/Archives/edgar/data/1506983/000149315226040653/0001493152-26-040653-index.htm",
-"filed": "2026-08-28"
-},
-{
 "key": "8-K|0001213900-26-095188",
 "form": "8-K",
 "accession": "0001213900-26-095188",
@@ -1887,6 +807,384 @@
 "company": "CXJ GROUP CO., Ltd",
 "cik": "0001823635",
 "link": "https://www.sec.gov/Archives/edgar/data/1823635/000149315226040484/0001493152-26-040484-index.htm",
+"filed": "2026-08-28"
+},
+{
+"key": "4|0002001011-26-000133",
+"form": "4",
+"accession": "0002001011-26-000133",
+"company": "Klein Frank",
+"cik": "0002037530",
+"link": "https://www.sec.gov/Archives/edgar/data/2037530/000200101126000133/0002001011-26-000133-index.htm",
+"filed": "2026-08-28"
+},
+{
+"key": "4|0001302110-26-000030",
+"form": "4",
+"accession": "0001302110-26-000030",
+"company": "Fulgent Genetics, Inc.",
+"cik": "0001674930",
+"link": "https://www.sec.gov/Archives/edgar/data/1674930/000130211026000030/0001302110-26-000030-index.htm",
+"filed": "2026-08-28"
+},
+{
+"key": "4|0001253820-26-000009",
+"form": "4",
+"accession": "0001253820-26-000009",
+"company": "Fulgent Genetics, Inc.",
+"cik": "0001674930",
+"link": "https://www.sec.gov/Archives/edgar/data/1674930/000125382026000009/0001253820-26-000009-index.htm",
+"filed": "2026-08-28"
+},
+{
+"key": "4|0002001011-26-000132",
+"form": "4",
+"accession": "0002001011-26-000132",
+"company": "Rocket Lab Corp",
+"cik": "0001819994",
+"link": "https://www.sec.gov/Archives/edgar/data/1819994/000200101126000132/0002001011-26-000132-index.htm",
+"filed": "2026-08-28"
+},
+{
+"key": "4|0002075006-26-000006",
+"form": "4",
+"accession": "0002075006-26-000006",
+"company": "Rogers Daniel Mark",
+"cik": "0002075006",
+"link": "https://www.sec.gov/Archives/edgar/data/2075006/000207500626000006/0002075006-26-000006-index.htm",
+"filed": "2026-08-28"
+},
+{
+"key": "4|0001819718-26-000011",
+"form": "4",
+"accession": "0001819718-26-000011",
+"company": "Xie Jian",
+"cik": "0001819718",
+"link": "https://www.sec.gov/Archives/edgar/data/1819718/000181971826000011/0001819718-26-000011-index.htm",
+"filed": "2026-08-28"
+},
+{
+"key": "4|0001684532-26-000009",
+"form": "4",
+"accession": "0001684532-26-000009",
+"company": "Gao Hanlin",
+"cik": "0001684532",
+"link": "https://www.sec.gov/Archives/edgar/data/1684532/000168453226000009/0001684532-26-000009-index.htm",
+"filed": "2026-08-28"
+},
+{
+"key": "4|0001193125-26-374860",
+"form": "4",
+"accession": "0001193125-26-374860",
+"company": "DAGMAR DOLBY TRUST UNDER DOLBY FAMILY TRUST INSTRUMENT DATED MAY 7, 1999",
+"cik": "0001598813",
+"link": "https://www.sec.gov/Archives/edgar/data/1598813/000119312526374860/0001193125-26-374860-index.htm",
+"filed": "2026-08-28"
+},
+{
+"key": "4|0001700533-26-000013",
+"form": "4",
+"accession": "0001700533-26-000013",
+"company": "Aeluma, Inc.",
+"cik": "0001828805",
+"link": "https://www.sec.gov/Archives/edgar/data/1828805/000170053326000013/0001700533-26-000013-index.htm",
+"filed": "2026-08-28"
+},
+{
+"key": "4|0001852578-26-000005",
+"form": "4",
+"accession": "0001852578-26-000005",
+"company": "OWEN KATEY EINTERZ",
+"cik": "0001852578",
+"link": "https://www.sec.gov/Archives/edgar/data/1852578/000185257826000005/0001852578-26-000005-index.htm",
+"filed": "2026-08-28"
+},
+{
+"key": "4|0001437749-26-029208",
+"form": "4",
+"accession": "0001437749-26-029208",
+"company": "Barton Don",
+"cik": "0001442259",
+"link": "https://www.sec.gov/Archives/edgar/data/1442259/000143774926029208/0001437749-26-029208-index.htm",
+"filed": "2026-08-28"
+},
+{
+"key": "4|0001261333-26-000080",
+"form": "4",
+"accession": "0001261333-26-000080",
+"company": "BEER JAMES A",
+"cik": "0001272505",
+"link": "https://www.sec.gov/Archives/edgar/data/1272505/000126133326000080/0001261333-26-000080-index.htm",
+"filed": "2026-08-28"
+},
+{
+"key": "4|0001468308-26-000028",
+"form": "4",
+"accession": "0001468308-26-000028",
+"company": "Andrade Robert",
+"cik": "0001468308",
+"link": "https://www.sec.gov/Archives/edgar/data/1468308/000146830826000028/0001468308-26-000028-index.htm",
+"filed": "2026-08-28"
+},
+{
+"key": "4|0001628280-26-059444",
+"form": "4",
+"accession": "0001628280-26-059444",
+"company": "Arcutis Biotherapeutics, Inc.",
+"cik": "0001787306",
+"link": "https://www.sec.gov/Archives/edgar/data/1787306/000162828026059444/0001628280-26-059444-index.htm",
+"filed": "2026-08-28"
+},
+{
+"key": "4|0001866174-26-000011",
+"form": "4",
+"accession": "0001866174-26-000011",
+"company": "Attovia Therapeutics, Inc.",
+"cik": "0002058707",
+"link": "https://www.sec.gov/Archives/edgar/data/2058707/000186617426000011/0001866174-26-000011-index.htm",
+"filed": "2026-08-28"
+},
+{
+"key": "4|0001570660-26-000003",
+"form": "4",
+"accession": "0001570660-26-000003",
+"company": "Watson Patricia A",
+"cik": "0001570660",
+"link": "https://www.sec.gov/Archives/edgar/data/1570660/000157066026000003/0001570660-26-000003-index.htm",
+"filed": "2026-08-28"
+},
+{
+"key": "4|0000886982-26-000522",
+"form": "4",
+"accession": "0000886982-26-000522",
+"company": "WSLS EMP ONSHORE INVESTMENTS, L.P.",
+"cik": "0002148331",
+"link": "https://www.sec.gov/Archives/edgar/data/2148331/000088698226000522/0000886982-26-000522-index.htm",
+"filed": "2026-08-28"
+},
+{
+"key": "4|0001821737-26-000012",
+"form": "4",
+"accession": "0001821737-26-000012",
+"company": "Dageville Benoit",
+"cik": "0001821737",
+"link": "https://www.sec.gov/Archives/edgar/data/1821737/000182173726000012/0001821737-26-000012-index.htm",
+"filed": "2026-08-28"
+},
+{
+"key": "4|0001104659-26-103344",
+"form": "4",
+"accession": "0001104659-26-103344",
+"company": "Ravenna 7 LLC",
+"cik": "0002152033",
+"link": "https://www.sec.gov/Archives/edgar/data/2152033/000110465926103344/0001104659-26-103344-index.htm",
+"filed": "2026-08-28"
+},
+{
+"key": "4|0001825546-26-000008",
+"form": "4",
+"accession": "0001825546-26-000008",
+"company": "La Thi L",
+"cik": "0001825546",
+"link": "https://www.sec.gov/Archives/edgar/data/1825546/000182554626000008/0001825546-26-000008-index.htm",
+"filed": "2026-08-28"
+},
+{
+"key": "4|0000923738-26-000046",
+"form": "4",
+"accession": "0000923738-26-000046",
+"company": "Schwab Charles R.",
+"cik": "0000923738",
+"link": "https://www.sec.gov/Archives/edgar/data/923738/000092373826000046/0000923738-26-000046-index.htm",
+"filed": "2026-08-28"
+},
+{
+"key": "4|0001401257-26-000064",
+"form": "4",
+"accession": "0001401257-26-000064",
+"company": "FORUM ENERGY TECHNOLOGIES, INC.",
+"cik": "0001401257",
+"link": "https://www.sec.gov/Archives/edgar/data/1401257/000140125726000064/0001401257-26-000064-index.htm",
+"filed": "2026-08-28"
+},
+{
+"key": "4|0000894189-26-024245",
+"form": "4",
+"accession": "0000894189-26-024245",
+"company": "HOTCHKIS & WILEY FUNDS /DE/",
+"cik": "0001145022",
+"link": "https://www.sec.gov/Archives/edgar/data/1145022/000089418926024245/0000894189-26-024245-index.htm",
+"filed": "2026-08-28"
+},
+{
+"key": "4|0000894189-26-024244",
+"form": "4",
+"accession": "0000894189-26-024244",
+"company": "HOTCHKIS & WILEY FUNDS /DE/",
+"cik": "0001145022",
+"link": "https://www.sec.gov/Archives/edgar/data/1145022/000089418926024244/0000894189-26-024244-index.htm",
+"filed": "2026-08-28"
+},
+{
+"key": "4|0000894189-26-024243",
+"form": "4",
+"accession": "0000894189-26-024243",
+"company": "HOTCHKIS & WILEY FUNDS /DE/",
+"cik": "0001145022",
+"link": "https://www.sec.gov/Archives/edgar/data/1145022/000089418926024243/0000894189-26-024243-index.htm",
+"filed": "2026-08-28"
+},
+{
+"key": "4|0000894189-26-024242",
+"form": "4",
+"accession": "0000894189-26-024242",
+"company": "HOTCHKIS & WILEY FUNDS /DE/",
+"cik": "0001145022",
+"link": "https://www.sec.gov/Archives/edgar/data/1145022/000089418926024242/0000894189-26-024242-index.htm",
+"filed": "2026-08-28"
+},
+{
+"key": "4|0000894189-26-024241",
+"form": "4",
+"accession": "0000894189-26-024241",
+"company": "HOTCHKIS & WILEY FUNDS /DE/",
+"cik": "0001145022",
+"link": "https://www.sec.gov/Archives/edgar/data/1145022/000089418926024241/0000894189-26-024241-index.htm",
+"filed": "2026-08-28"
+},
+{
+"key": "4|0000894189-26-024240",
+"form": "4",
+"accession": "0000894189-26-024240",
+"company": "HOTCHKIS & WILEY FUNDS /DE/",
+"cik": "0001145022",
+"link": "https://www.sec.gov/Archives/edgar/data/1145022/000089418926024240/0000894189-26-024240-index.htm",
+"filed": "2026-08-28"
+},
+{
+"key": "4|0000894189-26-024239",
+"form": "4",
+"accession": "0000894189-26-024239",
+"company": "HOTCHKIS & WILEY FUNDS /DE/",
+"cik": "0001145022",
+"link": "https://www.sec.gov/Archives/edgar/data/1145022/000089418926024239/0000894189-26-024239-index.htm",
+"filed": "2026-08-28"
+},
+{
+"key": "4|0000894189-26-024237",
+"form": "4",
+"accession": "0000894189-26-024237",
+"company": "HOTCHKIS & WILEY FUNDS /DE/",
+"cik": "0001145022",
+"link": "https://www.sec.gov/Archives/edgar/data/1145022/000089418926024237/0000894189-26-024237-index.htm",
+"filed": "2026-08-28"
+},
+{
+"key": "4|0001213900-26-095202",
+"form": "4",
+"accession": "0001213900-26-095202",
+"company": "Wedbush Series Trust",
+"cik": "0002055464",
+"link": "https://www.sec.gov/Archives/edgar/data/2055464/000121390026095202/0001213900-26-095202-index.htm",
+"filed": "2026-08-28"
+},
+{
+"key": "4|0000894189-26-024236",
+"form": "4",
+"accession": "0000894189-26-024236",
+"company": "HOTCHKIS & WILEY FUNDS /DE/",
+"cik": "0001145022",
+"link": "https://www.sec.gov/Archives/edgar/data/1145022/000089418926024236/0000894189-26-024236-index.htm",
+"filed": "2026-08-28"
+},
+{
+"key": "4|0000950103-26-013149",
+"form": "4",
+"accession": "0000950103-26-013149",
+"company": "BARCLAYS BANK PLC",
+"cik": "0000312070",
+"link": "https://www.sec.gov/Archives/edgar/data/312070/000095010326013149/0000950103-26-013149-index.htm",
+"filed": "2026-08-28"
+},
+{
+"key": "4|0000894189-26-024235",
+"form": "4",
+"accession": "0000894189-26-024235",
+"company": "HOTCHKIS & WILEY FUNDS /DE/",
+"cik": "0001145022",
+"link": "https://www.sec.gov/Archives/edgar/data/1145022/000089418926024235/0000894189-26-024235-index.htm",
+"filed": "2026-08-28"
+},
+{
+"key": "4|0000894189-26-024234",
+"form": "4",
+"accession": "0000894189-26-024234",
+"company": "HOTCHKIS & WILEY FUNDS /DE/",
+"cik": "0001145022",
+"link": "https://www.sec.gov/Archives/edgar/data/1145022/000089418926024234/0000894189-26-024234-index.htm",
+"filed": "2026-08-28"
+},
+{
+"key": "4|0002067635-26-000002",
+"form": "4",
+"accession": "0002067635-26-000002",
+"company": "Johns Emily J.",
+"cik": "0002067635",
+"link": "https://www.sec.gov/Archives/edgar/data/2067635/000206763526000002/0002067635-26-000002-index.htm",
+"filed": "2026-08-28"
+},
+{
+"key": "4|0001193125-26-374792",
+"form": "4",
+"accession": "0001193125-26-374792",
+"company": "GS Finance Corp.",
+"cik": "0001419828",
+"link": "https://www.sec.gov/Archives/edgar/data/1419828/000119312526374792/0001193125-26-374792-index.htm",
+"filed": "2026-08-28"
+},
+{
+"key": "144|0001974078-26-000336",
+"form": "144",
+"accession": "0001974078-26-000336",
+"company": "Triplett Thomas Michael",
+"cik": "0001897385",
+"link": "https://www.sec.gov/Archives/edgar/data/1897385/000197407826000336/0001974078-26-000336-index.htm",
+"filed": "2026-08-28"
+},
+{
+"key": "144|0001193125-26-374865",
+"form": "144",
+"accession": "0001193125-26-374865",
+"company": "Hadlock Terrell Shane",
+"cik": "0002082976",
+"link": "https://www.sec.gov/Archives/edgar/data/2082976/000119312526374865/0001193125-26-374865-index.htm",
+"filed": "2026-08-28"
+},
+{
+"key": "144|0000891836-26-000065",
+"form": "144",
+"accession": "0000891836-26-000065",
+"company": "Attovia Therapeutics, Inc.",
+"cik": "0002058707",
+"link": "https://www.sec.gov/Archives/edgar/data/2058707/000089183626000065/0000891836-26-000065-index.htm",
+"filed": "2026-08-28"
+},
+{
+"key": "144|0001950047-26-008834",
+"form": "144",
+"accession": "0001950047-26-008834",
+"company": "WEIL MEREDITH S",
+"cik": "0001530997",
+"link": "https://www.sec.gov/Archives/edgar/data/1530997/000195004726008834/0001950047-26-008834-index.htm",
+"filed": "2026-08-28"
+},
+{
+"key": "8-K|0001213900-26-095141",
+"form": "8-K",
+"accession": "0001213900-26-095141",
+"company": "SeeQC, Inc.",
+"cik": "0001779977",
+"link": "https://www.sec.gov/Archives/edgar/data/1779977/000121390026095141/0001213900-26-095141-index.htm",
 "filed": "2026-08-28"
 }
 ]

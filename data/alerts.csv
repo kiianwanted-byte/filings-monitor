@@ -85,3 +85,58 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-08-28T21:29:40+00:00,LATE_FILING,,"MSP Recovery, Inc.",NT 10-Q,,,https://www.sec.gov/Archives/edgar/data/1802450/000121390026093940/0001213900-26-093940-index.htm,HIGH
 2026-08-28T21:29:41+00:00,LATE_FILING,,"ACURA PHARMACEUTICALS, INC",NT 10-Q,,,https://www.sec.gov/Archives/edgar/data/786947/000110465926101083/0001104659-26-101083-index.htm,HIGH
 2026-08-28T21:29:41+00:00,LATE_FILING,,Mercator Acquisition Corp.,NT 10-Q,,,https://www.sec.gov/Archives/edgar/data/2106436/000121390026093509/0001213900-26-093509-index.htm,HIGH
+2026-08-28T22:10:14+00:00,INSIDER_BUY,SITE,"SiteOne Landscape Supply, Inc.",BLACK DOUG $481K,480650,2,https://www.sec.gov/Archives/edgar/data/1672083/000110465926103314/0001104659-26-103314-index.htm,MEDIUM
+2026-08-28T22:10:15+00:00,FORM_144,,ADI GLOBAL DISTRIBUTION INC.,proposed sale $648K,647848,,https://www.sec.gov/Archives/edgar/data/2105139/000195004726008833/0001950047-26-008833-index.htm,LOW
+2026-08-28T22:10:15+00:00,FORM_144,,TFS FINANCIAL CORPORATION,proposed sale $109K,108741,,https://www.sec.gov/Archives/edgar/data/1850133/000195004726008832/0001950047-26-008832-index.htm,LOW
+2026-08-28T22:10:16+00:00,FORM_144,,"Chime Financial, Inc.",proposed sale $10.01M,10008000,,https://www.sec.gov/Archives/edgar/data/2061801/000195004726008831/0001950047-26-008831-index.htm,MEDIUM
+2026-08-28T22:10:17+00:00,FORM_144,,"ROYAL GOLD, INC.",proposed sale $131K,131400,,https://www.sec.gov/Archives/edgar/data/1796187/000195004726008829/0001950047-26-008829-index.htm,LOW
+2026-08-28T22:10:17+00:00,FORM_144,,"Airbnb, Inc.",proposed sale $10.90M,10901033,,https://www.sec.gov/Archives/edgar/data/1834147/000195917326006532/0001959173-26-006532-index.htm,MEDIUM
+2026-08-28T22:10:18+00:00,FORM_144,,OneSpaWorld Holdings Limited,proposed sale $139K,138622,,https://www.sec.gov/Archives/edgar/data/1917736/000162828026059429/0001628280-26-059429-index.htm,LOW
+2026-08-28T22:10:19+00:00,FORM_144,,"BLOCK, INC.",proposed sale $511K,510720,,https://www.sec.gov/Archives/edgar/data/1933928/000195004726008828/0001950047-26-008828-index.htm,LOW
+2026-08-28T22:10:19+00:00,FORM_144,,Marathon Petroleum Corp,proposed sale $157K,156608,,https://www.sec.gov/Archives/edgar/data/1948454/000194845426000007/0001948454-26-000007-index.htm,LOW
+2026-08-28T22:10:20+00:00,FORM_144,,THE ESTEE LAUDER COMPANIES INC.,proposed sale $802K,802344,,https://www.sec.gov/Archives/edgar/data/1728090/000195004726008827/0001950047-26-008827-index.htm,LOW
+2026-08-28T22:10:20+00:00,FORM_144,,CATERPILLAR INC.,proposed sale $26.21M,26211751,,https://www.sec.gov/Archives/edgar/data/1739859/000195004726008826/0001950047-26-008826-index.htm,MEDIUM
+2026-08-28T22:10:22+00:00,FORM_144,,"MATCH GROUP, INC.",proposed sale $625K,625498,,https://www.sec.gov/Archives/edgar/data/1721984/000195004726008825/0001950047-26-008825-index.htm,LOW
+2026-08-28T22:10:22+00:00,FORM_144,,"Eton Pharmaceuticals, Inc.",proposed sale $2.95M,2953530,,https://www.sec.gov/Archives/edgar/data/1710340/000197407826000335/0001974078-26-000335-index.htm,LOW
+2026-08-28T22:10:23+00:00,FORM_144,,"TRUPANION, INC.",proposed sale $107K,107038,,https://www.sec.gov/Archives/edgar/data/1967117/000195004726008824/0001950047-26-008824-index.htm,LOW
+2026-08-28T22:10:23+00:00,FORM_144,,JFROG LTD.,proposed sale $57K,57289,,https://www.sec.gov/Archives/edgar/data/1800667/000195004726008823/0001950047-26-008823-index.htm,LOW
+2026-08-28T22:10:24+00:00,FORM_144,,EverCommerce Inc.,proposed sale $220K,219528,,https://www.sec.gov/Archives/edgar/data/1856906/000195917326006531/0001959173-26-006531-index.htm,LOW
+2026-08-28T22:10:24+00:00,FORM_144,,SANMINA CORPORATION,proposed sale $24K,24322,,https://www.sec.gov/Archives/edgar/data/1899654/000195004726008822/0001950047-26-008822-index.htm,LOW
+2026-08-28T22:10:25+00:00,FORM_144,,ABERCROMBIE & FITCH CO /DE/,proposed sale $191K,190970,,https://www.sec.gov/Archives/edgar/data/1807907/000195917326006530/0001959173-26-006530-index.htm,LOW
+2026-08-28T22:10:25+00:00,FORM_144,,"TRAVELERS COMPANIES, INC.",proposed sale $2.22M,2219145,,https://www.sec.gov/Archives/edgar/data/1224083/000195917326006529/0001959173-26-006529-index.htm,LOW
+2026-08-28T22:10:26+00:00,FORM_144,,OMEROS CORPORATION,proposed sale $466K,466127,,https://www.sec.gov/Archives/edgar/data/1778968/000195004726008821/0001950047-26-008821-index.htm,LOW
+2026-08-28T22:10:26+00:00,FORM_144,,Roivant Sciences Ltd.,proposed sale $7.15M,7147087,,https://www.sec.gov/Archives/edgar/data/1801917/000196530126000133/0001965301-26-000133-index.htm,MEDIUM
+2026-08-28T22:10:27+00:00,FORM_144,,Unity Software Inc.,proposed sale $1.90M,1895144,,https://www.sec.gov/Archives/edgar/data/2042056/000192109426000966/0001921094-26-000966-index.htm,LOW
+2026-08-28T22:10:27+00:00,FORM_144,,ODDITY Tech Ltd.,proposed sale $323K,323349,,https://www.sec.gov/Archives/edgar/data/2008127/000195004726008820/0001950047-26-008820-index.htm,LOW
+2026-08-28T22:10:28+00:00,FORM_144,,"Business First Bancshares, Inc.",proposed sale $303K,303270,,https://www.sec.gov/Archives/edgar/data/2106698/000210669826000004/0002106698-26-000004-index.htm,LOW
+2026-08-28T22:10:28+00:00,FORM_144,,SEI INVESTMENTS CO,proposed sale $4.18M,4181773,,https://www.sec.gov/Archives/edgar/data/1745371/000192109426000965/0001921094-26-000965-index.htm,LOW
+2026-08-28T22:10:28+00:00,FORM_144,,"Affirm Holdings, Inc.",proposed sale $6.14M,6138680,,https://www.sec.gov/Archives/edgar/data/1820953/000195004726008819/0001950047-26-008819-index.htm,MEDIUM
+2026-08-28T22:10:30+00:00,FORM_144,,"Klaviyo, Inc.",proposed sale $1.05M,1048605,,https://www.sec.gov/Archives/edgar/data/1991399/000195004726008818/0001950047-26-008818-index.htm,LOW
+2026-08-28T22:10:30+00:00,FORM_144,,"Five9, Inc.",proposed sale $614K,614205,,https://www.sec.gov/Archives/edgar/data/2000932/000195004726008817/0001950047-26-008817-index.htm,LOW
+2026-08-28T22:10:30+00:00,FORM_144,,Alphabet Inc.,proposed sale $28K,27692,,https://www.sec.gov/Archives/edgar/data/1665419/000192109426000964/0001921094-26-000964-index.htm,LOW
+2026-08-28T22:10:31+00:00,FORM_144,,XENON PHARMACEUTICALS INC,proposed sale $438K,437721,,https://www.sec.gov/Archives/edgar/data/1880129/000195004726008816/0001950047-26-008816-index.htm,LOW
+2026-08-28T22:10:31+00:00,FORM_144,,"Remitly Global, Inc.",proposed sale $546K,545685,,https://www.sec.gov/Archives/edgar/data/1999488/000195004726008815/0001950047-26-008815-index.htm,LOW
+2026-08-28T22:10:31+00:00,FORM_144,,"O'REILLY AUTOMOTIVE, INC.",proposed sale $88K,87831,,https://www.sec.gov/Archives/edgar/data/1238978/000195004726008814/0001950047-26-008814-index.htm,LOW
+2026-08-28T22:10:32+00:00,FORM_144,,"FIGMA, INC.",proposed sale $6.48M,6479161,,https://www.sec.gov/Archives/edgar/data/2073801/000195004726008813/0001950047-26-008813-index.htm,MEDIUM
+2026-08-28T22:10:33+00:00,FORM_144,,"MACOM Technology Solutions Holdings, Inc.",proposed sale $70K,69841,,https://www.sec.gov/Archives/edgar/data/1588004/000195004726008812/0001950047-26-008812-index.htm,LOW
+2026-08-28T22:10:33+00:00,FORM_144,,"VISTANCE NETWORKS, INC.",proposed sale $1.19M,1188020,,https://www.sec.gov/Archives/edgar/data/1517228/000195004726008811/0001950047-26-008811-index.htm,LOW
+2026-08-28T22:10:34+00:00,FORM_144,,"RingCentral, Inc.",proposed sale $313K,313045,,https://www.sec.gov/Archives/edgar/data/2057569/000195004726008810/0001950047-26-008810-index.htm,LOW
+2026-08-28T22:10:34+00:00,FORM_144,,Edwards Lifesciences Corp,proposed sale $238K,237907,,https://www.sec.gov/Archives/edgar/data/2032351/000192109426000963/0001921094-26-000963-index.htm,LOW
+2026-08-28T22:10:34+00:00,FORM_144,,Xometry Inc,proposed sale $472K,471518,,https://www.sec.gov/Archives/edgar/data/1657573/000196922326000966/0001969223-26-000966-index.htm,LOW
+2026-08-28T22:10:35+00:00,FORM_144,,SCHWAB CHARLES CORP,proposed sale $8.25M,8250648,,https://www.sec.gov/Archives/edgar/data/1296479/000194984626000555/0001949846-26-000555-index.htm,MEDIUM
+2026-08-28T22:10:36+00:00,FORM_144,,SYNOPSYS INC,proposed sale $34.47M,34472945,,https://www.sec.gov/Archives/edgar/data/1249802/000196922326000965/0001969223-26-000965-index.htm,MEDIUM
+2026-08-28T22:10:37+00:00,FORM_144,,HNI CORP,proposed sale $75K,75200,,https://www.sec.gov/Archives/edgar/data/1311511/000195917326006528/0001959173-26-006528-index.htm,LOW
+2026-08-28T22:10:37+00:00,FORM_144,,"BRINKER INTERNATIONAL, INC",proposed sale $5.76M,5759691,,https://www.sec.gov/Archives/edgar/data/1321400/000195917326006527/0001959173-26-006527-index.htm,MEDIUM
+2026-08-28T22:10:38+00:00,FORM_144,,BLACKSKY TECHNOLOGY INC,proposed sale $391K,391040,,https://www.sec.gov/Archives/edgar/data/1753539/000196858226000896/0001968582-26-000896-index.htm,LOW
+2026-08-28T22:10:39+00:00,FORM_144,,"Chime Financial, Inc.",proposed sale $10.01M,10008000,,https://www.sec.gov/Archives/edgar/data/2061801/000195004726008809/0001950047-26-008809-index.htm,MEDIUM
+2026-08-28T22:10:40+00:00,FORM_144,,"Business First Bancshares, Inc.",proposed sale $302K,302500,,https://www.sec.gov/Archives/edgar/data/2106698/000210669826000003/0002106698-26-000003-index.htm,LOW
+2026-08-28T22:10:40+00:00,FORM_144,,METLIFE INC,proposed sale $15K,15400,,https://www.sec.gov/Archives/edgar/data/1099219/000162828026059404/0001628280-26-059404-index.htm,LOW
+2026-08-28T22:10:41+00:00,FORM_144,,Criteo S.A.,proposed sale $4K,4458,,https://www.sec.gov/Archives/edgar/data/2148390/000197337926000311/0001973379-26-000311-index.htm,LOW
+2026-08-28T22:10:41+00:00,FORM_144,,QUEST DIAGNOSTICS INC,proposed sale $5.51M,5513082,,https://www.sec.gov/Archives/edgar/data/1222679/000195917326006526/0001959173-26-006526-index.htm,MEDIUM
+2026-08-28T22:10:42+00:00,FORM_144,,NATURAL RESOURCE PARTNERS L.P.,proposed sale $244K,243953,,https://www.sec.gov/Archives/edgar/data/1594755/000195004726008808/0001950047-26-008808-index.htm,LOW
+2026-08-28T22:10:43+00:00,FORM_144,,Criteo S.A.,proposed sale $29K,28615,,https://www.sec.gov/Archives/edgar/data/2056554/000197337926000310/0001973379-26-000310-index.htm,LOW
+2026-08-28T22:10:43+00:00,FORM_144,,"Home Depot, Inc.",proposed sale $807K,807137,,https://www.sec.gov/Archives/edgar/data/1534511/000162828026059393/0001628280-26-059393-index.htm,LOW
+2026-08-28T22:10:43+00:00,8K,,"Spero Therapeutics, Inc.",items 1.01,,,https://www.sec.gov/Archives/edgar/data/1701108/000119312526374788/0001193125-26-374788-index.htm,LOW
+2026-08-28T22:10:44+00:00,8K,,"Boundless Bio, Inc.",items 1.01,,,https://www.sec.gov/Archives/edgar/data/1782303/000119312526374787/0001193125-26-374787-index.htm,LOW
+2026-08-28T22:10:44+00:00,8K,,"MOBIX LABS, INC","items 1.01,5.02",,,https://www.sec.gov/Archives/edgar/data/1855467/000149315226040658/0001493152-26-040658-index.htm,LOW
+2026-08-28T22:10:45+00:00,8K,,"POWERCOMPUTE, INC.",items 1.01,,,https://www.sec.gov/Archives/edgar/data/1640384/000119312526374752/0001193125-26-374752-index.htm,LOW
