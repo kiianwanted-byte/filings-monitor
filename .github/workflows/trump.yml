@@ -1,0 +1,54 @@
+name: Trump 278-T
+
+on:
+  schedule:
+    # Daily at 02:00 UTC (10:00 Singapore). Filings are irregular and roughly
+    # monthly, so polling more often would just burn minutes.
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: trump-monitor
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  trump:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # Needed only for scanned filings. Text based ones skip OCR entirely.
+      - name: Install OCR tooling
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq tesseract-ocr poppler-utils
+
+      - run: pip install -r requirements.txt
+
+      - name: Run Trump monitor
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+        run: python trump.py
+
+      - name: Commit state
+        run: |
+          git config user.name "filings-monitor"
+          git config user.email "actions@github.com"
+          git add state data
+          if git diff --staged --quiet; then echo "nothing changed"; exit 0; fi
+          git commit -m "trump: $(date -u '+%Y-%m-%d %H:%M UTC')"
+          for i in 1 2 3; do
+            git pull --rebase --autostash origin ${{ github.ref_name }} && \
+            git push origin HEAD:${{ github.ref_name }} && exit 0
+            sleep 5
+          done
+          exit 1
