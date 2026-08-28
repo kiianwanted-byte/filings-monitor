@@ -96,94 +96,293 @@ session.headers.update({
 # Row parsing
 # ---------------------------------------------------------------
 
-# A 278-T row ends with: transaction date, a capital gains Yes/No flag, and
-# an amount band. That tail is the only reliably contiguous part, same trick
-# that made the House parser work.
-ROW_ANCHOR_RE = re.compile(
-    r"(?P<tdate>\d{1,2}/\d{1,2}/\d{4})\s+"
-    r"(?:(?P<ndate>\d{1,2}/\d{1,2}/\d{4})\s+)?"
-    r"(?:(?P<gains>No|Yes)\s+)?"
-    r"\$(?P<low>[\d,]+)\s*[-\u2013\u2014]\s*[^$]{0,60}?\$(?P<high>[\d,]+)")
 
-TICKER_RE = re.compile(r"\(([A-Z][A-Z0-9.\-]{0,6})\)")
+TICKER_MAP = {
+    "3m": "MMM", "abbott laboratories": "ABT", "abbvie": "ABBV",
+    "accenture": "ACN", "adobe": "ADBE", "advanced micro devices": "AMD",
+    "aflac": "AFL", "agilent technologies": "A", "air products": "APD",
+    "airbnb": "ABNB", "alexandria real estate": "ARE", "allstate": "ALL",
+    "alphabet": "GOOGL", "altria": "MO", "amazon": "AMZN", "amazon.com": "AMZN",
+    "amcor": "AMCR", "amerisourcebergen": "COR", "ameren": "AEE",
+    "american electric power": "AEP", "american express": "AXP",
+    "american tower": "AMT", "american water works": "AWK", "ametek": "AME",
+    "amgen": "AMGN", "amphenol": "APH", "analog devices": "ADI",
+    "aon": "AON", "apple": "AAPL", "applied materials": "AMAT",
+    "aptiv": "APTV", "archer daniels midland": "ADM", "arista networks": "ANET",
+    "arthur j gallagher": "AJG", "assurant": "AIZ", "at&t": "T",
+    "atmos energy": "ATO", "autodesk": "ADSK", "automatic data processing": "ADP",
+    "autozone": "AZO", "avalonbay": "AVB", "avery dennison": "AVY",
+    "baker hughes": "BKR", "ball": "BALL", "bank of america": "BAC",
+    "bank of new york mellon": "BK", "baxter international": "BAX",
+    "becton dickinson": "BDX", "berkshire hathaway": "BRK.B",
+    "best buy": "BBY", "biogen": "BIIB", "blackrock": "BLK",
+    "blackstone": "BX", "boeing": "BA", "booking holdings": "BKNG",
+    "boston scientific": "BSX", "bristol myers squibb": "BMY",
+    "broadcom": "AVGO", "broadridge": "BR", "brown forman": "BF.B",
+    "cadence design systems": "CDNS", "campbell soup": "CPB",
+    "capital one": "COF", "cardinal health": "CAH", "carrier global": "CARR",
+    "caterpillar": "CAT", "cboe global markets": "CBOE", "cbre group": "CBRE",
+    "cencora": "COR", "centene": "CNC", "centerpoint energy": "CNP",
+    "charles schwab": "SCHW", "charter communications": "CHTR",
+    "chevron": "CVX", "chipotle": "CMG", "chubb": "CB", "cigna": "CI",
+    "cincinnati financial": "CINF", "cintas": "CTAS", "cisco systems": "CSCO",
+    "citigroup": "C", "citizens financial": "CFG", "clorox": "CLX",
+    "cme group": "CME", "coca cola": "KO", "cognizant": "CTSH",
+    "colgate palmolive": "CL", "comcast": "CMCSA", "conagra brands": "CAG",
+    "conocophillips": "COP", "consolidated edison": "ED", "constellation brands": "STZ",
+    "constellation energy": "CEG", "copart": "CPRT", "corning": "GLW",
+    "corteva": "CTVA", "costco": "COST", "coterra energy": "CTRA",
+    "crowdstrike": "CRWD", "csx": "CSX", "cummins": "CMI", "cvs health": "CVS",
+    "danaher": "DHR", "darden restaurants": "DRI", "deere": "DE",
+    "delta air lines": "DAL", "devon energy": "DVN", "dexcom": "DXCM",
+    "diamondback energy": "FANG", "digital realty": "DLR", "discover financial": "DFS",
+    "dollar general": "DG", "dollar tree": "DLTR", "dominion energy": "D",
+    "dover": "DOV", "dow": "DOW", "dte energy": "DTE", "duke energy": "DUK",
+    "dupont": "DD", "eaton": "ETN", "ebay": "EBAY", "ecolab": "ECL",
+    "edison international": "EIX", "edwards lifesciences": "EW",
+    "electronic arts": "EA", "elevance health": "ELV", "eli lilly": "LLY",
+    "emerson electric": "EMR", "enphase energy": "ENPH", "entergy": "ETR",
+    "eog resources": "EOG", "equifax": "EFX", "equinix": "EQIX",
+    "equity residential": "EQR", "essex property": "ESS", "estee lauder": "EL",
+    "everest": "EG", "evergy": "EVRG", "eversource energy": "ES",
+    "exelon": "EXC", "expedia": "EXPE", "exxon mobil": "XOM",
+    "fastenal": "FAST", "federal realty": "FRT", "fedex": "FDX",
+    "fifth third bancorp": "FITB", "first solar": "FSLR", "fiserv": "FI",
+    "ford motor": "F", "fortinet": "FTNT", "fortive": "FTV",
+    "fox": "FOXA", "franklin resources": "BEN", "freeport mcmoran": "FCX",
+    "gartner": "IT", "ge aerospace": "GE", "ge healthcare": "GEHC",
+    "general dynamics": "GD", "general mills": "GIS", "general motors": "GM",
+    "genuine parts": "GPC", "gilead sciences": "GILD", "goldman sachs": "GS",
+    "goldman sachs group": "GS", "halliburton": "HAL", "hartford": "HIG",
+    "hasbro": "HAS", "hca healthcare": "HCA", "henry schein": "HSIC",
+    "hershey": "HSY", "hess": "HES", "hewlett packard enterprise": "HPE",
+    "hilton worldwide": "HLT", "home depot": "HD", "honeywell": "HON",
+    "hormel foods": "HRL", "host hotels": "HST", "howmet aerospace": "HWM",
+    "hp": "HPQ", "humana": "HUM", "huntington bancshares": "HBAN",
+    "ibm": "IBM", "idex": "IEX", "idexx laboratories": "IDXX",
+    "illinois tool works": "ITW", "illumina": "ILMN", "incyte": "INCY",
+    "ingersoll rand": "IR", "intel": "INTC", "intercontinental exchange": "ICE",
+    "international flavors & fragrances": "IFF", "international flavors and fragrances": "IFF",
+    "international paper": "IP", "interpublic": "IPG", "intuit": "INTU",
+    "intuitive surgical": "ISRG", "invesco": "IVZ", "iqvia": "IQV",
+    "iron mountain": "IRM", "j m smucker": "SJM", "jabil": "JBL",
+    "jacobs solutions": "J", "johnson & johnson": "JNJ", "johnson controls": "JCI",
+    "jpmorgan chase": "JPM", "juniper networks": "JNPR", "kellanova": "K",
+    "kenvue": "KVUE", "keurig dr pepper": "KDP", "keycorp": "KEY",
+    "keysight technologies": "KEYS", "kimberly clark": "KMB", "kinder morgan": "KMI",
+    "kla": "KLAC", "kraft heinz": "KHC", "kroger": "KR", "l3harris": "LHX",
+    "labcorp": "LH", "lam research": "LRCX", "lennar": "LEN",
+    "lincoln electric": "LECO", "linde": "LIN", "live nation": "LYV",
+    "lockheed martin": "LMT", "loews": "L", "lowes": "LOW",
+    "lyondellbasell": "LYB", "marathon petroleum": "MPC", "marriott": "MAR",
+    "marsh & mclennan": "MMC", "martin marietta": "MLM", "masco": "MAS",
+    "mastercard": "MA", "match group": "MTCH", "mcdonalds": "MCD",
+    "mckesson": "MCK", "medtronic": "MDT", "merck": "MRK", "meta platforms": "META",
+    "metlife": "MET", "mettler toledo": "MTD", "microchip technology": "MCHP",
+    "micron technology": "MU", "microsoft": "MSFT", "mid america apartment": "MAA",
+    "moderna": "MRNA", "mohawk industries": "MHK", "molson coors": "TAP",
+    "mondelez": "MDLZ", "monster beverage": "MNST", "moodys": "MCO",
+    "morgan stanley": "MS", "motorola solutions": "MSI", "nasdaq": "NDAQ",
+    "netapp": "NTAP", "netflix": "NFLX", "newmont": "NEM", "news": "NWSA",
+    "nextera energy": "NEE", "nike": "NKE", "nisource": "NI",
+    "nordson": "NDSN", "norfolk southern": "NSC", "northern trust": "NTRS",
+    "northrop grumman": "NOC", "norwegian cruise": "NCLH", "nrg energy": "NRG",
+    "nucor": "NUE", "nvidia": "NVDA", "nxp semiconductors": "NXPI",
+    "old dominion freight": "ODFL", "omnicom": "OMC", "oneok": "OKE",
+    "oracle": "ORCL", "oreilly automotive": "ORLY", "otis worldwide": "OTIS",
+    "paccar": "PCAR", "packaging corp": "PKG", "palantir": "PLTR",
+    "palo alto networks": "PANW", "paramount": "PARA", "parker hannifin": "PH",
+    "paychex": "PAYX", "paycom": "PAYC", "paypal": "PYPL", "pepsico": "PEP",
+    "pfizer": "PFE", "pg&e": "PCG", "philip morris": "PM", "phillips 66": "PSX",
+    "pinterest": "PINS", "pnc financial": "PNC", "pool": "POOL",
+    "ppg industries": "PPG", "ppl": "PPL", "principal financial": "PFG",
+    "procter & gamble": "PG", "progressive": "PGR", "prologis": "PLD",
+    "prudential financial": "PRU", "public service enterprise": "PEG",
+    "public storage": "PSA", "pultegroup": "PHM", "qualcomm": "QCOM",
+    "quanta services": "PWR", "quest diagnostics": "DGX", "ralph lauren": "RL",
+    "raymond james": "RJF", "realty income": "O", "regency centers": "REG",
+    "regeneron": "REGN", "regions financial": "RF", "republic services": "RSG",
+    "resmed": "RMD", "revvity": "RVTY", "rockwell automation": "ROK",
+    "rollins": "ROL", "roper technologies": "ROP", "ross stores": "ROST",
+    "royal caribbean": "RCL", "rtx": "RTX", "s&p global": "SPGI",
+    "salesforce": "CRM", "sba communications": "SBAC", "schlumberger": "SLB",
+    "seagate": "STX", "sempra": "SRE", "servicenow": "NOW", "sherwin williams": "SHW",
+    "simon property": "SPG", "skyworks solutions": "SWKS", "smurfit westrock": "SW",
+    "snap on": "SNA", "solventum": "SOLV", "southern": "SO",
+    "southwest airlines": "LUV", "stanley black & decker": "SWK",
+    "starbucks": "SBUX", "state street": "STT", "steel dynamics": "STLD",
+    "steris": "STE", "stryker": "SYK", "synchrony financial": "SYF",
+    "synopsys": "SNPS", "sysco": "SYY", "t rowe price": "TROW",
+    "take two interactive": "TTWO", "tapestry": "TPR", "targa resources": "TRGP",
+    "target": "TGT", "td synnex": "SNX", "te connectivity": "TEL",
+    "teledyne": "TDY", "teleflex": "TFX", "teradyne": "TER", "tesla": "TSLA",
+    "texas instruments": "TXN", "textron": "TXT", "thermo fisher": "TMO",
+    "tjx": "TJX", "tmobile": "TMUS", "tractor supply": "TSCO",
+    "trane technologies": "TT", "transdigm": "TDG", "travelers": "TRV",
+    "trimble": "TRMB", "truist financial": "TFC", "tyler technologies": "TYL",
+    "tyson foods": "TSN", "uber technologies": "UBER", "udr": "UDR",
+    "ulta beauty": "ULTA", "union pacific": "UNP", "united airlines": "UAL",
+    "united parcel service": "UPS", "united rentals": "URI",
+    "unitedhealth": "UNH", "universal health": "UHS", "us bancorp": "USB",
+    "valero energy": "VLO", "ventas": "VTR", "verisign": "VRSN",
+    "verisk analytics": "VRSK", "verizon": "VZ", "vertex pharmaceuticals": "VRTX",
+    "viatris": "VTRS", "vici properties": "VICI", "visa": "V",
+    "vulcan materials": "VMC", "wabtec": "WAB", "walgreens boots": "WBA",
+    "walmart": "WMT", "walt disney": "DIS", "warner bros discovery": "WBD",
+    "waste management": "WM", "waters": "WAT", "wec energy": "WEC",
+    "wells fargo": "WFC", "welltower": "WELL", "west pharmaceutical": "WST",
+    "western digital": "WDC", "weyerhaeuser": "WY", "williams": "WMB",
+    "willis towers watson": "WTW", "workday": "WDAY", "wynn resorts": "WYNN",
+    "xcel energy": "XEL", "xylem": "XYL", "yum brands": "YUM",
+    "zebra technologies": "ZBRA", "zimmer biomet": "ZBH", "zoetis": "ZTS",
+}
 
-ACTION_RE = re.compile(r"\b(purchase|sale|sold|bought|exchange)\b", re.IGNORECASE)
-ACTION_CODE_RE = re.compile(r"(?<![A-Za-z])([PSE])(?![A-Za-z])")
-
-# Anything that reads like debt. Belt and braces on top of the separate
-# fixed income filing, in case the two documents are ever combined.
-NON_EQUITY_RE = re.compile(
-    r"\b(bond|bonds|note|notes|treasury|municipal|muni|revenue|debenture|"
-    r"certificate of deposit|money market|mortgage|obligation|"
-    r"authority|school district|county of|city of|state of|"
-    r"L\.?L\.?C|L\.?P\.?|limited partnership|"
-    r"preferred|fixed income|corporate credit)\b", re.IGNORECASE)
+SUFFIX_RE = re.compile(
+    r"\b(inc|corp|corporation|co|company|ltd|limited|plc|the|class [ab]|"
+    r"common stock|holdings|group|new|nv|sa|ag)\b\.?", re.IGNORECASE)
 
 
-def norm_action(text):
-    m = ACTION_RE.search(text)
-    if m:
-        w = m.group(1).lower()
-        if w in ("purchase", "bought"):
-            return "BUY"
-        if w in ("sale", "sold"):
-            return "SELL"
-        return "EXCHANGE"
-    m = ACTION_CODE_RE.search(text)
-    if m:
-        return {"P": "BUY", "S": "SELL", "E": "EXCHANGE"}[m.group(1)]
+def resolve_ticker(name):
+    """Company name to ticker. The filing gives us no ticker of its own."""
+    key = SUFFIX_RE.sub(" ", name.lower())
+    key = re.sub(r"[^a-z0-9& ]", " ", key)
+    key = re.sub(r"\s+", " ", key).strip()
+    if not key:
+        return ""
+    if key in TICKER_MAP:
+        return TICKER_MAP[key]
+    for k, v in TICKER_MAP.items():          # prefix match for truncated names
+        if key.startswith(k) or k.startswith(key):
+            if abs(len(k) - len(key)) <= 6:
+                return v
     return ""
 
 
+# The 278-T carries NO tickers. Rows are company names in plain text, and
+# OCR mangles them further: "wurchase" for purchase, stray pipes, and amounts
+# like $15,002 where the disclosure band is $15,001. So we anchor on the
+# transaction word, tolerate a mangled first letter, and snap amounts to the
+# nearest real disclosure band.
+
+ACTION_WORD_RE = re.compile(
+    r"\b(?:[a-z]{0,2}urchase|sale|sold|[a-z]?xchange|exchange)\b", re.IGNORECASE)
+
+AMOUNT_LOOSE_RE = re.compile(
+    r"\$?\s?(\d[\d,]{2,11})\s*[-\u2013\u2014~]\s*\$?\s?(\d[\d,]{2,11})")
+
+DATE_RE = re.compile(r"(\d{1,2})/(\d{1,2})/(\d{4})")
+
+# Real disclosure bands. OCR drift gets snapped back to these.
+BANDS = [1_001, 15_001, 50_001, 100_001, 250_001, 500_001,
+         1_000_001, 5_000_001, 25_000_001, 50_000_001]
+BAND_TOPS = [15_000, 50_000, 100_000, 250_000, 500_000, 1_000_000,
+             5_000_000, 25_000_000, 50_000_000, 100_000_000]
+
+
+def snap(value, table):
+    """Pull an OCR-drifted figure back to the nearest disclosure band."""
+    best = min(table, key=lambda b: abs(b - value))
+    return best if abs(best - value) <= max(50, best * 0.01) else value
+
+
+NON_EQUITY_RE = re.compile(
+    r"\b(bond|bonds|note|notes|treasury|municipal|muni|revenue|debenture|"
+    r"certificate of deposit|money market|mortgage|obligation|"
+    r"authority|school district|county of|city of|state of|university of|"
+    r"L\.?L\.?C|L\.?P\.?|limited partnership|"
+    r"preferred|fixed income|corporate credit|sr sec|senior notes|"
+    r"due 20\d\d|\d\.\d{2,3}%)\b", re.IGNORECASE)
+
+# A company rather than a bond issue or a fund.
+COMPANY_HINT_RE = re.compile(
+    r"\b(inc|corp|corporation|co|company|ltd|limited|plc|group|holdings|"
+    r"technologies|systems|industries|international|nv|sa|ag|etf|trust)\b\.?$",
+    re.IGNORECASE)
+
+
+def clean_name(s):
+    s = s.replace("\\", " ")
+    # OCR prefixes every row with the line number, sometimes misread as a
+    # letter ("s Howmet"), which otherwise blocks the ticker lookup.
+    s = re.sub(r"^[\s\d|\[\]{}()<>.,;:_/-]+", "", s)
+    s = re.sub(r"^[a-zA-Z]\s+(?=[A-Z])", "", s)
+    s = re.sub(r"[|\[\]{}<>]", " ", s)
+    s = re.sub(r"\b(sp|jt|dc|st|na|no|yes)\b", " ", s, flags=re.IGNORECASE)
+    s = re.sub(r"\s+", " ", s)
+    return s.strip(" .,-|")
+
+
+def norm_action(word):
+    w = word.lower()
+    if "urchase" in w:
+        return "BUY"
+    if w in ("sale", "sold"):
+        return "SELL"
+    return "EXCHANGE"
+
+
 def extract_rows(text):
-    """Pull transaction rows out of 278-T text. Wrap tolerant."""
+    """
+    Line oriented, because each 278-T transaction occupies one line and the
+    span approach used for House PTRs would let OCR noise bleed between rows.
+    """
     rows = []
-    for m in ROW_ANCHOR_RE.finditer(text):
-        low = int(m.group("low").replace(",", ""))
-        high = int(m.group("high").replace(",", ""))
-        if low < 1000:
+    for raw in text.splitlines():
+        line = raw.strip()
+        if len(line) < 12 or "$" not in line and "-" not in line:
             continue
 
-        before = text[max(0, m.start() - 200):m.start()]
-        after = text[m.end():m.end() + 60]
+        am = ACTION_WORD_RE.search(line)
+        if not am:
+            continue
 
-        # Stop at the previous row so we never inherit its asset or ticker.
-        prev = list(ROW_ANCHOR_RE.finditer(before))
-        if prev:
-            before = before[prev[-1].end():]
-
-        tick = TICKER_RE.search(before) or TICKER_RE.search(after)
-        ticker = tick.group(1) if tick else ""
-        if ticker in ("ST", "OP", "PS", "RP", "SP", "JT", "DC", "SR", "IRA"):
-            ticker = ""
-
-        action = norm_action(before)
-
-        asset = before.split("\n")[-1] if "\n" in before else before
-        asset = re.sub(r"\([A-Z][A-Z0-9.\-]{0,6}\)", "", asset)
-        asset = re.sub(r"\b(purchase|sale|sold|bought|exchange)\b", "",
-                       asset, flags=re.IGNORECASE)
-        asset = re.sub(r"\d{1,2}/\d{1,2}/\d{4}", "", asset)
-        asset = re.sub(r"\s+", " ", asset).strip(" .,-|")
+        rest = line[am.end():]
+        mo = AMOUNT_LOOSE_RE.search(rest)
+        if not mo:
+            continue
 
         try:
-            td = datetime.strptime(m.group("tdate"), "%m/%d/%Y").strftime("%Y-%m-%d")
+            low = snap(int(mo.group(1).replace(",", "")), BANDS)
+            high = snap(int(mo.group(2).replace(",", "")), BAND_TOPS)
         except ValueError:
-            td = ""
+            continue
+        if low < 1_000 or high <= low:
+            continue
+
+        td = ""
+        dm = DATE_RE.search(rest[:mo.start()]) or DATE_RE.search(line)
+        if dm:
+            try:
+                td = datetime(int(dm.group(3)), int(dm.group(1)),
+                              int(dm.group(2))).strftime("%Y-%m-%d")
+            except ValueError:
+                td = ""
+
+        asset = clean_name(line[:am.start()])
+        if len(asset) < 3:
+            continue
 
         rows.append({
-            "ticker": ticker, "asset": asset[:60], "action": action or "BUY",
+            "ticker": resolve_ticker(asset),
+            "asset": asset[:60],
+            "action": norm_action(am.group(0)),
             "low": low, "high": high, "trade_date": td,
         })
     return rows
 
 
 def is_equity(row):
-    if not row["ticker"]:
+    """
+    No tickers exist in the source document, so a ticker cannot be the test.
+    Instead: reject anything that reads like debt, and accept anything that
+    reads like a company or that we could resolve to a ticker.
+    """
+    name = row["asset"]
+    if NON_EQUITY_RE.search(name):
         return False
-    if NON_EQUITY_RE.search(row["asset"]):
-        return False
-    return True
+    if row["ticker"]:
+        return True
+    return bool(COMPANY_HINT_RE.search(name))
 
 
 def aggregate(rows):
