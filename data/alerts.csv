@@ -203,3 +203,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-08-28T22:25:55+00:00,FORM_144,,TFS FINANCIAL CORPORATION,proposed sale $11K,10801,,https://www.sec.gov/Archives/edgar/data/1530997/000195004726008834/0001950047-26-008834-index.htm,LOW
 2026-08-28T22:25:55+00:00,8K,,"SeeQC, Inc.",items 1.02,,,https://www.sec.gov/Archives/edgar/data/1779977/000121390026095141/0001213900-26-095141-index.htm,LOW
 2026-08-28T22:42:22+00:00,INSIDER_CLUSTER,BATL,BATTALION OIL CORP,ROGERS WILLIAM D $91K,91168,2,https://www.sec.gov/Archives/edgar/data/1327420/000110465926103372/0001104659-26-103372-index.htm,HIGH
+2026-08-28T23:22:22+00:00,FORM_144,,GLOBAL INDUSTRIAL Co,proposed sale $68K,68270,,https://www.sec.gov/Archives/edgar/data/1842801/000143774926029219/0001437749-26-029219-index.htm,LOW
