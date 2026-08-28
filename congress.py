@@ -55,6 +55,29 @@ MAX_ALERTS_PER_RUN = 15
 # Senate later, or if you ever move this to a different host.
 SENATE_ENABLED = os.environ.get("SENATE_ENABLED", "").lower() in ("1", "true", "yes")
 
+# Alert on tradeable equities only. Congress must disclose everything, so the
+# raw feed is mostly municipal bonds, treasury notes, private LLCs and real
+# estate partnerships. None of that is actionable and it buries the stock
+# trades. Everything still lands in the CSV, this only governs what is pushed.
+EQUITY_ONLY = True
+
+# Asset names that mean debt or a private vehicle rather than a listed stock.
+NON_EQUITY_RE = re.compile(
+    r"\b(bond|bonds|note|notes|treasury|municipal|muni|revenue|debenture|"
+    r"certificate of deposit|money market|mortgage|obligation|"
+    r"L\.?L\.?C|L\.?P\.?|limited partnership|partners|"
+    r"variable annuity|whole life|529|savings plan|"
+    r"corporate credit|fixed income)\b", re.IGNORECASE)
+
+
+def is_equity(trade):
+    """A listed stock or ETF has a ticker and does not read like debt."""
+    if not trade.get("ticker"):
+        return False
+    if NON_EQUITY_RE.search(trade.get("asset", "")):
+        return False
+    return True
+
 SEEN_FILE = STATE_DIR / "congress_seen.json"
 HEALTH_FILE = STATE_DIR / "congress_health.json"
 TRADES_CSV = DATA_DIR / "congress_trades.csv"
@@ -161,7 +184,10 @@ def send_filing(chamber, member, party_state, filed_date, link, trades):
     """
     global alerts_sent
 
-    pushable = [t for t in trades if t["priority"] != "LOW"]
+    above = [t for t in trades if t["priority"] != "LOW"]
+    pushable = [t for t in above if is_equity(t)] if EQUITY_ONLY else above
+    skipped_non_equity = len(above) - len(pushable)
+
     if not pushable or alerts_sent >= MAX_ALERTS_PER_RUN:
         return False
 
@@ -178,8 +204,11 @@ def send_filing(chamber, member, party_state, filed_date, link, trades):
         ("CHAMBER", chamber + (f"  ({party_state})" if party_state else "")),
         ("FILED", dmy(filed_date)),
         ("LAG", lag_txt),
-        ("TRADES", f"{len(pushable)} above threshold"
-                   + (f", {len(trades) - len(pushable)} smaller" if len(trades) > len(pushable) else "")),
+        ("STOCKS", f"{len(pushable)} above threshold"),
+        ("SKIPPED", ", ".join(filter(None, [
+            f"{skipped_non_equity} bonds/funds" if skipped_non_equity else "",
+            f"{len(trades) - len(above)} small" if len(trades) > len(above) else "",
+        ]))),
     ]
 
     lines = []
@@ -189,7 +218,6 @@ def send_filing(chamber, member, party_state, filed_date, link, trades):
                 else "\U0001F534" if t["action"].startswith("SELL") else "")
         lines.append((f"{t['action'][:4]} {tick}",
                       f"{amount_label(t['low'], t['high'])}   {dmy(t['trade_date'])}"
-                      + ("" if t["ticker"] else f"   {t['asset'][:26]}")
                       + (f"  {mark}" if mark else "")))
     if len(pushable) > 12:
         lines.append(("...", f"+{len(pushable) - 12} more in the filing"))
