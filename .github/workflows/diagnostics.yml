@@ -18,6 +18,16 @@ jobs:
           SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
         run: python congress.py test
         continue-on-error: true
+      - name: Install OCR tooling
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq tesseract-ocr poppler-utils
+        continue-on-error: true
+      - name: Trump 278-T connectivity
+        env:
+          SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+        run: python trump.py test
+        continue-on-error: true
       - name: Earnings connectivity
         env:
           SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
