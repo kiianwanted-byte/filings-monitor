@@ -24,3 +24,64 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-08-27T05:45:42+00:00,FORM_144,,"Precigen, Inc.",proposed sale $1.37M,1372700,,https://www.sec.gov/Archives/edgar/data/1356090/000195824426000558/0001958244-26-000558-index.htm
 2026-08-27T05:45:43+00:00,FORM_144,,"Casella Waste Systems, Inc.",proposed sale $103K,103114,,https://www.sec.gov/Archives/edgar/data/1224062/000195824426000557/0001958244-26-000557-index.htm
 2026-08-27T05:45:44+00:00,FORM_144,,ZTO Express (Cayman) Inc.,proposed sale $4.26M,4264000,,https://www.sec.gov/Archives/edgar/data/1971621/000195824426000556/0001958244-26-000556-index.htm
+2026-08-28T21:29:14+00:00,FORM_144,,"MAGNITE, INC.",proposed sale $712K,712166,,https://www.sec.gov/Archives/edgar/data/1781873/000195004726008732/0001950047-26-008732-index.htm,LOW
+2026-08-28T21:29:14+00:00,FORM_144,,"CoastalSouth Bancshares, Inc.",proposed sale $55K,55002,,https://www.sec.gov/Archives/edgar/data/2067397/000197407826000332/0001974078-26-000332-index.htm,LOW
+2026-08-28T21:29:15+00:00,FORM_144,,"WEAVE COMMUNICATIONS, INC.",proposed sale $721K,721342,,https://www.sec.gov/Archives/edgar/data/1639299/000195004726008731/0001950047-26-008731-index.htm,LOW
+2026-08-28T21:29:15+00:00,FORM_144,,EverCommerce Inc.,proposed sale $285K,284654,,https://www.sec.gov/Archives/edgar/data/1856906/000195917326006476/0001959173-26-006476-index.htm,LOW
+2026-08-28T21:29:15+00:00,FORM_144,,"MUELLER WATER PRODUCTS, INC.",proposed sale $75K,74818,,https://www.sec.gov/Archives/edgar/data/2083713/000162828026059101/0001628280-26-059101-index.htm,LOW
+2026-08-28T21:29:16+00:00,FORM_144,,"WEAVE COMMUNICATIONS, INC.",proposed sale $49K,49326,,https://www.sec.gov/Archives/edgar/data/1639298/000195004726008730/0001950047-26-008730-index.htm,LOW
+2026-08-28T21:29:16+00:00,FORM_144,,"AUTODESK, INC.",proposed sale $510K,510100,,https://www.sec.gov/Archives/edgar/data/1277246/000195004726008729/0001950047-26-008729-index.htm,LOW
+2026-08-28T21:29:16+00:00,FORM_144,,"Airbnb, Inc.",proposed sale $3.75M,3749610,,https://www.sec.gov/Archives/edgar/data/1834147/000195917326006475/0001959173-26-006475-index.htm,LOW
+2026-08-28T21:29:17+00:00,FORM_144,,"Home Depot, Inc.",proposed sale $239K,239098,,https://www.sec.gov/Archives/edgar/data/2059982/000162828026059099/0001628280-26-059099-index.htm,LOW
+2026-08-28T21:29:17+00:00,FORM_144,,"NAPCO SECURITY TECHNOLOGIES, INC.",proposed sale $3.43M,3430714,,https://www.sec.gov/Archives/edgar/data/1254037/000195004726008728/0001950047-26-008728-index.htm,LOW
+2026-08-28T21:29:17+00:00,FORM_144,,EverCommerce Inc.,proposed sale $32K,31744,,https://www.sec.gov/Archives/edgar/data/1856906/000195917326006474/0001959173-26-006474-index.htm,LOW
+2026-08-28T21:29:18+00:00,FORM_144,,CENTENE CORP,proposed sale $2.83M,2834000,,https://www.sec.gov/Archives/edgar/data/1498992/000195917326006473/0001959173-26-006473-index.htm,LOW
+2026-08-28T21:29:18+00:00,FORM_144,,"NAPCO SECURITY TECHNOLOGIES, INC.",proposed sale $1.01M,1007400,,https://www.sec.gov/Archives/edgar/data/1416646/000195004726008727/0001950047-26-008727-index.htm,LOW
+2026-08-28T21:29:18+00:00,FORM_144,,"AMBIQ MICRO, INC.",proposed sale $1.64M,1638469,,https://www.sec.gov/Archives/edgar/data/2078339/000195004726008726/0001950047-26-008726-index.htm,LOW
+2026-08-28T21:29:19+00:00,FORM_144,,"BLOCK, INC.",proposed sale $492K,492000,,https://www.sec.gov/Archives/edgar/data/1933928/000195004726008725/0001950047-26-008725-index.htm,LOW
+2026-08-28T21:29:19+00:00,FORM_144,,"Live Oak Bancshares, Inc.",proposed sale $400K,399877,,https://www.sec.gov/Archives/edgar/data/1462120/000195917326006472/0001959173-26-006472-index.htm,LOW
+2026-08-28T21:29:19+00:00,FORM_144,,MERCURY SYSTEMS INC,proposed sale $4.37M,4373744,,https://www.sec.gov/Archives/edgar/data/1436044/000195917326006471/0001959173-26-006471-index.htm,LOW
+2026-08-28T21:29:20+00:00,8K,,CaliberCos Inc.,items 3.01,,,https://www.sec.gov/Archives/edgar/data/1627282/000162728226000065/0001627282-26-000065-index.htm,HIGH
+2026-08-28T21:29:21+00:00,8K,,Bleichroeder Acquisition Corp. II,items 5.02,,,https://www.sec.gov/Archives/edgar/data/2088295/000121390026094046/0001213900-26-094046-index.htm,LOW
+2026-08-28T21:29:21+00:00,8K,,McEwen Inc.,items 5.02,,,https://www.sec.gov/Archives/edgar/data/314203/000110465926101630/0001104659-26-101630-index.htm,LOW
+2026-08-28T21:29:21+00:00,8K,,CHS INC,items 1.01,,,https://www.sec.gov/Archives/edgar/data/823277/000082327726000029/0000823277-26-000029-index.htm,LOW
+2026-08-28T21:29:22+00:00,8K,,Technology & Telecommunication Acquisition Corp,items 1.01,,,https://www.sec.gov/Archives/edgar/data/1900679/000149315226040261/0001493152-26-040261-index.htm,LOW
+2026-08-28T21:29:22+00:00,8K,,ATLANTIC AMERICAN CORP,items 3.01,,,https://www.sec.gov/Archives/edgar/data/8177/000114036126034470/0001140361-26-034470-index.htm,HIGH
+2026-08-28T21:29:23+00:00,8K,,"Autonomix Medical, Inc.",items 1.01,,,https://www.sec.gov/Archives/edgar/data/1617867/000143774926029024/0001437749-26-029024-index.htm,LOW
+2026-08-28T21:29:23+00:00,8K,,EXTREME NETWORKS INC,items 4.01,,,https://www.sec.gov/Archives/edgar/data/1078271/000119312526368873/0001193125-26-368873-index.htm,HIGH
+2026-08-28T21:29:24+00:00,8K,,Laser Photonics Corp,items 5.02,,,https://www.sec.gov/Archives/edgar/data/1807887/000149315226040256/0001493152-26-040256-index.htm,LOW
+2026-08-28T21:29:24+00:00,8K,,"AIxCrypto Holdings, Inc.",items 5.02,,,https://www.sec.gov/Archives/edgar/data/1460702/000149315226040257/0001493152-26-040257-index.htm,LOW
+2026-08-28T21:29:24+00:00,8K,,New America Acquisition I Corp.,items 5.02,,,https://www.sec.gov/Archives/edgar/data/2074878/000149315226040253/0001493152-26-040253-index.htm,LOW
+2026-08-28T21:29:25+00:00,8K,,BIOMERICA INC,items 1.01,,,https://www.sec.gov/Archives/edgar/data/73290/000149315226040251/0001493152-26-040251-index.htm,LOW
+2026-08-28T21:29:26+00:00,8K,,"AstroNova, Inc.","items 1.02,3.01,5.02",,,https://www.sec.gov/Archives/edgar/data/8146/000119312526368764/0001193125-26-368764-index.htm,HIGH
+2026-08-28T21:29:27+00:00,8K,,Crown Reserve Acquisition Corp. I,items 1.01,,,https://www.sec.gov/Archives/edgar/data/2070887/000121390026094001/0001213900-26-094001-index.htm,LOW
+2026-08-28T21:29:27+00:00,8K,,American Resources Corp,items 3.01,,,https://www.sec.gov/Archives/edgar/data/1590715/000165495426007884/0001654954-26-007884-index.htm,HIGH
+2026-08-28T21:29:28+00:00,8K,,"Endovia Health Sciences, Inc.",items 1.01,,,https://www.sec.gov/Archives/edgar/data/1553788/000173112226001152/0001731122-26-001152-index.htm,LOW
+2026-08-28T21:29:29+00:00,8K,,Z Squared Inc.,items 5.02,,,https://www.sec.gov/Archives/edgar/data/1759186/000118518526003730/0001185185-26-003730-index.htm,LOW
+2026-08-28T21:29:29+00:00,8K,,VEEA INC.,items 1.01,,,https://www.sec.gov/Archives/edgar/data/1840317/000121390026093996/0001213900-26-093996-index.htm,LOW
+2026-08-28T21:29:31+00:00,8K,,21Shares XRP ETF,items 1.01,,,https://www.sec.gov/Archives/edgar/data/2028835/000121390026093987/0001213900-26-093987-index.htm,LOW
+2026-08-28T21:29:31+00:00,8K,,21Shares Sui Staking ETF,items 1.01,,,https://www.sec.gov/Archives/edgar/data/2061626/000121390026093985/0001213900-26-093985-index.htm,LOW
+2026-08-28T21:29:31+00:00,8K,,F&M BANK CORP,items 5.02,,,https://www.sec.gov/Archives/edgar/data/740806/000165495426007883/0001654954-26-007883-index.htm,LOW
+2026-08-28T21:29:31+00:00,8K,,21Shares Dogecoin ETF,items 1.01,,,https://www.sec.gov/Archives/edgar/data/2064314/000121390026093981/0001213900-26-093981-index.htm,LOW
+2026-08-28T21:29:32+00:00,8K,,TREASURE GLOBAL INC,items 1.01,,,https://www.sec.gov/Archives/edgar/data/1905956/000121390026093980/0001213900-26-093980-index.htm,LOW
+2026-08-28T21:29:32+00:00,8K,,"Jasper Therapeutics, Inc.",items 1.01,,,https://www.sec.gov/Archives/edgar/data/1788028/000121390026093979/0001213900-26-093979-index.htm,LOW
+2026-08-28T21:29:32+00:00,8K,,21Shares Polkadot Staking ETF,items 1.01,,,https://www.sec.gov/Archives/edgar/data/2054247/000121390026093977/0001213900-26-093977-index.htm,LOW
+2026-08-28T21:29:32+00:00,8K,,21Shares Solana Staking ETF,items 1.01,,,https://www.sec.gov/Archives/edgar/data/2028834/000121390026093971/0001213900-26-093971-index.htm,LOW
+2026-08-28T21:29:33+00:00,8K,,21Shares Ethereum Staking ETF,items 1.01,,,https://www.sec.gov/Archives/edgar/data/1992508/000121390026093968/0001213900-26-093968-index.htm,LOW
+2026-08-28T21:29:33+00:00,8K,,"Keysight Technologies, Inc.",items 5.02,,,https://www.sec.gov/Archives/edgar/data/1601046/000160104626000032/0001601046-26-000032-index.htm,LOW
+2026-08-28T21:29:33+00:00,8K,,Ark 21Shares Bitcoin ETF,items 1.01,,,https://www.sec.gov/Archives/edgar/data/1869699/000121390026093966/0001213900-26-093966-index.htm,LOW
+2026-08-28T21:29:34+00:00,8K,,"Champion Homes, Inc.",items 5.02,,,https://www.sec.gov/Archives/edgar/data/90896/000119312526368465/0001193125-26-368465-index.htm,LOW
+2026-08-28T21:29:34+00:00,8K,,CuriosityStream Inc.,items 5.02,,,https://www.sec.gov/Archives/edgar/data/1776909/000162828026059083/0001628280-26-059083-index.htm,LOW
+2026-08-28T21:29:34+00:00,8K,,UNIVERSAL ELECTRONICS INC,items 1.01,,,https://www.sec.gov/Archives/edgar/data/101984/000010198426000124/0000101984-26-000124-index.htm,LOW
+2026-08-28T21:29:35+00:00,8K,,"Inhibikase Therapeutics, Inc.",items 4.01,,,https://www.sec.gov/Archives/edgar/data/1750149/000119312526368296/0001193125-26-368296-index.htm,HIGH
+2026-08-28T21:29:36+00:00,8K,,RUM Group Inc.,items 5.02,,,https://www.sec.gov/Archives/edgar/data/1830081/000121390026093950/0001213900-26-093950-index.htm,LOW
+2026-08-28T21:29:37+00:00,8K,,CHEETAH NET SUPPLY CHAIN SERVICE INC.,items 1.01,,,https://www.sec.gov/Archives/edgar/data/1951667/000110465926101479/0001104659-26-101479-index.htm,LOW
+2026-08-28T21:29:37+00:00,8K,,"NORTHERN OIL & GAS, INC.",items 1.01,,,https://www.sec.gov/Archives/edgar/data/1104485/000119312526368292/0001193125-26-368292-index.htm,LOW
+2026-08-28T21:29:37+00:00,8K,,"SS Innovations International, Inc.",items 5.02,,,https://www.sec.gov/Archives/edgar/data/1676163/000121390026093946/0001213900-26-093946-index.htm,LOW
+2026-08-28T21:29:38+00:00,8K,,HELEN OF TROY LTD,items 5.02,,,https://www.sec.gov/Archives/edgar/data/916789/000091678926000104/0000916789-26-000104-index.htm,LOW
+2026-08-28T21:29:39+00:00,8K,,"Tenon Medical, Inc.",items 1.01,,,https://www.sec.gov/Archives/edgar/data/1560293/000121390026093926/0001213900-26-093926-index.htm,LOW
+2026-08-28T21:29:40+00:00,8K,,Tevogen Inc.,items 5.02,,,https://www.sec.gov/Archives/edgar/data/1860871/000149315226040216/0001493152-26-040216-index.htm,LOW
+2026-08-28T21:29:40+00:00,8K,,Novelis Inc.,items 5.02,,,https://www.sec.gov/Archives/edgar/data/1304280/000130428026000034/0001304280-26-000034-index.htm,LOW
+2026-08-28T21:29:40+00:00,LATE_FILING,,"MSP Recovery, Inc.",NT 10-Q,,,https://www.sec.gov/Archives/edgar/data/1802450/000121390026093940/0001213900-26-093940-index.htm,HIGH
+2026-08-28T21:29:41+00:00,LATE_FILING,,"ACURA PHARMACEUTICALS, INC",NT 10-Q,,,https://www.sec.gov/Archives/edgar/data/786947/000110465926101083/0001104659-26-101083-index.htm,HIGH
+2026-08-28T21:29:41+00:00,LATE_FILING,,Mercator Acquisition Corp.,NT 10-Q,,,https://www.sec.gov/Archives/edgar/data/2106436/000121390026093509/0001213900-26-093509-index.htm,HIGH
