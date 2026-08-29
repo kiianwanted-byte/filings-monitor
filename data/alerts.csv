@@ -219,3 +219,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-08-29T00:35:06+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $739K,739133,,https://www.sec.gov/Archives/edgar/data/2135147/000213514726000009/0002135147-26-000009-index.htm,LOW
 2026-08-29T00:42:14+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $83K,83006,,https://www.sec.gov/Archives/edgar/data/2135151/000213515126000006/0002135151-26-000006-index.htm,LOW
 2026-08-29T00:42:14+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $1.63M,1634904,,https://www.sec.gov/Archives/edgar/data/2135135/000213513526000009/0002135135-26-000009-index.htm,LOW
+2026-08-29T01:06:16+00:00,INSIDER_CLUSTER,BIVI,BIOVIE INC.,Chappell Amy Suzon $2K,1570,0,https://www.sec.gov/Archives/edgar/data/2090156/000152013826000382/0001520138-26-000382-index.htm,HIGH
+2026-08-29T01:06:17+00:00,INSIDER_CLUSTER,BIVI,BIOVIE INC.,KIM JOANNE WENDY $5K,5450,0,https://www.sec.gov/Archives/edgar/data/1771317/000152013826000379/0001520138-26-000379-index.htm,HIGH
+2026-08-29T01:06:18+00:00,INSIDER_CLUSTER,BIVI,BIOVIE INC.,DO CUONG V $32K,31636,1,https://www.sec.gov/Archives/edgar/data/1580149/000152013826000378/0001520138-26-000378-index.htm,HIGH
