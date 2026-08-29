@@ -205,3 +205,9 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-08-28T22:42:22+00:00,INSIDER_CLUSTER,BATL,BATTALION OIL CORP,ROGERS WILLIAM D $91K,91168,2,https://www.sec.gov/Archives/edgar/data/1327420/000110465926103372/0001104659-26-103372-index.htm,HIGH
 2026-08-28T23:22:22+00:00,FORM_144,,GLOBAL INDUSTRIAL Co,proposed sale $68K,68270,,https://www.sec.gov/Archives/edgar/data/1842801/000143774926029219/0001437749-26-029219-index.htm,LOW
 2026-08-28T23:53:56+00:00,FORM_144,,General Dynamics Corporation,proposed sale $1.30B,1297465605,,https://www.sec.gov/Archives/edgar/data/1086477/000119312526375000/0001193125-26-375000-index.htm,MEDIUM
+2026-08-29T00:10:38+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $1.90M,1896480,,https://www.sec.gov/Archives/edgar/data/2126752/000212675226000012/0002126752-26-000012-index.htm,LOW
+2026-08-29T00:10:39+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $174K,173915,,https://www.sec.gov/Archives/edgar/data/2137613/000213761326000004/0002137613-26-000004-index.htm,LOW
+2026-08-29T00:10:39+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $689K,688891,,https://www.sec.gov/Archives/edgar/data/2126753/000212675326000010/0002126753-26-000010-index.htm,LOW
+2026-08-29T00:10:39+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $110K,110348,,https://www.sec.gov/Archives/edgar/data/2126754/000212675426000006/0002126754-26-000006-index.htm,LOW
+2026-08-29T00:10:40+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $692K,692444,,https://www.sec.gov/Archives/edgar/data/2126755/000212675526000009/0002126755-26-000009-index.htm,LOW
+2026-08-29T00:10:40+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $3K,3105,,https://www.sec.gov/Archives/edgar/data/2126756/000212675626000005/0002126756-26-000005-index.htm,LOW
