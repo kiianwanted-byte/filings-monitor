@@ -217,3 +217,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-08-29T00:26:19+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $1.70M,1702616,,https://www.sec.gov/Archives/edgar/data/2126744/000212674426000006/0002126744-26-000006-index.htm,LOW
 2026-08-29T00:35:06+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $227K,227458,,https://www.sec.gov/Archives/edgar/data/2135137/000213513726000013/0002135137-26-000013-index.htm,LOW
 2026-08-29T00:35:06+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $739K,739133,,https://www.sec.gov/Archives/edgar/data/2135147/000213514726000009/0002135147-26-000009-index.htm,LOW
+2026-08-29T00:42:14+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $83K,83006,,https://www.sec.gov/Archives/edgar/data/2135151/000213515126000006/0002135151-26-000006-index.htm,LOW
+2026-08-29T00:42:14+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $1.63M,1634904,,https://www.sec.gov/Archives/edgar/data/2135135/000213513526000009/0002135135-26-000009-index.htm,LOW
