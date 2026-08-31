@@ -387,3 +387,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-08-31T20:41:50+00:00,8K,,"Shoals Technologies Group, Inc.",items 1.01,,,https://www.sec.gov/Archives/edgar/data/1831651/000183165126000116/0001831651-26-000116-index.htm,LOW
 2026-08-31T20:41:50+00:00,8K,,UNITED PARCEL SERVICE INC,items 5.02,,,https://www.sec.gov/Archives/edgar/data/1090727/000162828026059609/0001628280-26-059609-index.htm,LOW
 2026-08-31T20:41:50+00:00,8K,,"Teladoc Health, Inc.",items 5.02,,,https://www.sec.gov/Archives/edgar/data/1477449/000147744926000044/0001477449-26-000044-index.htm,LOW
+2026-08-31T20:49:28+00:00,FORM_144,,Jazz Pharmaceuticals plc,proposed sale $858K,857602,,https://www.sec.gov/Archives/edgar/data/2013944/000201394426000004/0002013944-26-000004-index.htm,LOW
+2026-08-31T20:49:28+00:00,FORM_144,,"EHEALTH, INC.",proposed sale $42K,42431,,https://www.sec.gov/Archives/edgar/data/1333493/000195004726008871/0001950047-26-008871-index.htm,LOW
+2026-08-31T20:49:28+00:00,FORM_144,,EverCommerce Inc.,proposed sale $365K,364615,,https://www.sec.gov/Archives/edgar/data/1856906/000195917326006555/0001959173-26-006555-index.htm,LOW
+2026-08-31T20:49:29+00:00,8K,,Metallus Inc.,items 5.02,,,https://www.sec.gov/Archives/edgar/data/1598428/000119312526376936/0001193125-26-376936-index.htm,LOW
+2026-08-31T20:49:29+00:00,8K,,"Microvast Holdings, Inc.",items 3.01,,,https://www.sec.gov/Archives/edgar/data/1760689/000094787126000854/0000947871-26-000854-index.htm,HIGH
