@@ -281,3 +281,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-08-31T18:24:15+00:00,FORM_144,,STATE STREET CORP,proposed sale $96K,96057,,https://www.sec.gov/Archives/edgar/data/1716132/000195917326006545/0001959173-26-006545-index.htm,LOW
 2026-08-31T18:24:15+00:00,FORM_144,,WESTERN DIGITAL CORP,proposed sale $4.48M,4478500,,https://www.sec.gov/Archives/edgar/data/1021762/000195917326006544/0001959173-26-006544-index.htm,LOW
 2026-08-31T18:39:36+00:00,FORM_144,,"Airbnb, Inc.",proposed sale $2.55M,2549635,,https://www.sec.gov/Archives/edgar/data/1834147/000195917326006546/0001959173-26-006546-index.htm,LOW
+2026-08-31T19:05:24+00:00,LATE_FILING,,CANNABIS SUISSE CORP.,NT 10-K,,,https://www.sec.gov/Archives/edgar/data/1680132/000168013226000008/0001680132-26-000008-index.htm,HIGH
