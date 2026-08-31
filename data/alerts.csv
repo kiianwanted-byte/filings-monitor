@@ -222,3 +222,24 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-08-29T01:06:16+00:00,INSIDER_CLUSTER,BIVI,BIOVIE INC.,Chappell Amy Suzon $2K,1570,0,https://www.sec.gov/Archives/edgar/data/2090156/000152013826000382/0001520138-26-000382-index.htm,HIGH
 2026-08-29T01:06:17+00:00,INSIDER_CLUSTER,BIVI,BIOVIE INC.,KIM JOANNE WENDY $5K,5450,0,https://www.sec.gov/Archives/edgar/data/1771317/000152013826000379/0001520138-26-000379-index.htm,HIGH
 2026-08-29T01:06:18+00:00,INSIDER_CLUSTER,BIVI,BIOVIE INC.,DO CUONG V $32K,31636,1,https://www.sec.gov/Archives/edgar/data/1580149/000152013826000378/0001520138-26-000378-index.htm,HIGH
+2026-08-31T11:09:00+00:00,INSIDER_CLUSTER,SHMD,SCHMID Group N.V.,Schuetz Arthur Josef Hermann $49K,49096,7308,https://www.sec.gov/Archives/edgar/data/2125667/000212566726000003/0002125667-26-000003-index.htm,HIGH
+2026-08-31T11:09:09+00:00,FORM_144,,International General Insurance Holdings Ltd.,proposed sale $1.05M,1050000,,https://www.sec.gov/Archives/edgar/data/1808127/000110465926103539/0001104659-26-103539-index.htm,LOW
+2026-08-31T11:09:10+00:00,FORM_144,,Allot Ltd.,proposed sale $32K,31720,,https://www.sec.gov/Archives/edgar/data/2103955/000197640826000786/0001976408-26-000786-index.htm,LOW
+2026-08-31T11:09:10+00:00,FORM_144,,Autohome Inc.,proposed sale $9K,8949,,https://www.sec.gov/Archives/edgar/data/2110868/000197337926000315/0001973379-26-000315-index.htm,LOW
+2026-08-31T11:09:10+00:00,FORM_144,,Autohome Inc.,proposed sale $37K,37372,,https://www.sec.gov/Archives/edgar/data/2111933/000197337926000314/0001973379-26-000314-index.htm,LOW
+2026-08-31T11:09:11+00:00,FORM_144,,Autohome Inc.,proposed sale $136K,135610,,https://www.sec.gov/Archives/edgar/data/2117458/000197337926000313/0001973379-26-000313-index.htm,LOW
+2026-08-31T11:09:11+00:00,FORM_144,,"Youdao, Inc.",proposed sale $353K,352946,,https://www.sec.gov/Archives/edgar/data/1781753/000197337926000312/0001973379-26-000312-index.htm,LOW
+2026-08-31T11:09:11+00:00,8K,,"TELA Bio, Inc.",items 5.02,,,https://www.sec.gov/Archives/edgar/data/1561921/000110465926103548/0001104659-26-103548-index.htm,LOW
+2026-08-31T11:09:12+00:00,8K,,HERBALIFE LTD.,items 5.02,,,https://www.sec.gov/Archives/edgar/data/1180262/000121390026095328/0001213900-26-095328-index.htm,LOW
+2026-08-31T11:09:13+00:00,8K,,Aon plc,items 1.01,,,https://www.sec.gov/Archives/edgar/data/315293/000119312526375328/0001193125-26-375328-index.htm,LOW
+2026-08-31T11:09:13+00:00,8K,,"Ranger Energy Services, Inc.",items 1.01,,,https://www.sec.gov/Archives/edgar/data/1699039/000162828026059460/0001628280-26-059460-index.htm,LOW
+2026-08-31T11:09:13+00:00,8K,,"Zedge, Inc.",items 5.02,,,https://www.sec.gov/Archives/edgar/data/1667313/000121390026095319/0001213900-26-095319-index.htm,LOW
+2026-08-31T11:09:13+00:00,8K,,Northann Corp.,"items 3.01,4.01",,,https://www.sec.gov/Archives/edgar/data/1923780/000157587226000629/0001575872-26-000629-index.htm,HIGH
+2026-08-31T11:09:14+00:00,8K,,GameStop Corp.,items 1.01,,,https://www.sec.gov/Archives/edgar/data/1326380/000132638026000046/0001326380-26-000046-index.htm,LOW
+2026-08-31T11:09:15+00:00,8K,,JATT III Acquisition Corp,"items 1.01,5.02",,,https://www.sec.gov/Archives/edgar/data/2145659/000121390026095299/0001213900-26-095299-index.htm,LOW
+2026-08-31T11:09:15+00:00,8K,,WASTE ENERGY CORP.,items 5.02,,,https://www.sec.gov/Archives/edgar/data/1515139/000149315226040683/0001493152-26-040683-index.htm,LOW
+2026-08-31T11:09:15+00:00,8K,,BIOMARIN PHARMACEUTICAL INC,items 1.01,,,https://www.sec.gov/Archives/edgar/data/1048477/000119312526375275/0001193125-26-375275-index.htm,LOW
+2026-08-31T11:09:15+00:00,8K,,Breeze Acquisition Corp. II,items 4.02,,,https://www.sec.gov/Archives/edgar/data/2095443/000121390026095265/0001213900-26-095265-index.htm,HIGH
+2026-08-31T11:09:16+00:00,8K,,Trilogy Metals Inc.,items 1.01,,,https://www.sec.gov/Archives/edgar/data/1543418/000127956926000836/0001279569-26-000836-index.htm,LOW
+2026-08-31T11:09:16+00:00,8K,,DECKERS OUTDOOR CORP,items 1.01,,,https://www.sec.gov/Archives/edgar/data/910521/000091052126000024/0000910521-26-000024-index.htm,LOW
+2026-08-31T11:09:16+00:00,8K,,"Sweetgreen, Inc.",items 5.02,,,https://www.sec.gov/Archives/edgar/data/1477815/000162828026059445/0001628280-26-059445-index.htm,LOW
