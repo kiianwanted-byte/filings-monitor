@@ -409,3 +409,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-08-31T21:06:51+00:00,8K,,Primis Financial Corp.,items 5.02,,,https://www.sec.gov/Archives/edgar/data/1325670/000110465926103947/0001104659-26-103947-index.htm,LOW
 2026-08-31T21:06:51+00:00,8K,,WESTLAKE CORP,items 5.02,,,https://www.sec.gov/Archives/edgar/data/1262823/000119312526376996/0001193125-26-376996-index.htm,LOW
 2026-08-31T21:06:52+00:00,8K,,INNO HOLDINGS INC.,items 5.02,,,https://www.sec.gov/Archives/edgar/data/1961847/000149315226040848/0001493152-26-040848-index.htm,LOW
+2026-08-31T21:14:20+00:00,FORM_144,,"Revolution Medicines, Inc.",proposed sale $15.19M,15193949,,https://www.sec.gov/Archives/edgar/data/1643746/000196858226000898/0001968582-26-000898-index.htm,MEDIUM
+2026-08-31T21:14:22+00:00,FORM_144,,Jazz Pharmaceuticals plc,proposed sale $373K,373413,,https://www.sec.gov/Archives/edgar/data/1232524/000118891926000013/0001188919-26-000013-index.htm,LOW
+2026-08-31T21:14:22+00:00,FORM_144,,"Expion Energy, Inc.",proposed sale $102K,101544,,https://www.sec.gov/Archives/edgar/data/1921639/000197248126000269/0001972481-26-000269-index.htm,LOW
+2026-08-31T21:14:22+00:00,8K,,"NextTrip, Inc.",items 1.01,,,https://www.sec.gov/Archives/edgar/data/788611/000149315226040859/0001493152-26-040859-index.htm,LOW
+2026-08-31T21:14:22+00:00,8K,,ONEOK INC /NEW/,items 1.01,,,https://www.sec.gov/Archives/edgar/data/1039684/000119312526377023/0001193125-26-377023-index.htm,LOW
