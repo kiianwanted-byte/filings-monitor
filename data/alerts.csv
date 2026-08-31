@@ -246,3 +246,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-08-31T11:17:00+00:00,FORM_144,,Clean Energy Fuels Corp.,proposed sale $17.21M,17206747,,https://www.sec.gov/Archives/edgar/data/1743086/000110465926103552/0001104659-26-103552-index.htm,MEDIUM
 2026-08-31T11:25:52+00:00,FORM_144,,RISKIFIED LTD.,proposed sale $3.15M,3155000,,https://www.sec.gov/Archives/edgar/data/1851112/000197640826000789/0001976408-26-000789-index.htm,LOW
 2026-08-31T11:34:42+00:00,8K,,"FirstCash Holdings, Inc.",items 1.01,,,https://www.sec.gov/Archives/edgar/data/840489/000110465926103556/0001104659-26-103556-index.htm,LOW
+2026-08-31T11:49:58+00:00,8K,,"CIVISTA BANCSHARES, INC.",items 5.02,,,https://www.sec.gov/Archives/edgar/data/944745/000119312526375432/0001193125-26-375432-index.htm,LOW
