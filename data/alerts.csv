@@ -322,3 +322,27 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-08-31T20:11:02+00:00,8K,,"Camping World Holdings, Inc.",items 1.01,,,https://www.sec.gov/Archives/edgar/data/1669779/000110465926103869/0001104659-26-103869-index.htm,LOW
 2026-08-31T20:11:02+00:00,8K,,"WORTHINGTON ENTERPRISES, INC.",items 1.01,,,https://www.sec.gov/Archives/edgar/data/108516/000119312526376705/0001193125-26-376705-index.htm,LOW
 2026-08-31T20:11:02+00:00,8K,,"Grove Collaborative Holdings, Inc.",items 5.02,,,https://www.sec.gov/Archives/edgar/data/1841761/000184176126000086/0001841761-26-000086-index.htm,LOW
+2026-08-31T20:17:05+00:00,INSIDER_CLUSTER,VRXA,Veraxa Biotech AG - Post de-SPAC,Antz Christoph Rudiger $8K,7650,4,https://www.sec.gov/Archives/edgar/data/2123284/000182912626009543/0001829126-26-009543-index.htm,HIGH
+2026-08-31T20:17:21+00:00,FORM_144,,NVIDIA CORP,proposed sale $6.54M,6536514,,https://www.sec.gov/Archives/edgar/data/1696841/000192109426000969/0001921094-26-000969-index.htm,MEDIUM
+2026-08-31T20:17:22+00:00,FORM_144,,Jazz Pharmaceuticals plc,proposed sale $858K,857602,,https://www.sec.gov/Archives/edgar/data/1756253/000175625326000007/0001756253-26-000007-index.htm,LOW
+2026-08-31T20:17:23+00:00,FORM_144,,"ICU MEDICAL, INC.",proposed sale $1.61M,1608142,,https://www.sec.gov/Archives/edgar/data/1804831/000195004726008855/0001950047-26-008855-index.htm,LOW
+2026-08-31T20:17:23+00:00,FORM_144,,"Verisk Analytics, Inc.",proposed sale $2.39M,2387471,,https://www.sec.gov/Archives/edgar/data/1803783/000196430626000415/0001964306-26-000415-index.htm,LOW
+2026-08-31T20:17:23+00:00,FORM_144,,LivaNova PLC,proposed sale $132K,131538,,https://www.sec.gov/Archives/edgar/data/1656080/000196430626000414/0001964306-26-000414-index.htm,LOW
+2026-08-31T20:17:23+00:00,FORM_144,,"Stitch Fix, Inc.",proposed sale $217K,216827,,https://www.sec.gov/Archives/edgar/data/2004694/000192109426000968/0001921094-26-000968-index.htm,LOW
+2026-08-31T20:17:24+00:00,FORM_144,,"BLOCK, INC.",proposed sale $495K,495480,,https://www.sec.gov/Archives/edgar/data/1933928/000195004726008854/0001950047-26-008854-index.htm,LOW
+2026-08-31T20:17:24+00:00,FORM_144,,"Direct Digital Holdings, Inc.",proposed sale $24K,23600,,https://www.sec.gov/Archives/edgar/data/1896664/000165495426007980/0001654954-26-007980-index.htm,LOW
+2026-08-31T20:17:24+00:00,FORM_144,,VISA INC.,proposed sale $773K,773377,,https://www.sec.gov/Archives/edgar/data/1887192/000196430626000413/0001964306-26-000413-index.htm,LOW
+2026-08-31T20:17:25+00:00,FORM_144,,PHINIA INC.,proposed sale $1.91M,1905453,,https://www.sec.gov/Archives/edgar/data/1968915/000195917326006550/0001959173-26-006550-index.htm,LOW
+2026-08-31T20:17:25+00:00,FORM_144,,"Editas Medicine, Inc.",proposed sale $17K,16728,,https://www.sec.gov/Archives/edgar/data/1742084/000165066426000087/0001650664-26-000087-index.htm,LOW
+2026-08-31T20:17:26+00:00,FORM_144,,"ROCKWELL AUTOMATION, INC",proposed sale $199K,199390,,https://www.sec.gov/Archives/edgar/data/2016350/000192109426000967/0001921094-26-000967-index.htm,LOW
+2026-08-31T20:17:26+00:00,FORM_144,,QUALCOMM INCORPORATED,proposed sale $35K,35360,,https://www.sec.gov/Archives/edgar/data/2081650/000195004726008853/0001950047-26-008853-index.htm,LOW
+2026-08-31T20:17:26+00:00,FORM_144,,Alcoa Corp,proposed sale $36K,35713,,https://www.sec.gov/Archives/edgar/data/1907073/000196430626000412/0001964306-26-000412-index.htm,LOW
+2026-08-31T20:17:27+00:00,FORM_144,,"Editas Medicine, Inc.",proposed sale $2K,2296,,https://www.sec.gov/Archives/edgar/data/1985604/000165066426000085/0001650664-26-000085-index.htm,LOW
+2026-08-31T20:17:27+00:00,FORM_144,,"CoastalSouth Bancshares, Inc.",proposed sale $55K,54856,,https://www.sec.gov/Archives/edgar/data/2067397/000197407826000337/0001974078-26-000337-index.htm,LOW
+2026-08-31T20:17:27+00:00,FORM_144,,"ARS PHARMACEUTICALS, INC.",proposed sale $368K,368099,,https://www.sec.gov/Archives/edgar/data/1951291/000195004726008852/0001950047-26-008852-index.htm,LOW
+2026-08-31T20:17:27+00:00,FORM_144,,"CNO FINANCIAL GROUP, INC.",proposed sale $515K,515366,,https://www.sec.gov/Archives/edgar/data/1789577/000195004726008851/0001950047-26-008851-index.htm,LOW
+2026-08-31T20:17:28+00:00,FORM_144,,DEERE & CO,proposed sale $3.16M,3164753,,https://www.sec.gov/Archives/edgar/data/1772144/000195917326006549/0001959173-26-006549-index.htm,LOW
+2026-08-31T20:17:28+00:00,8K,,"PureCycle Technologies, Inc.",items 1.01,,,https://www.sec.gov/Archives/edgar/data/1830033/000183003326000029/0001830033-26-000029-index.htm,LOW
+2026-08-31T20:17:29+00:00,8K,,"MSP Recovery, Inc.",items 1.01,,,https://www.sec.gov/Archives/edgar/data/1802450/000121390026095717/0001213900-26-095717-index.htm,LOW
+2026-08-31T20:17:29+00:00,8K,,CROWN CRAFTS INC,items 4.01,,,https://www.sec.gov/Archives/edgar/data/25895/000143774926029311/0001437749-26-029311-index.htm,HIGH
+2026-08-31T20:17:30+00:00,8K,,"VSEE HEALTH, INC.",items 5.02,,,https://www.sec.gov/Archives/edgar/data/1864531/000118518526003768/0001185185-26-003768-index.htm,LOW
