@@ -263,3 +263,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-08-31T14:35:06+00:00,LATE_FILING,,"WEWARDS, INC.",NT 10-K,,,https://www.sec.gov/Archives/edgar/data/1616156/000107997326001202/0001079973-26-001202-index.htm,HIGH
 2026-08-31T14:43:56+00:00,FORM_144,,JETBLUE AIRWAYS CORP,proposed sale $9K,9420,,https://www.sec.gov/Archives/edgar/data/1858380/000195917326006535/0001959173-26-006535-index.htm,LOW
 2026-08-31T14:58:51+00:00,FORM_144,,Nebius Group N.V.,proposed sale $91K,90900,,https://www.sec.gov/Archives/edgar/data/2091046/000197337926000316/0001973379-26-000316-index.htm,LOW
+2026-08-31T15:15:42+00:00,FORM_144,,"Qorvo, Inc.",proposed sale $784K,784223,,https://www.sec.gov/Archives/edgar/data/1940850/000195917326006536/0001959173-26-006536-index.htm,LOW
+2026-08-31T15:15:42+00:00,LATE_FILING,,"Transglobal Management Group, Inc.",NT 10-K,,,https://www.sec.gov/Archives/edgar/data/1434601/000168316826006820/0001683168-26-006820-index.htm,HIGH
