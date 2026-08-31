@@ -430,3 +430,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-08-31T21:31:01+00:00,8K,,iSpecimen Inc.,items 5.02,,,https://www.sec.gov/Archives/edgar/data/1558569/000121390026095801/0001213900-26-095801-index.htm,LOW
 2026-08-31T21:31:02+00:00,8K,,Sono Group N.V.,items 1.01,,,https://www.sec.gov/Archives/edgar/data/1840416/000117184326005808/0001171843-26-005808-index.htm,LOW
 2026-08-31T21:46:26+00:00,FORM_144,,"CRA INTERNATIONAL, INC.",proposed sale $1.30M,1295849,,https://www.sec.gov/Archives/edgar/data/1379160/000137916026000040/0001379160-26-000040-index.htm,LOW
+2026-08-31T21:54:20+00:00,FORM_144,,TUTOR PERINI CORP,proposed sale $68.00M,68000000,,https://www.sec.gov/Archives/edgar/data/906134/000162828026059645/0001628280-26-059645-index.htm,MEDIUM
+2026-08-31T21:54:21+00:00,FORM_144,,TUTOR PERINI CORP,proposed sale $128.00M,128000000,,https://www.sec.gov/Archives/edgar/data/906134/000162828026059644/0001628280-26-059644-index.htm,MEDIUM
