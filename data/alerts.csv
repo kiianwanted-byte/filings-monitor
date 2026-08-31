@@ -284,3 +284,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-08-31T19:05:24+00:00,LATE_FILING,,CANNABIS SUISSE CORP.,NT 10-K,,,https://www.sec.gov/Archives/edgar/data/1680132/000168013226000008/0001680132-26-000008-index.htm,HIGH
 2026-08-31T19:12:29+00:00,FORM_144,,Jazz Pharmaceuticals plc,proposed sale $613K,612817,,https://www.sec.gov/Archives/edgar/data/1232524/000119321026000023/0001193210-26-000023-index.htm,LOW
 2026-08-31T19:28:13+00:00,FORM_144,,Jazz Pharmaceuticals plc,proposed sale $858K,857602,,https://www.sec.gov/Archives/edgar/data/1576068/000157606826000006/0001576068-26-000006-index.htm,LOW
+2026-08-31T19:36:31+00:00,LATE_FILING,,PREAXIA HEALTH CARE PAYMENT SYSTEMS INC.,NT 10-K,,,https://www.sec.gov/Archives/edgar/data/1350156/000135015626000003/0001350156-26-000003-index.htm,HIGH
+2026-08-31T19:36:32+00:00,LATE_FILING,,Londax Corp.,NT 10-K,,,https://www.sec.gov/Archives/edgar/data/1985554/000168316826006829/0001683168-26-006829-index.htm,HIGH
