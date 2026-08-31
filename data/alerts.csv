@@ -420,3 +420,12 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-08-31T21:22:39+00:00,8K,,SUIC Worldwide Holdings Ltd.,"items 1.01,5.02",,,https://www.sec.gov/Archives/edgar/data/1394108/000147793226005334/0001477932-26-005334-index.htm,LOW
 2026-08-31T21:22:39+00:00,8K,,COFFEE HOLDING CO INC,items 5.02,,,https://www.sec.gov/Archives/edgar/data/1007019/000149315226040863/0001493152-26-040863-index.htm,LOW
 2026-08-31T21:22:40+00:00,LATE_FILING,,"Laredo Oil, Inc.",NT 10-K,,,https://www.sec.gov/Archives/edgar/data/1442492/000119983526000321/0001199835-26-000321-index.htm,HIGH
+2026-08-31T21:30:59+00:00,FORM_144,,"DOLLAR TREE, INC.",proposed sale $315K,315031,,https://www.sec.gov/Archives/edgar/data/1940095/000192109426000974/0001921094-26-000974-index.htm,LOW
+2026-08-31T21:31:00+00:00,8K,,Inflection Point Acquisition Corp. V,items 1.01,,,https://www.sec.gov/Archives/edgar/data/2028355/000121390026095807/0001213900-26-095807-index.htm,LOW
+2026-08-31T21:31:00+00:00,8K,,DIGI INTERNATIONAL INC,"items 1.01,1.02",,,https://www.sec.gov/Archives/edgar/data/854775/000110465926103966/0001104659-26-103966-index.htm,LOW
+2026-08-31T21:31:00+00:00,8K,,AMERICOLD REALTY TRUST,items 1.01,,,https://www.sec.gov/Archives/edgar/data/1455863/000119312526377096/0001193125-26-377096-index.htm,LOW
+2026-08-31T21:31:00+00:00,8K,,T3 Defense Inc.,items 1.02,,,https://www.sec.gov/Archives/edgar/data/1787518/000118518526003774/0001185185-26-003774-index.htm,LOW
+2026-08-31T21:31:01+00:00,8K,,"Deep Isolation Nuclear, Inc.",items 5.02,,,https://www.sec.gov/Archives/edgar/data/1918080/000121390026095806/0001213900-26-095806-index.htm,LOW
+2026-08-31T21:31:01+00:00,8K,,TIDEWATER INC,items 1.01,,,https://www.sec.gov/Archives/edgar/data/98222/000110465926103962/0001104659-26-103962-index.htm,LOW
+2026-08-31T21:31:01+00:00,8K,,iSpecimen Inc.,items 5.02,,,https://www.sec.gov/Archives/edgar/data/1558569/000121390026095801/0001213900-26-095801-index.htm,LOW
+2026-08-31T21:31:02+00:00,8K,,Sono Group N.V.,items 1.01,,,https://www.sec.gov/Archives/edgar/data/1840416/000117184326005808/0001171843-26-005808-index.htm,LOW
