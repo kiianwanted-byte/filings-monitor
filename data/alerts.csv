@@ -432,3 +432,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-08-31T21:46:26+00:00,FORM_144,,"CRA INTERNATIONAL, INC.",proposed sale $1.30M,1295849,,https://www.sec.gov/Archives/edgar/data/1379160/000137916026000040/0001379160-26-000040-index.htm,LOW
 2026-08-31T21:54:20+00:00,FORM_144,,TUTOR PERINI CORP,proposed sale $68.00M,68000000,,https://www.sec.gov/Archives/edgar/data/906134/000162828026059645/0001628280-26-059645-index.htm,MEDIUM
 2026-08-31T21:54:21+00:00,FORM_144,,TUTOR PERINI CORP,proposed sale $128.00M,128000000,,https://www.sec.gov/Archives/edgar/data/906134/000162828026059644/0001628280-26-059644-index.htm,MEDIUM
+2026-08-31T22:10:48+00:00,INSIDER_CLUSTER,APCX,AppTech Payments Corp.,Corrado Felipe Amilcar IV $5K,4560,465,https://www.sec.gov/Archives/edgar/data/2052456/000168316826006833/0001683168-26-006833-index.htm,HIGH
+2026-08-31T22:10:50+00:00,FORM_144,,"Under Armour, Inc.",proposed sale $428K,427953,,https://www.sec.gov/Archives/edgar/data/2032835/000192109426000975/0001921094-26-000975-index.htm,LOW
+2026-08-31T22:10:50+00:00,FORM_144,,TUTOR PERINI CORP,proposed sale $896K,896000,,https://www.sec.gov/Archives/edgar/data/906134/000162828026059646/0001628280-26-059646-index.htm,LOW
