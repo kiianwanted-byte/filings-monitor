@@ -289,3 +289,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-08-31T19:45:20+00:00,FORM_144,,Jazz Pharmaceuticals plc,proposed sale $858K,857602,,https://www.sec.gov/Archives/edgar/data/1751804/000175180426000003/0001751804-26-000003-index.htm,LOW
 2026-08-31T19:45:21+00:00,FORM_144,,Jazz Pharmaceuticals plc,proposed sale $858K,857602,,https://www.sec.gov/Archives/edgar/data/1754371/000175437126000005/0001754371-26-000005-index.htm,LOW
 2026-08-31T19:45:21+00:00,8K,,"Tenon Medical, Inc.",items 1.01,,,https://www.sec.gov/Archives/edgar/data/1560293/000121390026095686/0001213900-26-095686-index.htm,LOW
+2026-08-31T19:53:14+00:00,FORM_144,,Jazz Pharmaceuticals plc,proposed sale $942K,941968,,https://www.sec.gov/Archives/edgar/data/1989533/000198953326000013/0001989533-26-000013-index.htm,LOW
+2026-08-31T19:53:14+00:00,8K,,BUCKLE INC,items 5.02,,,https://www.sec.gov/Archives/edgar/data/885245/000088524526000035/0000885245-26-000035-index.htm,LOW
+2026-08-31T19:53:14+00:00,LATE_FILING,,"Longevity Diversified Holdings, Inc.",NT 10-K,,,https://www.sec.gov/Archives/edgar/data/787496/000182912626009540/0001829126-26-009540-index.htm,HIGH
