@@ -243,3 +243,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-08-31T11:09:16+00:00,8K,,Trilogy Metals Inc.,items 1.01,,,https://www.sec.gov/Archives/edgar/data/1543418/000127956926000836/0001279569-26-000836-index.htm,LOW
 2026-08-31T11:09:16+00:00,8K,,DECKERS OUTDOOR CORP,items 1.01,,,https://www.sec.gov/Archives/edgar/data/910521/000091052126000024/0000910521-26-000024-index.htm,LOW
 2026-08-31T11:09:16+00:00,8K,,"Sweetgreen, Inc.",items 5.02,,,https://www.sec.gov/Archives/edgar/data/1477815/000162828026059445/0001628280-26-059445-index.htm,LOW
+2026-08-31T11:17:00+00:00,FORM_144,,Clean Energy Fuels Corp.,proposed sale $17.21M,17206747,,https://www.sec.gov/Archives/edgar/data/1743086/000110465926103552/0001104659-26-103552-index.htm,MEDIUM
