@@ -429,3 +429,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-08-31T21:31:01+00:00,8K,,TIDEWATER INC,items 1.01,,,https://www.sec.gov/Archives/edgar/data/98222/000110465926103962/0001104659-26-103962-index.htm,LOW
 2026-08-31T21:31:01+00:00,8K,,iSpecimen Inc.,items 5.02,,,https://www.sec.gov/Archives/edgar/data/1558569/000121390026095801/0001213900-26-095801-index.htm,LOW
 2026-08-31T21:31:02+00:00,8K,,Sono Group N.V.,items 1.01,,,https://www.sec.gov/Archives/edgar/data/1840416/000117184326005808/0001171843-26-005808-index.htm,LOW
+2026-08-31T21:46:26+00:00,FORM_144,,"CRA INTERNATIONAL, INC.",proposed sale $1.30M,1295849,,https://www.sec.gov/Archives/edgar/data/1379160/000137916026000040/0001379160-26-000040-index.htm,LOW
