@@ -69,3 +69,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-08-31T22:58:48+00:00,2026-08-26,AXIA3,AXIA Energia S.A.,de Bittencourt Marinho Gisomar Francisco,,100,10.31,1031,2.2,0001213900-26-095848
 2026-08-31T22:58:49+00:00,2026-08-27,PRTS,"CarParts.com, Inc.",Huffaker Michael,COO,12162,7.05,85788,25.4,0001140361-26-035126
 2026-08-31T22:58:49+00:00,2026-08-27,PRTS,"CarParts.com, Inc.",Meniane David,CEO,12164,7.05,85802,5.9,0001140361-26-035125
+2026-08-31T23:55:48+00:00,2026-08-31,UAMY,UNITED STATES ANTIMONY CORP,Aguirre Blaise A.,Director,1400,5.04,7049,0.2,0001104659-26-103998
