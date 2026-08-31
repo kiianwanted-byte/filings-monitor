@@ -278,3 +278,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-08-31T17:27:08+00:00,8K,,AMERICAN REBEL HOLDINGS INC,items 1.01,,,https://www.sec.gov/Archives/edgar/data/1648087/000149315226040784/0001493152-26-040784-index.htm,LOW
 2026-08-31T17:58:49+00:00,8K,,Carvana Auto Receivables Trust 2026-P3,items 1.01,,,https://www.sec.gov/Archives/edgar/data/1999511/000177037326000048/0001770373-26-000048-index.htm,LOW
 2026-08-31T18:15:17+00:00,8K,,Exeter Automobile Receivables Trust 2026-4,items 1.01,,,https://www.sec.gov/Archives/edgar/data/2150254/000092963826003359/0000929638-26-003359-index.htm,LOW
+2026-08-31T18:24:15+00:00,FORM_144,,STATE STREET CORP,proposed sale $96K,96057,,https://www.sec.gov/Archives/edgar/data/1716132/000195917326006545/0001959173-26-006545-index.htm,LOW
+2026-08-31T18:24:15+00:00,FORM_144,,WESTERN DIGITAL CORP,proposed sale $4.48M,4478500,,https://www.sec.gov/Archives/edgar/data/1021762/000195917326006544/0001959173-26-006544-index.htm,LOW
