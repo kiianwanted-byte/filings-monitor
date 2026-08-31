@@ -292,3 +292,33 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-08-31T19:53:14+00:00,FORM_144,,Jazz Pharmaceuticals plc,proposed sale $942K,941968,,https://www.sec.gov/Archives/edgar/data/1989533/000198953326000013/0001989533-26-000013-index.htm,LOW
 2026-08-31T19:53:14+00:00,8K,,BUCKLE INC,items 5.02,,,https://www.sec.gov/Archives/edgar/data/885245/000088524526000035/0000885245-26-000035-index.htm,LOW
 2026-08-31T19:53:14+00:00,LATE_FILING,,"Longevity Diversified Holdings, Inc.",NT 10-K,,,https://www.sec.gov/Archives/edgar/data/787496/000182912626009540/0001829126-26-009540-index.htm,HIGH
+2026-08-31T20:09:52+00:00,INSIDER_BUY,PETZ,"TDH Holdings, Inc.",Liu Dandan $3.56M,3563630,4,https://www.sec.gov/Archives/edgar/data/1766147/000121390026095705/0001213900-26-095705-index.htm,MEDIUM
+2026-08-31T20:10:03+00:00,FORM_144,,"CNO FINANCIAL GROUP, INC.",proposed sale $361K,360715,,https://www.sec.gov/Archives/edgar/data/1960364/000195004726008850/0001950047-26-008850-index.htm,LOW
+2026-08-31T20:10:04+00:00,FORM_144,,STANDEX INTERNATIONAL CORP/DE/,proposed sale $3.86M,3856190,,https://www.sec.gov/Archives/edgar/data/1595316/000196922326000970/0001969223-26-000970-index.htm,LOW
+2026-08-31T20:10:24+00:00,FORM_144,,FENNEC PHARMACEUTICALS INC.,proposed sale $146K,146169,,https://www.sec.gov/Archives/edgar/data/2043395/000195004726008849/0001950047-26-008849-index.htm,LOW
+2026-08-31T20:10:24+00:00,FORM_144,,"PDF SOLUTIONS, INC.",proposed sale $151K,150731,,https://www.sec.gov/Archives/edgar/data/1892306/000195004726008848/0001950047-26-008848-index.htm,LOW
+2026-08-31T20:10:25+00:00,FORM_144,,VIAVI SOLUTIONS INC.,proposed sale $870K,869583,,https://www.sec.gov/Archives/edgar/data/1556374/000195004726008847/0001950047-26-008847-index.htm,LOW
+2026-08-31T20:10:25+00:00,FORM_144,,VIAVI SOLUTIONS INC.,proposed sale $2.04M,2042488,,https://www.sec.gov/Archives/edgar/data/1446964/000195004726008846/0001950047-26-008846-index.htm,LOW
+2026-08-31T20:10:26+00:00,FORM_144,,"FIGMA, INC.",proposed sale $2.44M,2440319,,https://www.sec.gov/Archives/edgar/data/2051424/000195004726008845/0001950047-26-008845-index.htm,LOW
+2026-08-31T20:10:34+00:00,FORM_144,,Joint Stock Co Kaspi.kz,proposed sale $204.03M,204032507,,https://www.sec.gov/Archives/edgar/data/2029485/000196922326000969/0001969223-26-000969-index.htm,MEDIUM
+2026-08-31T20:10:35+00:00,FORM_144,,"GUIDEWIRE SOFTWARE, INC.",proposed sale $245K,245328,,https://www.sec.gov/Archives/edgar/data/1784996/000195004726008844/0001950047-26-008844-index.htm,LOW
+2026-08-31T20:10:35+00:00,FORM_144,,"HASBRO, INC.",proposed sale $476K,476369,,https://www.sec.gov/Archives/edgar/data/2033228/000195004726008843/0001950047-26-008843-index.htm,LOW
+2026-08-31T20:10:37+00:00,FORM_144,,GLOBAL INDUSTRIAL COMPANY,proposed sale $189K,189224,,https://www.sec.gov/Archives/edgar/data/1842801/000195004726008842/0001950047-26-008842-index.htm,LOW
+2026-08-31T20:10:38+00:00,FORM_144,,LUMENTUM HOLDINGS INC.,proposed sale $448K,447500,,https://www.sec.gov/Archives/edgar/data/1633978/000195004726008841/0001950047-26-008841-index.htm,LOW
+2026-08-31T20:10:48+00:00,FORM_144,,MATTEL INC /DE/,proposed sale $587K,586912,,https://www.sec.gov/Archives/edgar/data/1767603/000195917326006548/0001959173-26-006548-index.htm,LOW
+2026-08-31T20:10:57+00:00,FORM_144,,PEGASYSTEMS INC.,proposed sale $37K,36938,,https://www.sec.gov/Archives/edgar/data/1353196/000195004726008840/0001950047-26-008840-index.htm,LOW
+2026-08-31T20:10:57+00:00,FORM_144,,"OCULAR THERAPEUTIX, INC.",proposed sale $11K,11251,,https://www.sec.gov/Archives/edgar/data/1718019/000195004726008839/0001950047-26-008839-index.htm,LOW
+2026-08-31T20:10:58+00:00,FORM_144,,Xometry Inc.,proposed sale $476K,476150,,https://www.sec.gov/Archives/edgar/data/1657573/000196922326000968/0001969223-26-000968-index.htm,LOW
+2026-08-31T20:10:58+00:00,FORM_144,,"ServiceNow, Inc.",proposed sale $301K,300777,,https://www.sec.gov/Archives/edgar/data/1667422/000195917326006547/0001959173-26-006547-index.htm,LOW
+2026-08-31T20:10:58+00:00,8K,,"Rapid7, Inc.",items 5.02,,,https://www.sec.gov/Archives/edgar/data/1560327/000156032726000046/0001560327-26-000046-index.htm,LOW
+2026-08-31T20:10:59+00:00,8K,,"RCM TECHNOLOGIES, INC.",items 5.02,,,https://www.sec.gov/Archives/edgar/data/700841/000092963826003386/0000929638-26-003386-index.htm,LOW
+2026-08-31T20:10:59+00:00,8K,,GREENBRIER COMPANIES INC,items 5.02,,,https://www.sec.gov/Archives/edgar/data/923120/000119312526376734/0001193125-26-376734-index.htm,LOW
+2026-08-31T20:10:59+00:00,8K,,IX Acquisition Corp.,items 1.01,,,https://www.sec.gov/Archives/edgar/data/1852019/000110465926103875/0001104659-26-103875-index.htm,LOW
+2026-08-31T20:10:59+00:00,8K,,"QT IMAGING HOLDINGS, INC.",items 5.02,,,https://www.sec.gov/Archives/edgar/data/1844505/000162828026059577/0001628280-26-059577-index.htm,LOW
+2026-08-31T20:11:00+00:00,8K,,Cohen & Co Inc.,"items 1.01,1.02",,,https://www.sec.gov/Archives/edgar/data/1270436/000110465926103870/0001104659-26-103870-index.htm,LOW
+2026-08-31T20:11:00+00:00,8K,,ALIGN TECHNOLOGY INC,items 5.02,,,https://www.sec.gov/Archives/edgar/data/1097149/000109714926000065/0001097149-26-000065-index.htm,LOW
+2026-08-31T20:11:01+00:00,8K,,MYERS INDUSTRIES INC,items 1.01,,,https://www.sec.gov/Archives/edgar/data/69488/000119312526376721/0001193125-26-376721-index.htm,LOW
+2026-08-31T20:11:01+00:00,8K,,Cambium Networks Corp,items 3.01,,,https://www.sec.gov/Archives/edgar/data/1738177/000119312526376720/0001193125-26-376720-index.htm,HIGH
+2026-08-31T20:11:02+00:00,8K,,"Camping World Holdings, Inc.",items 1.01,,,https://www.sec.gov/Archives/edgar/data/1669779/000110465926103869/0001104659-26-103869-index.htm,LOW
+2026-08-31T20:11:02+00:00,8K,,"WORTHINGTON ENTERPRISES, INC.",items 1.01,,,https://www.sec.gov/Archives/edgar/data/108516/000119312526376705/0001193125-26-376705-index.htm,LOW
+2026-08-31T20:11:02+00:00,8K,,"Grove Collaborative Holdings, Inc.",items 5.02,,,https://www.sec.gov/Archives/edgar/data/1841761/000184176126000086/0001841761-26-000086-index.htm,LOW
