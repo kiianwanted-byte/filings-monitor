@@ -254,3 +254,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-08-31T12:24:27+00:00,8K,,"Innventure, Inc.",items 5.02,,,https://www.sec.gov/Archives/edgar/data/2001557/000200155726000160/0002001557-26-000160-index.htm,LOW
 2026-08-31T12:40:59+00:00,8K,,"Datacentrex, Inc.",items 1.01,,,https://www.sec.gov/Archives/edgar/data/1853825/000149315226040739/0001493152-26-040739-index.htm,LOW
 2026-08-31T12:56:21+00:00,8K,,"Profusa, Inc.",items 3.01,,,https://www.sec.gov/Archives/edgar/data/1859807/000121390026095405/0001213900-26-095405-index.htm,HIGH
+2026-08-31T13:05:04+00:00,8K,,"FingerMotion, Inc.",items 1.01,,,https://www.sec.gov/Archives/edgar/data/1602409/000149315226040744/0001493152-26-040744-index.htm,LOW
