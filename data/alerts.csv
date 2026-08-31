@@ -269,3 +269,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-08-31T15:40:09+00:00,FORM_144,,HALLIBURTON CO,proposed sale $929K,929137,,https://www.sec.gov/Archives/edgar/data/1673421/000195917326006538/0001959173-26-006538-index.htm,LOW
 2026-08-31T15:40:10+00:00,FORM_144,,LAM RESEARCH CORP,proposed sale $1.51M,1512300,,https://www.sec.gov/Archives/edgar/data/1642415/000195917326006537/0001959173-26-006537-index.htm,LOW
 2026-08-31T15:40:10+00:00,FORM_144,,"CoreCivic, Inc.",proposed sale $418K,417625,,https://www.sec.gov/Archives/edgar/data/1746033/000199652726000009/0001996527-26-000009-index.htm,LOW
+2026-08-31T15:49:09+00:00,FORM_144,,SLB LIMITED/NV,proposed sale $300K,300000,,https://www.sec.gov/Archives/edgar/data/1497824/000195917326006540/0001959173-26-006540-index.htm,LOW

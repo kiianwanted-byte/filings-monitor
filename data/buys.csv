@@ -37,3 +37,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-08-31T15:23:37+00:00,2026-08-28,BLX,"BLADEX, INC.",Van Hoorde Annette Marie,Chief Financial Officer,1454,55.00,79970,6.7,0000890541-26-000011
 2026-08-31T15:23:39+00:00,2026-08-28,EMYB,"Embassy Bancorp, Inc.",Lobach David M Jr,"Director, Chairman, President and CEO",100,22.30,2230,0.2,0001464631-26-000008
 2026-08-31T15:31:42+00:00,2026-08-27,XELB,"XCel Brands, Inc.",D LOREN ROBERT W,"Director, CEO and Chairman, 10% owner",5500,0.95,5252,0.7,0001104659-26-103671
+2026-08-31T15:49:07+00:00,2026-08-28,AAON,"AAON, INC.",Shaub Matthew,Executive Vice President,457,76.42,34923,17.1,0000824142-26-000061
