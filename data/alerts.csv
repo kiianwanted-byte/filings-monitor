@@ -438,3 +438,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-08-31T22:27:21+00:00,FORM_144,,"Axon Enterprise, Inc.",proposed sale $10.08M,10077245,,https://www.sec.gov/Archives/edgar/data/1648518/000196858226000901/0001968582-26-000901-index.htm,MEDIUM
 2026-08-31T22:58:48+00:00,INSIDER_CLUSTER,AXIA3,AXIA Energia S.A.,de Bittencourt Marinho Gisomar Francisco $1K,1031,5,https://www.sec.gov/Archives/edgar/data/2118802/000121390026095848/0001213900-26-095848-index.htm,HIGH
 2026-08-31T22:58:49+00:00,INSIDER_CLUSTER,PRTS,"CarParts.com, Inc.",Meniane David $86K,85802,4,https://www.sec.gov/Archives/edgar/data/1770720/000114036126035125/0001140361-26-035125-index.htm,HIGH
+2026-08-31T23:14:41+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $7.75M,7753162,,https://www.sec.gov/Archives/edgar/data/2135147/000213514726000010/0002135147-26-000010-index.htm,MEDIUM
+2026-08-31T23:14:42+00:00,FORM_144,,"Laureate Education, Inc.",proposed sale $96K,96146,,https://www.sec.gov/Archives/edgar/data/1696702/000196858226000905/0001968582-26-000905-index.htm,LOW
+2026-08-31T23:14:43+00:00,FORM_144,,"Laureate Education, Inc.",proposed sale $17.77M,17768266,,https://www.sec.gov/Archives/edgar/data/1696790/000196858226000903/0001968582-26-000903-index.htm,MEDIUM
