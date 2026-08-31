@@ -259,3 +259,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-08-31T13:13:20+00:00,8K,,CHOICE HOTELS INTERNATIONAL INC /DE,items 5.02,,,https://www.sec.gov/Archives/edgar/data/1046311/000119312526375580/0001193125-26-375580-index.htm,LOW
 2026-08-31T14:18:41+00:00,FORM_144,,"Fastly, Inc.",proposed sale $69K,69000,,https://www.sec.gov/Archives/edgar/data/1517413/000195917326006533/0001959173-26-006533-index.htm,LOW
 2026-08-31T14:18:41+00:00,8K,,Energy & Water Development Corp,items 5.02,,,https://www.sec.gov/Archives/edgar/data/1563298/000107997326001200/0001079973-26-001200-index.htm,LOW
+2026-08-31T14:35:06+00:00,FORM_144,,ATI INC,proposed sale $3.47M,3465165,,https://www.sec.gov/Archives/edgar/data/1776844/000195917326006534/0001959173-26-006534-index.htm,LOW
+2026-08-31T14:35:06+00:00,LATE_FILING,,"WEWARDS, INC.",NT 10-K,,,https://www.sec.gov/Archives/edgar/data/1616156/000107997326001202/0001079973-26-001202-index.htm,HIGH
