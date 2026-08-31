@@ -276,3 +276,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-08-31T16:53:46+00:00,FORM_144,,Roblox,proposed sale $23K,22828,,https://www.sec.gov/Archives/edgar/data/1490754/000195917326006543/0001959173-26-006543-index.htm,LOW
 2026-08-31T17:10:06+00:00,FORM_144,,"Newegg Commerce, Inc.",proposed sale $658K,658213,,https://www.sec.gov/Archives/edgar/data/2114022/000149315226040780/0001493152-26-040780-index.htm,LOW
 2026-08-31T17:27:08+00:00,8K,,AMERICAN REBEL HOLDINGS INC,items 1.01,,,https://www.sec.gov/Archives/edgar/data/1648087/000149315226040784/0001493152-26-040784-index.htm,LOW
+2026-08-31T17:58:49+00:00,8K,,Carvana Auto Receivables Trust 2026-P3,items 1.01,,,https://www.sec.gov/Archives/edgar/data/1999511/000177037326000048/0001770373-26-000048-index.htm,LOW
