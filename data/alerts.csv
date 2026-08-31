@@ -346,3 +346,13 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-08-31T20:17:29+00:00,8K,,"MSP Recovery, Inc.",items 1.01,,,https://www.sec.gov/Archives/edgar/data/1802450/000121390026095717/0001213900-26-095717-index.htm,LOW
 2026-08-31T20:17:29+00:00,8K,,CROWN CRAFTS INC,items 4.01,,,https://www.sec.gov/Archives/edgar/data/25895/000143774926029311/0001437749-26-029311-index.htm,HIGH
 2026-08-31T20:17:30+00:00,8K,,"VSEE HEALTH, INC.",items 5.02,,,https://www.sec.gov/Archives/edgar/data/1864531/000118518526003768/0001185185-26-003768-index.htm,LOW
+2026-08-31T20:25:11+00:00,FORM_144,,Jazz Pharmaceuticals plc,proposed sale $858K,857602,,https://www.sec.gov/Archives/edgar/data/1232524/000116166226000006/0001161662-26-000006-index.htm,LOW
+2026-08-31T20:25:11+00:00,FORM_144,,OMEROS CORPORATION,proposed sale $464K,463540,,https://www.sec.gov/Archives/edgar/data/1778968/000195004726008856/0001950047-26-008856-index.htm,LOW
+2026-08-31T20:25:11+00:00,FORM_144,,Flowco Holdings Inc.,proposed sale $46K,46192,,https://www.sec.gov/Archives/edgar/data/2049797/000204979726000001/0002049797-26-000001-index.htm,LOW
+2026-08-31T20:25:12+00:00,FORM_144,,BOX INC,proposed sale $139K,138562,,https://www.sec.gov/Archives/edgar/data/1855496/000192109426000972/0001921094-26-000972-index.htm,LOW
+2026-08-31T20:25:12+00:00,FORM_144,,Unity Software Inc.,proposed sale $4.74M,4737931,,https://www.sec.gov/Archives/edgar/data/1956655/000192109426000971/0001921094-26-000971-index.htm,LOW
+2026-08-31T20:25:12+00:00,FORM_144,,"RCM TECHNOLOGIES, INC.",proposed sale $840K,840000,,https://www.sec.gov/Archives/edgar/data/1255576/000143774926029312/0001437749-26-029312-index.htm,LOW
+2026-08-31T20:25:13+00:00,8K,,ADT Inc.,items 1.01,,,https://www.sec.gov/Archives/edgar/data/1703056/000170305626000106/0001703056-26-000106-index.htm,LOW
+2026-08-31T20:25:13+00:00,8K,,Offerpad Solutions Inc.,items 1.01,,,https://www.sec.gov/Archives/edgar/data/1825024/000119312526376851/0001193125-26-376851-index.htm,LOW
+2026-08-31T20:25:13+00:00,8K,,Lifeward Ltd.,items 5.02,,,https://www.sec.gov/Archives/edgar/data/1607962/000117891326004360/0001178913-26-004360-index.htm,LOW
+2026-08-31T20:25:13+00:00,8K,,Flag Ship Acquisition Corp,items 3.01,,,https://www.sec.gov/Archives/edgar/data/1850059/000182912626009545/0001829126-26-009545-index.htm,HIGH
