@@ -270,3 +270,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-08-31T15:40:10+00:00,FORM_144,,LAM RESEARCH CORP,proposed sale $1.51M,1512300,,https://www.sec.gov/Archives/edgar/data/1642415/000195917326006537/0001959173-26-006537-index.htm,LOW
 2026-08-31T15:40:10+00:00,FORM_144,,"CoreCivic, Inc.",proposed sale $418K,417625,,https://www.sec.gov/Archives/edgar/data/1746033/000199652726000009/0001996527-26-000009-index.htm,LOW
 2026-08-31T15:49:09+00:00,FORM_144,,SLB LIMITED/NV,proposed sale $300K,300000,,https://www.sec.gov/Archives/edgar/data/1497824/000195917326006540/0001959173-26-006540-index.htm,LOW
+2026-08-31T16:05:19+00:00,FORM_144,,"ALEXANDRIA REAL ESTATE EQUITIES, INC.",proposed sale $509K,509340,,https://www.sec.gov/Archives/edgar/data/1378406/000195917326006542/0001959173-26-006542-index.htm,LOW
+2026-08-31T16:05:19+00:00,FORM_144,,J M SMUCKER Co,proposed sale $335K,335451,,https://www.sec.gov/Archives/edgar/data/2110430/000195917326006541/0001959173-26-006541-index.htm,LOW
