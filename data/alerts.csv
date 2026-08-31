@@ -356,3 +356,26 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-08-31T20:25:13+00:00,8K,,Offerpad Solutions Inc.,items 1.01,,,https://www.sec.gov/Archives/edgar/data/1825024/000119312526376851/0001193125-26-376851-index.htm,LOW
 2026-08-31T20:25:13+00:00,8K,,Lifeward Ltd.,items 5.02,,,https://www.sec.gov/Archives/edgar/data/1607962/000117891326004360/0001178913-26-004360-index.htm,LOW
 2026-08-31T20:25:13+00:00,8K,,Flag Ship Acquisition Corp,items 3.01,,,https://www.sec.gov/Archives/edgar/data/1850059/000182912626009545/0001829126-26-009545-index.htm,HIGH
+2026-08-31T20:33:37+00:00,FORM_144,,"Klaviyo, Inc.",proposed sale $2.02M,2022971,,https://www.sec.gov/Archives/edgar/data/1991125/000195917326006553/0001959173-26-006553-index.htm,LOW
+2026-08-31T20:33:37+00:00,FORM_144,,"Post Holdings, Inc.",proposed sale $32.79M,32785666,,https://www.sec.gov/Archives/edgar/data/1530950/000195917326006552/0001959173-26-006552-index.htm,MEDIUM
+2026-08-31T20:33:39+00:00,FORM_144,,BILL HOLDINGS INC,proposed sale $541K,541033,,https://www.sec.gov/Archives/edgar/data/2067425/000195004726008868/0001950047-26-008868-index.htm,LOW
+2026-08-31T20:33:39+00:00,FORM_144,,"RHYTHM PHARMACEUTICALS, INC.",proposed sale $6.73M,6727489,,https://www.sec.gov/Archives/edgar/data/1649904/000195004726008867/0001950047-26-008867-index.htm,MEDIUM
+2026-08-31T20:33:40+00:00,FORM_144,,COHERENT CORP.,proposed sale $634K,634342,,https://www.sec.gov/Archives/edgar/data/1224172/000195004726008866/0001950047-26-008866-index.htm,LOW
+2026-08-31T20:33:41+00:00,FORM_144,,COGNIZANT TECHNOLOGY SOLUTIONS CORPORATION,proposed sale $9K,9221,,https://www.sec.gov/Archives/edgar/data/2075228/000195004726008865/0001950047-26-008865-index.htm,LOW
+2026-08-31T20:33:41+00:00,FORM_144,,COHERENT CORP.,proposed sale $1.97M,1967522,,https://www.sec.gov/Archives/edgar/data/1661122/000195004726008864/0001950047-26-008864-index.htm,LOW
+2026-08-31T20:33:42+00:00,FORM_144,,COHERENT CORP.,proposed sale $634K,634342,,https://www.sec.gov/Archives/edgar/data/1741413/000195004726008863/0001950047-26-008863-index.htm,LOW
+2026-08-31T20:33:42+00:00,FORM_144,,REDDIT INC,proposed sale $2.75M,2754000,,https://www.sec.gov/Archives/edgar/data/1827011/000195004726008862/0001950047-26-008862-index.htm,LOW
+2026-08-31T20:33:42+00:00,FORM_144,,"Dropbox, Inc.",proposed sale $58K,58226,,https://www.sec.gov/Archives/edgar/data/2075704/000195004726008861/0001950047-26-008861-index.htm,LOW
+2026-08-31T20:33:43+00:00,FORM_144,,"Klaviyo, Inc.",proposed sale $163K,163275,,https://www.sec.gov/Archives/edgar/data/1991399/000195004726008860/0001950047-26-008860-index.htm,LOW
+2026-08-31T20:33:43+00:00,FORM_144,,Mastercard Incorporated,proposed sale $549K,549461,,https://www.sec.gov/Archives/edgar/data/1838202/000195004726008859/0001950047-26-008859-index.htm,LOW
+2026-08-31T20:33:44+00:00,FORM_144,,"LIFETIME BRANDS, INC.",proposed sale $70K,69987,,https://www.sec.gov/Archives/edgar/data/923401/000195004726008858/0001950047-26-008858-index.htm,LOW
+2026-08-31T20:33:44+00:00,FORM_144,,Crane Co,proposed sale $82K,82150,,https://www.sec.gov/Archives/edgar/data/1944013/000192109426000973/0001921094-26-000973-index.htm,LOW
+2026-08-31T20:33:44+00:00,FORM_144,,ELASTIC N.V.,proposed sale $19.29M,19292580,,https://www.sec.gov/Archives/edgar/data/1753445/000195004726008857/0001950047-26-008857-index.htm,MEDIUM
+2026-08-31T20:33:46+00:00,FORM_144,,Blackbaud Inc,proposed sale $101K,100634,,https://www.sec.gov/Archives/edgar/data/1939343/000162828026059603/0001628280-26-059603-index.htm,LOW
+2026-08-31T20:33:46+00:00,FORM_144,,J M SMUCKER Co,proposed sale $11.14M,11144632,,https://www.sec.gov/Archives/edgar/data/1251544/000195917326006551/0001959173-26-006551-index.htm,MEDIUM
+2026-08-31T20:33:47+00:00,8K,,CALLAN JMB INC.,items 1.01,,,https://www.sec.gov/Archives/edgar/data/2032545/000149315226040838/0001493152-26-040838-index.htm,LOW
+2026-08-31T20:33:47+00:00,8K,,Cenntro Inc.,items 1.01,,,https://www.sec.gov/Archives/edgar/data/1707919/000114036126035085/0001140361-26-035085-index.htm,LOW
+2026-08-31T20:33:47+00:00,8K,,FACTSET RESEARCH SYSTEMS INC,items 1.01,,,https://www.sec.gov/Archives/edgar/data/1013237/000095015726000966/0000950157-26-000966-index.htm,LOW
+2026-08-31T20:33:48+00:00,8K,,CCO HOLDINGS CAPITAL CORP,items 5.02,,,https://www.sec.gov/Archives/edgar/data/1271834/000114036126035084/0001140361-26-035084-index.htm,LOW
+2026-08-31T20:33:48+00:00,8K,,Primoris Services Corp,items 5.02,,,https://www.sec.gov/Archives/edgar/data/1361538/000136153826000030/0001361538-26-000030-index.htm,LOW
+2026-08-31T20:33:48+00:00,LATE_FILING,,"Cannabis Bioscience International Holdings, Inc.",NT 10-K,,,https://www.sec.gov/Archives/edgar/data/1411057/000168316826006831/0001683168-26-006831-index.htm,HIGH

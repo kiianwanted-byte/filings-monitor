@@ -55,3 +55,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-08-31T20:16:59+00:00,2026-08-28,OBDC,Blue Owl Capital Corp,Kaye Eric A.,Director,1000,11.34,11340,4.7,0001193125-26-376791
 2026-08-31T20:17:04+00:00,2026-08-27,VRXA,Veraxa Biotech AG - Post de-SPAC,Baumann Oliver Rolf,Director,50000,1.50,75000,0.9,0001829126-26-009544
 2026-08-31T20:17:05+00:00,2026-08-27,VRXA,Veraxa Biotech AG - Post de-SPAC,Antz Christoph Rudiger,"Director, Chief Executive Officer",5000,1.53,7650,NEW,0001829126-26-009543
+2026-08-31T20:33:33+00:00,2026-08-28,AMR,"Alpha Metallurgical Resources, Inc.",Courtis Kenneth S.,Director,5000,228.99,1144926,0.5,0001812746-26-000011
