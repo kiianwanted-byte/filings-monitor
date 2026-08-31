@@ -446,3 +446,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-08-31T23:23:52+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $856K,856284,,https://www.sec.gov/Archives/edgar/data/2135151/000213515126000007/0002135151-26-000007-index.htm,LOW
 2026-08-31T23:23:52+00:00,FORM_144,,"Laureate Education, Inc.",proposed sale $689K,689049,,https://www.sec.gov/Archives/edgar/data/1698661/000196858226000908/0001968582-26-000908-index.htm,LOW
 2026-08-31T23:23:53+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $2.37M,2366323,,https://www.sec.gov/Archives/edgar/data/2135137/000213513726000014/0002135137-26-000014-index.htm,LOW
+2026-08-31T23:31:33+00:00,FORM_144,,"Laureate Education, Inc.",proposed sale $574K,574278,,https://www.sec.gov/Archives/edgar/data/1696660/000196858226000914/0001968582-26-000914-index.htm,LOW
