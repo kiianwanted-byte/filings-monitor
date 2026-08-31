@@ -38,3 +38,5 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-08-31T15:23:39+00:00,2026-08-28,EMYB,"Embassy Bancorp, Inc.",Lobach David M Jr,"Director, Chairman, President and CEO",100,22.30,2230,0.2,0001464631-26-000008
 2026-08-31T15:31:42+00:00,2026-08-27,XELB,"XCel Brands, Inc.",D LOREN ROBERT W,"Director, CEO and Chairman, 10% owner",5500,0.95,5252,0.7,0001104659-26-103671
 2026-08-31T15:49:07+00:00,2026-08-28,AAON,"AAON, INC.",Shaub Matthew,Executive Vice President,457,76.42,34923,17.1,0000824142-26-000061
+2026-08-31T16:37:22+00:00,2026-08-28,SRTS,"Sensus Healthcare, Inc.",Sachetta Eric,Director,64841,3.48,225616,28.2,0002097345-26-000016
+2026-08-31T16:37:23+00:00,2026-08-28,RCG,"RENN Fund, Inc.",HORIZON KINETICS ASSET MANAGEMENT LLC,10% owner,756,2.95,2230,0.1,0001437749-26-029279
