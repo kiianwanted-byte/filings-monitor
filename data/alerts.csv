@@ -436,3 +436,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-08-31T22:10:50+00:00,FORM_144,,"Under Armour, Inc.",proposed sale $428K,427953,,https://www.sec.gov/Archives/edgar/data/2032835/000192109426000975/0001921094-26-000975-index.htm,LOW
 2026-08-31T22:10:50+00:00,FORM_144,,TUTOR PERINI CORP,proposed sale $896K,896000,,https://www.sec.gov/Archives/edgar/data/906134/000162828026059646/0001628280-26-059646-index.htm,LOW
 2026-08-31T22:27:21+00:00,FORM_144,,"Axon Enterprise, Inc.",proposed sale $10.08M,10077245,,https://www.sec.gov/Archives/edgar/data/1648518/000196858226000901/0001968582-26-000901-index.htm,MEDIUM
+2026-08-31T22:58:48+00:00,INSIDER_CLUSTER,AXIA3,AXIA Energia S.A.,de Bittencourt Marinho Gisomar Francisco $1K,1031,5,https://www.sec.gov/Archives/edgar/data/2118802/000121390026095848/0001213900-26-095848-index.htm,HIGH
+2026-08-31T22:58:49+00:00,INSIDER_CLUSTER,PRTS,"CarParts.com, Inc.",Meniane David $86K,85802,4,https://www.sec.gov/Archives/edgar/data/1770720/000114036126035125/0001140361-26-035125-index.htm,HIGH

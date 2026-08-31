@@ -66,3 +66,6 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-08-31T22:10:47+00:00,2026-08-27,APCX,AppTech Payments Corp.,LORD ALBERT L,Director,60000,0.35,21266,4.5,0001683168-26-006834
 2026-08-31T22:10:48+00:00,2025-05-23,APCX,AppTech Payments Corp.,Corrado Felipe Amilcar IV,Interim CEO & CFO,14000,0.33,4560,2.0,0001683168-26-006833
 2026-08-31T22:27:20+00:00,2026-08-28,SLGL,Sol-Gel Technologies Ltd.,Opaleye Management Inc.,10% owner,40330,69.19,2790326,8.3,0001493152-26-040895
+2026-08-31T22:58:48+00:00,2026-08-26,AXIA3,AXIA Energia S.A.,de Bittencourt Marinho Gisomar Francisco,,100,10.31,1031,2.2,0001213900-26-095848
+2026-08-31T22:58:49+00:00,2026-08-27,PRTS,"CarParts.com, Inc.",Huffaker Michael,COO,12162,7.05,85788,25.4,0001140361-26-035126
+2026-08-31T22:58:49+00:00,2026-08-27,PRTS,"CarParts.com, Inc.",Meniane David,CEO,12164,7.05,85802,5.9,0001140361-26-035125
