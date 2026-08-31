@@ -414,3 +414,9 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-08-31T21:14:22+00:00,FORM_144,,"Expion Energy, Inc.",proposed sale $102K,101544,,https://www.sec.gov/Archives/edgar/data/1921639/000197248126000269/0001972481-26-000269-index.htm,LOW
 2026-08-31T21:14:22+00:00,8K,,"NextTrip, Inc.",items 1.01,,,https://www.sec.gov/Archives/edgar/data/788611/000149315226040859/0001493152-26-040859-index.htm,LOW
 2026-08-31T21:14:22+00:00,8K,,ONEOK INC /NEW/,items 1.01,,,https://www.sec.gov/Archives/edgar/data/1039684/000119312526377023/0001193125-26-377023-index.htm,LOW
+2026-08-31T21:22:38+00:00,8K,,Jazz Pharmaceuticals plc,items 1.01,,,https://www.sec.gov/Archives/edgar/data/1232524/000119312526377073/0001193125-26-377073-index.htm,LOW
+2026-08-31T21:22:39+00:00,8K,,KOHLS Corp,items 5.02,,,https://www.sec.gov/Archives/edgar/data/885639/000119312526377068/0001193125-26-377068-index.htm,LOW
+2026-08-31T21:22:39+00:00,8K,,"KYNTRA BIO, INC.",items 1.01,,,https://www.sec.gov/Archives/edgar/data/921299/000119312526377059/0001193125-26-377059-index.htm,LOW
+2026-08-31T21:22:39+00:00,8K,,SUIC Worldwide Holdings Ltd.,"items 1.01,5.02",,,https://www.sec.gov/Archives/edgar/data/1394108/000147793226005334/0001477932-26-005334-index.htm,LOW
+2026-08-31T21:22:39+00:00,8K,,COFFEE HOLDING CO INC,items 5.02,,,https://www.sec.gov/Archives/edgar/data/1007019/000149315226040863/0001493152-26-040863-index.htm,LOW
+2026-08-31T21:22:40+00:00,LATE_FILING,,"Laredo Oil, Inc.",NT 10-K,,,https://www.sec.gov/Archives/edgar/data/1442492/000119983526000321/0001199835-26-000321-index.htm,HIGH
