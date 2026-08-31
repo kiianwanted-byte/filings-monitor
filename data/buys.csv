@@ -60,3 +60,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-08-31T20:41:45+00:00,2026-08-27,HWKN,HAWKINS INC,Oldenkamp Jeffrey P.,EXECUTIVE VP AND CFO,1290,119.00,153510,1.3,0001626669-26-000006
 2026-08-31T20:49:22+00:00,2026-08-25,BLNE,"Beeline Holdings, Inc.",Liuzza Nicholas Reyland JR,"Director, Chief Executive Officer, 10% owner",267500,0.98,261881,5.9,0001493152-26-040843
 2026-08-31T20:49:23+00:00,2026-08-28,GBCI,"GLACIER BANCORP, INC.",Langel Craig A,Director,2250,47.04,105840,2.3,0001347688-26-000004
+2026-08-31T21:06:47+00:00,2026-08-27,PAM,Pampa Energy Inc.,Mindlin Marcos Marcelo,"Director, 10% owner",150000,3.38,507300,0.7,0002022936-26-000015
