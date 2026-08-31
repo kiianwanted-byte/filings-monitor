@@ -379,3 +379,11 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-08-31T20:33:48+00:00,8K,,CCO HOLDINGS CAPITAL CORP,items 5.02,,,https://www.sec.gov/Archives/edgar/data/1271834/000114036126035084/0001140361-26-035084-index.htm,LOW
 2026-08-31T20:33:48+00:00,8K,,Primoris Services Corp,items 5.02,,,https://www.sec.gov/Archives/edgar/data/1361538/000136153826000030/0001361538-26-000030-index.htm,LOW
 2026-08-31T20:33:48+00:00,LATE_FILING,,"Cannabis Bioscience International Holdings, Inc.",NT 10-K,,,https://www.sec.gov/Archives/edgar/data/1411057/000168316826006831/0001683168-26-006831-index.htm,HIGH
+2026-08-31T20:41:47+00:00,FORM_144,,"AMBIQ MICRO, INC.",proposed sale $2.01M,2009854,,https://www.sec.gov/Archives/edgar/data/2078454/000195004726008870/0001950047-26-008870-index.htm,LOW
+2026-08-31T20:41:47+00:00,FORM_144,,TENET HEALTHCARE CORP,proposed sale $6.39M,6391579,,https://www.sec.gov/Archives/edgar/data/1916153/000195917326006554/0001959173-26-006554-index.htm,MEDIUM
+2026-08-31T20:41:49+00:00,FORM_144,,"DONALDSON COMPANY, INC.",proposed sale $276K,275912,,https://www.sec.gov/Archives/edgar/data/1441791/000195004726008869/0001950047-26-008869-index.htm,LOW
+2026-08-31T20:41:49+00:00,FORM_144,,Jazz Pharmaceuticals plc,proposed sale $858K,857602,,https://www.sec.gov/Archives/edgar/data/1253886/000125388626000009/0001253886-26-000009-index.htm,LOW
+2026-08-31T20:41:49+00:00,8K,,CAMDEN PROPERTY TRUST,"items 1.01,5.02",,,https://www.sec.gov/Archives/edgar/data/906345/000162828026059610/0001628280-26-059610-index.htm,LOW
+2026-08-31T20:41:50+00:00,8K,,"Shoals Technologies Group, Inc.",items 1.01,,,https://www.sec.gov/Archives/edgar/data/1831651/000183165126000116/0001831651-26-000116-index.htm,LOW
+2026-08-31T20:41:50+00:00,8K,,UNITED PARCEL SERVICE INC,items 5.02,,,https://www.sec.gov/Archives/edgar/data/1090727/000162828026059609/0001628280-26-059609-index.htm,LOW
+2026-08-31T20:41:50+00:00,8K,,"Teladoc Health, Inc.",items 5.02,,,https://www.sec.gov/Archives/edgar/data/1477449/000147744926000044/0001477449-26-000044-index.htm,LOW
