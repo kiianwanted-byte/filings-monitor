@@ -1042,7 +1042,7 @@ def heartbeat():
         ]
         for mod, e in list(persistent.items())[:3]:
             rows.append((mod.upper()[:11], f"x{e['count']}  {e.get('last','')[:40]}"))
-        telegram(box("EDGAR MONITOR IS BROKEN", rows))
+                telegram(box("EDGAR MONITOR IS BROKEN", rows))
         return
 
     rows = [
