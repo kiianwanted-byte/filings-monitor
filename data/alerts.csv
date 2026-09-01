@@ -564,3 +564,47 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-01T20:12:41+00:00,FORM_144,,"Xometry, Inc.",proposed sale $902K,902500,,https://www.sec.gov/Archives/edgar/data/1869814/000196922326000972/0001969223-26-000972-index.htm,LOW
 2026-09-01T20:12:41+00:00,FORM_144,,NIO Inc.,proposed sale $518K,518175,,https://www.sec.gov/Archives/edgar/data/2113252/000110465926104292/0001104659-26-104292-index.htm,LOW
 2026-09-01T20:12:42+00:00,FORM_144,,THE SOUTHERN COMPANY,proposed sale $9K,8845,,https://www.sec.gov/Archives/edgar/data/2082705/000162828026059783/0001628280-26-059783-index.htm,LOW
+2026-09-01T20:25:41+00:00,FORM_144,,Jazz Pharmaceuticals Plc,proposed sale $1.50M,1500780,,https://www.sec.gov/Archives/edgar/data/1232524/000162828026059849/0001628280-26-059849-index.htm,LOW
+2026-09-01T20:25:41+00:00,FORM_144,,"RECURSION PHARMACEUTICALS, INC.",proposed sale $100K,100200,,https://www.sec.gov/Archives/edgar/data/1856094/000195917326006610/0001959173-26-006610-index.htm,LOW
+2026-09-01T20:25:42+00:00,FORM_144,,"ROKU, Inc.",proposed sale $313K,312602,,https://www.sec.gov/Archives/edgar/data/1428439/000162828026059847/0001628280-26-059847-index.htm,LOW
+2026-09-01T20:25:42+00:00,FORM_144,,"EHEALTH, INC.",proposed sale $39K,39277,,https://www.sec.gov/Archives/edgar/data/1333493/000195004726008915/0001950047-26-008915-index.htm,LOW
+2026-09-01T20:25:42+00:00,FORM_144,,Walmart Inc.,proposed sale $415K,415297,,https://www.sec.gov/Archives/edgar/data/1579299/000195724426000017/0001957244-26-000017-index.htm,LOW
+2026-09-01T20:25:43+00:00,FORM_144,,"EVERQUOTE, INC.",proposed sale $238K,238205,,https://www.sec.gov/Archives/edgar/data/1744457/000195004726008914/0001950047-26-008914-index.htm,LOW
+2026-09-01T20:25:43+00:00,FORM_144,,VISA INC.,proposed sale $2.23M,2230443,,https://www.sec.gov/Archives/edgar/data/1578261/000196430626000421/0001964306-26-000421-index.htm,LOW
+2026-09-01T20:25:43+00:00,FORM_144,,"DOLBY LABORATORIES, INC.",proposed sale $468K,468032,,https://www.sec.gov/Archives/edgar/data/1894052/000195004726008913/0001950047-26-008913-index.htm,LOW
+2026-09-01T20:25:44+00:00,FORM_144,,"BLOCK, INC.",proposed sale $480K,480240,,https://www.sec.gov/Archives/edgar/data/1933928/000195004726008912/0001950047-26-008912-index.htm,LOW
+2026-09-01T20:25:44+00:00,FORM_144,,ELASTIC N.V.,proposed sale $10.29M,10289971,,https://www.sec.gov/Archives/edgar/data/1753445/000195004726008911/0001950047-26-008911-index.htm,LOW
+2026-09-01T20:25:44+00:00,FORM_144,,URBAN OUTFITTERS INC,proposed sale $51K,51012,,https://www.sec.gov/Archives/edgar/data/1713652/000195917326006609/0001959173-26-006609-index.htm,LOW
+2026-09-01T20:25:45+00:00,FORM_144,,Garrett Motion Inc.,proposed sale $805K,804600,,https://www.sec.gov/Archives/edgar/data/1744045/000196922326000981/0001969223-26-000981-index.htm,LOW
+2026-09-01T20:25:45+00:00,FORM_144,,PATTERSON UTI ENERGY INC,proposed sale $21K,20624,,https://www.sec.gov/Archives/edgar/data/1645511/000195917326006608/0001959173-26-006608-index.htm,LOW
+2026-09-01T20:25:46+00:00,FORM_144,,"MAGNITE, INC.",proposed sale $126K,125788,,https://www.sec.gov/Archives/edgar/data/1966857/000195004726008910/0001950047-26-008910-index.htm,LOW
+2026-09-01T20:25:46+00:00,FORM_144,,TERAWULF INC.,proposed sale $1.98M,1976371,,https://www.sec.gov/Archives/edgar/data/1877260/000095014226002478/0000950142-26-002478-index.htm,LOW
+2026-09-01T20:25:46+00:00,FORM_144,,"Lyft, Inc.",proposed sale $220K,219711,,https://www.sec.gov/Archives/edgar/data/2034826/000192109426000979/0001921094-26-000979-index.htm,LOW
+2026-09-01T20:25:46+00:00,FORM_144,,YELP INC.,proposed sale $11K,11070,,https://www.sec.gov/Archives/edgar/data/1919747/000195004726008909/0001950047-26-008909-index.htm,LOW
+2026-09-01T20:25:47+00:00,FORM_144,,"AMBIQ MICRO, INC.",proposed sale $2.76M,2761533,,https://www.sec.gov/Archives/edgar/data/2078454/000195004726008908/0001950047-26-008908-index.htm,LOW
+2026-09-01T20:25:47+00:00,FORM_144,,BeOne Medicines Ltd.,proposed sale $47K,46973,,https://www.sec.gov/Archives/edgar/data/1675628/000195004726008907/0001950047-26-008907-index.htm,LOW
+2026-09-01T20:25:47+00:00,FORM_144,,ATOMERA INCORPORATED,proposed sale $4K,4050,,https://www.sec.gov/Archives/edgar/data/1680617/000195004726008906/0001950047-26-008906-index.htm,LOW
+2026-09-01T20:25:48+00:00,FORM_144,,"YUM! Brands, Inc.",proposed sale $1.84M,1844141,,https://www.sec.gov/Archives/edgar/data/1735780/000162828026059833/0001628280-26-059833-index.htm,LOW
+2026-09-01T20:25:48+00:00,FORM_144,,Liberty Energy Inc.,proposed sale $132K,132253,,https://www.sec.gov/Archives/edgar/data/1705066/000192109426000978/0001921094-26-000978-index.htm,LOW
+2026-09-01T20:25:48+00:00,FORM_144,,ACUITY INC. (DE),proposed sale $659K,659240,,https://www.sec.gov/Archives/edgar/data/1302261/000196430626000420/0001964306-26-000420-index.htm,LOW
+2026-09-01T20:25:49+00:00,FORM_144,,Netflix Inc.,proposed sale $25.20M,25198859,,https://www.sec.gov/Archives/edgar/data/1065280/000162828026059826/0001628280-26-059826-index.htm,LOW
+2026-09-01T20:25:49+00:00,FORM_144,,DTE ENERGY COMPANY,proposed sale $679K,678559,,https://www.sec.gov/Archives/edgar/data/1669115/000195004726008905/0001950047-26-008905-index.htm,LOW
+2026-09-01T20:25:50+00:00,FORM_144,,GODADDY INC.,proposed sale $306K,305769,,https://www.sec.gov/Archives/edgar/data/1678432/000195004726008904/0001950047-26-008904-index.htm,LOW
+2026-09-01T20:25:50+00:00,FORM_144,,"HARLEY-DAVIDSON, INC.",proposed sale $85K,85483,,https://www.sec.gov/Archives/edgar/data/1813721/000192109426000977/0001921094-26-000977-index.htm,LOW
+2026-09-01T20:25:50+00:00,FORM_144,,"EASTERN BANKSHARES, INC.",proposed sale $227K,226565,,https://www.sec.gov/Archives/edgar/data/1825585/000195004726008903/0001950047-26-008903-index.htm,LOW
+2026-09-01T20:25:51+00:00,FORM_144,,BRISTOW GROUP INC.,proposed sale $16K,16110,,https://www.sec.gov/Archives/edgar/data/1792626/000195004726008902/0001950047-26-008902-index.htm,LOW
+2026-09-01T20:25:51+00:00,FORM_144,,FENNEC PHARMACEUTICALS INC.,proposed sale $121K,121177,,https://www.sec.gov/Archives/edgar/data/1468316/000195004726008901/0001950047-26-008901-index.htm,LOW
+2026-09-01T20:25:51+00:00,FORM_144,,"MIRUM PHARMACEUTICALS, INC.",proposed sale $2.96M,2960319,,https://www.sec.gov/Archives/edgar/data/1759425/000195004726008900/0001950047-26-008900-index.htm,LOW
+2026-09-01T20:25:51+00:00,FORM_144,,PennyMac Mortgage Investment Trust,proposed sale $23K,22655,,https://www.sec.gov/Archives/edgar/data/1486334/000196430626000419/0001964306-26-000419-index.htm,LOW
+2026-09-01T20:25:52+00:00,FORM_144,,"PACS Group, Inc.",proposed sale $5.07M,5070000,,https://www.sec.gov/Archives/edgar/data/2014386/000196922326000980/0001969223-26-000980-index.htm,LOW
+2026-09-01T20:25:52+00:00,FORM_144,,"Cinemark Holdings, Inc.",proposed sale $3.76M,3757078,,https://www.sec.gov/Archives/edgar/data/1396621/000192109426000976/0001921094-26-000976-index.htm,LOW
+2026-09-01T20:25:52+00:00,FORM_144,,"YUM! Brands, Inc.",proposed sale $128K,127675,,https://www.sec.gov/Archives/edgar/data/1783787/000162828026059815/0001628280-26-059815-index.htm,LOW
+2026-09-01T20:25:53+00:00,FORM_144,,ELASTIC N.V.,proposed sale $390K,390363,,https://www.sec.gov/Archives/edgar/data/1707753/000195004726008899/0001950047-26-008899-index.htm,LOW
+2026-09-01T20:25:53+00:00,FORM_144,,Willis Lease Finance Corporation,proposed sale $808K,807900,,https://www.sec.gov/Archives/edgar/data/1453104/000162828026059814/0001628280-26-059814-index.htm,LOW
+2026-09-01T20:25:53+00:00,FORM_144,,UNITED BANKSHARES INC/WV,proposed sale $149K,148734,,https://www.sec.gov/Archives/edgar/data/1202932/000194984626000558/0001949846-26-000558-index.htm,LOW
+2026-09-01T20:25:54+00:00,FORM_144,,ELASTIC N.V.,proposed sale $937K,936691,,https://www.sec.gov/Archives/edgar/data/1927549/000195004726008898/0001950047-26-008898-index.htm,LOW
+2026-09-01T20:25:54+00:00,FORM_144,,"Datadog, Inc.",proposed sale $231K,230713,,https://www.sec.gov/Archives/edgar/data/1757760/000162828026059811/0001628280-26-059811-index.htm,LOW
+2026-09-01T20:25:54+00:00,FORM_144,,"Verisk Analytics, Inc.",proposed sale $684K,683775,,https://www.sec.gov/Archives/edgar/data/1521495/000196430626000418/0001964306-26-000418-index.htm,LOW
+2026-09-01T20:25:55+00:00,FORM_144,,"YUM! BRANDS, INC.",proposed sale $189K,189285,,https://www.sec.gov/Archives/edgar/data/2057807/000162828026059810/0001628280-26-059810-index.htm,LOW
+2026-09-01T20:25:55+00:00,FORM_144,,"CNO FINANCIAL GROUP, INC.",proposed sale $222K,222207,,https://www.sec.gov/Archives/edgar/data/1960364/000195004726008897/0001950047-26-008897-index.htm,LOW
+2026-09-01T20:25:55+00:00,FORM_144,,"CNO FINANCIAL GROUP, INC.",proposed sale $511K,511002,,https://www.sec.gov/Archives/edgar/data/1789577/000195004726008896/0001950047-26-008896-index.htm,LOW
