@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
 
 concurrency:
-  group: trump-monitor
+  group: filings-state
   cancel-in-progress: false
 
 permissions:
@@ -40,15 +40,27 @@ jobs:
         run: python trump.py
 
       - name: Commit state
+        continue-on-error: true
         run: |
           git config user.name "filings-monitor"
           git config user.email "actions@github.com"
-          git add state data
-          if git diff --staged --quiet; then echo "nothing changed"; exit 0; fi
-          git commit -m "trump: $(date -u '+%Y-%m-%d %H:%M UTC')"
-          for i in 1 2 3; do
-            git pull --rebase --autostash origin ${{ github.ref_name }} && \
-            git push origin HEAD:${{ github.ref_name }} && exit 0
-            sleep 5
+          git add state data || true
+          if git diff --staged --quiet; then
+            echo "nothing to commit"
+            exit 0
+          fi
+          git commit -m "trump: $(date -u '+%Y-%m-%d %H:%M UTC')" || exit 0
+          # Another workflow may have pushed while this one ran. Retry with
+          # backoff, and never fail the job over a state file: the next run
+          # picks up where this one left off.
+          for i in 1 2 3 4 5; do
+            if git pull --rebase --autostash origin ${{ github.ref_name }} \
+               && git push origin HEAD:${{ github.ref_name }}; then
+              echo "pushed on attempt $i"
+              exit 0
+            fi
+            echo "push attempt $i failed, retrying"
+            sleep $((i * 5))
           done
-          exit 1
+          echo "::warning::could not push state this run, will retry next cycle"
+          exit 0

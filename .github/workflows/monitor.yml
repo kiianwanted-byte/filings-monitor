@@ -8,7 +8,7 @@ on:
 
 # Never let two runs overlap, they would fight over the state files.
 concurrency:
-  group: filings-monitor
+  group: filings-state
   cancel-in-progress: false
 
 permissions:
@@ -39,22 +39,28 @@ jobs:
           FINNHUB_KEY: ${{ secrets.FINNHUB_KEY }}
         run: python monitor.py
 
-      - name: Commit state and data
+      - name: Commit state
+        continue-on-error: true
         run: |
           git config user.name "filings-monitor"
           git config user.email "actions@github.com"
-          git add state data
+          git add state data || true
           if git diff --staged --quiet; then
-            echo "nothing changed"
+            echo "nothing to commit"
             exit 0
           fi
-          git commit -m "state: $(date -u '+%Y-%m-%d %H:%M UTC')"
-          # Another run may have pushed while we worked. Rebase and retry.
-          for i in 1 2 3; do
-            git pull --rebase --autostash origin ${{ github.ref_name }} && \
-            git push origin HEAD:${{ github.ref_name }} && exit 0
+          git commit -m "state: $(date -u '+%Y-%m-%d %H:%M UTC')" || exit 0
+          # Another workflow may have pushed while this one ran. Retry with
+          # backoff, and never fail the job over a state file: the next run
+          # picks up where this one left off.
+          for i in 1 2 3 4 5; do
+            if git pull --rebase --autostash origin ${{ github.ref_name }} \
+               && git push origin HEAD:${{ github.ref_name }}; then
+              echo "pushed on attempt $i"
+              exit 0
+            fi
             echo "push attempt $i failed, retrying"
-            sleep 5
+            sleep $((i * 5))
           done
-          echo "could not push state after 3 attempts"
-          exit 1
+          echo "::warning::could not push state this run, will retry next cycle"
+          exit 0

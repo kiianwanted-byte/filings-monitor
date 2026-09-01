@@ -6,6 +6,10 @@ on:
     - cron: "0 23 * * 0"
   workflow_dispatch:
 
+concurrency:
+  group: filings-state
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
@@ -27,11 +31,27 @@ jobs:
           FINNHUB_KEY: ${{ secrets.FINNHUB_KEY }}
         run: python earnings.py
       - name: Commit state
+        continue-on-error: true
         run: |
           git config user.name "filings-monitor"
           git config user.email "actions@github.com"
-          git add state
-          if git diff --staged --quiet; then exit 0; fi
-          git commit -m "earnings digest $(date -u '+%Y-%m-%d')"
-          git pull --rebase --autostash origin ${{ github.ref_name }}
-          git push origin HEAD:${{ github.ref_name }}
+          git add state data || true
+          if git diff --staged --quiet; then
+            echo "nothing to commit"
+            exit 0
+          fi
+          git commit -m "earnings digest $(date -u '+%Y-%m-%d')" || exit 0
+          # Another workflow may have pushed while this one ran. Retry with
+          # backoff, and never fail the job over a state file: the next run
+          # picks up where this one left off.
+          for i in 1 2 3 4 5; do
+            if git pull --rebase --autostash origin ${{ github.ref_name }} \
+               && git push origin HEAD:${{ github.ref_name }}; then
+              echo "pushed on attempt $i"
+              exit 0
+            fi
+            echo "push attempt $i failed, retrying"
+            sleep $((i * 5))
+          done
+          echo "::warning::could not push state this run, will retry next cycle"
+          exit 0
