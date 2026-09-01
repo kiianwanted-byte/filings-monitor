@@ -608,3 +608,12 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-01T20:25:55+00:00,FORM_144,,"YUM! BRANDS, INC.",proposed sale $189K,189285,,https://www.sec.gov/Archives/edgar/data/2057807/000162828026059810/0001628280-26-059810-index.htm,LOW
 2026-09-01T20:25:55+00:00,FORM_144,,"CNO FINANCIAL GROUP, INC.",proposed sale $222K,222207,,https://www.sec.gov/Archives/edgar/data/1960364/000195004726008897/0001950047-26-008897-index.htm,LOW
 2026-09-01T20:25:55+00:00,FORM_144,,"CNO FINANCIAL GROUP, INC.",proposed sale $511K,511002,,https://www.sec.gov/Archives/edgar/data/1789577/000195004726008896/0001950047-26-008896-index.htm,LOW
+2026-09-01T20:36:22+00:00,INSIDER_BUY,LINE,"Lineage, Inc.",Marchetti Kevin Patrick $988K,987555,4,https://www.sec.gov/Archives/edgar/data/2021239/000202123926000006/0002021239-26-000006-index.htm,MEDIUM
+2026-09-01T20:36:31+00:00,INSIDER_CLUSTER,CWBC,Community West Bancshares,LIVINGSTON SHANNON R $2K,2301,1,https://www.sec.gov/Archives/edgar/data/1966223/000162828026059851/0001628280-26-059851-index.htm,HIGH
+2026-09-01T20:36:33+00:00,FORM_144,,"CoreWeave, Inc.",proposed sale $13.34M,13342840,,https://www.sec.gov/Archives/edgar/data/2058048/000196858226000917/0001968582-26-000917-index.htm,LOW
+2026-09-01T20:36:33+00:00,FORM_144,,SEI INVESTMENTS CO,proposed sale $549K,548502,,https://www.sec.gov/Archives/edgar/data/1191727/000192109426000981/0001921094-26-000981-index.htm,LOW
+2026-09-01T20:36:33+00:00,FORM_144,,"PAGERDUTY, INC.",proposed sale $1.81M,1806416,,https://www.sec.gov/Archives/edgar/data/1674159/000195004726008916/0001950047-26-008916-index.htm,LOW
+2026-09-01T20:36:34+00:00,FORM_144,,"Generate Biomedicines, Inc.",proposed sale $16K,16002,,https://www.sec.gov/Archives/edgar/data/2100782/000195917326006611/0001959173-26-006611-index.htm,LOW
+2026-09-01T20:36:34+00:00,FORM_144,,"Amphastar Pharmaceuticals, Inc.",proposed sale $290K,290114,,https://www.sec.gov/Archives/edgar/data/1645326/000196922326000982/0001969223-26-000982-index.htm,LOW
+2026-09-01T20:36:34+00:00,FORM_144,,"PINTEREST, INC.",proposed sale $1.01M,1013843,,https://www.sec.gov/Archives/edgar/data/1773914/000192109426000980/0001921094-26-000980-index.htm,LOW
+2026-09-01T20:36:35+00:00,FORM_144,,Flowco Holdings Inc.,proposed sale $199K,198586,,https://www.sec.gov/Archives/edgar/data/2049797/000204979726000002/0002049797-26-000002-index.htm,LOW
