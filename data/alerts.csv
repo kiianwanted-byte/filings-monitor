@@ -704,3 +704,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-01T21:50:36+00:00,FORM_144,,"Health Catalyst, Inc.",proposed sale $547,546,,https://www.sec.gov/Archives/edgar/data/2086403/000162828026059933/0001628280-26-059933-index.htm,LOW
 2026-09-01T21:50:36+00:00,FORM_144,,"Health Catalyst, Inc.",proposed sale $31K,30618,,https://www.sec.gov/Archives/edgar/data/1839111/000162828026059931/0001628280-26-059931-index.htm,LOW
 2026-09-01T21:50:37+00:00,FORM_144,,"Health Catalyst, Inc.",proposed sale $22K,22431,,https://www.sec.gov/Archives/edgar/data/1975281/000162828026059929/0001628280-26-059929-index.htm,LOW
+2026-09-01T22:11:33+00:00,FORM_144,,GeneDx Holdings Corp.,proposed sale $458K,458500,,https://www.sec.gov/Archives/edgar/data/1944119/000162828026059939/0001628280-26-059939-index.htm,LOW
+2026-09-01T22:11:34+00:00,FORM_144,,GeneDx Holdings Corp.,proposed sale $1.21M,1208100,,https://www.sec.gov/Archives/edgar/data/1818331/000162828026059938/0001628280-26-059938-index.htm,LOW
+2026-09-01T22:11:34+00:00,FORM_144,,Super Group (SGHC) Limited,proposed sale $560K,560000,,https://www.sec.gov/Archives/edgar/data/2117569/000101143826000561/0001011438-26-000561-index.htm,LOW
