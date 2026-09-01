@@ -475,3 +475,9 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-01T14:34:19+00:00,FORM_144,,IRON MOUNTAIN INC,proposed sale $578K,578000,,https://www.sec.gov/Archives/edgar/data/1769841/000195917326006565/0001959173-26-006565-index.htm,LOW
 2026-09-01T14:34:19+00:00,FORM_144,,MOODYS CORP /DE/,proposed sale $736K,736272,,https://www.sec.gov/Archives/edgar/data/1481153/000195917326006564/0001959173-26-006564-index.htm,LOW
 2026-09-01T14:52:04+00:00,FORM_144,,VERIZON COMMUNICATIONS INC,proposed sale $56K,55550,,https://www.sec.gov/Archives/edgar/data/1760581/000195917326006566/0001959173-26-006566-index.htm,LOW
+2026-09-01T15:22:53+00:00,FORM_144,,TransUnion,proposed sale $84K,84420,,https://www.sec.gov/Archives/edgar/data/1776865/000195917326006570/0001959173-26-006570-index.htm,LOW
+2026-09-01T15:22:53+00:00,FORM_144,,"American Financial Group, Inc.",proposed sale $135K,135422,,https://www.sec.gov/Archives/edgar/data/1816887/000119312526377838/0001193125-26-377838-index.htm,LOW
+2026-09-01T15:22:54+00:00,FORM_144,,Finance of America Companies Inc.,proposed sale $13K,13155,,https://www.sec.gov/Archives/edgar/data/1971552/000195779926000169/0001957799-26-000169-index.htm,LOW
+2026-09-01T15:22:54+00:00,FORM_144,,QUEST DIAGNOSTICS INC,proposed sale $2.43M,2427200,,https://www.sec.gov/Archives/edgar/data/1599837/000195917326006569/0001959173-26-006569-index.htm,LOW
+2026-09-01T15:22:54+00:00,FORM_144,,NEWMONT Corp /DE/,proposed sale $477K,477486,,https://www.sec.gov/Archives/edgar/data/1994131/000195917326006568/0001959173-26-006568-index.htm,LOW
+2026-09-01T15:22:55+00:00,FORM_144,,"Circle Internet Group, Inc.",proposed sale $4.60M,4604626,,https://www.sec.gov/Archives/edgar/data/2060511/000195917326006567/0001959173-26-006567-index.htm,LOW
