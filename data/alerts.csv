@@ -500,3 +500,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-01T17:17:16+00:00,FORM_144,,MGIC INVESTMENT CORP,proposed sale $922K,921900,,https://www.sec.gov/Archives/edgar/data/1687897/000195917326006581/0001959173-26-006581-index.htm,LOW
 2026-09-01T17:28:52+00:00,FORM_144,,"ExlService Holdings, Inc.",proposed sale $382K,381700,,https://www.sec.gov/Archives/edgar/data/1373633/000195917326006584/0001959173-26-006584-index.htm,LOW
 2026-09-01T17:39:50+00:00,FORM_144,,OceanFirst Financial Corp.,proposed sale $104K,103977,,https://www.sec.gov/Archives/edgar/data/1992779/000199277926000006/0001992779-26-000006-index.htm,LOW
+2026-09-01T17:48:10+00:00,FORM_144,,PATTERSON UTI ENERGY INC,proposed sale $1.53M,1530002,,https://www.sec.gov/Archives/edgar/data/1469527/000195917326006586/0001959173-26-006586-index.htm,LOW
+2026-09-01T17:48:11+00:00,FORM_144,,SLB LIMITED/NV,proposed sale $2.10M,2100000,,https://www.sec.gov/Archives/edgar/data/1497824/000195917326006585/0001959173-26-006585-index.htm,LOW
