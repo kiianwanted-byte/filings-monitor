@@ -697,3 +697,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-01T21:30:58+00:00,FORM_144,,Flutter Entertainment plc,proposed sale $172K,172427,,https://www.sec.gov/Archives/edgar/data/2012791/000197337926000325/0001973379-26-000325-index.htm,LOW
 2026-09-01T21:30:58+00:00,FORM_144,,PROVIDENT FINANCIAL SERVICES INC,proposed sale $370K,370411,,https://www.sec.gov/Archives/edgar/data/1185280/000118528026000006/0001185280-26-000006-index.htm,LOW
 2026-09-01T21:30:59+00:00,FORM_144,,American Well Corporation,proposed sale $127K,126897,,https://www.sec.gov/Archives/edgar/data/1393584/000119312526378652/0001193125-26-378652-index.htm,LOW
+2026-09-01T21:41:43+00:00,INSIDER_CLUSTER,UAMY,UNITED STATES ANTIMONY CORP,Carrabba Joseph A $101K,100536,0,https://www.sec.gov/Archives/edgar/data/1328270/000110465926104378/0001104659-26-104378-index.htm,HIGH
+2026-09-01T21:41:46+00:00,FORM_144,,Flutter Entertainment plc,proposed sale $77K,77406,,https://www.sec.gov/Archives/edgar/data/2012952/000197337926000329/0001973379-26-000329-index.htm,LOW
+2026-09-01T21:41:47+00:00,FORM_144,,Flutter Entertainment plc,proposed sale $55K,55290,,https://www.sec.gov/Archives/edgar/data/1635327/000197337926000328/0001973379-26-000328-index.htm,LOW
+2026-09-01T21:41:47+00:00,FORM_144,,Flutter Entertainment plc,proposed sale $73K,72513,,https://www.sec.gov/Archives/edgar/data/2012862/000197337926000327/0001973379-26-000327-index.htm,LOW
