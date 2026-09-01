@@ -495,3 +495,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-01T16:32:18+00:00,FORM_144,,UMB FINANCIAL CORP,proposed sale $82K,81578,,https://www.sec.gov/Archives/edgar/data/1975226/000197636326000029/0001976363-26-000029-index.htm,LOW
 2026-09-01T16:52:43+00:00,INSIDER_CLUSTER,N/A,John Hancock GA Senior Loan Trust,Manufacturers Life Insurance Co (Bermuda Branch) $22.99M,22993803,1,https://www.sec.gov/Archives/edgar/data/1833683/000183368326000017/0001833683-26-000017-index.htm,HIGH
 2026-09-01T16:52:47+00:00,FORM_144,,OLD REPUBLIC INTERNATIONAL CORP,proposed sale $184K,184233,,https://www.sec.gov/Archives/edgar/data/1990341/000195917326006580/0001959173-26-006580-index.htm,LOW
+2026-09-01T17:17:16+00:00,FORM_144,,HORACE MANN EDUCATORS CORP /DE/,proposed sale $384K,384075,,https://www.sec.gov/Archives/edgar/data/1198960/000195917326006583/0001959173-26-006583-index.htm,LOW
+2026-09-01T17:17:16+00:00,FORM_144,,Oklo Inc.,proposed sale $637K,636795,,https://www.sec.gov/Archives/edgar/data/1855623/000195917326006582/0001959173-26-006582-index.htm,LOW
+2026-09-01T17:17:16+00:00,FORM_144,,MGIC INVESTMENT CORP,proposed sale $922K,921900,,https://www.sec.gov/Archives/edgar/data/1687897/000195917326006581/0001959173-26-006581-index.htm,LOW
