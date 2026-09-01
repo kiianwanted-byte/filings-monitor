@@ -454,3 +454,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-08-31T23:55:48+00:00,INSIDER_CLUSTER,UAMY,UNITED STATES ANTIMONY CORP,Aguirre Blaise A. $7K,7049,0,https://www.sec.gov/Archives/edgar/data/1533482/000110465926103998/0001104659-26-103998-index.htm,HIGH
 2026-09-01T00:33:05+00:00,INSIDER_CLUSTER,BRID,BRIDGFORD FOODS CORP,Bridgford Baron $3K,2908,3,https://www.sec.gov/Archives/edgar/data/1299715/000149315226040905/0001493152-26-040905-index.htm,HIGH
 2026-09-01T00:33:10+00:00,FORM_144,,Amalgamated Financial Corp.,proposed sale $6.47M,6465010,,https://www.sec.gov/Archives/edgar/data/2008869/000090266426003697/0000902664-26-003697-index.htm,LOW
+2026-09-01T01:47:23+00:00,FORM_144,,Oddity Tech Ltd,proposed sale $176K,176304,,https://www.sec.gov/Archives/edgar/data/2008127/000110465926104011/0001104659-26-104011-index.htm,LOW
