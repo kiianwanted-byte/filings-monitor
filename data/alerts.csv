@@ -640,3 +640,38 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-01T20:47:04+00:00,FORM_144,,"Coinbase Global, Inc.",proposed sale $1.88M,1881200,,https://www.sec.gov/Archives/edgar/data/1679788/000195004726008918/0001950047-26-008918-index.htm,LOW
 2026-09-01T20:47:04+00:00,FORM_144,,"FIGMA, INC.",proposed sale $20K,20122,,https://www.sec.gov/Archives/edgar/data/2073592/000195004726008917/0001950047-26-008917-index.htm,LOW
 2026-09-01T20:47:04+00:00,FORM_144,,Blackbaud Inc,proposed sale $95K,95058,,https://www.sec.gov/Archives/edgar/data/1492840/000162828026059856/0001628280-26-059856-index.htm,LOW
+2026-09-01T20:54:45+00:00,FORM_144,,"Affirm Holdings, Inc.",proposed sale $3.10M,3101884,,https://www.sec.gov/Archives/edgar/data/1870331/000195004726008964/0001950047-26-008964-index.htm,LOW
+2026-09-01T20:54:45+00:00,FORM_144,,CARVANA CO,proposed sale $3.67M,3673000,,https://www.sec.gov/Archives/edgar/data/1700537/000195004726008963/0001950047-26-008963-index.htm,LOW
+2026-09-01T20:54:46+00:00,FORM_144,,"ICF International, Inc.",proposed sale $570K,570240,,https://www.sec.gov/Archives/edgar/data/1376437/000195004726008962/0001950047-26-008962-index.htm,LOW
+2026-09-01T20:54:47+00:00,FORM_144,,"FIGMA, INC.",proposed sale $20K,20122,,https://www.sec.gov/Archives/edgar/data/2073592/000195004726008960/0001950047-26-008960-index.htm,LOW
+2026-09-01T20:54:47+00:00,FORM_144,,"ARS PHARMACEUTICALS, INC.",proposed sale $273K,272849,,https://www.sec.gov/Archives/edgar/data/1951291/000195004726008961/0001950047-26-008961-index.htm,LOW
+2026-09-01T20:54:48+00:00,FORM_144,,TEMPUS AI INC,proposed sale $43K,42621,,https://www.sec.gov/Archives/edgar/data/1739090/000195004726008959/0001950047-26-008959-index.htm,LOW
+2026-09-01T20:54:49+00:00,FORM_144,,CARVANA CO,proposed sale $4.68M,4683075,,https://www.sec.gov/Archives/edgar/data/1700540/000195004726008958/0001950047-26-008958-index.htm,LOW
+2026-09-01T20:54:49+00:00,FORM_144,,PERFORMANCE FOOD GROUP COMPANY,proposed sale $298K,297510,,https://www.sec.gov/Archives/edgar/data/1956546/000195004726008957/0001950047-26-008957-index.htm,LOW
+2026-09-01T20:54:50+00:00,FORM_144,,WEX Inc.,proposed sale $5.34M,5342371,,https://www.sec.gov/Archives/edgar/data/1317498/000162828026059880/0001628280-26-059880-index.htm,LOW
+2026-09-01T20:54:50+00:00,FORM_144,,Roblox Corporation,proposed sale $344K,344069,,https://www.sec.gov/Archives/edgar/data/1834990/000195004726008956/0001950047-26-008956-index.htm,LOW
+2026-09-01T20:54:50+00:00,FORM_144,,COHERENT CORP.,proposed sale $1.68M,1675314,,https://www.sec.gov/Archives/edgar/data/1661122/000195004726008955/0001950047-26-008955-index.htm,LOW
+2026-09-01T20:54:51+00:00,FORM_144,,"Oruka Therapeutics, Inc.",proposed sale $463K,463100,,https://www.sec.gov/Archives/edgar/data/2075401/000195004726008954/0001950047-26-008954-index.htm,LOW
+2026-09-01T20:54:51+00:00,FORM_144,,"Astera Labs, Inc.",proposed sale $44.55M,44547000,,https://www.sec.gov/Archives/edgar/data/1736297/000195004726008953/0001950047-26-008953-index.htm,LOW
+2026-09-01T20:54:52+00:00,FORM_144,,ARISTA NETWORKS INC,proposed sale $120K,119762,,https://www.sec.gov/Archives/edgar/data/1850596/000195004726008952/0001950047-26-008952-index.htm,LOW
+2026-09-01T20:54:52+00:00,FORM_144,,"ICHOR HOLDINGS, LTD.",proposed sale $567K,567145,,https://www.sec.gov/Archives/edgar/data/1958644/000195004726008951/0001950047-26-008951-index.htm,LOW
+2026-09-01T20:54:53+00:00,FORM_144,,DIANTHUS THERAPEUTICS INC,proposed sale $2.44M,2442125,,https://www.sec.gov/Archives/edgar/data/1992260/000195004726008950/0001950047-26-008950-index.htm,LOW
+2026-09-01T20:54:53+00:00,FORM_144,,"Oruka Therapeutics, Inc.",proposed sale $6.95M,6946500,,https://www.sec.gov/Archives/edgar/data/1762583/000195004726008949/0001950047-26-008949-index.htm,LOW
+2026-09-01T20:54:54+00:00,FORM_144,,"CYTOKINETICS, INCORPORATED",proposed sale $355K,354550,,https://www.sec.gov/Archives/edgar/data/1073385/000195004726008948/0001950047-26-008948-index.htm,LOW
+2026-09-01T20:54:54+00:00,FORM_144,,"CoreWeave, Inc.",proposed sale $16.98M,16978000,,https://www.sec.gov/Archives/edgar/data/2058037/000195004726008947/0001950047-26-008947-index.htm,LOW
+2026-09-01T20:54:55+00:00,FORM_144,,"CoreWeave, Inc.",proposed sale $9.14M,9141973,,https://www.sec.gov/Archives/edgar/data/2058037/000195004726008946/0001950047-26-008946-index.htm,LOW
+2026-09-01T20:54:55+00:00,FORM_144,,HERITAGE GLOBAL INC.,proposed sale $3K,3225,,https://www.sec.gov/Archives/edgar/data/1641547/000195004726008945/0001950047-26-008945-index.htm,LOW
+2026-09-01T20:54:56+00:00,FORM_144,,DENALI THERAPEUTICS INC,proposed sale $66K,65767,,https://www.sec.gov/Archives/edgar/data/1724311/000195004726008944/0001950047-26-008944-index.htm,LOW
+2026-09-01T20:54:56+00:00,FORM_144,,Roblox Corporation,proposed sale $344K,344069,,https://www.sec.gov/Archives/edgar/data/1834990/000195004726008943/0001950047-26-008943-index.htm,LOW
+2026-09-01T20:54:57+00:00,FORM_144,,Vertiv Holdings Co,proposed sale $3.96M,3955052,,https://www.sec.gov/Archives/edgar/data/1674101/000195004726008942/0001950047-26-008942-index.htm,LOW
+2026-09-01T20:54:57+00:00,FORM_144,,"MUELLER WATER PRODUCTS, INC.",proposed sale $13K,13128,,https://www.sec.gov/Archives/edgar/data/1764692/000162828026059874/0001628280-26-059874-index.htm,LOW
+2026-09-01T20:54:57+00:00,FORM_144,,"Ibotta, Inc.",proposed sale $220K,219632,,https://www.sec.gov/Archives/edgar/data/1873513/000195917326006615/0001959173-26-006615-index.htm,LOW
+2026-09-01T20:54:58+00:00,FORM_144,,"Ibotta, Inc.",proposed sale $220K,219567,,https://www.sec.gov/Archives/edgar/data/1873513/000195917326006614/0001959173-26-006614-index.htm,LOW
+2026-09-01T20:54:58+00:00,FORM_144,,VERACYTE INC,proposed sale $161K,161012,,https://www.sec.gov/Archives/edgar/data/1846905/000195004726008941/0001950047-26-008941-index.htm,LOW
+2026-09-01T20:54:59+00:00,FORM_144,,"Tempus AI, Inc.",proposed sale $1.94M,1944840,,https://www.sec.gov/Archives/edgar/data/2024250/000195004726008940/0001950047-26-008940-index.htm,LOW
+2026-09-01T20:54:59+00:00,FORM_144,,"FASTLY, INC.",proposed sale $1.27M,1266645,,https://www.sec.gov/Archives/edgar/data/2074428/000195004726008939/0001950047-26-008939-index.htm,LOW
+2026-09-01T20:55:00+00:00,FORM_144,,National Energy Services Reunited Corp.,proposed sale $3.50M,3500000,,https://www.sec.gov/Archives/edgar/data/1698514/000094787126000855/0000947871-26-000855-index.htm,LOW
+2026-09-01T20:55:00+00:00,FORM_144,,EverCommerce Inc.,proposed sale $390K,390051,,https://www.sec.gov/Archives/edgar/data/1856906/000195917326006613/0001959173-26-006613-index.htm,LOW
+2026-09-01T20:55:01+00:00,FORM_144,,"DOORDASH, INC.",proposed sale $3.86M,3862410,,https://www.sec.gov/Archives/edgar/data/1832617/000195004726008938/0001950047-26-008938-index.htm,LOW
+2026-09-01T20:55:01+00:00,FORM_144,,SEAGATE TECHNOLOGY HOLDINGS PLC,proposed sale $74.55M,74554200,,https://www.sec.gov/Archives/edgar/data/1388390/000195004726008937/0001950047-26-008937-index.htm,LOW
+2026-09-01T20:55:01+00:00,FORM_144,,NextNav Inc.,proposed sale $1.11M,1108567,,https://www.sec.gov/Archives/edgar/data/1998558/000195004726008936/0001950047-26-008936-index.htm,LOW
