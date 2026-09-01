@@ -502,3 +502,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-01T17:39:50+00:00,FORM_144,,OceanFirst Financial Corp.,proposed sale $104K,103977,,https://www.sec.gov/Archives/edgar/data/1992779/000199277926000006/0001992779-26-000006-index.htm,LOW
 2026-09-01T17:48:10+00:00,FORM_144,,PATTERSON UTI ENERGY INC,proposed sale $1.53M,1530002,,https://www.sec.gov/Archives/edgar/data/1469527/000195917326006586/0001959173-26-006586-index.htm,LOW
 2026-09-01T17:48:11+00:00,FORM_144,,SLB LIMITED/NV,proposed sale $2.10M,2100000,,https://www.sec.gov/Archives/edgar/data/1497824/000195917326006585/0001959173-26-006585-index.htm,LOW
+2026-09-01T17:56:19+00:00,FORM_144,,PROGRESSIVE CORP/OH/,proposed sale $8.20M,8195691,,https://www.sec.gov/Archives/edgar/data/1198113/000195917326006588/0001959173-26-006588-index.htm,LOW
+2026-09-01T17:56:20+00:00,FORM_144,,Snowflake Inc.,proposed sale $4.88M,4883550,,https://www.sec.gov/Archives/edgar/data/1979088/000195917326006587/0001959173-26-006587-index.htm,LOW
