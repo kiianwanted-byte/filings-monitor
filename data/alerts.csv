@@ -525,3 +525,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-01T19:33:42+00:00,FORM_144,,VIVMARK RESIDENTIAL,proposed sale $321K,321089,,https://www.sec.gov/Archives/edgar/data/1750568/000195917326006597/0001959173-26-006597-index.htm,LOW
 2026-09-01T19:41:50+00:00,FORM_144,,VIVMARK RESIDENTIAL,proposed sale $2.95M,2946335,,https://www.sec.gov/Archives/edgar/data/1414146/000195917326006604/0001959173-26-006604-index.htm,LOW
 2026-09-01T19:41:51+00:00,FORM_144,,Lightwave Logic Inc,proposed sale $2K,1972,,https://www.sec.gov/Archives/edgar/data/2105378/000196922326000971/0001969223-26-000971-index.htm,LOW
+2026-09-01T19:50:17+00:00,FORM_144,,NOBLE ROMANS INC,proposed sale $4K,3500,,https://www.sec.gov/Archives/edgar/data/1403620/000195917326006605/0001959173-26-006605-index.htm,LOW
