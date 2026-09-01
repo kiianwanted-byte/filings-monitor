@@ -508,3 +508,9 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-01T18:09:12+00:00,FORM_144,,"Circle Internet Group, Inc.",proposed sale $1.38M,1383000,,https://www.sec.gov/Archives/edgar/data/1876042/000195917326006589/0001959173-26-006589-index.htm,LOW
 2026-09-01T18:27:59+00:00,FORM_144,,"Airbnb, Inc.",proposed sale $953K,953327,,https://www.sec.gov/Archives/edgar/data/1559720/000195917326006591/0001959173-26-006591-index.htm,LOW
 2026-09-01T18:28:00+00:00,FORM_144,,Scorpio Tankers Inc.,proposed sale $1.19M,1189800,,https://www.sec.gov/Archives/edgar/data/1969452/000196945226000011/0001969452-26-000011-index.htm,LOW
+2026-09-01T18:52:24+00:00,FORM_144,,"Tarsus Pharmaceuticals, Inc.",proposed sale $340K,339829,,https://www.sec.gov/Archives/edgar/data/1842190/000195917326006596/0001959173-26-006596-index.htm,LOW
+2026-09-01T18:52:24+00:00,FORM_144,,Sonos Inc,proposed sale $154K,153900,,https://www.sec.gov/Archives/edgar/data/1561290/000195917326006595/0001959173-26-006595-index.htm,LOW
+2026-09-01T18:52:24+00:00,FORM_144,,"Helmerich & Payne, Inc.",proposed sale $450K,450000,,https://www.sec.gov/Archives/edgar/data/1716677/000195917326006594/0001959173-26-006594-index.htm,LOW
+2026-09-01T18:52:25+00:00,FORM_144,,"BRINKER INTERNATIONAL, INC",proposed sale $707K,707440,,https://www.sec.gov/Archives/edgar/data/1719141/000195917326006593/0001959173-26-006593-index.htm,LOW
+2026-09-01T18:52:25+00:00,FORM_144,,"Cencora, Inc.",proposed sale $2.18M,2175690,,https://www.sec.gov/Archives/edgar/data/1774724/000195917326006592/0001959173-26-006592-index.htm,LOW
+2026-09-01T18:52:25+00:00,FORM_144,,MATERION Corp,proposed sale $235K,234834,,https://www.sec.gov/Archives/edgar/data/1231898/000194984626000556/0001949846-26-000556-index.htm,LOW
