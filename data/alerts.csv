@@ -467,3 +467,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-01T13:54:30+00:00,FORM_144,,IRON MOUNTAIN INC,proposed sale $694K,693600,,https://www.sec.gov/Archives/edgar/data/1732058/000195917326006559/0001959173-26-006559-index.htm,LOW
 2026-09-01T13:54:30+00:00,FORM_144,,"TERADYNE, INC",proposed sale $57K,56997,,https://www.sec.gov/Archives/edgar/data/1225110/000195917326006558/0001959173-26-006558-index.htm,LOW
 2026-09-01T14:05:26+00:00,FORM_144,,"Newegg Commerce, Inc.",proposed sale $1K,1090,,https://www.sec.gov/Archives/edgar/data/1966016/000195917326006560/0001959173-26-006560-index.htm,LOW
+2026-09-01T14:22:15+00:00,FORM_144,,Nextpower Inc.,proposed sale $360K,359910,,https://www.sec.gov/Archives/edgar/data/1852131/000195917326006563/0001959173-26-006563-index.htm,LOW
+2026-09-01T14:22:16+00:00,FORM_144,,TransUnion,proposed sale $84K,84420,,https://www.sec.gov/Archives/edgar/data/1879101/000195917326006562/0001959173-26-006562-index.htm,LOW
+2026-09-01T14:22:16+00:00,FORM_144,,"Leidos Holdings, Inc.",proposed sale $141K,140845,,https://www.sec.gov/Archives/edgar/data/1635110/000197337926000321/0001973379-26-000321-index.htm,LOW
+2026-09-01T14:22:17+00:00,FORM_144,,IRON MOUNTAIN INC,proposed sale $4.45M,4447594,,https://www.sec.gov/Archives/edgar/data/1566391/000195917326006561/0001959173-26-006561-index.htm,LOW
