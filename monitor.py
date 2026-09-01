@@ -307,7 +307,7 @@ def send_alert(kind, ticker, company, headline, value, lag, link, message,
     if PRIORITY_RANK.get(priority, 1) < PRIORITY_RANK[ALERT_MIN_PRIORITY]:
         return False
 
-    telegram(message)
+    telegram(message, silent=(priority != "HIGH"))
     alerts_sent += 1
     return True
 
