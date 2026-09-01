@@ -506,3 +506,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-01T17:56:20+00:00,FORM_144,,Snowflake Inc.,proposed sale $4.88M,4883550,,https://www.sec.gov/Archives/edgar/data/1979088/000195917326006587/0001959173-26-006587-index.htm,LOW
 2026-09-01T18:09:12+00:00,FORM_144,,"FIRST SOLAR, INC.",proposed sale $160K,160000,,https://www.sec.gov/Archives/edgar/data/1819680/000195917326006590/0001959173-26-006590-index.htm,LOW
 2026-09-01T18:09:12+00:00,FORM_144,,"Circle Internet Group, Inc.",proposed sale $1.38M,1383000,,https://www.sec.gov/Archives/edgar/data/1876042/000195917326006589/0001959173-26-006589-index.htm,LOW
+2026-09-01T18:27:59+00:00,FORM_144,,"Airbnb, Inc.",proposed sale $953K,953327,,https://www.sec.gov/Archives/edgar/data/1559720/000195917326006591/0001959173-26-006591-index.htm,LOW
+2026-09-01T18:28:00+00:00,FORM_144,,Scorpio Tankers Inc.,proposed sale $1.19M,1189800,,https://www.sec.gov/Archives/edgar/data/1969452/000196945226000011/0001969452-26-000011-index.htm,LOW
