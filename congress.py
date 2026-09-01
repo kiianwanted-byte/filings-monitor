@@ -50,6 +50,11 @@ HIGH_MIN_AMOUNT = 500_001      # at or above this, always push
 MAX_FILINGS_PER_RUN = 25
 MAX_ALERTS_PER_RUN = 15
 
+# Only alert on filings published recently. The House index holds the whole
+# year, so without this the first run works through January and alerts you
+# about trades disclosed eight months ago. Older filings are still logged.
+MAX_FILING_AGE_DAYS = 10
+
 # eFD returns 503 to GitHub's IP range regardless of headers. House coverage
 # is unaffected and covers the whole lower chamber. Flip this to True to retry
 # Senate later, or if you ever move this to a different host.
@@ -421,7 +426,24 @@ def run_house(seen, health):
     health["house"] = datetime.now(timezone.utc).isoformat(timespec="seconds")
 
     new = [f for f in index if f"H|{f['doc_id']}" not in seen]
-    log(f"house: {len(index)} PTRs in index, {len(new)} new")
+
+    # Mark anything older than the window as seen without alerting, so the
+    # backlog is absorbed silently instead of arriving on your phone.
+    cutoff = (datetime.now(timezone.utc) - timedelta(days=MAX_FILING_AGE_DAYS))
+    fresh, stale_count = [], 0
+    for f in new:
+        try:
+            fd = datetime.strptime(f["filed"], "%m/%d/%Y").replace(tzinfo=timezone.utc)
+        except (ValueError, TypeError):
+            fd = None
+        if fd and fd < cutoff:
+            seen.add(f"H|{f['doc_id']}")
+            stale_count += 1
+        else:
+            fresh.append(f)
+    new = fresh
+    log(f"house: {len(index)} PTRs in index, {len(new)} recent, "
+        f"{stale_count} older than {MAX_FILING_AGE_DAYS}d absorbed silently")
 
     # Newest first so a backlog does not bury today's filings.
     new.sort(key=lambda f: f.get("filed", ""), reverse=True)

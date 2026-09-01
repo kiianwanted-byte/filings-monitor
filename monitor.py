@@ -65,7 +65,12 @@ EIGHTK_HIGH = {"1.03", "2.04", "3.01", "4.01", "4.02"}
 # These fire constantly and are usually routine corporate housekeeping.
 EIGHTK_LOW = {"1.01", "1.02", "5.02"}
 
-FORMS = ["4", "144", "8-K", "NT 10-Q", "NT 10-K", "SC 13D"]
+# Trades only. 8-K, NT and 13D were the bulk of the noise and none of them
+# are a buy or a sell. Add them back to this list to re-enable.
+FORMS = ["4", "144"]
+
+# A filing with no ticker is not actionable, so it is logged but never pushed.
+REQUIRE_TICKER = True
 FEED_COUNT = 100
 
 MAX_FILINGS_PER_RUN = 120
@@ -592,6 +597,8 @@ def handle_form4(item):
             return False
 
     priority = "HIGH" if cluster["fires"] else ("MEDIUM" if passes else "LOW")
+    if REQUIRE_TICKER and not ticker:
+        priority = "LOW"
     if planned:
         priority = "LOW"          # scheduled, not a conviction signal
 
@@ -650,6 +657,8 @@ def handle_form144(item):
     if not units and not value:
         return False
     priority = "MEDIUM" if value >= FORM144_MIN_VALUE else "LOW"
+    if REQUIRE_TICKER and not ticker:
+        priority = "LOW"
 
     rows = [
         ("PRIORITY", priority),

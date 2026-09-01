@@ -31,7 +31,7 @@ import csv
 import sys
 import json
 import time
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
 import requests
@@ -51,6 +51,9 @@ USER_AGENT = os.environ.get("SEC_USER_AGENT", "FilingsMonitor")
 # $1M floor is a natural cut point rather than an arbitrary one.
 MIN_AMOUNT = 1_000_001
 MAX_LINES_IN_MESSAGE = 15
+
+# Same reasoning as congress: absorb the historical backlog silently.
+MAX_FILING_AGE_DAYS = 45
 
 SEEN_FILE = STATE_DIR / "trump_seen.json"
 TRADES_CSV = DATA_DIR / "trump_trades.csv"
@@ -683,7 +686,23 @@ def main():
     seen = set(load_json(SEEN_FILE, []))
     filings = find_filings()
     new = [f for f in filings if f["url"] not in seen]
-    log(f"{len(filings)} documents, {len(new)} new")
+
+    cutoff = (datetime.now(timezone.utc) - timedelta(days=MAX_FILING_AGE_DAYS))
+    fresh, absorbed = [], 0
+    for f in new:
+        d = label_date(f["label"])
+        try:
+            fd = datetime.strptime(d, "%Y-%m-%d").replace(tzinfo=timezone.utc) if d else None
+        except ValueError:
+            fd = None
+        if fd and fd < cutoff:
+            seen.add(f["url"])
+            absorbed += 1
+        else:
+            fresh.append(f)
+    new = fresh
+    log(f"{len(filings)} documents, {len(new)} recent, "
+        f"{absorbed} older than {MAX_FILING_AGE_DAYS}d absorbed silently")
 
     for f in new[:4]:          # OCR is slow, cap the work per run
         process(f, seen)
