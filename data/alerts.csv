@@ -471,3 +471,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-01T14:22:16+00:00,FORM_144,,TransUnion,proposed sale $84K,84420,,https://www.sec.gov/Archives/edgar/data/1879101/000195917326006562/0001959173-26-006562-index.htm,LOW
 2026-09-01T14:22:16+00:00,FORM_144,,"Leidos Holdings, Inc.",proposed sale $141K,140845,,https://www.sec.gov/Archives/edgar/data/1635110/000197337926000321/0001973379-26-000321-index.htm,LOW
 2026-09-01T14:22:17+00:00,FORM_144,,IRON MOUNTAIN INC,proposed sale $4.45M,4447594,,https://www.sec.gov/Archives/edgar/data/1566391/000195917326006561/0001959173-26-006561-index.htm,LOW
+2026-09-01T14:34:18+00:00,FORM_144,,BORGWARNER INC,proposed sale $328K,327507,,https://www.sec.gov/Archives/edgar/data/1620037/000197407826000338/0001974078-26-000338-index.htm,LOW
+2026-09-01T14:34:19+00:00,FORM_144,,IRON MOUNTAIN INC,proposed sale $578K,578000,,https://www.sec.gov/Archives/edgar/data/1769841/000195917326006565/0001959173-26-006565-index.htm,LOW
+2026-09-01T14:34:19+00:00,FORM_144,,MOODYS CORP /DE/,proposed sale $736K,736272,,https://www.sec.gov/Archives/edgar/data/1481153/000195917326006564/0001959173-26-006564-index.htm,LOW
