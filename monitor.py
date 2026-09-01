@@ -266,12 +266,13 @@ def fetch(url, tries=3, is_sec=True):
     return None
 
 
-def telegram(text):
+def telegram(text, silent=True):
     global alerts_sent
     if not TELEGRAM_TOKEN or not TELEGRAM_CHAT_ID:
         log("  telegram not configured, printing instead")
         print(text)
         return False
+    text = f"{SOURCE_TAG} {text}"
     url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
     try:
         r = session.post(url, json={
@@ -279,6 +280,7 @@ def telegram(text):
             "text": text[:4000],
             "parse_mode": "HTML",
             "disable_web_page_preview": True,
+            "disable_notification": silent,
         }, timeout=20)
         if r.status_code != 200:
             log(f"  telegram {r.status_code}: {r.text[:200]}")
@@ -288,7 +290,6 @@ def telegram(text):
     except requests.RequestException as e:
         log(f"  telegram error: {e}")
         return False
-
 
 def send_alert(kind, ticker, company, headline, value, lag, link, message,
                priority="HIGH"):
