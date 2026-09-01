@@ -48,6 +48,40 @@ MIN_MARKET_CAP = 300_000_000
 # Form 144 sell notices are very common and mostly routine.
 FORM144_MIN_VALUE = 5_000_000
 
+# ---- 13D / 13G stake disclosures ----
+# These are the only filings in the system with a real timing gap. A stake
+# crossing 5% must be disclosed within days, and small caps routinely sit
+# unnoticed for a week or more before anyone writes about them.
+#
+# The market cap floor does NOT apply here on purpose. The interesting ones
+# are micro caps, which the $300M floor would have excluded.
+STAKE_MIN_PERCENT = 5.0
+
+# Routine institutional filings. Vanguard crossing 5% in something is not
+# news; it is index rebalancing. Anyone NOT on this list is worth a look.
+INSTITUTIONAL = [
+    "vanguard", "blackrock", "state street", "fmr llc", "fidelity",
+    "geode capital", "t. rowe price", "t rowe price", "capital research",
+    "capital world", "capital international", "wellington", "invesco",
+    "northern trust", "bank of new york", "bny mellon", "jpmorgan",
+    "j.p. morgan", "morgan stanley", "goldman sachs", "ubs group",
+    "credit suisse", "deutsche bank", "barclays", "hsbc", "citigroup",
+    "charles schwab", "dimensional fund", "franklin resources",
+    "amvescap", "aberdeen", "janus henderson", "nuveen", "teachers insurance",
+    "tiaa", "prudential", "allianz", "axa ", "legal & general",
+    "norges bank", "california public employees", "vaneck", "wisdomtree",
+    "susquehanna", "citadel advisors", "point72", "millennium management",
+    "two sigma", "renaissance technologies", "de shaw", "d. e. shaw",
+    "aqr capital", "bridgewater", "man group", "marshall wace",
+    "royal bank of canada", "toronto dominion", "bank of montreal",
+    "sumitomo", "mitsubishi ufj", "nomura", "mizuho",
+]
+
+
+def is_institutional(name):
+    n = (name or "").lower()
+    return any(inst in n for inst in INSTITUTIONAL)
+
 # Cluster detection
 CLUSTER_WINDOW_DAYS = 14
 CLUSTER_MIN_INSIDERS = 2
@@ -71,7 +105,7 @@ EIGHTK_LOW = {"1.01", "1.02", "5.02"}
 
 # Trades only. 8-K, NT and 13D were the bulk of the noise and none of them
 # are a buy or a sell. Add them back to this list to re-enable.
-FORMS = ["4", "144"]
+FORMS = ["4", "144", "SC 13D", "SC 13G"]
 
 # A filing with no ticker is not actionable, so it is logged but never pushed.
 REQUIRE_TICKER = True
@@ -429,6 +463,10 @@ def discover(seen):
 # Filing access
 # ---------------------------------------------------------------
 
+def filing_html(link):
+    return fetch(link) or ""
+
+
 def folder_of(link):
     return link[:link.rfind("/")]
 
@@ -738,36 +776,117 @@ def handle_nt(item):
                           footer="Stated reason is in Part III of the filing."))
 
 
-def handle_13d(item):
-    html = fetch(item["link"]) or ""
-    filed_by = ""
+PERCENT_RE = re.compile(
+    r"(?:percent(?:age)?\s+of\s+class|percent\s+of\s+outstanding)"
+    r"[^0-9]{0,120}?(\d{1,2}(?:\.\d{1,2})?)\s*%", re.IGNORECASE | re.DOTALL)
+PERCENT_FALLBACK_RE = re.compile(r"\b(\d{1,2}\.\d{1,2})\s*%")
+
+
+def parse_stake(html):
+    """Percent of class from a 13D or 13G. Returns 0 if unreadable."""
+    if not html:
+        return 0.0
+    text = re.sub(r"<[^>]+>", " ", html)
+    text = re.sub(r"&nbsp;?", " ", text)
+    text = re.sub(r"\s+", " ", text)
+
+    m = PERCENT_RE.search(text)
+    if m:
+        try:
+            v = float(m.group(1))
+            if 0 < v <= 100:
+                return v
+        except ValueError:
+            pass
+
+    # Fall back to the largest plausible percentage in the document.
+    vals = []
+    for x in PERCENT_FALLBACK_RE.findall(text):
+        try:
+            v = float(x)
+            if 0 < v <= 100:
+                vals.append(v)
+        except ValueError:
+            continue
+    return max(vals) if vals else 0.0
+
+
+def filer_name(html, fallback=""):
+    if not html:
+        return fallback
     idx = html.find("Filed by")
     if idx > -1:
-        tail = html[idx:idx + 1200]
+        tail = html[idx:idx + 1500]
         m = re.search(r'class="companyName">\s*([^<(]{3,120})', tail, re.I)
         if m:
-            filed_by = m.group(1).replace("&amp;", "&").strip()
+            return m.group(1).replace("&amp;", "&").strip()
+    return fallback
+
+
+def handle_stake(item):
+    """
+    SC 13D and SC 13G. An investor crossing 5% of a company.
+
+    This is the one filing type in the system where the information is often
+    genuinely unnoticed for days. Institutional filers are excluded because
+    an index fund crossing 5% is mechanical, not a view.
+    """
+    html = filing_html(item["link"]) or ""
+    who = filer_name(html, "")
+
+    if is_institutional(who):
+        return False          # routine index and custodian filings
+
+    # Open the actual document for the stake size.
+    stake = 0.0
+    folder = folder_of(item["link"])
+    idx = fetch(f"{folder}/index.json")
+    if idx:
+        try:
+            items = json.loads(idx)["directory"]["item"]
+            docs = [it["name"] for it in items
+                    if re.search(r"\.(htm|html|txt)$", it["name"], re.I)
+                    and not re.search(r"-index|^R\d", it["name"], re.I)]
+            for name in docs[:2]:
+                body = fetch(f"{folder}/{name}")
+                stake = parse_stake(body)
+                if stake:
+                    break
+        except (ValueError, KeyError):
+            pass
+
+    if stake and stake < STAKE_MIN_PERCENT:
+        return False
+
+    activist = item["form"] == "SC 13D"
+    priority = "HIGH" if (activist or stake >= 8) else "MEDIUM"
 
     rows = [
-        ("PRIORITY", "HIGH"),
-        ("TARGET", item["company"]),
-        ("BUYER", filed_by or "see filing"),
-        ("ACTION", "Activist stake above 5%"),
+        ("PRIORITY", priority),
+        ("COMPANY", item["company"]),
+        ("FILER", who or "see filing"),
+        ("FORM", item["form"] + ("  (activist)" if activist else "  (passive)")),
+        ("STAKE", f"{stake:.1f}% of class" if stake else "see filing"),
         ("FILED", dmy(item["filed"])),
     ]
-    return send_alert("13D", "", item["company"], filed_by, 0, "",
-                      item["link"],
-                      box("\U0001F4C4 ACTIVIST STAKE - 13D", rows, link=item["link"],
-                          footer="Stake size and stated purpose: Items 4 and 5."))
+
+    title = ("\U0001F7E2 ACTIVIST STAKE - 13D" if activist
+             else "\U0001F7E2 NEW 5% STAKE - 13G")
+
+    return send_alert(
+        "STAKE_13D" if activist else "STAKE_13G",
+        "", item["company"], f"{who} {stake:.1f}%", 0, "", item["link"],
+        box(title, rows, link=item["link"],
+            footer="Non-institutional filer. Passive 13G stakes in small caps "
+                   "often go unreported for days."),
+        priority)
 
 
 HANDLERS = {
     "4": handle_form4,
     "144": handle_form144,
-    "8-K": handle_8k,
-    "NT 10-Q": handle_nt,
-    "NT 10-K": handle_nt,
-    "SC 13D": handle_13d,
+    "SC 13D": handle_stake,
+    "SC 13G": handle_stake,
 }
 
 
