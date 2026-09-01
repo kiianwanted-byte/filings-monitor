@@ -487,3 +487,9 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-01T15:52:23+00:00,FORM_144,,"WILLIAMS COMPANIES, INC.",proposed sale $151K,151120,,https://www.sec.gov/Archives/edgar/data/1703388/000195917326006573/0001959173-26-006573-index.htm,LOW
 2026-09-01T15:52:23+00:00,FORM_144,,STANDEX INTERNATIONAL CORP/DE/,proposed sale $14K,14244,,https://www.sec.gov/Archives/edgar/data/1248847/000195917326006572/0001959173-26-006572-index.htm,LOW
 2026-09-01T15:52:23+00:00,FORM_144,,"Moderna, Inc.",proposed sale $486K,485766,,https://www.sec.gov/Archives/edgar/data/1866132/000195917326006571/0001959173-26-006571-index.htm,LOW
+2026-09-01T16:32:16+00:00,FORM_144,,NEWMONT Corp /DE/,proposed sale $369K,369000,,https://www.sec.gov/Archives/edgar/data/1936354/000195917326006579/0001959173-26-006579-index.htm,LOW
+2026-09-01T16:32:17+00:00,FORM_144,,UMB FINANCIAL CORP,proposed sale $361K,361156,,https://www.sec.gov/Archives/edgar/data/1976234/000197636326000031/0001976363-26-000031-index.htm,LOW
+2026-09-01T16:32:17+00:00,FORM_144,,UMB FINANCIAL CORP,proposed sale $177K,177037,,https://www.sec.gov/Archives/edgar/data/1976289/000197636326000030/0001976363-26-000030-index.htm,LOW
+2026-09-01T16:32:17+00:00,FORM_144,,"Orchestra BioMed Holdings, Inc.",proposed sale $75K,75300,,https://www.sec.gov/Archives/edgar/data/1814114/000195917326006578/0001959173-26-006578-index.htm,LOW
+2026-09-01T16:32:18+00:00,FORM_144,,"Delek US Holdings, Inc.",proposed sale $549K,549096,,https://www.sec.gov/Archives/edgar/data/1694426/000195917326006577/0001959173-26-006577-index.htm,LOW
+2026-09-01T16:32:18+00:00,FORM_144,,UMB FINANCIAL CORP,proposed sale $82K,81578,,https://www.sec.gov/Archives/edgar/data/1975226/000197636326000029/0001976363-26-000029-index.htm,LOW

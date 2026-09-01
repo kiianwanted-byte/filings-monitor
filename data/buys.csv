@@ -86,3 +86,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-01T15:22:51+00:00,2026-08-28,ECF,ELLSWORTH GROWTH & INCOME FUND LTD,"Saba Capital Management, L.P.",10% owner,1200,12.47,14964,0.1,0001510281-26-000284
 2026-09-01T15:52:09+00:00,2026-08-28,HYNE,"Hoyne Bancorp, Inc.",Rosenbaum Steven F.,Director,200,16.56,3311,0.7,0001104659-26-104188
 2026-09-01T15:52:21+00:00,2026-08-31,TPL,Texas Pacific Land Corp,HORIZON KINETICS ASSET MANAGEMENT LLC,10% owner,1,369.47,369,0.0,0001437749-26-029371
+2026-09-01T16:32:01+00:00,2026-08-28,CURI,CuriosityStream Inc.,Stinchcomb Clinton Larry,"Director, President and CEO",20000,2.60,52060,0.7,0001628280-26-059745
