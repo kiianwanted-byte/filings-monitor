@@ -528,3 +528,39 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-01T19:50:17+00:00,FORM_144,,NOBLE ROMANS INC,proposed sale $4K,3500,,https://www.sec.gov/Archives/edgar/data/1403620/000195917326006605/0001959173-26-006605-index.htm,LOW
 2026-09-01T19:58:10+00:00,FORM_144,,Cactus Inc,proposed sale $7.00M,7000000,,https://www.sec.gov/Archives/edgar/data/1992549/000162828026059778/0001628280-26-059778-index.htm,LOW
 2026-09-01T19:58:10+00:00,FORM_144,,"Playboy, Inc.",proposed sale $5K,5043,,https://www.sec.gov/Archives/edgar/data/1844982/000195917326006606/0001959173-26-006606-index.htm,LOW
+2026-09-01T20:12:12+00:00,FORM_144,,"EASTERN BANKSHARES, INC.",proposed sale $296K,296329,,https://www.sec.gov/Archives/edgar/data/1825588/000195004726008895/0001950047-26-008895-index.htm,LOW
+2026-09-01T20:12:13+00:00,FORM_144,,Alkermes plc.,proposed sale $423K,422874,,https://www.sec.gov/Archives/edgar/data/1730048/000196430626000417/0001964306-26-000417-index.htm,LOW
+2026-09-01T20:12:13+00:00,FORM_144,,"Vaxcyte, Inc.",proposed sale $210K,209628,,https://www.sec.gov/Archives/edgar/data/1813798/000196922326000979/0001969223-26-000979-index.htm,LOW
+2026-09-01T20:12:14+00:00,FORM_144,,"OOMA, INC.",proposed sale $107K,107340,,https://www.sec.gov/Archives/edgar/data/1379827/000195004726008894/0001950047-26-008894-index.htm,LOW
+2026-09-01T20:12:15+00:00,FORM_144,,"DOXIMITY, INC.",proposed sale $53K,52660,,https://www.sec.gov/Archives/edgar/data/1862897/000195004726008893/0001950047-26-008893-index.htm,LOW
+2026-09-01T20:12:15+00:00,FORM_144,,"Tarsus Pharmaceuticals, Inc.",proposed sale $5.75M,5746846,,https://www.sec.gov/Archives/edgar/data/1819790/000195917326006607/0001959173-26-006607-index.htm,LOW
+2026-09-01T20:12:16+00:00,FORM_144,,"Red Rock Resorts, Inc.",proposed sale $503K,502886,,https://www.sec.gov/Archives/edgar/data/1708624/000196430626000416/0001964306-26-000416-index.htm,LOW
+2026-09-01T20:12:17+00:00,FORM_144,,"MARVELL TECHNOLOGY, INC.",proposed sale $2.03M,2032703,,https://www.sec.gov/Archives/edgar/data/1835632/000195004726008892/0001950047-26-008892-index.htm,LOW
+2026-09-01T20:12:30+00:00,FORM_144,,"NATERA, INC.",proposed sale $545K,545041,,https://www.sec.gov/Archives/edgar/data/1711968/000195004726008891/0001950047-26-008891-index.htm,LOW
+2026-09-01T20:12:30+00:00,FORM_144,,Nano Nuclear Energy Inc.,proposed sale $435K,435250,,https://www.sec.gov/Archives/edgar/data/2021757/000196922326000978/0001969223-26-000978-index.htm,LOW
+2026-09-01T20:12:31+00:00,FORM_144,,"ICU MEDICAL, INC.",proposed sale $1.12M,1116675,,https://www.sec.gov/Archives/edgar/data/1804831/000195004726008890/0001950047-26-008890-index.htm,LOW
+2026-09-01T20:12:31+00:00,FORM_144,,BRISTOW GROUP INC.,proposed sale $161K,160546,,https://www.sec.gov/Archives/edgar/data/1627510/000195004726008889/0001950047-26-008889-index.htm,LOW
+2026-09-01T20:12:32+00:00,FORM_144,,Criteo S.A.,proposed sale $17K,17185,,https://www.sec.gov/Archives/edgar/data/1749338/000197337926000324/0001973379-26-000324-index.htm,LOW
+2026-09-01T20:12:32+00:00,FORM_144,,"VIASAT, INC.",proposed sale $47K,47058,,https://www.sec.gov/Archives/edgar/data/1287579/000195004726008888/0001950047-26-008888-index.htm,LOW
+2026-09-01T20:12:33+00:00,FORM_144,,ETSY INC,proposed sale $947K,947376,,https://www.sec.gov/Archives/edgar/data/1525358/000196922326000977/0001969223-26-000977-index.htm,LOW
+2026-09-01T20:12:33+00:00,FORM_144,,Booking Holdings Inc.,proposed sale $198K,198400,,https://www.sec.gov/Archives/edgar/data/1214607/000196922326000976/0001969223-26-000976-index.htm,LOW
+2026-09-01T20:12:33+00:00,FORM_144,,"VERISIGN, INC.",proposed sale $145K,145390,,https://www.sec.gov/Archives/edgar/data/1624651/000195004726008887/0001950047-26-008887-index.htm,LOW
+2026-09-01T20:12:34+00:00,FORM_144,,GODADDY INC.,proposed sale $34K,34104,,https://www.sec.gov/Archives/edgar/data/1854208/000195004726008886/0001950047-26-008886-index.htm,LOW
+2026-09-01T20:12:34+00:00,FORM_144,,"NATERA, INC.",proposed sale $962K,962193,,https://www.sec.gov/Archives/edgar/data/2010019/000195004726008885/0001950047-26-008885-index.htm,LOW
+2026-09-01T20:12:35+00:00,FORM_144,,Criteo S.A.,proposed sale $5K,4830,,https://www.sec.gov/Archives/edgar/data/2148390/000197337926000323/0001973379-26-000323-index.htm,LOW
+2026-09-01T20:12:35+00:00,FORM_144,,ABEONA THERAPEUTICS INC.,proposed sale $88K,87966,,https://www.sec.gov/Archives/edgar/data/1356828/000197248126000270/0001972481-26-000270-index.htm,LOW
+2026-09-01T20:12:36+00:00,FORM_144,,GODADDY INC.,proposed sale $438K,438480,,https://www.sec.gov/Archives/edgar/data/1753365/000195004726008884/0001950047-26-008884-index.htm,LOW
+2026-09-01T20:12:36+00:00,FORM_144,,"Newegg Commerce, Inc.",proposed sale $3.73M,3732157,,https://www.sec.gov/Archives/edgar/data/1971269/000196922326000975/0001969223-26-000975-index.htm,LOW
+2026-09-01T20:12:36+00:00,FORM_144,,"Burlington Stores, Inc.",proposed sale $430K,429568,,https://www.sec.gov/Archives/edgar/data/1641994/000196922326000974/0001969223-26-000974-index.htm,LOW
+2026-09-01T20:12:37+00:00,FORM_144,,GODADDY INC.,proposed sale $32K,31668,,https://www.sec.gov/Archives/edgar/data/1803038/000195004726008883/0001950047-26-008883-index.htm,LOW
+2026-09-01T20:12:37+00:00,FORM_144,,CAPITAL ONE FINANCIAL CORPORATION,proposed sale $749K,749350,,https://www.sec.gov/Archives/edgar/data/1727277/000195004726008882/0001950047-26-008882-index.htm,LOW
+2026-09-01T20:12:38+00:00,FORM_144,,LUMENTUM HOLDINGS INC.,proposed sale $451K,450520,,https://www.sec.gov/Archives/edgar/data/1633978/000195004726008881/0001950047-26-008881-index.htm,LOW
+2026-09-01T20:12:38+00:00,FORM_144,,"Maze Therapeutics, Inc.",proposed sale $908K,908066,,https://www.sec.gov/Archives/edgar/data/1842295/000196922326000973/0001969223-26-000973-index.htm,LOW
+2026-09-01T20:12:39+00:00,FORM_144,,NIO Inc.,proposed sale $634K,634500,,https://www.sec.gov/Archives/edgar/data/2111249/000110465926104295/0001104659-26-104295-index.htm,LOW
+2026-09-01T20:12:39+00:00,FORM_144,,"VIASAT, INC.",proposed sale $134K,133500,,https://www.sec.gov/Archives/edgar/data/1992819/000195004726008880/0001950047-26-008880-index.htm,LOW
+2026-09-01T20:12:39+00:00,FORM_144,,Chord Energy Corporation,proposed sale $1.43M,1434322,,https://www.sec.gov/Archives/edgar/data/1805570/000196858226000916/0001968582-26-000916-index.htm,LOW
+2026-09-01T20:12:40+00:00,FORM_144,,BRIGHT HORIZONS FAMILY SOLUTIONS INC.,proposed sale $90K,90000,,https://www.sec.gov/Archives/edgar/data/1661892/000195004726008879/0001950047-26-008879-index.htm,LOW
+2026-09-01T20:12:40+00:00,FORM_144,,Criteo S.A.,proposed sale $19K,18882,,https://www.sec.gov/Archives/edgar/data/1769573/000197337926000322/0001973379-26-000322-index.htm,LOW
+2026-09-01T20:12:41+00:00,FORM_144,,"Xometry, Inc.",proposed sale $902K,902500,,https://www.sec.gov/Archives/edgar/data/1869814/000196922326000972/0001969223-26-000972-index.htm,LOW
+2026-09-01T20:12:41+00:00,FORM_144,,NIO Inc.,proposed sale $518K,518175,,https://www.sec.gov/Archives/edgar/data/2113252/000110465926104292/0001104659-26-104292-index.htm,LOW
+2026-09-01T20:12:42+00:00,FORM_144,,THE SOUTHERN COMPANY,proposed sale $9K,8845,,https://www.sec.gov/Archives/edgar/data/2082705/000162828026059783/0001628280-26-059783-index.htm,LOW
