@@ -466,3 +466,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-01T13:44:21+00:00,FORM_144,,"Soluna Holdings, Inc",proposed sale $12K,11910,,https://www.sec.gov/Archives/edgar/data/1891684/000195917326006557/0001959173-26-006557-index.htm,LOW
 2026-09-01T13:54:30+00:00,FORM_144,,IRON MOUNTAIN INC,proposed sale $694K,693600,,https://www.sec.gov/Archives/edgar/data/1732058/000195917326006559/0001959173-26-006559-index.htm,LOW
 2026-09-01T13:54:30+00:00,FORM_144,,"TERADYNE, INC",proposed sale $57K,56997,,https://www.sec.gov/Archives/edgar/data/1225110/000195917326006558/0001959173-26-006558-index.htm,LOW
+2026-09-01T14:05:26+00:00,FORM_144,,"Newegg Commerce, Inc.",proposed sale $1K,1090,,https://www.sec.gov/Archives/edgar/data/1966016/000195917326006560/0001959173-26-006560-index.htm,LOW
