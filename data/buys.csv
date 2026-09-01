@@ -80,3 +80,5 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-01T01:26:59+00:00,2026-08-27,GO,Grocery Outlet Holding Corp.,Jaros Carey F.,Director,15000,11.70,175500,33.3,0001823561-26-000003
 2026-09-01T11:12:19+00:00,2026-08-28,YQ,17 Education & Technology Group Inc.,Liu Chang,"Director, Chief Executive Officer, 10% owner",4001,2.11,8431,4.5,0001193125-26-377431
 2026-09-01T11:43:57+00:00,2026-08-31,CZFS,CITIZENS FINANCIAL SERVICES INC,Guillaume Stephen J,SENIOR VICE PRESIDENT,24,76.32,1831,0.5,0000739421-26-000073
+2026-09-01T12:23:00+00:00,2026-08-28,AMRC,"Ameresco, Inc.",Sakellaris George P,"Director, Chief Executive Officer, 10% owner",3000,22.13,66390,0.3,0001628280-26-059708
+2026-09-01T12:23:01+00:00,2026-08-28,FTCI,"FTC Solar, Inc.",SADASIVAM SHAKER,Director,101083,2.69,271913,65.5,0001193125-26-377575
