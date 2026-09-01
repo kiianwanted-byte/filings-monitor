@@ -87,3 +87,5 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-01T15:52:09+00:00,2026-08-28,HYNE,"Hoyne Bancorp, Inc.",Rosenbaum Steven F.,Director,200,16.56,3311,0.7,0001104659-26-104188
 2026-09-01T15:52:21+00:00,2026-08-31,TPL,Texas Pacific Land Corp,HORIZON KINETICS ASSET MANAGEMENT LLC,10% owner,1,369.47,369,0.0,0001437749-26-029371
 2026-09-01T16:32:01+00:00,2026-08-28,CURI,CuriosityStream Inc.,Stinchcomb Clinton Larry,"Director, President and CEO",20000,2.60,52060,0.7,0001628280-26-059745
+2026-09-01T16:52:42+00:00,2026-08-31,N/A,John Hancock GA Senior Loan Trust,Manufacturers Life Reinsurance Ltd,10% owner,2693701,16.33,43988145,7.4,0001765496-26-000017
+2026-09-01T16:52:43+00:00,2026-08-31,N/A,John Hancock GA Senior Loan Trust,Manufacturers Life Insurance Co (Bermuda Branch),10% owner,1408071,16.33,22993803,7.5,0001833683-26-000017

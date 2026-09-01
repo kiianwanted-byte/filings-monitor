@@ -493,3 +493,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-01T16:32:17+00:00,FORM_144,,"Orchestra BioMed Holdings, Inc.",proposed sale $75K,75300,,https://www.sec.gov/Archives/edgar/data/1814114/000195917326006578/0001959173-26-006578-index.htm,LOW
 2026-09-01T16:32:18+00:00,FORM_144,,"Delek US Holdings, Inc.",proposed sale $549K,549096,,https://www.sec.gov/Archives/edgar/data/1694426/000195917326006577/0001959173-26-006577-index.htm,LOW
 2026-09-01T16:32:18+00:00,FORM_144,,UMB FINANCIAL CORP,proposed sale $82K,81578,,https://www.sec.gov/Archives/edgar/data/1975226/000197636326000029/0001976363-26-000029-index.htm,LOW
+2026-09-01T16:52:43+00:00,INSIDER_CLUSTER,N/A,John Hancock GA Senior Loan Trust,Manufacturers Life Insurance Co (Bermuda Branch) $22.99M,22993803,1,https://www.sec.gov/Archives/edgar/data/1833683/000183368326000017/0001833683-26-000017-index.htm,HIGH
+2026-09-01T16:52:47+00:00,FORM_144,,OLD REPUBLIC INTERNATIONAL CORP,proposed sale $184K,184233,,https://www.sec.gov/Archives/edgar/data/1990341/000195917326006580/0001959173-26-006580-index.htm,LOW
