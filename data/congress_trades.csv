@@ -2531,3 +2531,6 @@ timestamp,chamber,member,ticker,asset,action,amount_low,amount_high,trade_date,f
 2026-08-29T04:12:17+00:00,House,Debbie Dingell,VSNT,VERSANT MEDIA GROUP INC CL A,EXCHANGE,1001,15000,2026-01-05,2026-01-12,7,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033744.pdf
 2026-08-29T04:12:18+00:00,House,Jefferson Shreve,,JP Morgan 3-year auto callable buffer,BUY,5000001,25000000,2025-12-30,2026-01-01,2,HIGH,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033705.pdf
 2026-08-29T04:12:18+00:00,House,Jefferson Shreve,,Prudential RILA - 10% Buffer 3-year,BUY,5000001,25000000,2025-12-29,2026-01-01,3,HIGH,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033705.pdf
+2026-09-01T16:24:54+00:00,House,Donald Sternoff Beyer Jr,,California St 4.00% 8/01/36,EXCHANGE,15001,50000,2026-08-03,2026-09-01,29,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035349.pdf
+2026-09-01T16:24:54+00:00,House,Donald Sternoff Beyer Jr,,Long Is Pwr Auth Var 9/01/55,BUY,15001,50000,2026-08-05,2026-09-01,27,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035349.pdf
+2026-09-01T16:24:54+00:00,House,Donald Sternoff Beyer Jr,,Washington St Various 5.00%,EXCHANGE,50001,100000,2026-08-03,2026-09-01,29,MEDIUM,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035349.pdf
