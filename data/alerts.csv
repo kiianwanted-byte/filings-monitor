@@ -675,3 +675,21 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-01T20:55:01+00:00,FORM_144,,"DOORDASH, INC.",proposed sale $3.86M,3862410,,https://www.sec.gov/Archives/edgar/data/1832617/000195004726008938/0001950047-26-008938-index.htm,LOW
 2026-09-01T20:55:01+00:00,FORM_144,,SEAGATE TECHNOLOGY HOLDINGS PLC,proposed sale $74.55M,74554200,,https://www.sec.gov/Archives/edgar/data/1388390/000195004726008937/0001950047-26-008937-index.htm,LOW
 2026-09-01T20:55:01+00:00,FORM_144,,NextNav Inc.,proposed sale $1.11M,1108567,,https://www.sec.gov/Archives/edgar/data/1998558/000195004726008936/0001950047-26-008936-index.htm,LOW
+2026-09-01T21:19:19+00:00,INSIDER_BUY,EQPT,EquipmentShare.com Inc,Schlacks Jabbok $440K,440395,4,https://www.sec.gov/Archives/edgar/data/2091677/000095010326013377/0000950103-26-013377-index.htm,MEDIUM
+2026-09-01T21:19:25+00:00,FORM_144,,American Well Corporation,proposed sale $42K,42173,,https://www.sec.gov/Archives/edgar/data/1824038/000119312526378641/0001193125-26-378641-index.htm,LOW
+2026-09-01T21:19:26+00:00,FORM_144,,"Sprouts Farmers Market, Inc.",proposed sale $1.74M,1743556,,https://www.sec.gov/Archives/edgar/data/1719121/000195824426000566/0001958244-26-000566-index.htm,LOW
+2026-09-01T21:19:26+00:00,FORM_144,,"KODIAK GAS SERVICES, INC.",proposed sale $357K,357240,,https://www.sec.gov/Archives/edgar/data/1971122/000195824426000565/0001958244-26-000565-index.htm,LOW
+2026-09-01T21:19:26+00:00,FORM_144,,"Hinge Health, Inc.",proposed sale $754K,754380,,https://www.sec.gov/Archives/edgar/data/2152243/000197407826000341/0001974078-26-000341-index.htm,LOW
+2026-09-01T21:19:27+00:00,FORM_144,,"Lazard, Inc.",proposed sale $423K,423200,,https://www.sec.gov/Archives/edgar/data/1402373/000195824426000564/0001958244-26-000564-index.htm,LOW
+2026-09-01T21:19:27+00:00,FORM_144,,Westinghouse Air Brake Technologies Corporation,proposed sale $1.83M,1827373,,https://www.sec.gov/Archives/edgar/data/1767799/000195824426000563/0001958244-26-000563-index.htm,LOW
+2026-09-01T21:19:27+00:00,FORM_144,,"Hinge Health, Inc.",proposed sale $27K,26730,,https://www.sec.gov/Archives/edgar/data/2029414/000197407826000340/0001974078-26-000340-index.htm,LOW
+2026-09-01T21:19:28+00:00,FORM_144,,"Hinge Health, Inc.",proposed sale $1.01M,1008360,,https://www.sec.gov/Archives/edgar/data/1673743/000197407826000339/0001974078-26-000339-index.htm,LOW
+2026-09-01T21:19:28+00:00,FORM_144,,"Astera Labs, Inc.",proposed sale $50.49M,50486600,,https://www.sec.gov/Archives/edgar/data/1736297/000195004726008973/0001950047-26-008973-index.htm,LOW
+2026-09-01T21:19:28+00:00,FORM_144,,WOLVERINE WORLD WIDE INC /DE/,proposed sale $489K,489478,,https://www.sec.gov/Archives/edgar/data/1185940/000196530126000134/0001965301-26-000134-index.htm,LOW
+2026-09-01T21:19:29+00:00,FORM_144,,NANO NUCLEAR ENERGY INC,proposed sale $8.68M,8678605,,https://www.sec.gov/Archives/edgar/data/2011890/000195004726008971/0001950047-26-008971-index.htm,LOW
+2026-09-01T21:19:29+00:00,FORM_144,,SPYRE THERAPEUTICS INC,proposed sale $4.17M,4168584,,https://www.sec.gov/Archives/edgar/data/1794898/000195004726008970/0001950047-26-008970-index.htm,LOW
+2026-09-01T21:19:30+00:00,FORM_144,,"Marqeta, Inc.",proposed sale $82K,82100,,https://www.sec.gov/Archives/edgar/data/1870987/000195004726008969/0001950047-26-008969-index.htm,LOW
+2026-09-01T21:19:30+00:00,FORM_144,,"DOORDASH, INC.",proposed sale $3.95M,3953716,,https://www.sec.gov/Archives/edgar/data/1849709/000195004726008968/0001950047-26-008968-index.htm,LOW
+2026-09-01T21:19:30+00:00,FORM_144,,E.L.F BEAUTY INC,proposed sale $2.40M,2399536,,https://www.sec.gov/Archives/edgar/data/1797370/000195004726008967/0001950047-26-008967-index.htm,LOW
+2026-09-01T21:19:31+00:00,FORM_144,,UNITED THERAPEUTICS CORPORATION,proposed sale $101.82M,101820810,,https://www.sec.gov/Archives/edgar/data/1106578/000195004726008966/0001950047-26-008966-index.htm,LOW
+2026-09-01T21:19:31+00:00,FORM_144,,"FIGMA, INC.",proposed sale $20K,20095,,https://www.sec.gov/Archives/edgar/data/2073592/000195004726008965/0001950047-26-008965-index.htm,LOW
