@@ -693,3 +693,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-01T21:19:30+00:00,FORM_144,,E.L.F BEAUTY INC,proposed sale $2.40M,2399536,,https://www.sec.gov/Archives/edgar/data/1797370/000195004726008967/0001950047-26-008967-index.htm,LOW
 2026-09-01T21:19:31+00:00,FORM_144,,UNITED THERAPEUTICS CORPORATION,proposed sale $101.82M,101820810,,https://www.sec.gov/Archives/edgar/data/1106578/000195004726008966/0001950047-26-008966-index.htm,LOW
 2026-09-01T21:19:31+00:00,FORM_144,,"FIGMA, INC.",proposed sale $20K,20095,,https://www.sec.gov/Archives/edgar/data/2073592/000195004726008965/0001950047-26-008965-index.htm,LOW
+2026-09-01T21:30:58+00:00,FORM_144,,Flutter Entertainment plc,proposed sale $69K,69479,,https://www.sec.gov/Archives/edgar/data/2028515/000197337926000326/0001973379-26-000326-index.htm,LOW
+2026-09-01T21:30:58+00:00,FORM_144,,Flutter Entertainment plc,proposed sale $172K,172427,,https://www.sec.gov/Archives/edgar/data/2012791/000197337926000325/0001973379-26-000325-index.htm,LOW
+2026-09-01T21:30:58+00:00,FORM_144,,PROVIDENT FINANCIAL SERVICES INC,proposed sale $370K,370411,,https://www.sec.gov/Archives/edgar/data/1185280/000118528026000006/0001185280-26-000006-index.htm,LOW
+2026-09-01T21:30:59+00:00,FORM_144,,American Well Corporation,proposed sale $127K,126897,,https://www.sec.gov/Archives/edgar/data/1393584/000119312526378652/0001193125-26-378652-index.htm,LOW
