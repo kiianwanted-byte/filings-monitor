@@ -617,3 +617,26 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-01T20:36:34+00:00,FORM_144,,"Amphastar Pharmaceuticals, Inc.",proposed sale $290K,290114,,https://www.sec.gov/Archives/edgar/data/1645326/000196922326000982/0001969223-26-000982-index.htm,LOW
 2026-09-01T20:36:34+00:00,FORM_144,,"PINTEREST, INC.",proposed sale $1.01M,1013843,,https://www.sec.gov/Archives/edgar/data/1773914/000192109426000980/0001921094-26-000980-index.htm,LOW
 2026-09-01T20:36:35+00:00,FORM_144,,Flowco Holdings Inc.,proposed sale $199K,198586,,https://www.sec.gov/Archives/edgar/data/2049797/000204979726000002/0002049797-26-000002-index.htm,LOW
+2026-09-01T20:46:57+00:00,FORM_144,,ORTHOFIX MEDICAL INC.,proposed sale $4K,4225,,https://www.sec.gov/Archives/edgar/data/1677842/000195004726008935/0001950047-26-008935-index.htm,LOW
+2026-09-01T20:46:57+00:00,FORM_144,,ODDITY TECH LTD,proposed sale $111K,111124,,https://www.sec.gov/Archives/edgar/data/2008127/000195004726008934/0001950047-26-008934-index.htm,LOW
+2026-09-01T20:46:58+00:00,FORM_144,,Regional Management Corp.,proposed sale $37K,37192,,https://www.sec.gov/Archives/edgar/data/1538637/000089914026001034/0000899140-26-001034-index.htm,LOW
+2026-09-01T20:46:58+00:00,FORM_144,,"Omada Health, Inc.",proposed sale $530K,529592,,https://www.sec.gov/Archives/edgar/data/2069522/000195004726008933/0001950047-26-008933-index.htm,LOW
+2026-09-01T20:46:58+00:00,FORM_144,,Palantir Technologies Inc.,proposed sale $250K,250121,,https://www.sec.gov/Archives/edgar/data/1840244/000195004726008932/0001950047-26-008932-index.htm,LOW
+2026-09-01T20:46:59+00:00,FORM_144,,"WORKDAY, INC.",proposed sale $18.75M,18750049,,https://www.sec.gov/Archives/edgar/data/1327811/000195004726008931/0001950047-26-008931-index.htm,LOW
+2026-09-01T20:46:59+00:00,FORM_144,,SEAGATE TECHNOLOGY HOLDINGS PUBLIC LIMITED COMPANY,proposed sale $621K,621285,,https://www.sec.gov/Archives/edgar/data/1906375/000195004726008930/0001950047-26-008930-index.htm,LOW
+2026-09-01T20:46:59+00:00,FORM_144,,"AMERICAN HEALTHCARE REIT, INC.",proposed sale $111K,110780,,https://www.sec.gov/Archives/edgar/data/1941750/000162828026059865/0001628280-26-059865-index.htm,LOW
+2026-09-01T20:47:00+00:00,FORM_144,,"DATADOG, INC.",proposed sale $12.78M,12779300,,https://www.sec.gov/Archives/edgar/data/1783984/000195004726008929/0001950047-26-008929-index.htm,LOW
+2026-09-01T20:47:00+00:00,FORM_144,,"INTERCONTINENTAL EXCHANGE, INC.",proposed sale $804K,803500,,https://www.sec.gov/Archives/edgar/data/1919795/000195004726008928/0001950047-26-008928-index.htm,LOW
+2026-09-01T20:47:00+00:00,FORM_144,,MICROSOFT CORPORATION,proposed sale $43.89M,43893267,,https://www.sec.gov/Archives/edgar/data/1513142/000195004726008927/0001950047-26-008927-index.htm,LOW
+2026-09-01T20:47:01+00:00,FORM_144,,"Astera Labs, Inc.",proposed sale $9.80M,9800340,,https://www.sec.gov/Archives/edgar/data/1736297/000195004726008926/0001950047-26-008926-index.htm,LOW
+2026-09-01T20:47:01+00:00,FORM_144,,"Ibotta, Inc.",proposed sale $63K,63353,,https://www.sec.gov/Archives/edgar/data/2017890/000195917326006612/0001959173-26-006612-index.htm,LOW
+2026-09-01T20:47:01+00:00,FORM_144,,INTERCONTINENTAL EXCHANGE INC,proposed sale $2.07M,2066923,,https://www.sec.gov/Archives/edgar/data/1722067/000195004726008925/0001950047-26-008925-index.htm,LOW
+2026-09-01T20:47:02+00:00,FORM_144,,"BILL HOLDINGS, INC.",proposed sale $1.65M,1647728,,https://www.sec.gov/Archives/edgar/data/2073970/000195004726008924/0001950047-26-008924-index.htm,LOW
+2026-09-01T20:47:02+00:00,FORM_144,,"Contineum Therapeutics, Inc.",proposed sale $155K,154604,,https://www.sec.gov/Archives/edgar/data/1861550/000195004726008923/0001950047-26-008923-index.htm,LOW
+2026-09-01T20:47:02+00:00,FORM_144,,"Heritage Insurance Holdings, Inc.",proposed sale $309K,309304,,https://www.sec.gov/Archives/edgar/data/1639407/000195004726008922/0001950047-26-008922-index.htm,LOW
+2026-09-01T20:47:03+00:00,FORM_144,,ETSY INC,proposed sale $1.63M,1626600,,https://www.sec.gov/Archives/edgar/data/1370637/000195004726008921/0001950047-26-008921-index.htm,LOW
+2026-09-01T20:47:03+00:00,FORM_144,,"Affirm Holdings, Inc.",proposed sale $1.17M,1172215,,https://www.sec.gov/Archives/edgar/data/1820953/000195004726008920/0001950047-26-008920-index.htm,LOW
+2026-09-01T20:47:03+00:00,FORM_144,,"FUNKO, INC",proposed sale $241K,241295,,https://www.sec.gov/Archives/edgar/data/2014560/000195004726008919/0001950047-26-008919-index.htm,LOW
+2026-09-01T20:47:04+00:00,FORM_144,,"Coinbase Global, Inc.",proposed sale $1.88M,1881200,,https://www.sec.gov/Archives/edgar/data/1679788/000195004726008918/0001950047-26-008918-index.htm,LOW
+2026-09-01T20:47:04+00:00,FORM_144,,"FIGMA, INC.",proposed sale $20K,20122,,https://www.sec.gov/Archives/edgar/data/2073592/000195004726008917/0001950047-26-008917-index.htm,LOW
+2026-09-01T20:47:04+00:00,FORM_144,,Blackbaud Inc,proposed sale $95K,95058,,https://www.sec.gov/Archives/edgar/data/1492840/000162828026059856/0001628280-26-059856-index.htm,LOW
