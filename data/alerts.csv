@@ -514,3 +514,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-01T18:52:25+00:00,FORM_144,,"BRINKER INTERNATIONAL, INC",proposed sale $707K,707440,,https://www.sec.gov/Archives/edgar/data/1719141/000195917326006593/0001959173-26-006593-index.htm,LOW
 2026-09-01T18:52:25+00:00,FORM_144,,"Cencora, Inc.",proposed sale $2.18M,2175690,,https://www.sec.gov/Archives/edgar/data/1774724/000195917326006592/0001959173-26-006592-index.htm,LOW
 2026-09-01T18:52:25+00:00,FORM_144,,MATERION Corp,proposed sale $235K,234834,,https://www.sec.gov/Archives/edgar/data/1231898/000194984626000556/0001949846-26-000556-index.htm,LOW
+2026-09-01T19:25:23+00:00,FORM_144,,PEOPLES BANCORP OF NORTH CAROLINA INC,proposed sale $51K,51376,,https://www.sec.gov/Archives/edgar/data/2052002/000205200226000003/0002052002-26-000003-index.htm,LOW
