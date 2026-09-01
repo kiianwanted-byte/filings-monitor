@@ -709,3 +709,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-01T22:11:34+00:00,FORM_144,,Super Group (SGHC) Limited,proposed sale $560K,560000,,https://www.sec.gov/Archives/edgar/data/2117569/000101143826000561/0001011438-26-000561-index.htm,LOW
 2026-09-01T22:33:24+00:00,INSIDER_BUY,LILA,Liberty Latin America Ltd.,MALONE JOHN C $1.03M,1029705,4,https://www.sec.gov/Archives/edgar/data/1712184/000093779726000027/0000937797-26-000027-index.htm,MEDIUM
 2026-09-01T22:33:27+00:00,FORM_144,,Kinetik Holdings Inc.,proposed sale $2.50M,2499902,,https://www.sec.gov/Archives/edgar/data/1904934/000090514826004059/0000905148-26-004059-index.htm,LOW
+2026-09-01T22:43:04+00:00,FORM_144,,BLUE OWL CAPITAL INC.,proposed sale $69.69M,69689012,,https://www.sec.gov/Archives/edgar/data/1987662/000119312526378857/0001193125-26-378857-index.htm,LOW
+2026-09-01T22:43:04+00:00,FORM_144,,Blue Owl Capital Inc.,proposed sale $8.61M,8613594,,https://www.sec.gov/Archives/edgar/data/2002470/000119312526378854/0001193125-26-378854-index.htm,LOW
