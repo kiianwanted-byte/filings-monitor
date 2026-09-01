@@ -481,3 +481,9 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-01T15:22:54+00:00,FORM_144,,QUEST DIAGNOSTICS INC,proposed sale $2.43M,2427200,,https://www.sec.gov/Archives/edgar/data/1599837/000195917326006569/0001959173-26-006569-index.htm,LOW
 2026-09-01T15:22:54+00:00,FORM_144,,NEWMONT Corp /DE/,proposed sale $477K,477486,,https://www.sec.gov/Archives/edgar/data/1994131/000195917326006568/0001959173-26-006568-index.htm,LOW
 2026-09-01T15:22:55+00:00,FORM_144,,"Circle Internet Group, Inc.",proposed sale $4.60M,4604626,,https://www.sec.gov/Archives/edgar/data/2060511/000195917326006567/0001959173-26-006567-index.htm,LOW
+2026-09-01T15:52:22+00:00,FORM_144,,MKS INC,proposed sale $75K,75288,,https://www.sec.gov/Archives/edgar/data/1548935/000195917326006576/0001959173-26-006576-index.htm,LOW
+2026-09-01T15:52:22+00:00,FORM_144,,ANALOG DEVICES INC,proposed sale $3.56M,3563300,,https://www.sec.gov/Archives/edgar/data/1201872/000195917326006575/0001959173-26-006575-index.htm,LOW
+2026-09-01T15:52:22+00:00,FORM_144,,GENERAC HOLDINGS INC.,proposed sale $911K,911050,,https://www.sec.gov/Archives/edgar/data/1483001/000195917326006574/0001959173-26-006574-index.htm,LOW
+2026-09-01T15:52:23+00:00,FORM_144,,"WILLIAMS COMPANIES, INC.",proposed sale $151K,151120,,https://www.sec.gov/Archives/edgar/data/1703388/000195917326006573/0001959173-26-006573-index.htm,LOW
+2026-09-01T15:52:23+00:00,FORM_144,,STANDEX INTERNATIONAL CORP/DE/,proposed sale $14K,14244,,https://www.sec.gov/Archives/edgar/data/1248847/000195917326006572/0001959173-26-006572-index.htm,LOW
+2026-09-01T15:52:23+00:00,FORM_144,,"Moderna, Inc.",proposed sale $486K,485766,,https://www.sec.gov/Archives/edgar/data/1866132/000195917326006571/0001959173-26-006571-index.htm,LOW
