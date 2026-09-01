@@ -32,7 +32,7 @@ FINNHUB_KEY = os.environ.get("FINNHUB_KEY", "")
 
 # Prefixed to every outbound message. All bots post to one channel and
 # every post shows as "SCOUT", so this is the only source attribution.
-SOURCE_TAG = "🏛️"
+SOURCE_TAG = "\U0001F3DB\uFE0F"
 
 # Only alerts at or above this level reach Telegram.
 # Everything else is still written to the CSV for later review.
@@ -267,6 +267,13 @@ def fetch(url, tries=3, is_sec=True):
 
 
 def telegram(text, silent=True):
+    """
+    Single choke point for every outbound message.
+
+    SOURCE_TAG is prefixed here so no formatter needs to know about it.
+    silent=True means the message lands in the channel without buzzing
+    the phone. Only genuinely time-sensitive alerts pass silent=False.
+    """
     global alerts_sent
     if not TELEGRAM_TOKEN or not TELEGRAM_CHAT_ID:
         log("  telegram not configured, printing instead")
@@ -290,6 +297,7 @@ def telegram(text, silent=True):
     except requests.RequestException as e:
         log(f"  telegram error: {e}")
         return False
+
 
 def send_alert(kind, ticker, company, headline, value, lag, link, message,
                priority="HIGH"):
@@ -1042,7 +1050,7 @@ def heartbeat():
         ]
         for mod, e in list(persistent.items())[:3]:
             rows.append((mod.upper()[:11], f"x{e['count']}  {e.get('last','')[:40]}"))
-                telegram(box("EDGAR MONITOR IS BROKEN", rows))
+        telegram(box("EDGAR MONITOR IS BROKEN", rows), silent=False)
         return
 
     rows = [
