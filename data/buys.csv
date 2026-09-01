@@ -122,3 +122,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-01T21:41:43+00:00,2026-09-01,UAMY,UNITED STATES ANTIMONY CORP,Carrabba Joseph A,Director,21300,4.72,100536,12.0,0001104659-26-104378
 2026-09-01T22:33:20+00:00,2026-08-28,LIEN,"Chicago Atlantic BDC, Inc.",Colonna Bernardino,President,1000,10.23,10230,24.8,0001193125-26-378866
 2026-09-01T22:33:24+00:00,2026-08-28,LILA,Liberty Latin America Ltd.,MALONE JOHN C,10% owner,121286,8.49,1029705,65.5,0000937797-26-000027
+2026-09-01T22:51:36+00:00,2026-08-31,LIEN,"Chicago Atlantic BDC, Inc.",Gordon Scott,"Director, Co-Chief Investment Officer",134,10.22,1369,0.1,0001193125-26-378888
