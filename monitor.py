@@ -789,6 +789,176 @@ def drain(queue, seen):
 
 
 # ---------------------------------------------------------------
+# CNN Fear and Greed index
+# ---------------------------------------------------------------
+
+FNG_URL = "https://production.dataviz.cnn.io/index/fearandgreed/graphdata"
+FNG_STATE = STATE_DIR / "fear_greed.json"
+
+FNG_LEVELS = ["extreme fear", "fear", "neutral", "greed", "extreme greed"]
+
+
+def fng_level(score):
+    """CNN's own bands, used when the API omits the rating string."""
+    s = float(score)
+    if s < 25:
+        return "extreme fear"
+    if s < 45:
+        return "fear"
+    if s <= 55:
+        return "neutral"
+    if s <= 75:
+        return "greed"
+    return "extreme greed"
+
+
+def fetch_fng():
+    try:
+        r = session.get(FNG_URL, timeout=25, headers={
+            "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                           "AppleWebKit/537.36 (KHTML, like Gecko) "
+                           "Chrome/126.0.0.0 Safari/537.36"),
+            "Accept": "application/json, text/plain, */*",
+            "Referer": "https://edition.cnn.com/markets/fear-and-greed",
+            "Origin": "https://edition.cnn.com",
+        })
+    except requests.RequestException as e:
+        record_error("fear_greed", f"unreachable: {e}")
+        return None
+    if r.status_code != 200:
+        record_error("fear_greed", f"HTTP {r.status_code}")
+        return None
+    try:
+        d = r.json().get("fear_and_greed") or {}
+    except ValueError:
+        record_error("fear_greed", "non-JSON response")
+        return None
+
+    score = d.get("score")
+    if score is None:
+        record_error("fear_greed", "no score in payload")
+        return None
+
+    rating = str(d.get("rating") or fng_level(score)).strip().lower()
+    if rating not in FNG_LEVELS:
+        rating = fng_level(score)
+
+    return {
+        "score": round(float(score), 1),
+        "rating": rating,
+        "prev_close": d.get("previous_close"),
+        "week_ago": d.get("previous_1_week"),
+        "month_ago": d.get("previous_1_month"),
+    }
+
+
+def check_fear_greed():
+    """Alert only when the LEVEL changes, not on every score wobble."""
+    now = fetch_fng()
+    if not now:
+        return
+
+    prev = load_json(FNG_STATE, {})
+    last_rating = prev.get("rating")
+
+    save_json(FNG_STATE, {"rating": now["rating"], "score": now["score"],
+                          "at": datetime.now(timezone.utc).isoformat(timespec="seconds")})
+    clear_error("fear_greed")
+
+    if not last_rating:
+        log(f"fear & greed baseline set: {now['rating']} ({now['score']})")
+        return
+    if last_rating == now["rating"]:
+        log(f"fear & greed unchanged: {now['rating']} ({now['score']})")
+        return
+
+    old_i = FNG_LEVELS.index(last_rating) if last_rating in FNG_LEVELS else -1
+    new_i = FNG_LEVELS.index(now["rating"])
+    direction = "toward greed" if new_i > old_i else "toward fear"
+    mark = "\U0001F7E2" if new_i > old_i else "\U0001F534"
+
+    rows = [
+        ("PRIORITY", "HIGH"),
+        ("NOW", f"{now['rating'].upper()}  ({now['score']})"),
+        ("WAS", last_rating.upper()),
+        ("MOVED", f"{direction}  {mark}"),
+        ("PREV CLOSE", str(round(float(now["prev_close"]), 1))
+                       if now.get("prev_close") is not None else ""),
+        ("1 WEEK AGO", str(round(float(now["week_ago"]), 1))
+                       if now.get("week_ago") is not None else ""),
+        ("1 MONTH AGO", str(round(float(now["month_ago"]), 1))
+                        if now.get("month_ago") is not None else ""),
+    ]
+
+    telegram(box("FEAR & GREED - LEVEL CHANGE", rows,
+                 link="https://edition.cnn.com/markets/fear-and-greed",
+                 footer="Sentiment gauge, not a trade signal. Extremes are "
+                        "read as contrarian more often than as confirmation."))
+    log(f"fear & greed: {last_rating} -> {now['rating']}")
+
+
+# ---------------------------------------------------------------
+# Self healing
+# ---------------------------------------------------------------
+
+ERROR_FILE = STATE_DIR / "errors.json"
+
+
+def record_error(module, message):
+    """
+    Remember what broke and how many runs in a row it has been broken.
+    A single failure is noise; a persistent one is a real problem.
+    """
+    errs = load_json(ERROR_FILE, {})
+    e = errs.get(module, {"count": 0})
+    e["count"] = e.get("count", 0) + 1
+    e["last"] = str(message)[:200]
+    e["at"] = datetime.now(timezone.utc).isoformat(timespec="seconds")
+    errs[module] = e
+    save_json(ERROR_FILE, errs)
+    log(f"  recorded error [{module} x{e['count']}]: {message}")
+
+
+def clear_error(module):
+    """Recovered. Forget it so the heartbeat stays quiet."""
+    errs = load_json(ERROR_FILE, {})
+    if module in errs:
+        del errs[module]
+        save_json(ERROR_FILE, errs)
+        log(f"  {module} recovered")
+
+
+def self_heal():
+    """
+    Repairs what can actually be repaired automatically: corrupt or
+    nonsensical state files. A parser that no longer matches its source
+    cannot be fixed by retrying, so that case is reported instead.
+    """
+    fixed = []
+
+    for path, default in ((SEEN_FILE, []), (QUEUE_FILE, []), (HEALTH_FILE, {})):
+        try:
+            raw = path.read_text() if path.exists() else None
+            if raw is not None:
+                json.loads(raw)
+        except Exception:
+            save_json(path, default)
+            fixed.append(f"reset corrupt {path.name}")
+
+    # A queue that never drains means something upstream is wrong; clearing
+    # it lets discovery start clean rather than churning the same bad rows.
+    q = load_json(QUEUE_FILE, [])
+    if len(q) > 5000:
+        save_json(QUEUE_FILE, q[-500:])
+        fixed.append(f"trimmed runaway queue ({len(q)} entries)")
+
+    if fixed:
+        for f in fixed:
+            log(f"self-heal: {f}")
+    return fixed
+
+
+# ---------------------------------------------------------------
 # Heartbeat
 # ---------------------------------------------------------------
 
@@ -851,10 +1021,13 @@ def heartbeat():
         log("heartbeat: all feeds healthy, staying quiet")
         return
 
-    if stale:
+    errs = load_json(ERROR_FILE, {})
+    persistent = {k: v for k, v in errs.items() if v.get("count", 0) >= 3}
+
+    if stale or persistent:
         rows = [
             ("PRIORITY", "HIGH"),
-            ("PROBLEM", ", ".join(stale)),
+            ("PROBLEM", ", ".join(stale) if stale else "module errors"),
             ("MEANING", "No new filings seen from these feeds"),
             ("LIKELY CAUSE", "EDGAR changed a URL or feed format"),
             ("ACTION", "Open the repo Actions tab, read the newest run log"),
@@ -862,6 +1035,8 @@ def heartbeat():
             ("STILL OK", ", ".join(ok) if ok else "none"),
             ("BACKLOG", str(len(queue))),
         ]
+        for mod, e in list(persistent.items())[:3]:
+            rows.append((mod.upper()[:11], f"x{e['count']}  {e.get('last','')[:40]}"))
         telegram(box("EDGAR MONITOR IS BROKEN", rows))
         return
 
@@ -888,6 +1063,28 @@ def main():
     if len(sys.argv) > 1 and sys.argv[1] == "heartbeat":
         heartbeat()
         return
+
+    if len(sys.argv) > 1 and sys.argv[1] == "fng":
+        d = fetch_fng()
+        if not d:
+            print("FEAR & GREED: FAILED. CNN blocked the request or changed "
+                  "its payload. Check state/errors.json.")
+        else:
+            print(f"FEAR & GREED: OK. score={d['score']} rating={d['rating']}")
+            print(f"  prev close={d.get('prev_close')} "
+                  f"1w={d.get('week_ago')} 1m={d.get('month_ago')}")
+            prev = load_json(FNG_STATE, {})
+            print(f"  stored level: {prev.get('rating') or 'none yet'}")
+        return
+
+    self_heal()
+
+    # Fear and greed moves slowly. Checking once an hour is plenty.
+    if datetime.now(timezone.utc).minute < 5:
+        try:
+            check_fear_greed()
+        except Exception as e:
+            record_error("fear_greed", str(e))
 
     seen = load_json(SEEN_FILE, [])
     seen_set = set(seen)
