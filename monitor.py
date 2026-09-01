@@ -30,6 +30,10 @@ TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID", "")
 SEC_USER_AGENT = os.environ.get("SEC_USER_AGENT", "")
 FINNHUB_KEY = os.environ.get("FINNHUB_KEY", "")
 
+# Prefixed to every outbound message. All bots post to one channel and
+# every post shows as "SCOUT", so this is the only source attribution.
+SOURCE_TAG = "🏛️"
+
 # Only alerts at or above this level reach Telegram.
 # Everything else is still written to the CSV for later review.
 # Options: "HIGH", "MEDIUM", "LOW"
