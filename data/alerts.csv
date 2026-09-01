@@ -515,3 +515,11 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-01T18:52:25+00:00,FORM_144,,"Cencora, Inc.",proposed sale $2.18M,2175690,,https://www.sec.gov/Archives/edgar/data/1774724/000195917326006592/0001959173-26-006592-index.htm,LOW
 2026-09-01T18:52:25+00:00,FORM_144,,MATERION Corp,proposed sale $235K,234834,,https://www.sec.gov/Archives/edgar/data/1231898/000194984626000556/0001949846-26-000556-index.htm,LOW
 2026-09-01T19:25:23+00:00,FORM_144,,PEOPLES BANCORP OF NORTH CAROLINA INC,proposed sale $51K,51376,,https://www.sec.gov/Archives/edgar/data/2052002/000205200226000003/0002052002-26-000003-index.htm,LOW
+2026-09-01T19:33:40+00:00,FORM_144,,"Sight Sciences, Inc.",proposed sale $110K,109974,,https://www.sec.gov/Archives/edgar/data/1650737/000195917326006603/0001959173-26-006603-index.htm,LOW
+2026-09-01T19:33:40+00:00,FORM_144,,TIDEWATER INC,proposed sale $1.93M,1930096,,https://www.sec.gov/Archives/edgar/data/1232602/000194984626000557/0001949846-26-000557-index.htm,LOW
+2026-09-01T19:33:41+00:00,FORM_144,,VIVMARK RESIDENTIAL,proposed sale $65K,65471,,https://www.sec.gov/Archives/edgar/data/1841519/000195917326006602/0001959173-26-006602-index.htm,LOW
+2026-09-01T19:33:41+00:00,FORM_144,,Oklo Inc.,proposed sale $74K,74110,,https://www.sec.gov/Archives/edgar/data/2147680/000195917326006601/0001959173-26-006601-index.htm,LOW
+2026-09-01T19:33:41+00:00,FORM_144,,VIVMARK RESIDENTIAL,proposed sale $474K,474095,,https://www.sec.gov/Archives/edgar/data/2081307/000195917326006600/0001959173-26-006600-index.htm,LOW
+2026-09-01T19:33:42+00:00,FORM_144,,AGILYSYS INC,proposed sale $115K,114869,,https://www.sec.gov/Archives/edgar/data/2073585/000195917326006599/0001959173-26-006599-index.htm,LOW
+2026-09-01T19:33:42+00:00,FORM_144,,AerSale Corp,proposed sale $5K,4797,,https://www.sec.gov/Archives/edgar/data/1992101/000195917326006598/0001959173-26-006598-index.htm,LOW
+2026-09-01T19:33:42+00:00,FORM_144,,VIVMARK RESIDENTIAL,proposed sale $321K,321089,,https://www.sec.gov/Archives/edgar/data/1750568/000195917326006597/0001959173-26-006597-index.htm,LOW
