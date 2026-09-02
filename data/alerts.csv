@@ -803,3 +803,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-02T19:40:27+00:00,FORM_144,,Autolus Therapeutics plc,proposed sale $16K,15678,,https://www.sec.gov/Archives/edgar/data/1907199/000195917326006649/0001959173-26-006649-index.htm,LOW
 2026-09-02T19:48:26+00:00,FORM_144,,"Butterfly Network, Inc.",proposed sale $14K,13927,,https://www.sec.gov/Archives/edgar/data/2080056/000195917326006654/0001959173-26-006654-index.htm,LOW
 2026-09-02T19:48:26+00:00,FORM_144,,"Tarsus Pharmaceuticals, Inc.",proposed sale $654K,654373,,https://www.sec.gov/Archives/edgar/data/1819790/000195917326006653/0001959173-26-006653-index.htm,LOW
+2026-09-02T20:09:18+00:00,FORM_144,,"Teladoc Health, Inc.",proposed sale $39K,39068,,https://www.sec.gov/Archives/edgar/data/2037711/000195917326006655/0001959173-26-006655-index.htm,LOW
+2026-09-02T20:09:18+00:00,FORM_144,,Karat Packaging Inc.,proposed sale $959K,958600,,https://www.sec.gov/Archives/edgar/data/1790959/000194984626000560/0001949846-26-000560-index.htm,LOW
