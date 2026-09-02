@@ -938,3 +938,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-02T22:47:27+00:00,FORM_144,,ThredUp Inc.,proposed sale $442K,441543,,https://www.sec.gov/Archives/edgar/data/1849447/000162828026060226/0001628280-26-060226-index.htm,LOW
 2026-09-02T22:47:27+00:00,FORM_144,,ThredUp Inc.,proposed sale $155K,155465,,https://www.sec.gov/Archives/edgar/data/1850197/000162828026060225/0001628280-26-060225-index.htm,LOW
 2026-09-02T22:47:28+00:00,FORM_144,,ThredUp Inc.,proposed sale $115K,115015,,https://www.sec.gov/Archives/edgar/data/1688472/000162828026060224/0001628280-26-060224-index.htm,LOW
+2026-09-02T23:06:27+00:00,FORM_144,,"MAZE THERAPEUTICS, INC.",proposed sale $110K,110000,,https://www.sec.gov/Archives/edgar/data/1842295/000178275826000005/0001782758-26-000005-index.htm,LOW
+2026-09-02T23:06:27+00:00,FORM_144,,"Amer Sports, Inc.",proposed sale $58K,57889,,https://www.sec.gov/Archives/edgar/data/1988894/000197337926000332/0001973379-26-000332-index.htm,LOW
+2026-09-02T23:06:28+00:00,FORM_144,,"MAZE THERAPEUTICS, INC.",proposed sale $177K,177200,,https://www.sec.gov/Archives/edgar/data/2050167/000205016726000024/0002050167-26-000024-index.htm,LOW
+2026-09-02T23:06:28+00:00,FORM_144,,"MAZE THERAPEUTICS, INC.",proposed sale $623K,623400,,https://www.sec.gov/Archives/edgar/data/1842295/000167617026000019/0001676170-26-000019-index.htm,LOW
+2026-09-02T23:06:29+00:00,FORM_144,,"MAZE THERAPEUTICS, INC.",proposed sale $284K,283500,,https://www.sec.gov/Archives/edgar/data/2050172/000205017226000031/0002050172-26-000031-index.htm,LOW
