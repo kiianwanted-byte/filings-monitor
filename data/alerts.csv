@@ -931,3 +931,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-02T21:31:10+00:00,FORM_144,,"Fold Holdings, Inc.",proposed sale $613,612,,https://www.sec.gov/Archives/edgar/data/2057456/000195917326006674/0001959173-26-006674-index.htm,LOW
 2026-09-02T21:31:10+00:00,FORM_144,,"Disc Medicine, Inc.",proposed sale $2.09M,2088845,,https://www.sec.gov/Archives/edgar/data/1816736/000162828026060162/0001628280-26-060162-index.htm,LOW
 2026-09-02T21:31:11+00:00,FORM_144,,"Disc Medicine, Inc.",proposed sale $5.07M,5071068,,https://www.sec.gov/Archives/edgar/data/1816736/000162828026060161/0001628280-26-060161-index.htm,LOW
+2026-09-02T21:59:00+00:00,FORM_144,,RISKIFIED LTD.,proposed sale $332K,332500,,https://www.sec.gov/Archives/edgar/data/2150555/000185111226000029/0001851112-26-000029-index.htm,LOW
