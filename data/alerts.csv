@@ -933,3 +933,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-02T21:31:11+00:00,FORM_144,,"Disc Medicine, Inc.",proposed sale $5.07M,5071068,,https://www.sec.gov/Archives/edgar/data/1816736/000162828026060161/0001628280-26-060161-index.htm,LOW
 2026-09-02T21:59:00+00:00,FORM_144,,RISKIFIED LTD.,proposed sale $332K,332500,,https://www.sec.gov/Archives/edgar/data/2150555/000185111226000029/0001851112-26-000029-index.htm,LOW
 2026-09-02T22:13:02+00:00,FORM_144,,"Joby Aviation, Inc.",proposed sale $256K,256264,,https://www.sec.gov/Archives/edgar/data/1895244/000181984826000446/0001819848-26-000446-index.htm,LOW
+2026-09-02T22:38:20+00:00,FORM_144,,"Ethan Allen Interiors, Inc.",proposed sale $5.65M,5649805,,https://www.sec.gov/Archives/edgar/data/1217614/000196858226000924/0001968582-26-000924-index.htm,LOW
