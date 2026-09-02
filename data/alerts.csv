@@ -945,3 +945,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-02T23:06:29+00:00,FORM_144,,"MAZE THERAPEUTICS, INC.",proposed sale $284K,283500,,https://www.sec.gov/Archives/edgar/data/2050172/000205017226000031/0002050172-26-000031-index.htm,LOW
 2026-09-02T23:19:56+00:00,FORM_144,,ResMed INC,proposed sale $228K,227608,,https://www.sec.gov/Archives/edgar/data/1186102/000162828026060229/0001628280-26-060229-index.htm,LOW
 2026-09-02T23:29:15+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $4K,3604,,https://www.sec.gov/Archives/edgar/data/2126756/000212675626000006/0002126756-26-000006-index.htm,LOW
+2026-09-02T23:39:56+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $615K,614517,,https://www.sec.gov/Archives/edgar/data/2126752/000212675226000015/0002126752-26-000015-index.htm,LOW
+2026-09-02T23:39:57+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $89K,89257,,https://www.sec.gov/Archives/edgar/data/2126753/000212675326000011/0002126753-26-000011-index.htm,LOW
+2026-09-02T23:39:57+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $192K,191844,,https://www.sec.gov/Archives/edgar/data/2126754/000212675426000007/0002126754-26-000007-index.htm,LOW
+2026-09-02T23:39:57+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $83K,82997,,https://www.sec.gov/Archives/edgar/data/2126755/000212675526000010/0002126755-26-000010-index.htm,LOW
