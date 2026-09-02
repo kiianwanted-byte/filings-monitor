@@ -116,6 +116,10 @@ MAX_ALERTS_PER_RUN = 25
 SEEN_MAX = 20_000
 SEC_DELAY = 0.15          # SEC allows 10 requests per second
 
+# A newly added feed cannot be "broken" before it has had time to report.
+# 13G in particular clusters around quarter ends and can be quiet for days.
+FEED_GRACE_HOURS = 72
+
 # Paths inside the repo
 ROOT = Path(__file__).resolve().parent
 STATE_DIR = ROOT / "state"
@@ -123,6 +127,7 @@ DATA_DIR = ROOT / "data"
 SEEN_FILE = STATE_DIR / "seen.json"
 QUEUE_FILE = STATE_DIR / "queue.json"
 HEALTH_FILE = STATE_DIR / "health.json"
+FIRST_SEEN_FILE = STATE_DIR / "first_seen.json"
 ALERTS_CSV = DATA_DIR / "alerts.csv"
 BUYS_CSV = DATA_DIR / "buys.csv"
 
@@ -1110,10 +1115,30 @@ def heartbeat():
     for k, v in cong.items():
         merged[f"congress-{k}"] = v
 
+    # A feed added to the watch list five minutes ago has not had a chance
+    # to report yet. Record when each feed was first watched and give it a
+    # grace period before it can be called broken.
+    first_seen = load_json(FIRST_SEEN_FILE, {})
+    changed = False
+    for form in watched:
+        if form not in first_seen:
+            first_seen[form] = now.isoformat(timespec="seconds")
+            changed = True
+    if changed:
+        save_json(FIRST_SEEN_FILE, first_seen)
+
     for form in watched:
         ts = merged.get(form)
         if not ts:
-            # Congress modules only appear once they have run successfully.
+            try:
+                watched_for = (now - datetime.fromisoformat(
+                    first_seen[form])).total_seconds() / 3600
+            except (ValueError, KeyError):
+                watched_for = 0
+            if watched_for < FEED_GRACE_HOURS:
+                log(f"heartbeat: {form} still in grace period "
+                    f"({watched_for:.0f}h of {FEED_GRACE_HOURS}h)")
+                continue
             if form.startswith("congress-"):
                 stale.append(f"{form} (never ran)")
             else:
@@ -1194,6 +1219,31 @@ def main():
 
     if len(sys.argv) > 1 and sys.argv[1] == "heartbeat":
         heartbeat()
+        return
+
+    if len(sys.argv) > 1 and sys.argv[1] == "feeds":
+        print("=== EDGAR FEED PROBE ===")
+        health = load_json(HEALTH_FILE, {})
+        for form in FORMS:
+            url = ("https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent"
+                   f"&type={requests.utils.quote(form)}"
+                   f"&company=&dateb=&owner=include&count=20&output=atom")
+            text = fetch(url)
+            if not text:
+                print(f"  {form:8} FETCH FAILED")
+                continue
+            try:
+                root = ET.fromstring(text)
+                entries = find_all(root, "entry")
+            except ET.ParseError as e:
+                print(f"  {form:8} UNPARSEABLE: {e}")
+                continue
+            last = health.get(form, "never")
+            print(f"  {form:8} {len(entries):3} entries   last healthy: {last}")
+            for e in entries[:2]:
+                t = find_one(e, "title")
+                print(f"           {(t.text or '')[:72]}")
+        print("=== END ===")
         return
 
     if len(sys.argv) > 1 and sys.argv[1] == "fng":
