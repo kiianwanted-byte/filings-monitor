@@ -777,3 +777,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-02T17:55:58+00:00,FORM_144,,"LifeStance Health Group, Inc.",proposed sale $541K,541244,,https://www.sec.gov/Archives/edgar/data/1938690/000195917326006637/0001959173-26-006637-index.htm,LOW
 2026-09-02T18:08:44+00:00,FORM_144,,PATTERSON UTI ENERGY INC,proposed sale $2.55M,2549549,,https://www.sec.gov/Archives/edgar/data/1645511/000195917326006639/0001959173-26-006639-index.htm,LOW
 2026-09-02T18:08:45+00:00,FORM_144,,"Live Oak Bancshares, Inc.",proposed sale $390K,390000,,https://www.sec.gov/Archives/edgar/data/1462120/000195917326006638/0001959173-26-006638-index.htm,LOW
+2026-09-02T18:27:08+00:00,FORM_144,,First Bancorp,proposed sale $765K,765000,,https://www.sec.gov/Archives/edgar/data/1214993/000162828026060037/0001628280-26-060037-index.htm,LOW
+2026-09-02T18:27:09+00:00,FORM_144,,TALOS ENERGY INC.,proposed sale $2.08M,2077840,,https://www.sec.gov/Archives/edgar/data/1739557/000195917326006642/0001959173-26-006642-index.htm,LOW
+2026-09-02T18:27:09+00:00,FORM_144,,BBB FOODS INC,proposed sale $383K,383200,,https://www.sec.gov/Archives/edgar/data/2120515/000162828026060032/0001628280-26-060032-index.htm,LOW
+2026-09-02T18:27:09+00:00,FORM_144,,"Qorvo, Inc.",proposed sale $250K,250000,,https://www.sec.gov/Archives/edgar/data/1604778/000195917326006641/0001959173-26-006641-index.htm,LOW
+2026-09-02T18:27:10+00:00,FORM_144,,VIVMARK RESIDENTIAL,proposed sale $600K,599535,,https://www.sec.gov/Archives/edgar/data/2081307/000195917326006640/0001959173-26-006640-index.htm,LOW
