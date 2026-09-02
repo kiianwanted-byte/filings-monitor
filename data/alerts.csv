@@ -905,3 +905,29 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-02T21:05:17+00:00,FORM_144,,"Bandwidth, Inc.",proposed sale $406K,406320,,https://www.sec.gov/Archives/edgar/data/1807759/000196858226000919/0001968582-26-000919-index.htm,LOW
 2026-09-02T21:05:17+00:00,FORM_144,,Seneca Foods Corporation,proposed sale $329K,328985,,https://www.sec.gov/Archives/edgar/data/1348504/000143774926029523/0001437749-26-029523-index.htm,LOW
 2026-09-02T21:05:17+00:00,FORM_144,,"PAGERDUTY, INC.",proposed sale $423K,423056,,https://www.sec.gov/Archives/edgar/data/1674159/000195004726009030/0001950047-26-009030-index.htm,LOW
+2026-09-02T21:31:01+00:00,FORM_144,,EQUINIX INC,proposed sale $563K,563348,,https://www.sec.gov/Archives/edgar/data/1751921/000164563526000024/0001645635-26-000024-index.htm,LOW
+2026-09-02T21:31:01+00:00,FORM_144,,"RingCentral, Inc.",proposed sale $1.94M,1939410,,https://www.sec.gov/Archives/edgar/data/1586647/000195824426000569/0001958244-26-000569-index.htm,LOW
+2026-09-02T21:31:02+00:00,FORM_144,,"Cricut, Inc.",proposed sale $1.04M,1036800,,https://www.sec.gov/Archives/edgar/data/1851564/000195824426000568/0001958244-26-000568-index.htm,LOW
+2026-09-02T21:31:02+00:00,FORM_144,,"ARS PHARMACEUTICALS, INC.",proposed sale $5K,4999,,https://www.sec.gov/Archives/edgar/data/1671858/000195004726009041/0001950047-26-009041-index.htm,LOW
+2026-09-02T21:31:02+00:00,FORM_144,,ABBOTT LABORATORIES,proposed sale $3K,2957,,https://www.sec.gov/Archives/edgar/data/1644207/000164420726000010/0001644207-26-000010-index.htm,LOW
+2026-09-02T21:31:03+00:00,FORM_144,,"Patterson-UTI Energy, Inc.",proposed sale $3.20M,3197500,,https://www.sec.gov/Archives/edgar/data/1546374/000196858226000922/0001968582-26-000922-index.htm,LOW
+2026-09-02T21:31:03+00:00,FORM_144,,"ATRICURE, INC.",proposed sale $408K,407557,,https://www.sec.gov/Archives/edgar/data/1336063/000195004726009040/0001950047-26-009040-index.htm,LOW
+2026-09-02T21:31:03+00:00,FORM_144,,BEL FUSE INC /NJ,proposed sale $96K,95500,,https://www.sec.gov/Archives/edgar/data/1688761/000143774926029531/0001437749-26-029531-index.htm,LOW
+2026-09-02T21:31:04+00:00,FORM_144,,"ALECTOR, INC.",proposed sale $2K,1804,,https://www.sec.gov/Archives/edgar/data/2074667/000195004726009039/0001950047-26-009039-index.htm,LOW
+2026-09-02T21:31:04+00:00,FORM_144,,GITLAB INC,proposed sale $955K,955141,,https://www.sec.gov/Archives/edgar/data/1653482/000195004726009038/0001950047-26-009038-index.htm,LOW
+2026-09-02T21:31:04+00:00,FORM_144,,BILL HOLDINGS INC,proposed sale $1.84M,1844751,,https://www.sec.gov/Archives/edgar/data/1795497/000195004726009037/0001950047-26-009037-index.htm,LOW
+2026-09-02T21:31:05+00:00,FORM_144,,"CG ONCOLOGY, INC.",proposed sale $2.30M,2299448,,https://www.sec.gov/Archives/edgar/data/2007090/000195004726009036/0001950047-26-009036-index.htm,LOW
+2026-09-02T21:31:06+00:00,FORM_144,,"Ceribell, Inc.",proposed sale $973K,973090,,https://www.sec.gov/Archives/edgar/data/2035784/000195917326006675/0001959173-26-006675-index.htm,LOW
+2026-09-02T21:31:06+00:00,FORM_144,,NVIDIA CORP,proposed sale $1.09B,1087200000,,https://www.sec.gov/Archives/edgar/data/1199039/000162828026060177/0001628280-26-060177-index.htm,LOW
+2026-09-02T21:31:06+00:00,FORM_144,,"Interface, Inc.",proposed sale $297K,297053,,https://www.sec.gov/Archives/edgar/data/1094629/000162828026060176/0001628280-26-060176-index.htm,LOW
+2026-09-02T21:31:07+00:00,FORM_144,,"EVOLUS, INC.",proposed sale $950K,950018,,https://www.sec.gov/Archives/edgar/data/1700836/000195004726009034/0001950047-26-009034-index.htm,LOW
+2026-09-02T21:31:07+00:00,FORM_144,,BILL HOLDINGS INC,proposed sale $6.73M,6726610,,https://www.sec.gov/Archives/edgar/data/1795497/000195004726009033/0001950047-26-009033-index.htm,LOW
+2026-09-02T21:31:07+00:00,FORM_144,,ROCKET LAB CORPORATION,proposed sale $8.77M,8765418,,https://www.sec.gov/Archives/edgar/data/1819994/000195004726009032/0001950047-26-009032-index.htm,LOW
+2026-09-02T21:31:08+00:00,FORM_144,,ELASTIC N.V.,proposed sale $5.47M,5470453,,https://www.sec.gov/Archives/edgar/data/1943965/000195004726009031/0001950047-26-009031-index.htm,LOW
+2026-09-02T21:31:09+00:00,FORM_144,,Vinci Compass Investments Ltd.,proposed sale $2.39M,2387223,,https://www.sec.gov/Archives/edgar/data/2028299/000095010326013495/0000950103-26-013495-index.htm,LOW
+2026-09-02T21:31:09+00:00,FORM_144,,"Disc Medicine, Inc.",proposed sale $40K,40357,,https://www.sec.gov/Archives/edgar/data/1816736/000162828026060165/0001628280-26-060165-index.htm,LOW
+2026-09-02T21:31:09+00:00,FORM_144,,"Darling Ingredients, Inc.",proposed sale $338K,338500,,https://www.sec.gov/Archives/edgar/data/1256109/000196858226000921/0001968582-26-000921-index.htm,LOW
+2026-09-02T21:31:10+00:00,FORM_144,,"Disc Medicine, Inc.",proposed sale $1.74M,1738528,,https://www.sec.gov/Archives/edgar/data/1885327/000162828026060163/0001628280-26-060163-index.htm,LOW
+2026-09-02T21:31:10+00:00,FORM_144,,"Fold Holdings, Inc.",proposed sale $613,612,,https://www.sec.gov/Archives/edgar/data/2057456/000195917326006674/0001959173-26-006674-index.htm,LOW
+2026-09-02T21:31:10+00:00,FORM_144,,"Disc Medicine, Inc.",proposed sale $2.09M,2088845,,https://www.sec.gov/Archives/edgar/data/1816736/000162828026060162/0001628280-26-060162-index.htm,LOW
+2026-09-02T21:31:11+00:00,FORM_144,,"Disc Medicine, Inc.",proposed sale $5.07M,5071068,,https://www.sec.gov/Archives/edgar/data/1816736/000162828026060161/0001628280-26-060161-index.htm,LOW
