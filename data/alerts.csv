@@ -726,3 +726,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-02T01:50:30+00:00,INSIDER_CLUSTER,QNRX,"Quoin Pharmaceuticals, Ltd.",Lawlor Sally Bridget $50K,49990,1,https://www.sec.gov/Archives/edgar/data/2084407/000110465926104403/0001104659-26-104403-index.htm,HIGH
 2026-09-02T01:50:31+00:00,INSIDER_CLUSTER,QNRX,"Quoin Pharmaceuticals, Ltd.",Culverwell Anthony James $30K,29992,1,https://www.sec.gov/Archives/edgar/data/1693548/000110465926104402/0001104659-26-104402-index.htm,HIGH
 2026-09-02T01:50:32+00:00,FORM_144,,LESAKA TECHNOLOGIES INC,proposed sale $3.91M,3909570,,https://www.sec.gov/Archives/edgar/data/1490628/000094787126000856/0000947871-26-000856-index.htm,LOW
+2026-09-02T10:21:57+00:00,FORM_144,,Luckin Coffee Inc.,proposed sale $95.47M,95474228,,https://www.sec.gov/Archives/edgar/data/1992544/000110465926104437/0001104659-26-104437-index.htm,LOW
+2026-09-02T10:21:57+00:00,FORM_144,,Jiayin Group Inc.,proposed sale $705K,705185,,https://www.sec.gov/Archives/edgar/data/1980181/000119312526379277/0001193125-26-379277-index.htm,LOW
+2026-09-02T10:21:57+00:00,FORM_144,,Jiayin Group Inc.,proposed sale $52K,51633,,https://www.sec.gov/Archives/edgar/data/2142696/000119312526379276/0001193125-26-379276-index.htm,LOW
