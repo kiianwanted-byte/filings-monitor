@@ -934,3 +934,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-02T21:59:00+00:00,FORM_144,,RISKIFIED LTD.,proposed sale $332K,332500,,https://www.sec.gov/Archives/edgar/data/2150555/000185111226000029/0001851112-26-000029-index.htm,LOW
 2026-09-02T22:13:02+00:00,FORM_144,,"Joby Aviation, Inc.",proposed sale $256K,256264,,https://www.sec.gov/Archives/edgar/data/1895244/000181984826000446/0001819848-26-000446-index.htm,LOW
 2026-09-02T22:38:20+00:00,FORM_144,,"Ethan Allen Interiors, Inc.",proposed sale $5.65M,5649805,,https://www.sec.gov/Archives/edgar/data/1217614/000196858226000924/0001968582-26-000924-index.htm,LOW
+2026-09-02T22:47:25+00:00,INSIDER_CLUSTER,GROV,"Grove Collaborative Holdings, Inc.",Karp Jason H. $73K,72885,1,https://www.sec.gov/Archives/edgar/data/1841761/000184176126000092/0001841761-26-000092-index.htm,HIGH
+2026-09-02T22:47:27+00:00,FORM_144,,ThredUp Inc.,proposed sale $442K,441543,,https://www.sec.gov/Archives/edgar/data/1849447/000162828026060226/0001628280-26-060226-index.htm,LOW
+2026-09-02T22:47:27+00:00,FORM_144,,ThredUp Inc.,proposed sale $155K,155465,,https://www.sec.gov/Archives/edgar/data/1850197/000162828026060225/0001628280-26-060225-index.htm,LOW
+2026-09-02T22:47:28+00:00,FORM_144,,ThredUp Inc.,proposed sale $115K,115015,,https://www.sec.gov/Archives/edgar/data/1688472/000162828026060224/0001628280-26-060224-index.htm,LOW

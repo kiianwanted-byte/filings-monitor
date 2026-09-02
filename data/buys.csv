@@ -172,3 +172,5 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-02T22:12:58+00:00,2026-08-31,CLPR,Clipper Realty Inc.,Levinson Sam,"Director, 10% owner",8063,3.24,26133,3.2,0001539497-26-002446
 2026-09-02T22:26:01+00:00,2026-09-01,OPFI,OppFi Inc.,Schwartz Todd G.,"Director, Chief Executive Officer, 10% owner",3550,6.91,24542,0.6,0000905148-26-004066
 2026-09-02T22:26:01+00:00,2026-08-31,VENU,Venu Holding Corp,ROTH JAY W,"Director, CEO & Chairman, 10% owner",2100,1.90,4000,0.0,0001493152-26-041271
+2026-09-02T22:47:24+00:00,2026-09-01,ANTX,"AN2 Therapeutics, Inc.",FitzPatrick Margaret M,Director,2098,5.53,11601,24.4,0001193125-26-380595
+2026-09-02T22:47:25+00:00,2026-09-01,GROV,"Grove Collaborative Holdings, Inc.",Karp Jason H.,Director,70200,1.04,72885,13.5,0001841761-26-000092
