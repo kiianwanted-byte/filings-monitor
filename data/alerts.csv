@@ -719,3 +719,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-01T23:29:23+00:00,FORM_144,,"Atomera, Inc.",proposed sale $26K,26338,,https://www.sec.gov/Archives/edgar/data/1680612/000168316826006865/0001683168-26-006865-index.htm,LOW
 2026-09-01T23:29:23+00:00,FORM_144,,"Atomera, Inc.",proposed sale $56K,55706,,https://www.sec.gov/Archives/edgar/data/1464249/000168316826006864/0001683168-26-006864-index.htm,LOW
 2026-09-01T23:55:32+00:00,INSIDER_BUY,AUGO,Aura Minerals Inc.,Sousa Mauad Bruno $21.79M,21792751,4,https://www.sec.gov/Archives/edgar/data/2117905/000211790526000026/0002117905-26-000026-index.htm,MEDIUM
+2026-09-02T00:06:33+00:00,FORM_144,,"Alector, Inc.",proposed sale $77K,77047,,https://www.sec.gov/Archives/edgar/data/2075298/000119312526379020/0001193125-26-379020-index.htm,LOW
+2026-09-02T00:06:33+00:00,FORM_144,,"Alector, Inc.",proposed sale $14K,13588,,https://www.sec.gov/Archives/edgar/data/2074667/000119312526379023/0001193125-26-379023-index.htm,LOW
+2026-09-02T00:06:33+00:00,FORM_144,,"Alector, Inc.",proposed sale $191K,191284,,https://www.sec.gov/Archives/edgar/data/1757770/000119312526379022/0001193125-26-379022-index.htm,LOW
