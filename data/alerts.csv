@@ -761,3 +761,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-02T16:29:16+00:00,FORM_144,,"Newegg Commerce, Inc.",proposed sale $658K,658213,,https://www.sec.gov/Archives/edgar/data/2114022/000149315226041185/0001493152-26-041185-index.htm,LOW
 2026-09-02T16:29:17+00:00,FORM_144,,"Hims & Hers Health, Inc.",proposed sale $98K,97965,,https://www.sec.gov/Archives/edgar/data/1837817/000195917326006631/0001959173-26-006631-index.htm,LOW
 2026-09-02T16:29:17+00:00,FORM_144,,"Leonardo DRS, Inc.",proposed sale $766K,765950,,https://www.sec.gov/Archives/edgar/data/1849658/000195917326006630/0001959173-26-006630-index.htm,LOW
+2026-09-02T16:43:03+00:00,FORM_144,,PEOPLES BANCORP OF NORTH CAROLINA INC,proposed sale $21K,21427,,https://www.sec.gov/Archives/edgar/data/1244172/000124417226000010/0001244172-26-000010-index.htm,LOW
+2026-09-02T16:43:03+00:00,FORM_144,,"Ibotta, Inc.",proposed sale $107K,107095,,https://www.sec.gov/Archives/edgar/data/2017890/000195917326006632/0001959173-26-006632-index.htm,LOW
