@@ -893,3 +893,9 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-02T20:36:19+00:00,FORM_144,,StoneCo Ltd.,proposed sale $208K,208126,,https://www.sec.gov/Archives/edgar/data/2063736/000206373626000005/0002063736-26-000005-index.htm,LOW
 2026-09-02T20:36:19+00:00,FORM_144,,WORLD KINECT CORP,proposed sale $354K,353962,,https://www.sec.gov/Archives/edgar/data/1242793/000196430626000423/0001964306-26-000423-index.htm,LOW
 2026-09-02T20:36:20+00:00,FORM_144,,LivaNova PLC,proposed sale $883K,882888,,https://www.sec.gov/Archives/edgar/data/2031281/000196430626000422/0001964306-26-000422-index.htm,LOW
+2026-09-02T20:47:35+00:00,INSIDER_CLUSTER,GPUS,"Hyperscale Data, Inc.",Horne William B. $20K,19990,0,https://www.sec.gov/Archives/edgar/data/1333268/000121465926011360/0001214659-26-011360-index.htm,HIGH
+2026-09-02T20:48:02+00:00,FORM_144,,"Sprout Social, Inc.",proposed sale $125K,124754,,https://www.sec.gov/Archives/edgar/data/1791816/000195917326006659/0001959173-26-006659-index.htm,LOW
+2026-09-02T20:48:02+00:00,FORM_144,,"Teladoc Health, Inc.",proposed sale $34K,34272,,https://www.sec.gov/Archives/edgar/data/2037547/000195917326006658/0001959173-26-006658-index.htm,LOW
+2026-09-02T20:48:02+00:00,FORM_144,,OLD SECOND BANCORP INC,proposed sale $615K,615360,,https://www.sec.gov/Archives/edgar/data/2074132/000194984626000561/0001949846-26-000561-index.htm,LOW
+2026-09-02T20:48:03+00:00,FORM_144,,"Teladoc Health, Inc.",proposed sale $48K,47719,,https://www.sec.gov/Archives/edgar/data/1477449/000195917326006657/0001959173-26-006657-index.htm,LOW
+2026-09-02T20:48:03+00:00,FORM_144,,TAKE TWO INTERACTIVE SOFTWARE INC,proposed sale $200K,199583,,https://www.sec.gov/Archives/edgar/data/1623654/000195917326006656/0001959173-26-006656-index.htm,LOW
