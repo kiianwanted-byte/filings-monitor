@@ -397,6 +397,18 @@ def is_true(v):
 # Stage 1: discovery
 # ---------------------------------------------------------------
 
+def feed_url(form, count=None):
+    """
+    EDGAR's browse-edgar CGI does not decode %20 in the type parameter, so a
+    form name containing a space ("SC 13D") silently returns an empty feed
+    rather than an error. It wants a literal '+' instead.
+    """
+    return ("https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent"
+            f"&type={form.replace(' ', '+')}"
+            f"&company=&dateb=&owner=include"
+            f"&count={count or FEED_COUNT}&output=atom")
+
+
 def discover(seen):
     queue = load_json(QUEUE_FILE, [])
     known = {item["key"] for item in queue}
@@ -404,10 +416,7 @@ def discover(seen):
     added = 0
 
     for form in FORMS:
-        url = ("https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent"
-               f"&type={requests.utils.quote(form)}"
-               f"&company=&dateb=&owner=include&count={FEED_COUNT}&output=atom")
-        text = fetch(url)
+        text = fetch(feed_url(form))
         if not text:
             log(f"  feed unreachable: {form}")
             continue
@@ -1224,25 +1233,36 @@ def main():
     if len(sys.argv) > 1 and sys.argv[1] == "feeds":
         print("=== EDGAR FEED PROBE ===")
         health = load_json(HEALTH_FILE, {})
-        for form in FORMS:
-            url = ("https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent"
-                   f"&type={requests.utils.quote(form)}"
-                   f"&company=&dateb=&owner=include&count=20&output=atom")
+        def probe(url):
             text = fetch(url)
             if not text:
+                return None
+            try:
+                return find_all(ET.fromstring(text), "entry")
+            except ET.ParseError:
+                return None
+
+        for form in FORMS:
+            entries = probe(feed_url(form, 20))
+            last = health.get(form, "never")
+            if entries is None:
                 print(f"  {form:8} FETCH FAILED")
                 continue
-            try:
-                root = ET.fromstring(text)
-                entries = find_all(root, "entry")
-            except ET.ParseError as e:
-                print(f"  {form:8} UNPARSEABLE: {e}")
-                continue
-            last = health.get(form, "never")
             print(f"  {form:8} {len(entries):3} entries   last healthy: {last}")
             for e in entries[:2]:
                 t = find_one(e, "title")
                 print(f"           {(t.text or '')[:72]}")
+
+            # For form names with a space, show what the old encoding gave,
+            # so a regression here is obvious rather than silent.
+            if " " in form:
+                old = probe("https://www.sec.gov/cgi-bin/browse-edgar"
+                            "?action=getcurrent"
+                            f"&type={requests.utils.quote(form)}"
+                            "&company=&dateb=&owner=include&count=20"
+                            "&output=atom")
+                print(f"           (%20 encoding would return "
+                      f"{len(old) if old is not None else 'error'})")
         print("=== END ===")
         return
 
