@@ -767,3 +767,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-02T16:53:52+00:00,FORM_144,,"Xos, Inc.",proposed sale $60K,60000,,https://www.sec.gov/Archives/edgar/data/1819493/000196922326000983/0001969223-26-000983-index.htm,LOW
 2026-09-02T16:53:52+00:00,FORM_144,,Flywire Corp,proposed sale $223K,222918,,https://www.sec.gov/Archives/edgar/data/2116833/000195917326006633/0001959173-26-006633-index.htm,LOW
 2026-09-02T16:53:52+00:00,FORM_144,,"ASP Isotopes, Inc.",proposed sale $194K,194390,,https://www.sec.gov/Archives/edgar/data/2079961/000197449426000269/0001974494-26-000269-index.htm,LOW
+2026-09-02T17:18:25+00:00,FORM_144,,Ascendis Pharma A/S,proposed sale $62K,62334,,https://www.sec.gov/Archives/edgar/data/1965626/000197337926000330/0001973379-26-000330-index.htm,LOW
+2026-09-02T17:18:25+00:00,FORM_144,,"HORNBECK OFFSHORE SERVICES, INC.",proposed sale $1.27M,1273813,,https://www.sec.gov/Archives/edgar/data/1648839/000195917326006634/0001959173-26-006634-index.htm,LOW
