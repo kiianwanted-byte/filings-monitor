@@ -2534,3 +2534,32 @@ timestamp,chamber,member,ticker,asset,action,amount_low,amount_high,trade_date,f
 2026-09-01T16:24:54+00:00,House,Donald Sternoff Beyer Jr,,California St 4.00% 8/01/36,EXCHANGE,15001,50000,2026-08-03,2026-09-01,29,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035349.pdf
 2026-09-01T16:24:54+00:00,House,Donald Sternoff Beyer Jr,,Long Is Pwr Auth Var 9/01/55,BUY,15001,50000,2026-08-05,2026-09-01,27,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035349.pdf
 2026-09-01T16:24:54+00:00,House,Donald Sternoff Beyer Jr,,Washington St Various 5.00%,EXCHANGE,50001,100000,2026-08-03,2026-09-01,29,MEDIUM,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035349.pdf
+2026-09-02T14:20:35+00:00,House,Steve Cohen,,US Treas Bills Int Rate 0.000% MAT,BUY,250001,500000,2026-08-21,2026-09-01,11,MEDIUM,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035350.pdf
+2026-09-02T14:20:35+00:00,House,Kevin Hern,ADBE,Adobe Inc. - Common Stock,SELL (partial),15001,50000,2026-08-14,2026-09-01,18,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035326.pdf
+2026-09-02T14:20:35+00:00,House,Kevin Hern,ALC,Alcon Inc. Ordinary Shares,SELL,1001,15000,2026-08-05,2026-09-01,27,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035326.pdf
+2026-09-02T14:20:35+00:00,House,Kevin Hern,BUD,Anheuser-Busch Inbev SA Sponsored,SELL,1001,15000,2026-08-18,2026-09-01,14,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035326.pdf
+2026-09-02T14:20:35+00:00,House,Kevin Hern,BIIB,Biogen Inc. - Common Stock,SELL,1001,15000,2026-08-18,2026-09-01,14,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035326.pdf
+2026-09-02T14:20:35+00:00,House,Kevin Hern,BA,Boeing Company,SELL,15001,50000,2026-08-13,2026-09-01,19,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035326.pdf
+2026-09-02T14:20:35+00:00,House,Kevin Hern,,CANADIAN CNTY OKLA EDL FACS,BUY,100001,250000,2026-08-24,2026-09-01,8,MEDIUM,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035326.pdf
+2026-09-02T14:20:35+00:00,House,Kevin Hern,CARR,Carrier Global Corporation Common,SELL,1001,15000,2026-08-14,2026-09-01,18,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035326.pdf
+2026-09-02T14:20:35+00:00,House,Kevin Hern,CL,Colgate-Palmolive Company,SELL,1001,15000,2026-08-19,2026-09-01,13,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035326.pdf
+2026-09-02T14:20:35+00:00,House,Kevin Hern,GAP,"Gap, Inc",SELL,1001,15000,2026-08-13,2026-09-01,19,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035326.pdf
+2026-09-02T14:20:35+00:00,House,Kevin Hern,HD,"Home Depot, Inc",SELL (partial),50001,100000,2026-08-24,2026-09-01,8,MEDIUM,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035326.pdf
+2026-09-02T14:20:35+00:00,House,Kevin Hern,HONA,Honeywell Aerospace Inc. - Common,SELL,15001,50000,2026-08-19,2026-09-01,13,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035326.pdf
+2026-09-02T14:20:35+00:00,House,Kevin Hern,HRL,Hormel Foods Corporation Common,SELL,1001,15000,2026-08-13,2026-09-01,19,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035326.pdf
+2026-09-02T14:20:35+00:00,House,Kevin Hern,ICLR,ICON plc - Ordinary Shares,SELL (partial),15001,50000,2026-08-14,2026-09-01,18,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035326.pdf
+2026-09-02T14:20:35+00:00,House,Kevin Hern,KMB,Kimberly-Clark Corporation,SELL,1001,15000,2026-08-18,2026-09-01,14,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035326.pdf
+2026-09-02T14:20:35+00:00,House,Kevin Hern,LOW,"Lowe's Companies, Inc. Common",SELL,1001,15000,2026-08-24,2026-09-01,8,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035326.pdf
+2026-09-02T14:20:35+00:00,House,Kevin Hern,MRSH,Marsh Common Stock,SELL,1001,15000,2026-08-24,2026-09-01,8,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035326.pdf
+2026-09-02T14:20:35+00:00,House,Kevin Hern,MDT,Medtronic plc. Ordinary Shares,SELL,15001,50000,2026-08-24,2026-09-01,8,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035326.pdf
+2026-09-02T14:20:35+00:00,House,Kevin Hern,MSFT,Microsoft Corporation - Common,SELL (partial),15001,50000,2026-08-21,2026-09-01,11,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035326.pdf
+2026-09-02T14:20:35+00:00,House,Kevin Hern,NKE,"Nike, Inc. Common Stock",SELL (partial),1001,15000,2026-08-13,2026-09-01,19,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035326.pdf
+2026-09-02T14:20:35+00:00,House,Kevin Hern,OTIS,Otis Worldwide Corporation,SELL,1001,15000,2026-08-10,2026-09-01,22,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035326.pdf
+2026-09-02T14:20:35+00:00,House,Kevin Hern,PG,Procter & Gamble Company,SELL,1001,15000,2026-08-05,2026-09-01,27,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035326.pdf
+2026-09-02T14:20:35+00:00,House,Kevin Hern,PG,Procter & Gamble Company,SELL,50001,100000,2026-08-24,2026-09-01,8,MEDIUM,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035326.pdf
+2026-09-02T14:20:35+00:00,House,Kevin Hern,SOLS,Solstice Advanced Materials Inc,SELL,1001,15000,2026-08-05,2026-09-01,27,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035326.pdf
+2026-09-02T14:20:35+00:00,House,Kevin Hern,VLTO,Veralto Corp Common Stock,SELL,1001,15000,2026-08-10,2026-09-01,22,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035326.pdf
+2026-09-02T14:20:35+00:00,House,Kevin Hern,VLTO,Veralto Corp Common Stock,SELL,1001,15000,2026-08-21,2026-09-01,11,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035326.pdf
+2026-09-02T14:20:35+00:00,House,Kevin Hern,VLTO,Veralto Corp Common Stock,SELL (partial),1001,15000,2026-08-14,2026-09-01,18,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035326.pdf
+2026-09-02T14:20:35+00:00,House,Kevin Hern,DIS,Walt Disney Company,SELL,15001,50000,2026-08-10,2026-09-01,22,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035326.pdf
+2026-09-02T14:20:35+00:00,House,Kevin Hern,WAT,Waters Corporation Common Stock,SELL,1001,15000,2026-08-13,2026-09-01,19,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035326.pdf
