@@ -782,3 +782,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-02T18:27:09+00:00,FORM_144,,BBB FOODS INC,proposed sale $383K,383200,,https://www.sec.gov/Archives/edgar/data/2120515/000162828026060032/0001628280-26-060032-index.htm,LOW
 2026-09-02T18:27:09+00:00,FORM_144,,"Qorvo, Inc.",proposed sale $250K,250000,,https://www.sec.gov/Archives/edgar/data/1604778/000195917326006641/0001959173-26-006641-index.htm,LOW
 2026-09-02T18:27:10+00:00,FORM_144,,VIVMARK RESIDENTIAL,proposed sale $600K,599535,,https://www.sec.gov/Archives/edgar/data/2081307/000195917326006640/0001959173-26-006640-index.htm,LOW
+2026-09-02T18:39:54+00:00,INSIDER_CLUSTER,UAMY,UNITED STATES ANTIMONY CORP,Bardswich Lloyd $93K,92700,1,https://www.sec.gov/Archives/edgar/data/1399729/000110465926104644/0001104659-26-104644-index.htm,HIGH
