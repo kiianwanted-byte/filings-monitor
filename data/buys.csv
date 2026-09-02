@@ -165,3 +165,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-02T20:36:00+00:00,2026-08-31,AAT,"American Assets Trust, Inc.",RADY ERNEST S,"Director, Executive Chairman, 10% owner",166636,22.45,3740910,7.4,0001221359-26-000055
 2026-09-02T20:47:35+00:00,2026-09-02,GPUS,"Hyperscale Data, Inc.",Horne William B.,"Director, Chief Executive Officer",100000,0.20,19990,250.0,0001214659-26-011360
 2026-09-02T20:47:50+00:00,2026-08-31,LDI,"loanDepot, Inc.",Hsieh Anthony Li,"Director, Executive Chair, CEO & Pres., 10% owner",205573,0.94,192578,25.9,0001831631-26-000105
+2026-09-02T20:55:13+00:00,2026-08-31,CAVA,"CAVA GROUP, INC.",Thompson Douglas W.,Chief Operations Officer,6500,66.52,432380,50.5,0001628280-26-060167

@@ -899,3 +899,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-02T20:48:02+00:00,FORM_144,,OLD SECOND BANCORP INC,proposed sale $615K,615360,,https://www.sec.gov/Archives/edgar/data/2074132/000194984626000561/0001949846-26-000561-index.htm,LOW
 2026-09-02T20:48:03+00:00,FORM_144,,"Teladoc Health, Inc.",proposed sale $48K,47719,,https://www.sec.gov/Archives/edgar/data/1477449/000195917326006657/0001959173-26-006657-index.htm,LOW
 2026-09-02T20:48:03+00:00,FORM_144,,TAKE TWO INTERACTIVE SOFTWARE INC,proposed sale $200K,199583,,https://www.sec.gov/Archives/edgar/data/1623654/000195917326006656/0001959173-26-006656-index.htm,LOW
+2026-09-02T20:55:13+00:00,INSIDER_BUY,CAVA,"CAVA GROUP, INC.",Thompson Douglas W. $432K,432380,2,https://www.sec.gov/Archives/edgar/data/1750614/000162828026060167/0001628280-26-060167-index.htm,MEDIUM
