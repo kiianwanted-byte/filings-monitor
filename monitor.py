@@ -1318,6 +1318,14 @@ def main():
 
     if len(sys.argv) > 1 and sys.argv[1] == "feeds":
         print("=== EDGAR FEED PROBE ===")
+        # getcurrent only shows filings EDGAR has received recently. It
+        # accepts filings roughly 06:00-22:00 ET, so a probe run overnight
+        # will look empty for low volume forms even when nothing is wrong.
+        et_hour = (datetime.now(timezone.utc).hour - 4) % 24
+        window = "OPEN" if 6 <= et_hour < 22 else "CLOSED (expect thin results)"
+        print(f"  approx US Eastern time: {et_hour:02d}:xx   "
+              f"EDGAR filing window: {window}")
+        print()
         health = load_json(HEALTH_FILE, {})
         def probe(url):
             text = fetch(url)
