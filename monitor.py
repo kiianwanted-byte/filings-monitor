@@ -107,6 +107,18 @@ EIGHTK_LOW = {"1.01", "1.02", "5.02"}
 # are a buy or a sell. Add them back to this list to re-enable.
 FORMS = ["4", "144", "SC 13D", "SC 13G"]
 
+# EDGAR's getcurrent does prefix matching on `type`, but it chokes on the
+# letter after the number: "SC 13D" returns nothing while "SC 13" returns
+# both 13D and 13G. So we query the prefix and sort the results out using
+# the form name that appears in each entry's title.
+#
+#   query string  ->  which watched forms it can produce
+FEED_QUERIES = [
+    ("4", ["4"]),
+    ("144", ["144"]),
+    ("SC+13", ["SC 13D", "SC 13G"]),
+]
+
 # A filing with no ticker is not actionable, so it is logged but never pushed.
 REQUIRE_TICKER = True
 FEED_COUNT = 100
@@ -463,48 +475,53 @@ def discover(seen):
     health = load_json(HEALTH_FILE, {})
     added = 0
 
-    for form in FORMS:
-        text = fetch(feed_url(form))
-        entries = []
-        if text:
-            try:
-                entries = find_all(ET.fromstring(text), "entry")
-            except ET.ParseError as e:
-                log(f"  feed unparseable: {form} :: {e}")
-        else:
-            log(f"  feed unreachable: {form}")
-
-        # getcurrent does not serve every form type. When it comes back
-        # empty, fall back to the daily index rather than going quiet.
-        if not entries:
-            rows = daily_index_entries(form)
-            log(f"  {form}: getcurrent empty, daily index gave {len(rows)}")
-            if rows:
-                health[form] = datetime.now(timezone.utc).isoformat(timespec="seconds")
-            for r in rows:
-                key = f"{form}|{r['accession']}"
-                if key in seen or key in known:
-                    continue
-                queue.append({
-                    "key": key, "form": form, "accession": r["accession"],
-                    "company": r["company"], "cik": r["cik"],
-                    "link": r["link"], "filed": r["filed"],
-                })
-                known.add(key)
-                added += 1
+    for query, produces in FEED_QUERIES:
+        url = ("https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent"
+               f"&type={query}&company=&dateb=&owner=include"
+               f"&count={FEED_COUNT}&output=atom")
+        text = fetch(url)
+        if not text:
+            log(f"  feed unreachable: {query}")
             continue
 
-        health[form] = datetime.now(timezone.utc).isoformat(timespec="seconds")
+        try:
+            entries = find_all(ET.fromstring(text), "entry")
+        except ET.ParseError as e:
+            log(f"  feed unparseable: {query} :: {e}")
+            continue
+
+        if not entries:
+            log(f"  feed empty: {query}")
+            continue
+
+        # The query returned data, so every form it can produce is healthy,
+        # even if none of that specific type was filed today.
+        stamp = datetime.now(timezone.utc).isoformat(timespec="seconds")
+        for f in produces:
+            health[f] = stamp
 
         for entry in entries:
             link_el = find_one(entry, "link")
             link = link_el.get("href", "") if link_el is not None else ""
             if not link:
                 continue
-            m = re.search(r"(\d{10}-\d{2}-\d{6})", link)
-            if not m:
+            am = re.search(r"(\d{10}-\d{2}-\d{6})", link)
+            if not am:
                 continue
-            accession = m.group(1)
+            accession = am.group(1)
+
+            title_el = find_one(entry, "title")
+            title = (title_el.text or "") if title_el is not None else ""
+
+            # Title looks like: "SC 13G - GoPro, Inc. (0001500435) (Subject)"
+            actual = title.split(" - ", 1)[0].strip() if " - " in title else ""
+
+            # Map to whichever watched form this actually is. Amendments
+            # ("SC 13G/A") map to their base form and get labelled later.
+            form = next((f for f in produces if actual.startswith(f)), None)
+            if form is None:
+                continue
+
             key = f"{form}|{accession}"
             if key in seen or key in known:
                 continue
@@ -513,8 +530,6 @@ def discover(seen):
             filed = (upd.text or "")[:10] if upd is not None else \
                 datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
-            title_el = find_one(entry, "title")
-            title = (title_el.text or "") if title_el is not None else ""
             rest = title.split(" - ", 1)[1] if " - " in title else title
             cm = re.match(r"^(.*?)\s*\((\d{10})\)", rest)
             company = cm.group(1).strip() if cm else rest.strip()
@@ -522,7 +537,8 @@ def discover(seen):
 
             queue.append({
                 "key": key, "form": form, "accession": accession,
-                "company": company, "cik": cik, "link": link, "filed": filed,
+                "company": company, "cik": cik, "link": link,
+                "filed": filed, "actual_form": actual,
             })
             known.add(key)
             added += 1
@@ -938,13 +954,18 @@ def handle_stake(item):
         return False
 
     activist = item["form"] == "SC 13D"
+    amended = "/A" in str(item.get("actual_form", ""))
     priority = "HIGH" if (activist or stake >= 8) else "MEDIUM"
+    if amended:
+        priority = "MEDIUM"      # updates to an existing stake are routine
 
     rows = [
         ("PRIORITY", priority),
         ("COMPANY", item["company"]),
         ("FILER", who or "see filing"),
-        ("FORM", item["form"] + ("  (activist)" if activist else "  (passive)")),
+        ("FORM", (item.get("actual_form") or item["form"])
+                 + ("  (activist)" if activist else "  (passive)")
+                 + ("  [AMENDMENT]" if amended else "")),
         ("STAKE", f"{stake:.1f}% of class" if stake else "see filing"),
         ("FILED", dmy(item["filed"])),
     ]
@@ -1307,8 +1328,12 @@ def main():
             except ET.ParseError:
                 return None
 
-        for form in FORMS:
-            entries = probe(feed_url(form, 20))
+        for query, produces in FEED_QUERIES:
+            entries = probe("https://www.sec.gov/cgi-bin/browse-edgar"
+                            f"?action=getcurrent&type={query}"
+                            "&company=&dateb=&owner=include&count=40"
+                            "&output=atom")
+            form = query
             last = health.get(form, "never")
             if entries is None:
                 print(f"  {form:8} FETCH FAILED")
