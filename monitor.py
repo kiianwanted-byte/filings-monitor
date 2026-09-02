@@ -409,6 +409,54 @@ def feed_url(form, count=None):
             f"&count={count or FEED_COUNT}&output=atom")
 
 
+def daily_index_entries(form, days_back=2):
+    """
+    Fallback discovery via EDGAR's daily index.
+
+    getcurrent does not serve every form type, but the daily index lists
+    every filing EDGAR received, one line per filing, fixed width:
+
+        SC 13G   GoPro, Inc.   1500435   2026-08-20   edgar/data/...
+
+    Slower to appear than the live feed, but complete and reliable.
+    """
+    out = []
+    today = datetime.now(timezone.utc).date()
+    for back in range(days_back + 1):
+        day = today - timedelta(days=back)
+        if day.weekday() >= 5:
+            continue
+        qtr = (day.month - 1) // 3 + 1
+        url = (f"https://www.sec.gov/Archives/edgar/daily-index/{day.year}"
+               f"/QTR{qtr}/form.{day.strftime('%Y%m%d')}.idx")
+        text = fetch(url)
+        if not text:
+            continue
+
+        for line in text.splitlines():
+            if not line.startswith(form):
+                continue
+            # Split on runs of 2+ spaces to survive the fixed-width layout.
+            parts = re.split(r"\s{2,}", line.strip())
+            if len(parts) < 5:
+                continue
+            ftype, company, cik, filed, path = parts[0], parts[1], parts[2], parts[3], parts[-1]
+            if ftype.strip() != form:
+                continue
+            am = re.search(r"(\d{10}-\d{2}-\d{6})", path)
+            if not am:
+                continue
+            accession = am.group(1)
+            cik_clean = re.sub(r"\D", "", cik)
+            link = (f"https://www.sec.gov/Archives/edgar/data/{cik_clean}/"
+                    f"{accession.replace('-', '')}/{accession}-index.htm")
+            out.append({
+                "accession": accession, "company": company.strip(),
+                "cik": cik_clean, "link": link, "filed": filed.strip(),
+            })
+    return out
+
+
 def discover(seen):
     queue = load_json(QUEUE_FILE, [])
     known = {item["key"] for item in queue}
@@ -417,19 +465,36 @@ def discover(seen):
 
     for form in FORMS:
         text = fetch(feed_url(form))
-        if not text:
+        entries = []
+        if text:
+            try:
+                entries = find_all(ET.fromstring(text), "entry")
+            except ET.ParseError as e:
+                log(f"  feed unparseable: {form} :: {e}")
+        else:
             log(f"  feed unreachable: {form}")
+
+        # getcurrent does not serve every form type. When it comes back
+        # empty, fall back to the daily index rather than going quiet.
+        if not entries:
+            rows = daily_index_entries(form)
+            log(f"  {form}: getcurrent empty, daily index gave {len(rows)}")
+            if rows:
+                health[form] = datetime.now(timezone.utc).isoformat(timespec="seconds")
+            for r in rows:
+                key = f"{form}|{r['accession']}"
+                if key in seen or key in known:
+                    continue
+                queue.append({
+                    "key": key, "form": form, "accession": r["accession"],
+                    "company": r["company"], "cik": r["cik"],
+                    "link": r["link"], "filed": r["filed"],
+                })
+                known.add(key)
+                added += 1
             continue
 
-        try:
-            root = ET.fromstring(text)
-        except ET.ParseError as e:
-            log(f"  feed unparseable: {form} :: {e}")
-            continue
-
-        entries = find_all(root, "entry")
-        if entries:
-            health[form] = datetime.now(timezone.utc).isoformat(timespec="seconds")
+        health[form] = datetime.now(timezone.utc).isoformat(timespec="seconds")
 
         for entry in entries:
             link_el = find_one(entry, "link")
@@ -1253,16 +1318,22 @@ def main():
                 t = find_one(e, "title")
                 print(f"           {(t.text or '')[:72]}")
 
-            # For form names with a space, show what the old encoding gave,
-            # so a regression here is obvious rather than silent.
-            if " " in form:
-                old = probe("https://www.sec.gov/cgi-bin/browse-edgar"
-                            "?action=getcurrent"
-                            f"&type={requests.utils.quote(form)}"
-                            "&company=&dateb=&owner=include&count=20"
-                            "&output=atom")
-                print(f"           (%20 encoding would return "
-                      f"{len(old) if old is not None else 'error'})")
+            if len(entries) == 0:
+                print(f"           trying variants for {form}:")
+                variants = [form.replace(" ", "+"), requests.utils.quote(form),
+                            form.replace(" ", ""), form.split()[-1],
+                            form.replace(" ", "+")[:5]]
+                for v in dict.fromkeys(variants):
+                    got = probe("https://www.sec.gov/cgi-bin/browse-edgar"
+                                f"?action=getcurrent&type={v}"
+                                "&company=&dateb=&owner=include&count=20"
+                                "&output=atom")
+                    print(f"             type={v!r:12} -> "
+                          f"{len(got) if got is not None else 'error'}")
+                rows = daily_index_entries(form)
+                print(f"             daily index    -> {len(rows)}")
+                for r in rows[:2]:
+                    print(f"               {r['filed']}  {r['company'][:44]}")
         print("=== END ===")
         return
 
