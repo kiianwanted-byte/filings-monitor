@@ -801,3 +801,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-02T19:40:26+00:00,FORM_144,,"Teladoc Health, Inc.",proposed sale $115K,115483,,https://www.sec.gov/Archives/edgar/data/1477449/000195917326006651/0001959173-26-006651-index.htm,LOW
 2026-09-02T19:40:26+00:00,FORM_144,,"Sprout Social, Inc.",proposed sale $8K,8210,,https://www.sec.gov/Archives/edgar/data/1791946/000195917326006650/0001959173-26-006650-index.htm,LOW
 2026-09-02T19:40:27+00:00,FORM_144,,Autolus Therapeutics plc,proposed sale $16K,15678,,https://www.sec.gov/Archives/edgar/data/1907199/000195917326006649/0001959173-26-006649-index.htm,LOW
+2026-09-02T19:48:26+00:00,FORM_144,,"Butterfly Network, Inc.",proposed sale $14K,13927,,https://www.sec.gov/Archives/edgar/data/2080056/000195917326006654/0001959173-26-006654-index.htm,LOW
+2026-09-02T19:48:26+00:00,FORM_144,,"Tarsus Pharmaceuticals, Inc.",proposed sale $654K,654373,,https://www.sec.gov/Archives/edgar/data/1819790/000195917326006653/0001959173-26-006653-index.htm,LOW
