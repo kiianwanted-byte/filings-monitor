@@ -161,3 +161,5 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-02T20:23:59+00:00,2026-09-02,RNAQ,Rainier Acquisition Corp,GROSSMAN JONAS,"Director, 10% owner",5625,10.00,56250,2.9,0001104659-26-104746
 2026-09-02T20:24:00+00:00,2026-09-01,OPAL,OPAL Fuels Inc.,Comora Adam,Co-Chief Executive Officer,50000,1.93,96500,11.4,0001628280-26-060113
 2026-09-02T20:24:08+00:00,2026-08-31,OPAL,OPAL Fuels Inc.,Nisar Nadeem,Director,20000,1.95,38900,8.1,0001628280-26-060107
+2026-09-02T20:35:52+00:00,2026-08-28,BGDE,"Big Digital Energy, Inc.","Endeavor Blockchain, LLC",10% owner,50135,6.57,329216,3.1,0000912282-26-001201
+2026-09-02T20:36:00+00:00,2026-08-31,AAT,"American Assets Trust, Inc.",RADY ERNEST S,"Director, Executive Chairman, 10% owner",166636,22.45,3740910,7.4,0001221359-26-000055

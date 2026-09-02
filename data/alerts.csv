@@ -855,3 +855,41 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-02T20:24:40+00:00,FORM_144,,CATHAY GENERAL BANCORP,proposed sale $62K,62315,,https://www.sec.gov/Archives/edgar/data/1706290/000192109426000982/0001921094-26-000982-index.htm,LOW
 2026-09-02T20:24:40+00:00,FORM_144,,LUMENTUM HOLDINGS INC.,proposed sale $432K,432245,,https://www.sec.gov/Archives/edgar/data/1633978/000195004726008979/0001950047-26-008979-index.htm,LOW
 2026-09-02T20:24:40+00:00,FORM_144,,"BARK, INC.",proposed sale $53K,53373,,https://www.sec.gov/Archives/edgar/data/1819574/000195004726008977/0001950047-26-008977-index.htm,LOW
+2026-09-02T20:36:07+00:00,FORM_144,,TELOS CORPORATION,proposed sale $295K,294886,,https://www.sec.gov/Archives/edgar/data/1909327/000195004726009029/0001950047-26-009029-index.htm,LOW
+2026-09-02T20:36:07+00:00,FORM_144,,"Datadog, Inc.",proposed sale $4.96M,4963905,,https://www.sec.gov/Archives/edgar/data/1783984/000156155026000280/0001561550-26-000280-index.htm,LOW
+2026-09-02T20:36:07+00:00,FORM_144,,"Datadog, Inc.",proposed sale $3.15M,3149000,,https://www.sec.gov/Archives/edgar/data/1861590/000156155026000279/0001561550-26-000279-index.htm,LOW
+2026-09-02T20:36:08+00:00,FORM_144,,"Datadog, Inc.",proposed sale $1.09M,1087110,,https://www.sec.gov/Archives/edgar/data/1757760/000156155026000278/0001561550-26-000278-index.htm,LOW
+2026-09-02T20:36:08+00:00,FORM_144,,"Datadog, Inc.",proposed sale $3.77M,3767050,,https://www.sec.gov/Archives/edgar/data/1561550/000156155026000277/0001561550-26-000277-index.htm,LOW
+2026-09-02T20:36:08+00:00,FORM_144,,PEOPLES BANCORP OF NORTH CAROLINA INC,proposed sale $303K,303083,,https://www.sec.gov/Archives/edgar/data/1183129/000118312926000005/0001183129-26-000005-index.htm,LOW
+2026-09-02T20:36:09+00:00,FORM_144,,"Datadog, Inc.",proposed sale $1.67M,1674610,,https://www.sec.gov/Archives/edgar/data/1903975/000156155026000276/0001561550-26-000276-index.htm,LOW
+2026-09-02T20:36:09+00:00,FORM_144,,"Datadog, Inc.",proposed sale $6.00M,6003075,,https://www.sec.gov/Archives/edgar/data/1783990/000156155026000275/0001561550-26-000275-index.htm,LOW
+2026-09-02T20:36:09+00:00,FORM_144,,"Datadog, Inc.",proposed sale $3.09M,3094715,,https://www.sec.gov/Archives/edgar/data/1903980/000156155026000274/0001561550-26-000274-index.htm,LOW
+2026-09-02T20:36:10+00:00,FORM_144,,"Datadog, Inc.",proposed sale $2.56M,2555155,,https://www.sec.gov/Archives/edgar/data/1783061/000156155026000273/0001561550-26-000273-index.htm,LOW
+2026-09-02T20:36:10+00:00,FORM_144,,VERA THERAPEUTICS INC,proposed sale $2.22M,2216392,,https://www.sec.gov/Archives/edgar/data/1859453/000195004726009028/0001950047-26-009028-index.htm,LOW
+2026-09-02T20:36:10+00:00,FORM_144,,INDIE SEMICONDUCTOR INC,proposed sale $144K,144218,,https://www.sec.gov/Archives/edgar/data/2009989/000195004726009027/0001950047-26-009027-index.htm,LOW
+2026-09-02T20:36:11+00:00,FORM_144,,"Qorvo, Inc.",proposed sale $2.90M,2899454,,https://www.sec.gov/Archives/edgar/data/1604778/000195917326006671/0001959173-26-006671-index.htm,LOW
+2026-09-02T20:36:11+00:00,FORM_144,,"Okta, Inc.",proposed sale $13.31M,13314400,,https://www.sec.gov/Archives/edgar/data/1865084/000195004726009026/0001950047-26-009026-index.htm,LOW
+2026-09-02T20:36:11+00:00,FORM_144,,"Axogen, Inc.",proposed sale $175K,174580,,https://www.sec.gov/Archives/edgar/data/1955281/000195004726009025/0001950047-26-009025-index.htm,LOW
+2026-09-02T20:36:12+00:00,FORM_144,,"KYMERA THERAPEUTICS, INC.",proposed sale $1.30M,1295144,,https://www.sec.gov/Archives/edgar/data/1815442/000195004726009024/0001950047-26-009024-index.htm,LOW
+2026-09-02T20:36:12+00:00,FORM_144,,"LIFETIME BRANDS, INC.",proposed sale $2K,1833,,https://www.sec.gov/Archives/edgar/data/923401/000195004726009023/0001950047-26-009023-index.htm,LOW
+2026-09-02T20:36:13+00:00,FORM_144,,INDIE SEMICONDUCTOR INC,proposed sale $11K,11093,,https://www.sec.gov/Archives/edgar/data/2095553/000195004726009022/0001950047-26-009022-index.htm,LOW
+2026-09-02T20:36:13+00:00,FORM_144,,GRAB HOLDINGS LIMITED,proposed sale $503K,502907,,https://www.sec.gov/Archives/edgar/data/2026373/000195004726009021/0001950047-26-009021-index.htm,LOW
+2026-09-02T20:36:13+00:00,FORM_144,,"Tarsus Pharmaceuticals, Inc.",proposed sale $127K,127200,,https://www.sec.gov/Archives/edgar/data/1842190/000195917326006670/0001959173-26-006670-index.htm,LOW
+2026-09-02T20:36:14+00:00,FORM_144,,Mastercard Incorporated,proposed sale $1.90M,1897872,,https://www.sec.gov/Archives/edgar/data/1427531/000195004726009020/0001950047-26-009020-index.htm,LOW
+2026-09-02T20:36:14+00:00,FORM_144,,NEXTDOOR HOLDINGS INC,proposed sale $78K,78278,,https://www.sec.gov/Archives/edgar/data/2083093/000195004726009019/0001950047-26-009019-index.htm,LOW
+2026-09-02T20:36:14+00:00,FORM_144,,"MATCH GROUP, INC.",proposed sale $150K,149811,,https://www.sec.gov/Archives/edgar/data/1159555/000195004726009018/0001950047-26-009018-index.htm,LOW
+2026-09-02T20:36:15+00:00,FORM_144,,Denali Therapeutics Inc.,proposed sale $266K,266128,,https://www.sec.gov/Archives/edgar/data/1797826/000195004726009017/0001950047-26-009017-index.htm,LOW
+2026-09-02T20:36:15+00:00,FORM_144,,"NWPX Infrastructure, Inc.",proposed sale $8K,8159,,https://www.sec.gov/Archives/edgar/data/1401658/000195917326006669/0001959173-26-006669-index.htm,LOW
+2026-09-02T20:36:15+00:00,FORM_144,,"NURIX THERAPEUTICS, INC.",proposed sale $151K,150693,,https://www.sec.gov/Archives/edgar/data/1817199/000195004726009016/0001950047-26-009016-index.htm,LOW
+2026-09-02T20:36:16+00:00,FORM_144,,"EQUINIX, INC.",proposed sale $209K,208600,,https://www.sec.gov/Archives/edgar/data/2056547/000195004726009015/0001950047-26-009015-index.htm,LOW
+2026-09-02T20:36:16+00:00,FORM_144,,ZoomInfo Technologies Inc.,proposed sale $140,140,,https://www.sec.gov/Archives/edgar/data/2057389/000195004726009014/0001950047-26-009014-index.htm,LOW
+2026-09-02T20:36:17+00:00,FORM_144,,ZoomInfo Technologies Inc.,proposed sale $387,387,,https://www.sec.gov/Archives/edgar/data/2057761/000195004726009013/0001950047-26-009013-index.htm,LOW
+2026-09-02T20:36:17+00:00,FORM_144,,Waystar Holding Corp.,proposed sale $2.13M,2125200,,https://www.sec.gov/Archives/edgar/data/1998256/000195004726009012/0001950047-26-009012-index.htm,LOW
+2026-09-02T20:36:17+00:00,FORM_144,,"FASTLY, INC.",proposed sale $196K,196442,,https://www.sec.gov/Archives/edgar/data/2074428/000195004726009011/0001950047-26-009011-index.htm,LOW
+2026-09-02T20:36:18+00:00,FORM_144,,"Affirm Holdings, Inc.",proposed sale $412K,411666,,https://www.sec.gov/Archives/edgar/data/1820953/000195004726009010/0001950047-26-009010-index.htm,LOW
+2026-09-02T20:36:18+00:00,FORM_144,,RINGCENTRAL INC,proposed sale $499K,498645,,https://www.sec.gov/Archives/edgar/data/1772661/000195004726009009/0001950047-26-009009-index.htm,LOW
+2026-09-02T20:36:18+00:00,FORM_144,,BILL HOLDINGS INC,proposed sale $1.67M,1666700,,https://www.sec.gov/Archives/edgar/data/1795497/000195004726009008/0001950047-26-009008-index.htm,LOW
+2026-09-02T20:36:19+00:00,FORM_144,,"Fold Holdings, Inc.",proposed sale $3K,2640,,https://www.sec.gov/Archives/edgar/data/2057455/000195917326006668/0001959173-26-006668-index.htm,LOW
+2026-09-02T20:36:19+00:00,FORM_144,,StoneCo Ltd.,proposed sale $208K,208126,,https://www.sec.gov/Archives/edgar/data/2063736/000206373626000005/0002063736-26-000005-index.htm,LOW
+2026-09-02T20:36:19+00:00,FORM_144,,WORLD KINECT CORP,proposed sale $354K,353962,,https://www.sec.gov/Archives/edgar/data/1242793/000196430626000423/0001964306-26-000423-index.htm,LOW
+2026-09-02T20:36:20+00:00,FORM_144,,LivaNova PLC,proposed sale $883K,882888,,https://www.sec.gov/Archives/edgar/data/2031281/000196430626000422/0001964306-26-000422-index.htm,LOW
