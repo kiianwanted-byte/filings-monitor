@@ -744,3 +744,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-02T15:17:24+00:00,FORM_144,,AUTOMATIC DATA PROCESSING INC,proposed sale $1.84M,1842896,,https://www.sec.gov/Archives/edgar/data/1805266/000195917326006620/0001959173-26-006620-index.htm,LOW
 2026-09-02T15:17:25+00:00,FORM_144,,"Toast, Inc.",proposed sale $468K,468241,,https://www.sec.gov/Archives/edgar/data/2004790/000195917326006619/0001959173-26-006619-index.htm,LOW
 2026-09-02T15:17:25+00:00,FORM_144,,"MARSH & MCLENNAN COMPANIES, INC.",proposed sale $3.14M,3139822,,https://www.sec.gov/Archives/edgar/data/1580963/000195917326006618/0001959173-26-006618-index.htm,LOW
+2026-09-02T15:35:32+00:00,INSIDER_BUY,PBLSX,"AMG Pantheon Infrastructure Fund, LLC","BlueArc Capital Management, LLC $25.00M",24999999,313,https://www.sec.gov/Archives/edgar/data/2098163/000110465926104578/0001104659-26-104578-index.htm,MEDIUM
+2026-09-02T15:35:36+00:00,FORM_144,,AUTOMATIC DATA PROCESSING INC,proposed sale $433K,432707,,https://www.sec.gov/Archives/edgar/data/2046853/000195917326006623/0001959173-26-006623-index.htm,LOW
+2026-09-02T15:35:36+00:00,FORM_144,,NORDSON CORP,proposed sale $49K,49408,,https://www.sec.gov/Archives/edgar/data/1454309/000100027526000102/0001000275-26-000102-index.htm,LOW
+2026-09-02T15:35:37+00:00,FORM_144,,JOHNSON & JOHNSON,proposed sale $9.23M,9230439,,https://www.sec.gov/Archives/edgar/data/1998491/000195917326006622/0001959173-26-006622-index.htm,LOW
+2026-09-02T15:35:37+00:00,FORM_144,,"Heartflow, Inc.",proposed sale $297K,297325,,https://www.sec.gov/Archives/edgar/data/2079946/000195917326006621/0001959173-26-006621-index.htm,LOW
