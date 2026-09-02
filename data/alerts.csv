@@ -769,3 +769,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-02T16:53:52+00:00,FORM_144,,"ASP Isotopes, Inc.",proposed sale $194K,194390,,https://www.sec.gov/Archives/edgar/data/2079961/000197449426000269/0001974494-26-000269-index.htm,LOW
 2026-09-02T17:18:25+00:00,FORM_144,,Ascendis Pharma A/S,proposed sale $62K,62334,,https://www.sec.gov/Archives/edgar/data/1965626/000197337926000330/0001973379-26-000330-index.htm,LOW
 2026-09-02T17:18:25+00:00,FORM_144,,"HORNBECK OFFSHORE SERVICES, INC.",proposed sale $1.27M,1273813,,https://www.sec.gov/Archives/edgar/data/1648839/000195917326006634/0001959173-26-006634-index.htm,LOW
+2026-09-02T17:47:40+00:00,FORM_144,,AVISTA CORP,proposed sale $144K,143626,,https://www.sec.gov/Archives/edgar/data/1943093/000197337926000331/0001973379-26-000331-index.htm,LOW
+2026-09-02T17:47:41+00:00,FORM_144,,"HORNBECK OFFSHORE SERVICES, INC.",proposed sale $2.71M,2714012,,https://www.sec.gov/Archives/edgar/data/1775345/000195917326006636/0001959173-26-006636-index.htm,LOW
+2026-09-02T17:47:41+00:00,FORM_144,,"WEYCO GROUP, INC.",proposed sale $133K,132720,,https://www.sec.gov/Archives/edgar/data/1389308/000138930826000007/0001389308-26-000007-index.htm,LOW
+2026-09-02T17:47:41+00:00,FORM_144,,CREDIT ACCEPTANCE CORP,proposed sale $1.51M,1510000,,https://www.sec.gov/Archives/edgar/data/1300069/000195917326006635/0001959173-26-006635-index.htm,LOW
+2026-09-02T17:47:42+00:00,FORM_144,,TIDEWATER INC,proposed sale $1.49M,1486175,,https://www.sec.gov/Archives/edgar/data/1797578/000194984626000559/0001949846-26-000559-index.htm,LOW
