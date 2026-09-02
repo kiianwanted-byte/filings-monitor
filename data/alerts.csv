@@ -722,3 +722,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-02T00:06:33+00:00,FORM_144,,"Alector, Inc.",proposed sale $77K,77047,,https://www.sec.gov/Archives/edgar/data/2075298/000119312526379020/0001193125-26-379020-index.htm,LOW
 2026-09-02T00:06:33+00:00,FORM_144,,"Alector, Inc.",proposed sale $14K,13588,,https://www.sec.gov/Archives/edgar/data/2074667/000119312526379023/0001193125-26-379023-index.htm,LOW
 2026-09-02T00:06:33+00:00,FORM_144,,"Alector, Inc.",proposed sale $191K,191284,,https://www.sec.gov/Archives/edgar/data/1757770/000119312526379022/0001193125-26-379022-index.htm,LOW
+2026-09-02T01:50:28+00:00,INSIDER_CLUSTER,QNRX,"Quoin Pharmaceuticals, Ltd.",Myers Michael $100K,99991,1,https://www.sec.gov/Archives/edgar/data/1959547/000110465926104404/0001104659-26-104404-index.htm,HIGH
+2026-09-02T01:50:30+00:00,INSIDER_CLUSTER,QNRX,"Quoin Pharmaceuticals, Ltd.",Lawlor Sally Bridget $50K,49990,1,https://www.sec.gov/Archives/edgar/data/2084407/000110465926104403/0001104659-26-104403-index.htm,HIGH
+2026-09-02T01:50:31+00:00,INSIDER_CLUSTER,QNRX,"Quoin Pharmaceuticals, Ltd.",Culverwell Anthony James $30K,29992,1,https://www.sec.gov/Archives/edgar/data/1693548/000110465926104402/0001104659-26-104402-index.htm,HIGH
+2026-09-02T01:50:32+00:00,FORM_144,,LESAKA TECHNOLOGIES INC,proposed sale $3.91M,3909570,,https://www.sec.gov/Archives/edgar/data/1490628/000094787126000856/0000947871-26-000856-index.htm,LOW

@@ -124,3 +124,8 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-01T22:33:24+00:00,2026-08-28,LILA,Liberty Latin America Ltd.,MALONE JOHN C,10% owner,121286,8.49,1029705,65.5,0000937797-26-000027
 2026-09-01T22:51:36+00:00,2026-08-31,LIEN,"Chicago Atlantic BDC, Inc.",Gordon Scott,"Director, Co-Chief Investment Officer",134,10.22,1369,0.1,0001193125-26-378888
 2026-09-01T23:55:32+00:00,2026-08-28,AUGO,Aura Minerals Inc.,Sousa Mauad Bruno,Director,252000,86.48,21792751,152.4,0002117905-26-000026
+2026-09-02T01:50:27+00:00,2026-08-27,INLX,"INTELLINETICS, INC.",TAGLICH ROBERT,10% owner,1000,5.52,5522,0.2,0001493152-26-041129
+2026-09-02T01:50:27+00:00,2026-08-31,QNRX,"Quoin Pharmaceuticals, Ltd.",Carter Denise P.,"Director, Chief Operating Officer",20490,4.88,99991,119.0,0001104659-26-104405
+2026-09-02T01:50:28+00:00,2026-08-31,QNRX,"Quoin Pharmaceuticals, Ltd.",Myers Michael,"Director, Chief Executive Officer",20490,4.88,99991,119.0,0001104659-26-104404
+2026-09-02T01:50:30+00:00,2026-08-31,QNRX,"Quoin Pharmaceuticals, Ltd.",Lawlor Sally Bridget,Chief Financial Officer,10244,4.88,49990,2328.2,0001104659-26-104403
+2026-09-02T01:50:31+00:00,2026-08-31,QNRX,"Quoin Pharmaceuticals, Ltd.",Culverwell Anthony James,Director,6146,4.88,29992,18.0,0001104659-26-104402
