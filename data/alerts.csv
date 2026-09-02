@@ -783,3 +783,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-02T18:27:09+00:00,FORM_144,,"Qorvo, Inc.",proposed sale $250K,250000,,https://www.sec.gov/Archives/edgar/data/1604778/000195917326006641/0001959173-26-006641-index.htm,LOW
 2026-09-02T18:27:10+00:00,FORM_144,,VIVMARK RESIDENTIAL,proposed sale $600K,599535,,https://www.sec.gov/Archives/edgar/data/2081307/000195917326006640/0001959173-26-006640-index.htm,LOW
 2026-09-02T18:39:54+00:00,INSIDER_CLUSTER,UAMY,UNITED STATES ANTIMONY CORP,Bardswich Lloyd $93K,92700,1,https://www.sec.gov/Archives/edgar/data/1399729/000110465926104644/0001104659-26-104644-index.htm,HIGH
+2026-09-02T18:51:04+00:00,FORM_144,,ATI INC,proposed sale $501K,501002,,https://www.sec.gov/Archives/edgar/data/1635153/000195917326006643/0001959173-26-006643-index.htm,LOW
+2026-09-02T18:51:09+00:00,FORM_144,,TARSUS PHARMACEUTICALS INC,proposed sale $801K,800568,,https://www.sec.gov/Archives/edgar/data/1827672/000162828026060042/0001628280-26-060042-index.htm,LOW
