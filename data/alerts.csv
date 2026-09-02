@@ -756,3 +756,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-02T15:58:54+00:00,FORM_144,,LAM RESEARCH CORP,proposed sale $17.41M,17406370,,https://www.sec.gov/Archives/edgar/data/1707827/000195917326006628/0001959173-26-006628-index.htm,LOW
 2026-09-02T16:14:24+00:00,FORM_144,,PEAPACK GLADSTONE FINANCIAL CORP,proposed sale $56K,55825,,https://www.sec.gov/Archives/edgar/data/1778117/000195917326006629/0001959173-26-006629-index.htm,LOW
 2026-09-02T16:14:25+00:00,FORM_144,,BRIGHT HORIZONS FAMILY SOLUTIONS INC.,proposed sale $432K,431505,,https://www.sec.gov/Archives/edgar/data/1437578/000119329326000002/0001193293-26-000002-index.htm,LOW
+2026-09-02T16:29:02+00:00,INSIDER_CLUSTER,RGCO,RGC RESOURCES INC,Oliver Lawrence T. $200,199,1,https://www.sec.gov/Archives/edgar/data/1801438/000143774926029483/0001437749-26-029483-index.htm,HIGH
+2026-09-02T16:29:04+00:00,INSIDER_CLUSTER,RGCO,RGC RESOURCES INC,Miles Christen Brooke $100,99,1,https://www.sec.gov/Archives/edgar/data/1968153/000143774926029481/0001437749-26-029481-index.htm,HIGH
+2026-09-02T16:29:16+00:00,FORM_144,,"Newegg Commerce, Inc.",proposed sale $658K,658213,,https://www.sec.gov/Archives/edgar/data/2114022/000149315226041185/0001493152-26-041185-index.htm,LOW
+2026-09-02T16:29:17+00:00,FORM_144,,"Hims & Hers Health, Inc.",proposed sale $98K,97965,,https://www.sec.gov/Archives/edgar/data/1837817/000195917326006631/0001959173-26-006631-index.htm,LOW
+2026-09-02T16:29:17+00:00,FORM_144,,"Leonardo DRS, Inc.",proposed sale $766K,765950,,https://www.sec.gov/Archives/edgar/data/1849658/000195917326006630/0001959173-26-006630-index.htm,LOW
