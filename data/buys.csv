@@ -132,3 +132,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-02T12:23:37+00:00,2026-08-31,DGICA,DONEGAL GROUP INC,DONEGAL MUTUAL INSURANCE CO,10% owner,19257,19.17,369198,0.1,0000935596-26-000022
 2026-09-02T12:23:38+00:00,2026-05-28,NIVF,NewGenIvf Group Ltd,Cheung Kong Yiu,"Director, 10% owner",3722223,1.12,4163334,NEW,0001213900-26-096450
 2026-09-02T13:17:24+00:00,2026-09-01,EMPD,Empery Digital Inc.,"Empery Asset Management, LP",10% owner,500000,3.59,1793100,11.3,0001683168-26-006871
+2026-09-02T13:31:31+00:00,2026-09-01,PNFP,"Pinnacle Financial Partners, Inc.",Blair Kevin S.,"Director, Chief Executive Officer",2565,97.48,250036,1.7,0001680809-26-000007

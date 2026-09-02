@@ -734,3 +734,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-02T12:23:40+00:00,FORM_144,,Wix.com Ltd.,proposed sale $58K,57715,,https://www.sec.gov/Archives/edgar/data/1969583/000197640826000794/0001976408-26-000794-index.htm,LOW
 2026-09-02T12:23:40+00:00,FORM_144,,Fiverr International Ltd.,proposed sale $38K,37550,,https://www.sec.gov/Archives/edgar/data/2113552/000197640826000793/0001976408-26-000793-index.htm,LOW
 2026-09-02T12:39:43+00:00,FORM_144,,SLB LIMITED/NV,proposed sale $2.10M,2100000,,https://www.sec.gov/Archives/edgar/data/1497824/000195917326006616/0001959173-26-006616-index.htm,LOW
+2026-09-02T13:31:31+00:00,FORM_144,,"Fulcrum Therapeutics, Inc.",proposed sale $54K,54419,,https://www.sec.gov/Archives/edgar/data/1916566/000119312526379476/0001193125-26-379476-index.htm,LOW
