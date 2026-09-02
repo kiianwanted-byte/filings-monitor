@@ -741,3 +741,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-02T14:34:03+00:00,INSIDER_CLUSTER,WIX,Wix.com Ltd.,Shai Omer $29K,29346,2,https://www.sec.gov/Archives/edgar/data/1976036/000162828026059984/0001628280-26-059984-index.htm,HIGH
 2026-09-02T14:34:04+00:00,INSIDER_CLUSTER,WIX,Wix.com Ltd.,Shemesh Lior $27K,27309,2,https://www.sec.gov/Archives/edgar/data/1826257/000162828026059982/0001628280-26-059982-index.htm,HIGH
 2026-09-02T14:34:08+00:00,INSIDER_CLUSTER,WIX,Wix.com Ltd.,Zohar Nir $39K,38748,2,https://www.sec.gov/Archives/edgar/data/1975805/000162828026059979/0001628280-26-059979-index.htm,HIGH
+2026-09-02T15:17:24+00:00,FORM_144,,AUTOMATIC DATA PROCESSING INC,proposed sale $1.84M,1842896,,https://www.sec.gov/Archives/edgar/data/1805266/000195917326006620/0001959173-26-006620-index.htm,LOW
+2026-09-02T15:17:25+00:00,FORM_144,,"Toast, Inc.",proposed sale $468K,468241,,https://www.sec.gov/Archives/edgar/data/2004790/000195917326006619/0001959173-26-006619-index.htm,LOW
+2026-09-02T15:17:25+00:00,FORM_144,,"MARSH & MCLENNAN COMPANIES, INC.",proposed sale $3.14M,3139822,,https://www.sec.gov/Archives/edgar/data/1580963/000195917326006618/0001959173-26-006618-index.htm,LOW
