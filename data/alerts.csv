@@ -749,3 +749,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-02T15:35:36+00:00,FORM_144,,NORDSON CORP,proposed sale $49K,49408,,https://www.sec.gov/Archives/edgar/data/1454309/000100027526000102/0001000275-26-000102-index.htm,LOW
 2026-09-02T15:35:37+00:00,FORM_144,,JOHNSON & JOHNSON,proposed sale $9.23M,9230439,,https://www.sec.gov/Archives/edgar/data/1998491/000195917326006622/0001959173-26-006622-index.htm,LOW
 2026-09-02T15:35:37+00:00,FORM_144,,"Heartflow, Inc.",proposed sale $297K,297325,,https://www.sec.gov/Archives/edgar/data/2079946/000195917326006621/0001959173-26-006621-index.htm,LOW
+2026-09-02T15:49:36+00:00,FORM_144,,"Circle Internet Group, Inc.",proposed sale $655K,655334,,https://www.sec.gov/Archives/edgar/data/2083179/000195917326006627/0001959173-26-006627-index.htm,LOW
+2026-09-02T15:49:37+00:00,FORM_144,,"Circle Internet Group, Inc.",proposed sale $714K,713504,,https://www.sec.gov/Archives/edgar/data/1876042/000195917326006626/0001959173-26-006626-index.htm,LOW
+2026-09-02T15:49:37+00:00,FORM_144,,AUTOMATIC DATA PROCESSING INC,proposed sale $530K,529776,,https://www.sec.gov/Archives/edgar/data/1866614/000195917326006625/0001959173-26-006625-index.htm,LOW
+2026-09-02T15:49:37+00:00,FORM_144,,AUTOMATIC DATA PROCESSING INC,proposed sale $8.44M,8436230,,https://www.sec.gov/Archives/edgar/data/1608466/000195917326006624/0001959173-26-006624-index.htm,LOW
