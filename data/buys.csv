@@ -129,3 +129,5 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-02T01:50:28+00:00,2026-08-31,QNRX,"Quoin Pharmaceuticals, Ltd.",Myers Michael,"Director, Chief Executive Officer",20490,4.88,99991,119.0,0001104659-26-104404
 2026-09-02T01:50:30+00:00,2026-08-31,QNRX,"Quoin Pharmaceuticals, Ltd.",Lawlor Sally Bridget,Chief Financial Officer,10244,4.88,49990,2328.2,0001104659-26-104403
 2026-09-02T01:50:31+00:00,2026-08-31,QNRX,"Quoin Pharmaceuticals, Ltd.",Culverwell Anthony James,Director,6146,4.88,29992,18.0,0001104659-26-104402
+2026-09-02T12:23:37+00:00,2026-08-31,DGICA,DONEGAL GROUP INC,DONEGAL MUTUAL INSURANCE CO,10% owner,19257,19.17,369198,0.1,0000935596-26-000022
+2026-09-02T12:23:38+00:00,2026-05-28,NIVF,NewGenIvf Group Ltd,Cheung Kong Yiu,"Director, 10% owner",3722223,1.12,4163334,NEW,0001213900-26-096450
