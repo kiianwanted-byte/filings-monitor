@@ -753,3 +753,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-02T15:49:37+00:00,FORM_144,,"Circle Internet Group, Inc.",proposed sale $714K,713504,,https://www.sec.gov/Archives/edgar/data/1876042/000195917326006626/0001959173-26-006626-index.htm,LOW
 2026-09-02T15:49:37+00:00,FORM_144,,AUTOMATIC DATA PROCESSING INC,proposed sale $530K,529776,,https://www.sec.gov/Archives/edgar/data/1866614/000195917326006625/0001959173-26-006625-index.htm,LOW
 2026-09-02T15:49:37+00:00,FORM_144,,AUTOMATIC DATA PROCESSING INC,proposed sale $8.44M,8436230,,https://www.sec.gov/Archives/edgar/data/1608466/000195917326006624/0001959173-26-006624-index.htm,LOW
+2026-09-02T15:58:54+00:00,FORM_144,,LAM RESEARCH CORP,proposed sale $17.41M,17406370,,https://www.sec.gov/Archives/edgar/data/1707827/000195917326006628/0001959173-26-006628-index.htm,LOW
