@@ -774,3 +774,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-02T17:47:41+00:00,FORM_144,,"WEYCO GROUP, INC.",proposed sale $133K,132720,,https://www.sec.gov/Archives/edgar/data/1389308/000138930826000007/0001389308-26-000007-index.htm,LOW
 2026-09-02T17:47:41+00:00,FORM_144,,CREDIT ACCEPTANCE CORP,proposed sale $1.51M,1510000,,https://www.sec.gov/Archives/edgar/data/1300069/000195917326006635/0001959173-26-006635-index.htm,LOW
 2026-09-02T17:47:42+00:00,FORM_144,,TIDEWATER INC,proposed sale $1.49M,1486175,,https://www.sec.gov/Archives/edgar/data/1797578/000194984626000559/0001949846-26-000559-index.htm,LOW
+2026-09-02T17:55:58+00:00,FORM_144,,"LifeStance Health Group, Inc.",proposed sale $541K,541244,,https://www.sec.gov/Archives/edgar/data/1938690/000195917326006637/0001959173-26-006637-index.htm,LOW
