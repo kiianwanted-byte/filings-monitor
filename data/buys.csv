@@ -135,3 +135,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-02T13:31:31+00:00,2026-09-01,PNFP,"Pinnacle Financial Partners, Inc.",Blair Kevin S.,"Director, Chief Executive Officer",2565,97.48,250036,1.7,0001680809-26-000007
 2026-09-02T13:45:20+00:00,2026-08-31,VST,Vistra Corp.,BURKE JAMES A,"Director, President and CEO",6665,135.49,903069,0.6,0001268406-26-000009
 2026-09-02T13:45:20+00:00,2026-09-01,ALRS,ALERUS FINANCIAL CORP,Bolton Jeffrey,Director,1000,32.45,32450,7.1,0001437749-26-029458
+2026-09-02T14:21:06+00:00,2026-08-31,WIX,Wix.com Ltd.,Abrahami Avishai,"Director, Chief Executive Officer",709,59.89,42462,12.5,0001628280-26-059977
