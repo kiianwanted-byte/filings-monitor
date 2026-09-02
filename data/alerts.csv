@@ -788,3 +788,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-02T18:59:31+00:00,INSIDER_CLUSTER,AXIA3,AXIA Energia S.A.,Batista de Lima Filho Pedro $961K,961272,2,https://www.sec.gov/Archives/edgar/data/2121444/000121390026096631/0001213900-26-096631-index.htm,HIGH
 2026-09-02T18:59:34+00:00,FORM_144,,BIOMARIN PHARMACEUTICAL INC,proposed sale $1.16M,1163755,,https://www.sec.gov/Archives/edgar/data/1380710/000195917326006644/0001959173-26-006644-index.htm,LOW
 2026-09-02T18:59:35+00:00,FORM_144,,Acacia Research Corporation,proposed sale $148K,148500,,https://www.sec.gov/Archives/edgar/data/1111318/000196922326000984/0001969223-26-000984-index.htm,LOW
+2026-09-02T19:24:14+00:00,FORM_144,,"MARSH & MCLENNAN COMPANIES, INC.",proposed sale $225K,224914,,https://www.sec.gov/Archives/edgar/data/1917984/000195917326006646/0001959173-26-006646-index.htm,LOW
+2026-09-02T19:24:14+00:00,FORM_144,,TENET HEALTHCARE CORP,proposed sale $298K,298137,,https://www.sec.gov/Archives/edgar/data/1787802/000195917326006645/0001959173-26-006645-index.htm,LOW
+2026-09-02T19:24:15+00:00,FORM_144,,"MYOMO, INC.",proposed sale $21K,21150,,https://www.sec.gov/Archives/edgar/data/1454309/000100027526000103/0001000275-26-000103-index.htm,LOW
+2026-09-02T19:24:15+00:00,FORM_144,,Newegg Commerce Inc,proposed sale $1.90M,1900000,,https://www.sec.gov/Archives/edgar/data/1971269/000196922326000985/0001969223-26-000985-index.htm,LOW
+2026-09-02T19:24:15+00:00,FORM_144,,Joby Aviation,proposed sale $417K,417318,,https://www.sec.gov/Archives/edgar/data/1819848/000162828026060053/0001628280-26-060053-index.htm,LOW
