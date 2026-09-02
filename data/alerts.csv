@@ -900,3 +900,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-02T20:48:03+00:00,FORM_144,,"Teladoc Health, Inc.",proposed sale $48K,47719,,https://www.sec.gov/Archives/edgar/data/1477449/000195917326006657/0001959173-26-006657-index.htm,LOW
 2026-09-02T20:48:03+00:00,FORM_144,,TAKE TWO INTERACTIVE SOFTWARE INC,proposed sale $200K,199583,,https://www.sec.gov/Archives/edgar/data/1623654/000195917326006656/0001959173-26-006656-index.htm,LOW
 2026-09-02T20:55:13+00:00,INSIDER_BUY,CAVA,"CAVA GROUP, INC.",Thompson Douglas W. $432K,432380,2,https://www.sec.gov/Archives/edgar/data/1750614/000162828026060167/0001628280-26-060167-index.htm,MEDIUM
+2026-09-02T21:05:16+00:00,FORM_144,,"ARTIVION, INC.",proposed sale $177K,177497,,https://www.sec.gov/Archives/edgar/data/1191000/000195917326006673/0001959173-26-006673-index.htm,LOW
+2026-09-02T21:05:16+00:00,FORM_144,,"Ceribell, Inc.",proposed sale $16K,16300,,https://www.sec.gov/Archives/edgar/data/2035786/000195917326006672/0001959173-26-006672-index.htm,LOW
+2026-09-02T21:05:17+00:00,FORM_144,,"Bandwidth, Inc.",proposed sale $406K,406320,,https://www.sec.gov/Archives/edgar/data/1807759/000196858226000919/0001968582-26-000919-index.htm,LOW
+2026-09-02T21:05:17+00:00,FORM_144,,Seneca Foods Corporation,proposed sale $329K,328985,,https://www.sec.gov/Archives/edgar/data/1348504/000143774926029523/0001437749-26-029523-index.htm,LOW
+2026-09-02T21:05:17+00:00,FORM_144,,"PAGERDUTY, INC.",proposed sale $423K,423056,,https://www.sec.gov/Archives/edgar/data/1674159/000195004726009030/0001950047-26-009030-index.htm,LOW
