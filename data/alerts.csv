@@ -1135,3 +1135,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-03T21:27:52+00:00,FORM_144,,"Gevo, Inc.",proposed sale $2K,2087,,https://www.sec.gov/Archives/edgar/data/1866673/000197248126000275/0001972481-26-000275-index.htm,LOW
 2026-09-03T21:27:52+00:00,FORM_144,,"RUBRIK, INC.",proposed sale $189K,188570,,https://www.sec.gov/Archives/edgar/data/1943896/000195004726009087/0001950047-26-009087-index.htm,LOW
 2026-09-03T21:37:57+00:00,FORM_144,,"BETA BIONICS, INC.",proposed sale $103K,103423,,https://www.sec.gov/Archives/edgar/data/2048497/000204849726000011/0002048497-26-000011-index.htm,LOW
+2026-09-03T21:45:04+00:00,FORM_144,,Warner Music Group Corp.,proposed sale $1.87M,1870485,,https://www.sec.gov/Archives/edgar/data/1855951/000195824426000570/0001958244-26-000570-index.htm,LOW
+2026-09-03T21:45:04+00:00,FORM_144,,"Warner Bros. Discovery, Inc.",proposed sale $9.65M,9654204,,https://www.sec.gov/Archives/edgar/data/1437107/000195917326006728/0001959173-26-006728-index.htm,LOW
