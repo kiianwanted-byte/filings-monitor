@@ -998,3 +998,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-03T16:28:41+00:00,FORM_144,,"Par Pacific Holdings, Inc.",proposed sale $2.22M,2223633,,https://www.sec.gov/Archives/edgar/data/1539898/000162828026060293/0001628280-26-060293-index.htm,LOW
 2026-09-03T16:28:42+00:00,FORM_144,,CuriosityStream Inc.,proposed sale $236K,235991,,https://www.sec.gov/Archives/edgar/data/1938940/000195917326006695/0001959173-26-006695-index.htm,LOW
 2026-09-03T16:41:36+00:00,INSIDER_CLUSTER,AMRZ,Amrize Ltd,Jenisch Jan Philipp $1.27M,1274080,1,https://www.sec.gov/Archives/edgar/data/2068104/000203598926000078/0002035989-26-000078-index.htm,HIGH
+2026-09-03T16:53:09+00:00,FORM_144,,HORACE MANN EDUCATORS CORP /DE/,proposed sale $169K,169036,,https://www.sec.gov/Archives/edgar/data/1741555/000195917326006697/0001959173-26-006697-index.htm,LOW
+2026-09-03T16:53:09+00:00,FORM_144,,"FIVE BELOW, INC",proposed sale $1.81M,1813128,,https://www.sec.gov/Archives/edgar/data/1181692/000195917326006696/0001959173-26-006696-index.htm,LOW
