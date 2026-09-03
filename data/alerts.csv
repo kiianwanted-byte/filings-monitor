@@ -1000,3 +1000,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-03T16:41:36+00:00,INSIDER_CLUSTER,AMRZ,Amrize Ltd,Jenisch Jan Philipp $1.27M,1274080,1,https://www.sec.gov/Archives/edgar/data/2068104/000203598926000078/0002035989-26-000078-index.htm,HIGH
 2026-09-03T16:53:09+00:00,FORM_144,,HORACE MANN EDUCATORS CORP /DE/,proposed sale $169K,169036,,https://www.sec.gov/Archives/edgar/data/1741555/000195917326006697/0001959173-26-006697-index.htm,LOW
 2026-09-03T16:53:09+00:00,FORM_144,,"FIVE BELOW, INC",proposed sale $1.81M,1813128,,https://www.sec.gov/Archives/edgar/data/1181692/000195917326006696/0001959173-26-006696-index.htm,LOW
+2026-09-03T17:15:54+00:00,INSIDER_CLUSTER,NONE,Evanston Multi-Alpha Fund,Spence John Yogi $100K,100001,2,https://www.sec.gov/Archives/edgar/data/1718133/000171813326000004/0001718133-26-000004-index.htm,HIGH
