@@ -1095,3 +1095,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-03T20:46:47+00:00,FORM_144,,"BLUE BIOFUELS, INC.",proposed sale $150K,150000,,https://www.sec.gov/Archives/edgar/data/1926933/000149315226041374/0001493152-26-041374-index.htm,LOW
 2026-09-03T20:46:47+00:00,FORM_144,,"Rigetti Computing, Inc.",proposed sale $372K,371750,,https://www.sec.gov/Archives/edgar/data/1838359/000196794026000048/0001967940-26-000048-index.htm,LOW
 2026-09-03T20:46:47+00:00,FORM_144,,"RIMINI STREET, INC.",proposed sale $214K,213527,,https://www.sec.gov/Archives/edgar/data/1717716/000195004726009062/0001950047-26-009062-index.htm,LOW
+2026-09-03T20:59:44+00:00,INSIDER_CLUSTER,UMBF,UMB FINANCIAL CORP,Peterman Tamara $55K,55010,2,https://www.sec.gov/Archives/edgar/data/1774955/000010138226000181/0000101382-26-000181-index.htm,HIGH
