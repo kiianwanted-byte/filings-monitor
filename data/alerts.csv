@@ -970,3 +970,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-03T10:36:33+00:00,FORM_144,,PDD Holdings Inc.,proposed sale $140K,140236,,https://www.sec.gov/Archives/edgar/data/1993262/000197337926000333/0001973379-26-000333-index.htm,LOW
 2026-09-03T12:16:41+00:00,FORM_144,,BioNTech SE,proposed sale $89.09M,89090676,,https://www.sec.gov/Archives/edgar/data/1803150/000208592926000012/0002085929-26-000012-index.htm,LOW
 2026-09-03T12:16:41+00:00,FORM_144,,Kanzhun Limited,proposed sale $5.19M,5190000,,https://www.sec.gov/Archives/edgar/data/1994255/000110465926104930/0001104659-26-104930-index.htm,LOW
+2026-09-03T14:22:05+00:00,FORM_144,,OBSIDIAN ENERGY LTD.,proposed sale $486K,485616,,https://www.sec.gov/Archives/edgar/data/1695291/000194984626000562/0001949846-26-000562-index.htm,LOW
+2026-09-03T14:22:05+00:00,FORM_144,,TAKE TWO INTERACTIVE SOFTWARE INC,proposed sale $161K,161470,,https://www.sec.gov/Archives/edgar/data/1623654/000195917326006677/0001959173-26-006677-index.htm,LOW
+2026-09-03T14:22:06+00:00,FORM_144,,"nCino, Inc.",proposed sale $191K,190794,,https://www.sec.gov/Archives/edgar/data/1902733/000195917326006676/0001959173-26-006676-index.htm,LOW
