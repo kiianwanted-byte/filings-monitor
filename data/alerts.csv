@@ -1006,3 +1006,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-03T18:19:32+00:00,FORM_144,,Two Hands Corp.,proposed sale $50K,50000,,https://www.sec.gov/Archives/edgar/data/1683832/000168383226000006/0001683832-26-000006-index.htm,LOW
 2026-09-03T18:35:37+00:00,FORM_144,,Snowflake Inc.,proposed sale $3.80M,3800000,,https://www.sec.gov/Archives/edgar/data/1979088/000195917326006699/0001959173-26-006699-index.htm,LOW
 2026-09-03T18:35:38+00:00,FORM_144,,"10x Genomics, Inc.",proposed sale $1.24M,1235045,,https://www.sec.gov/Archives/edgar/data/1770787/000195779926000170/0001957799-26-000170-index.htm,LOW
+2026-09-03T18:49:40+00:00,FORM_144,,CuriosityStream Inc.,proposed sale $73K,73000,,https://www.sec.gov/Archives/edgar/data/1938940/000193894026000002/0001938940-26-000002-index.htm,LOW
+2026-09-03T18:49:40+00:00,FORM_144,,IEH Corp,proposed sale $162K,162500,,https://www.sec.gov/Archives/edgar/data/1754873/000117494726000840/0001174947-26-000840-index.htm,LOW
