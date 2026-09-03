@@ -958,3 +958,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-03T00:59:50+00:00,FORM_144,,"Rackspace Technology, Inc.",proposed sale $60K,59709,,https://www.sec.gov/Archives/edgar/data/1892103/000181001926000097/0001810019-26-000097-index.htm,LOW
 2026-09-03T00:59:51+00:00,FORM_144,,"Funko, Inc.",proposed sale $1.21M,1209600,,https://www.sec.gov/Archives/edgar/data/2084455/000208445526000002/0002084455-26-000002-index.htm,LOW
 2026-09-03T01:29:45+00:00,FORM_144,,"Rackspace Technology, Inc.",proposed sale $322K,322076,,https://www.sec.gov/Archives/edgar/data/1810019/000181001926000099/0001810019-26-000099-index.htm,LOW
+2026-09-03T01:43:21+00:00,FORM_144,,"RxSight, Inc.",proposed sale $14K,14205,,https://www.sec.gov/Archives/edgar/data/1874147/000187414726000002/0001874147-26-000002-index.htm,LOW
+2026-09-03T01:43:21+00:00,FORM_144,,"RxSight, Inc.",proposed sale $14K,14205,,https://www.sec.gov/Archives/edgar/data/1295814/000129581426000002/0001295814-26-000002-index.htm,LOW
+2026-09-03T01:43:22+00:00,FORM_144,,"Rackspace Technology, Inc.",proposed sale $94K,93576,,https://www.sec.gov/Archives/edgar/data/1892103/000181001926000100/0001810019-26-000100-index.htm,LOW
+2026-09-03T01:43:22+00:00,FORM_144,,ASP Isotopes Inc.,proposed sale $317K,316605,,https://www.sec.gov/Archives/edgar/data/1921865/000147793226005388/0001477932-26-005388-index.htm,LOW
+2026-09-03T01:43:23+00:00,FORM_144,,ASP Isotopes Inc.,proposed sale $94K,94500,,https://www.sec.gov/Archives/edgar/data/1951275/000147793226005387/0001477932-26-005387-index.htm,LOW
