@@ -1137,3 +1137,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-03T21:37:57+00:00,FORM_144,,"BETA BIONICS, INC.",proposed sale $103K,103423,,https://www.sec.gov/Archives/edgar/data/2048497/000204849726000011/0002048497-26-000011-index.htm,LOW
 2026-09-03T21:45:04+00:00,FORM_144,,Warner Music Group Corp.,proposed sale $1.87M,1870485,,https://www.sec.gov/Archives/edgar/data/1855951/000195824426000570/0001958244-26-000570-index.htm,LOW
 2026-09-03T21:45:04+00:00,FORM_144,,"Warner Bros. Discovery, Inc.",proposed sale $9.65M,9654204,,https://www.sec.gov/Archives/edgar/data/1437107/000195917326006728/0001959173-26-006728-index.htm,LOW
+2026-09-03T22:16:35+00:00,INSIDER_BUY,DFIN,"Donnelley Financial Solutions, Inc.","BINZ JOSEPH LEO $1,000K",999990,2,https://www.sec.gov/Archives/edgar/data/1946413/000119312526382162/0001193125-26-382162-index.htm,MEDIUM

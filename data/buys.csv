@@ -209,3 +209,5 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-03T20:59:44+00:00,2026-09-01,UMBF,UMB FINANCIAL CORP,Peterman Tamara,Director,394,139.60,55010,3.8,0000101382-26-000181
 2026-09-03T21:14:21+00:00,2026-09-03,AVBC,"Avidia Bancorp, Inc.",Nelson Jonathan Michael,CFO and Treasurer,4500,22.19,99855,30.9,0001437749-26-029624
 2026-09-03T21:14:34+00:00,2026-09-02,MLCI,Mount Logan Capital Inc.,Satoren Brandon,Chief Financial Officer,1000,3.24,3240,4.9,0001628280-26-060509
+2026-09-03T22:16:32+00:00,2026-09-03,BJRI,BJs RESTAURANTS INC,Richmond C Bradford,Director,500,59.50,29750,1.4,0001193125-26-382168
+2026-09-03T22:16:35+00:00,2026-09-01,DFIN,"Donnelley Financial Solutions, Inc.",BINZ JOSEPH LEO,Director,20780,48.12,999990,529.6,0001193125-26-382162
