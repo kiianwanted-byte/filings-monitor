@@ -987,3 +987,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-03T15:28:02+00:00,FORM_144,,"DigitalOcean Holdings, Inc.",proposed sale $1.06M,1057300,,https://www.sec.gov/Archives/edgar/data/1717324/000195917326006688/0001959173-26-006688-index.htm,LOW
 2026-09-03T15:28:03+00:00,FORM_144,,"Clear Secure, Inc.",proposed sale $94K,93564,,https://www.sec.gov/Archives/edgar/data/1882847/000195917326006687/0001959173-26-006687-index.htm,LOW
 2026-09-03T15:28:03+00:00,FORM_144,,"DigitalOcean Holdings, Inc.",proposed sale $421K,421334,,https://www.sec.gov/Archives/edgar/data/2002093/000195917326006686/0001959173-26-006686-index.htm,LOW
+2026-09-03T15:40:26+00:00,FORM_144,,"ITRON, INC.",proposed sale $994K,994045,,https://www.sec.gov/Archives/edgar/data/1802633/000195917326006690/0001959173-26-006690-index.htm,LOW
+2026-09-03T15:40:26+00:00,FORM_144,,EQUIFAX INC,proposed sale $846K,845820,,https://www.sec.gov/Archives/edgar/data/1222712/000195917326006689/0001959173-26-006689-index.htm,LOW
