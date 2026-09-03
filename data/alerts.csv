@@ -1066,3 +1066,32 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-03T20:35:54+00:00,FORM_144,,LUMENTUM HOLDINGS INC.,proposed sale $435K,435005,,https://www.sec.gov/Archives/edgar/data/1633978/000195004726009045/0001950047-26-009045-index.htm,LOW
 2026-09-03T20:35:54+00:00,FORM_144,,THE SOUTHERN COMPANY,proposed sale $124K,124418,,https://www.sec.gov/Archives/edgar/data/2082705/000162828026060384/0001628280-26-060384-index.htm,LOW
 2026-09-03T20:35:54+00:00,FORM_144,,"Lemonade, Inc.",proposed sale $47K,46928,,https://www.sec.gov/Archives/edgar/data/1816299/000195917326006712/0001959173-26-006712-index.htm,LOW
+2026-09-03T20:45:33+00:00,FORM_144,,WILLSCOT HOLDINGS CORPORATION,proposed sale $6.57M,6574573,,https://www.sec.gov/Archives/edgar/data/1723486/000195004726009086/0001950047-26-009086-index.htm,LOW
+2026-09-03T20:45:34+00:00,FORM_144,,SLIDE INSURANCE HOLDINGS INC,proposed sale $50K,50294,,https://www.sec.gov/Archives/edgar/data/2114935/000195004726009085/0001950047-26-009085-index.htm,LOW
+2026-09-03T20:45:34+00:00,FORM_144,,ODDITY TECH LTD,proposed sale $12K,11722,,https://www.sec.gov/Archives/edgar/data/2008127/000195004726009084/0001950047-26-009084-index.htm,LOW
+2026-09-03T20:45:34+00:00,FORM_144,,SLIDE INSURANCE HOLDINGS INC,proposed sale $275K,275023,,https://www.sec.gov/Archives/edgar/data/2114934/000195004726009083/0001950047-26-009083-index.htm,LOW
+2026-09-03T20:45:35+00:00,FORM_144,,TFS FINANCIAL CORPORATION,proposed sale $103K,102767,,https://www.sec.gov/Archives/edgar/data/1530997/000195004726009082/0001950047-26-009082-index.htm,LOW
+2026-09-03T20:45:35+00:00,FORM_144,,"Affirm Holdings, Inc.",proposed sale $3.09M,3086885,,https://www.sec.gov/Archives/edgar/data/1870331/000195004726009081/0001950047-26-009081-index.htm,LOW
+2026-09-03T20:45:36+00:00,FORM_144,,"RingCentral, Inc.",proposed sale $69K,69241,,https://www.sec.gov/Archives/edgar/data/2057569/000195004726009080/0001950047-26-009080-index.htm,LOW
+2026-09-03T20:45:36+00:00,FORM_144,,"PayPal Holdings, Inc.",proposed sale $185K,184729,,https://www.sec.gov/Archives/edgar/data/1896086/000195004726009079/0001950047-26-009079-index.htm,LOW
+2026-09-03T20:45:37+00:00,FORM_144,,"Datadog, Inc.",proposed sale $1.18M,1176918,,https://www.sec.gov/Archives/edgar/data/1561550/000195004726009078/0001950047-26-009078-index.htm,LOW
+2026-09-03T20:45:37+00:00,FORM_144,,"PayPal Holdings, Inc.",proposed sale $252K,252138,,https://www.sec.gov/Archives/edgar/data/2006416/000195004726009077/0001950047-26-009077-index.htm,LOW
+2026-09-03T20:45:37+00:00,FORM_144,,"PayPal Holdings, Inc.",proposed sale $30K,30177,,https://www.sec.gov/Archives/edgar/data/1905272/000195004726009076/0001950047-26-009076-index.htm,LOW
+2026-09-03T20:45:38+00:00,FORM_144,,"PRINCIPAL FINANCIAL GROUP, INC",proposed sale $6.14M,6137633,,https://www.sec.gov/Archives/edgar/data/1278726/000195004726009075/0001950047-26-009075-index.htm,LOW
+2026-09-03T20:45:38+00:00,FORM_144,,JOBY AVIATION INC,proposed sale $61K,60684,,https://www.sec.gov/Archives/edgar/data/1895244/000195004726009074/0001950047-26-009074-index.htm,LOW
+2026-09-03T20:45:38+00:00,FORM_144,,"PUBMATIC, INC.",proposed sale $109K,108625,,https://www.sec.gov/Archives/edgar/data/1833508/000195004726009073/0001950047-26-009073-index.htm,LOW
+2026-09-03T20:45:39+00:00,FORM_144,,"Datadog, Inc.",proposed sale $2.52M,2517455,,https://www.sec.gov/Archives/edgar/data/1861590/000195004726009072/0001950047-26-009072-index.htm,LOW
+2026-09-03T20:46:42+00:00,FORM_144,,FIVE9 INC COM,proposed sale $89K,89282,,https://www.sec.gov/Archives/edgar/data/1846877/000195004726009070/0001950047-26-009070-index.htm,LOW
+2026-09-03T20:46:43+00:00,FORM_144,,"BILL HOLDINGS, INC.",proposed sale $1.03M,1030006,,https://www.sec.gov/Archives/edgar/data/1795497/000195004726009069/0001950047-26-009069-index.htm,LOW
+2026-09-03T20:46:43+00:00,FORM_144,,"BILL HOLDINGS, INC.",proposed sale $1.03M,1030006,,https://www.sec.gov/Archives/edgar/data/1795497/000195004726009068/0001950047-26-009068-index.htm,LOW
+2026-09-03T20:46:44+00:00,FORM_144,,"AIRGAIN, INC.",proposed sale $5K,5020,,https://www.sec.gov/Archives/edgar/data/1705078/000195004726009067/0001950047-26-009067-index.htm,LOW
+2026-09-03T20:46:44+00:00,FORM_144,,"ARS PHARMACEUTICALS, INC.",proposed sale $116K,115564,,https://www.sec.gov/Archives/edgar/data/1671858/000195004726009066/0001950047-26-009066-index.htm,LOW
+2026-09-03T20:46:44+00:00,FORM_144,,TRANSCAT INC,proposed sale $626K,625876,,https://www.sec.gov/Archives/edgar/data/1791707/000089183926000384/0000891839-26-000384-index.htm,LOW
+2026-09-03T20:46:45+00:00,FORM_144,,CUMMINS INC.,proposed sale $502K,501747,,https://www.sec.gov/Archives/edgar/data/2073552/000195004726009065/0001950047-26-009065-index.htm,LOW
+2026-09-03T20:46:45+00:00,FORM_144,,"DEFINIUM THERAPEUTICS, INC.",proposed sale $718K,718144,,https://www.sec.gov/Archives/edgar/data/1897557/000195004726009064/0001950047-26-009064-index.htm,LOW
+2026-09-03T20:46:46+00:00,FORM_144,,"Gevo, Inc.",proposed sale $3K,2588,,https://www.sec.gov/Archives/edgar/data/1854032/000197248126000274/0001972481-26-000274-index.htm,LOW
+2026-09-03T20:46:46+00:00,FORM_144,,"LiveWire Group, Inc.",proposed sale $25K,25492,,https://www.sec.gov/Archives/edgar/data/2134919/000195917326006719/0001959173-26-006719-index.htm,LOW
+2026-09-03T20:46:46+00:00,FORM_144,,DOLLAR GENERAL CORPORATION,proposed sale $733K,732554,,https://www.sec.gov/Archives/edgar/data/1773464/000195004726009063/0001950047-26-009063-index.htm,LOW
+2026-09-03T20:46:47+00:00,FORM_144,,"BLUE BIOFUELS, INC.",proposed sale $150K,150000,,https://www.sec.gov/Archives/edgar/data/1926933/000149315226041374/0001493152-26-041374-index.htm,LOW
+2026-09-03T20:46:47+00:00,FORM_144,,"Rigetti Computing, Inc.",proposed sale $372K,371750,,https://www.sec.gov/Archives/edgar/data/1838359/000196794026000048/0001967940-26-000048-index.htm,LOW
+2026-09-03T20:46:47+00:00,FORM_144,,"RIMINI STREET, INC.",proposed sale $214K,213527,,https://www.sec.gov/Archives/edgar/data/1717716/000195004726009062/0001950047-26-009062-index.htm,LOW
