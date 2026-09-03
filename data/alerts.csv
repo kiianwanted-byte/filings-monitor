@@ -975,3 +975,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-03T14:22:06+00:00,FORM_144,,"nCino, Inc.",proposed sale $191K,190794,,https://www.sec.gov/Archives/edgar/data/1902733/000195917326006676/0001959173-26-006676-index.htm,LOW
 2026-09-03T14:47:37+00:00,FORM_144,,Fabrinet,proposed sale $995K,994950,,https://www.sec.gov/Archives/edgar/data/1785907/000197337926000334/0001973379-26-000334-index.htm,LOW
 2026-09-03T14:47:38+00:00,FORM_144,,"Live Oak Bancshares, Inc.",proposed sale $399K,398900,,https://www.sec.gov/Archives/edgar/data/1462120/000195917326006678/0001959173-26-006678-index.htm,LOW
+2026-09-03T14:57:33+00:00,FORM_144,,AUTOMATIC DATA PROCESSING INC,proposed sale $178K,178490,,https://www.sec.gov/Archives/edgar/data/1805266/000195917326006679/0001959173-26-006679-index.htm,LOW
