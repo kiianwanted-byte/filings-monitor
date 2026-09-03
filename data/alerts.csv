@@ -1009,3 +1009,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-03T18:49:40+00:00,FORM_144,,CuriosityStream Inc.,proposed sale $73K,73000,,https://www.sec.gov/Archives/edgar/data/1938940/000193894026000002/0001938940-26-000002-index.htm,LOW
 2026-09-03T18:49:40+00:00,FORM_144,,IEH Corp,proposed sale $162K,162500,,https://www.sec.gov/Archives/edgar/data/1754873/000117494726000840/0001174947-26-000840-index.htm,LOW
 2026-09-03T18:57:38+00:00,FORM_144,,HORACE MANN EDUCATORS CORP /DE/,proposed sale $107K,107384,,https://www.sec.gov/Archives/edgar/data/1665149/000195917326006700/0001959173-26-006700-index.htm,LOW
+2026-09-03T19:09:38+00:00,FORM_144,,Murphy USA Inc.,proposed sale $52K,52359,,https://www.sec.gov/Archives/edgar/data/2106788/000195917326006701/0001959173-26-006701-index.htm,LOW
