@@ -194,3 +194,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-03T16:28:41+00:00,2026-09-01,FRST,Primis Financial Corp.,Weichert Margaret M,Director,100,15.75,1575,15.8,0001193125-26-381412
 2026-09-03T16:41:36+00:00,2026-09-02,AMRZ,Amrize Ltd,Jenisch Jan Philipp,"Director, Chairman & CEO",30000,42.47,1274080,6.1,0002035989-26-000078
 2026-09-03T17:15:54+00:00,2026-09-01,NONE,Evanston Multi-Alpha Fund,Spence John Yogi,,10388,9.63,100001,NEW,0001718133-26-000004
+2026-09-03T17:28:51+00:00,2026-09-01,FRST,Primis Financial Corp.,Johnson Eric Alan,Director,1280,15.60,19968,2.6,0001193125-26-381567
