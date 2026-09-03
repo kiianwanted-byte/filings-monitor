@@ -1096,3 +1096,41 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-03T20:46:47+00:00,FORM_144,,"Rigetti Computing, Inc.",proposed sale $372K,371750,,https://www.sec.gov/Archives/edgar/data/1838359/000196794026000048/0001967940-26-000048-index.htm,LOW
 2026-09-03T20:46:47+00:00,FORM_144,,"RIMINI STREET, INC.",proposed sale $214K,213527,,https://www.sec.gov/Archives/edgar/data/1717716/000195004726009062/0001950047-26-009062-index.htm,LOW
 2026-09-03T20:59:44+00:00,INSIDER_CLUSTER,UMBF,UMB FINANCIAL CORP,Peterman Tamara $55K,55010,2,https://www.sec.gov/Archives/edgar/data/1774955/000010138226000181/0000101382-26-000181-index.htm,HIGH
+2026-09-03T21:27:31+00:00,FORM_144,,"BETA BIONICS, INC.",proposed sale $82K,81950,,https://www.sec.gov/Archives/edgar/data/2051384/000205138426000008/0002051384-26-000008-index.htm,LOW
+2026-09-03T21:27:31+00:00,FORM_144,,"BETA BIONICS, INC.",proposed sale $85K,84940,,https://www.sec.gov/Archives/edgar/data/2048500/000204850026000011/0002048500-26-000011-index.htm,LOW
+2026-09-03T21:27:31+00:00,FORM_144,,"BETA BIONICS, INC.",proposed sale $130K,129595,,https://www.sec.gov/Archives/edgar/data/2048588/000204858826000012/0002048588-26-000012-index.htm,LOW
+2026-09-03T21:27:32+00:00,FORM_144,,"ARTIVION, INC.",proposed sale $39K,38842,,https://www.sec.gov/Archives/edgar/data/1191000/000195917326006726/0001959173-26-006726-index.htm,LOW
+2026-09-03T21:27:32+00:00,FORM_144,,"BETA BIONICS, INC.",proposed sale $327K,327472,,https://www.sec.gov/Archives/edgar/data/2048593/000204859326000008/0002048593-26-000008-index.htm,LOW
+2026-09-03T21:27:32+00:00,FORM_144,,Iradimed Corporation,proposed sale $123K,122624,,https://www.sec.gov/Archives/edgar/data/1325618/000125335226000008/0001253352-26-000008-index.htm,LOW
+2026-09-03T21:27:33+00:00,FORM_144,,"FIGMA, INC.",proposed sale $2.81M,2807297,,https://www.sec.gov/Archives/edgar/data/2073801/000195004726009100/0001950047-26-009100-index.htm,LOW
+2026-09-03T21:27:33+00:00,FORM_144,,"Disc Medicine, Inc.",proposed sale $4K,4322,,https://www.sec.gov/Archives/edgar/data/1816736/000162828026060507/0001628280-26-060507-index.htm,LOW
+2026-09-03T21:27:33+00:00,FORM_144,,"Disc Medicine, Inc.",proposed sale $187K,187236,,https://www.sec.gov/Archives/edgar/data/1885327/000162828026060505/0001628280-26-060505-index.htm,LOW
+2026-09-03T21:27:34+00:00,FORM_144,,"Disc Medicine, Inc.",proposed sale $225K,224940,,https://www.sec.gov/Archives/edgar/data/1816736/000162828026060504/0001628280-26-060504-index.htm,LOW
+2026-09-03T21:27:34+00:00,FORM_144,,"Disc Medicine, Inc.",proposed sale $546K,546101,,https://www.sec.gov/Archives/edgar/data/1816736/000162828026060502/0001628280-26-060502-index.htm,LOW
+2026-09-03T21:27:43+00:00,FORM_144,,Valaris Ltd,proposed sale $130.37M,130372708,,https://www.sec.gov/Archives/edgar/data/1164688/000091957426006171/0000919574-26-006171-index.htm,LOW
+2026-09-03T21:27:43+00:00,FORM_144,,"ARROW ELECTRONICS, INC.",proposed sale $210K,209850,,https://www.sec.gov/Archives/edgar/data/1870985/000195917326006725/0001959173-26-006725-index.htm,LOW
+2026-09-03T21:27:44+00:00,FORM_144,,"Clear Secure, Inc.",proposed sale $515K,514980,,https://www.sec.gov/Archives/edgar/data/1856314/000195917326006724/0001959173-26-006724-index.htm,LOW
+2026-09-03T21:27:44+00:00,FORM_144,,"Gevo, Inc.",proposed sale $3K,2597,,https://www.sec.gov/Archives/edgar/data/1512143/000197248126000277/0001972481-26-000277-index.htm,LOW
+2026-09-03T21:27:44+00:00,FORM_144,,CREDIT ACCEPTANCE CORP,proposed sale $6.16M,6157500,,https://www.sec.gov/Archives/edgar/data/1300069/000195917326006723/0001959173-26-006723-index.htm,LOW
+2026-09-03T21:27:45+00:00,FORM_144,,IRIDIUM COMMUNICATIONS INC.,proposed sale $95K,95341,,https://www.sec.gov/Archives/edgar/data/2046045/000195004726009098/0001950047-26-009098-index.htm,LOW
+2026-09-03T21:27:45+00:00,FORM_144,,"SCANSOURCE, INC.",proposed sale $568K,567591,,https://www.sec.gov/Archives/edgar/data/1837268/000196430626000425/0001964306-26-000425-index.htm,LOW
+2026-09-03T21:27:45+00:00,FORM_144,,Alkermes plc.,proposed sale $98K,97652,,https://www.sec.gov/Archives/edgar/data/1675905/000196430626000424/0001964306-26-000424-index.htm,LOW
+2026-09-03T21:27:46+00:00,FORM_144,,"INTAPP, INC.",proposed sale $1.40M,1397743,,https://www.sec.gov/Archives/edgar/data/1869582/000195004726009097/0001950047-26-009097-index.htm,LOW
+2026-09-03T21:27:46+00:00,FORM_144,,"Gevo, Inc.",proposed sale $6K,5671,,https://www.sec.gov/Archives/edgar/data/1511369/000197248126000276/0001972481-26-000276-index.htm,LOW
+2026-09-03T21:27:46+00:00,FORM_144,,"Life Time Group Holdings, Inc.",proposed sale $249K,249304,,https://www.sec.gov/Archives/edgar/data/1884996/000195917326006722/0001959173-26-006722-index.htm,LOW
+2026-09-03T21:27:47+00:00,FORM_144,,KKR & Co. Inc.,proposed sale $1.06M,1064100,,https://www.sec.gov/Archives/edgar/data/1724955/000114036126035620/0001140361-26-035620-index.htm,LOW
+2026-09-03T21:27:47+00:00,FORM_144,,ELASTIC N.V.,proposed sale $16.93M,16932438,,https://www.sec.gov/Archives/edgar/data/1753445/000195004726009096/0001950047-26-009096-index.htm,LOW
+2026-09-03T21:27:47+00:00,FORM_144,,ELASTIC N.V.,proposed sale $2.23M,2230556,,https://www.sec.gov/Archives/edgar/data/1753445/000195004726009095/0001950047-26-009095-index.htm,LOW
+2026-09-03T21:27:48+00:00,FORM_144,,"Five9, Inc.",proposed sale $132K,132084,,https://www.sec.gov/Archives/edgar/data/2063775/000206377526000011/0002063775-26-000011-index.htm,LOW
+2026-09-03T21:27:48+00:00,FORM_144,,"CARIS LIFE SCIENCES, INC.",proposed sale $11.88M,11882984,,https://www.sec.gov/Archives/edgar/data/2071953/000195004726009094/0001950047-26-009094-index.htm,LOW
+2026-09-03T21:27:49+00:00,FORM_144,,"Royal Gold, Inc",proposed sale $2.51M,2506286,,https://www.sec.gov/Archives/edgar/data/1390606/000195004726009093/0001950047-26-009093-index.htm,LOW
+2026-09-03T21:27:49+00:00,FORM_144,,"HORNBECK OFFSHORE SERVICES, INC.",proposed sale $125K,125455,,https://www.sec.gov/Archives/edgar/data/1946868/000195917326006721/0001959173-26-006721-index.htm,LOW
+2026-09-03T21:27:49+00:00,FORM_144,,MIAMI INTERNATIONAL HOLDINGS INC,proposed sale $5.73M,5727420,,https://www.sec.gov/Archives/edgar/data/2080477/000195004726009092/0001950047-26-009092-index.htm,LOW
+2026-09-03T21:27:50+00:00,FORM_144,,"NWPX Infrastructure, Inc.",proposed sale $443,443,,https://www.sec.gov/Archives/edgar/data/1401658/000195917326006720/0001959173-26-006720-index.htm,LOW
+2026-09-03T21:27:50+00:00,FORM_144,,LIGAND PHARMACEUTICALS INCORPORATED,proposed sale $4.30M,4303800,,https://www.sec.gov/Archives/edgar/data/1950232/000195004726009091/0001950047-26-009091-index.htm,LOW
+2026-09-03T21:27:50+00:00,FORM_144,,"ROBINHOOD MKTS, INC.",proposed sale $3.21M,3209700,,https://www.sec.gov/Archives/edgar/data/1783879/000195004726009090/0001950047-26-009090-index.htm,LOW
+2026-09-03T21:27:51+00:00,FORM_144,,"Five9, Inc",proposed sale $108K,107512,,https://www.sec.gov/Archives/edgar/data/2000932/000200093226000013/0002000932-26-000013-index.htm,LOW
+2026-09-03T21:27:51+00:00,FORM_144,,"Robinhood Markets, Inc.",proposed sale $2.61M,2612267,,https://www.sec.gov/Archives/edgar/data/1783879/000195004726009089/0001950047-26-009089-index.htm,LOW
+2026-09-03T21:27:51+00:00,FORM_144,,Sandisk Corporation,proposed sale $9.74M,9739818,,https://www.sec.gov/Archives/edgar/data/2059630/000195004726009088/0001950047-26-009088-index.htm,LOW
+2026-09-03T21:27:52+00:00,FORM_144,,"Gevo, Inc.",proposed sale $2K,2087,,https://www.sec.gov/Archives/edgar/data/1866673/000197248126000275/0001972481-26-000275-index.htm,LOW
+2026-09-03T21:27:52+00:00,FORM_144,,"RUBRIK, INC.",proposed sale $189K,188570,,https://www.sec.gov/Archives/edgar/data/1943896/000195004726009087/0001950047-26-009087-index.htm,LOW
