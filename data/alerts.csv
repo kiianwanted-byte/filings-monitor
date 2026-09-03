@@ -973,3 +973,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-03T14:22:05+00:00,FORM_144,,OBSIDIAN ENERGY LTD.,proposed sale $486K,485616,,https://www.sec.gov/Archives/edgar/data/1695291/000194984626000562/0001949846-26-000562-index.htm,LOW
 2026-09-03T14:22:05+00:00,FORM_144,,TAKE TWO INTERACTIVE SOFTWARE INC,proposed sale $161K,161470,,https://www.sec.gov/Archives/edgar/data/1623654/000195917326006677/0001959173-26-006677-index.htm,LOW
 2026-09-03T14:22:06+00:00,FORM_144,,"nCino, Inc.",proposed sale $191K,190794,,https://www.sec.gov/Archives/edgar/data/1902733/000195917326006676/0001959173-26-006676-index.htm,LOW
+2026-09-03T14:47:37+00:00,FORM_144,,Fabrinet,proposed sale $995K,994950,,https://www.sec.gov/Archives/edgar/data/1785907/000197337926000334/0001973379-26-000334-index.htm,LOW
+2026-09-03T14:47:38+00:00,FORM_144,,"Live Oak Bancshares, Inc.",proposed sale $399K,398900,,https://www.sec.gov/Archives/edgar/data/1462120/000195917326006678/0001959173-26-006678-index.htm,LOW
