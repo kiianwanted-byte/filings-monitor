@@ -1023,3 +1023,46 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-03T19:55:02+00:00,FORM_144,,"NLIGHT, INC.",proposed sale $42K,41706,,https://www.sec.gov/Archives/edgar/data/1914730/000195917326006710/0001959173-26-006710-index.htm,LOW
 2026-09-03T19:55:02+00:00,FORM_144,,"Oscar Health, Inc.",proposed sale $286K,285949,,https://www.sec.gov/Archives/edgar/data/1842979/000195917326006709/0001959173-26-006709-index.htm,LOW
 2026-09-03T20:20:05+00:00,FORM_144,,MERCURY SYSTEMS INC,proposed sale $338K,338030,,https://www.sec.gov/Archives/edgar/data/1049521/000195917326006711/0001959173-26-006711-index.htm,LOW
+2026-09-03T20:33:09+00:00,INSIDER_BUY,HONA,Honeywell Aerospace Inc.,ARNOLD CRAIG $998K,998400,2,https://www.sec.gov/Archives/edgar/data/2089271/000162828026060444/0001628280-26-060444-index.htm,MEDIUM
+2026-09-03T20:34:10+00:00,FORM_144,,WILLSCOT HOLDINGS CORPORATION,proposed sale $1.46M,1457290,,https://www.sec.gov/Archives/edgar/data/1723486/000195004726009060/0001950047-26-009060-index.htm,LOW
+2026-09-03T20:34:10+00:00,FORM_144,,GLOBANT S.A.,proposed sale $100K,100000,,https://www.sec.gov/Archives/edgar/data/2118939/000195004726009059/0001950047-26-009059-index.htm,LOW
+2026-09-03T20:34:11+00:00,FORM_144,,Permian Resources Corp,proposed sale $130K,130455,,https://www.sec.gov/Archives/edgar/data/1944325/000195917326006718/0001959173-26-006718-index.htm,LOW
+2026-09-03T20:35:05+00:00,FORM_144,,"FORMFACTOR, INC.",proposed sale $202K,201810,,https://www.sec.gov/Archives/edgar/data/1498143/000195004726009058/0001950047-26-009058-index.htm,LOW
+2026-09-03T20:35:05+00:00,FORM_144,,CORVEL CORP,proposed sale $3.56M,3561753,,https://www.sec.gov/Archives/edgar/data/1256520/000196922326000995/0001969223-26-000995-index.htm,LOW
+2026-09-03T20:35:06+00:00,FORM_144,,"WILLDAN GROUP, INC.",proposed sale $5.18M,5178683,,https://www.sec.gov/Archives/edgar/data/1395188/000195004726009057/0001950047-26-009057-index.htm,LOW
+2026-09-03T20:35:06+00:00,FORM_144,,"FVCBankcorp, Inc.",proposed sale $303K,302799,,https://www.sec.gov/Archives/edgar/data/1949622/000196530126000136/0001965301-26-000136-index.htm,LOW
+2026-09-03T20:35:07+00:00,FORM_144,,"Playboy, Inc.",proposed sale $5K,5023,,https://www.sec.gov/Archives/edgar/data/1844982/000195917326006717/0001959173-26-006717-index.htm,LOW
+2026-09-03T20:35:07+00:00,FORM_144,,PEGASYSTEMS INC.,proposed sale $41K,41191,,https://www.sec.gov/Archives/edgar/data/1353196/000195004726009056/0001950047-26-009056-index.htm,LOW
+2026-09-03T20:35:30+00:00,FORM_144,,EverCommerce Inc.,proposed sale $51K,51266,,https://www.sec.gov/Archives/edgar/data/1856906/000195917326006716/0001959173-26-006716-index.htm,LOW
+2026-09-03T20:35:42+00:00,FORM_144,,"HAMILTON INSURANCE GROUP, LTD.",proposed sale $1.81M,1806215,,https://www.sec.gov/Archives/edgar/data/1593275/000195004726009055/0001950047-26-009055-index.htm,LOW
+2026-09-03T20:35:42+00:00,FORM_144,,FIRST FINANCIAL BANCORP /OH/,proposed sale $165K,164625,,https://www.sec.gov/Archives/edgar/data/1214961/000197248126000273/0001972481-26-000273-index.htm,LOW
+2026-09-03T20:35:43+00:00,FORM_144,,Permian Resources Corp,proposed sale $121K,121227,,https://www.sec.gov/Archives/edgar/data/2022478/000195917326006715/0001959173-26-006715-index.htm,LOW
+2026-09-03T20:35:43+00:00,FORM_144,,ETSY INC,proposed sale $244K,244488,,https://www.sec.gov/Archives/edgar/data/2068229/000196922326000994/0001969223-26-000994-index.htm,LOW
+2026-09-03T20:35:43+00:00,FORM_144,,"Opus Genetics, Inc.",proposed sale $125K,124600,,https://www.sec.gov/Archives/edgar/data/1504983/000197415826000100/0001974158-26-000100-index.htm,LOW
+2026-09-03T20:35:44+00:00,FORM_144,,ETSY INC,proposed sale $140K,140364,,https://www.sec.gov/Archives/edgar/data/1525358/000196922326000993/0001969223-26-000993-index.htm,LOW
+2026-09-03T20:35:44+00:00,FORM_144,,Nano Nuclear Energy Inc.,proposed sale $444K,444167,,https://www.sec.gov/Archives/edgar/data/2021757/000196922326000992/0001969223-26-000992-index.htm,LOW
+2026-09-03T20:35:45+00:00,FORM_144,,"Hinge Health, Inc.",proposed sale $1.24M,1239660,,https://www.sec.gov/Archives/edgar/data/1980707/000197407826000342/0001974078-26-000342-index.htm,LOW
+2026-09-03T20:35:45+00:00,FORM_144,,"REGENERON PHARMACEUTICALS, INC.",proposed sale $969K,969267,,https://www.sec.gov/Archives/edgar/data/1663758/000196922326000991/0001969223-26-000991-index.htm,LOW
+2026-09-03T20:35:45+00:00,FORM_144,,Permian Resources Corp,proposed sale $121K,121209,,https://www.sec.gov/Archives/edgar/data/1967415/000195917326006714/0001959173-26-006714-index.htm,LOW
+2026-09-03T20:35:46+00:00,FORM_144,,"Super Micro Computer, Inc.",proposed sale $3.72M,3718530,,https://www.sec.gov/Archives/edgar/data/1392941/000196922326000990/0001969223-26-000990-index.htm,LOW
+2026-09-03T20:35:46+00:00,FORM_144,,RenaissanceRe Holdings Ltd,proposed sale $3.25M,3248705,,https://www.sec.gov/Archives/edgar/data/1492528/000162828026060415/0001628280-26-060415-index.htm,LOW
+2026-09-03T20:35:47+00:00,FORM_144,,"ZILLOW GROUP, INC.",proposed sale $42K,42388,,https://www.sec.gov/Archives/edgar/data/1828912/000192109426000992/0001921094-26-000992-index.htm,LOW
+2026-09-03T20:35:47+00:00,FORM_144,,"BLOCK, INC.",proposed sale $501K,501420,,https://www.sec.gov/Archives/edgar/data/1933928/000195004726009054/0001950047-26-009054-index.htm,LOW
+2026-09-03T20:35:48+00:00,FORM_144,,ASSOCIATED BANC-CORP,proposed sale $40K,40381,,https://www.sec.gov/Archives/edgar/data/1791042/000196530126000135/0001965301-26-000135-index.htm,LOW
+2026-09-03T20:35:48+00:00,FORM_144,,"ZILLOW GROUP, INC.",proposed sale $28K,28282,,https://www.sec.gov/Archives/edgar/data/1617640/000192109426000991/0001921094-26-000991-index.htm,LOW
+2026-09-03T20:35:48+00:00,FORM_144,,"GRID DYNAMICS HOLDINGS, INC.",proposed sale $31K,31344,,https://www.sec.gov/Archives/edgar/data/1805673/000195004726009053/0001950047-26-009053-index.htm,LOW
+2026-09-03T20:35:49+00:00,FORM_144,,"DONNELLEY FINANCIAL SOLUTIONS, INC.",proposed sale $802K,802190,,https://www.sec.gov/Archives/edgar/data/1990064/000195004726009052/0001950047-26-009052-index.htm,LOW
+2026-09-03T20:35:49+00:00,FORM_144,,Snap Inc,proposed sale $68K,67542,,https://www.sec.gov/Archives/edgar/data/2096196/000192109426000990/0001921094-26-000990-index.htm,LOW
+2026-09-03T20:35:50+00:00,FORM_144,,SEI INVESTMENTS CO,proposed sale $4.15M,4151672,,https://www.sec.gov/Archives/edgar/data/1799975/000192109426000989/0001921094-26-000989-index.htm,LOW
+2026-09-03T20:35:50+00:00,FORM_144,,"PAGERDUTY, INC.",proposed sale $624K,623508,,https://www.sec.gov/Archives/edgar/data/1674159/000195004726009051/0001950047-26-009051-index.htm,LOW
+2026-09-03T20:35:51+00:00,FORM_144,,"ICU MEDICAL, INC.",proposed sale $819K,819150,,https://www.sec.gov/Archives/edgar/data/1669639/000195004726009050/0001950047-26-009050-index.htm,LOW
+2026-09-03T20:35:51+00:00,FORM_144,,"NLIGHT, INC.",proposed sale $171K,170527,,https://www.sec.gov/Archives/edgar/data/1914846/000195917326006713/0001959173-26-006713-index.htm,LOW
+2026-09-03T20:35:51+00:00,FORM_144,,"Kiniksa Pharmaceuticals International, plc",proposed sale $369K,369380,,https://www.sec.gov/Archives/edgar/data/1730430/000192109426000988/0001921094-26-000988-index.htm,LOW
+2026-09-03T20:35:52+00:00,FORM_144,,JFROG LTD.,proposed sale $773K,772730,,https://www.sec.gov/Archives/edgar/data/2006737/000195004726009048/0001950047-26-009048-index.htm,LOW
+2026-09-03T20:35:52+00:00,FORM_144,,THE SOUTHERN COMPANY,proposed sale $378K,377924,,https://www.sec.gov/Archives/edgar/data/2023851/000162828026060387/0001628280-26-060387-index.htm,LOW
+2026-09-03T20:35:52+00:00,FORM_144,,"HERITAGE INSURANCE HOLDINGS, INC.",proposed sale $88K,87750,,https://www.sec.gov/Archives/edgar/data/1607776/000195004726009047/0001950047-26-009047-index.htm,LOW
+2026-09-03T20:35:53+00:00,FORM_144,,UNITED THERAPEUTICS CORPORATION,proposed sale $4.00M,4000836,,https://www.sec.gov/Archives/edgar/data/1231589/000195004726009046/0001950047-26-009046-index.htm,LOW
+2026-09-03T20:35:53+00:00,FORM_144,,"Happen, Inc.",proposed sale $148K,147504,,https://www.sec.gov/Archives/edgar/data/1998222/000192109426000987/0001921094-26-000987-index.htm,LOW
+2026-09-03T20:35:54+00:00,FORM_144,,LUMENTUM HOLDINGS INC.,proposed sale $435K,435005,,https://www.sec.gov/Archives/edgar/data/1633978/000195004726009045/0001950047-26-009045-index.htm,LOW
+2026-09-03T20:35:54+00:00,FORM_144,,THE SOUTHERN COMPANY,proposed sale $124K,124418,,https://www.sec.gov/Archives/edgar/data/2082705/000162828026060384/0001628280-26-060384-index.htm,LOW
+2026-09-03T20:35:54+00:00,FORM_144,,"Lemonade, Inc.",proposed sale $47K,46928,,https://www.sec.gov/Archives/edgar/data/1816299/000195917326006712/0001959173-26-006712-index.htm,LOW
