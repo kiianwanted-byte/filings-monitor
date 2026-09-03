@@ -995,3 +995,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-03T15:59:33+00:00,FORM_144,,Lincoln National Corp,proposed sale $2.54M,2542830,,https://www.sec.gov/Archives/edgar/data/1931040/000196922326000989/0001969223-26-000989-index.htm,LOW
 2026-09-03T15:59:34+00:00,FORM_144,,"HORNBECK OFFSHORE SERVICES, INC.",proposed sale $1.33M,1332477,,https://www.sec.gov/Archives/edgar/data/1648839/000195917326006694/0001959173-26-006694-index.htm,LOW
 2026-09-03T15:59:34+00:00,FORM_144,,"Soluna Holdings, Inc",proposed sale $13K,12686,,https://www.sec.gov/Archives/edgar/data/1311899/000195917326006693/0001959173-26-006693-index.htm,LOW
+2026-09-03T16:28:41+00:00,FORM_144,,"Par Pacific Holdings, Inc.",proposed sale $2.22M,2223633,,https://www.sec.gov/Archives/edgar/data/1539898/000162828026060293/0001628280-26-060293-index.htm,LOW
+2026-09-03T16:28:42+00:00,FORM_144,,CuriosityStream Inc.,proposed sale $236K,235991,,https://www.sec.gov/Archives/edgar/data/1938940/000195917326006695/0001959173-26-006695-index.htm,LOW
