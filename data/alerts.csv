@@ -1147,3 +1147,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-03T23:15:01+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $81.94M,81938502,,https://www.sec.gov/Archives/edgar/data/1571996/000119312526382278/0001193125-26-382278-index.htm,LOW
 2026-09-03T23:15:01+00:00,FORM_144,,"Funko, Inc.",proposed sale $1.18M,1178000,,https://www.sec.gov/Archives/edgar/data/2084455/000208445526000004/0002084455-26-000004-index.htm,LOW
 2026-09-03T23:15:02+00:00,FORM_144,,"UNITY BANCORP, INC.",proposed sale $385K,384791,,https://www.sec.gov/Archives/edgar/data/1854802/000195004726009101/0001950047-26-009101-index.htm,LOW
+2026-09-03T23:24:21+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $42.86M,42855854,,https://www.sec.gov/Archives/edgar/data/1737659/000119312526382287/0001193125-26-382287-index.htm,LOW
+2026-09-03T23:24:21+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $754K,753558,,https://www.sec.gov/Archives/edgar/data/1735863/000119312526382286/0001193125-26-382286-index.htm,LOW
