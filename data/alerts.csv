@@ -953,3 +953,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-02T23:47:08+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $8K,7936,,https://www.sec.gov/Archives/edgar/data/2126748/000212674826000008/0002126748-26-000008-index.htm,LOW
 2026-09-02T23:55:15+00:00,FORM_144,,GrabAGun Digital Holdings Inc.,proposed sale $37K,36864,,https://www.sec.gov/Archives/edgar/data/2060555/000206055526000002/0002060555-26-000002-index.htm,LOW
 2026-09-03T00:34:26+00:00,FORM_144,,"Rackspace Technology, Inc.",proposed sale $25K,24856,,https://www.sec.gov/Archives/edgar/data/1810019/000181001926000096/0001810019-26-000096-index.htm,LOW
+2026-09-03T00:49:42+00:00,FORM_144,,"FULGENT GENETICS, INC.",proposed sale $42K,41809,,https://www.sec.gov/Archives/edgar/data/1819718/000181971826000013/0001819718-26-000013-index.htm,LOW
+2026-09-03T00:49:42+00:00,FORM_144,,"FULGENT GENETICS, INC.",proposed sale $33K,32885,,https://www.sec.gov/Archives/edgar/data/1684532/000168453226000011/0001684532-26-000011-index.htm,LOW
