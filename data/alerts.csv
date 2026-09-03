@@ -976,3 +976,10 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-03T14:47:37+00:00,FORM_144,,Fabrinet,proposed sale $995K,994950,,https://www.sec.gov/Archives/edgar/data/1785907/000197337926000334/0001973379-26-000334-index.htm,LOW
 2026-09-03T14:47:38+00:00,FORM_144,,"Live Oak Bancshares, Inc.",proposed sale $399K,398900,,https://www.sec.gov/Archives/edgar/data/1462120/000195917326006678/0001959173-26-006678-index.htm,LOW
 2026-09-03T14:57:33+00:00,FORM_144,,AUTOMATIC DATA PROCESSING INC,proposed sale $178K,178490,,https://www.sec.gov/Archives/edgar/data/1805266/000195917326006679/0001959173-26-006679-index.htm,LOW
+2026-09-03T15:10:44+00:00,FORM_144,,"Certara, Inc.",proposed sale $300K,300069,,https://www.sec.gov/Archives/edgar/data/1827090/000195917326006685/0001959173-26-006685-index.htm,LOW
+2026-09-03T15:10:45+00:00,FORM_144,,Cigna Group,proposed sale $175K,175258,,https://www.sec.gov/Archives/edgar/data/1739940/000195917326006684/0001959173-26-006684-index.htm,LOW
+2026-09-03T15:10:45+00:00,FORM_144,,OUTFRONT Media Inc.,proposed sale $101K,100940,,https://www.sec.gov/Archives/edgar/data/2075251/000195917326006683/0001959173-26-006683-index.htm,LOW
+2026-09-03T15:10:45+00:00,FORM_144,,"Rush Street Interactive, Inc.",proposed sale $611K,610880,,https://www.sec.gov/Archives/edgar/data/1793659/000195917326006682/0001959173-26-006682-index.htm,LOW
+2026-09-03T15:10:46+00:00,FORM_144,,"Warner Bros. Discovery, Inc.",proposed sale $5.67M,5672000,,https://www.sec.gov/Archives/edgar/data/1437107/000194984626000563/0001949846-26-000563-index.htm,LOW
+2026-09-03T15:10:46+00:00,FORM_144,,"Live Oak Bancshares, Inc.",proposed sale $64K,63824,,https://www.sec.gov/Archives/edgar/data/1824584/000195917326006681/0001959173-26-006681-index.htm,LOW
+2026-09-03T15:10:46+00:00,FORM_144,,"Clear Secure, Inc.",proposed sale $200K,200070,,https://www.sec.gov/Archives/edgar/data/2009636/000195917326006680/0001959173-26-006680-index.htm,LOW
