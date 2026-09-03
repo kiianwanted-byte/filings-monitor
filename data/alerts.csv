@@ -1011,3 +1011,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-03T18:57:38+00:00,FORM_144,,HORACE MANN EDUCATORS CORP /DE/,proposed sale $107K,107384,,https://www.sec.gov/Archives/edgar/data/1665149/000195917326006700/0001959173-26-006700-index.htm,LOW
 2026-09-03T19:09:38+00:00,FORM_144,,Murphy USA Inc.,proposed sale $52K,52359,,https://www.sec.gov/Archives/edgar/data/2106788/000195917326006701/0001959173-26-006701-index.htm,LOW
 2026-09-03T19:20:14+00:00,FORM_144,,"FirstCash Holdings, Inc.",proposed sale $808K,808350,,https://www.sec.gov/Archives/edgar/data/1168703/000196858226000926/0001968582-26-000926-index.htm,LOW
+2026-09-03T19:28:51+00:00,FORM_144,,GENWORTH FINANCIAL INC,proposed sale $1.05M,1052594,,https://www.sec.gov/Archives/edgar/data/1321272/000195917326006703/0001959173-26-006703-index.htm,LOW
+2026-09-03T19:28:51+00:00,FORM_144,,"Oscar Health, Inc.",proposed sale $908K,907950,,https://www.sec.gov/Archives/edgar/data/1568651/000195917326006702/0001959173-26-006702-index.htm,LOW
