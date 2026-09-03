@@ -989,3 +989,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-03T15:28:03+00:00,FORM_144,,"DigitalOcean Holdings, Inc.",proposed sale $421K,421334,,https://www.sec.gov/Archives/edgar/data/2002093/000195917326006686/0001959173-26-006686-index.htm,LOW
 2026-09-03T15:40:26+00:00,FORM_144,,"ITRON, INC.",proposed sale $994K,994045,,https://www.sec.gov/Archives/edgar/data/1802633/000195917326006690/0001959173-26-006690-index.htm,LOW
 2026-09-03T15:40:26+00:00,FORM_144,,EQUIFAX INC,proposed sale $846K,845820,,https://www.sec.gov/Archives/edgar/data/1222712/000195917326006689/0001959173-26-006689-index.htm,LOW
+2026-09-03T15:50:48+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $1.25B,1248104549,,https://www.sec.gov/Archives/edgar/data/1599858/000162828026060285/0001628280-26-060285-index.htm,LOW
+2026-09-03T15:50:49+00:00,FORM_144,,"Teladoc Health, Inc.",proposed sale $64K,63876,,https://www.sec.gov/Archives/edgar/data/2037547/000195917326006692/0001959173-26-006692-index.htm,LOW
+2026-09-03T15:50:49+00:00,FORM_144,,"DigitalOcean Holdings, Inc.",proposed sale $602K,602343,,https://www.sec.gov/Archives/edgar/data/1761862/000195917326006691/0001959173-26-006691-index.htm,LOW
