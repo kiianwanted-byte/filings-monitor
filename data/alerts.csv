@@ -983,3 +983,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-03T15:10:46+00:00,FORM_144,,"Warner Bros. Discovery, Inc.",proposed sale $5.67M,5672000,,https://www.sec.gov/Archives/edgar/data/1437107/000194984626000563/0001949846-26-000563-index.htm,LOW
 2026-09-03T15:10:46+00:00,FORM_144,,"Live Oak Bancshares, Inc.",proposed sale $64K,63824,,https://www.sec.gov/Archives/edgar/data/1824584/000195917326006681/0001959173-26-006681-index.htm,LOW
 2026-09-03T15:10:46+00:00,FORM_144,,"Clear Secure, Inc.",proposed sale $200K,200070,,https://www.sec.gov/Archives/edgar/data/2009636/000195917326006680/0001959173-26-006680-index.htm,LOW
+2026-09-03T15:27:55+00:00,INSIDER_CLUSTER,BRID,BRIDGFORD FOODS CORP,Bridgford Allan Jr. $6K,6137,2,https://www.sec.gov/Archives/edgar/data/1534107/000149315226041332/0001493152-26-041332-index.htm,HIGH
+2026-09-03T15:28:02+00:00,FORM_144,,"DigitalOcean Holdings, Inc.",proposed sale $1.06M,1057300,,https://www.sec.gov/Archives/edgar/data/1717324/000195917326006688/0001959173-26-006688-index.htm,LOW
+2026-09-03T15:28:03+00:00,FORM_144,,"Clear Secure, Inc.",proposed sale $94K,93564,,https://www.sec.gov/Archives/edgar/data/1882847/000195917326006687/0001959173-26-006687-index.htm,LOW
+2026-09-03T15:28:03+00:00,FORM_144,,"DigitalOcean Holdings, Inc.",proposed sale $421K,421334,,https://www.sec.gov/Archives/edgar/data/2002093/000195917326006686/0001959173-26-006686-index.htm,LOW
