@@ -968,3 +968,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-03T02:05:19+00:00,FORM_144,,"Eastern Bankshares, Inc.",proposed sale $493K,492929,,https://www.sec.gov/Archives/edgar/data/1825585/000119312526380729/0001193125-26-380729-index.htm,LOW
 2026-09-03T10:36:33+00:00,FORM_144,,KALTURA INC,proposed sale $136K,135655,,https://www.sec.gov/Archives/edgar/data/2009676/000197640826000800/0001976408-26-000800-index.htm,LOW
 2026-09-03T10:36:33+00:00,FORM_144,,PDD Holdings Inc.,proposed sale $140K,140236,,https://www.sec.gov/Archives/edgar/data/1993262/000197337926000333/0001973379-26-000333-index.htm,LOW
+2026-09-03T12:16:41+00:00,FORM_144,,BioNTech SE,proposed sale $89.09M,89090676,,https://www.sec.gov/Archives/edgar/data/1803150/000208592926000012/0002085929-26-000012-index.htm,LOW
+2026-09-03T12:16:41+00:00,FORM_144,,Kanzhun Limited,proposed sale $5.19M,5190000,,https://www.sec.gov/Archives/edgar/data/1994255/000110465926104930/0001104659-26-104930-index.htm,LOW
