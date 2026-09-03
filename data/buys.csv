@@ -197,3 +197,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-03T17:28:51+00:00,2026-09-01,FRST,Primis Financial Corp.,Johnson Eric Alan,Director,1280,15.60,19968,2.6,0001193125-26-381567
 2026-09-03T18:49:39+00:00,2026-09-02,TRST,TRUSTCO BANK CORP N Y,McCormick Lauren Ann,"VP,Treasurer, Asst. Corp. Sec.",436,57.34,25000,423.3,0001140361-26-035560
 2026-09-03T19:38:41+00:00,2026-06-18,N/A,AB Multi-Manager Alternative Fund,Briskin Brian,,5513,12.37,68201,16.3,0000919574-26-006165
+2026-09-03T20:20:04+00:00,2026-09-01,FTEK,"FUEL TECH, INC.",Nuggihalli Ramesh,President & CEO,1470,1.36,1999,NEW,0001437749-26-029608

@@ -1022,3 +1022,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-03T19:55:01+00:00,FORM_144,,Beta Bionics Inc,proposed sale $113K,113258,,https://www.sec.gov/Archives/edgar/data/2048593/000162828026060356/0001628280-26-060356-index.htm,LOW
 2026-09-03T19:55:02+00:00,FORM_144,,"NLIGHT, INC.",proposed sale $42K,41706,,https://www.sec.gov/Archives/edgar/data/1914730/000195917326006710/0001959173-26-006710-index.htm,LOW
 2026-09-03T19:55:02+00:00,FORM_144,,"Oscar Health, Inc.",proposed sale $286K,285949,,https://www.sec.gov/Archives/edgar/data/1842979/000195917326006709/0001959173-26-006709-index.htm,LOW
+2026-09-03T20:20:05+00:00,FORM_144,,MERCURY SYSTEMS INC,proposed sale $338K,338030,,https://www.sec.gov/Archives/edgar/data/1049521/000195917326006711/0001959173-26-006711-index.htm,LOW
