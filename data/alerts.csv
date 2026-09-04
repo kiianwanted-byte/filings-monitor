@@ -1176,3 +1176,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-04T15:45:37+00:00,FORM_144,,UNISYS CORP,proposed sale $27K,26764,,https://www.sec.gov/Archives/edgar/data/1989738/000195917326006738/0001959173-26-006738-index.htm,LOW
 2026-09-04T15:54:33+00:00,FORM_144,,"Energy Vault Holdings, Inc.",proposed sale $189K,189477,,https://www.sec.gov/Archives/edgar/data/1870889/000195917326006740/0001959173-26-006740-index.htm,LOW
 2026-09-04T15:54:33+00:00,FORM_144,,"Lemonade, Inc.",proposed sale $122K,122458,,https://www.sec.gov/Archives/edgar/data/1816299/000195917326006739/0001959173-26-006739-index.htm,LOW
+2026-09-04T16:21:05+00:00,FORM_144,,"Cencora, Inc.",proposed sale $3.35M,3351656,,https://www.sec.gov/Archives/edgar/data/1333281/000195917326006742/0001959173-26-006742-index.htm,LOW
+2026-09-04T16:21:05+00:00,FORM_144,,AGCO CORP /DE,proposed sale $338K,337888,,https://www.sec.gov/Archives/edgar/data/1581064/000195917326006741/0001959173-26-006741-index.htm,LOW
