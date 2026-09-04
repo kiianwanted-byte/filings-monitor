@@ -1163,3 +1163,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-04T14:06:02+00:00,FORM_144,,REPLIGEN CORP,proposed sale $504K,503506,,https://www.sec.gov/Archives/edgar/data/1995525/000195917326006730/0001959173-26-006730-index.htm,LOW
 2026-09-04T14:06:02+00:00,FORM_144,,TON Strategy Co,proposed sale $43K,42750,,https://www.sec.gov/Archives/edgar/data/1980183/000194984626000564/0001949846-26-000564-index.htm,LOW
 2026-09-04T14:06:02+00:00,FORM_144,,"Keysight Technologies, Inc.",proposed sale $652K,652200,,https://www.sec.gov/Archives/edgar/data/1621346/000195917326006729/0001959173-26-006729-index.htm,LOW
+2026-09-04T14:33:34+00:00,FORM_144,,"Delek US Holdings, Inc.",proposed sale $457K,457385,,https://www.sec.gov/Archives/edgar/data/1694426/000195917326006732/0001959173-26-006732-index.htm,LOW
+2026-09-04T14:33:35+00:00,FORM_144,,SEMTECH CORP,proposed sale $277K,277420,,https://www.sec.gov/Archives/edgar/data/1156899/000195917326006731/0001959173-26-006731-index.htm,LOW
