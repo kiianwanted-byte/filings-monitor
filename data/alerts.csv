@@ -1311,3 +1311,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-04T21:19:34+00:00,FORM_144,,TFS Financial CORP,proposed sale $176K,175700,,https://www.sec.gov/Archives/edgar/data/1388161/000195917326006770/0001959173-26-006770-index.htm,LOW
 2026-09-04T21:30:18+00:00,FORM_144,,TARSUS PHARMACEUTICALS INC,proposed sale $906K,905587,,https://www.sec.gov/Archives/edgar/data/1827672/000162828026060766/0001628280-26-060766-index.htm,LOW
 2026-09-04T21:41:16+00:00,FORM_144,,Frontier Group Holdings Inc,proposed sale $20K,19870,,https://www.sec.gov/Archives/edgar/data/2007448/000196922326001002/0001969223-26-001002-index.htm,LOW
+2026-09-04T22:10:36+00:00,FORM_144,,Amalgamated Financial Corp.,proposed sale $1.75M,1749440,,https://www.sec.gov/Archives/edgar/data/2009044/000090266426003753/0000902664-26-003753-index.htm,LOW
