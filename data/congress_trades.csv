@@ -2568,3 +2568,4 @@ timestamp,chamber,member,ticker,asset,action,amount_low,amount_high,trade_date,f
 2026-09-03T15:23:19+00:00,House,John J Mr McGuire III,NVDA,NVIDIA Corporation - Common Stock,BUY,1001,15000,2026-08-18,2026-09-02,15,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035367.pdf
 2026-09-03T15:23:20+00:00,House,Michael Rulli,ALL,Allstate Corporation,SELL,1001,15000,2026-08-12,2026-09-02,21,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035365.pdf
 2026-09-03T15:23:20+00:00,House,Michael Rulli,EQIX,"Equinix, Inc. - Common Stock",BUY,1001,15000,2026-08-07,2026-09-02,26,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035365.pdf
+2026-09-04T14:19:24+00:00,House,Jonathan Jackson,VSAT,"ViaSat, Inc. - Common Stock",SELL (partial),1001,15000,2026-08-28,2026-09-03,6,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035370.pdf
