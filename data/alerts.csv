@@ -1186,3 +1186,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-04T17:12:59+00:00,FORM_144,,"Crescent Capital BDC, Inc.",proposed sale $5.12M,5118750,,https://www.sec.gov/Archives/edgar/data/1633336/000208554126000005/0002085541-26-000005-index.htm,LOW
 2026-09-04T17:12:59+00:00,FORM_144,,"FIVE BELOW, INC",proposed sale $2.61M,2607100,,https://www.sec.gov/Archives/edgar/data/1222399/000197415826000101/0001974158-26-000101-index.htm,LOW
 2026-09-04T17:24:48+00:00,INSIDER_CLUSTER,GROV,"Grove Collaborative Holdings, Inc.",Landesberg Stuart $6K,5541,2,https://www.sec.gov/Archives/edgar/data/1930721/000184176126000094/0001841761-26-000094-index.htm,HIGH
+2026-09-04T17:42:53+00:00,INSIDER_CLUSTER,N/A,Fortress Net Lease REIT,"TIEDEMANN ADVISORS, LLC $5.00M",5000000,3,https://www.sec.gov/Archives/edgar/data/1972890/000091957426006190/0000919574-26-006190-index.htm,HIGH
+2026-09-04T17:42:55+00:00,FORM_144,,Corning Incorporated,proposed sale $1.50M,1503657,,https://www.sec.gov/Archives/edgar/data/2096996/000196922326000996/0001969223-26-000996-index.htm,LOW
