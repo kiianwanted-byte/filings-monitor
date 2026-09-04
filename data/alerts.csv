@@ -1194,3 +1194,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-04T18:13:54+00:00,FORM_144,,Snowflake Inc.,proposed sale $17.96M,17955783,,https://www.sec.gov/Archives/edgar/data/1640147/000197325126000034/0001973251-26-000034-index.htm,LOW
 2026-09-04T18:28:27+00:00,FORM_144,,WASTE MANAGEMENT INC,proposed sale $300K,300197,,https://www.sec.gov/Archives/edgar/data/1967811/000195917326006747/0001959173-26-006747-index.htm,LOW
 2026-09-04T18:28:27+00:00,FORM_144,,PROVIDENT FINANCIAL SERVICES INC,proposed sale $119K,118850,,https://www.sec.gov/Archives/edgar/data/1540789/000194984626000566/0001949846-26-000566-index.htm,LOW
+2026-09-04T18:40:18+00:00,FORM_144,,SEMTECH CORP,proposed sale $218K,217500,,https://www.sec.gov/Archives/edgar/data/1871750/000195917326006748/0001959173-26-006748-index.htm,LOW
