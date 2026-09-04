@@ -1251,3 +1251,52 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-04T20:15:53+00:00,FORM_144,,TFS Financial CORP,proposed sale $176K,175700,,https://www.sec.gov/Archives/edgar/data/1757689/000195917326006757/0001959173-26-006757-index.htm,LOW
 2026-09-04T20:15:53+00:00,FORM_144,,Stellantis N.V.,proposed sale $126K,126454,,https://www.sec.gov/Archives/edgar/data/1975315/000197449426000288/0001974494-26-000288-index.htm,LOW
 2026-09-04T20:15:54+00:00,FORM_144,,Stellantis N.V.,proposed sale $70K,69848,,https://www.sec.gov/Archives/edgar/data/2078693/000197449426000287/0001974494-26-000287-index.htm,LOW
+2026-09-04T20:39:58+00:00,FORM_144,,FIVE9 INC COM,proposed sale $457K,457246,,https://www.sec.gov/Archives/edgar/data/1886762/000195004726009154/0001950047-26-009154-index.htm,LOW
+2026-09-04T20:39:58+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $2.85M,2845827,,https://www.sec.gov/Archives/edgar/data/2016161/000195917326006769/0001959173-26-006769-index.htm,LOW
+2026-09-04T20:39:59+00:00,FORM_144,,FIVE9 INC,proposed sale $488K,488073,,https://www.sec.gov/Archives/edgar/data/2063775/000195004726009153/0001950047-26-009153-index.htm,LOW
+2026-09-04T20:39:59+00:00,FORM_144,,"FIVE9, INC",proposed sale $281K,281188,,https://www.sec.gov/Archives/edgar/data/1940974/000195004726009152/0001950047-26-009152-index.htm,LOW
+2026-09-04T20:39:59+00:00,FORM_144,,FIVE9 INC. COM,proposed sale $92K,92274,,https://www.sec.gov/Archives/edgar/data/1846877/000195004726009151/0001950047-26-009151-index.htm,LOW
+2026-09-04T20:40:00+00:00,FORM_144,,"Amplitude, Inc.",proposed sale $3.90M,3897742,,https://www.sec.gov/Archives/edgar/data/2121274/000195917326006768/0001959173-26-006768-index.htm,LOW
+2026-09-04T20:40:00+00:00,FORM_144,,"Disc Medicine, Inc.",proposed sale $1K,1428,,https://www.sec.gov/Archives/edgar/data/1816736/000162828026060748/0001628280-26-060748-index.htm,LOW
+2026-09-04T20:40:00+00:00,FORM_144,,"Disc Medicine, Inc.",proposed sale $60K,60241,,https://www.sec.gov/Archives/edgar/data/1885327/000162828026060747/0001628280-26-060747-index.htm,LOW
+2026-09-04T20:40:01+00:00,FORM_144,,"Disc Medicine, Inc.",proposed sale $72K,72385,,https://www.sec.gov/Archives/edgar/data/1816736/000162828026060746/0001628280-26-060746-index.htm,LOW
+2026-09-04T20:40:01+00:00,FORM_144,,FIVE9 INC,proposed sale $248K,248213,,https://www.sec.gov/Archives/edgar/data/2000932/000195004726009150/0001950047-26-009150-index.htm,LOW
+2026-09-04T20:40:01+00:00,FORM_144,,"Krystal Biotech, Inc.",proposed sale $9.29M,9286750,,https://www.sec.gov/Archives/edgar/data/1711279/000195004726009149/0001950047-26-009149-index.htm,LOW
+2026-09-04T20:40:02+00:00,FORM_144,,"Krystal Biotech, Inc.",proposed sale $9.29M,9286750,,https://www.sec.gov/Archives/edgar/data/1711279/000195004726009148/0001950047-26-009148-index.htm,LOW
+2026-09-04T20:40:02+00:00,FORM_144,,"MAZE THERAPEUTICS, INC.",proposed sale $251K,251068,,https://www.sec.gov/Archives/edgar/data/2050172/000195004726009147/0001950047-26-009147-index.htm,LOW
+2026-09-04T20:40:02+00:00,FORM_144,,"VERACYTE, INC.",proposed sale $145K,145356,,https://www.sec.gov/Archives/edgar/data/1914620/000195004726009146/0001950047-26-009146-index.htm,LOW
+2026-09-04T20:40:03+00:00,FORM_144,,VERACYTE INC COM,proposed sale $163K,163134,,https://www.sec.gov/Archives/edgar/data/1823563/000195004726009145/0001950047-26-009145-index.htm,LOW
+2026-09-04T20:40:03+00:00,FORM_144,,CEREBRAS SYSTEMS INC,proposed sale $7.13M,7130264,,https://www.sec.gov/Archives/edgar/data/2039573/000195004726009144/0001950047-26-009144-index.htm,LOW
+2026-09-04T20:40:03+00:00,FORM_144,,"Disc Medicine, Inc.",proposed sale $176K,175566,,https://www.sec.gov/Archives/edgar/data/1816736/000162828026060745/0001628280-26-060745-index.htm,LOW
+2026-09-04T20:40:04+00:00,FORM_144,,"Datadog, Inc.",proposed sale $1.21M,1208025,,https://www.sec.gov/Archives/edgar/data/1561550/000195004726009143/0001950047-26-009143-index.htm,LOW
+2026-09-04T20:40:04+00:00,FORM_144,,"Playboy, Inc.",proposed sale $30K,30044,,https://www.sec.gov/Archives/edgar/data/1844982/000195917326006767/0001959173-26-006767-index.htm,LOW
+2026-09-04T20:40:04+00:00,FORM_144,,KENNAMETAL INC,proposed sale $611K,610723,,https://www.sec.gov/Archives/edgar/data/1530038/000195917326006766/0001959173-26-006766-index.htm,LOW
+2026-09-04T20:40:05+00:00,FORM_144,,DOORDASH INC,proposed sale $92K,91686,,https://www.sec.gov/Archives/edgar/data/1792789/000195004726009142/0001950047-26-009142-index.htm,LOW
+2026-09-04T20:40:05+00:00,FORM_144,,HARMONY BIOSCIENCES HOLDINGS INC,proposed sale $230K,230230,,https://www.sec.gov/Archives/edgar/data/2009762/000195004726009141/0001950047-26-009141-index.htm,LOW
+2026-09-04T20:40:05+00:00,FORM_144,,"Sight Sciences, Inc.",proposed sale $101K,101265,,https://www.sec.gov/Archives/edgar/data/1650737/000195917326006765/0001959173-26-006765-index.htm,LOW
+2026-09-04T20:40:06+00:00,FORM_144,,PAYLOCITY HOLDING CORPORATION,proposed sale $11K,10655,,https://www.sec.gov/Archives/edgar/data/1742758/000195004726009140/0001950047-26-009140-index.htm,LOW
+2026-09-04T20:40:06+00:00,FORM_144,,"VERACYTE, INC.",proposed sale $586K,585623,,https://www.sec.gov/Archives/edgar/data/1649245/000195004726009139/0001950047-26-009139-index.htm,LOW
+2026-09-04T20:40:06+00:00,FORM_144,,WORKDAY INC CL A,proposed sale $18.75M,18750055,,https://www.sec.gov/Archives/edgar/data/1327811/000195004726009138/0001950047-26-009138-index.htm,LOW
+2026-09-04T20:40:07+00:00,FORM_144,,DROPBOX INC,proposed sale $164K,164148,,https://www.sec.gov/Archives/edgar/data/1775679/000195004726009137/0001950047-26-009137-index.htm,LOW
+2026-09-04T20:40:07+00:00,FORM_144,,DROPBOX INC,proposed sale $442K,442037,,https://www.sec.gov/Archives/edgar/data/2059795/000195004726009136/0001950047-26-009136-index.htm,LOW
+2026-09-04T20:40:07+00:00,FORM_144,,Riskified Ltd.,proposed sale $1.04M,1039500,,https://www.sec.gov/Archives/edgar/data/1907735/000195004726009135/0001950047-26-009135-index.htm,LOW
+2026-09-04T20:40:08+00:00,FORM_144,,Gen Digital Inc.,proposed sale $885K,885009,,https://www.sec.gov/Archives/edgar/data/1800741/000195004726009134/0001950047-26-009134-index.htm,LOW
+2026-09-04T20:40:08+00:00,FORM_144,,Freshworks Inc.,proposed sale $254K,253626,,https://www.sec.gov/Archives/edgar/data/1771433/000195004726009133/0001950047-26-009133-index.htm,LOW
+2026-09-04T20:40:08+00:00,FORM_144,,"CEREBRAS SYSTEMS, INC.",proposed sale $10.18M,10180922,,https://www.sec.gov/Archives/edgar/data/2132472/000195004726009132/0001950047-26-009132-index.htm,LOW
+2026-09-04T20:40:09+00:00,FORM_144,,"RIMINI STREET, INC.",proposed sale $450K,449960,,https://www.sec.gov/Archives/edgar/data/1717716/000195004726009131/0001950047-26-009131-index.htm,LOW
+2026-09-04T20:40:09+00:00,FORM_144,,"AFFIRM HOLDINGS, INC.",proposed sale $1.81M,1810265,,https://www.sec.gov/Archives/edgar/data/1832806/000195004726009130/0001950047-26-009130-index.htm,LOW
+2026-09-04T20:40:09+00:00,FORM_144,,Shopify Inc.,proposed sale $3.54M,3536880,,https://www.sec.gov/Archives/edgar/data/1666546/000119312526383695/0001193125-26-383695-index.htm,LOW
+2026-09-04T20:40:10+00:00,FORM_144,,"WEAVE COMMUNICATIONS, INC.",proposed sale $108K,107640,,https://www.sec.gov/Archives/edgar/data/1639299/000195004726009129/0001950047-26-009129-index.htm,LOW
+2026-09-04T20:40:10+00:00,FORM_144,,"ARVINAS, INC.",proposed sale $78K,78438,,https://www.sec.gov/Archives/edgar/data/1655759/000195004726009128/0001950047-26-009128-index.htm,LOW
+2026-09-04T20:40:10+00:00,FORM_144,,"WEAVE COMMUNICATIONS, INC.",proposed sale $7K,7357,,https://www.sec.gov/Archives/edgar/data/1639298/000195004726009127/0001950047-26-009127-index.htm,LOW
+2026-09-04T20:40:11+00:00,FORM_144,,"Arhaus, Inc.",proposed sale $30K,30222,,https://www.sec.gov/Archives/edgar/data/1875444/000195917326006764/0001959173-26-006764-index.htm,LOW
+2026-09-04T20:40:11+00:00,FORM_144,,CREDO TECHNOLOGY GROUP HOLDING LTD,proposed sale $644K,644300,,https://www.sec.gov/Archives/edgar/data/1896170/000195004726009126/0001950047-26-009126-index.htm,LOW
+2026-09-04T20:40:11+00:00,FORM_144,,"EQUINIX, INC.",proposed sale $318K,317748,,https://www.sec.gov/Archives/edgar/data/2056547/000195004726009125/0001950047-26-009125-index.htm,LOW
+2026-09-04T20:40:12+00:00,FORM_144,,"AGILENT TECHNOLOGIES, INC.",proposed sale $96K,95971,,https://www.sec.gov/Archives/edgar/data/1437590/000195917326006763/0001959173-26-006763-index.htm,LOW
+2026-09-04T20:40:12+00:00,FORM_144,,INNODATA INC.,proposed sale $550K,550114,,https://www.sec.gov/Archives/edgar/data/1197984/000195004726009124/0001950047-26-009124-index.htm,LOW
+2026-09-04T20:40:12+00:00,FORM_144,,EverCommerce Inc.,proposed sale $24K,24026,,https://www.sec.gov/Archives/edgar/data/1856906/000195917326006762/0001959173-26-006762-index.htm,LOW
+2026-09-04T20:40:13+00:00,FORM_144,,"EQUITABLE HOLDINGS, INC.",proposed sale $53K,52825,,https://www.sec.gov/Archives/edgar/data/1916941/000195004726009123/0001950047-26-009123-index.htm,LOW
+2026-09-04T20:40:13+00:00,FORM_144,,LivaNova PLC,proposed sale $187K,187270,,https://www.sec.gov/Archives/edgar/data/1866136/000196430626000428/0001964306-26-000428-index.htm,LOW
+2026-09-04T20:40:13+00:00,FORM_144,,"KYMERA THERAPEUTICS, INC.",proposed sale $747K,747191,,https://www.sec.gov/Archives/edgar/data/1815442/000119312526383667/0001193125-26-383667-index.htm,LOW
+2026-09-04T20:40:14+00:00,FORM_144,,"SCANSOURCE, INC.",proposed sale $304K,303986,,https://www.sec.gov/Archives/edgar/data/1976915/000196430626000427/0001964306-26-000427-index.htm,LOW
+2026-09-04T20:40:14+00:00,FORM_144,,"DONALDSON COMPANY, INC.",proposed sale $2.91M,2912380,,https://www.sec.gov/Archives/edgar/data/1441791/000195004726009122/0001950047-26-009122-index.htm,LOW
