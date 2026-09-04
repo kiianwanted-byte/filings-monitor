@@ -1190,3 +1190,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-04T17:42:55+00:00,FORM_144,,Corning Incorporated,proposed sale $1.50M,1503657,,https://www.sec.gov/Archives/edgar/data/2096996/000196922326000996/0001969223-26-000996-index.htm,LOW
 2026-09-04T17:50:55+00:00,INSIDER_CLUSTER,SMID,SMITH MIDLAND CORP,SMITH ASHLEY B $10K,9804,2828,https://www.sec.gov/Archives/edgar/data/1274098/000165495426008138/0001654954-26-008138-index.htm,HIGH
 2026-09-04T17:50:57+00:00,FORM_144,,ABERCROMBIE & FITCH CO /DE/,proposed sale $294K,293633,,https://www.sec.gov/Archives/edgar/data/1718601/000195917326006746/0001959173-26-006746-index.htm,LOW
+2026-09-04T18:13:51+00:00,INSIDER_CLUSTER,CSBB,"CSB Bancorp, Inc.",STEINER EDDIE L $37K,36755,2,https://www.sec.gov/Archives/edgar/data/1202390/000119312526383385/0001193125-26-383385-index.htm,HIGH
+2026-09-04T18:13:54+00:00,FORM_144,,Snowflake Inc.,proposed sale $17.96M,17955783,,https://www.sec.gov/Archives/edgar/data/1640147/000197325126000034/0001973251-26-000034-index.htm,LOW
