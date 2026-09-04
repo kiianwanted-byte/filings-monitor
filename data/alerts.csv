@@ -1160,3 +1160,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-04T01:21:34+00:00,FORM_144,,Amalgamated Financial Corp.,proposed sale $9.63M,9628000,,https://www.sec.gov/Archives/edgar/data/2009104/000090266426003739/0000902664-26-003739-index.htm,LOW
 2026-09-04T01:21:34+00:00,FORM_144,,"QVC Group, Inc.",proposed sale $11.84M,11844000,,https://www.sec.gov/Archives/edgar/data/1332784/000119312526382467/0001193125-26-382467-index.htm,LOW
 2026-09-04T10:09:43+00:00,FORM_144,,CBL International Ltd,proposed sale $1.52M,1524000,,https://www.sec.gov/Archives/edgar/data/1948937/000149315226041435/0001493152-26-041435-index.htm,LOW
+2026-09-04T14:06:02+00:00,FORM_144,,REPLIGEN CORP,proposed sale $504K,503506,,https://www.sec.gov/Archives/edgar/data/1995525/000195917326006730/0001959173-26-006730-index.htm,LOW
+2026-09-04T14:06:02+00:00,FORM_144,,TON Strategy Co,proposed sale $43K,42750,,https://www.sec.gov/Archives/edgar/data/1980183/000194984626000564/0001949846-26-000564-index.htm,LOW
+2026-09-04T14:06:02+00:00,FORM_144,,"Keysight Technologies, Inc.",proposed sale $652K,652200,,https://www.sec.gov/Archives/edgar/data/1621346/000195917326006729/0001959173-26-006729-index.htm,LOW
