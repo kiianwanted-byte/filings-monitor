@@ -1300,3 +1300,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-04T20:40:13+00:00,FORM_144,,"KYMERA THERAPEUTICS, INC.",proposed sale $747K,747191,,https://www.sec.gov/Archives/edgar/data/1815442/000119312526383667/0001193125-26-383667-index.htm,LOW
 2026-09-04T20:40:14+00:00,FORM_144,,"SCANSOURCE, INC.",proposed sale $304K,303986,,https://www.sec.gov/Archives/edgar/data/1976915/000196430626000427/0001964306-26-000427-index.htm,LOW
 2026-09-04T20:40:14+00:00,FORM_144,,"DONALDSON COMPANY, INC.",proposed sale $2.91M,2912380,,https://www.sec.gov/Archives/edgar/data/1441791/000195004726009122/0001950047-26-009122-index.htm,LOW
+2026-09-04T20:47:49+00:00,FORM_144,,"CARIS LIFE SCIENCES, INC.",proposed sale $2.95M,2951116,,https://www.sec.gov/Archives/edgar/data/2071953/000195004726009157/0001950047-26-009157-index.htm,LOW
+2026-09-04T20:47:49+00:00,FORM_144,,ELASTIC N.V.,proposed sale $7.47M,7465804,,https://www.sec.gov/Archives/edgar/data/1753445/000195004726009156/0001950047-26-009156-index.htm,LOW
+2026-09-04T20:47:50+00:00,FORM_144,,"Ambiq Micro, Inc.",proposed sale $1.69M,1692900,,https://www.sec.gov/Archives/edgar/data/2078559/000195004726009155/0001950047-26-009155-index.htm,LOW
