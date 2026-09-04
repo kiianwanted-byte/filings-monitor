@@ -1156,3 +1156,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-03T23:58:39+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $2.80M,2796646,,https://www.sec.gov/Archives/edgar/data/2126744/000212674426000008/0002126744-26-000008-index.htm,LOW
 2026-09-03T23:58:39+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $26K,25648,,https://www.sec.gov/Archives/edgar/data/2126748/000212674826000009/0002126748-26-000009-index.htm,LOW
 2026-09-03T23:58:40+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $318K,317921,,https://www.sec.gov/Archives/edgar/data/2126751/000212675126000008/0002126751-26-000008-index.htm,LOW
+2026-09-04T00:37:58+00:00,INSIDER_CLUSTER,OVLY,Oak Valley Bancorp,LAFFERTY ALLISON $44K,44352,8,https://www.sec.gov/Archives/edgar/data/1719092/000143774926029649/0001437749-26-029649-index.htm,HIGH
