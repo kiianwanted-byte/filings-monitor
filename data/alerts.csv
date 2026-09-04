@@ -1168,3 +1168,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-04T14:45:10+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $13.13M,13130520,,https://www.sec.gov/Archives/edgar/data/1850336/000195917326006734/0001959173-26-006734-index.htm,LOW
 2026-09-04T14:45:10+00:00,FORM_144,,STARBUCKS CORP,proposed sale $235K,235382,,https://www.sec.gov/Archives/edgar/data/2018223/000195917326006733/0001959173-26-006733-index.htm,LOW
 2026-09-04T14:55:22+00:00,FORM_144,,Strategy Inc,proposed sale $15K,14707,,https://www.sec.gov/Archives/edgar/data/1834012/000195917326006735/0001959173-26-006735-index.htm,LOW
+2026-09-04T15:21:32+00:00,FORM_144,,"NLIGHT, INC.",proposed sale $146K,146210,,https://www.sec.gov/Archives/edgar/data/1914846/000195917326006736/0001959173-26-006736-index.htm,LOW
+2026-09-04T15:21:32+00:00,FORM_144,,"Great Southern Bancorp, Inc",proposed sale $69K,68665,,https://www.sec.gov/Archives/edgar/data/1179760/000162828026060643/0001628280-26-060643-index.htm,LOW
