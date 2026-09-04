@@ -1200,3 +1200,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-04T19:09:56+00:00,FORM_144,,Embecta Corp.,proposed sale $37K,36891,,https://www.sec.gov/Archives/edgar/data/1872789/000100027526000105/0001000275-26-000105-index.htm,LOW
 2026-09-04T19:09:57+00:00,FORM_144,,"Avidbank Holdings, Inc.",proposed sale $94K,94500,,https://www.sec.gov/Archives/edgar/data/1443575/000132919626000004/0001329196-26-000004-index.htm,LOW
 2026-09-04T19:19:01+00:00,FORM_144,,ALAMO GROUP INC,proposed sale $443K,443163,,https://www.sec.gov/Archives/edgar/data/1546251/000195917326006750/0001959173-26-006750-index.htm,LOW
+2026-09-04T19:27:21+00:00,FORM_144,,AGCO CORP /DE,proposed sale $133K,132890,,https://www.sec.gov/Archives/edgar/data/1835885/000195917326006751/0001959173-26-006751-index.htm,LOW
