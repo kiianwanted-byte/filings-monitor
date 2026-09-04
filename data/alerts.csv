@@ -1197,3 +1197,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-04T18:40:18+00:00,FORM_144,,SEMTECH CORP,proposed sale $218K,217500,,https://www.sec.gov/Archives/edgar/data/1871750/000195917326006748/0001959173-26-006748-index.htm,LOW
 2026-09-04T18:50:33+00:00,FORM_144,,American States Water Co,proposed sale $48K,48420,,https://www.sec.gov/Archives/edgar/data/1388959/000162828026060684/0001628280-26-060684-index.htm,LOW
 2026-09-04T18:58:54+00:00,FORM_144,,"Enliven Therapeutics, Inc.",proposed sale $2.25M,2252830,,https://www.sec.gov/Archives/edgar/data/1672619/000195917326006749/0001959173-26-006749-index.htm,LOW
+2026-09-04T19:09:56+00:00,FORM_144,,Embecta Corp.,proposed sale $37K,36891,,https://www.sec.gov/Archives/edgar/data/1872789/000100027526000105/0001000275-26-000105-index.htm,LOW
+2026-09-04T19:09:57+00:00,FORM_144,,"Avidbank Holdings, Inc.",proposed sale $94K,94500,,https://www.sec.gov/Archives/edgar/data/1443575/000132919626000004/0001329196-26-000004-index.htm,LOW
