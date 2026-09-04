@@ -1307,3 +1307,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-04T20:55:41+00:00,FORM_144,,Cerebras Systems Inc.,proposed sale $9.52M,9522000,,https://www.sec.gov/Archives/edgar/data/2021728/000162828026060754/0001628280-26-060754-index.htm,LOW
 2026-09-04T20:55:41+00:00,FORM_144,,"NMI HOLDINGS, INC.",proposed sale $8.56M,8563348,,https://www.sec.gov/Archives/edgar/data/1706001/000195004726009159/0001950047-26-009159-index.htm,LOW
 2026-09-04T20:55:42+00:00,FORM_144,,"RINGCENTRAL, INC.",proposed sale $647K,646813,,https://www.sec.gov/Archives/edgar/data/1599821/000195004726009158/0001950047-26-009158-index.htm,LOW
+2026-09-04T21:06:22+00:00,FORM_144,,"BARK, INC.",proposed sale $53K,53046,,https://www.sec.gov/Archives/edgar/data/1819574/000195004726009160/0001950047-26-009160-index.htm,LOW
