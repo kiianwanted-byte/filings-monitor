@@ -1159,3 +1159,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-04T00:37:58+00:00,INSIDER_CLUSTER,OVLY,Oak Valley Bancorp,LAFFERTY ALLISON $44K,44352,8,https://www.sec.gov/Archives/edgar/data/1719092/000143774926029649/0001437749-26-029649-index.htm,HIGH
 2026-09-04T01:21:34+00:00,FORM_144,,Amalgamated Financial Corp.,proposed sale $9.63M,9628000,,https://www.sec.gov/Archives/edgar/data/2009104/000090266426003739/0000902664-26-003739-index.htm,LOW
 2026-09-04T01:21:34+00:00,FORM_144,,"QVC Group, Inc.",proposed sale $11.84M,11844000,,https://www.sec.gov/Archives/edgar/data/1332784/000119312526382467/0001193125-26-382467-index.htm,LOW
+2026-09-04T10:09:43+00:00,FORM_144,,CBL International Ltd,proposed sale $1.52M,1524000,,https://www.sec.gov/Archives/edgar/data/1948937/000149315226041435/0001493152-26-041435-index.htm,LOW

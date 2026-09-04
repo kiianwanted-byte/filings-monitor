@@ -218,3 +218,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-03T23:14:46+00:00,2026-09-01,NONE,Privacore VPC Asset Backed Credit Fund,"Corbin Capital Partners, L.P.",10% owner,246305,10.15,2500000,6.6,0000895345-26-000394
 2026-09-04T00:37:56+00:00,2026-09-02,AON,Aon plc,KNIGHT LESTER B,Director,20000,327.48,6549688,14.0,0001193125-26-382419
 2026-09-04T00:37:58+00:00,2026-08-26,OVLY,Oak Valley Bancorp,LAFFERTY ALLISON,Director,1307,33.93,44352,15.0,0001437749-26-029649
+2026-09-04T10:09:37+00:00,2026-09-02,BZUN,Baozun Inc.,Wu Junhua,"Director, Chief Strategy Officer",13500,2.85,38475,5.3,0001104659-26-105187
