@@ -1179,3 +1179,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-04T16:21:05+00:00,FORM_144,,"Cencora, Inc.",proposed sale $3.35M,3351656,,https://www.sec.gov/Archives/edgar/data/1333281/000195917326006742/0001959173-26-006742-index.htm,LOW
 2026-09-04T16:21:05+00:00,FORM_144,,AGCO CORP /DE,proposed sale $338K,337888,,https://www.sec.gov/Archives/edgar/data/1581064/000195917326006741/0001959173-26-006741-index.htm,LOW
 2026-09-04T16:32:40+00:00,FORM_144,,C & F FINANCIAL CORP,proposed sale $236K,235825,,https://www.sec.gov/Archives/edgar/data/1601269/000194984626000565/0001949846-26-000565-index.htm,LOW
+2026-09-04T16:42:58+00:00,FORM_144,,Grocery Outlet Holding Corp.,proposed sale $405K,404563,,https://www.sec.gov/Archives/edgar/data/1771515/000195917326006743/0001959173-26-006743-index.htm,LOW
