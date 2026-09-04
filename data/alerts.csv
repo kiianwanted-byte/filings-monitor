@@ -1203,3 +1203,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-04T19:27:21+00:00,FORM_144,,AGCO CORP /DE,proposed sale $133K,132890,,https://www.sec.gov/Archives/edgar/data/1835885/000195917326006751/0001959173-26-006751-index.htm,LOW
 2026-09-04T19:36:28+00:00,FORM_144,,Entravision Communications Corp,proposed sale $291K,290660,,https://www.sec.gov/Archives/edgar/data/1245883/000196922326000997/0001969223-26-000997-index.htm,LOW
 2026-09-04T19:36:28+00:00,FORM_144,,"Butterfly Network, Inc.",proposed sale $101K,100792,,https://www.sec.gov/Archives/edgar/data/2080055/000195917326006752/0001959173-26-006752-index.htm,LOW
+2026-09-04T19:44:21+00:00,FORM_144,,"Rapid7, Inc.",proposed sale $57K,56747,,https://www.sec.gov/Archives/edgar/data/1560327/000194984626000567/0001949846-26-000567-index.htm,LOW
+2026-09-04T19:44:22+00:00,FORM_144,,"Tarsus Pharmaceuticals, Inc.",proposed sale $388K,387940,,https://www.sec.gov/Archives/edgar/data/1827584/000195917326006753/0001959173-26-006753-index.htm,LOW
