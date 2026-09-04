@@ -1214,3 +1214,40 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-04T19:52:16+00:00,FORM_144,,Stellantis N.V.,proposed sale $105K,104508,,https://www.sec.gov/Archives/edgar/data/2078142/000197449426000280/0001974494-26-000280-index.htm,LOW
 2026-09-04T19:52:16+00:00,FORM_144,,"Butterfly Network, Inc.",proposed sale $1.02M,1023055,,https://www.sec.gov/Archives/edgar/data/2035576/000195917326006754/0001959173-26-006754-index.htm,LOW
 2026-09-04T19:52:17+00:00,FORM_144,,Stellantis N.V.,proposed sale $9K,9274,,https://www.sec.gov/Archives/edgar/data/2026990/000197449426000279/0001974494-26-000279-index.htm,LOW
+2026-09-04T20:15:23+00:00,INSIDER_CLUSTER,EQPT,EquipmentShare.com Inc,Schlacks William J. $178K,177900,2,https://www.sec.gov/Archives/edgar/data/2091309/000162828026060731/0001628280-26-060731-index.htm,HIGH
+2026-09-04T20:15:40+00:00,FORM_144,,"Verisk Analytics, Inc.",proposed sale $192K,192498,,https://www.sec.gov/Archives/edgar/data/1803783/000196430626000426/0001964306-26-000426-index.htm,LOW
+2026-09-04T20:15:41+00:00,FORM_144,,"SALESFORCE, INC.",proposed sale $1.17M,1172746,,https://www.sec.gov/Archives/edgar/data/1340922/000195004726009121/0001950047-26-009121-index.htm,LOW
+2026-09-04T20:15:41+00:00,FORM_144,,PG&E Corp,proposed sale $89K,89440,,https://www.sec.gov/Archives/edgar/data/1817000/000192109426000996/0001921094-26-000996-index.htm,LOW
+2026-09-04T20:15:42+00:00,FORM_144,,"ARS PHARMACEUTICALS, INC.",proposed sale $421K,421057,,https://www.sec.gov/Archives/edgar/data/1671858/000195004726009120/0001950047-26-009120-index.htm,LOW
+2026-09-04T20:15:42+00:00,FORM_144,,Samsara Inc.,proposed sale $1.31M,1310778,,https://www.sec.gov/Archives/edgar/data/1895148/000192109426000995/0001921094-26-000995-index.htm,LOW
+2026-09-04T20:15:42+00:00,FORM_144,,"Vaxcyte, Inc.",proposed sale $82K,82487,,https://www.sec.gov/Archives/edgar/data/1813798/000196922326001001/0001969223-26-001001-index.htm,LOW
+2026-09-04T20:15:43+00:00,FORM_144,,"Happen, Inc.",proposed sale $160K,160259,,https://www.sec.gov/Archives/edgar/data/1644258/000192109426000994/0001921094-26-000994-index.htm,LOW
+2026-09-04T20:15:43+00:00,FORM_144,,"AMBIQ MICRO, INC.",proposed sale $11K,10530,,https://www.sec.gov/Archives/edgar/data/1500412/000195004726009119/0001950047-26-009119-index.htm,LOW
+2026-09-04T20:15:43+00:00,FORM_144,,"Super Micro Computer, Inc.",proposed sale $4.00M,4000050,,https://www.sec.gov/Archives/edgar/data/1392941/000196922326001000/0001969223-26-001000-index.htm,LOW
+2026-09-04T20:15:44+00:00,FORM_144,,"Frontier Group Holdings, Inc.",proposed sale $43K,43125,,https://www.sec.gov/Archives/edgar/data/2011128/000196922326000999/0001969223-26-000999-index.htm,LOW
+2026-09-04T20:15:44+00:00,FORM_144,,URBAN OUTFITTERS INC,proposed sale $460K,460276,,https://www.sec.gov/Archives/edgar/data/1834896/000195917326006761/0001959173-26-006761-index.htm,LOW
+2026-09-04T20:15:45+00:00,FORM_144,,"ILLUMINA, INC.",proposed sale $31.99M,31987500,,https://www.sec.gov/Archives/edgar/data/1535472/000131586326000630/0001315863-26-000630-index.htm,LOW
+2026-09-04T20:15:45+00:00,FORM_144,,CORVEL CORP,proposed sale $996K,996289,,https://www.sec.gov/Archives/edgar/data/1256520/000196922326000998/0001969223-26-000998-index.htm,LOW
+2026-09-04T20:15:45+00:00,FORM_144,,"ALECTOR, INC.",proposed sale $9K,9094,,https://www.sec.gov/Archives/edgar/data/2074667/000195004726009118/0001950047-26-009118-index.htm,LOW
+2026-09-04T20:15:46+00:00,FORM_144,,"BLOCK, INC.",proposed sale $495K,495060,,https://www.sec.gov/Archives/edgar/data/1933928/000195004726009117/0001950047-26-009117-index.htm,LOW
+2026-09-04T20:15:46+00:00,FORM_144,,"DOLLAR TREE, INC.",proposed sale $156K,155792,,https://www.sec.gov/Archives/edgar/data/1584473/000192109426000993/0001921094-26-000993-index.htm,LOW
+2026-09-04T20:15:47+00:00,FORM_144,,CARPENTER TECHNOLOGY CORPORATION,proposed sale $1.55M,1552617,,https://www.sec.gov/Archives/edgar/data/1218733/000195004726009116/0001950047-26-009116-index.htm,LOW
+2026-09-04T20:15:47+00:00,FORM_144,,WESTERN DIGITAL CORPORATION,proposed sale $825K,825472,,https://www.sec.gov/Archives/edgar/data/2057093/000195004726009115/0001950047-26-009115-index.htm,LOW
+2026-09-04T20:15:47+00:00,FORM_144,,"EQUITABLE HOLDINGS, INC.",proposed sale $795K,794518,,https://www.sec.gov/Archives/edgar/data/1441552/000195004726009114/0001950047-26-009114-index.htm,LOW
+2026-09-04T20:15:48+00:00,FORM_144,,RESTAURANT BRANDS INTERNATIONAL INC.,proposed sale $4.67M,4671715,,https://www.sec.gov/Archives/edgar/data/1618756/000195004726009113/0001950047-26-009113-index.htm,LOW
+2026-09-04T20:15:48+00:00,FORM_144,,"Tarsus Pharmaceuticals, Inc.",proposed sale $278K,278250,,https://www.sec.gov/Archives/edgar/data/1842190/000195917326006760/0001959173-26-006760-index.htm,LOW
+2026-09-04T20:15:49+00:00,FORM_144,,"IDEXX LABORATORIES, INC.",proposed sale $1.17M,1172178,,https://www.sec.gov/Archives/edgar/data/1301427/000195004726009112/0001950047-26-009112-index.htm,LOW
+2026-09-04T20:15:49+00:00,FORM_144,,"RESIDEO TECHNOLOGIES, INC.",proposed sale $722K,721850,,https://www.sec.gov/Archives/edgar/data/1754267/000195004726009111/0001950047-26-009111-index.htm,LOW
+2026-09-04T20:15:49+00:00,FORM_144,,"ROKU, INC.",proposed sale $3.22M,3224265,,https://www.sec.gov/Archives/edgar/data/1951665/000195004726009110/0001950047-26-009110-index.htm,LOW
+2026-09-04T20:15:50+00:00,FORM_144,,"Dyne Therapeutics, Inc.",proposed sale $122K,121745,,https://www.sec.gov/Archives/edgar/data/1818794/000197248126000278/0001972481-26-000278-index.htm,LOW
+2026-09-04T20:15:50+00:00,FORM_144,,"WATTS WATER TECHNOLOGIES, INC.",proposed sale $394K,394071,,https://www.sec.gov/Archives/edgar/data/1533055/000195004726009109/0001950047-26-009109-index.htm,LOW
+2026-09-04T20:15:51+00:00,FORM_144,,WESTERN DIGITAL CORPORATION,proposed sale $195K,194918,,https://www.sec.gov/Archives/edgar/data/2057088/000195004726009107/0001950047-26-009107-index.htm,LOW
+2026-09-04T20:15:51+00:00,FORM_144,,Scorpio Tankers Inc.,proposed sale $20.71M,20705703,,https://www.sec.gov/Archives/edgar/data/1483934/000108822626000006/0001088226-26-000006-index.htm,LOW
+2026-09-04T20:15:51+00:00,FORM_144,,"ZIMMER BIOMET HOLDINGS, INC.",proposed sale $295K,295050,,https://www.sec.gov/Archives/edgar/data/1346672/000195917326006759/0001959173-26-006759-index.htm,LOW
+2026-09-04T20:15:52+00:00,FORM_144,,"DOCUSIGN, INC.",proposed sale $2.10M,2100000,,https://www.sec.gov/Archives/edgar/data/1796825/000195004726009106/0001950047-26-009106-index.htm,LOW
+2026-09-04T20:15:52+00:00,FORM_144,,LUMENTUM HOLDINGS INC.,proposed sale $430K,430000,,https://www.sec.gov/Archives/edgar/data/1633978/000195004726009105/0001950047-26-009105-index.htm,LOW
+2026-09-04T20:15:53+00:00,FORM_144,,"Tarsus Pharmaceuticals, Inc.",proposed sale $943K,942635,,https://www.sec.gov/Archives/edgar/data/1842190/000195917326006758/0001959173-26-006758-index.htm,LOW
+2026-09-04T20:15:53+00:00,FORM_144,,California Resources Corp,proposed sale $643K,642978,,https://www.sec.gov/Archives/edgar/data/1860787/000195917326006756/0001959173-26-006756-index.htm,LOW
+2026-09-04T20:15:53+00:00,FORM_144,,TFS Financial CORP,proposed sale $176K,175700,,https://www.sec.gov/Archives/edgar/data/1757689/000195917326006757/0001959173-26-006757-index.htm,LOW
+2026-09-04T20:15:53+00:00,FORM_144,,Stellantis N.V.,proposed sale $126K,126454,,https://www.sec.gov/Archives/edgar/data/1975315/000197449426000288/0001974494-26-000288-index.htm,LOW
+2026-09-04T20:15:54+00:00,FORM_144,,Stellantis N.V.,proposed sale $70K,69848,,https://www.sec.gov/Archives/edgar/data/2078693/000197449426000287/0001974494-26-000287-index.htm,LOW
