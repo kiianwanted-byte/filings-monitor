@@ -1182,3 +1182,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-04T16:42:58+00:00,FORM_144,,Grocery Outlet Holding Corp.,proposed sale $405K,404563,,https://www.sec.gov/Archives/edgar/data/1771515/000195917326006743/0001959173-26-006743-index.htm,LOW
 2026-09-04T16:51:44+00:00,FORM_144,,"BRINKER INTERNATIONAL, INC",proposed sale $117K,117250,,https://www.sec.gov/Archives/edgar/data/1497561/000195917326006745/0001959173-26-006745-index.htm,LOW
 2026-09-04T16:51:45+00:00,FORM_144,,Snowflake Inc.,proposed sale $17.50M,17500000,,https://www.sec.gov/Archives/edgar/data/1640147/000195917326006744/0001959173-26-006744-index.htm,LOW
+2026-09-04T17:12:56+00:00,INSIDER_CLUSTER,SMID,SMITH MIDLAND CORP,Smith Matthew I $54K,54300,2,https://www.sec.gov/Archives/edgar/data/2007537/000165495426008126/0001654954-26-008126-index.htm,HIGH
+2026-09-04T17:12:59+00:00,FORM_144,,"Crescent Capital BDC, Inc.",proposed sale $5.12M,5118750,,https://www.sec.gov/Archives/edgar/data/1633336/000208554126000005/0002085541-26-000005-index.htm,LOW
+2026-09-04T17:12:59+00:00,FORM_144,,"FIVE BELOW, INC",proposed sale $2.61M,2607100,,https://www.sec.gov/Archives/edgar/data/1222399/000197415826000101/0001974158-26-000101-index.htm,LOW
