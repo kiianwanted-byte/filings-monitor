@@ -1313,3 +1313,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-04T21:41:16+00:00,FORM_144,,Frontier Group Holdings Inc,proposed sale $20K,19870,,https://www.sec.gov/Archives/edgar/data/2007448/000196922326001002/0001969223-26-001002-index.htm,LOW
 2026-09-04T22:10:36+00:00,FORM_144,,Amalgamated Financial Corp.,proposed sale $1.75M,1749440,,https://www.sec.gov/Archives/edgar/data/2009044/000090266426003753/0000902664-26-003753-index.htm,LOW
 2026-09-04T22:22:33+00:00,INSIDER_BUY,ATRA,"Atara Biotherapeutics, Inc.","Cherry Brian N $1,000K",999993,0,https://www.sec.gov/Archives/edgar/data/1604464/000090514826004085/0000905148-26-004085-index.htm,MEDIUM
+2026-09-04T23:52:56+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $14.82M,14819360,,https://www.sec.gov/Archives/edgar/data/1737659/000119312526383988/0001193125-26-383988-index.htm,LOW
+2026-09-04T23:52:56+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $28.26M,28263057,,https://www.sec.gov/Archives/edgar/data/1571996/000119312526383987/0001193125-26-383987-index.htm,LOW
