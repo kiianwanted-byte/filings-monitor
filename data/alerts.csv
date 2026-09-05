@@ -1319,3 +1319,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-05T00:27:40+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $260K,260260,,https://www.sec.gov/Archives/edgar/data/1735863/000119312526383993/0001193125-26-383993-index.htm,LOW
 2026-09-05T00:27:40+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $578K,577840,,https://www.sec.gov/Archives/edgar/data/1672565/000119312526383992/0001193125-26-383992-index.htm,LOW
 2026-09-05T00:27:40+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $25.79M,25792131,,https://www.sec.gov/Archives/edgar/data/1767114/000119312526383990/0001193125-26-383990-index.htm,LOW
+2026-09-05T00:43:32+00:00,FORM_144,,Denali Therapeutics Inc.,proposed sale $37K,36867,,https://www.sec.gov/Archives/edgar/data/2124755/000212475526000006/0002124755-26-000006-index.htm,LOW
