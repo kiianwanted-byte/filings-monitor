@@ -1315,3 +1315,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-04T22:22:33+00:00,INSIDER_BUY,ATRA,"Atara Biotherapeutics, Inc.","Cherry Brian N $1,000K",999993,0,https://www.sec.gov/Archives/edgar/data/1604464/000090514826004085/0000905148-26-004085-index.htm,MEDIUM
 2026-09-04T23:52:56+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $14.82M,14819360,,https://www.sec.gov/Archives/edgar/data/1737659/000119312526383988/0001193125-26-383988-index.htm,LOW
 2026-09-04T23:52:56+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $28.26M,28263057,,https://www.sec.gov/Archives/edgar/data/1571996/000119312526383987/0001193125-26-383987-index.htm,LOW
+2026-09-05T00:27:39+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $19.36M,19364625,,https://www.sec.gov/Archives/edgar/data/1651403/000119312526384002/0001193125-26-384002-index.htm,LOW
+2026-09-05T00:27:40+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $260K,260260,,https://www.sec.gov/Archives/edgar/data/1735863/000119312526383993/0001193125-26-383993-index.htm,LOW
+2026-09-05T00:27:40+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $578K,577840,,https://www.sec.gov/Archives/edgar/data/1672565/000119312526383992/0001193125-26-383992-index.htm,LOW
+2026-09-05T00:27:40+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $25.79M,25792131,,https://www.sec.gov/Archives/edgar/data/1767114/000119312526383990/0001193125-26-383990-index.htm,LOW
