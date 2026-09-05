@@ -1320,3 +1320,9 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-05T00:27:40+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $578K,577840,,https://www.sec.gov/Archives/edgar/data/1672565/000119312526383992/0001193125-26-383992-index.htm,LOW
 2026-09-05T00:27:40+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $25.79M,25792131,,https://www.sec.gov/Archives/edgar/data/1767114/000119312526383990/0001193125-26-383990-index.htm,LOW
 2026-09-05T00:43:32+00:00,FORM_144,,Denali Therapeutics Inc.,proposed sale $37K,36867,,https://www.sec.gov/Archives/edgar/data/2124755/000212475526000006/0002124755-26-000006-index.htm,LOW
+2026-09-05T01:17:34+00:00,INSIDER_CLUSTER,ENOV,Enovis CORP,McDonald Damien $250K,249620,0,https://www.sec.gov/Archives/edgar/data/1686894/000119312526384027/0001193125-26-384027-index.htm,HIGH
+2026-09-05T01:17:35+00:00,FORM_144,,"CLEANSPARK, INC.",proposed sale $761K,760625,,https://www.sec.gov/Archives/edgar/data/2040721/000119312526384035/0001193125-26-384035-index.htm,LOW
+2026-09-05T01:17:35+00:00,FORM_144,,"CLEANSPARK, INC.",proposed sale $1.85M,1847670,,https://www.sec.gov/Archives/edgar/data/2022141/000119312526384033/0001193125-26-384033-index.htm,LOW
+2026-09-05T01:17:36+00:00,FORM_144,,"CLEANSPARK, INC.",proposed sale $1.67M,1667580,,https://www.sec.gov/Archives/edgar/data/2022147/000119312526384032/0001193125-26-384032-index.htm,LOW
+2026-09-05T01:17:36+00:00,FORM_144,,"CLEANSPARK, INC.",proposed sale $1.97M,1972481,,https://www.sec.gov/Archives/edgar/data/1568128/000119312526384030/0001193125-26-384030-index.htm,LOW
+2026-09-05T01:17:37+00:00,FORM_144,,"CLEANSPARK, INC.",proposed sale $5.54M,5544660,,https://www.sec.gov/Archives/edgar/data/1625587/000119312526384029/0001193125-26-384029-index.htm,LOW
