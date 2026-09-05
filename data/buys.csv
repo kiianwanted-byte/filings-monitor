@@ -247,3 +247,5 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-04T22:22:33+00:00,2026-09-04,ATRA,"Atara Biotherapeutics, Inc.",Cherry Brian N,Director,104166,9.60,999993,167.1,0000905148-26-004085
 2026-09-05T01:17:33+00:00,2026-09-02,ENOV,Enovis CORP,Engert Oliver,Chief Administrative Officer,7598,19.74,149970,14.2,0001193125-26-384028
 2026-09-05T01:17:34+00:00,2026-09-04,ENOV,Enovis CORP,McDonald Damien,"Director, Chief Executive Officer",13035,19.15,249620,5.6,0001193125-26-384027
+2026-09-05T01:38:28+00:00,2026-08-31,LILA,Liberty Latin America Ltd.,DE ANGOITIA ALFONSO,Director,476190,20.95,9978488,NEW,0001724519-26-000010
+2026-09-05T01:38:29+00:00,2026-09-03,BCDA,"BioCardia, Inc.",Altman Peter,"Director, President and CEO",800,1.09,872,0.2,0001437749-26-029732
