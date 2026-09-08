@@ -1476,3 +1476,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-08T20:52:45+00:00,FORM_144,,Appian Corporation,proposed sale $1.73M,1726650,,https://www.sec.gov/Archives/edgar/data/1441683/000196858226000932/0001968582-26-000932-index.htm,LOW
 2026-09-08T20:52:45+00:00,FORM_144,,WHEELS UP EXPERIENCE INC.,proposed sale $4K,4056,,https://www.sec.gov/Archives/edgar/data/2074657/000195004726009222/0001950047-26-009222-index.htm,LOW
 2026-09-08T20:52:46+00:00,FORM_144,,Healthcare Realty Trust Inc.,proposed sale $402K,401520,,https://www.sec.gov/Archives/edgar/data/1693846/000196858226000931/0001968582-26-000931-index.htm,LOW
+2026-09-08T21:14:56+00:00,FORM_144,,ANTERIX INC.,proposed sale $372K,372262,,https://www.sec.gov/Archives/edgar/data/1669943/000195004726009224/0001950047-26-009224-index.htm,LOW
+2026-09-08T21:14:57+00:00,FORM_144,,"Upstart Holdings, Inc.",proposed sale $3.17M,3166196,,https://www.sec.gov/Archives/edgar/data/1832808/000192109426001001/0001921094-26-001001-index.htm,LOW
+2026-09-08T21:14:57+00:00,FORM_144,,"Coinbase Global, Inc.",proposed sale $2.49M,2489032,,https://www.sec.gov/Archives/edgar/data/1679788/000197407826000345/0001974078-26-000345-index.htm,LOW
