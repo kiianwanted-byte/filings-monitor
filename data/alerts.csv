@@ -1491,3 +1491,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-08T22:43:10+00:00,FORM_144,,Amalgamated Financial Corp.,proposed sale $12.29M,12292500,,https://www.sec.gov/Archives/edgar/data/2009129/000090266426003759/0000902664-26-003759-index.htm,LOW
 2026-09-08T22:43:11+00:00,FORM_144,,Amalgamated Financial Corp.,proposed sale $2.46M,2458500,,https://www.sec.gov/Archives/edgar/data/2008729/000090266426003758/0000902664-26-003758-index.htm,LOW
 2026-09-08T22:43:11+00:00,FORM_144,,VERSIGENT PLC,proposed sale $10.43M,10425800,,https://www.sec.gov/Archives/edgar/data/2078008/000195824426000575/0001958244-26-000575-index.htm,LOW
+2026-09-08T23:15:32+00:00,FORM_144,,Kinetik Holdings Inc.,proposed sale $3.21M,3209897,,https://www.sec.gov/Archives/edgar/data/1904934/000090514826004114/0000905148-26-004114-index.htm,LOW
+2026-09-08T23:15:32+00:00,FORM_144,,Keurig Dr Pepper Inc.,proposed sale $782K,782160,,https://www.sec.gov/Archives/edgar/data/1587484/000196858226000937/0001968582-26-000937-index.htm,LOW
+2026-09-08T23:15:33+00:00,FORM_144,,East West Bancorp Inc.,proposed sale $106K,105923,,https://www.sec.gov/Archives/edgar/data/1903523/000196858226000936/0001968582-26-000936-index.htm,LOW
+2026-09-08T23:15:33+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $39K,38778,,https://www.sec.gov/Archives/edgar/data/2126752/000212675226000017/0002126752-26-000017-index.htm,LOW
+2026-09-08T23:15:33+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $13K,12859,,https://www.sec.gov/Archives/edgar/data/2126755/000212675526000012/0002126755-26-000012-index.htm,LOW
