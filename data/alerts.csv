@@ -1483,3 +1483,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-08T21:26:39+00:00,INSIDER_CLUSTER,DYNR,"DYNARESOURCE, INC.",ROSE MATTHEW K $0,,7,https://www.sec.gov/Archives/edgar/data/1647774/000119312526385370/0001193125-26-385370-index.htm,HIGH
 2026-09-08T21:26:43+00:00,FORM_144,,"Circle Internet Group, Inc.",proposed sale $18.13M,18134387,,https://www.sec.gov/Archives/edgar/data/1876042/000196858226000933/0001968582-26-000933-index.htm,LOW
 2026-09-08T21:26:44+00:00,FORM_144,,"WILLDAN GROUP, INC.",proposed sale $303K,303268,,https://www.sec.gov/Archives/edgar/data/1395188/000195004726009225/0001950047-26-009225-index.htm,LOW
+2026-09-08T21:54:35+00:00,FORM_144,,"D-Wave Quantum, Inc.",proposed sale $36K,36476,,https://www.sec.gov/Archives/edgar/data/1907982/000196858226000934/0001968582-26-000934-index.htm,LOW
