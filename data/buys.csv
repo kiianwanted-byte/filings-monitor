@@ -249,3 +249,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-05T01:17:34+00:00,2026-09-04,ENOV,Enovis CORP,McDonald Damien,"Director, Chief Executive Officer",13035,19.15,249620,5.6,0001193125-26-384027
 2026-09-05T01:38:28+00:00,2026-08-31,LILA,Liberty Latin America Ltd.,DE ANGOITIA ALFONSO,Director,476190,20.95,9978488,NEW,0001724519-26-000010
 2026-09-05T01:38:29+00:00,2026-09-03,BCDA,"BioCardia, Inc.",Altman Peter,"Director, President and CEO",800,1.09,872,0.2,0001437749-26-029732
+2026-09-08T11:15:38+00:00,2026-09-04,UBER,"Uber Technologies, Inc",Macdonald Andrew,See Remarks,70000,75.83,5308063,19.6,0002071761-26-000011
