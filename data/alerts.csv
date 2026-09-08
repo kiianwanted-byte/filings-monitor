@@ -1371,3 +1371,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-08T18:55:22+00:00,FORM_144,,LITHIA MOTORS INC,proposed sale $120K,119515,,https://www.sec.gov/Archives/edgar/data/1848389/000195917326006791/0001959173-26-006791-index.htm,LOW
 2026-09-08T18:55:23+00:00,FORM_144,,Cushman & Wakefield Ltd.,proposed sale $167K,167423,,https://www.sec.gov/Archives/edgar/data/1747604/000195917326006790/0001959173-26-006790-index.htm,LOW
 2026-09-08T19:05:14+00:00,FORM_144,,TORO CO,proposed sale $14K,13682,,https://www.sec.gov/Archives/edgar/data/1952093/000195917326006792/0001959173-26-006792-index.htm,LOW
+2026-09-08T19:20:17+00:00,FORM_144,,Twist Bioscience Corp,proposed sale $282K,282280,,https://www.sec.gov/Archives/edgar/data/1753655/000195917326006797/0001959173-26-006797-index.htm,LOW
+2026-09-08T19:20:17+00:00,FORM_144,,Twist Bioscience Corp,proposed sale $111K,111219,,https://www.sec.gov/Archives/edgar/data/1753672/000195917326006796/0001959173-26-006796-index.htm,LOW
+2026-09-08T19:20:17+00:00,FORM_144,,Twist Bioscience Corp,proposed sale $29K,29184,,https://www.sec.gov/Archives/edgar/data/1590947/000195917326006795/0001959173-26-006795-index.htm,LOW
+2026-09-08T19:20:18+00:00,FORM_144,,Twist Bioscience Corp,proposed sale $51K,50521,,https://www.sec.gov/Archives/edgar/data/1883451/000195917326006794/0001959173-26-006794-index.htm,LOW
+2026-09-08T19:20:18+00:00,FORM_144,,"Century Therapeutics, Inc.",proposed sale $1K,1094,,https://www.sec.gov/Archives/edgar/data/1867305/000195917326006793/0001959173-26-006793-index.htm,LOW
