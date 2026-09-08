@@ -252,3 +252,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-08T11:15:38+00:00,2026-09-04,UBER,"Uber Technologies, Inc",Macdonald Andrew,See Remarks,70000,75.83,5308063,19.6,0002071761-26-000011
 2026-09-08T11:42:31+00:00,2026-08-31,SHMD,SCHMID Group N.V.,Speth Ralf,Director,68000,3.15,214330,33.8,0001881975-26-000004
 2026-09-08T12:24:00+00:00,2026-09-03,OBIO,"Orchestra BioMed Holdings, Inc.",Hochman David P,"Director, See Remarks",10000,4.79,47900,0.9,0001104659-26-105690
+2026-09-08T12:42:21+00:00,2026-08-27,NMTC,NEUROONE MEDICAL TECHNOLOGIES Corp,Wambeke David J.,Chief Business Officer,33333,2.01,66999,20.0,0001971798-26-000005
