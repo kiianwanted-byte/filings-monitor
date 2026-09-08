@@ -1341,3 +1341,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-08T14:26:43+00:00,FORM_144,,CHECK POINT SOFTWARE TECHNOLOGIES LTD,proposed sale $772K,772413,,https://www.sec.gov/Archives/edgar/data/2095324/000197640826000807/0001976408-26-000807-index.htm,LOW
 2026-09-08T14:26:43+00:00,FORM_144,,GENERAC HOLDINGS INC.,proposed sale $75K,75481,,https://www.sec.gov/Archives/edgar/data/1474735/000195917326006776/0001959173-26-006776-index.htm,LOW
 2026-09-08T14:26:44+00:00,FORM_144,,ANALOG DEVICES INC,proposed sale $545K,545475,,https://www.sec.gov/Archives/edgar/data/2009110/000195917326006775/0001959173-26-006775-index.htm,LOW
+2026-09-08T14:42:06+00:00,FORM_144,,Bridgewater Bancshares Inc,proposed sale $87K,87400,,https://www.sec.gov/Archives/edgar/data/1745268/000196856426000006/0001968564-26-000006-index.htm,LOW
+2026-09-08T14:42:07+00:00,FORM_144,,Oklo Inc.,proposed sale $10K,10010,,https://www.sec.gov/Archives/edgar/data/2146790/000195917326006777/0001959173-26-006777-index.htm,LOW
