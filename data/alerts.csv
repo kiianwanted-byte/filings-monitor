@@ -1366,3 +1366,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-08T18:07:22+00:00,FORM_144,,"BillionToOne, Inc.",proposed sale $1.98M,1984800,,https://www.sec.gov/Archives/edgar/data/2070849/000195917326006788/0001959173-26-006788-index.htm,LOW
 2026-09-08T18:07:23+00:00,FORM_144,,"Warner Bros. Discovery, Inc.",proposed sale $5.62M,5617000,,https://www.sec.gov/Archives/edgar/data/1437107/000194984626000572/0001949846-26-000572-index.htm,LOW
 2026-09-08T18:26:53+00:00,FORM_144,,TERAWULF INC.,proposed sale $996K,996088,,https://www.sec.gov/Archives/edgar/data/1877502/000195917326006789/0001959173-26-006789-index.htm,LOW
+2026-09-08T18:41:43+00:00,FORM_144,,"Recursion Pharmaceuticals, Inc.",proposed sale $79K,78822,,https://www.sec.gov/Archives/edgar/data/2020969/000162828026060859/0001628280-26-060859-index.htm,LOW
+2026-09-08T18:41:44+00:00,FORM_144,,Jazz Pharmaceuticals plc,proposed sale $664K,664165,,https://www.sec.gov/Archives/edgar/data/1989533/000198953326000017/0001989533-26-000017-index.htm,LOW
