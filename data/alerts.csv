@@ -1370,3 +1370,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-08T18:41:44+00:00,FORM_144,,Jazz Pharmaceuticals plc,proposed sale $664K,664165,,https://www.sec.gov/Archives/edgar/data/1989533/000198953326000017/0001989533-26-000017-index.htm,LOW
 2026-09-08T18:55:22+00:00,FORM_144,,LITHIA MOTORS INC,proposed sale $120K,119515,,https://www.sec.gov/Archives/edgar/data/1848389/000195917326006791/0001959173-26-006791-index.htm,LOW
 2026-09-08T18:55:23+00:00,FORM_144,,Cushman & Wakefield Ltd.,proposed sale $167K,167423,,https://www.sec.gov/Archives/edgar/data/1747604/000195917326006790/0001959173-26-006790-index.htm,LOW
+2026-09-08T19:05:14+00:00,FORM_144,,TORO CO,proposed sale $14K,13682,,https://www.sec.gov/Archives/edgar/data/1952093/000195917326006792/0001959173-26-006792-index.htm,LOW
