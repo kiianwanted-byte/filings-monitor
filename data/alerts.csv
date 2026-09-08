@@ -1331,3 +1331,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-05T01:47:38+00:00,FORM_144,,"Rackspace Technology, Inc.",proposed sale $1.59M,1590942,,https://www.sec.gov/Archives/edgar/data/1810019/000181001926000106/0001810019-26-000106-index.htm,LOW
 2026-09-08T10:10:27+00:00,FORM_144,,Jiayin Group Inc.,proposed sale $705K,705185,,https://www.sec.gov/Archives/edgar/data/1980181/000119312526384296/0001193125-26-384296-index.htm,LOW
 2026-09-08T10:10:28+00:00,FORM_144,,Jiayin Group Inc.,proposed sale $52K,51633,,https://www.sec.gov/Archives/edgar/data/2142696/000119312526384294/0001193125-26-384294-index.htm,LOW
+2026-09-08T11:42:31+00:00,INSIDER_CLUSTER,SHMD,SCHMID Group N.V.,Speth Ralf $214K,214330,8,https://www.sec.gov/Archives/edgar/data/1987240/000188197526000004/0001881975-26-000004-index.htm,HIGH
+2026-09-08T11:42:34+00:00,FORM_144,,Nayax Ltd.,proposed sale $6K,6479,,https://www.sec.gov/Archives/edgar/data/1999977/000197640826000801/0001976408-26-000801-index.htm,LOW
