@@ -1353,3 +1353,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-08T16:36:14+00:00,INSIDER_CLUSTER,CZNC,CITIZENS & NORTHERN CORP,Shattuck Katherine W $209,209,4,https://www.sec.gov/Archives/edgar/data/1870473/000187047326000028/0001870473-26-000028-index.htm,LOW
 2026-09-08T16:36:15+00:00,FORM_144,,Legacy Education Inc.,proposed sale $133K,132700,,https://www.sec.gov/Archives/edgar/data/2034917/000194984626000570/0001949846-26-000570-index.htm,LOW
 2026-09-08T16:36:15+00:00,FORM_144,,APPLIED MATERIALS INC /DE,proposed sale $465K,465000,,https://www.sec.gov/Archives/edgar/data/1112668/000195917326006780/0001959173-26-006780-index.htm,LOW
+2026-09-08T16:48:36+00:00,FORM_144,,INTERFACE INC,proposed sale $1.03M,1033340,,https://www.sec.gov/Archives/edgar/data/1694421/000194984626000571/0001949846-26-000571-index.htm,LOW
