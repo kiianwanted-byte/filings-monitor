@@ -1484,3 +1484,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-08T21:26:43+00:00,FORM_144,,"Circle Internet Group, Inc.",proposed sale $18.13M,18134387,,https://www.sec.gov/Archives/edgar/data/1876042/000196858226000933/0001968582-26-000933-index.htm,LOW
 2026-09-08T21:26:44+00:00,FORM_144,,"WILLDAN GROUP, INC.",proposed sale $303K,303268,,https://www.sec.gov/Archives/edgar/data/1395188/000195004726009225/0001950047-26-009225-index.htm,LOW
 2026-09-08T21:54:35+00:00,FORM_144,,"D-Wave Quantum, Inc.",proposed sale $36K,36476,,https://www.sec.gov/Archives/edgar/data/1907982/000196858226000934/0001968582-26-000934-index.htm,LOW
+2026-09-08T22:19:31+00:00,INSIDER_BUY,GME,GameStop Corp.,Cheng Lawrence $1.03M,1033956,0,https://www.sec.gov/Archives/edgar/data/1868288/000186828826000004/0001868288-26-000004-index.htm,MEDIUM
+2026-09-08T22:19:42+00:00,FORM_144,,Pro Dex Inc,proposed sale $169K,168843,,https://www.sec.gov/Archives/edgar/data/1431777/000107997326001233/0001079973-26-001233-index.htm,LOW
+2026-09-08T22:19:42+00:00,FORM_144,,Invesco Ltd.,proposed sale $1.03M,1030537,,https://www.sec.gov/Archives/edgar/data/1674244/000167424426000008/0001674244-26-000008-index.htm,LOW
