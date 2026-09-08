@@ -1496,3 +1496,12 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-08T23:15:33+00:00,FORM_144,,East West Bancorp Inc.,proposed sale $106K,105923,,https://www.sec.gov/Archives/edgar/data/1903523/000196858226000936/0001968582-26-000936-index.htm,LOW
 2026-09-08T23:15:33+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $39K,38778,,https://www.sec.gov/Archives/edgar/data/2126752/000212675226000017/0002126752-26-000017-index.htm,LOW
 2026-09-08T23:15:33+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $13K,12859,,https://www.sec.gov/Archives/edgar/data/2126755/000212675526000012/0002126755-26-000012-index.htm,LOW
+2026-09-08T23:26:31+00:00,FORM_144,,"Rubrik, Inc.",proposed sale $11.75M,11746966,,https://www.sec.gov/Archives/edgar/data/2019143/000195824426000583/0001958244-26-000583-index.htm,LOW
+2026-09-08T23:26:31+00:00,FORM_144,,Webull Corporation,proposed sale $1.03M,1030612,,https://www.sec.gov/Archives/edgar/data/2093121/000195824426000582/0001958244-26-000582-index.htm,LOW
+2026-09-08T23:26:31+00:00,FORM_144,,"Slide Insurance Holdings, Inc.",proposed sale $1.25M,1249563,,https://www.sec.gov/Archives/edgar/data/1886428/000195824426000581/0001958244-26-000581-index.htm,LOW
+2026-09-08T23:26:32+00:00,FORM_144,,"Southern Missouri Bancorp, Inc.",proposed sale $1.15M,1146912,,https://www.sec.gov/Archives/edgar/data/1615302/000195824426000580/0001958244-26-000580-index.htm,LOW
+2026-09-08T23:26:32+00:00,FORM_144,,Vistra Corp.,proposed sale $6.74M,6743043,,https://www.sec.gov/Archives/edgar/data/1728553/000195824426000579/0001958244-26-000579-index.htm,LOW
+2026-09-08T23:26:32+00:00,FORM_144,,eBay Inc.,proposed sale $2.32M,2323989,,https://www.sec.gov/Archives/edgar/data/1495849/000195824426000578/0001958244-26-000578-index.htm,LOW
+2026-09-08T23:26:33+00:00,FORM_144,,Symbotic Inc.,proposed sale $260K,259800,,https://www.sec.gov/Archives/edgar/data/1837240/000195824426000577/0001958244-26-000577-index.htm,LOW
+2026-09-08T23:26:33+00:00,FORM_144,,"IBOTTA, INC.",proposed sale $4.41M,4406522,,https://www.sec.gov/Archives/edgar/data/1875168/000195824426000576/0001958244-26-000576-index.htm,LOW
+2026-09-08T23:26:33+00:00,FORM_144,,"Kestra Medical Technologies, Ltd.",proposed sale $98K,97944,,https://www.sec.gov/Archives/edgar/data/1877184/000095013026000219/0000950130-26-000219-index.htm,LOW
