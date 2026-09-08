@@ -1376,3 +1376,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-08T19:20:17+00:00,FORM_144,,Twist Bioscience Corp,proposed sale $29K,29184,,https://www.sec.gov/Archives/edgar/data/1590947/000195917326006795/0001959173-26-006795-index.htm,LOW
 2026-09-08T19:20:18+00:00,FORM_144,,Twist Bioscience Corp,proposed sale $51K,50521,,https://www.sec.gov/Archives/edgar/data/1883451/000195917326006794/0001959173-26-006794-index.htm,LOW
 2026-09-08T19:20:18+00:00,FORM_144,,"Century Therapeutics, Inc.",proposed sale $1K,1094,,https://www.sec.gov/Archives/edgar/data/1867305/000195917326006793/0001959173-26-006793-index.htm,LOW
+2026-09-08T19:31:38+00:00,FORM_144,,"Sprouts Farmers Market, Inc.",proposed sale $23K,23466,,https://www.sec.gov/Archives/edgar/data/2006846/000195917326006798/0001959173-26-006798-index.htm,LOW
+2026-09-08T19:31:38+00:00,FORM_144,,Old Second Bancorp,proposed sale $642K,641912,,https://www.sec.gov/Archives/edgar/data/1184764/000196922326001003/0001969223-26-001003-index.htm,LOW
+2026-09-08T19:31:38+00:00,FORM_144,,Paysign,proposed sale $1.95M,1950000,,https://www.sec.gov/Archives/edgar/data/2135448/000162828026060882/0001628280-26-060882-index.htm,LOW
