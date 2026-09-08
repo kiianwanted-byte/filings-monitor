@@ -1336,3 +1336,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-08T13:44:27+00:00,FORM_144,,"Ceribell, Inc.",proposed sale $119K,118900,,https://www.sec.gov/Archives/edgar/data/2036112/000195917326006771/0001959173-26-006771-index.htm,LOW
 2026-09-08T13:56:30+00:00,FORM_144,,Integer Holdings Corp,proposed sale $1.19M,1188230,,https://www.sec.gov/Archives/edgar/data/1916725/000195917326006773/0001959173-26-006773-index.htm,LOW
 2026-09-08T13:56:31+00:00,FORM_144,,VERIZON COMMUNICATIONS INC,proposed sale $55K,54978,,https://www.sec.gov/Archives/edgar/data/1760581/000195917326006772/0001959173-26-006772-index.htm,LOW
+2026-09-08T14:09:26+00:00,FORM_144,,ATI INC,proposed sale $3.42M,3424410,,https://www.sec.gov/Archives/edgar/data/1776844/000195917326006774/0001959173-26-006774-index.htm,LOW
