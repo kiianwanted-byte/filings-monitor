@@ -1363,3 +1363,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-08T17:37:58+00:00,INSIDER_BUY,DXYZ,Destiny Tech100 Inc.,Prasad Sohail $1.77M,1767343,7,https://www.sec.gov/Archives/edgar/data/2003728/000094562126001118/0000945621-26-001118-index.htm,MEDIUM
 2026-09-08T17:37:59+00:00,FORM_144,,SPRUCE POWER HOLDING CORP,proposed sale $18K,17700,,https://www.sec.gov/Archives/edgar/data/1825753/000195917326006786/0001959173-26-006786-index.htm,LOW
 2026-09-08T17:46:51+00:00,FORM_144,,ADVANCED ENERGY INDUSTRIES INC,proposed sale $76K,76355,,https://www.sec.gov/Archives/edgar/data/1770310/000195917326006787/0001959173-26-006787-index.htm,LOW
+2026-09-08T18:07:22+00:00,FORM_144,,"BillionToOne, Inc.",proposed sale $1.98M,1984800,,https://www.sec.gov/Archives/edgar/data/2070849/000195917326006788/0001959173-26-006788-index.htm,LOW
+2026-09-08T18:07:23+00:00,FORM_144,,"Warner Bros. Discovery, Inc.",proposed sale $5.62M,5617000,,https://www.sec.gov/Archives/edgar/data/1437107/000194984626000572/0001949846-26-000572-index.htm,LOW
