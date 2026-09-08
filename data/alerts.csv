@@ -1407,3 +1407,44 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-08T20:15:48+00:00,FORM_144,,Vistra Corp.,proposed sale $3.02M,3020600,,https://www.sec.gov/Archives/edgar/data/1940494/000196922326001004/0001969223-26-001004-index.htm,LOW
 2026-09-08T20:15:49+00:00,FORM_144,,"ROCKWELL AUTOMATION, INC",proposed sale $67K,66624,,https://www.sec.gov/Archives/edgar/data/1825762/000192109426000997/0001921094-26-000997-index.htm,LOW
 2026-09-08T20:15:49+00:00,FORM_144,,ADOBE INC.,proposed sale $8K,8479,,https://www.sec.gov/Archives/edgar/data/1610062/000196530126000137/0001965301-26-000137-index.htm,LOW
+2026-09-08T20:28:55+00:00,INSIDER_CLUSTER,INBX,"Inhibrx Biosciences, Inc.",FORSYTH DOUGLAS $287K,286617,0,https://www.sec.gov/Archives/edgar/data/2007919/000124080126000004/0001240801-26-000004-index.htm,HIGH
+2026-09-08T20:28:57+00:00,INSIDER_CLUSTER,GPUS,"Hyperscale Data, Inc.",Nisser Henry Carl $47K,46775,4,https://www.sec.gov/Archives/edgar/data/1775938/000121465926011478/0001214659-26-011478-index.htm,HIGH
+2026-09-08T20:29:06+00:00,INSIDER_CLUSTER,GPUS,"Hyperscale Data, Inc.",Horne William B. $31K,31220,4,https://www.sec.gov/Archives/edgar/data/1333268/000121465926011477/0001214659-26-011477-index.htm,HIGH
+2026-09-08T20:29:13+00:00,FORM_144,,"Remitly Global, Inc.",proposed sale $144K,143935,,https://www.sec.gov/Archives/edgar/data/1880864/000195004726009203/0001950047-26-009203-index.htm,LOW
+2026-09-08T20:29:13+00:00,FORM_144,,Invesco Ltd.,proposed sale $1.40M,1396901,,https://www.sec.gov/Archives/edgar/data/1407922/000195917326006803/0001959173-26-006803-index.htm,LOW
+2026-09-08T20:29:14+00:00,FORM_144,,"NRG Energy, Inc.",proposed sale $188K,188051,,https://www.sec.gov/Archives/edgar/data/1925859/000195004726009202/0001950047-26-009202-index.htm,LOW
+2026-09-08T20:29:14+00:00,FORM_144,,PITNEY BOWES INC.,proposed sale $348K,348000,,https://www.sec.gov/Archives/edgar/data/1993902/000195004726009201/0001950047-26-009201-index.htm,LOW
+2026-09-08T20:29:14+00:00,FORM_144,,SANDISK CORPORATION,proposed sale $7.15M,7147920,,https://www.sec.gov/Archives/edgar/data/2060144/000195004726009200/0001950047-26-009200-index.htm,LOW
+2026-09-08T20:29:15+00:00,FORM_144,,ROIVANT SCIENCES LTD,proposed sale $699K,698600,,https://www.sec.gov/Archives/edgar/data/1635088/000195004726009199/0001950047-26-009199-index.htm,LOW
+2026-09-08T20:29:15+00:00,FORM_144,,GLOBAL-E ONLINE LTD,proposed sale $480K,479625,,https://www.sec.gov/Archives/edgar/data/1964100/000195004726009198/0001950047-26-009198-index.htm,LOW
+2026-09-08T20:29:16+00:00,FORM_144,,"Chime Financial, Inc.",proposed sale $658K,658488,,https://www.sec.gov/Archives/edgar/data/2061361/000195004726009197/0001950047-26-009197-index.htm,LOW
+2026-09-08T20:29:16+00:00,FORM_144,,"CoreWeave, Inc.",proposed sale $2.00M,2003808,,https://www.sec.gov/Archives/edgar/data/2058056/000195004726009196/0001950047-26-009196-index.htm,LOW
+2026-09-08T20:29:16+00:00,FORM_144,,RADIAN GROUP INC,proposed sale $1.30M,1303960,,https://www.sec.gov/Archives/edgar/data/1699782/000195917326006802/0001959173-26-006802-index.htm,LOW
+2026-09-08T20:29:17+00:00,FORM_144,,"SENTINELONE, INC",proposed sale $247K,246571,,https://www.sec.gov/Archives/edgar/data/1608511/000195004726009195/0001950047-26-009195-index.htm,LOW
+2026-09-08T20:29:17+00:00,FORM_144,,BEONE MEDICINES LTD,proposed sale $47.06M,47064616,,https://www.sec.gov/Archives/edgar/data/1662982/000195004726009194/0001950047-26-009194-index.htm,LOW
+2026-09-08T20:29:17+00:00,FORM_144,,"Five9, Inc.",proposed sale $91K,91359,,https://www.sec.gov/Archives/edgar/data/2000932/000195004726009193/0001950047-26-009193-index.htm,LOW
+2026-09-08T20:29:18+00:00,FORM_144,,E.L.F BEAUTY INC,proposed sale $1.76M,1761848,,https://www.sec.gov/Archives/edgar/data/1773316/000195004726009192/0001950047-26-009192-index.htm,LOW
+2026-09-08T20:29:18+00:00,FORM_144,,"CoreWeave, Inc.",proposed sale $9.62M,9623357,,https://www.sec.gov/Archives/edgar/data/2058037/000195004726009191/0001950047-26-009191-index.htm,LOW
+2026-09-08T20:29:19+00:00,FORM_144,,"CULLINAN THERAPEUTICS, INC.",proposed sale $177K,176720,,https://www.sec.gov/Archives/edgar/data/1838061/000195004726009190/0001950047-26-009190-index.htm,LOW
+2026-09-08T20:29:19+00:00,FORM_144,,"VERISIGN, INC.",proposed sale $12.53M,12530232,,https://www.sec.gov/Archives/edgar/data/1204816/000195004726009189/0001950047-26-009189-index.htm,LOW
+2026-09-08T20:29:19+00:00,FORM_144,,"CoreWeave, Inc.",proposed sale $17.87M,17872000,,https://www.sec.gov/Archives/edgar/data/2058037/000195004726009188/0001950047-26-009188-index.htm,LOW
+2026-09-08T20:29:20+00:00,FORM_144,,Netflix Inc.,proposed sale $56K,55872,,https://www.sec.gov/Archives/edgar/data/1184230/000162828026060922/0001628280-26-060922-index.htm,LOW
+2026-09-08T20:29:20+00:00,FORM_144,,Dave Inc.,proposed sale $4.26M,4257636,,https://www.sec.gov/Archives/edgar/data/1921268/000195004726009187/0001950047-26-009187-index.htm,LOW
+2026-09-08T20:29:20+00:00,FORM_144,,DORIAN LPG LTD.,proposed sale $266K,265525,,https://www.sec.gov/Archives/edgar/data/1638233/000195004726009186/0001950047-26-009186-index.htm,LOW
+2026-09-08T20:29:21+00:00,FORM_144,,"CISCO SYSTEMS, INC.",proposed sale $248K,248320,,https://www.sec.gov/Archives/edgar/data/1595737/000195004726009185/0001950047-26-009185-index.htm,LOW
+2026-09-08T20:29:21+00:00,FORM_144,,Pharvaris N.V.,proposed sale $1.06M,1057500,,https://www.sec.gov/Archives/edgar/data/1972159/000195004726009184/0001950047-26-009184-index.htm,LOW
+2026-09-08T20:29:21+00:00,FORM_144,,"Duolingo, Inc.",proposed sale $3.09M,3089200,,https://www.sec.gov/Archives/edgar/data/1562088/000195004726009183/0001950047-26-009183-index.htm,LOW
+2026-09-08T20:29:22+00:00,FORM_144,,"ICHOR HOLDINGS, LTD.",proposed sale $117K,116593,,https://www.sec.gov/Archives/edgar/data/1723433/000195004726009182/0001950047-26-009182-index.htm,LOW
+2026-09-08T20:29:22+00:00,FORM_144,,Lightspeed Commerce Inc.,proposed sale $21K,21461,,https://www.sec.gov/Archives/edgar/data/2014620/000201462026000008/0002014620-26-000008-index.htm,LOW
+2026-09-08T20:29:22+00:00,FORM_144,,"FIVE9, INC.",proposed sale $44K,43583,,https://www.sec.gov/Archives/edgar/data/2063775/000195004726009181/0001950047-26-009181-index.htm,LOW
+2026-09-08T20:29:23+00:00,FORM_144,,"Five9, Inc.",proposed sale $170K,170142,,https://www.sec.gov/Archives/edgar/data/1886762/000195004726009180/0001950047-26-009180-index.htm,LOW
+2026-09-08T20:29:23+00:00,FORM_144,,GeoPark Ltd.,proposed sale $1.20M,1200000,,https://www.sec.gov/Archives/edgar/data/1633554/000196922326001010/0001969223-26-001010-index.htm,LOW
+2026-09-08T20:29:23+00:00,FORM_144,,"HORNBECK OFFSHORE SERVICES, INC.",proposed sale $465K,464512,,https://www.sec.gov/Archives/edgar/data/1648839/000195917326006801/0001959173-26-006801-index.htm,LOW
+2026-09-08T20:29:24+00:00,FORM_144,,Amalgamated Financial Corp.,proposed sale $1.50M,1498553,,https://www.sec.gov/Archives/edgar/data/1848228/000197407826000344/0001974078-26-000344-index.htm,LOW
+2026-09-08T20:29:24+00:00,FORM_144,,IBEX Ltd,proposed sale $649K,649008,,https://www.sec.gov/Archives/edgar/data/1974087/000100027526000106/0001000275-26-000106-index.htm,LOW
+2026-09-08T20:29:24+00:00,FORM_144,,"ATRICURE, INC.",proposed sale $201K,201135,,https://www.sec.gov/Archives/edgar/data/1336063/000195004726009179/0001950047-26-009179-index.htm,LOW
+2026-09-08T20:29:25+00:00,FORM_144,,Ascendis Pharma A/S,proposed sale $811K,810562,,https://www.sec.gov/Archives/edgar/data/2014697/000196430626000432/0001964306-26-000432-index.htm,LOW
+2026-09-08T20:29:25+00:00,FORM_144,,"Korro Bio, Inc.",proposed sale $99K,99285,,https://www.sec.gov/Archives/edgar/data/2053835/000195917326006800/0001959173-26-006800-index.htm,LOW
+2026-09-08T20:29:25+00:00,FORM_144,,"GOLD.COM, INC.",proposed sale $703K,702961,,https://www.sec.gov/Archives/edgar/data/1591588/000195004726009178/0001950047-26-009178-index.htm,LOW
+2026-09-08T20:29:26+00:00,FORM_144,,Flywire Corporation,proposed sale $223K,223306,,https://www.sec.gov/Archives/edgar/data/1862133/000196858226000929/0001968582-26-000929-index.htm,LOW
+2026-09-08T20:29:26+00:00,FORM_144,,"KESTRA MEDICAL TECHNOLOGIES, LTD.",proposed sale $144K,143778,,https://www.sec.gov/Archives/edgar/data/2072296/000196430626000431/0001964306-26-000431-index.htm,LOW
