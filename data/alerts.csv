@@ -1479,3 +1479,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-08T21:14:56+00:00,FORM_144,,ANTERIX INC.,proposed sale $372K,372262,,https://www.sec.gov/Archives/edgar/data/1669943/000195004726009224/0001950047-26-009224-index.htm,LOW
 2026-09-08T21:14:57+00:00,FORM_144,,"Upstart Holdings, Inc.",proposed sale $3.17M,3166196,,https://www.sec.gov/Archives/edgar/data/1832808/000192109426001001/0001921094-26-001001-index.htm,LOW
 2026-09-08T21:14:57+00:00,FORM_144,,"Coinbase Global, Inc.",proposed sale $2.49M,2489032,,https://www.sec.gov/Archives/edgar/data/1679788/000197407826000345/0001974078-26-000345-index.htm,LOW
+2026-09-08T21:26:31+00:00,INSIDER_CLUSTER,INBX,"Inhibrx Biosciences, Inc.",Kayyem Jon Faiz $568K,567580,0,https://www.sec.gov/Archives/edgar/data/2007919/000136626826000004/0001366268-26-000004-index.htm,HIGH
+2026-09-08T21:26:39+00:00,INSIDER_CLUSTER,DYNR,"DYNARESOURCE, INC.",ROSE MATTHEW K $0,,7,https://www.sec.gov/Archives/edgar/data/1647774/000119312526385370/0001193125-26-385370-index.htm,HIGH
+2026-09-08T21:26:43+00:00,FORM_144,,"Circle Internet Group, Inc.",proposed sale $18.13M,18134387,,https://www.sec.gov/Archives/edgar/data/1876042/000196858226000933/0001968582-26-000933-index.htm,LOW
+2026-09-08T21:26:44+00:00,FORM_144,,"WILLDAN GROUP, INC.",proposed sale $303K,303268,,https://www.sec.gov/Archives/edgar/data/1395188/000195004726009225/0001950047-26-009225-index.htm,LOW
