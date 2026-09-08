@@ -1350,3 +1350,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-08T15:39:22+00:00,FORM_144,,LA-Z-BOY INC,proposed sale $115K,114597,,https://www.sec.gov/Archives/edgar/data/1286334/000128633426000004/0001286334-26-000004-index.htm,LOW
 2026-09-08T15:53:04+00:00,FORM_144,,Amalgamated Financial Corp.,proposed sale $142K,142181,,https://www.sec.gov/Archives/edgar/data/1917010/000197407826000343/0001974078-26-000343-index.htm,LOW
 2026-09-08T15:53:04+00:00,FORM_144,,Sabra Health Care Reit,proposed sale $4.15M,4150000,,https://www.sec.gov/Archives/edgar/data/1492298/000162828026060841/0001628280-26-060841-index.htm,LOW
+2026-09-08T16:36:14+00:00,INSIDER_CLUSTER,CZNC,CITIZENS & NORTHERN CORP,Shattuck Katherine W $209,209,4,https://www.sec.gov/Archives/edgar/data/1870473/000187047326000028/0001870473-26-000028-index.htm,LOW
+2026-09-08T16:36:15+00:00,FORM_144,,Legacy Education Inc.,proposed sale $133K,132700,,https://www.sec.gov/Archives/edgar/data/2034917/000194984626000570/0001949846-26-000570-index.htm,LOW
+2026-09-08T16:36:15+00:00,FORM_144,,APPLIED MATERIALS INC /DE,proposed sale $465K,465000,,https://www.sec.gov/Archives/edgar/data/1112668/000195917326006780/0001959173-26-006780-index.htm,LOW
