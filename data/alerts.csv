@@ -1343,3 +1343,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-08T14:26:44+00:00,FORM_144,,ANALOG DEVICES INC,proposed sale $545K,545475,,https://www.sec.gov/Archives/edgar/data/2009110/000195917326006775/0001959173-26-006775-index.htm,LOW
 2026-09-08T14:42:06+00:00,FORM_144,,Bridgewater Bancshares Inc,proposed sale $87K,87400,,https://www.sec.gov/Archives/edgar/data/1745268/000196856426000006/0001968564-26-000006-index.htm,LOW
 2026-09-08T14:42:07+00:00,FORM_144,,Oklo Inc.,proposed sale $10K,10010,,https://www.sec.gov/Archives/edgar/data/2146790/000195917326006777/0001959173-26-006777-index.htm,LOW
+2026-09-08T14:55:29+00:00,FORM_144,,"Circle Internet Group, Inc.",proposed sale $2.68M,2677266,,https://www.sec.gov/Archives/edgar/data/2060495/000195917326006779/0001959173-26-006779-index.htm,LOW
+2026-09-08T14:55:29+00:00,FORM_144,,SIMILARWEB LTD.,proposed sale $8.84M,8840000,,https://www.sec.gov/Archives/edgar/data/1910424/000197640826000808/0001976408-26-000808-index.htm,LOW
+2026-09-08T14:55:30+00:00,FORM_144,,AMERICAN ELECTRIC POWER CO INC,proposed sale $250K,250000,,https://www.sec.gov/Archives/edgar/data/1927283/000195917326006778/0001959173-26-006778-index.htm,LOW
