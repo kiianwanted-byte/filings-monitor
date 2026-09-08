@@ -1473,3 +1473,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-08T20:42:31+00:00,FORM_144,,"Contineum Therapeutics, Inc.",proposed sale $42K,41750,,https://www.sec.gov/Archives/edgar/data/1861519/000195004726009206/0001950047-26-009206-index.htm,LOW
 2026-09-08T20:42:31+00:00,FORM_144,,"ROBINHOOD MKTS, INC.",proposed sale $229K,228956,,https://www.sec.gov/Archives/edgar/data/1817425/000195004726009205/0001950047-26-009205-index.htm,LOW
 2026-09-08T20:42:32+00:00,FORM_144,,"VENTURE GLOBAL, INC.",proposed sale $18.08M,18084900,,https://www.sec.gov/Archives/edgar/data/2050857/000195004726009204/0001950047-26-009204-index.htm,LOW
+2026-09-08T20:52:45+00:00,FORM_144,,Appian Corporation,proposed sale $1.73M,1726650,,https://www.sec.gov/Archives/edgar/data/1441683/000196858226000932/0001968582-26-000932-index.htm,LOW
+2026-09-08T20:52:45+00:00,FORM_144,,WHEELS UP EXPERIENCE INC.,proposed sale $4K,4056,,https://www.sec.gov/Archives/edgar/data/2074657/000195004726009222/0001950047-26-009222-index.htm,LOW
+2026-09-08T20:52:46+00:00,FORM_144,,Healthcare Realty Trust Inc.,proposed sale $402K,401520,,https://www.sec.gov/Archives/edgar/data/1693846/000196858226000931/0001968582-26-000931-index.htm,LOW
