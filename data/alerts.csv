@@ -1354,3 +1354,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-08T16:36:15+00:00,FORM_144,,Legacy Education Inc.,proposed sale $133K,132700,,https://www.sec.gov/Archives/edgar/data/2034917/000194984626000570/0001949846-26-000570-index.htm,LOW
 2026-09-08T16:36:15+00:00,FORM_144,,APPLIED MATERIALS INC /DE,proposed sale $465K,465000,,https://www.sec.gov/Archives/edgar/data/1112668/000195917326006780/0001959173-26-006780-index.htm,LOW
 2026-09-08T16:48:36+00:00,FORM_144,,INTERFACE INC,proposed sale $1.03M,1033340,,https://www.sec.gov/Archives/edgar/data/1694421/000194984626000571/0001949846-26-000571-index.htm,LOW
+2026-09-08T17:25:52+00:00,FORM_144,,"Ceribell, Inc.",proposed sale $225K,225174,,https://www.sec.gov/Archives/edgar/data/2035882/000195917326006785/0001959173-26-006785-index.htm,LOW
+2026-09-08T17:25:52+00:00,FORM_144,,RESMED INC,proposed sale $1.13M,1129064,,https://www.sec.gov/Archives/edgar/data/1485164/000195917326006784/0001959173-26-006784-index.htm,LOW
+2026-09-08T17:25:52+00:00,FORM_144,,"NWPX Infrastructure, Inc.",proposed sale $107K,106520,,https://www.sec.gov/Archives/edgar/data/1401658/000195917326006783/0001959173-26-006783-index.htm,LOW
+2026-09-08T17:25:53+00:00,FORM_144,,KENNAMETAL INC,proposed sale $293K,293110,,https://www.sec.gov/Archives/edgar/data/1522176/000195917326006782/0001959173-26-006782-index.htm,LOW
+2026-09-08T17:25:53+00:00,FORM_144,,Wayfair Inc.,proposed sale $698K,698332,,https://www.sec.gov/Archives/edgar/data/1994593/000195917326006781/0001959173-26-006781-index.htm,LOW
