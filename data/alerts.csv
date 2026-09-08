@@ -1487,3 +1487,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-08T22:19:31+00:00,INSIDER_BUY,GME,GameStop Corp.,Cheng Lawrence $1.03M,1033956,0,https://www.sec.gov/Archives/edgar/data/1868288/000186828826000004/0001868288-26-000004-index.htm,MEDIUM
 2026-09-08T22:19:42+00:00,FORM_144,,Pro Dex Inc,proposed sale $169K,168843,,https://www.sec.gov/Archives/edgar/data/1431777/000107997326001233/0001079973-26-001233-index.htm,LOW
 2026-09-08T22:19:42+00:00,FORM_144,,Invesco Ltd.,proposed sale $1.03M,1030537,,https://www.sec.gov/Archives/edgar/data/1674244/000167424426000008/0001674244-26-000008-index.htm,LOW
+2026-09-08T22:43:10+00:00,FORM_144,,Amalgamated Financial Corp.,proposed sale $3.93M,3933600,,https://www.sec.gov/Archives/edgar/data/2008855/000090266426003760/0000902664-26-003760-index.htm,LOW
+2026-09-08T22:43:10+00:00,FORM_144,,Amalgamated Financial Corp.,proposed sale $12.29M,12292500,,https://www.sec.gov/Archives/edgar/data/2009129/000090266426003759/0000902664-26-003759-index.htm,LOW
+2026-09-08T22:43:11+00:00,FORM_144,,Amalgamated Financial Corp.,proposed sale $2.46M,2458500,,https://www.sec.gov/Archives/edgar/data/2008729/000090266426003758/0000902664-26-003758-index.htm,LOW
+2026-09-08T22:43:11+00:00,FORM_144,,VERSIGENT PLC,proposed sale $10.43M,10425800,,https://www.sec.gov/Archives/edgar/data/2078008/000195824426000575/0001958244-26-000575-index.htm,LOW
