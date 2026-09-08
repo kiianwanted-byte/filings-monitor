@@ -1380,3 +1380,30 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-08T19:31:38+00:00,FORM_144,,Old Second Bancorp,proposed sale $642K,641912,,https://www.sec.gov/Archives/edgar/data/1184764/000196922326001003/0001969223-26-001003-index.htm,LOW
 2026-09-08T19:31:38+00:00,FORM_144,,Paysign,proposed sale $1.95M,1950000,,https://www.sec.gov/Archives/edgar/data/2135448/000162828026060882/0001628280-26-060882-index.htm,LOW
 2026-09-08T19:59:53+00:00,INSIDER_BUY,TSN,"TYSON FOODS, INC.",Schomburger Jeffrey K $1.00M,1001616,4,https://www.sec.gov/Archives/edgar/data/1630117/000162828026060888/0001628280-26-060888-index.htm,MEDIUM
+2026-09-08T20:15:29+00:00,INSIDER_CLUSTER,SCOR,"COMSCORE, INC.",McLaughlin Matthew F. $102K,101637,4,https://www.sec.gov/Archives/edgar/data/1853874/000185387426000014/0001853874-26-000014-index.htm,HIGH
+2026-09-08T20:15:39+00:00,FORM_144,,"KESTRA MEDICAL TECHNOLOGIES, LTD.",proposed sale $74K,73677,,https://www.sec.gov/Archives/edgar/data/1958127/000196430626000430/0001964306-26-000430-index.htm,LOW
+2026-09-08T20:15:40+00:00,FORM_144,,"GOLD.COM, INC.",proposed sale $187K,187440,,https://www.sec.gov/Archives/edgar/data/1591588/000195004726009177/0001950047-26-009177-index.htm,LOW
+2026-09-08T20:15:40+00:00,FORM_144,,"ADVANCED ENERGY INDUSTRIES, INC.",proposed sale $182K,182104,,https://www.sec.gov/Archives/edgar/data/1923149/000195004726009176/0001950047-26-009176-index.htm,LOW
+2026-09-08T20:15:40+00:00,FORM_144,,"RYAN SPECIALTY HOLDINGS, INC.",proposed sale $1.62M,1620320,,https://www.sec.gov/Archives/edgar/data/1869959/000195004726009175/0001950047-26-009175-index.htm,LOW
+2026-09-08T20:15:41+00:00,FORM_144,,"GOLD.COM, INC.",proposed sale $313K,313458,,https://www.sec.gov/Archives/edgar/data/1806388/000195004726009174/0001950047-26-009174-index.htm,LOW
+2026-09-08T20:15:41+00:00,FORM_144,,"KESTRA MEDICAL TECHNOLOGIES, LTD.",proposed sale $98K,98464,,https://www.sec.gov/Archives/edgar/data/1877184/000196430626000429/0001964306-26-000429-index.htm,LOW
+2026-09-08T20:15:42+00:00,FORM_144,,"AMKOR TECHNOLOGY, INC.",proposed sale $49K,49050,,https://www.sec.gov/Archives/edgar/data/1684564/000195004726009173/0001950047-26-009173-index.htm,LOW
+2026-09-08T20:15:42+00:00,FORM_144,,"DOCUSIGN, INC.",proposed sale $984K,983547,,https://www.sec.gov/Archives/edgar/data/1796825/000195004726009172/0001950047-26-009172-index.htm,LOW
+2026-09-08T20:15:42+00:00,FORM_144,,"Heartflow, Inc.",proposed sale $332K,332211,,https://www.sec.gov/Archives/edgar/data/2079946/000195917326006799/0001959173-26-006799-index.htm,LOW
+2026-09-08T20:15:43+00:00,FORM_144,,"ACM RESEARCH, INC.",proposed sale $5.41M,5408522,,https://www.sec.gov/Archives/edgar/data/1721580/000195004726009171/0001950047-26-009171-index.htm,LOW
+2026-09-08T20:15:43+00:00,FORM_144,,"MAGNITE, INC.",proposed sale $763K,762870,,https://www.sec.gov/Archives/edgar/data/1700262/000195004726009170/0001950047-26-009170-index.htm,LOW
+2026-09-08T20:15:44+00:00,FORM_144,,"GUIDEWIRE SOFTWARE, INC.",proposed sale $193K,192624,,https://www.sec.gov/Archives/edgar/data/1784996/000195004726009169/0001950047-26-009169-index.htm,LOW
+2026-09-08T20:15:44+00:00,FORM_144,,"CoreWeave, Inc.",proposed sale $17.43M,17425200,,https://www.sec.gov/Archives/edgar/data/2058048/000196858226000928/0001968582-26-000928-index.htm,LOW
+2026-09-08T20:15:44+00:00,FORM_144,,"VERISIGN, INC.",proposed sale $145K,144580,,https://www.sec.gov/Archives/edgar/data/1624651/000195004726009168/0001950047-26-009168-index.htm,LOW
+2026-09-08T20:15:45+00:00,FORM_144,,LUMENTUM HOLDINGS INC.,proposed sale $448K,447995,,https://www.sec.gov/Archives/edgar/data/1633978/000195004726009167/0001950047-26-009167-index.htm,LOW
+2026-09-08T20:15:45+00:00,FORM_144,,"INTERDIGITAL, INC.",proposed sale $507K,507000,,https://www.sec.gov/Archives/edgar/data/1936535/000195004726009166/0001950047-26-009166-index.htm,LOW
+2026-09-08T20:15:46+00:00,FORM_144,,Bicara Therapeutics Inc.,proposed sale $283K,283000,,https://www.sec.gov/Archives/edgar/data/2034668/000196922326001009/0001969223-26-001009-index.htm,LOW
+2026-09-08T20:15:46+00:00,FORM_144,,Bicara Therapeutics Inc.,proposed sale $396K,396200,,https://www.sec.gov/Archives/edgar/data/2034665/000196922326001008/0001969223-26-001008-index.htm,LOW
+2026-09-08T20:15:46+00:00,FORM_144,,JFrog Ltd,proposed sale $1.63M,1634596,,https://www.sec.gov/Archives/edgar/data/1823400/000196922326001007/0001969223-26-001007-index.htm,LOW
+2026-09-08T20:15:47+00:00,FORM_144,,"Stitch Fix, Inc.",proposed sale $94K,93926,,https://www.sec.gov/Archives/edgar/data/2004694/000192109426000999/0001921094-26-000999-index.htm,LOW
+2026-09-08T20:15:47+00:00,FORM_144,,Parker-Hannifin,proposed sale $153K,153323,,https://www.sec.gov/Archives/edgar/data/1589405/000196922326001006/0001969223-26-001006-index.htm,LOW
+2026-09-08T20:15:48+00:00,FORM_144,,"AXON ENTERPRISE, INC.",proposed sale $5.06M,5060300,,https://www.sec.gov/Archives/edgar/data/1167028/000196922326001005/0001969223-26-001005-index.htm,LOW
+2026-09-08T20:15:48+00:00,FORM_144,,"PINTEREST, INC.",proposed sale $941K,940561,,https://www.sec.gov/Archives/edgar/data/1773914/000192109426000998/0001921094-26-000998-index.htm,LOW
+2026-09-08T20:15:48+00:00,FORM_144,,Vistra Corp.,proposed sale $3.02M,3020600,,https://www.sec.gov/Archives/edgar/data/1940494/000196922326001004/0001969223-26-001004-index.htm,LOW
+2026-09-08T20:15:49+00:00,FORM_144,,"ROCKWELL AUTOMATION, INC",proposed sale $67K,66624,,https://www.sec.gov/Archives/edgar/data/1825762/000192109426000997/0001921094-26-000997-index.htm,LOW
+2026-09-08T20:15:49+00:00,FORM_144,,ADOBE INC.,proposed sale $8K,8479,,https://www.sec.gov/Archives/edgar/data/1610062/000196530126000137/0001965301-26-000137-index.htm,LOW
