@@ -254,3 +254,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-08T12:24:00+00:00,2026-09-03,OBIO,"Orchestra BioMed Holdings, Inc.",Hochman David P,"Director, See Remarks",10000,4.79,47900,0.9,0001104659-26-105690
 2026-09-08T12:42:21+00:00,2026-08-27,NMTC,NEUROONE MEDICAL TECHNOLOGIES Corp,Wambeke David J.,Chief Business Officer,33333,2.01,66999,20.0,0001971798-26-000005
 2026-09-08T13:12:27+00:00,2026-09-04,NTST,NETSTREIT Corp.,Donlan Daniel P,CFO and Treasurer,1200,20.12,24144,2.7,0001628280-26-060814
+2026-09-08T13:44:26+00:00,2026-09-03,GF,NEW GERMANY FUND INC,"Saba Capital Management, L.P.",10% owner,3721,11.56,43014,0.1,0001510281-26-000288
