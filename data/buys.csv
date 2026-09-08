@@ -280,3 +280,7 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-08T20:28:57+00:00,2026-09-04,GPUS,"Hyperscale Data, Inc.",Nisser Henry Carl,"Director, President and General Counsel",250000,0.19,46775,NEW,0001214659-26-011478
 2026-09-08T20:29:06+00:00,2026-09-04,GPUS,"Hyperscale Data, Inc.",Horne William B.,"Director, Chief Executive Officer",160000,0.20,31220,114.3,0001214659-26-011477
 2026-09-08T20:29:09+00:00,2026-09-04,DLHC,DLH Holdings Corp.,Mink Brook Asset Management LLC,10% owner,1358,4.06,5512,0.1,0001628280-26-060920
+2026-09-08T20:42:12+00:00,2026-09-08,DLPN,"Dolphin Entertainment, Inc.",O'Dowd William IV,"Director, Chief Executive Officer, 10% owner",4100,1.19,4879,0.8,0001079973-26-001227
+2026-09-08T20:42:14+00:00,2026-09-04,JCTC,JEWETT CAMERON TRADING CO LTD,"AJB Investment Fund II, LP",10% owner,8415,2.92,24561,1.8,0001536588-26-000030
+2026-09-08T20:42:21+00:00,2026-09-03,EIKN,"Eikon Therapeutics, Inc.","Column Group IV GP, LP",10% owner,89200,11.56,1031044,NEW,0001193125-26-385268
+2026-09-08T20:42:23+00:00,2026-09-03,GOLD,"Gold.com, Inc.","Tether Global Investments Fund, S.I.C.A.F., S.A.",10% owner,100000,39.30,3930350,50.0,0001193125-26-385264

@@ -1448,3 +1448,28 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-08T20:29:25+00:00,FORM_144,,"GOLD.COM, INC.",proposed sale $703K,702961,,https://www.sec.gov/Archives/edgar/data/1591588/000195004726009178/0001950047-26-009178-index.htm,LOW
 2026-09-08T20:29:26+00:00,FORM_144,,Flywire Corporation,proposed sale $223K,223306,,https://www.sec.gov/Archives/edgar/data/1862133/000196858226000929/0001968582-26-000929-index.htm,LOW
 2026-09-08T20:29:26+00:00,FORM_144,,"KESTRA MEDICAL TECHNOLOGIES, LTD.",proposed sale $144K,143778,,https://www.sec.gov/Archives/edgar/data/2072296/000196430626000431/0001964306-26-000431-index.htm,LOW
+2026-09-08T20:42:21+00:00,INSIDER_BUY,EIKN,"Eikon Therapeutics, Inc.","Column Group IV GP, LP $1.03M",1031044,5,https://www.sec.gov/Archives/edgar/data/1932874/000119312526385268/0001193125-26-385268-index.htm,MEDIUM
+2026-09-08T20:42:23+00:00,INSIDER_BUY,GOLD,"Gold.com, Inc.","Tether Global Investments Fund, S.I.C.A.F., S.A. $3.93M",3930350,5,https://www.sec.gov/Archives/edgar/data/2130094/000119312526385264/0001193125-26-385264-index.htm,MEDIUM
+2026-09-08T20:42:24+00:00,FORM_144,,"Arcutis Biotherapeutics, Inc.",proposed sale $342K,341933,,https://www.sec.gov/Archives/edgar/data/1798679/000162828026060930/0001628280-26-060930-index.htm,LOW
+2026-09-08T20:42:25+00:00,FORM_144,,"Meta Platforms, Inc.",proposed sale $3.30M,3301175,,https://www.sec.gov/Archives/edgar/data/1564475/000192109426001000/0001921094-26-001000-index.htm,LOW
+2026-09-08T20:42:25+00:00,FORM_144,,"Dyne Therapeutics, Inc.",proposed sale $107K,106844,,https://www.sec.gov/Archives/edgar/data/1818794/000197248126000280/0001972481-26-000280-index.htm,LOW
+2026-09-08T20:42:25+00:00,FORM_144,,"NLIGHT, INC.",proposed sale $4.76M,4761358,,https://www.sec.gov/Archives/edgar/data/1738235/000195917326006804/0001959173-26-006804-index.htm,LOW
+2026-09-08T20:42:26+00:00,FORM_144,,"BLOCK, INC.",proposed sale $493K,493080,,https://www.sec.gov/Archives/edgar/data/1933928/000195004726009221/0001950047-26-009221-index.htm,LOW
+2026-09-08T20:42:26+00:00,FORM_144,,"Dyne Therapeutics, Inc.",proposed sale $661,661,,https://www.sec.gov/Archives/edgar/data/1818794/000197248126000279/0001972481-26-000279-index.htm,LOW
+2026-09-08T20:42:26+00:00,FORM_144,,JAZZ PHARMACEUTICALS PUBLIC LIMITED COMPANY,proposed sale $486K,486060,,https://www.sec.gov/Archives/edgar/data/1607737/000195004726009220/0001950047-26-009220-index.htm,LOW
+2026-09-08T20:42:27+00:00,FORM_144,,Roblox Corporation,proposed sale $250K,250028,,https://www.sec.gov/Archives/edgar/data/1835037/000195004726009219/0001950047-26-009219-index.htm,LOW
+2026-09-08T20:42:27+00:00,FORM_144,,"LIFETIME BRANDS, INC.",proposed sale $7K,6737,,https://www.sec.gov/Archives/edgar/data/923401/000195004726009218/0001950047-26-009218-index.htm,LOW
+2026-09-08T20:42:27+00:00,FORM_144,,"Artiva Biotherapeutics, Inc.",proposed sale $262K,262170,,https://www.sec.gov/Archives/edgar/data/1909362/000195004726009217/0001950047-26-009217-index.htm,LOW
+2026-09-08T20:42:28+00:00,FORM_144,,FASTLY INC,proposed sale $191K,190663,,https://www.sec.gov/Archives/edgar/data/1769490/000195004726009216/0001950047-26-009216-index.htm,LOW
+2026-09-08T20:42:28+00:00,FORM_144,,"FASTLY, INC.",proposed sale $50K,50157,,https://www.sec.gov/Archives/edgar/data/2074428/000195004726009215/0001950047-26-009215-index.htm,LOW
+2026-09-08T20:42:28+00:00,FORM_144,,"SENTINELONE, INC.",proposed sale $431K,430680,,https://www.sec.gov/Archives/edgar/data/1849122/000195004726009214/0001950047-26-009214-index.htm,LOW
+2026-09-08T20:42:29+00:00,FORM_144,,"Five9, Inc.",proposed sale $42K,41687,,https://www.sec.gov/Archives/edgar/data/1846877/000195004726009213/0001950047-26-009213-index.htm,LOW
+2026-09-08T20:42:29+00:00,FORM_144,,"TESLA, INC.",proposed sale $939K,938509,,https://www.sec.gov/Archives/edgar/data/1771340/000195004726009212/0001950047-26-009212-index.htm,LOW
+2026-09-08T20:42:29+00:00,FORM_144,,"Five9, Inc.",proposed sale $144K,144125,,https://www.sec.gov/Archives/edgar/data/1940974/000195004726009211/0001950047-26-009211-index.htm,LOW
+2026-09-08T20:42:30+00:00,FORM_144,,INTUITIVE SURGICAL INC,proposed sale $254K,254489,,https://www.sec.gov/Archives/edgar/data/2010300/000195004726009210/0001950047-26-009210-index.htm,LOW
+2026-09-08T20:42:30+00:00,FORM_144,,"Arista Networks, Inc.",proposed sale $3.88M,3875600,,https://www.sec.gov/Archives/edgar/data/1596532/000195004726009209/0001950047-26-009209-index.htm,LOW
+2026-09-08T20:42:30+00:00,FORM_144,,"Datadog, Inc.",proposed sale $19.06M,19056596,,https://www.sec.gov/Archives/edgar/data/1783990/000195004726009208/0001950047-26-009208-index.htm,LOW
+2026-09-08T20:42:31+00:00,FORM_144,,"HARMONY BIOSCIENCES HOLDINGS, INC.",proposed sale $1.20M,1202181,,https://www.sec.gov/Archives/edgar/data/2009762/000195004726009207/0001950047-26-009207-index.htm,LOW
+2026-09-08T20:42:31+00:00,FORM_144,,"Contineum Therapeutics, Inc.",proposed sale $42K,41750,,https://www.sec.gov/Archives/edgar/data/1861519/000195004726009206/0001950047-26-009206-index.htm,LOW
+2026-09-08T20:42:31+00:00,FORM_144,,"ROBINHOOD MKTS, INC.",proposed sale $229K,228956,,https://www.sec.gov/Archives/edgar/data/1817425/000195004726009205/0001950047-26-009205-index.htm,LOW
+2026-09-08T20:42:32+00:00,FORM_144,,"VENTURE GLOBAL, INC.",proposed sale $18.08M,18084900,,https://www.sec.gov/Archives/edgar/data/2050857/000195004726009204/0001950047-26-009204-index.htm,LOW
