@@ -1379,3 +1379,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-08T19:31:38+00:00,FORM_144,,"Sprouts Farmers Market, Inc.",proposed sale $23K,23466,,https://www.sec.gov/Archives/edgar/data/2006846/000195917326006798/0001959173-26-006798-index.htm,LOW
 2026-09-08T19:31:38+00:00,FORM_144,,Old Second Bancorp,proposed sale $642K,641912,,https://www.sec.gov/Archives/edgar/data/1184764/000196922326001003/0001969223-26-001003-index.htm,LOW
 2026-09-08T19:31:38+00:00,FORM_144,,Paysign,proposed sale $1.95M,1950000,,https://www.sec.gov/Archives/edgar/data/2135448/000162828026060882/0001628280-26-060882-index.htm,LOW
+2026-09-08T19:59:53+00:00,INSIDER_BUY,TSN,"TYSON FOODS, INC.",Schomburger Jeffrey K $1.00M,1001616,4,https://www.sec.gov/Archives/edgar/data/1630117/000162828026060888/0001628280-26-060888-index.htm,MEDIUM
