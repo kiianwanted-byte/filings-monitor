@@ -1632,3 +1632,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-09T18:58:35+00:00,INSIDER_BUY,SEI,"Solaris Energy Infrastructure, Inc.",TEAGUE AJ $501K,500994,1,https://www.sec.gov/Archives/edgar/data/1697500/000162828026061096/0001628280-26-061096-index.htm,MEDIUM
 2026-09-09T18:58:40+00:00,INSIDER_CLUSTER,GROV,"Grove Collaborative Holdings, Inc.",Landesberg Stuart $248,248,5,https://www.sec.gov/Archives/edgar/data/1930721/000184176126000096/0001841761-26-000096-index.htm,HIGH
 2026-09-09T18:58:41+00:00,FORM_144,,NovaBridge Biosciences,proposed sale $79K,79377,,https://www.sec.gov/Archives/edgar/data/2109966/000197337926000336/0001973379-26-000336-index.htm,LOW
+2026-09-09T19:10:34+00:00,FORM_144,,PARK OHIO HOLDINGS CORP,proposed sale $230K,230000,,https://www.sec.gov/Archives/edgar/data/1206686/000132108626000008/0001321086-26-000008-index.htm,LOW
+2026-09-09T19:10:34+00:00,FORM_144,,"TAPESTRY, INC.",proposed sale $1.21M,1214887,,https://www.sec.gov/Archives/edgar/data/1808278/000195917326006826/0001959173-26-006826-index.htm,LOW
