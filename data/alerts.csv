@@ -1699,3 +1699,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-09T20:59:28+00:00,FORM_144,,"MAGNITE, INC.",proposed sale $260K,260357,,https://www.sec.gov/Archives/edgar/data/1700262/000195004726009255/0001950047-26-009255-index.htm,LOW
 2026-09-09T20:59:28+00:00,FORM_144,,"Intercontinental Exchange, Inc.",proposed sale $515K,515000,,https://www.sec.gov/Archives/edgar/data/1918894/000196530126000138/0001965301-26-000138-index.htm,LOW
 2026-09-09T20:59:29+00:00,FORM_144,,LAM RESEARCH CORP,proposed sale $3.01M,3007970,,https://www.sec.gov/Archives/edgar/data/1405693/000196922326001013/0001969223-26-001013-index.htm,LOW
+2026-09-09T21:12:52+00:00,FORM_144,,"Analog Devices, Inc.",proposed sale $2.58M,2584695,,https://www.sec.gov/Archives/edgar/data/900729/000195824426000585/0001958244-26-000585-index.htm,LOW
+2026-09-09T21:12:52+00:00,FORM_144,,"Slide Insurance Holdings, Inc.",proposed sale $1.53M,1526139,,https://www.sec.gov/Archives/edgar/data/1886428/000195824426000584/0001958244-26-000584-index.htm,LOW
+2026-09-09T21:12:53+00:00,FORM_144,,ELASTIC N.V.,proposed sale $12.93M,12930375,,https://www.sec.gov/Archives/edgar/data/1753445/000195004726009257/0001950047-26-009257-index.htm,LOW
