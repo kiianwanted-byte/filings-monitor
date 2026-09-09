@@ -116,8 +116,37 @@ FORMS = ["4", "144", "SC 13D", "SC 13G"]
 FEED_QUERIES = [
     ("4", ["4"]),
     ("144", ["144"]),
-    ("SC+13", ["SC 13D", "SC 13G"]),
+    ("SCHEDULE+13", ["SC 13D", "SC 13G"]),
 ]
+
+# EDGAR does NOT call these "SC 13D" and "SC 13G". Its atom titles read
+# "SCHEDULE 13D/A" and "SCHEDULE 13G/A". Querying the wrong name returns a
+# clean empty feed rather than an error, which is why this went unnoticed.
+# Confirmed by pulling the untyped feed and counting the form names present:
+#   {'4': 88, '3': 4, 'SCHEDULE 13G/A': 2, '144': 2, 'SCHEDULE 13D/A': 4}
+#
+# Note EDGAR uses BOTH conventions: "SC 13E3" exists alongside "SCHEDULE 13D".
+FORM_TITLES = {
+    "4":       ["4"],
+    "144":     ["144"],
+    "SC 13D":  ["SCHEDULE 13D", "SC 13D"],
+    "SC 13G":  ["SCHEDULE 13G", "SC 13G"],
+}
+
+# If the typed query ever returns nothing, fall back to the untyped feed,
+# which is proven to contain these filings mixed in with everything else.
+UNTYPED_FEED = ("https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent"
+                "&type=&company=&dateb=&owner=include&count=100&output=atom")
+
+
+def title_to_form(title, produces):
+    """Map an atom title's form name onto whichever watched form it is."""
+    actual = title.split(" - ", 1)[0].strip() if " - " in title else ""
+    for form in produces:
+        for prefix in FORM_TITLES.get(form, [form]):
+            if actual.startswith(prefix):
+                return form, actual
+    return None, actual
 
 # A filing with no ticker is not actionable, so it is logged but never pushed.
 REQUIRE_TICKER = True
@@ -132,10 +161,10 @@ SEC_DELAY = 0.15          # SEC allows 10 requests per second
 # 13G in particular clusters around quarter ends and can be quiet for days.
 FEED_GRACE_HOURS = 72
 
-# Feeds whose source is known-unresolved. They keep being attempted, but the
-# heartbeat will not report them as broken, because we already know and a
-# daily alarm about a known issue trains you to ignore alarms.
-SUPPRESS_STALE = {"SC 13D", "SC 13G"}
+# Feeds whose source is known-unresolved. Add a form name here to keep it
+# being attempted while stopping the heartbeat from reporting it, so a known
+# issue does not produce a daily alarm that trains you to ignore alarms.
+SUPPRESS_STALE = set()
 
 # Paths inside the repo
 ROOT = Path(__file__).resolve().parent
@@ -495,6 +524,16 @@ def discover(seen):
             log(f"  feed unparseable: {query} :: {e}")
             continue
 
+        if not entries and query != "4":
+            # Proven fallback: the untyped feed carries every form type.
+            log(f"  feed empty for {query}, trying untyped feed")
+            alt = fetch(UNTYPED_FEED)
+            if alt:
+                try:
+                    entries = find_all(ET.fromstring(alt), "entry")
+                except ET.ParseError:
+                    entries = []
+
         if not entries:
             log(f"  feed empty: {query}")
             continue
@@ -518,12 +557,8 @@ def discover(seen):
             title_el = find_one(entry, "title")
             title = (title_el.text or "") if title_el is not None else ""
 
-            # Title looks like: "SC 13G - GoPro, Inc. (0001500435) (Subject)"
-            actual = title.split(" - ", 1)[0].strip() if " - " in title else ""
-
-            # Map to whichever watched form this actually is. Amendments
-            # ("SC 13G/A") map to their base form and get labelled later.
-            form = next((f for f in produces if actual.startswith(f)), None)
+            # Title looks like: "SCHEDULE 13G/A - GoPro, Inc. (...) (Subject)"
+            form, actual = title_to_form(title, produces)
             if form is None:
                 continue
 
