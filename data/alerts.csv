@@ -1505,3 +1505,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-08T23:26:33+00:00,FORM_144,,Symbotic Inc.,proposed sale $260K,259800,,https://www.sec.gov/Archives/edgar/data/1837240/000195824426000577/0001958244-26-000577-index.htm,LOW
 2026-09-08T23:26:33+00:00,FORM_144,,"IBOTTA, INC.",proposed sale $4.41M,4406522,,https://www.sec.gov/Archives/edgar/data/1875168/000195824426000576/0001958244-26-000576-index.htm,LOW
 2026-09-08T23:26:33+00:00,FORM_144,,"Kestra Medical Technologies, Ltd.",proposed sale $98K,97944,,https://www.sec.gov/Archives/edgar/data/1877184/000095013026000219/0000950130-26-000219-index.htm,LOW
+2026-09-09T00:30:22+00:00,INSIDER_BUY,PAMT,PAMT CORP,MOROUN MATTHEW T $31.23M,31225740,5,https://www.sec.gov/Archives/edgar/data/1030743/000168316826007021/0001683168-26-007021-index.htm,MEDIUM
+2026-09-09T00:30:29+00:00,FORM_144,,"Inhibrx Biosciences, Inc.",proposed sale $58K,57570,,https://www.sec.gov/Archives/edgar/data/2007919/000195917326006805/0001959173-26-006805-index.htm,LOW
