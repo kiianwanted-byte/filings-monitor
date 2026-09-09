@@ -1717,3 +1717,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-09T22:18:35+00:00,FORM_144,,"Alignment Healthcare, Inc.",proposed sale $5.29M,5289300,,https://www.sec.gov/Archives/edgar/data/1832466/000162828026061184/0001628280-26-061184-index.htm,LOW
 2026-09-09T22:18:35+00:00,FORM_144,,"Hinge Health, Inc.",proposed sale $23.90M,23904751,,https://www.sec.gov/Archives/edgar/data/1768640/000162828026061183/0001628280-26-061183-index.htm,LOW
 2026-09-09T22:41:36+00:00,INSIDER_CLUSTER,PRTS,"CarParts.com, Inc.",Meniane David $749K,749239,5,https://www.sec.gov/Archives/edgar/data/1770720/000114036126036089/0001140361-26-036089-index.htm,HIGH
+2026-09-09T22:50:47+00:00,INSIDER_CLUSTER,PRTS,"CarParts.com, Inc.",PHELPS BARRY $65K,64767,20,https://www.sec.gov/Archives/edgar/data/1378950/000114036126036091/0001140361-26-036091-index.htm,HIGH
+2026-09-09T22:50:51+00:00,INSIDER_CLUSTER,PRTS,"CarParts.com, Inc.",Huffaker Michael $748K,748462,5,https://www.sec.gov/Archives/edgar/data/1956633/000114036126036090/0001140361-26-036090-index.htm,HIGH
