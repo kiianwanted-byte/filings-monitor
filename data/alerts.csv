@@ -1599,3 +1599,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-09T11:40:10+00:00,FORM_144,,UroGen Pharma Ltd.,proposed sale $38K,38402,,https://www.sec.gov/Archives/edgar/data/1763581/000197640826000811/0001976408-26-000811-index.htm,LOW
 2026-09-09T11:40:10+00:00,FORM_144,,UroGen Pharma Ltd.,proposed sale $67K,66972,,https://www.sec.gov/Archives/edgar/data/1821479/000197640826000810/0001976408-26-000810-index.htm,LOW
 2026-09-09T11:40:10+00:00,FORM_144,,ZIM Integrated Shipping Services Ltd.,proposed sale $66K,66076,,https://www.sec.gov/Archives/edgar/data/1966863/000197640826000809/0001976408-26-000809-index.htm,LOW
+2026-09-09T12:53:21+00:00,INSIDER_CLUSTER,BWFG,"Bankwell Financial Group, Inc.",Dunne Jeffrey R $18K,17515,1,https://www.sec.gov/Archives/edgar/data/1968428/000150573226000115/0001505732-26-000115-index.htm,HIGH
+2026-09-09T12:53:22+00:00,INSIDER_CLUSTER,BWFG,"Bankwell Financial Group, Inc.",Drexler Blake S $8K,7784,1,https://www.sec.gov/Archives/edgar/data/1607538/000150573226000114/0001505732-26-000114-index.htm,HIGH
+2026-09-09T12:53:23+00:00,INSIDER_CLUSTER,BWFG,"Bankwell Financial Group, Inc.",Porto Carl M $22K,21944,1,https://www.sec.gov/Archives/edgar/data/1650466/000150573226000113/0001505732-26-000113-index.htm,HIGH
