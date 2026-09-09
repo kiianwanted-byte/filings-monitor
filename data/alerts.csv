@@ -1638,3 +1638,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-09T19:23:16+00:00,FORM_144,,PROCEPT BioRobotics Corp,proposed sale $6K,6223,,https://www.sec.gov/Archives/edgar/data/1599418/000195917326006829/0001959173-26-006829-index.htm,LOW
 2026-09-09T19:23:16+00:00,FORM_144,,PROCEPT BioRobotics Corp,proposed sale $8K,7815,,https://www.sec.gov/Archives/edgar/data/2132820/000195917326006828/0001959173-26-006828-index.htm,LOW
 2026-09-09T19:23:16+00:00,FORM_144,,PROCEPT BioRobotics Corp,proposed sale $8K,7815,,https://www.sec.gov/Archives/edgar/data/1653771/000195917326006827/0001959173-26-006827-index.htm,LOW
+2026-09-09T19:33:26+00:00,FORM_144,,Oklo Inc.,proposed sale $16K,15809,,https://www.sec.gov/Archives/edgar/data/2146790/000195917326006830/0001959173-26-006830-index.htm,LOW
