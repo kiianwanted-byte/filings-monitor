@@ -1508,3 +1508,30 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-09T00:30:22+00:00,INSIDER_BUY,PAMT,PAMT CORP,MOROUN MATTHEW T $31.23M,31225740,5,https://www.sec.gov/Archives/edgar/data/1030743/000168316826007021/0001683168-26-007021-index.htm,MEDIUM
 2026-09-09T00:30:29+00:00,FORM_144,,"Inhibrx Biosciences, Inc.",proposed sale $58K,57570,,https://www.sec.gov/Archives/edgar/data/2007919/000195917326006805/0001959173-26-006805-index.htm,LOW
 2026-09-09T00:48:33+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $1.52M,1520006,,https://www.sec.gov/Archives/edgar/data/1651403/000119312526385585/0001193125-26-385585-index.htm,LOW
+2026-09-09T01:12:38+00:00,INSIDER_CLUSTER,ENOV,Enovis CORP,Engert Oliver $50K,50008,4,https://www.sec.gov/Archives/edgar/data/2105870/000119312526385615/0001193125-26-385615-index.htm,HIGH
+2026-09-09T01:12:53+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $15.04M,15040197,,https://www.sec.gov/Archives/edgar/data/1737659/000119312526385638/0001193125-26-385638-index.htm,LOW
+2026-09-09T01:12:54+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $28.69M,28687230,,https://www.sec.gov/Archives/edgar/data/1571996/000119312526385631/0001193125-26-385631-index.htm,LOW
+2026-09-09T01:12:54+00:00,STAKE_13G,,Eagle Point Credit Management LLC, 12.9%,,,https://www.sec.gov/Archives/edgar/data/1607203/000110465926106019/0001104659-26-106019-index.htm,MEDIUM
+2026-09-09T01:12:55+00:00,STAKE_13D,,MOROUN MATTHEW T, 5.0%,,,https://www.sec.gov/Archives/edgar/data/1030743/000168316826007022/0001683168-26-007022-index.htm,MEDIUM
+2026-09-09T01:12:57+00:00,STAKE_13D,,"American Ventures LLC, Series XXIV XWELL", 10.0%,,,https://www.sec.gov/Archives/edgar/data/2112711/000121390026098164/0001213900-26-098164-index.htm,MEDIUM
+2026-09-09T01:12:58+00:00,STAKE_13D,,"SUJA LIFE, INC.","SUJA LIFE, INC. 69.3%",,,https://www.sec.gov/Archives/edgar/data/1934114/000114036126035953/0001140361-26-035953-index.htm,MEDIUM
+2026-09-09T01:12:59+00:00,STAKE_13D,,GOLDENTREE ASSET MANAGEMENT LP, 0.0%,,,https://www.sec.gov/Archives/edgar/data/1278951/000149315226041813/0001493152-26-041813-index.htm,MEDIUM
+2026-09-09T01:13:00+00:00,STAKE_13D,,"Fund 1 Investments, LLC", 24.9%,,,https://www.sec.gov/Archives/edgar/data/1959730/000092189526002504/0000921895-26-002504-index.htm,MEDIUM
+2026-09-09T01:13:02+00:00,STAKE_13G,,"Harraden Circle Investments, LLC", 0.0%,,,https://www.sec.gov/Archives/edgar/data/1910592/000119312526385421/0001193125-26-385421-index.htm,MEDIUM
+2026-09-09T01:13:03+00:00,STAKE_13G,,Sable Offshore Corp.,Sable Offshore Corp. 0.0%,,,https://www.sec.gov/Archives/edgar/data/1831481/000089542126000281/0000895421-26-000281-index.htm,MEDIUM
+2026-09-09T01:13:04+00:00,STAKE_13G,,"Evolent Health, Inc.","Evolent Health, Inc. 0.0%",,,https://www.sec.gov/Archives/edgar/data/1628908/000089542126000280/0000895421-26-000280-index.htm,MEDIUM
+2026-09-09T01:13:05+00:00,STAKE_13D,,"Conifer Management, L.L.C.", 11.4%,,,https://www.sec.gov/Archives/edgar/data/1773994/000090514826004113/0000905148-26-004113-index.htm,MEDIUM
+2026-09-09T01:13:06+00:00,STAKE_13G,,"Euro Pacific Asset Management, LLC", 6.2%,,,https://www.sec.gov/Archives/edgar/data/1796651/000179665126000005/0001796651-26-000005-index.htm,MEDIUM
+2026-09-09T01:13:06+00:00,STAKE_13G,,POET TECHNOLOGIES INC.,POET TECHNOLOGIES INC. 0.0%,,,https://www.sec.gov/Archives/edgar/data/1437424/000093254026000015/0000932540-26-000015-index.htm,MEDIUM
+2026-09-09T01:13:07+00:00,STAKE_13G,,Focus Partners Wealth, 0.0%,,,https://www.sec.gov/Archives/edgar/data/1542153/000108514626000769/0001085146-26-000769-index.htm,MEDIUM
+2026-09-09T01:13:08+00:00,STAKE_13D,,Kelly Christopher Michael, 50.1%,,,https://www.sec.gov/Archives/edgar/data/1842872/000121390026098095/0001213900-26-098095-index.htm,HIGH
+2026-09-09T01:13:08+00:00,STAKE_13D,,"Apogee Therapeutics, Inc.","Apogee Therapeutics, Inc. 0.0%",,,https://www.sec.gov/Archives/edgar/data/1974640/000123191926001150/0001231919-26-001150-index.htm,MEDIUM
+2026-09-09T01:13:14+00:00,STAKE_13G,,"First National Advisers, LLC", 0.0%,,,https://www.sec.gov/Archives/edgar/data/1941030/000108514626000768/0001085146-26-000768-index.htm,MEDIUM
+2026-09-09T01:13:14+00:00,STAKE_13G,,"First National Advisers, LLC", 0.0%,,,https://www.sec.gov/Archives/edgar/data/1941030/000108514626000767/0001085146-26-000767-index.htm,MEDIUM
+2026-09-09T01:13:15+00:00,STAKE_13G,,"First National Advisers, LLC", 0.0%,,,https://www.sec.gov/Archives/edgar/data/1941030/000108514626000766/0001085146-26-000766-index.htm,MEDIUM
+2026-09-09T01:13:35+00:00,STAKE_13G,,"First National Advisers, LLC", 0.0%,,,https://www.sec.gov/Archives/edgar/data/1941030/000108514626000765/0001085146-26-000765-index.htm,MEDIUM
+2026-09-09T01:13:56+00:00,STAKE_13D,,"Health Catalyst, Inc.","Health Catalyst, Inc. 0.0%",,,https://www.sec.gov/Archives/edgar/data/1636422/000110465926105948/0001104659-26-105948-index.htm,MEDIUM
+2026-09-09T01:14:08+00:00,STAKE_13D,,SANFORD PENNY, 0.0%,,,https://www.sec.gov/Archives/edgar/data/1588428/000110465926105945/0001104659-26-105945-index.htm,MEDIUM
+2026-09-09T01:14:10+00:00,STAKE_13G,,DITM HOLDINGS PTY LTD, 9.9%,,,https://www.sec.gov/Archives/edgar/data/2133048/000119312526385339/0001193125-26-385339-index.htm,HIGH
+2026-09-09T01:14:11+00:00,STAKE_13D,,Byrna Technologies Inc.,Byrna Technologies Inc. 0.0%,,,https://www.sec.gov/Archives/edgar/data/1354866/000121465926011482/0001214659-26-011482-index.htm,MEDIUM
+2026-09-09T01:14:16+00:00,STAKE_13D,,O'Dowd William IV, 56.0%,,,https://www.sec.gov/Archives/edgar/data/1520776/000107997326001231/0001079973-26-001231-index.htm,HIGH
