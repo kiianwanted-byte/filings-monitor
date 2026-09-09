@@ -1629,3 +1629,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-09T17:18:37+00:00,FORM_144,,Unum Group,proposed sale $378K,377747,,https://www.sec.gov/Archives/edgar/data/1103172/000195917326006822/0001959173-26-006822-index.htm,LOW
 2026-09-09T17:43:36+00:00,FORM_144,,Netflix Inc.,proposed sale $55K,54907,,https://www.sec.gov/Archives/edgar/data/1184230/000162828026061075/0001628280-26-061075-index.htm,LOW
 2026-09-09T18:20:57+00:00,FORM_144,,Hillman Solutions Corp.,proposed sale $100K,99641,,https://www.sec.gov/Archives/edgar/data/1870351/000195917326006825/0001959173-26-006825-index.htm,LOW
+2026-09-09T18:58:35+00:00,INSIDER_BUY,SEI,"Solaris Energy Infrastructure, Inc.",TEAGUE AJ $501K,500994,1,https://www.sec.gov/Archives/edgar/data/1697500/000162828026061096/0001628280-26-061096-index.htm,MEDIUM
+2026-09-09T18:58:40+00:00,INSIDER_CLUSTER,GROV,"Grove Collaborative Holdings, Inc.",Landesberg Stuart $248,248,5,https://www.sec.gov/Archives/edgar/data/1930721/000184176126000096/0001841761-26-000096-index.htm,HIGH
+2026-09-09T18:58:41+00:00,FORM_144,,NovaBridge Biosciences,proposed sale $79K,79377,,https://www.sec.gov/Archives/edgar/data/2109966/000197337926000336/0001973379-26-000336-index.htm,LOW
