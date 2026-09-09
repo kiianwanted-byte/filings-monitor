@@ -1642,3 +1642,21 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-09T19:50:54+00:00,FORM_144,,Fortrea Holdings Inc.,proposed sale $18K,17705,,https://www.sec.gov/Archives/edgar/data/1979544/000195917326006832/0001959173-26-006832-index.htm,LOW
 2026-09-09T19:50:54+00:00,FORM_144,,Fortrea Holdings Inc.,proposed sale $4K,4144,,https://www.sec.gov/Archives/edgar/data/2150280/000195917326006831/0001959173-26-006831-index.htm,LOW
 2026-09-09T19:58:50+00:00,FORM_144,,Fortrea Holdings Inc.,proposed sale $53K,53049,,https://www.sec.gov/Archives/edgar/data/1980205/000195917326006833/0001959173-26-006833-index.htm,LOW
+2026-09-09T20:15:05+00:00,FORM_144,,DORIAN LPG LTD.,proposed sale $270K,270040,,https://www.sec.gov/Archives/edgar/data/1638233/000195004726009233/0001950047-26-009233-index.htm,LOW
+2026-09-09T20:15:05+00:00,FORM_144,,"Vaxcyte, Inc.",proposed sale $80K,80026,,https://www.sec.gov/Archives/edgar/data/1813798/000196922326001012/0001969223-26-001012-index.htm,LOW
+2026-09-09T20:15:05+00:00,FORM_144,,"Eos Energy Enterprises, Inc.",proposed sale $143K,142818,,https://www.sec.gov/Archives/edgar/data/1991521/000196922326001011/0001969223-26-001011-index.htm,LOW
+2026-09-09T20:15:06+00:00,FORM_144,,Flowco Holdings Inc.,proposed sale $211K,210842,,https://www.sec.gov/Archives/edgar/data/2049797/000204979726000003/0002049797-26-000003-index.htm,LOW
+2026-09-09T20:15:06+00:00,FORM_144,,VIVMARK RESIDENTIAL,proposed sale $74K,73766,,https://www.sec.gov/Archives/edgar/data/1821096/000195917326006835/0001959173-26-006835-index.htm,LOW
+2026-09-09T20:15:06+00:00,FORM_144,,"Meta Platforms, Inc.",proposed sale $13.01M,13005575,,https://www.sec.gov/Archives/edgar/data/1607459/000192109426001004/0001921094-26-001004-index.htm,LOW
+2026-09-09T20:15:07+00:00,FORM_144,,BBB FOODS INC,proposed sale $387K,386900,,https://www.sec.gov/Archives/edgar/data/2120515/000162828026061129/0001628280-26-061129-index.htm,LOW
+2026-09-09T20:15:07+00:00,FORM_144,,"GOLD.COM, INC.",proposed sale $1.23M,1234090,,https://www.sec.gov/Archives/edgar/data/1591588/000195004726009232/0001950047-26-009232-index.htm,LOW
+2026-09-09T20:15:08+00:00,FORM_144,,"Mineralys Therapeutics, Inc.",proposed sale $67K,67018,,https://www.sec.gov/Archives/edgar/data/1933414/000196430626000434/0001964306-26-000434-index.htm,LOW
+2026-09-09T20:15:08+00:00,FORM_144,,"FIVE BELOW, INC.",proposed sale $401K,400791,,https://www.sec.gov/Archives/edgar/data/2031818/000195004726009231/0001950047-26-009231-index.htm,LOW
+2026-09-09T20:15:08+00:00,FORM_144,,"PINTEREST, INC.",proposed sale $939K,939486,,https://www.sec.gov/Archives/edgar/data/1773914/000192109426001003/0001921094-26-001003-index.htm,LOW
+2026-09-09T20:15:09+00:00,FORM_144,,"Sera Prognostics, Inc.",proposed sale $27K,27195,,https://www.sec.gov/Archives/edgar/data/1979974/000197997426000012/0001979974-26-000012-index.htm,LOW
+2026-09-09T20:15:09+00:00,FORM_144,,"Sera Prognostics, Inc.",proposed sale $40K,40290,,https://www.sec.gov/Archives/edgar/data/1891299/000189129926000011/0001891299-26-000011-index.htm,LOW
+2026-09-09T20:15:09+00:00,FORM_144,,"NWPX Infrastructure, Inc.",proposed sale $416K,415727,,https://www.sec.gov/Archives/edgar/data/1233202/000194984626000575/0001949846-26-000575-index.htm,LOW
+2026-09-09T20:15:10+00:00,FORM_144,,Snap Inc,proposed sale $107K,106985,,https://www.sec.gov/Archives/edgar/data/1727396/000192109426001002/0001921094-26-001002-index.htm,LOW
+2026-09-09T20:15:10+00:00,FORM_144,,"STANDARD MOTOR PRODUCTS, INC.",proposed sale $206K,206011,,https://www.sec.gov/Archives/edgar/data/1351057/000195917326006834/0001959173-26-006834-index.htm,LOW
+2026-09-09T20:15:10+00:00,FORM_144,,VISA INC.,proposed sale $688K,687690,,https://www.sec.gov/Archives/edgar/data/1887192/000196430626000433/0001964306-26-000433-index.htm,LOW
+2026-09-09T20:15:11+00:00,FORM_144,,COHERENT CORP.,proposed sale $155K,154660,,https://www.sec.gov/Archives/edgar/data/1902257/000195004726009229/0001950047-26-009229-index.htm,LOW
