@@ -23,6 +23,11 @@ jobs:
           SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
         run: python monitor.py feeds
         continue-on-error: true
+      - name: Stake filing source probe
+        env:
+          SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+        run: python monitor.py stakes
+        continue-on-error: true
       - name: Fear and Greed
         env:
           SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
