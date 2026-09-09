@@ -1634,3 +1634,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-09T18:58:41+00:00,FORM_144,,NovaBridge Biosciences,proposed sale $79K,79377,,https://www.sec.gov/Archives/edgar/data/2109966/000197337926000336/0001973379-26-000336-index.htm,LOW
 2026-09-09T19:10:34+00:00,FORM_144,,PARK OHIO HOLDINGS CORP,proposed sale $230K,230000,,https://www.sec.gov/Archives/edgar/data/1206686/000132108626000008/0001321086-26-000008-index.htm,LOW
 2026-09-09T19:10:34+00:00,FORM_144,,"TAPESTRY, INC.",proposed sale $1.21M,1214887,,https://www.sec.gov/Archives/edgar/data/1808278/000195917326006826/0001959173-26-006826-index.htm,LOW
+2026-09-09T19:23:15+00:00,FORM_144,,SITIME Corp,proposed sale $7.24M,7242000,,https://www.sec.gov/Archives/edgar/data/1451809/000197325126000035/0001973251-26-000035-index.htm,LOW
+2026-09-09T19:23:16+00:00,FORM_144,,PROCEPT BioRobotics Corp,proposed sale $6K,6223,,https://www.sec.gov/Archives/edgar/data/1599418/000195917326006829/0001959173-26-006829-index.htm,LOW
+2026-09-09T19:23:16+00:00,FORM_144,,PROCEPT BioRobotics Corp,proposed sale $8K,7815,,https://www.sec.gov/Archives/edgar/data/2132820/000195917326006828/0001959173-26-006828-index.htm,LOW
+2026-09-09T19:23:16+00:00,FORM_144,,PROCEPT BioRobotics Corp,proposed sale $8K,7815,,https://www.sec.gov/Archives/edgar/data/1653771/000195917326006827/0001959173-26-006827-index.htm,LOW
