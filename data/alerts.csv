@@ -1616,3 +1616,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-09T14:45:03+00:00,FORM_144,,"NIKE, Inc.",proposed sale $138K,137992,,https://www.sec.gov/Archives/edgar/data/2101296/000195917326006810/0001959173-26-006810-index.htm,LOW
 2026-09-09T14:56:32+00:00,INSIDER_CLUSTER,NONE,"Fundrise Real Estate Interval Fund, LLC",Booth Richard Whitaker $500,499,1,https://www.sec.gov/Archives/edgar/data/1845014/000143510926000143/0001435109-26-000143-index.htm,HIGH
 2026-09-09T14:56:35+00:00,FORM_144,,"WisdomTree, Inc.",proposed sale $737K,736800,,https://www.sec.gov/Archives/edgar/data/1197950/000195917326006813/0001959173-26-006813-index.htm,LOW
+2026-09-09T15:07:52+00:00,FORM_144,,"Vir Biotechnology, Inc.",proposed sale $315K,315241,,https://www.sec.gov/Archives/edgar/data/1871145/000195917326006814/0001959173-26-006814-index.htm,LOW
