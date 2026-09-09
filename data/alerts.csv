@@ -1535,3 +1535,32 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-09T01:14:10+00:00,STAKE_13G,,DITM HOLDINGS PTY LTD, 9.9%,,,https://www.sec.gov/Archives/edgar/data/2133048/000119312526385339/0001193125-26-385339-index.htm,HIGH
 2026-09-09T01:14:11+00:00,STAKE_13D,,Byrna Technologies Inc.,Byrna Technologies Inc. 0.0%,,,https://www.sec.gov/Archives/edgar/data/1354866/000121465926011482/0001214659-26-011482-index.htm,MEDIUM
 2026-09-09T01:14:16+00:00,STAKE_13D,,O'Dowd William IV, 56.0%,,,https://www.sec.gov/Archives/edgar/data/1520776/000107997326001231/0001079973-26-001231-index.htm,HIGH
+2026-09-09T01:28:21+00:00,STAKE_13G,,BlackRock Portfolio Management LLC, 38.6%,,,https://www.sec.gov/Archives/edgar/data/2052113/000149315226041788/0001493152-26-041788-index.htm,HIGH
+2026-09-09T01:28:22+00:00,STAKE_13G,,BlackRock Portfolio Management LLC, 0.0%,,,https://www.sec.gov/Archives/edgar/data/2052113/000149315226041787/0001493152-26-041787-index.htm,MEDIUM
+2026-09-09T01:28:24+00:00,STAKE_13G,,BlackRock Portfolio Management LLC, 0.0%,,,https://www.sec.gov/Archives/edgar/data/2052113/000149315226041785/0001493152-26-041785-index.htm,MEDIUM
+2026-09-09T01:28:25+00:00,STAKE_13G,,BlackRock Portfolio Management LLC, 0.0%,,,https://www.sec.gov/Archives/edgar/data/2052113/000149315226041783/0001493152-26-041783-index.htm,MEDIUM
+2026-09-09T01:28:27+00:00,STAKE_13G,,BlackRock Portfolio Management LLC, 36.4%,,,https://www.sec.gov/Archives/edgar/data/2052113/000149315226041782/0001493152-26-041782-index.htm,HIGH
+2026-09-09T01:28:28+00:00,STAKE_13D,,"Tether Global Investments Fund, S.I.C.A.F., S.A.", 12.6%,,,https://www.sec.gov/Archives/edgar/data/2025889/000110465926105914/0001104659-26-105914-index.htm,MEDIUM
+2026-09-09T01:28:30+00:00,STAKE_13G,,Blue Moon Metals Inc.,Blue Moon Metals Inc. 6.0%,,,https://www.sec.gov/Archives/edgar/data/1732379/000119312526385226/0001193125-26-385226-index.htm,MEDIUM
+2026-09-09T01:28:31+00:00,STAKE_13G,,i-80 Gold Corp.,i-80 Gold Corp. 7.4%,,,https://www.sec.gov/Archives/edgar/data/1853962/000119312526385224/0001193125-26-385224-index.htm,MEDIUM
+2026-09-09T01:28:32+00:00,STAKE_13D,,ATG Capital Opportunities Fund LP, 16.0%,,,https://www.sec.gov/Archives/edgar/data/2079674/000092189526002501/0000921895-26-002501-index.htm,MEDIUM
+2026-09-09T01:28:33+00:00,STAKE_13G,,"MetLife Investment Management, LLC", 0.0%,,,https://www.sec.gov/Archives/edgar/data/1529735/000090514826004110/0000905148-26-004110-index.htm,MEDIUM
+2026-09-09T01:28:35+00:00,STAKE_13G,,"MetLife Investment Management, LLC", 38.6%,,,https://www.sec.gov/Archives/edgar/data/1529735/000090514826004109/0000905148-26-004109-index.htm,HIGH
+2026-09-09T01:28:36+00:00,STAKE_13G,,"MetLife Investment Management, LLC", 0.0%,,,https://www.sec.gov/Archives/edgar/data/1529735/000090514826004108/0000905148-26-004108-index.htm,MEDIUM
+2026-09-09T01:28:37+00:00,STAKE_13G,,Calamos Dynamic Convertible & Income Fund,Calamos Dynamic Convertible & Income Fund 78.6%,,,https://www.sec.gov/Archives/edgar/data/1602584/000090514826004107/0000905148-26-004107-index.htm,HIGH
+2026-09-09T01:28:39+00:00,STAKE_13G,,"MetLife Investment Management, LLC", 0.0%,,,https://www.sec.gov/Archives/edgar/data/1529735/000090514826004106/0000905148-26-004106-index.htm,MEDIUM
+2026-09-09T01:28:40+00:00,STAKE_13G,,Corley Thomas John, 0.0%,,,https://www.sec.gov/Archives/edgar/data/2042926/000204292626000012/0002042926-26-000012-index.htm,MEDIUM
+2026-09-09T01:28:41+00:00,STAKE_13G,,"MetLife Investment Management, LLC", 0.0%,,,https://www.sec.gov/Archives/edgar/data/1529735/000090514826004105/0000905148-26-004105-index.htm,MEDIUM
+2026-09-09T01:28:42+00:00,STAKE_13G,,"MetLife Investment Management, LLC", 0.0%,,,https://www.sec.gov/Archives/edgar/data/1529735/000090514826004104/0000905148-26-004104-index.htm,MEDIUM
+2026-09-09T01:28:44+00:00,STAKE_13G,,Calamos Dynamic Convertible & Income Fund,Calamos Dynamic Convertible & Income Fund 0.0%,,,https://www.sec.gov/Archives/edgar/data/1602584/000090514826004103/0000905148-26-004103-index.htm,MEDIUM
+2026-09-09T01:28:45+00:00,STAKE_13G,,Alger ETF Trust,Alger ETF Trust 7.4%,,,https://www.sec.gov/Archives/edgar/data/1807486/000119312526385195/0001193125-26-385195-index.htm,MEDIUM
+2026-09-09T01:28:46+00:00,STAKE_13G,,Corley Thomas John, 0.0%,,,https://www.sec.gov/Archives/edgar/data/2042926/000204292626000011/0002042926-26-000011-index.htm,MEDIUM
+2026-09-09T01:28:48+00:00,STAKE_13D,,Al Shams Investments LTD, 0.0%,,,https://www.sec.gov/Archives/edgar/data/1765296/000139834426016775/0001398344-26-016775-index.htm,MEDIUM
+2026-09-09T01:28:49+00:00,STAKE_13G,,"Old QVC Group, Inc.","Old QVC Group, Inc. 8.0%",,,https://www.sec.gov/Archives/edgar/data/1355096/000088698226000524/0000886982-26-000524-index.htm,MEDIUM
+2026-09-09T01:28:49+00:00,STAKE_13D,,Clarion Partners Real Estate Income Fund Inc.,Clarion Partners Real Estate Income Fund Inc. 25.0%,,,https://www.sec.gov/Archives/edgar/data/1762562/000003877726000253/0000038777-26-000253-index.htm,MEDIUM
+2026-09-09T01:28:50+00:00,STAKE_13G,,"National CineMedia, Inc.","National CineMedia, Inc. 0.0%",,,https://www.sec.gov/Archives/edgar/data/1377630/000108514626000761/0001085146-26-000761-index.htm,MEDIUM
+2026-09-09T01:28:54+00:00,FORM_144,,"Rackspace Technology, Inc.",proposed sale $108K,108392,,https://www.sec.gov/Archives/edgar/data/1977413/000181001926000107/0001810019-26-000107-index.htm,LOW
+2026-09-09T01:28:54+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $265K,264690,,https://www.sec.gov/Archives/edgar/data/1735863/000119312526385650/0001193125-26-385650-index.htm,LOW
+2026-09-09T01:28:54+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $587K,586512,,https://www.sec.gov/Archives/edgar/data/1672565/000119312526385647/0001193125-26-385647-index.htm,LOW
+2026-09-09T01:28:55+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $26.18M,26180268,,https://www.sec.gov/Archives/edgar/data/1767114/000119312526385645/0001193125-26-385645-index.htm,LOW
+2026-09-09T01:28:55+00:00,STAKE_13D,,Chan Heng Fai Ambrose, 0.0%,,,https://www.sec.gov/Archives/edgar/data/1261725/000149315226041836/0001493152-26-041836-index.htm,MEDIUM
