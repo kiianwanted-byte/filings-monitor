@@ -1641,3 +1641,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-09T19:33:26+00:00,FORM_144,,Oklo Inc.,proposed sale $16K,15809,,https://www.sec.gov/Archives/edgar/data/2146790/000195917326006830/0001959173-26-006830-index.htm,LOW
 2026-09-09T19:50:54+00:00,FORM_144,,Fortrea Holdings Inc.,proposed sale $18K,17705,,https://www.sec.gov/Archives/edgar/data/1979544/000195917326006832/0001959173-26-006832-index.htm,LOW
 2026-09-09T19:50:54+00:00,FORM_144,,Fortrea Holdings Inc.,proposed sale $4K,4144,,https://www.sec.gov/Archives/edgar/data/2150280/000195917326006831/0001959173-26-006831-index.htm,LOW
+2026-09-09T19:58:50+00:00,FORM_144,,Fortrea Holdings Inc.,proposed sale $53K,53049,,https://www.sec.gov/Archives/edgar/data/1980205/000195917326006833/0001959173-26-006833-index.htm,LOW
