@@ -1564,3 +1564,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-09T01:28:54+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $587K,586512,,https://www.sec.gov/Archives/edgar/data/1672565/000119312526385647/0001193125-26-385647-index.htm,LOW
 2026-09-09T01:28:55+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $26.18M,26180268,,https://www.sec.gov/Archives/edgar/data/1767114/000119312526385645/0001193125-26-385645-index.htm,LOW
 2026-09-09T01:28:55+00:00,STAKE_13D,,Chan Heng Fai Ambrose, 0.0%,,,https://www.sec.gov/Archives/edgar/data/1261725/000149315226041836/0001493152-26-041836-index.htm,MEDIUM
+2026-09-09T01:41:20+00:00,STAKE_13D,,Gratitude 2022 Trust U/A/D 8/26/22, 0.0%,,,https://www.sec.gov/Archives/edgar/data/2153943/000110465926106028/0001104659-26-106028-index.htm,HIGH
