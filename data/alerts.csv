@@ -1605,3 +1605,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-09T13:21:20+00:00,INSIDER_CLUSTER,NONE,"Fundrise Income Real Estate Fund, LLC",Hall Bjorn $1K,1000,1,https://www.sec.gov/Archives/edgar/data/1885551/000143510926000142/0001435109-26-000142-index.htm,HIGH
 2026-09-09T13:49:48+00:00,FORM_144,,"APPLIED OPTOELECTRONICS, INC.",proposed sale $3.55M,3545727,,https://www.sec.gov/Archives/edgar/data/1587462/000197407826000347/0001974078-26-000347-index.htm,LOW
 2026-09-09T13:59:05+00:00,FORM_144,,LAM RESEARCH CORP,proposed sale $9.58M,9577800,,https://www.sec.gov/Archives/edgar/data/1343600/000195917326006806/0001959173-26-006806-index.htm,LOW
+2026-09-09T14:29:15+00:00,FORM_144,,BRISTOL MYERS SQUIBB CO,proposed sale $403K,403497,,https://www.sec.gov/Archives/edgar/data/2080176/000195917326006809/0001959173-26-006809-index.htm,LOW
+2026-09-09T14:29:16+00:00,FORM_144,,"NIKE, Inc.",proposed sale $96K,96192,,https://www.sec.gov/Archives/edgar/data/2074830/000195917326006808/0001959173-26-006808-index.htm,LOW
+2026-09-09T14:29:16+00:00,FORM_144,,Snowflake Inc.,proposed sale $917K,916515,,https://www.sec.gov/Archives/edgar/data/1979088/000195917326006807/0001959173-26-006807-index.htm,LOW
