@@ -1680,3 +1680,11 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-09T20:29:36+00:00,FORM_144,,PHARVARIS N.V.,proposed sale $300K,300396,,https://www.sec.gov/Archives/edgar/data/1897890/000195004726009236/0001950047-26-009236-index.htm,LOW
 2026-09-09T20:29:37+00:00,FORM_144,,"BLOCK, INC.",proposed sale $476K,475620,,https://www.sec.gov/Archives/edgar/data/1933928/000195004726009235/0001950047-26-009235-index.htm,LOW
 2026-09-09T20:29:37+00:00,FORM_144,,LUMENTUM HOLDINGS INC.,proposed sale $489K,489270,,https://www.sec.gov/Archives/edgar/data/1633978/000195004726009234/0001950047-26-009234-index.htm,LOW
+2026-09-09T20:42:04+00:00,FORM_144,,"ACM RESEARCH, INC.",proposed sale $5.22M,5221482,,https://www.sec.gov/Archives/edgar/data/1721580/000195004726009251/0001950047-26-009251-index.htm,LOW
+2026-09-09T20:42:04+00:00,FORM_144,,"Life Time Group Holdings, Inc.",proposed sale $787K,787357,,https://www.sec.gov/Archives/edgar/data/1884996/000195917326006840/0001959173-26-006840-index.htm,LOW
+2026-09-09T20:42:04+00:00,FORM_144,,OOMA INC,proposed sale $920K,920000,,https://www.sec.gov/Archives/edgar/data/1327688/000194984626000576/0001949846-26-000576-index.htm,LOW
+2026-09-09T20:42:05+00:00,FORM_144,,Sea Limited,proposed sale $34.00M,33999000,,https://www.sec.gov/Archives/edgar/data/1965706/000196858226000939/0001968582-26-000939-index.htm,LOW
+2026-09-09T20:42:05+00:00,FORM_144,,"PTC THERAPEUTICS, INC.",proposed sale $2.74M,2740000,,https://www.sec.gov/Archives/edgar/data/1288952/000162828026061154/0001628280-26-061154-index.htm,LOW
+2026-09-09T20:42:05+00:00,FORM_144,,"Ocugen, Inc.",proposed sale $590K,589741,,https://www.sec.gov/Archives/edgar/data/1791820/000162828026061150/0001628280-26-061150-index.htm,LOW
+2026-09-09T20:42:06+00:00,FORM_144,,"HORNBECK OFFSHORE SERVICES, INC.",proposed sale $976K,976149,,https://www.sec.gov/Archives/edgar/data/1648839/000195917326006839/0001959173-26-006839-index.htm,LOW
+2026-09-09T20:42:06+00:00,FORM_144,,"10X GENOMICS, INC.",proposed sale $3.00M,2995470,,https://www.sec.gov/Archives/edgar/data/1971187/000195004726009250/0001950047-26-009250-index.htm,LOW
