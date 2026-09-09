@@ -1660,3 +1660,23 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-09T20:15:10+00:00,FORM_144,,"STANDARD MOTOR PRODUCTS, INC.",proposed sale $206K,206011,,https://www.sec.gov/Archives/edgar/data/1351057/000195917326006834/0001959173-26-006834-index.htm,LOW
 2026-09-09T20:15:10+00:00,FORM_144,,VISA INC.,proposed sale $688K,687690,,https://www.sec.gov/Archives/edgar/data/1887192/000196430626000433/0001964306-26-000433-index.htm,LOW
 2026-09-09T20:15:11+00:00,FORM_144,,COHERENT CORP.,proposed sale $155K,154660,,https://www.sec.gov/Archives/edgar/data/1902257/000195004726009229/0001950047-26-009229-index.htm,LOW
+2026-09-09T20:29:31+00:00,FORM_144,,"Chime Financial, Inc.",proposed sale $1.37M,1370622,,https://www.sec.gov/Archives/edgar/data/2061219/000195004726009249/0001950047-26-009249-index.htm,LOW
+2026-09-09T20:29:31+00:00,FORM_144,,"HERITAGE INSURANCE HOLDINGS, INC.",proposed sale $222K,221995,,https://www.sec.gov/Archives/edgar/data/1639407/000195004726009248/0001950047-26-009248-index.htm,LOW
+2026-09-09T20:29:31+00:00,FORM_144,,"Rigetti Computing, Inc.",proposed sale $1.90M,1897200,,https://www.sec.gov/Archives/edgar/data/1838359/000196794026000049/0001967940-26-000049-index.htm,LOW
+2026-09-09T20:29:32+00:00,FORM_144,,PHINIA INC.,proposed sale $901K,900536,,https://www.sec.gov/Archives/edgar/data/1981241/000195917326006838/0001959173-26-006838-index.htm,LOW
+2026-09-09T20:29:32+00:00,FORM_144,,"BETA BIONICS, INC.",proposed sale $779K,779095,,https://www.sec.gov/Archives/edgar/data/2048497/000195004726009247/0001950047-26-009247-index.htm,LOW
+2026-09-09T20:29:32+00:00,FORM_144,,"Omada Health, Inc.",proposed sale $14K,14283,,https://www.sec.gov/Archives/edgar/data/2021724/000195004726009246/0001950047-26-009246-index.htm,LOW
+2026-09-09T20:29:33+00:00,FORM_144,,"Korro Bio, Inc.",proposed sale $82,81,,https://www.sec.gov/Archives/edgar/data/2053835/000195917326006837/0001959173-26-006837-index.htm,LOW
+2026-09-09T20:29:33+00:00,FORM_144,,"Remitly Global, Inc.",proposed sale $137K,136565,,https://www.sec.gov/Archives/edgar/data/1880864/000195004726009245/0001950047-26-009245-index.htm,LOW
+2026-09-09T20:29:33+00:00,FORM_144,,"BILL HOLDINGS, INC.",proposed sale $947K,946906,,https://www.sec.gov/Archives/edgar/data/1786352/000195004726009244/0001950047-26-009244-index.htm,LOW
+2026-09-09T20:29:34+00:00,FORM_144,,"Aquestive Therapeutics, Inc.",proposed sale $46K,45587,,https://www.sec.gov/Archives/edgar/data/2026090/000195004726009243/0001950047-26-009243-index.htm,LOW
+2026-09-09T20:29:34+00:00,FORM_144,,PLUG POWER INC.,proposed sale $102K,101602,,https://www.sec.gov/Archives/edgar/data/1341689/000195004726009242/0001950047-26-009242-index.htm,LOW
+2026-09-09T20:29:34+00:00,FORM_144,,"RingCentral, Inc.",proposed sale $293K,292832,,https://www.sec.gov/Archives/edgar/data/2057569/000195004726009241/0001950047-26-009241-index.htm,LOW
+2026-09-09T20:29:35+00:00,FORM_144,,"NEUROCRINE BIOSCIENCES, INC.",proposed sale $334K,334150,,https://www.sec.gov/Archives/edgar/data/1643653/000195004726009240/0001950047-26-009240-index.htm,LOW
+2026-09-09T20:29:35+00:00,FORM_144,,"VENTURE GLOBAL, INC.",proposed sale $27.78M,27777892,,https://www.sec.gov/Archives/edgar/data/2050857/000195004726009239/0001950047-26-009239-index.htm,LOW
+2026-09-09T20:29:35+00:00,FORM_144,,"Chime Financial, Inc.",proposed sale $1.37M,1370590,,https://www.sec.gov/Archives/edgar/data/2061268/000195004726009238/0001950047-26-009238-index.htm,LOW
+2026-09-09T20:29:36+00:00,FORM_144,,"Live Oak Bancshares, Inc.",proposed sale $386K,386312,,https://www.sec.gov/Archives/edgar/data/1462120/000195917326006836/0001959173-26-006836-index.htm,LOW
+2026-09-09T20:29:36+00:00,FORM_144,,"ARVINAS, INC.",proposed sale $329K,328914,,https://www.sec.gov/Archives/edgar/data/1655759/000195004726009237/0001950047-26-009237-index.htm,LOW
+2026-09-09T20:29:36+00:00,FORM_144,,PHARVARIS N.V.,proposed sale $300K,300396,,https://www.sec.gov/Archives/edgar/data/1897890/000195004726009236/0001950047-26-009236-index.htm,LOW
+2026-09-09T20:29:37+00:00,FORM_144,,"BLOCK, INC.",proposed sale $476K,475620,,https://www.sec.gov/Archives/edgar/data/1933928/000195004726009235/0001950047-26-009235-index.htm,LOW
+2026-09-09T20:29:37+00:00,FORM_144,,LUMENTUM HOLDINGS INC.,proposed sale $489K,489270,,https://www.sec.gov/Archives/edgar/data/1633978/000195004726009234/0001950047-26-009234-index.htm,LOW
