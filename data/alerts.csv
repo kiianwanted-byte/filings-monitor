@@ -1603,3 +1603,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-09T12:53:22+00:00,INSIDER_CLUSTER,BWFG,"Bankwell Financial Group, Inc.",Drexler Blake S $8K,7784,1,https://www.sec.gov/Archives/edgar/data/1607538/000150573226000114/0001505732-26-000114-index.htm,HIGH
 2026-09-09T12:53:23+00:00,INSIDER_CLUSTER,BWFG,"Bankwell Financial Group, Inc.",Porto Carl M $22K,21944,1,https://www.sec.gov/Archives/edgar/data/1650466/000150573226000113/0001505732-26-000113-index.htm,HIGH
 2026-09-09T13:21:20+00:00,INSIDER_CLUSTER,NONE,"Fundrise Income Real Estate Fund, LLC",Hall Bjorn $1K,1000,1,https://www.sec.gov/Archives/edgar/data/1885551/000143510926000142/0001435109-26-000142-index.htm,HIGH
+2026-09-09T13:49:48+00:00,FORM_144,,"APPLIED OPTOELECTRONICS, INC.",proposed sale $3.55M,3545727,,https://www.sec.gov/Archives/edgar/data/1587462/000197407826000347/0001974078-26-000347-index.htm,LOW
