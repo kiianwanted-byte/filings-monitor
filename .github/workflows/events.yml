@@ -1,0 +1,46 @@
+name: Weekly US Events
+
+on:
+  schedule:
+    # 23:00 UTC Sunday = 07:00 Monday Singapore, same slot as the earnings
+    # digest. The shared concurrency group keeps them from colliding.
+    - cron: "0 23 * * 0"
+  workflow_dispatch:
+
+concurrency:
+  group: filings-state
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  events:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - name: Send US events digest
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+        run: python events.py
+      - name: Commit state
+        continue-on-error: true
+        run: |
+          git config user.name "filings-monitor"
+          git config user.email "actions@github.com"
+          git add state || true
+          if git diff --staged --quiet; then exit 0; fi
+          git commit -m "events digest $(date -u '+%Y-%m-%d')" || exit 0
+          for i in 1 2 3; do
+            git pull --rebase --autostash origin ${{ github.ref_name }} \
+              && git push origin HEAD:${{ github.ref_name }} && exit 0
+            sleep 5
+          done
+          exit 0

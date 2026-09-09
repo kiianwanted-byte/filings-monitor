@@ -43,6 +43,11 @@ jobs:
           SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
         run: python trump.py test
         continue-on-error: true
+      - name: US events connectivity
+        env:
+          SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+        run: python events.py test
+        continue-on-error: true
       - name: Earnings connectivity
         env:
           SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
