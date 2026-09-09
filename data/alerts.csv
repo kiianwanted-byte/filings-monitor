@@ -1595,3 +1595,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-09T10:24:34+00:00,INSIDER_CLUSTER,TSM,TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD,Yuan Lipen $3K,3124,2,https://www.sec.gov/Archives/edgar/data/2114024/000104617926000652/0001046179-26-000652-index.htm,HIGH
 2026-09-09T10:24:35+00:00,INSIDER_CLUSTER,TSM,TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD,Mii Yuh-Jier $5K,5410,2,https://www.sec.gov/Archives/edgar/data/2113729/000104617926000648/0001046179-26-000648-index.htm,HIGH
 2026-09-09T10:24:36+00:00,INSIDER_CLUSTER,TSM,TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD,Wu Shien-Yang $4K,4343,2,https://www.sec.gov/Archives/edgar/data/2113784/000104617926000646/0001046179-26-000646-index.htm,HIGH
+2026-09-09T11:40:09+00:00,FORM_144,,ZIM Integrated Shipping Services Ltd.,proposed sale $105K,105460,,https://www.sec.gov/Archives/edgar/data/1966890/000197640826000812/0001976408-26-000812-index.htm,LOW
+2026-09-09T11:40:10+00:00,FORM_144,,UroGen Pharma Ltd.,proposed sale $38K,38402,,https://www.sec.gov/Archives/edgar/data/1763581/000197640826000811/0001976408-26-000811-index.htm,LOW
+2026-09-09T11:40:10+00:00,FORM_144,,UroGen Pharma Ltd.,proposed sale $67K,66972,,https://www.sec.gov/Archives/edgar/data/1821479/000197640826000810/0001976408-26-000810-index.htm,LOW
+2026-09-09T11:40:10+00:00,FORM_144,,ZIM Integrated Shipping Services Ltd.,proposed sale $66K,66076,,https://www.sec.gov/Archives/edgar/data/1966863/000197640826000809/0001976408-26-000809-index.htm,LOW
