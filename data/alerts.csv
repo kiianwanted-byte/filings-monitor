@@ -1707,3 +1707,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-09T21:25:47+00:00,FORM_144,,Safehold Inc.,proposed sale $138K,138320,,https://www.sec.gov/Archives/edgar/data/1222801/000162828026061172/0001628280-26-061172-index.htm,LOW
 2026-09-09T21:25:48+00:00,FORM_144,,"Inhibrx Biosciences, Inc.",proposed sale $58K,57897,,https://www.sec.gov/Archives/edgar/data/2007919/000195917326006844/0001959173-26-006844-index.htm,LOW
 2026-09-09T21:46:17+00:00,INSIDER_BUY,GWAV,"Greenwave Technology Solutions, Inc.",Meeks Danny $8.00M,8000001,13,https://www.sec.gov/Archives/edgar/data/1862673/000149315226042006/0001493152-26-042006-index.htm,MEDIUM
+2026-09-09T21:54:15+00:00,INSIDER_CLUSTER,CYBN,CYBIN INC.,So Eric H. L. $1.12M,1121475,8,https://www.sec.gov/Archives/edgar/data/2116526/000091228226001254/0000912282-26-001254-index.htm,HIGH
