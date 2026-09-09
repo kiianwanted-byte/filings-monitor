@@ -43,6 +43,11 @@ PRIORITY_RANK = {"HIGH": 3, "MEDIUM": 2, "LOW": 1}
 # Alert thresholds for insider buys
 MIN_TRADE_VALUE = 250_000        # was 100k, raised to cut noise
 MIN_HOLDING_CHANGE_PCT = 20      # was 10
+
+# A purchase this large alerts regardless of holding change. Without this,
+# a very large holder adding a big dollar amount fails the 20% test purely
+# because their existing position is enormous.
+BIG_TRADE_OVERRIDE = 10_000_000
 MIN_MARKET_CAP = 300_000_000
 
 # Form 144 sell notices are very common and mostly routine.
@@ -105,10 +110,65 @@ EIGHTK_LOW = {"1.01", "1.02", "5.02"}
 
 # Trades only. 8-K, NT and 13D were the bulk of the noise and none of them
 # are a buy or a sell. Add them back to this list to re-enable.
-# Set to True to resume 5% stake alerts (13D / 13G). Off by default: in
-# practice the feed is dominated by amendments to existing institutional
-# positions, which carry almost no information.
-STAKES_ENABLED = False
+# 5% stake alerts (13D / 13G) are back on, but restricted to the watchlist
+# below. The raw feed is dominated by amendments to existing institutional
+# positions; filtering to notable filers removes almost all of that noise
+# while keeping the filings people actually care about.
+STAKES_ENABLED = True
+STAKES_NOTABLE_ONLY = True
+
+# Names that always alert, at HIGH, regardless of size or holding change.
+#
+# Matched as lowercase substrings against the filer or insider name, so
+# "buffett" catches "Buffett Warren E" and "berkshire" catches every Berkshire
+# entity. Add or remove freely; this is the main dial for who you hear about.
+NOTABLE_FILERS = [
+    # Berkshire
+    "berkshire hathaway", "buffett",
+    # Activist and famous funds
+    "pershing square", "ackman", "icahn", "elliott investment",
+    "elliott management", "third point", "daniel loeb", "starboard value",
+    "trian fund", "trian partners", "nelson peltz", "valueact",
+    "jana partners", "engine capital", "engaged capital", "sachem head",
+    "corvex", "glenview capital", "marcato", "legion partners",
+    # Well-known managers
+    "greenlight capital", "einhorn", "appaloosa", "tepper", "baupost",
+    "klarman", "scion asset", "burry", "duquesne", "druckenmiller",
+    "soros fund", "tiger global", "coatue", "lone pine", "viking global",
+    "pointstate", "altimeter", "hhlr", "himalaya capital", "li lu",
+    "greenhaven road", "abrams capital",
+    # Founders and executives whose own trades are watched
+    "musk elon", "elon musk", "bezos jeffrey", "jeff bezos",
+    "zuckerberg mark", "huang jen", "jensen huang", "dell michael",
+    "ellison lawrence", "larry ellison", "cook timothy", "tim cook",
+    "page larry", "brin sergey", "schmidt eric", "nadella satya",
+    "pichai sundar", "benioff marc", "chesky brian", "karp alexander",
+    "woodman nicholas", "gates bill", "bill & melinda gates",
+    "walton", "koch", "thiel peter", "peter thiel",
+]
+
+
+def is_notable(name):
+    """True if this filer or insider is on the watchlist."""
+    n = (name or "").lower()
+    return any(x in n for x in NOTABLE_FILERS)
+
+
+def notable_in_text(text):
+    """
+    Scan a whole filing page for a watchlist name.
+
+    The 'Filed by' parser fails on plenty of layouts, leaving the filer as
+    'see filing'. Searching the raw page catches those cases rather than
+    silently dropping a filing we care about.
+    """
+    if not text:
+        return ""
+    low = text.lower()
+    for x in NOTABLE_FILERS:
+        if x in low:
+            return x
+    return ""
 
 FORMS = ["4", "144"] + (["SC 13D", "SC 13G"] if STAKES_ENABLED else [])
 
@@ -777,8 +837,11 @@ def handle_form4(item):
     ])
 
     cluster = cluster_check(ticker, trade_date)
+    notable = is_notable(insider)
+    big = value >= BIG_TRADE_OVERRIDE
     passes = value >= MIN_TRADE_VALUE and pct >= MIN_HOLDING_CHANGE_PCT
-    if not passes and not cluster["fires"]:
+
+    if not (passes or cluster["fires"] or notable or big):
         return False
 
     if FINNHUB_KEY and ticker:
@@ -787,18 +850,24 @@ def handle_form4(item):
             return False
 
     priority = "HIGH" if cluster["fires"] else ("MEDIUM" if passes else "LOW")
+    if big:
+        priority = "HIGH"
     if REQUIRE_TICKER and not ticker:
         priority = "LOW"
     if planned:
         priority = "LOW"          # scheduled, not a conviction signal
+    if notable:
+        priority = "HIGH"         # watchlist always wins
 
     title = (f"\U0001F7E2 INSIDER CLUSTER - {cluster['insiders']} BUYERS"
              if cluster["fires"] else "\U0001F7E2 INSIDER BUY")
+    if notable:
+        title = "\U0001F7E2 WATCHLIST BUY"
     if amended:
         title = "AMENDED  " + title
 
     rows = [
-        ("PRIORITY", priority),
+        ("PRIORITY", priority + ("  \u2605 WATCHLIST" if notable else "")),
         ("TICKER", ticker or "n/a"),
         ("COMPANY", company),
         ("PERSON", insider),
@@ -973,7 +1042,14 @@ def handle_stake(item):
     html = filing_html(item["link"]) or ""
     who = filer_name(html, "")
 
-    if is_institutional(who):
+    # The "Filed by" parser fails on many layouts, so also scan the whole
+    # page. A watchlist hit overrides everything below.
+    hit = notable_in_text(html)
+    notable = bool(hit) or is_notable(who)
+
+    if STAKES_NOTABLE_ONLY and not notable:
+        return False          # everything else is CSV only
+    if is_institutional(who) and not notable:
         return False          # routine index and custodian filings
 
     # Open the actual document for the stake size.
@@ -1002,11 +1078,13 @@ def handle_stake(item):
     priority = "HIGH" if (activist or stake >= 8) else "MEDIUM"
     if amended:
         priority = "MEDIUM"      # updates to an existing stake are routine
+    if notable:
+        priority = "HIGH"
 
     rows = [
-        ("PRIORITY", priority),
+        ("PRIORITY", priority + ("  \u2605 WATCHLIST" if notable else "")),
         ("COMPANY", item["company"]),
-        ("FILER", who or "see filing"),
+        ("FILER", who or (hit.title() if hit else "see filing")),
         ("FORM", (item.get("actual_form") or item["form"])
                  + ("  (activist)" if activist else "  (passive)")
                  + ("  [AMENDMENT]" if amended else "")),
@@ -1014,8 +1092,9 @@ def handle_stake(item):
         ("FILED", dmy(item["filed"])),
     ]
 
-    title = ("\U0001F7E2 ACTIVIST STAKE - 13D" if activist
-             else "\U0001F7E2 NEW 5% STAKE - 13G")
+    title = ("\U0001F7E2 WATCHLIST STAKE" if notable
+             else ("\U0001F7E2 ACTIVIST STAKE - 13D" if activist
+                   else "\U0001F7E2 NEW 5% STAKE - 13G"))
 
     return send_alert(
         "STAKE_13D" if activist else "STAKE_13G",

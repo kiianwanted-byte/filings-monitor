@@ -66,6 +66,20 @@ SENATE_ENABLED = os.environ.get("SENATE_ENABLED", "").lower() in ("1", "true", "
 # trades. Everything still lands in the CSV, this only governs what is pushed.
 EQUITY_ONLY = True
 
+# Members whose trades get pushed at HIGH regardless of size. Matched as
+# lowercase substrings against the filed name.
+NOTABLE_MEMBERS = [
+    "pelosi", "greene", "khanna", "crenshaw", "gottheimer", "mccaul",
+    "tuberville", "wyden", "schumer", "mcconnell", "scott", "warner",
+    "moreno", "banks", "gallego", "boebert", "massie", "waters",
+    "jeffries", "johnson mike", "hern", "meuser", "kustoff", "garbarino",
+]
+
+
+def is_notable_member(name):
+    n = (name or "").lower()
+    return any(x in n for x in NOTABLE_MEMBERS)
+
 # Asset names that mean debt or a private vehicle rather than a listed stock.
 NON_EQUITY_RE = re.compile(
     r"\b(bond|bonds|note|notes|treasury|municipal|muni|revenue|debenture|"
@@ -189,7 +203,9 @@ def send_filing(chamber, member, party_state, filed_date, link, trades):
     """
     global alerts_sent
 
-    above = [t for t in trades if t["priority"] != "LOW"]
+    notable_member = is_notable_member(member)
+    above = [t for t in trades
+             if t["priority"] != "LOW" or notable_member]
     pushable = [t for t in above if is_equity(t)] if EQUITY_ONLY else above
     skipped_non_equity = len(above) - len(pushable)
 
@@ -197,14 +213,16 @@ def send_filing(chamber, member, party_state, filed_date, link, trades):
         return False
 
     # A filing is only HIGH if something inside it is.
-    priority = "HIGH" if any(t["priority"] == "HIGH" for t in pushable) else "MEDIUM"
+    notable = is_notable_member(member)
+    priority = ("HIGH" if (notable or any(t["priority"] == "HIGH"
+                                          for t in pushable)) else "MEDIUM")
 
     lags = [t["lag"] for t in pushable if t["lag"] != ""]
     lag_txt = (f"{min(lags)} to {max(lags)} days" if lags and min(lags) != max(lags)
                else (f"{lags[0]} days" if lags else "unknown"))
 
     header = [
-        ("PRIORITY", priority),
+        ("PRIORITY", priority + ("  \u2605 WATCHLIST" if notable else "")),
         ("MEMBER", member),
         ("CHAMBER", chamber + (f"  ({party_state})" if party_state else "")),
         ("FILED", dmy(filed_date)),
