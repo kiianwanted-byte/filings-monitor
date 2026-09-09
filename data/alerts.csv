@@ -1619,3 +1619,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-09T15:07:52+00:00,FORM_144,,"Vir Biotechnology, Inc.",proposed sale $315K,315241,,https://www.sec.gov/Archives/edgar/data/1871145/000195917326006814/0001959173-26-006814-index.htm,LOW
 2026-09-09T15:24:24+00:00,FORM_144,,Galaxy Digital Inc.,proposed sale $135K,134960,,https://www.sec.gov/Archives/edgar/data/1859392/000195917326006816/0001959173-26-006816-index.htm,LOW
 2026-09-09T15:24:24+00:00,FORM_144,,FMC CORP,proposed sale $16K,15981,,https://www.sec.gov/Archives/edgar/data/1584507/000195917326006815/0001959173-26-006815-index.htm,LOW
+2026-09-09T15:37:31+00:00,FORM_144,,Snowflake Inc.,proposed sale $16.79M,16786000,,https://www.sec.gov/Archives/edgar/data/1821737/000195917326006819/0001959173-26-006819-index.htm,LOW
+2026-09-09T15:37:31+00:00,FORM_144,,"BillionToOne, Inc.",proposed sale $138K,138116,,https://www.sec.gov/Archives/edgar/data/2087126/000195917326006818/0001959173-26-006818-index.htm,LOW
+2026-09-09T15:37:32+00:00,FORM_144,,"BRINKER INTERNATIONAL, INC",proposed sale $143K,143058,,https://www.sec.gov/Archives/edgar/data/1729886/000195917326006817/0001959173-26-006817-index.htm,LOW
