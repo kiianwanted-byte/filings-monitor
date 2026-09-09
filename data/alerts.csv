@@ -1702,3 +1702,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-09T21:12:52+00:00,FORM_144,,"Analog Devices, Inc.",proposed sale $2.58M,2584695,,https://www.sec.gov/Archives/edgar/data/900729/000195824426000585/0001958244-26-000585-index.htm,LOW
 2026-09-09T21:12:52+00:00,FORM_144,,"Slide Insurance Holdings, Inc.",proposed sale $1.53M,1526139,,https://www.sec.gov/Archives/edgar/data/1886428/000195824426000584/0001958244-26-000584-index.htm,LOW
 2026-09-09T21:12:53+00:00,FORM_144,,ELASTIC N.V.,proposed sale $12.93M,12930375,,https://www.sec.gov/Archives/edgar/data/1753445/000195004726009257/0001950047-26-009257-index.htm,LOW
+2026-09-09T21:25:45+00:00,INSIDER_CLUSTER,DY,DYCOM INDUSTRIES INC,Peyovich Daniel S $252K,252246,0,https://www.sec.gov/Archives/edgar/data/1837347/000183734726000003/0001837347-26-000003-index.htm,HIGH
+2026-09-09T21:25:47+00:00,FORM_144,,Kinetik Holdings Inc.,proposed sale $250K,250111,,https://www.sec.gov/Archives/edgar/data/1904934/000090514826004127/0000905148-26-004127-index.htm,LOW
+2026-09-09T21:25:47+00:00,FORM_144,,Safehold Inc.,proposed sale $138K,138320,,https://www.sec.gov/Archives/edgar/data/1222801/000162828026061172/0001628280-26-061172-index.htm,LOW
+2026-09-09T21:25:48+00:00,FORM_144,,"Inhibrx Biosciences, Inc.",proposed sale $58K,57897,,https://www.sec.gov/Archives/edgar/data/2007919/000195917326006844/0001959173-26-006844-index.htm,LOW
