@@ -1708,3 +1708,11 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-09T21:25:48+00:00,FORM_144,,"Inhibrx Biosciences, Inc.",proposed sale $58K,57897,,https://www.sec.gov/Archives/edgar/data/2007919/000195917326006844/0001959173-26-006844-index.htm,LOW
 2026-09-09T21:46:17+00:00,INSIDER_BUY,GWAV,"Greenwave Technology Solutions, Inc.",Meeks Danny $8.00M,8000001,13,https://www.sec.gov/Archives/edgar/data/1862673/000149315226042006/0001493152-26-042006-index.htm,MEDIUM
 2026-09-09T21:54:15+00:00,INSIDER_CLUSTER,CYBN,CYBIN INC.,So Eric H. L. $1.12M,1121475,8,https://www.sec.gov/Archives/edgar/data/2116526/000091228226001254/0000912282-26-001254-index.htm,HIGH
+2026-09-09T22:18:27+00:00,INSIDER_CLUSTER,GME,GameStop Corp.,Grube James $196K,196075,0,https://www.sec.gov/Archives/edgar/data/1840480/000184048026000002/0001840480-26-000002-index.htm,HIGH
+2026-09-09T22:18:29+00:00,INSIDER_CLUSTER,NONE,"CIM GROUP, INC.",RESSLER RICHARD S $2.71M,2707793,5,https://www.sec.gov/Archives/edgar/data/1498547/000149854726000057/0001498547-26-000057-index.htm,HIGH
+2026-09-09T22:18:34+00:00,FORM_144,,"Madrigal Pharmaceuticals, Inc.",proposed sale $3.40M,3398325,,https://www.sec.gov/Archives/edgar/data/1518611/000162828026061190/0001628280-26-061190-index.htm,LOW
+2026-09-09T22:18:34+00:00,FORM_144,,Telos Corporation,proposed sale $932K,932000,,https://www.sec.gov/Archives/edgar/data/1872955/000196858226000941/0001968582-26-000941-index.htm,LOW
+2026-09-09T22:18:34+00:00,FORM_144,,"Alignment Healthcare, Inc.",proposed sale $1.70M,1697800,,https://www.sec.gov/Archives/edgar/data/1850397/000162828026061187/0001628280-26-061187-index.htm,LOW
+2026-09-09T22:18:35+00:00,FORM_144,,"Hinge Health, Inc.",proposed sale $22.44M,22440249,,https://www.sec.gov/Archives/edgar/data/1748910/000162828026061185/0001628280-26-061185-index.htm,LOW
+2026-09-09T22:18:35+00:00,FORM_144,,"Alignment Healthcare, Inc.",proposed sale $5.29M,5289300,,https://www.sec.gov/Archives/edgar/data/1832466/000162828026061184/0001628280-26-061184-index.htm,LOW
+2026-09-09T22:18:35+00:00,FORM_144,,"Hinge Health, Inc.",proposed sale $23.90M,23904751,,https://www.sec.gov/Archives/edgar/data/1768640/000162828026061183/0001628280-26-061183-index.htm,LOW

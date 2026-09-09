@@ -368,3 +368,5 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-09T21:36:45+00:00,2026-09-04,ARQ,"Arq, Inc.",Steinmetz Shimon,Chief Financial Officer,5758,2.28,13113,78.1,0001515156-26-000127
 2026-09-09T21:46:17+00:00,2026-08-27,GWAV,"Greenwave Technology Solutions, Inc.",Meeks Danny,"Director, Chief Executive Officer, 10% owner",2152853,3.72,8000001,6064.2,0001493152-26-042006
 2026-09-09T21:54:15+00:00,2026-09-01,CYBN,CYBIN INC.,So Eric H. L.,"Director, Executive Chair",95000,11.80,1121475,2.3,0000912282-26-001254
+2026-09-09T22:18:27+00:00,2026-09-09,GME,GameStop Corp.,Grube James,Director,10255,19.12,196075,34.8,0001840480-26-000002
+2026-09-09T22:18:29+00:00,2026-09-04,NONE,"CIM GROUP, INC.",RESSLER RICHARD S,"Director, CEO & President, 10% owner",526808,5.14,2707793,154.3,0001498547-26-000057
