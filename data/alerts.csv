@@ -1622,3 +1622,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-09T15:37:31+00:00,FORM_144,,Snowflake Inc.,proposed sale $16.79M,16786000,,https://www.sec.gov/Archives/edgar/data/1821737/000195917326006819/0001959173-26-006819-index.htm,LOW
 2026-09-09T15:37:31+00:00,FORM_144,,"BillionToOne, Inc.",proposed sale $138K,138116,,https://www.sec.gov/Archives/edgar/data/2087126/000195917326006818/0001959173-26-006818-index.htm,LOW
 2026-09-09T15:37:32+00:00,FORM_144,,"BRINKER INTERNATIONAL, INC",proposed sale $143K,143058,,https://www.sec.gov/Archives/edgar/data/1729886/000195917326006817/0001959173-26-006817-index.htm,LOW
+2026-09-09T16:11:45+00:00,FORM_144,,"BillionToOne, Inc.",proposed sale $2.05M,2045326,,https://www.sec.gov/Archives/edgar/data/2087127/000195917326006820/0001959173-26-006820-index.htm,LOW
