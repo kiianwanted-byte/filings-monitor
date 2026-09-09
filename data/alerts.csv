@@ -1627,3 +1627,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-09T17:18:36+00:00,FORM_144,,Invesco Ltd.,proposed sale $1.46M,1455782,,https://www.sec.gov/Archives/edgar/data/1965994/000195917326006824/0001959173-26-006824-index.htm,LOW
 2026-09-09T17:18:37+00:00,FORM_144,,PHINIA INC.,proposed sale $140K,140425,,https://www.sec.gov/Archives/edgar/data/1981190/000195917326006823/0001959173-26-006823-index.htm,LOW
 2026-09-09T17:18:37+00:00,FORM_144,,Unum Group,proposed sale $378K,377747,,https://www.sec.gov/Archives/edgar/data/1103172/000195917326006822/0001959173-26-006822-index.htm,LOW
+2026-09-09T17:43:36+00:00,FORM_144,,Netflix Inc.,proposed sale $55K,54907,,https://www.sec.gov/Archives/edgar/data/1184230/000162828026061075/0001628280-26-061075-index.htm,LOW
