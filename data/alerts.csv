@@ -1624,3 +1624,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-09T15:37:32+00:00,FORM_144,,"BRINKER INTERNATIONAL, INC",proposed sale $143K,143058,,https://www.sec.gov/Archives/edgar/data/1729886/000195917326006817/0001959173-26-006817-index.htm,LOW
 2026-09-09T16:11:45+00:00,FORM_144,,"BillionToOne, Inc.",proposed sale $2.05M,2045326,,https://www.sec.gov/Archives/edgar/data/2087127/000195917326006820/0001959173-26-006820-index.htm,LOW
 2026-09-09T16:28:15+00:00,FORM_144,,"BillionToOne, Inc.",proposed sale $171K,170695,,https://www.sec.gov/Archives/edgar/data/2087127/000195917326006821/0001959173-26-006821-index.htm,LOW
+2026-09-09T17:18:36+00:00,FORM_144,,Invesco Ltd.,proposed sale $1.46M,1455782,,https://www.sec.gov/Archives/edgar/data/1965994/000195917326006824/0001959173-26-006824-index.htm,LOW
+2026-09-09T17:18:37+00:00,FORM_144,,PHINIA INC.,proposed sale $140K,140425,,https://www.sec.gov/Archives/edgar/data/1981190/000195917326006823/0001959173-26-006823-index.htm,LOW
+2026-09-09T17:18:37+00:00,FORM_144,,Unum Group,proposed sale $378K,377747,,https://www.sec.gov/Archives/edgar/data/1103172/000195917326006822/0001959173-26-006822-index.htm,LOW
