@@ -132,6 +132,11 @@ SEC_DELAY = 0.15          # SEC allows 10 requests per second
 # 13G in particular clusters around quarter ends and can be quiet for days.
 FEED_GRACE_HOURS = 72
 
+# Feeds whose source is known-unresolved. They keep being attempted, but the
+# heartbeat will not report them as broken, because we already know and a
+# daily alarm about a known issue trains you to ignore alarms.
+SUPPRESS_STALE = {"SC 13D", "SC 13G"}
+
 # Paths inside the repo
 ROOT = Path(__file__).resolve().parent
 STATE_DIR = ROOT / "state"
@@ -1223,6 +1228,8 @@ def heartbeat():
         save_json(FIRST_SEEN_FILE, first_seen)
 
     for form in watched:
+        if form in SUPPRESS_STALE:
+            continue
         ts = merged.get(form)
         if not ts:
             try:
@@ -1368,6 +1375,84 @@ def main():
                 for r in rows[:2]:
                     print(f"               {r['filed']}  {r['company'][:44]}")
         print("=== END ===")
+        return
+
+    if len(sys.argv) > 1 and sys.argv[1] == "stakes":
+        print("=== STAKE FILING SOURCE PROBE ===")
+        et = (datetime.now(timezone.utc).hour - 4) % 24
+        print(f"  approx US Eastern: {et:02d}:xx  "
+              f"({'window open' if 6 <= et < 22 else 'window CLOSED'})")
+
+        def count_atom(url):
+            t = fetch(url)
+            if not t:
+                return "fetch failed"
+            try:
+                es = find_all(ET.fromstring(t), "entry")
+            except ET.ParseError:
+                return "unparseable"
+            forms = {}
+            for e in es:
+                ti = find_one(e, "title")
+                f = ((ti.text or "").split(" - ", 1)[0].strip()
+                     if ti is not None else "?")
+                forms[f] = forms.get(f, 0) + 1
+            return f"{len(es)} entries {forms}"
+
+        print("\n[A] getcurrent, owner parameter variants")
+        for owner in ("include", "only", "exclude"):
+            u = ("https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent"
+                 f"&type=SC+13&company=&dateb=&owner={owner}"
+                 "&count=100&output=atom")
+            print(f"    owner={owner:8} -> {count_atom(u)}")
+
+        print("\n[B] getcurrent, no type filter (what forms appear at all)")
+        u = ("https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent"
+             "&type=&company=&dateb=&owner=include&count=100&output=atom")
+        print(f"    {count_atom(u)}")
+
+        print("\n[C] daily index, last 4 completed weekdays")
+        today = datetime.now(timezone.utc).date()
+        for back in range(1, 6):
+            day = today - timedelta(days=back)
+            if day.weekday() >= 5:
+                continue
+            q = (day.month - 1) // 3 + 1
+            for kind in ("form", "master"):
+                u = (f"https://www.sec.gov/Archives/edgar/daily-index/"
+                     f"{day.year}/QTR{q}/{kind}.{day.strftime('%Y%m%d')}.idx")
+                t = fetch(u)
+                if not t:
+                    print(f"    {day} {kind:6} -> unavailable")
+                    continue
+                d13 = sum(1 for l in t.splitlines()
+                          if l.startswith("SC 13D"))
+                g13 = sum(1 for l in t.splitlines()
+                          if l.startswith("SC 13G"))
+                print(f"    {day} {kind:6} -> {len(t.splitlines())} lines, "
+                      f"SC 13D={d13}, SC 13G={g13}")
+                if d13 or g13:
+                    for l in t.splitlines():
+                        if l.startswith(("SC 13D", "SC 13G")):
+                            print(f"        {l[:100]}")
+                            break
+                break
+
+        print("\n[D] full text search API")
+        for form in ("SC 13D", "SC 13G"):
+            u = ("https://efts.sec.gov/LATEST/search-index?q=%22the%22"
+                 f"&forms={form.replace(' ', '%20')}")
+            t = fetch(u, is_sec=False)
+            if not t:
+                print(f"    {form} -> fetch failed")
+                continue
+            try:
+                total = json.loads(t).get("hits", {}).get("total", {})
+                print(f"    {form} -> hits {total}")
+            except ValueError:
+                print(f"    {form} -> non-JSON ({t[:60]})")
+
+        print("\n=== END ===")
         return
 
     if len(sys.argv) > 1 and sys.argv[1] == "fng":
