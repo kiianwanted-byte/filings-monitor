@@ -1608,3 +1608,9 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-09T14:29:15+00:00,FORM_144,,BRISTOL MYERS SQUIBB CO,proposed sale $403K,403497,,https://www.sec.gov/Archives/edgar/data/2080176/000195917326006809/0001959173-26-006809-index.htm,LOW
 2026-09-09T14:29:16+00:00,FORM_144,,"NIKE, Inc.",proposed sale $96K,96192,,https://www.sec.gov/Archives/edgar/data/2074830/000195917326006808/0001959173-26-006808-index.htm,LOW
 2026-09-09T14:29:16+00:00,FORM_144,,Snowflake Inc.,proposed sale $917K,916515,,https://www.sec.gov/Archives/edgar/data/1979088/000195917326006807/0001959173-26-006807-index.htm,LOW
+2026-09-09T14:44:56+00:00,INSIDER_CLUSTER,BWFG,"Bankwell Financial Group, Inc.",SEIDMAN LAWRENCE B $353K,352506,1,https://www.sec.gov/Archives/edgar/data/1505732/000102608126000026/0001026081-26-000026-index.htm,HIGH
+2026-09-09T14:45:02+00:00,FORM_144,,"NIKE, Inc.",proposed sale $199K,199377,,https://www.sec.gov/Archives/edgar/data/1806799/000195917326006812/0001959173-26-006812-index.htm,LOW
+2026-09-09T14:45:02+00:00,FORM_144,,BlackSky Technology Inc.,proposed sale $1.76M,1760000,,https://www.sec.gov/Archives/edgar/data/1753539/000194984626000574/0001949846-26-000574-index.htm,LOW
+2026-09-09T14:45:02+00:00,FORM_144,,"NIKE, Inc.",proposed sale $137K,137053,,https://www.sec.gov/Archives/edgar/data/2044264/000195917326006811/0001959173-26-006811-index.htm,LOW
+2026-09-09T14:45:03+00:00,FORM_144,,PRO DEX INC,proposed sale $1.29M,1294000,,https://www.sec.gov/Archives/edgar/data/1575056/000194984626000573/0001949846-26-000573-index.htm,LOW
+2026-09-09T14:45:03+00:00,FORM_144,,"NIKE, Inc.",proposed sale $138K,137992,,https://www.sec.gov/Archives/edgar/data/2101296/000195917326006810/0001959173-26-006810-index.htm,LOW

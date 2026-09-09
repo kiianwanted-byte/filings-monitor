@@ -342,3 +342,5 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-09T12:53:23+00:00,2026-09-08,BWFG,"Bankwell Financial Group, Inc.",Porto Carl M,Director,327,67.11,21944,1.5,0001505732-26-000113
 2026-09-09T13:21:20+00:00,2026-09-08,NONE,"Fundrise Income Real Estate Fund, LLC",Hall Bjorn,Secretary and CCO,98,10.13,1000,8.1,0001435109-26-000142
 2026-09-09T13:21:23+00:00,2026-09-04,MDRR,"Medalist Diversified, Inc.",Winn Charles Brent Jr.,CHIEF FINANCIAL OFFICER,278,12.00,3336,0.4,0001808471-26-000023
+2026-09-09T14:44:56+00:00,2026-09-08,BWFG,"Bankwell Financial Group, Inc.",SEIDMAN LAWRENCE B,"Director, 10% owner",5266,66.94,352506,25.9,0001026081-26-000026
+2026-09-09T14:45:01+00:00,2026-09-04,SXI,STANDEX INTERNATIONAL CORP/DE/,Arets Max,VP; Chief Information Officer,45,273.96,12328,2.8,0000310354-26-000092
