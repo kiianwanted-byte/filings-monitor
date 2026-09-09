@@ -105,7 +105,12 @@ EIGHTK_LOW = {"1.01", "1.02", "5.02"}
 
 # Trades only. 8-K, NT and 13D were the bulk of the noise and none of them
 # are a buy or a sell. Add them back to this list to re-enable.
-FORMS = ["4", "144", "SC 13D", "SC 13G"]
+# Set to True to resume 5% stake alerts (13D / 13G). Off by default: in
+# practice the feed is dominated by amendments to existing institutional
+# positions, which carry almost no information.
+STAKES_ENABLED = False
+
+FORMS = ["4", "144"] + (["SC 13D", "SC 13G"] if STAKES_ENABLED else [])
 
 # EDGAR's getcurrent does prefix matching on `type`, but it chokes on the
 # letter after the number: "SC 13D" returns nothing while "SC 13" returns
@@ -116,8 +121,7 @@ FORMS = ["4", "144", "SC 13D", "SC 13G"]
 FEED_QUERIES = [
     ("4", ["4"]),
     ("144", ["144"]),
-    ("SCHEDULE+13", ["SC 13D", "SC 13G"]),
-]
+] + ([("SCHEDULE+13", ["SC 13D", "SC 13G"])] if STAKES_ENABLED else [])
 
 # EDGAR does NOT call these "SC 13D" and "SC 13G". Its atom titles read
 # "SCHEDULE 13D/A" and "SCHEDULE 13G/A". Querying the wrong name returns a
