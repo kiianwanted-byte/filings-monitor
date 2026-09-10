@@ -1771,3 +1771,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-10T18:15:53+00:00,FORM_144,,"Progyny, Inc.",proposed sale $312K,311858,,https://www.sec.gov/Archives/edgar/data/1551306/000195917326006853/0001959173-26-006853-index.htm,LOW
 2026-09-10T18:31:30+00:00,FORM_144,,BANNER CORP,proposed sale $92K,92335,,https://www.sec.gov/Archives/edgar/data/1979865/000195917326006854/0001959173-26-006854-index.htm,LOW
 2026-09-10T18:31:30+00:00,FORM_144,,NATIONAL HEALTHCARE CORP,proposed sale $601K,600817,,https://www.sec.gov/Archives/edgar/data/1774116/000177411626000001/0001774116-26-000001-index.htm,LOW
+2026-09-10T18:46:31+00:00,FORM_144,,Unum Group,proposed sale $404K,404286,,https://www.sec.gov/Archives/edgar/data/1343297/000195917326006855/0001959173-26-006855-index.htm,LOW
