@@ -1882,3 +1882,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-10T21:54:13+00:00,FORM_144,,"Chime Financial, Inc.",proposed sale $19.69M,19685035,,https://www.sec.gov/Archives/edgar/data/1795586/000162828026061431/0001628280-26-061431-index.htm,LOW
 2026-09-10T21:54:14+00:00,FORM_144,,"Chime Financial, Inc.",proposed sale $130K,130080,,https://www.sec.gov/Archives/edgar/data/1795586/000162828026061430/0001628280-26-061430-index.htm,LOW
 2026-09-10T21:54:14+00:00,FORM_144,,"Chime Financial, Inc.",proposed sale $200K,200148,,https://www.sec.gov/Archives/edgar/data/1795586/000162828026061429/0001628280-26-061429-index.htm,LOW
+2026-09-10T22:18:22+00:00,INSIDER_CLUSTER,GME,GameStop Corp.,Attal Alain $100K,100000,0,https://www.sec.gov/Archives/edgar/data/1840485/000184048526000006/0001840485-26-000006-index.htm,HIGH
+2026-09-10T22:18:32+00:00,INSIDER_CLUSTER,GME,GameStop Corp.,Cohen Ryan $20.38M,20375900,0,https://www.sec.gov/Archives/edgar/data/1767470/000092189526002531/0000921895-26-002531-index.htm,HIGH
+2026-09-10T22:18:33+00:00,FORM_144,,UNIVERSAL ELECTRONICS INC,proposed sale $2.12M,2123240,,https://www.sec.gov/Archives/edgar/data/1970265/000092189526002532/0000921895-26-002532-index.htm,LOW
+2026-09-10T22:18:34+00:00,FORM_144,,Dorian LPG Ltd.,proposed sale $268K,268150,,https://www.sec.gov/Archives/edgar/data/1638215/000196858226000947/0001968582-26-000947-index.htm,LOW
