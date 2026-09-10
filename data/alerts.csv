@@ -1767,3 +1767,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-10T16:43:28+00:00,FORM_144,,ACRES Commercial Realty Corp.,proposed sale $20K,19972,,https://www.sec.gov/Archives/edgar/data/1332551/000197249026000020/0001972490-26-000020-index.htm,LOW
 2026-09-10T17:18:30+00:00,INSIDER_CLUSTER,CSBB,"CSB Bancorp, Inc.",STEINER EDDIE L $3K,2815,2,https://www.sec.gov/Archives/edgar/data/1202390/000119312526387610/0001193125-26-387610-index.htm,HIGH
 2026-09-10T17:50:37+00:00,FORM_144,,DOW INC.,proposed sale $482K,482150,,https://www.sec.gov/Archives/edgar/data/2048178/000195917326006852/0001959173-26-006852-index.htm,LOW
+2026-09-10T18:15:52+00:00,FORM_144,,Docusign,proposed sale $1.95M,1949715,,https://www.sec.gov/Archives/edgar/data/1686308/000162828026061285/0001628280-26-061285-index.htm,LOW
+2026-09-10T18:15:53+00:00,FORM_144,,"Progyny, Inc.",proposed sale $312K,311858,,https://www.sec.gov/Archives/edgar/data/1551306/000195917326006853/0001959173-26-006853-index.htm,LOW
