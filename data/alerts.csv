@@ -1748,3 +1748,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-10T10:25:50+00:00,INSIDER_CLUSTER,CYBN,CYBIN INC.,Glavine Paul $1.18M,1178280,7,https://www.sec.gov/Archives/edgar/data/2118509/000091228226001256/0000912282-26-001256-index.htm,HIGH
 2026-09-10T12:18:09+00:00,FORM_144,,Takeda Pharmaceutical Company Limited,proposed sale $634K,634407,,https://www.sec.gov/Archives/edgar/data/1977746/000149315226042079/0001493152-26-042079-index.htm,LOW
 2026-09-10T13:18:54+00:00,FORM_144,,Nexxen International Ltd.,proposed sale $60K,59907,,https://www.sec.gov/Archives/edgar/data/1980184/000197640826000826/0001976408-26-000826-index.htm,LOW
+2026-09-10T13:45:30+00:00,INSIDER_CLUSTER,DXYZ,Destiny Tech100 Inc.,Silver Ethan $25K,25000,10,https://www.sec.gov/Archives/edgar/data/2154406/000094562126001136/0000945621-26-001136-index.htm,HIGH
