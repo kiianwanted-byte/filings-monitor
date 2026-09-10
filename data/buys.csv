@@ -411,3 +411,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-10T21:14:09+00:00,2026-09-08,CLPR,Clipper Realty Inc.,Levinson Sam,"Director, 10% owner",117552,3.30,388130,45.0,0001539497-26-002474
 2026-09-10T21:25:36+00:00,2026-09-10,AOMR,"Angel Oak Mortgage REIT, Inc.",MINAMI W D,Director,6800,8.10,55080,8.5,0001766478-26-000048
 2026-09-10T21:25:37+00:00,2026-09-01,WAST,WASTE ENERGY CORP.,GALLAGHER SCOTT,"Director, Chairman and CEO",425000,0.00,1211,32.5,0001493152-26-042242
+2026-09-10T21:35:36+00:00,2026-09-08,ARQ,"Arq, Inc.",Steinmetz Shimon,Chief Financial Officer,2972,2.34,6952,24.7,0001515156-26-000129
