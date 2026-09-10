@@ -1734,3 +1734,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-10T00:21:02+00:00,FORM_144,,Elastic N.V.,proposed sale $787K,786617,,https://www.sec.gov/Archives/edgar/data/1894706/000112329226001264/0001123292-26-001264-index.htm,LOW
 2026-09-10T00:21:02+00:00,FORM_144,,"Figure Technology Solutions, Inc.",proposed sale $114.81M,114810000,,https://www.sec.gov/Archives/edgar/data/2142340/000162828026061202/0001628280-26-061202-index.htm,LOW
 2026-09-10T00:21:02+00:00,FORM_144,,"Figure Technology Solutions, Inc.",proposed sale $5.42M,5423930,,https://www.sec.gov/Archives/edgar/data/2064124/000162828026061201/0001628280-26-061201-index.htm,LOW
+2026-09-10T00:39:07+00:00,STAKE_13D,,Woodman Nicholas, 20.6%,,,https://www.sec.gov/Archives/edgar/data/1610500/000110465926106446/0001104659-26-106446-index.htm,HIGH
