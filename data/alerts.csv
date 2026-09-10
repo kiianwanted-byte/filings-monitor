@@ -1757,3 +1757,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-10T14:59:09+00:00,FORM_144,,Wayfair Inc.,proposed sale $490K,490400,,https://www.sec.gov/Archives/edgar/data/1620093/000195917326006849/0001959173-26-006849-index.htm,LOW
 2026-09-10T15:14:08+00:00,INSIDER_CLUSTER,ATLO,AMES NATIONAL CORP,Baker Jeffery C $10K,9564,1,https://www.sec.gov/Archives/edgar/data/1917933/000191793326000002/0001917933-26-000002-index.htm,HIGH
 2026-09-10T15:29:14+00:00,FORM_144,,"Health In Tech, Inc.",proposed sale $17K,17169,,https://www.sec.gov/Archives/edgar/data/2102674/000165495426008258/0001654954-26-008258-index.htm,LOW
+2026-09-10T15:53:18+00:00,FORM_144,,"ARTIVION, INC.",proposed sale $287K,286656,,https://www.sec.gov/Archives/edgar/data/1191000/000195917326006850/0001959173-26-006850-index.htm,LOW
