@@ -1762,3 +1762,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-10T16:17:27+00:00,FORM_144,,"Caesars Entertainment, Inc.",proposed sale $1.36M,1362179,,https://www.sec.gov/Archives/edgar/data/1590895/000194984626000578/0001949846-26-000578-index.htm,LOW
 2026-09-10T16:17:28+00:00,FORM_144,,"APPLIED OPTOELECTRONICS, INC.",proposed sale $421K,421313,,https://www.sec.gov/Archives/edgar/data/1587599/000197407826000348/0001974078-26-000348-index.htm,LOW
 2026-09-10T16:17:28+00:00,FORM_144,,Wayfair Inc.,proposed sale $490K,490400,,https://www.sec.gov/Archives/edgar/data/1620052/000195917326006851/0001959173-26-006851-index.htm,LOW
+2026-09-10T16:43:24+00:00,INSIDER_CLUSTER,FRST,Primis Financial Corp.,Johnson Eric Alan $25K,24961,1,https://www.sec.gov/Archives/edgar/data/1364419/000119312526387586/0001193125-26-387586-index.htm,HIGH
+2026-09-10T16:43:25+00:00,INSIDER_CLUSTER,UBER,"Uber Technologies, Inc",KHOSROWSHAHI DARA $10.01M,10005952,0,https://www.sec.gov/Archives/edgar/data/1543151/000118423726000008/0001184237-26-000008-index.htm,HIGH
+2026-09-10T16:43:28+00:00,FORM_144,,ACRES Commercial Realty Corp.,proposed sale $20K,19972,,https://www.sec.gov/Archives/edgar/data/1332551/000197249026000020/0001972490-26-000020-index.htm,LOW
