@@ -1746,3 +1746,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-10T01:42:43+00:00,INSIDER_BUY,ALMS,ALUMIS INC.,AKKARAJU SRINIVAS $10.73M,10726255,5,https://www.sec.gov/Archives/edgar/data/1847367/000123191926001158/0001231919-26-001158-index.htm,HIGH
 2026-09-10T10:25:48+00:00,INSIDER_CLUSTER,CYBN,CYBIN INC.,So Eric H. L. $1.21M,1208900,6,https://www.sec.gov/Archives/edgar/data/2116526/000091228226001257/0000912282-26-001257-index.htm,HIGH
 2026-09-10T10:25:50+00:00,INSIDER_CLUSTER,CYBN,CYBIN INC.,Glavine Paul $1.18M,1178280,7,https://www.sec.gov/Archives/edgar/data/2118509/000091228226001256/0000912282-26-001256-index.htm,HIGH
+2026-09-10T12:18:09+00:00,FORM_144,,Takeda Pharmaceutical Company Limited,proposed sale $634K,634407,,https://www.sec.gov/Archives/edgar/data/1977746/000149315226042079/0001493152-26-042079-index.htm,LOW
