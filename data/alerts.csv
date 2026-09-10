@@ -1886,3 +1886,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-10T22:18:32+00:00,INSIDER_CLUSTER,GME,GameStop Corp.,Cohen Ryan $20.38M,20375900,0,https://www.sec.gov/Archives/edgar/data/1767470/000092189526002531/0000921895-26-002531-index.htm,HIGH
 2026-09-10T22:18:33+00:00,FORM_144,,UNIVERSAL ELECTRONICS INC,proposed sale $2.12M,2123240,,https://www.sec.gov/Archives/edgar/data/1970265/000092189526002532/0000921895-26-002532-index.htm,LOW
 2026-09-10T22:18:34+00:00,FORM_144,,Dorian LPG Ltd.,proposed sale $268K,268150,,https://www.sec.gov/Archives/edgar/data/1638215/000196858226000947/0001968582-26-000947-index.htm,LOW
+2026-09-10T22:41:21+00:00,INSIDER_BUY,QVCG,"QVC Group, Inc.",GOLDENTREE ASSET MANAGEMENT LP $26.00M,26000000,2,https://www.sec.gov/Archives/edgar/data/1435627/000149315226042256/0001493152-26-042256-index.htm,HIGH
