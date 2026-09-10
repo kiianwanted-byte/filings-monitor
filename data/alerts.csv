@@ -1776,3 +1776,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-10T19:07:20+00:00,FORM_144,,"CoreCivic, INC.",proposed sale $689K,689000,,https://www.sec.gov/Archives/edgar/data/2061806/000196922326001014/0001969223-26-001014-index.htm,LOW
 2026-09-10T19:18:43+00:00,FORM_144,,Amalgamated Financial Corp.,proposed sale $284K,284380,,https://www.sec.gov/Archives/edgar/data/2008970/000197407826000349/0001974078-26-000349-index.htm,LOW
 2026-09-10T19:27:48+00:00,FORM_144,,Fortrea Holdings Inc.,proposed sale $18K,17699,,https://www.sec.gov/Archives/edgar/data/1979544/000195917326006857/0001959173-26-006857-index.htm,LOW
+2026-09-10T19:38:20+00:00,FORM_144,,Stardust Power Inc.,proposed sale $8K,7678,,https://www.sec.gov/Archives/edgar/data/2028422/000197407826000350/0001974078-26-000350-index.htm,LOW
+2026-09-10T19:38:20+00:00,FORM_144,,Netflix Inc.,proposed sale $54K,54194,,https://www.sec.gov/Archives/edgar/data/1184230/000162828026061301/0001628280-26-061301-index.htm,LOW
+2026-09-10T19:38:21+00:00,FORM_144,,"Simpson Manufacturing Co., Inc.",proposed sale $605K,605268,,https://www.sec.gov/Archives/edgar/data/1833593/000195917326006858/0001959173-26-006858-index.htm,LOW
