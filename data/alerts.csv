@@ -1769,3 +1769,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-10T17:50:37+00:00,FORM_144,,DOW INC.,proposed sale $482K,482150,,https://www.sec.gov/Archives/edgar/data/2048178/000195917326006852/0001959173-26-006852-index.htm,LOW
 2026-09-10T18:15:52+00:00,FORM_144,,Docusign,proposed sale $1.95M,1949715,,https://www.sec.gov/Archives/edgar/data/1686308/000162828026061285/0001628280-26-061285-index.htm,LOW
 2026-09-10T18:15:53+00:00,FORM_144,,"Progyny, Inc.",proposed sale $312K,311858,,https://www.sec.gov/Archives/edgar/data/1551306/000195917326006853/0001959173-26-006853-index.htm,LOW
+2026-09-10T18:31:30+00:00,FORM_144,,BANNER CORP,proposed sale $92K,92335,,https://www.sec.gov/Archives/edgar/data/1979865/000195917326006854/0001959173-26-006854-index.htm,LOW
+2026-09-10T18:31:30+00:00,FORM_144,,NATIONAL HEALTHCARE CORP,proposed sale $601K,600817,,https://www.sec.gov/Archives/edgar/data/1774116/000177411626000001/0001774116-26-000001-index.htm,LOW
