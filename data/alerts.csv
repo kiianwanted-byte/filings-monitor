@@ -1816,3 +1816,30 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-10T20:18:32+00:00,FORM_144,,TFS Financial CORP,proposed sale $170K,170400,,https://www.sec.gov/Archives/edgar/data/1921069/000195917326006860/0001959173-26-006860-index.htm,LOW
 2026-09-10T20:18:32+00:00,FORM_144,,TENET HEALTHCARE CORP,proposed sale $2.63M,2634155,,https://www.sec.gov/Archives/edgar/data/1190100/000195917326006859/0001959173-26-006859-index.htm,LOW
 2026-09-10T20:18:33+00:00,FORM_144,,CME Group,proposed sale $4.12M,4125000,,https://www.sec.gov/Archives/edgar/data/1212809/000162828026061313/0001628280-26-061313-index.htm,LOW
+2026-09-10T20:42:55+00:00,FORM_144,,OMADA HEALTH INC,proposed sale $322K,321640,,https://www.sec.gov/Archives/edgar/data/2069522/000195004726009297/0001950047-26-009297-index.htm,LOW
+2026-09-10T20:42:55+00:00,FORM_144,,"BANC OF CALIFORNIA, INC.",proposed sale $196K,196439,,https://www.sec.gov/Archives/edgar/data/1778395/000196530126000140/0001965301-26-000140-index.htm,LOW
+2026-09-10T20:42:56+00:00,FORM_144,,"Live Oak Bancshares, Inc.",proposed sale $387K,387484,,https://www.sec.gov/Archives/edgar/data/1462120/000195917326006865/0001959173-26-006865-index.htm,LOW
+2026-09-10T20:42:56+00:00,FORM_144,,REVOLUTION MEDICINES INC,proposed sale $3.21M,3208240,,https://www.sec.gov/Archives/edgar/data/2124509/000195004726009296/0001950047-26-009296-index.htm,LOW
+2026-09-10T20:42:56+00:00,FORM_144,,"CANDEL THERAPEUTICS, INC.",proposed sale $3.41M,3410581,,https://www.sec.gov/Archives/edgar/data/1873905/000195004726009295/0001950047-26-009295-index.htm,LOW
+2026-09-10T20:42:57+00:00,FORM_144,,"Everpure, Inc.",proposed sale $4.85M,4853000,,https://www.sec.gov/Archives/edgar/data/1651902/000195004726009294/0001950047-26-009294-index.htm,LOW
+2026-09-10T20:42:57+00:00,FORM_144,,"Everpure, Inc.",proposed sale $4.85M,4853000,,https://www.sec.gov/Archives/edgar/data/1651902/000195004726009293/0001950047-26-009293-index.htm,LOW
+2026-09-10T20:42:57+00:00,FORM_144,,TRAVERE THERAPEUTICS INC,proposed sale $1.32M,1324400,,https://www.sec.gov/Archives/edgar/data/1506916/000195004726009292/0001950047-26-009292-index.htm,LOW
+2026-09-10T20:42:58+00:00,FORM_144,,ALIGNMENT HEALTHCARE INC,proposed sale $6.51M,6515000,,https://www.sec.gov/Archives/edgar/data/1832466/000195004726009291/0001950047-26-009291-index.htm,LOW
+2026-09-10T20:42:58+00:00,FORM_144,,"SENTINELONE, INC.",proposed sale $158K,158299,,https://www.sec.gov/Archives/edgar/data/1608511/000195004726009290/0001950047-26-009290-index.htm,LOW
+2026-09-10T20:42:58+00:00,FORM_144,,WEALTHFRONT CORPORATION,proposed sale $378K,378400,,https://www.sec.gov/Archives/edgar/data/1524566/000195004726009289/0001950047-26-009289-index.htm,LOW
+2026-09-10T20:42:59+00:00,FORM_144,,"MAGNITE, INC.",proposed sale $236K,235800,,https://www.sec.gov/Archives/edgar/data/1595974/000195004726009288/0001950047-26-009288-index.htm,LOW
+2026-09-10T20:42:59+00:00,FORM_144,,"MAGNITE, INC.",proposed sale $1.41M,1414800,,https://www.sec.gov/Archives/edgar/data/1807986/000195004726009287/0001950047-26-009287-index.htm,LOW
+2026-09-10T20:42:59+00:00,FORM_144,,"Amplitude, Inc.",proposed sale $2.28M,2275219,,https://www.sec.gov/Archives/edgar/data/1882913/000195917326006864/0001959173-26-006864-index.htm,LOW
+2026-09-10T20:43:00+00:00,FORM_144,,"Heartflow, Inc.",proposed sale $1.63M,1625104,,https://www.sec.gov/Archives/edgar/data/1900415/000195917326006863/0001959173-26-006863-index.htm,LOW
+2026-09-10T20:43:00+00:00,FORM_144,,"SCANSOURCE, INC.",proposed sale $1.11M,1109823,,https://www.sec.gov/Archives/edgar/data/1251456/000196430626000436/0001964306-26-000436-index.htm,LOW
+2026-09-10T20:43:00+00:00,FORM_144,,ELASTIC N.V.,proposed sale $528K,528236,,https://www.sec.gov/Archives/edgar/data/1753445/000195004726009286/0001950047-26-009286-index.htm,LOW
+2026-09-10T20:43:01+00:00,FORM_144,,"HOME DEPOT, INC.",proposed sale $207K,206512,,https://www.sec.gov/Archives/edgar/data/1650122/000162828026061372/0001628280-26-061372-index.htm,LOW
+2026-09-10T20:43:01+00:00,FORM_144,,"Pediatrix Medical Group, Inc.",proposed sale $161K,160736,,https://www.sec.gov/Archives/edgar/data/1543891/000162828026061367/0001628280-26-061367-index.htm,LOW
+2026-09-10T20:43:01+00:00,FORM_144,,LivaNova PLC,proposed sale $273K,273032,,https://www.sec.gov/Archives/edgar/data/1656080/000196430626000435/0001964306-26-000435-index.htm,LOW
+2026-09-10T20:43:02+00:00,FORM_144,,"HAMILTON INSURANCE GROUP, LTD.",proposed sale $984K,984181,,https://www.sec.gov/Archives/edgar/data/2094343/000195004726009285/0001950047-26-009285-index.htm,LOW
+2026-09-10T20:43:02+00:00,FORM_144,,JPMORGAN CHASE & CO.,proposed sale $882K,882026,,https://www.sec.gov/Archives/edgar/data/1726825/000172682526000010/0001726825-26-000010-index.htm,LOW
+2026-09-10T20:43:02+00:00,FORM_144,,Flowco Holdings Inc.,proposed sale $26K,25707,,https://www.sec.gov/Archives/edgar/data/2049797/000195779926000173/0001957799-26-000173-index.htm,LOW
+2026-09-10T20:43:03+00:00,FORM_144,,"Barfresh Food Groups, Inc.",proposed sale $7K,7475,,https://www.sec.gov/Archives/edgar/data/1905960/000196858226000945/0001968582-26-000945-index.htm,LOW
+2026-09-10T20:43:03+00:00,FORM_144,,CADENCE DESIGN SYSTEMS INC,proposed sale $286K,285510,,https://www.sec.gov/Archives/edgar/data/1494211/000196858226000944/0001968582-26-000944-index.htm,LOW
+2026-09-10T20:43:03+00:00,FORM_144,,ZIM Integrated Shipping Services Ltd.,proposed sale $86K,86311,,https://www.sec.gov/Archives/edgar/data/2135058/000197640826000834/0001976408-26-000834-index.htm,LOW
+2026-09-10T20:43:04+00:00,FORM_144,,Par Pacific Holdings Inc,proposed sale $921K,921131,,https://www.sec.gov/Archives/edgar/data/1612285/000162828026061353/0001628280-26-061353-index.htm,LOW
