@@ -1878,3 +1878,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-10T21:35:43+00:00,FORM_144,,"Health Catalyst, Inc.",proposed sale $59K,59023,,https://www.sec.gov/Archives/edgar/data/2086403/000162828026061426/0001628280-26-061426-index.htm,LOW
 2026-09-10T21:35:43+00:00,FORM_144,,DORIAN LPG LTD.,proposed sale $650K,649585,,https://www.sec.gov/Archives/edgar/data/1638233/000195004726009317/0001950047-26-009317-index.htm,LOW
 2026-09-10T21:46:03+00:00,FORM_144,,"MarketAxess Holdings, Inc.",proposed sale $1.01M,1006335,,https://www.sec.gov/Archives/edgar/data/1591033/000196858226000946/0001968582-26-000946-index.htm,LOW
+2026-09-10T21:54:11+00:00,INSIDER_CLUSTER,BRN,BARNWELL INDUSTRIES INC,Horowitz Joshua $10K,10436,2,https://www.sec.gov/Archives/edgar/data/1612424/000110465926106783/0001104659-26-106783-index.htm,HIGH
+2026-09-10T21:54:13+00:00,FORM_144,,"Chime Financial, Inc.",proposed sale $19.69M,19685035,,https://www.sec.gov/Archives/edgar/data/1795586/000162828026061431/0001628280-26-061431-index.htm,LOW
+2026-09-10T21:54:14+00:00,FORM_144,,"Chime Financial, Inc.",proposed sale $130K,130080,,https://www.sec.gov/Archives/edgar/data/1795586/000162828026061430/0001628280-26-061430-index.htm,LOW
+2026-09-10T21:54:14+00:00,FORM_144,,"Chime Financial, Inc.",proposed sale $200K,200148,,https://www.sec.gov/Archives/edgar/data/1795586/000162828026061429/0001628280-26-061429-index.htm,LOW
