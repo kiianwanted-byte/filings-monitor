@@ -1773,3 +1773,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-10T18:31:30+00:00,FORM_144,,NATIONAL HEALTHCARE CORP,proposed sale $601K,600817,,https://www.sec.gov/Archives/edgar/data/1774116/000177411626000001/0001774116-26-000001-index.htm,LOW
 2026-09-10T18:46:31+00:00,FORM_144,,Unum Group,proposed sale $404K,404286,,https://www.sec.gov/Archives/edgar/data/1343297/000195917326006855/0001959173-26-006855-index.htm,LOW
 2026-09-10T18:56:49+00:00,FORM_144,,ENTERGY CORP /DE/,proposed sale $595K,594720,,https://www.sec.gov/Archives/edgar/data/1745554/000195917326006856/0001959173-26-006856-index.htm,LOW
+2026-09-10T19:07:20+00:00,FORM_144,,"CoreCivic, INC.",proposed sale $689K,689000,,https://www.sec.gov/Archives/edgar/data/2061806/000196922326001014/0001969223-26-001014-index.htm,LOW
