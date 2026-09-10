@@ -1754,3 +1754,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-10T14:21:28+00:00,FORM_144,,"Moderna, Inc.",proposed sale $4.69M,4685093,,https://www.sec.gov/Archives/edgar/data/1736359/000195917326006846/0001959173-26-006846-index.htm,LOW
 2026-09-10T14:35:06+00:00,FORM_144,,INSMED Inc,proposed sale $3.10M,3099729,,https://www.sec.gov/Archives/edgar/data/1609305/000195779926000171/0001957799-26-000171-index.htm,LOW
 2026-09-10T14:48:54+00:00,FORM_144,,BOX INC,proposed sale $587K,586868,,https://www.sec.gov/Archives/edgar/data/1606410/000195917326006848/0001959173-26-006848-index.htm,LOW
+2026-09-10T14:59:09+00:00,FORM_144,,Wayfair Inc.,proposed sale $490K,490400,,https://www.sec.gov/Archives/edgar/data/1620093/000195917326006849/0001959173-26-006849-index.htm,LOW
