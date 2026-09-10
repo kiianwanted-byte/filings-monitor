@@ -1750,3 +1750,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-10T13:18:54+00:00,FORM_144,,Nexxen International Ltd.,proposed sale $60K,59907,,https://www.sec.gov/Archives/edgar/data/1980184/000197640826000826/0001976408-26-000826-index.htm,LOW
 2026-09-10T13:45:30+00:00,INSIDER_CLUSTER,DXYZ,Destiny Tech100 Inc.,Silver Ethan $25K,25000,10,https://www.sec.gov/Archives/edgar/data/2154406/000094562126001136/0000945621-26-001136-index.htm,HIGH
 2026-09-10T14:06:41+00:00,FORM_144,,"T-Mobile US, Inc.",proposed sale $138K,137670,,https://www.sec.gov/Archives/edgar/data/2066499/000195917326006845/0001959173-26-006845-index.htm,LOW
+2026-09-10T14:21:28+00:00,FORM_144,,SEMTECH CORP,proposed sale $109K,109211,,https://www.sec.gov/Archives/edgar/data/1994152/000195917326006847/0001959173-26-006847-index.htm,LOW
+2026-09-10T14:21:28+00:00,FORM_144,,"Moderna, Inc.",proposed sale $4.69M,4685093,,https://www.sec.gov/Archives/edgar/data/1736359/000195917326006846/0001959173-26-006846-index.htm,LOW
