@@ -1779,3 +1779,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-10T19:38:20+00:00,FORM_144,,Stardust Power Inc.,proposed sale $8K,7678,,https://www.sec.gov/Archives/edgar/data/2028422/000197407826000350/0001974078-26-000350-index.htm,LOW
 2026-09-10T19:38:20+00:00,FORM_144,,Netflix Inc.,proposed sale $54K,54194,,https://www.sec.gov/Archives/edgar/data/1184230/000162828026061301/0001628280-26-061301-index.htm,LOW
 2026-09-10T19:38:21+00:00,FORM_144,,"Simpson Manufacturing Co., Inc.",proposed sale $605K,605268,,https://www.sec.gov/Archives/edgar/data/1833593/000195917326006858/0001959173-26-006858-index.htm,LOW
+2026-09-10T19:54:09+00:00,FORM_144,,Amalgamated Financial Corp.,proposed sale $953K,953361,,https://www.sec.gov/Archives/edgar/data/1847205/000197407826000351/0001974078-26-000351-index.htm,LOW
