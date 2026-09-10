@@ -1862,3 +1862,9 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-10T20:52:49+00:00,FORM_144,,"ADVANCED MICRO DEVICES, INC.",proposed sale $13.03M,13027375,,https://www.sec.gov/Archives/edgar/data/1405109/000195004726009300/0001950047-26-009300-index.htm,LOW
 2026-09-10T20:52:49+00:00,FORM_144,,DROPBOX INC,proposed sale $13.28M,13275642,,https://www.sec.gov/Archives/edgar/data/1734563/000195004726009299/0001950047-26-009299-index.htm,LOW
 2026-09-10T20:52:50+00:00,FORM_144,,DROPBOX INC,proposed sale $3.37M,3374531,,https://www.sec.gov/Archives/edgar/data/1807571/000195004726009298/0001950047-26-009298-index.htm,LOW
+2026-09-10T21:14:09+00:00,INSIDER_BUY,CLPR,Clipper Realty Inc.,Levinson Sam $388K,388130,2,https://www.sec.gov/Archives/edgar/data/1649096/000153949726002474/0001539497-26-002474-index.htm,MEDIUM
+2026-09-10T21:14:17+00:00,FORM_144,,"L3Harris Technologies, Inc.",proposed sale $5.44M,5443276,,https://www.sec.gov/Archives/edgar/data/1194001/000195824426000587/0001958244-26-000587-index.htm,LOW
+2026-09-10T21:14:18+00:00,FORM_144,,"Weyco Group, Inc.",proposed sale $13K,12936,,https://www.sec.gov/Archives/edgar/data/1692581/000195824426000586/0001958244-26-000586-index.htm,LOW
+2026-09-10T21:14:18+00:00,FORM_144,,"Fluent, Inc.",proposed sale $75K,75000,,https://www.sec.gov/Archives/edgar/data/1950328/000143774926030094/0001437749-26-030094-index.htm,LOW
+2026-09-10T21:14:19+00:00,FORM_144,,TransUnion,proposed sale $1.79M,1793099,,https://www.sec.gov/Archives/edgar/data/1687957/000195917326006870/0001959173-26-006870-index.htm,LOW
+2026-09-10T21:14:19+00:00,FORM_144,,"PACS Group, Inc.",proposed sale $11.21M,11209985,,https://www.sec.gov/Archives/edgar/data/2014386/000196922326001015/0001969223-26-001015-index.htm,LOW
