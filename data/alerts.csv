@@ -1890,3 +1890,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-10T22:58:02+00:00,FORM_144,,TEEKAY CORP LTD,proposed sale $163K,163119,,https://www.sec.gov/Archives/edgar/data/1977117/000197711726000009/0001977117-26-000009-index.htm,LOW
 2026-09-10T23:09:44+00:00,FORM_144,,Kinetik Holdings Inc.,proposed sale $317K,316528,,https://www.sec.gov/Archives/edgar/data/1904934/000090514826004135/0000905148-26-004135-index.htm,LOW
 2026-09-10T23:20:56+00:00,INSIDER_BUY,UPST,"Upstart Holdings, Inc.",Gu Paul $1.28M,1277500,0,https://www.sec.gov/Archives/edgar/data/1832812/000183281226000010/0001832812-26-000010-index.htm,MEDIUM
+2026-09-10T23:40:28+00:00,FORM_144,,Seagate Technology Holdings plc,proposed sale $2.58M,2579258,,https://www.sec.gov/Archives/edgar/data/1388390/000138839026000010/0001388390-26-000010-index.htm,LOW
+2026-09-10T23:40:28+00:00,FORM_144,,Seagate Technology Holdings plc,proposed sale $1.22M,1220263,,https://www.sec.gov/Archives/edgar/data/1764650/000176465026000006/0001764650-26-000006-index.htm,LOW
