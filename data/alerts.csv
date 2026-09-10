@@ -1843,3 +1843,22 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-10T20:43:03+00:00,FORM_144,,CADENCE DESIGN SYSTEMS INC,proposed sale $286K,285510,,https://www.sec.gov/Archives/edgar/data/1494211/000196858226000944/0001968582-26-000944-index.htm,LOW
 2026-09-10T20:43:03+00:00,FORM_144,,ZIM Integrated Shipping Services Ltd.,proposed sale $86K,86311,,https://www.sec.gov/Archives/edgar/data/2135058/000197640826000834/0001976408-26-000834-index.htm,LOW
 2026-09-10T20:43:04+00:00,FORM_144,,Par Pacific Holdings Inc,proposed sale $921K,921131,,https://www.sec.gov/Archives/edgar/data/1612285/000162828026061353/0001628280-26-061353-index.htm,LOW
+2026-09-10T20:52:43+00:00,FORM_144,,"Ibotta, Inc.",proposed sale $661K,661216,,https://www.sec.gov/Archives/edgar/data/1873513/000195917326006869/0001959173-26-006869-index.htm,LOW
+2026-09-10T20:52:44+00:00,FORM_144,,PHARVARIS N.V.,proposed sale $1.15M,1149084,,https://www.sec.gov/Archives/edgar/data/1973705/000195004726009312/0001950047-26-009312-index.htm,LOW
+2026-09-10T20:52:44+00:00,FORM_144,,"Ibotta, Inc.",proposed sale $805K,804867,,https://www.sec.gov/Archives/edgar/data/1873513/000195917326006868/0001959173-26-006868-index.htm,LOW
+2026-09-10T20:52:44+00:00,FORM_144,,PHINIA INC.,proposed sale $83K,83372,,https://www.sec.gov/Archives/edgar/data/1981185/000195917326006867/0001959173-26-006867-index.htm,LOW
+2026-09-10T20:52:45+00:00,FORM_144,,"TG THERAPEUTICS, INC.",proposed sale $275K,274794,,https://www.sec.gov/Archives/edgar/data/1407451/000195917326006866/0001959173-26-006866-index.htm,LOW
+2026-09-10T20:52:45+00:00,FORM_144,,VELOCITY FINANCIAL INC,proposed sale $36K,36220,,https://www.sec.gov/Archives/edgar/data/1794812/000195004726009311/0001950047-26-009311-index.htm,LOW
+2026-09-10T20:52:45+00:00,FORM_144,,"Hinge Health, Inc.",proposed sale $5.07M,5073274,,https://www.sec.gov/Archives/edgar/data/1673743/000195004726009310/0001950047-26-009310-index.htm,LOW
+2026-09-10T20:52:46+00:00,FORM_144,,"Hinge Health, Inc.",proposed sale $9.13M,9131000,,https://www.sec.gov/Archives/edgar/data/2063236/000195004726009309/0001950047-26-009309-index.htm,LOW
+2026-09-10T20:52:46+00:00,FORM_144,,"Hinge Health, Inc.",proposed sale $13.70M,13696500,,https://www.sec.gov/Archives/edgar/data/2063236/000195004726009308/0001950047-26-009308-index.htm,LOW
+2026-09-10T20:52:47+00:00,FORM_144,,"WORKDAY, INC.",proposed sale $18.75M,18750119,,https://www.sec.gov/Archives/edgar/data/1327811/000195004726009307/0001950047-26-009307-index.htm,LOW
+2026-09-10T20:52:47+00:00,FORM_144,,"Everpure, Inc.",proposed sale $6.79M,6794200,,https://www.sec.gov/Archives/edgar/data/1474432/000195004726009306/0001950047-26-009306-index.htm,LOW
+2026-09-10T20:52:47+00:00,FORM_144,,YUANBAO INC,proposed sale $4.42M,4418186,,https://www.sec.gov/Archives/edgar/data/2096587/000195004726009305/0001950047-26-009305-index.htm,LOW
+2026-09-10T20:52:48+00:00,FORM_144,,PITNEY BOWES INC,proposed sale $172K,171700,,https://www.sec.gov/Archives/edgar/data/1512662/000195004726009304/0001950047-26-009304-index.htm,LOW
+2026-09-10T20:52:48+00:00,FORM_144,,MannKind Corporation,proposed sale $132K,132218,,https://www.sec.gov/Archives/edgar/data/1712601/000195004726009303/0001950047-26-009303-index.htm,LOW
+2026-09-10T20:52:48+00:00,FORM_144,,"Robinhood Markets, Inc.",proposed sale $5.00M,5000039,,https://www.sec.gov/Archives/edgar/data/1966647/000195004726009302/0001950047-26-009302-index.htm,LOW
+2026-09-10T20:52:49+00:00,FORM_144,,"ADVANCED MICRO DEVICES, INC.",proposed sale $36.48M,36476650,,https://www.sec.gov/Archives/edgar/data/1405109/000195004726009301/0001950047-26-009301-index.htm,LOW
+2026-09-10T20:52:49+00:00,FORM_144,,"ADVANCED MICRO DEVICES, INC.",proposed sale $13.03M,13027375,,https://www.sec.gov/Archives/edgar/data/1405109/000195004726009300/0001950047-26-009300-index.htm,LOW
+2026-09-10T20:52:49+00:00,FORM_144,,DROPBOX INC,proposed sale $13.28M,13275642,,https://www.sec.gov/Archives/edgar/data/1734563/000195004726009299/0001950047-26-009299-index.htm,LOW
+2026-09-10T20:52:50+00:00,FORM_144,,DROPBOX INC,proposed sale $3.37M,3374531,,https://www.sec.gov/Archives/edgar/data/1807571/000195004726009298/0001950047-26-009298-index.htm,LOW
