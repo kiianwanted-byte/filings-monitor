@@ -1780,3 +1780,39 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-10T19:38:20+00:00,FORM_144,,Netflix Inc.,proposed sale $54K,54194,,https://www.sec.gov/Archives/edgar/data/1184230/000162828026061301/0001628280-26-061301-index.htm,LOW
 2026-09-10T19:38:21+00:00,FORM_144,,"Simpson Manufacturing Co., Inc.",proposed sale $605K,605268,,https://www.sec.gov/Archives/edgar/data/1833593/000195917326006858/0001959173-26-006858-index.htm,LOW
 2026-09-10T19:54:09+00:00,FORM_144,,Amalgamated Financial Corp.,proposed sale $953K,953361,,https://www.sec.gov/Archives/edgar/data/1847205/000197407826000351/0001974078-26-000351-index.htm,LOW
+2026-09-10T20:18:20+00:00,FORM_144,,"Groupon, Inc.",proposed sale $245K,244778,,https://www.sec.gov/Archives/edgar/data/1973423/000195917326006862/0001959173-26-006862-index.htm,LOW
+2026-09-10T20:18:20+00:00,FORM_144,,"Armour Residential REIT, Inc.",proposed sale $564K,564416,,https://www.sec.gov/Archives/edgar/data/1428205/000195779926000172/0001957799-26-000172-index.htm,LOW
+2026-09-10T20:18:21+00:00,FORM_144,,"GREIF, INC",proposed sale $499K,498869,,https://www.sec.gov/Archives/edgar/data/1628498/000197248126000282/0001972481-26-000282-index.htm,LOW
+2026-09-10T20:18:21+00:00,FORM_144,,Sono Group N.V.,proposed sale $298K,298123,,https://www.sec.gov/Archives/edgar/data/2027046/000197248126000281/0001972481-26-000281-index.htm,LOW
+2026-09-10T20:18:21+00:00,FORM_144,,"NASDAQ, INC.",proposed sale $106K,105997,,https://www.sec.gov/Archives/edgar/data/1736565/000195004726009284/0001950047-26-009284-index.htm,LOW
+2026-09-10T20:18:22+00:00,FORM_144,,"BLOCK, INC.",proposed sale $470K,470340,,https://www.sec.gov/Archives/edgar/data/1933928/000195004726009283/0001950047-26-009283-index.htm,LOW
+2026-09-10T20:18:22+00:00,FORM_144,,Netscout Systems Inc,proposed sale $411K,411235,,https://www.sec.gov/Archives/edgar/data/1232884/000162828026061340/0001628280-26-061340-index.htm,LOW
+2026-09-10T20:18:22+00:00,FORM_144,,La-Z-Boy Inc,proposed sale $154K,154233,,https://www.sec.gov/Archives/edgar/data/1945571/000162828026061339/0001628280-26-061339-index.htm,LOW
+2026-09-10T20:18:23+00:00,FORM_144,,"PROCORE TECHNOLOGIES, INC.",proposed sale $3.00M,3001511,,https://www.sec.gov/Archives/edgar/data/1805735/000195004726009282/0001950047-26-009282-index.htm,LOW
+2026-09-10T20:18:23+00:00,FORM_144,,"GOLD.COM, INC.",proposed sale $458K,458338,,https://www.sec.gov/Archives/edgar/data/1591588/000195004726009281/0001950047-26-009281-index.htm,LOW
+2026-09-10T20:18:23+00:00,FORM_144,,"FIVE BELOW, INC.",proposed sale $204K,203583,,https://www.sec.gov/Archives/edgar/data/2061853/000195004726009280/0001950047-26-009280-index.htm,LOW
+2026-09-10T20:18:24+00:00,FORM_144,,"CHIME FINANCIAL, INC.",proposed sale $1.77M,1773661,,https://www.sec.gov/Archives/edgar/data/1795586/000195004726009279/0001950047-26-009279-index.htm,LOW
+2026-09-10T20:18:24+00:00,FORM_144,,MODINE MANUFACTURING COMPANY,proposed sale $776K,776371,,https://www.sec.gov/Archives/edgar/data/1729366/000195004726009278/0001950047-26-009278-index.htm,LOW
+2026-09-10T20:18:24+00:00,FORM_144,,ANTERIX INC.,proposed sale $679K,678997,,https://www.sec.gov/Archives/edgar/data/2090798/000195004726009277/0001950047-26-009277-index.htm,LOW
+2026-09-10T20:18:25+00:00,FORM_144,,"Zoom Communications, Inc.",proposed sale $248K,248141,,https://www.sec.gov/Archives/edgar/data/1814012/000195004726009276/0001950047-26-009276-index.htm,LOW
+2026-09-10T20:18:25+00:00,FORM_144,,JAZZ PHARMACEUTICALS PUBLIC LIMITED COMPANY,proposed sale $289K,289128,,https://www.sec.gov/Archives/edgar/data/1783908/000195004726009275/0001950047-26-009275-index.htm,LOW
+2026-09-10T20:18:25+00:00,FORM_144,,"CHIME FINANCIAL, INC.",proposed sale $3.10M,3099035,,https://www.sec.gov/Archives/edgar/data/1795586/000195004726009274/0001950047-26-009274-index.htm,LOW
+2026-09-10T20:18:26+00:00,FORM_144,,"DEXCOM, INC.",proposed sale $303K,302936,,https://www.sec.gov/Archives/edgar/data/1681267/000195004726009273/0001950047-26-009273-index.htm,LOW
+2026-09-10T20:18:26+00:00,FORM_144,,LUMENTUM HOLDINGS INC.,proposed sale $481K,480720,,https://www.sec.gov/Archives/edgar/data/1633978/000195004726009272/0001950047-26-009272-index.htm,LOW
+2026-09-10T20:18:26+00:00,FORM_144,,"DOCUSIGN, INC.",proposed sale $35K,35400,,https://www.sec.gov/Archives/edgar/data/1767659/000195004726009271/0001950047-26-009271-index.htm,LOW
+2026-09-10T20:18:27+00:00,FORM_144,,SEAGATE TECHNOLOGY HOLDINGS PUBLIC LIMITED COMPANY,proposed sale $570K,570239,,https://www.sec.gov/Archives/edgar/data/1801425/000195004726009270/0001950047-26-009270-index.htm,LOW
+2026-09-10T20:18:27+00:00,FORM_144,,"NETAPP, INC.",proposed sale $185K,184740,,https://www.sec.gov/Archives/edgar/data/1911064/000195004726009269/0001950047-26-009269-index.htm,LOW
+2026-09-10T20:18:28+00:00,FORM_144,,"BARK, INC.",proposed sale $24K,24125,,https://www.sec.gov/Archives/edgar/data/1819574/000195004726009268/0001950047-26-009268-index.htm,LOW
+2026-09-10T20:18:28+00:00,FORM_144,,IMAX Corp,proposed sale $1.16M,1160577,,https://www.sec.gov/Archives/edgar/data/1255900/000162828026061323/0001628280-26-061323-index.htm,LOW
+2026-09-10T20:18:28+00:00,FORM_144,,"OOMA, INC.",proposed sale $58K,57546,,https://www.sec.gov/Archives/edgar/data/1932872/000195004726009267/0001950047-26-009267-index.htm,LOW
+2026-09-10T20:18:29+00:00,FORM_144,,THE MARZETTI COMPANY,proposed sale $101K,100512,,https://www.sec.gov/Archives/edgar/data/1974988/000195004726009266/0001950047-26-009266-index.htm,LOW
+2026-09-10T20:18:29+00:00,FORM_144,,Oportun Financial Corp,proposed sale $22K,22075,,https://www.sec.gov/Archives/edgar/data/1853965/000192109426001006/0001921094-26-001006-index.htm,LOW
+2026-09-10T20:18:29+00:00,FORM_144,,"HOULIHAN LOKEY, INC.",proposed sale $140K,140145,,https://www.sec.gov/Archives/edgar/data/1649160/000195004726009264/0001950047-26-009264-index.htm,LOW
+2026-09-10T20:18:30+00:00,FORM_144,,LIGAND PHARMACEUTICALS INCORPORATED,proposed sale $342K,342000,,https://www.sec.gov/Archives/edgar/data/1994049/000195004726009263/0001950047-26-009263-index.htm,LOW
+2026-09-10T20:18:30+00:00,FORM_144,,Kanzhun Limited,proposed sale $3.09M,3085440,,https://www.sec.gov/Archives/edgar/data/1982580/000110465926106700/0001104659-26-106700-index.htm,LOW
+2026-09-10T20:18:31+00:00,FORM_144,,Unum Group,proposed sale $206K,206361,,https://www.sec.gov/Archives/edgar/data/1943150/000195917326006861/0001959173-26-006861-index.htm,LOW
+2026-09-10T20:18:31+00:00,FORM_144,,Oportun Financial Corp,proposed sale $33K,32927,,https://www.sec.gov/Archives/edgar/data/1985638/000192109426001005/0001921094-26-001005-index.htm,LOW
+2026-09-10T20:18:32+00:00,FORM_144,,REALTY INCOME CORP,proposed sale $209K,209010,,https://www.sec.gov/Archives/edgar/data/1403051/000196530126000139/0001965301-26-000139-index.htm,LOW
+2026-09-10T20:18:32+00:00,FORM_144,,TFS Financial CORP,proposed sale $170K,170400,,https://www.sec.gov/Archives/edgar/data/1921069/000195917326006860/0001959173-26-006860-index.htm,LOW
+2026-09-10T20:18:32+00:00,FORM_144,,TENET HEALTHCARE CORP,proposed sale $2.63M,2634155,,https://www.sec.gov/Archives/edgar/data/1190100/000195917326006859/0001959173-26-006859-index.htm,LOW
+2026-09-10T20:18:33+00:00,FORM_144,,CME Group,proposed sale $4.12M,4125000,,https://www.sec.gov/Archives/edgar/data/1212809/000162828026061313/0001628280-26-061313-index.htm,LOW
