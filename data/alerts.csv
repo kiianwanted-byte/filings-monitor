@@ -1721,3 +1721,16 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-09T22:50:51+00:00,INSIDER_CLUSTER,PRTS,"CarParts.com, Inc.",Huffaker Michael $748K,748462,5,https://www.sec.gov/Archives/edgar/data/1956633/000114036126036090/0001140361-26-036090-index.htm,HIGH
 2026-09-09T22:59:21+00:00,FORM_144,,DORIAN LPG LTD.,proposed sale $270K,270040,,https://www.sec.gov/Archives/edgar/data/1638233/000091957426006219/0000919574-26-006219-index.htm,LOW
 2026-09-09T23:12:53+00:00,FORM_144,,"Getty Images Holdings, Inc.",proposed sale $910,910,,https://www.sec.gov/Archives/edgar/data/2068341/000195004726009259/0001950047-26-009259-index.htm,LOW
+2026-09-10T00:20:58+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $28.14M,28141348,,https://www.sec.gov/Archives/edgar/data/1571996/000119312526386822/0001193125-26-386822-index.htm,LOW
+2026-09-10T00:20:58+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $576K,575522,,https://www.sec.gov/Archives/edgar/data/1672565/000119312526386821/0001193125-26-386821-index.htm,LOW
+2026-09-10T00:20:59+00:00,FORM_144,,Elastic N.V.,proposed sale $577K,577344,,https://www.sec.gov/Archives/edgar/data/1753445/000112329226001269/0001123292-26-001269-index.htm,LOW
+2026-09-10T00:20:59+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $14.75M,14750570,,https://www.sec.gov/Archives/edgar/data/1737659/000119312526386820/0001193125-26-386820-index.htm,LOW
+2026-09-10T00:21:00+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $259K,259465,,https://www.sec.gov/Archives/edgar/data/1735863/000119312526386817/0001193125-26-386817-index.htm,LOW
+2026-09-10T00:21:00+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $25.68M,25677492,,https://www.sec.gov/Archives/edgar/data/1767114/000119312526386815/0001193125-26-386815-index.htm,LOW
+2026-09-10T00:21:00+00:00,FORM_144,,Elastic N.V.,proposed sale $135K,135360,,https://www.sec.gov/Archives/edgar/data/1707753/000112329226001268/0001123292-26-001268-index.htm,LOW
+2026-09-10T00:21:01+00:00,FORM_144,,Elastic N.V.,proposed sale $849K,849118,,https://www.sec.gov/Archives/edgar/data/2003569/000112329226001267/0001123292-26-001267-index.htm,LOW
+2026-09-10T00:21:01+00:00,FORM_144,,Elastic N.V.,proposed sale $481K,481485,,https://www.sec.gov/Archives/edgar/data/1927549/000112329226001266/0001123292-26-001266-index.htm,LOW
+2026-09-10T00:21:01+00:00,FORM_144,,Elastic N.V.,proposed sale $2.57M,2565613,,https://www.sec.gov/Archives/edgar/data/1829070/000112329226001265/0001123292-26-001265-index.htm,LOW
+2026-09-10T00:21:02+00:00,FORM_144,,Elastic N.V.,proposed sale $787K,786617,,https://www.sec.gov/Archives/edgar/data/1894706/000112329226001264/0001123292-26-001264-index.htm,LOW
+2026-09-10T00:21:02+00:00,FORM_144,,"Figure Technology Solutions, Inc.",proposed sale $114.81M,114810000,,https://www.sec.gov/Archives/edgar/data/2142340/000162828026061202/0001628280-26-061202-index.htm,LOW
+2026-09-10T00:21:02+00:00,FORM_144,,"Figure Technology Solutions, Inc.",proposed sale $5.42M,5423930,,https://www.sec.gov/Archives/edgar/data/2064124/000162828026061201/0001628280-26-061201-index.htm,LOW

@@ -379,3 +379,5 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-09T23:12:47+00:00,2026-09-04,ENHA,Enhanced Group Inc.,Apeiron Investment Group Ltd.,"Director, 10% owner",179713,1.59,286348,0.5,0001193125-26-386771
 2026-09-09T23:12:49+00:00,2026-09-09,MDRR,"Medalist Diversified, Inc.",Winn Charles Brent Jr.,CHIEF FINANCIAL OFFICER,49,12.00,588,0.1,0001808471-26-000025
 2026-09-09T23:24:48+00:00,2026-09-04,SLGL,Sol-Gel Technologies Ltd.,Opaleye Management Inc.,10% owner,9976,68.88,687159,1.9,0001493152-26-042023
+2026-09-10T00:20:55+00:00,2026-09-04,BCAL,California BanCorp \ CA,Muller Frank L.,Director,450,22.13,9958,23.4,0001807551-26-000004
+2026-09-10T00:20:56+00:00,2026-09-04,KDOZF,KIDOZ INC.,Williams Tryon M,"Director, Chairman, 10% owner",15000,0.10,1538,0.1,0001278521-26-000012
