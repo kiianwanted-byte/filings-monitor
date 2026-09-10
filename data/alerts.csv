@@ -1877,3 +1877,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-10T21:25:48+00:00,FORM_144,,"IonQ, Inc.",proposed sale $254K,253504,,https://www.sec.gov/Archives/edgar/data/2013580/000119312526388052/0001193125-26-388052-index.htm,LOW
 2026-09-10T21:35:43+00:00,FORM_144,,"Health Catalyst, Inc.",proposed sale $59K,59023,,https://www.sec.gov/Archives/edgar/data/2086403/000162828026061426/0001628280-26-061426-index.htm,LOW
 2026-09-10T21:35:43+00:00,FORM_144,,DORIAN LPG LTD.,proposed sale $650K,649585,,https://www.sec.gov/Archives/edgar/data/1638233/000195004726009317/0001950047-26-009317-index.htm,LOW
+2026-09-10T21:46:03+00:00,FORM_144,,"MarketAxess Holdings, Inc.",proposed sale $1.01M,1006335,,https://www.sec.gov/Archives/edgar/data/1591033/000196858226000946/0001968582-26-000946-index.htm,LOW
