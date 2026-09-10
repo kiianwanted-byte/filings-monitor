@@ -1868,3 +1868,10 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-10T21:14:18+00:00,FORM_144,,"Fluent, Inc.",proposed sale $75K,75000,,https://www.sec.gov/Archives/edgar/data/1950328/000143774926030094/0001437749-26-030094-index.htm,LOW
 2026-09-10T21:14:19+00:00,FORM_144,,TransUnion,proposed sale $1.79M,1793099,,https://www.sec.gov/Archives/edgar/data/1687957/000195917326006870/0001959173-26-006870-index.htm,LOW
 2026-09-10T21:14:19+00:00,FORM_144,,"PACS Group, Inc.",proposed sale $11.21M,11209985,,https://www.sec.gov/Archives/edgar/data/2014386/000196922326001015/0001969223-26-001015-index.htm,LOW
+2026-09-10T21:25:46+00:00,FORM_144,,AARDVARK THERAPEUTICS INC,proposed sale $211K,210787,,https://www.sec.gov/Archives/edgar/data/2045377/000195004726009316/0001950047-26-009316-index.htm,LOW
+2026-09-10T21:25:46+00:00,FORM_144,,"Omada Health, Inc.",proposed sale $146K,146200,,https://www.sec.gov/Archives/edgar/data/2067605/000195004726009315/0001950047-26-009315-index.htm,LOW
+2026-09-10T21:25:46+00:00,FORM_144,,"Omada Health, Inc.",proposed sale $87K,86774,,https://www.sec.gov/Archives/edgar/data/2069137/000195004726009314/0001950047-26-009314-index.htm,LOW
+2026-09-10T21:25:47+00:00,FORM_144,,"IonQ, Inc.",proposed sale $668K,668328,,https://www.sec.gov/Archives/edgar/data/1824920/000119312526388055/0001193125-26-388055-index.htm,LOW
+2026-09-10T21:25:47+00:00,FORM_144,,"IonQ, Inc.",proposed sale $260K,259926,,https://www.sec.gov/Archives/edgar/data/1824920/000119312526388054/0001193125-26-388054-index.htm,LOW
+2026-09-10T21:25:47+00:00,FORM_144,,"IonQ, Inc.",proposed sale $185K,184744,,https://www.sec.gov/Archives/edgar/data/1824920/000119312526388053/0001193125-26-388053-index.htm,LOW
+2026-09-10T21:25:48+00:00,FORM_144,,"IonQ, Inc.",proposed sale $254K,253504,,https://www.sec.gov/Archives/edgar/data/2013580/000119312526388052/0001193125-26-388052-index.htm,LOW
