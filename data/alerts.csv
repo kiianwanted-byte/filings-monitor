@@ -1755,3 +1755,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-10T14:35:06+00:00,FORM_144,,INSMED Inc,proposed sale $3.10M,3099729,,https://www.sec.gov/Archives/edgar/data/1609305/000195779926000171/0001957799-26-000171-index.htm,LOW
 2026-09-10T14:48:54+00:00,FORM_144,,BOX INC,proposed sale $587K,586868,,https://www.sec.gov/Archives/edgar/data/1606410/000195917326006848/0001959173-26-006848-index.htm,LOW
 2026-09-10T14:59:09+00:00,FORM_144,,Wayfair Inc.,proposed sale $490K,490400,,https://www.sec.gov/Archives/edgar/data/1620093/000195917326006849/0001959173-26-006849-index.htm,LOW
+2026-09-10T15:14:08+00:00,INSIDER_CLUSTER,ATLO,AMES NATIONAL CORP,Baker Jeffery C $10K,9564,1,https://www.sec.gov/Archives/edgar/data/1917933/000191793326000002/0001917933-26-000002-index.htm,HIGH
