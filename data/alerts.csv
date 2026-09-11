@@ -1925,3 +1925,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-11T16:10:26+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $3.29M,3285330,,https://www.sec.gov/Archives/edgar/data/1680902/000195917326006882/0001959173-26-006882-index.htm,LOW
 2026-09-11T16:39:18+00:00,FORM_144,,NETSCOUT SYSTEMS INC,proposed sale $266K,266000,,https://www.sec.gov/Archives/edgar/data/1570744/000195917326006884/0001959173-26-006884-index.htm,LOW
 2026-09-11T16:39:19+00:00,FORM_144,,PLUG POWER INC,proposed sale $30K,29553,,https://www.sec.gov/Archives/edgar/data/2085249/000100027526000107/0001000275-26-000107-index.htm,LOW
+2026-09-11T16:49:58+00:00,INSIDER_CLUSTER,BRID,BRIDGFORD FOODS CORP,Bridgford Allan Jr. $3K,2716,2,https://www.sec.gov/Archives/edgar/data/1534107/000149315226042340/0001493152-26-042340-index.htm,HIGH
+2026-09-11T16:50:00+00:00,FORM_144,,International Stem Cell CORP,proposed sale $12K,11808,,https://www.sec.gov/Archives/edgar/data/1355790/000194984626000580/0001949846-26-000580-index.htm,LOW
+2026-09-11T16:50:01+00:00,FORM_144,,"Accel Entertainment, Inc.",proposed sale $475K,475000,,https://www.sec.gov/Archives/edgar/data/1794002/000162828026061487/0001628280-26-061487-index.htm,LOW
+2026-09-11T16:50:01+00:00,FORM_144,,"American Financial Group, Inc.",proposed sale $198K,198310,,https://www.sec.gov/Archives/edgar/data/1105805/000119312526388927/0001193125-26-388927-index.htm,LOW
