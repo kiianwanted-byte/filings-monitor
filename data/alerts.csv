@@ -1934,3 +1934,9 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-11T17:23:09+00:00,FORM_144,,"Inhibrx Biosciences, Inc.",proposed sale $56K,55887,,https://www.sec.gov/Archives/edgar/data/2007919/000195917326006886/0001959173-26-006886-index.htm,LOW
 2026-09-11T17:23:09+00:00,FORM_144,,"Accel Entertainmet, Inc.",proposed sale $475K,475000,,https://www.sec.gov/Archives/edgar/data/1794002/000162828026061492/0001628280-26-061492-index.htm,LOW
 2026-09-11T17:43:53+00:00,INSIDER_CLUSTER,GROV,"Grove Collaborative Holdings, Inc.",Landesberg Stuart $5K,5067,2,https://www.sec.gov/Archives/edgar/data/1930721/000184176126000098/0001841761-26-000098-index.htm,HIGH
+2026-09-11T18:17:13+00:00,INSIDER_BUY,TNON,"Tenon Medical, Inc.",HRT FINANCIAL LP $383K,382985,3,https://www.sec.gov/Archives/edgar/data/1560293/000147559726000240/0001475597-26-000240-index.htm,MEDIUM
+2026-09-11T18:17:21+00:00,FORM_144,,PHINIA INC.,proposed sale $203K,202942,,https://www.sec.gov/Archives/edgar/data/1968915/000195917326006891/0001959173-26-006891-index.htm,LOW
+2026-09-11T18:17:22+00:00,FORM_144,,LPL Financial Holdings Inc.,proposed sale $153K,153049,,https://www.sec.gov/Archives/edgar/data/2059598/000195917326006890/0001959173-26-006890-index.htm,LOW
+2026-09-11T18:17:22+00:00,FORM_144,,COMMVAULT SYSTEMS INC,proposed sale $201K,201443,,https://www.sec.gov/Archives/edgar/data/1669918/000195917326006889/0001959173-26-006889-index.htm,LOW
+2026-09-11T18:17:22+00:00,FORM_144,,OppFi Inc.,proposed sale $69K,69365,,https://www.sec.gov/Archives/edgar/data/1874038/000195917326006888/0001959173-26-006888-index.htm,LOW
+2026-09-11T18:17:23+00:00,FORM_144,,"Warner Bros. Discovery, Inc.",proposed sale $188K,188002,,https://www.sec.gov/Archives/edgar/data/1437107/000195917326006887/0001959173-26-006887-index.htm,LOW
