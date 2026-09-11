@@ -2019,3 +2019,20 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-11T20:35:24+00:00,FORM_144,,Oportun Financial Corp,proposed sale $22K,22293,,https://www.sec.gov/Archives/edgar/data/1853965/000192109426001007/0001921094-26-001007-index.htm,LOW
 2026-09-11T20:35:25+00:00,FORM_144,,"LINCOLN ELECTRIC HOLDINGS, INC.",proposed sale $3.45M,3450833,,https://www.sec.gov/Archives/edgar/data/1747301/000195004726009343/0001950047-26-009343-index.htm,LOW
 2026-09-11T20:35:25+00:00,FORM_144,,Varex Imaging Corp,proposed sale $2.40M,2400074,,https://www.sec.gov/Archives/edgar/data/1681622/000195917326006899/0001959173-26-006899-index.htm,LOW
+2026-09-11T20:46:59+00:00,FORM_144,,"ALEXANDRIA REAL ESTATE EQUITIES, INC.",proposed sale $849K,849125,,https://www.sec.gov/Archives/edgar/data/1919198/000195917326006905/0001959173-26-006905-index.htm,LOW
+2026-09-11T20:47:00+00:00,FORM_144,,"TELEPHONE AND DATA SYSTEMS, INC.",proposed sale $2.89M,2888482,,https://www.sec.gov/Archives/edgar/data/1051512/000195004726009370/0001950047-26-009370-index.htm,LOW
+2026-09-11T20:47:01+00:00,FORM_144,,Amalgamated Financial Corp.,proposed sale $4.00M,3998630,,https://www.sec.gov/Archives/edgar/data/2008869/000090266426003794/0000902664-26-003794-index.htm,LOW
+2026-09-11T20:47:01+00:00,FORM_144,,"Delek US Holdings, Inc.",proposed sale $407K,407096,,https://www.sec.gov/Archives/edgar/data/2130310/000195917326006904/0001959173-26-006904-index.htm,LOW
+2026-09-11T20:47:02+00:00,FORM_144,,Bandwidth Inc.,proposed sale $369K,368666,,https://www.sec.gov/Archives/edgar/data/1842470/000184247026000031/0001842470-26-000031-index.htm,LOW
+2026-09-11T20:47:02+00:00,FORM_144,,"HAWKEYE 360, INC.",proposed sale $821K,820520,,https://www.sec.gov/Archives/edgar/data/1750704/000195004726009369/0001950047-26-009369-index.htm,LOW
+2026-09-11T20:47:02+00:00,FORM_144,,"Blend Labs, Inc.",proposed sale $107K,106852,,https://www.sec.gov/Archives/edgar/data/2050301/000192109426001010/0001921094-26-001010-index.htm,LOW
+2026-09-11T20:47:03+00:00,FORM_144,,"MYOMO, INC.",proposed sale $20K,20136,,https://www.sec.gov/Archives/edgar/data/1853204/000195004726009368/0001950047-26-009368-index.htm,LOW
+2026-09-11T20:47:03+00:00,FORM_144,,"Groupon, Inc.",proposed sale $249K,249024,,https://www.sec.gov/Archives/edgar/data/1973423/000195917326006903/0001959173-26-006903-index.htm,LOW
+2026-09-11T20:47:04+00:00,FORM_144,,GARRETT MOTION INC,proposed sale $365K,364808,,https://www.sec.gov/Archives/edgar/data/1860772/000195004726009367/0001950047-26-009367-index.htm,LOW
+2026-09-11T20:47:04+00:00,FORM_144,,"SCANSOURCE, INC.",proposed sale $3.33M,3328776,,https://www.sec.gov/Archives/edgar/data/1251456/000196430626000438/0001964306-26-000438-index.htm,LOW
+2026-09-11T20:47:04+00:00,FORM_144,,"RIVIAN AUTOMOTIVE, INC.",proposed sale $244K,244390,,https://www.sec.gov/Archives/edgar/data/1874178/000195004726009366/0001950047-26-009366-index.htm,LOW
+2026-09-11T20:47:05+00:00,FORM_144,,Netskope Inc,proposed sale $158K,158252,,https://www.sec.gov/Archives/edgar/data/2063196/000162828026061575/0001628280-26-061575-index.htm,LOW
+2026-09-11T20:47:05+00:00,FORM_144,,"Heartflow, Inc.",proposed sale $1.49M,1487459,,https://www.sec.gov/Archives/edgar/data/2079946/000195917326006902/0001959173-26-006902-index.htm,LOW
+2026-09-11T20:47:06+00:00,FORM_144,,TEEKAY CORPORATION LTD,proposed sale $1.90M,1897596,,https://www.sec.gov/Archives/edgar/data/1976945/000195004726009365/0001950047-26-009365-index.htm,LOW
+2026-09-11T20:47:06+00:00,FORM_144,,"PALVELLA THERAPEUTICS, INC.",proposed sale $4.14M,4135725,,https://www.sec.gov/Archives/edgar/data/1583648/000196794026000050/0001967940-26-000050-index.htm,LOW
+2026-09-11T20:47:07+00:00,FORM_144,,"SCANSOURCE, INC.",proposed sale $174K,174000,,https://www.sec.gov/Archives/edgar/data/1438831/000196430626000437/0001964306-26-000437-index.htm,LOW
