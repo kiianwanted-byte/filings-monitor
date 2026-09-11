@@ -1989,3 +1989,33 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-11T20:23:42+00:00,FORM_144,,VIAVI SOLUTIONS INC.,proposed sale $430K,429864,,https://www.sec.gov/Archives/edgar/data/1619901/000195004726009327/0001950047-26-009327-index.htm,LOW
 2026-09-11T20:23:42+00:00,FORM_144,,"TRUPANION, INC.",proposed sale $25K,25000,,https://www.sec.gov/Archives/edgar/data/1657025/000195004726009326/0001950047-26-009326-index.htm,LOW
 2026-09-11T20:23:42+00:00,FORM_144,,"MAGNITE, INC.",proposed sale $336K,335928,,https://www.sec.gov/Archives/edgar/data/1700262/000195004726009325/0001950047-26-009325-index.htm,LOW
+2026-09-11T20:35:15+00:00,FORM_144,,DROPBOX INC,proposed sale $1.01M,1009440,,https://www.sec.gov/Archives/edgar/data/2060166/000195004726009364/0001950047-26-009364-index.htm,LOW
+2026-09-11T20:35:15+00:00,FORM_144,,"8x8, INC.",proposed sale $17K,17168,,https://www.sec.gov/Archives/edgar/data/1956959/000195004726009363/0001950047-26-009363-index.htm,LOW
+2026-09-11T20:35:16+00:00,FORM_144,,"BLOCK, INC.",proposed sale $480K,479760,,https://www.sec.gov/Archives/edgar/data/1933928/000195004726009362/0001950047-26-009362-index.htm,LOW
+2026-09-11T20:35:16+00:00,FORM_144,,"ANI PHARMACEUTICALS, INC",proposed sale $71K,71460,,https://www.sec.gov/Archives/edgar/data/1819879/000195004726009361/0001950047-26-009361-index.htm,LOW
+2026-09-11T20:35:16+00:00,FORM_144,,"MADRIGAL PHARMACEUTICALS, INC.",proposed sale $2.78M,2783419,,https://www.sec.gov/Archives/edgar/data/1518611/000195004726009360/0001950047-26-009360-index.htm,LOW
+2026-09-11T20:35:17+00:00,FORM_144,,"Datadog, Inc.",proposed sale $2.82M,2815844,,https://www.sec.gov/Archives/edgar/data/1783061/000195004726009359/0001950047-26-009359-index.htm,LOW
+2026-09-11T20:35:17+00:00,FORM_144,,"8X8, INC.",proposed sale $194K,194241,,https://www.sec.gov/Archives/edgar/data/1532808/000195004726009358/0001950047-26-009358-index.htm,LOW
+2026-09-11T20:35:18+00:00,FORM_144,,SEAGATE TECHNOLOGY HLDNGS PLC,proposed sale $43.55M,43545940,,https://www.sec.gov/Archives/edgar/data/1764650/000195004726009357/0001950047-26-009357-index.htm,LOW
+2026-09-11T20:35:18+00:00,FORM_144,,LOGITECH INTERNATIONAL S.A.,proposed sale $1.65M,1648448,,https://www.sec.gov/Archives/edgar/data/1475223/000195004726009356/0001950047-26-009356-index.htm,LOW
+2026-09-11T20:35:18+00:00,FORM_144,,"Axon Enterprise, Inc.",proposed sale $487K,486990,,https://www.sec.gov/Archives/edgar/data/2104464/000195004726009355/0001950047-26-009355-index.htm,LOW
+2026-09-11T20:35:19+00:00,FORM_144,,"Revolution Medicines, Inc.",proposed sale $18.82M,18816178,,https://www.sec.gov/Archives/edgar/data/1628171/000195004726009354/0001950047-26-009354-index.htm,LOW
+2026-09-11T20:35:19+00:00,FORM_144,,Viking Holdings Ltd,proposed sale $1.68M,1680200,,https://www.sec.gov/Archives/edgar/data/2028238/000195004726009353/0001950047-26-009353-index.htm,LOW
+2026-09-11T20:35:19+00:00,FORM_144,,"Datadog, Inc.",proposed sale $2.60M,2596341,,https://www.sec.gov/Archives/edgar/data/1903980/000195004726009352/0001950047-26-009352-index.htm,LOW
+2026-09-11T20:35:20+00:00,FORM_144,,UIPATH INC,proposed sale $1.63M,1627491,,https://www.sec.gov/Archives/edgar/data/1855778/000195004726009351/0001950047-26-009351-index.htm,LOW
+2026-09-11T20:35:20+00:00,FORM_144,,"CISCO SYSTEMS, INC.",proposed sale $193K,192854,,https://www.sec.gov/Archives/edgar/data/2080779/000195004726009350/0001950047-26-009350-index.htm,LOW
+2026-09-11T20:35:20+00:00,FORM_144,,SOPHIA GENETICS SA,proposed sale $47K,46938,,https://www.sec.gov/Archives/edgar/data/2006414/000195004726009349/0001950047-26-009349-index.htm,LOW
+2026-09-11T20:35:21+00:00,FORM_144,,"Hinge Health, Inc.",proposed sale $35.30M,35304000,,https://www.sec.gov/Archives/edgar/data/2062781/000195004726009348/0001950047-26-009348-index.htm,LOW
+2026-09-11T20:35:21+00:00,FORM_144,,"Accendra Health, Inc.",proposed sale $11.58M,11584899,,https://www.sec.gov/Archives/edgar/data/1409751/000119312526389327/0001193125-26-389327-index.htm,LOW
+2026-09-11T20:35:21+00:00,FORM_144,,"CYTOKINETICS, INCORPORATED",proposed sale $147K,147240,,https://www.sec.gov/Archives/edgar/data/1585160/000195004726009347/0001950047-26-009347-index.htm,LOW
+2026-09-11T20:35:21+00:00,FORM_144,,"Okta, Inc.",proposed sale $436K,436159,,https://www.sec.gov/Archives/edgar/data/2053652/000195004726009346/0001950047-26-009346-index.htm,LOW
+2026-09-11T20:35:22+00:00,FORM_144,,"NATERA, INC.",proposed sale $65.23M,65228000,,https://www.sec.gov/Archives/edgar/data/1646382/000195004726009345/0001950047-26-009345-index.htm,LOW
+2026-09-11T20:35:22+00:00,FORM_144,,"Cinemark Holdings, Inc.",proposed sale $2.04M,2040127,,https://www.sec.gov/Archives/edgar/data/1428595/000192109426001009/0001921094-26-001009-index.htm,LOW
+2026-09-11T20:35:23+00:00,FORM_144,,Integer Holdings Corp,proposed sale $3.98M,3980348,,https://www.sec.gov/Archives/edgar/data/1726955/000194984626000581/0001949846-26-000581-index.htm,LOW
+2026-09-11T20:35:23+00:00,FORM_144,,"Sprout Social, Inc.",proposed sale $431K,430775,,https://www.sec.gov/Archives/edgar/data/1791816/000195917326006901/0001959173-26-006901-index.htm,LOW
+2026-09-11T20:35:23+00:00,FORM_144,,"CHIME FINANCIAL, INC.",proposed sale $662K,661866,,https://www.sec.gov/Archives/edgar/data/1820725/000195004726009344/0001950047-26-009344-index.htm,LOW
+2026-09-11T20:35:24+00:00,FORM_144,,"Ulta Beauty, Inc.",proposed sale $322K,322388,,https://www.sec.gov/Archives/edgar/data/1411457/000192109426001008/0001921094-26-001008-index.htm,LOW
+2026-09-11T20:35:24+00:00,FORM_144,,"Korro Bio, Inc.",proposed sale $69,68,,https://www.sec.gov/Archives/edgar/data/2053835/000195917326006900/0001959173-26-006900-index.htm,LOW
+2026-09-11T20:35:24+00:00,FORM_144,,Oportun Financial Corp,proposed sale $22K,22293,,https://www.sec.gov/Archives/edgar/data/1853965/000192109426001007/0001921094-26-001007-index.htm,LOW
+2026-09-11T20:35:25+00:00,FORM_144,,"LINCOLN ELECTRIC HOLDINGS, INC.",proposed sale $3.45M,3450833,,https://www.sec.gov/Archives/edgar/data/1747301/000195004726009343/0001950047-26-009343-index.htm,LOW
+2026-09-11T20:35:25+00:00,FORM_144,,Varex Imaging Corp,proposed sale $2.40M,2400074,,https://www.sec.gov/Archives/edgar/data/1681622/000195917326006899/0001959173-26-006899-index.htm,LOW
