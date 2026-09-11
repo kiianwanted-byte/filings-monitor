@@ -2062,3 +2062,10 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-11T22:42:16+00:00,FORM_144,,Cimpress plc,proposed sale $2.37M,2373560,,https://www.sec.gov/Archives/edgar/data/1337084/000195824426000588/0001958244-26-000588-index.htm,LOW
 2026-09-11T22:50:04+00:00,FORM_144,,"Uber Technologies, Inc.",proposed sale $11.41M,11408391,,https://www.sec.gov/Archives/edgar/data/1775297/000196858226000963/0001968582-26-000963-index.htm,LOW
 2026-09-11T22:50:05+00:00,FORM_144,,MOHAWK INDUSTRIES INC,proposed sale $436K,435568,,https://www.sec.gov/Archives/edgar/data/925177/000001179026000028/0000011790-26-000028-index.htm,LOW
+2026-09-11T22:58:02+00:00,FORM_144,,"Weyco Group, Inc.",proposed sale $14K,13733,,https://www.sec.gov/Archives/edgar/data/1692581/000195824426000594/0001958244-26-000594-index.htm,LOW
+2026-09-11T22:58:03+00:00,FORM_144,,"Castle Biosciences, Inc.",proposed sale $938K,938022,,https://www.sec.gov/Archives/edgar/data/1447362/000195824426000593/0001958244-26-000593-index.htm,LOW
+2026-09-11T22:58:03+00:00,FORM_144,,QUALCOMM Incorporated,proposed sale $455K,454925,,https://www.sec.gov/Archives/edgar/data/1786420/000195824426000592/0001958244-26-000592-index.htm,LOW
+2026-09-11T22:58:03+00:00,FORM_144,,"First Interstate BancSystem, Inc.",proposed sale $554K,553800,,https://www.sec.gov/Archives/edgar/data/1908962/000195824426000591/0001958244-26-000591-index.htm,LOW
+2026-09-11T22:58:04+00:00,FORM_144,,"L3Harris Technologies, Inc.",proposed sale $4.42M,4419720,,https://www.sec.gov/Archives/edgar/data/1194001/000195824426000590/0001958244-26-000590-index.htm,LOW
+2026-09-11T22:58:04+00:00,FORM_144,,"SentinelOne, Inc.",proposed sale $2.27M,2269077,,https://www.sec.gov/Archives/edgar/data/1866222/000195824426000589/0001958244-26-000589-index.htm,LOW
+2026-09-11T22:58:05+00:00,FORM_144,,MOHAWK INDUSTRIES INC,proposed sale $40K,40081,,https://www.sec.gov/Archives/edgar/data/925177/000001179026000029/0000011790-26-000029-index.htm,LOW
