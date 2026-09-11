@@ -2036,3 +2036,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-11T20:47:06+00:00,FORM_144,,TEEKAY CORPORATION LTD,proposed sale $1.90M,1897596,,https://www.sec.gov/Archives/edgar/data/1976945/000195004726009365/0001950047-26-009365-index.htm,LOW
 2026-09-11T20:47:06+00:00,FORM_144,,"PALVELLA THERAPEUTICS, INC.",proposed sale $4.14M,4135725,,https://www.sec.gov/Archives/edgar/data/1583648/000196794026000050/0001967940-26-000050-index.htm,LOW
 2026-09-11T20:47:07+00:00,FORM_144,,"SCANSOURCE, INC.",proposed sale $174K,174000,,https://www.sec.gov/Archives/edgar/data/1438831/000196430626000437/0001964306-26-000437-index.htm,LOW
+2026-09-11T20:56:04+00:00,FORM_144,,"Heartflow, Inc.",proposed sale $194K,194500,,https://www.sec.gov/Archives/edgar/data/1900415/000195917326006906/0001959173-26-006906-index.htm,LOW
+2026-09-11T20:56:05+00:00,FORM_144,,AARDVARK THERAPEUTICS INC,proposed sale $170K,169894,,https://www.sec.gov/Archives/edgar/data/2045377/000195004726009373/0001950047-26-009373-index.htm,LOW
+2026-09-11T20:56:05+00:00,FORM_144,,"Guardant Health, Inc.",proposed sale $632K,632193,,https://www.sec.gov/Archives/edgar/data/1927831/000192109426001011/0001921094-26-001011-index.htm,LOW
+2026-09-11T20:56:05+00:00,FORM_144,,ADI GLOBAL DISTRIBUTION INC.,proposed sale $521K,520552,,https://www.sec.gov/Archives/edgar/data/2105139/000195004726009372/0001950047-26-009372-index.htm,LOW
+2026-09-11T20:56:06+00:00,FORM_144,,"BARK, INC.",proposed sale $34K,33944,,https://www.sec.gov/Archives/edgar/data/1819574/000195004726009371/0001950047-26-009371-index.htm,LOW
