@@ -1950,3 +1950,18 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-11T19:30:02+00:00,FORM_144,,Fortrea Holdings Inc.,proposed sale $18K,17692,,https://www.sec.gov/Archives/edgar/data/1979544/000195917326006895/0001959173-26-006895-index.htm,LOW
 2026-09-11T19:40:57+00:00,FORM_144,,TTM TECHNOLOGIES INC,proposed sale $99K,99122,,https://www.sec.gov/Archives/edgar/data/1982399/000195917326006896/0001959173-26-006896-index.htm,LOW
 2026-09-11T19:48:52+00:00,FORM_144,,GEO GROUP INC,proposed sale $371K,370931,,https://www.sec.gov/Archives/edgar/data/1943913/000195917326006897/0001959173-26-006897-index.htm,LOW
+2026-09-11T20:09:14+00:00,FORM_144,,LUMENTUM HOLDINGS INC.,proposed sale $472K,472205,,https://www.sec.gov/Archives/edgar/data/1633978/000195004726009324/0001950047-26-009324-index.htm,LOW
+2026-09-11T20:09:15+00:00,FORM_144,,"HAMILTON INSURANCE GROUP, LTD.",proposed sale $989K,988582,,https://www.sec.gov/Archives/edgar/data/2094343/000195004726009323/0001950047-26-009323-index.htm,LOW
+2026-09-11T20:09:15+00:00,FORM_144,,GATX CORPORATION,proposed sale $444K,443991,,https://www.sec.gov/Archives/edgar/data/1989421/000195004726009322/0001950047-26-009322-index.htm,LOW
+2026-09-11T20:09:15+00:00,FORM_144,,"Sera Prognostics, Inc.",proposed sale $972,972,,https://www.sec.gov/Archives/edgar/data/2091798/000209179826000007/0002091798-26-000007-index.htm,LOW
+2026-09-11T20:09:16+00:00,FORM_144,,"Sera Prognostics, Inc.",proposed sale $4K,3600,,https://www.sec.gov/Archives/edgar/data/2072324/000207232426000009/0002072324-26-000009-index.htm,LOW
+2026-09-11T20:09:16+00:00,FORM_144,,"Sera Prognostics, Inc.",proposed sale $3K,3018,,https://www.sec.gov/Archives/edgar/data/1979974/000197997426000014/0001979974-26-000014-index.htm,LOW
+2026-09-11T20:09:16+00:00,FORM_144,,"Sera Prognostics, Inc.",proposed sale $14K,14045,,https://www.sec.gov/Archives/edgar/data/1891299/000189129926000015/0001891299-26-000015-index.htm,LOW
+2026-09-11T20:09:17+00:00,FORM_144,,"Sera Prognostics, Inc.",proposed sale $4K,4380,,https://www.sec.gov/Archives/edgar/data/1779964/000177996426000009/0001779964-26-000009-index.htm,LOW
+2026-09-11T20:09:17+00:00,FORM_144,,Flowco Holdings Inc.,proposed sale $103K,103242,,https://www.sec.gov/Archives/edgar/data/2049797/000195779926000174/0001957799-26-000174-index.htm,LOW
+2026-09-11T20:09:17+00:00,FORM_144,,"NetApp, Inc.",proposed sale $1.11M,1106919,,https://www.sec.gov/Archives/edgar/data/1251445/000196858226000949/0001968582-26-000949-index.htm,LOW
+2026-09-11T20:09:18+00:00,FORM_144,,"Amylyx Pharmaceuticals, Inc.",proposed sale $980K,980264,,https://www.sec.gov/Archives/edgar/data/1898314/000119312526389247/0001193125-26-389247-index.htm,LOW
+2026-09-11T20:09:18+00:00,FORM_144,,"Amylyx Pharmaceuticals, Inc.",proposed sale $350K,349821,,https://www.sec.gov/Archives/edgar/data/1658551/000119312526389246/0001193125-26-389246-index.htm,LOW
+2026-09-11T20:09:18+00:00,FORM_144,,"Amylyx Pharmaceuticals, Inc.",proposed sale $325K,324868,,https://www.sec.gov/Archives/edgar/data/1658551/000119312526389245/0001193125-26-389245-index.htm,LOW
+2026-09-11T20:09:19+00:00,FORM_144,,"Amylyx Pharmaceuticals, Inc.",proposed sale $310K,309506,,https://www.sec.gov/Archives/edgar/data/1913765/000119312526389244/0001193125-26-389244-index.htm,LOW
+2026-09-11T20:09:19+00:00,FORM_144,,"Amylyx Pharmaceuticals, Inc.",proposed sale $981K,980504,,https://www.sec.gov/Archives/edgar/data/1898644/000119312526389243/0001193125-26-389243-index.htm,LOW
