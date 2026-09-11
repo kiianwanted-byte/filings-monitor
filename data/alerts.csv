@@ -1965,3 +1965,27 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-11T20:09:18+00:00,FORM_144,,"Amylyx Pharmaceuticals, Inc.",proposed sale $325K,324868,,https://www.sec.gov/Archives/edgar/data/1658551/000119312526389245/0001193125-26-389245-index.htm,LOW
 2026-09-11T20:09:19+00:00,FORM_144,,"Amylyx Pharmaceuticals, Inc.",proposed sale $310K,309506,,https://www.sec.gov/Archives/edgar/data/1913765/000119312526389244/0001193125-26-389244-index.htm,LOW
 2026-09-11T20:09:19+00:00,FORM_144,,"Amylyx Pharmaceuticals, Inc.",proposed sale $981K,980504,,https://www.sec.gov/Archives/edgar/data/1898644/000119312526389243/0001193125-26-389243-index.htm,LOW
+2026-09-11T20:23:35+00:00,FORM_144,,Hewlett Packard Enterprise Company,proposed sale $41.41M,41415000,,https://www.sec.gov/Archives/edgar/data/1648401/000196858226000950/0001968582-26-000950-index.htm,LOW
+2026-09-11T20:23:35+00:00,FORM_144,,PEGASYSTEMS INC.,proposed sale $252K,252210,,https://www.sec.gov/Archives/edgar/data/1855325/000195004726009342/0001950047-26-009342-index.htm,LOW
+2026-09-11T20:23:35+00:00,FORM_144,,DAVE Inc,proposed sale $13.20M,13200702,,https://www.sec.gov/Archives/edgar/data/1867755/000196922326001018/0001969223-26-001018-index.htm,LOW
+2026-09-11T20:23:36+00:00,FORM_144,,PEGASYSTEMS INC.,proposed sale $1.42M,1417437,,https://www.sec.gov/Archives/edgar/data/1680115/000195004726009341/0001950047-26-009341-index.htm,LOW
+2026-09-11T20:23:36+00:00,FORM_144,,"ARS PHARMACEUTICALS, INC.",proposed sale $177K,176995,,https://www.sec.gov/Archives/edgar/data/1671858/000195004726009340/0001950047-26-009340-index.htm,LOW
+2026-09-11T20:23:36+00:00,FORM_144,,"YEXT, INC.",proposed sale $192K,191661,,https://www.sec.gov/Archives/edgar/data/1614178/000195004726009339/0001950047-26-009339-index.htm,LOW
+2026-09-11T20:23:37+00:00,FORM_144,,DESIGNER BRANDS INC.,proposed sale $11K,10823,,https://www.sec.gov/Archives/edgar/data/1533646/000195004726009338/0001950047-26-009338-index.htm,LOW
+2026-09-11T20:23:37+00:00,FORM_144,,"AMBIQ MICRO, INC.",proposed sale $634K,634361,,https://www.sec.gov/Archives/edgar/data/1500412/000195004726009337/0001950047-26-009337-index.htm,LOW
+2026-09-11T20:23:37+00:00,FORM_144,,"Getty Images Holdings, Inc.",proposed sale $3.56M,3563250,,https://www.sec.gov/Archives/edgar/data/1898496/000110465926107064/0001104659-26-107064-index.htm,LOW
+2026-09-11T20:23:38+00:00,FORM_144,,"CHIME FINANCIAL, INC.",proposed sale $5.30M,5298201,,https://www.sec.gov/Archives/edgar/data/2047214/000195004726009336/0001950047-26-009336-index.htm,LOW
+2026-09-11T20:23:38+00:00,FORM_144,,"CHIME FINANCIAL, INC.",proposed sale $1.84M,1839428,,https://www.sec.gov/Archives/edgar/data/1795586/000195004726009335/0001950047-26-009335-index.htm,LOW
+2026-09-11T20:23:38+00:00,FORM_144,,"CHIME FINANCIAL, INC.",proposed sale $3.21M,3213947,,https://www.sec.gov/Archives/edgar/data/1795586/000195004726009334/0001950047-26-009334-index.htm,LOW
+2026-09-11T20:23:39+00:00,FORM_144,,COHERENT CORP.,proposed sale $1.63M,1626310,,https://www.sec.gov/Archives/edgar/data/1741413/000195004726009333/0001950047-26-009333-index.htm,LOW
+2026-09-11T20:23:39+00:00,FORM_144,,Fortrea Holdings Inc.,proposed sale $18K,17692,,https://www.sec.gov/Archives/edgar/data/1979544/000195917326006898/0001959173-26-006898-index.htm,LOW
+2026-09-11T20:23:39+00:00,FORM_144,,"DELEK US HOLDINGS, INC.",proposed sale $227K,227115,,https://www.sec.gov/Archives/edgar/data/1694426/000195004726009332/0001950047-26-009332-index.htm,LOW
+2026-09-11T20:23:40+00:00,FORM_144,,"AMBIQ MICRO, INC.",proposed sale $3.17M,3167995,,https://www.sec.gov/Archives/edgar/data/2078454/000195004726009331/0001950047-26-009331-index.htm,LOW
+2026-09-11T20:23:40+00:00,FORM_144,,"DISC MEDICINE, INC.",proposed sale $1.90M,1902504,,https://www.sec.gov/Archives/edgar/data/1816736/000195004726009330/0001950047-26-009330-index.htm,LOW
+2026-09-11T20:23:40+00:00,FORM_144,,"Corebridge Financial, Inc.",proposed sale $306K,305760,,https://www.sec.gov/Archives/edgar/data/1923231/000196922326001017/0001969223-26-001017-index.htm,LOW
+2026-09-11T20:23:41+00:00,FORM_144,,"ARS PHARMACEUTICALS, INC.",proposed sale $70K,69761,,https://www.sec.gov/Archives/edgar/data/1951287/000195004726009329/0001950047-26-009329-index.htm,LOW
+2026-09-11T20:23:41+00:00,FORM_144,,CORVEL CORP,proposed sale $2.04M,2040817,,https://www.sec.gov/Archives/edgar/data/1256520/000196922326001016/0001969223-26-001016-index.htm,LOW
+2026-09-11T20:23:41+00:00,FORM_144,,"AEYE, INC.",proposed sale $10K,10147,,https://www.sec.gov/Archives/edgar/data/1818644/000195004726009328/0001950047-26-009328-index.htm,LOW
+2026-09-11T20:23:42+00:00,FORM_144,,VIAVI SOLUTIONS INC.,proposed sale $430K,429864,,https://www.sec.gov/Archives/edgar/data/1619901/000195004726009327/0001950047-26-009327-index.htm,LOW
+2026-09-11T20:23:42+00:00,FORM_144,,"TRUPANION, INC.",proposed sale $25K,25000,,https://www.sec.gov/Archives/edgar/data/1657025/000195004726009326/0001950047-26-009326-index.htm,LOW
+2026-09-11T20:23:42+00:00,FORM_144,,"MAGNITE, INC.",proposed sale $336K,335928,,https://www.sec.gov/Archives/edgar/data/1700262/000195004726009325/0001950047-26-009325-index.htm,LOW
