@@ -1929,3 +1929,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-11T16:50:00+00:00,FORM_144,,International Stem Cell CORP,proposed sale $12K,11808,,https://www.sec.gov/Archives/edgar/data/1355790/000194984626000580/0001949846-26-000580-index.htm,LOW
 2026-09-11T16:50:01+00:00,FORM_144,,"Accel Entertainment, Inc.",proposed sale $475K,475000,,https://www.sec.gov/Archives/edgar/data/1794002/000162828026061487/0001628280-26-061487-index.htm,LOW
 2026-09-11T16:50:01+00:00,FORM_144,,"American Financial Group, Inc.",proposed sale $198K,198310,,https://www.sec.gov/Archives/edgar/data/1105805/000119312526388927/0001193125-26-388927-index.htm,LOW
+2026-09-11T16:58:05+00:00,INSIDER_CLUSTER,LUCK,Lucky Strike Entertainment Corp,Bass Robert J $3K,3267,1,https://www.sec.gov/Archives/edgar/data/1840572/000162828026061489/0001628280-26-061489-index.htm,HIGH
+2026-09-11T16:58:07+00:00,FORM_144,,EOG RESOURCES INC,proposed sale $1.09M,1085728,,https://www.sec.gov/Archives/edgar/data/1376006/000195917326006885/0001959173-26-006885-index.htm,LOW
