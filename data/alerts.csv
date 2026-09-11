@@ -2069,3 +2069,11 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-11T22:58:04+00:00,FORM_144,,"L3Harris Technologies, Inc.",proposed sale $4.42M,4419720,,https://www.sec.gov/Archives/edgar/data/1194001/000195824426000590/0001958244-26-000590-index.htm,LOW
 2026-09-11T22:58:04+00:00,FORM_144,,"SentinelOne, Inc.",proposed sale $2.27M,2269077,,https://www.sec.gov/Archives/edgar/data/1866222/000195824426000589/0001958244-26-000589-index.htm,LOW
 2026-09-11T22:58:05+00:00,FORM_144,,MOHAWK INDUSTRIES INC,proposed sale $40K,40081,,https://www.sec.gov/Archives/edgar/data/925177/000001179026000029/0000011790-26-000029-index.htm,LOW
+2026-09-11T23:21:20+00:00,FORM_144,,"Q2 Holdings, Inc.",proposed sale $39K,38770,,https://www.sec.gov/Archives/edgar/data/1938943/000141038426000054/0001410384-26-000054-index.htm,LOW
+2026-09-11T23:21:20+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $819K,819204,,https://www.sec.gov/Archives/edgar/data/1672565/000119312526389534/0001193125-26-389534-index.htm,LOW
+2026-09-11T23:21:21+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $20.99M,20991293,,https://www.sec.gov/Archives/edgar/data/1737659/000119312526389532/0001193125-26-389532-index.htm,LOW
+2026-09-11T23:21:21+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $369K,369325,,https://www.sec.gov/Archives/edgar/data/1735863/000119312526389533/0001193125-26-389533-index.htm,LOW
+2026-09-11T23:21:21+00:00,FORM_144,,MOHAWK INDUSTRIES INC,proposed sale $2.43M,2425816,,https://www.sec.gov/Archives/edgar/data/925177/000001179026000030/0000011790-26-000030-index.htm,LOW
+2026-09-11T23:21:22+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $963K,962578,,https://www.sec.gov/Archives/edgar/data/1651403/000119312526389531/0001193125-26-389531-index.htm,LOW
+2026-09-11T23:21:22+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $36.55M,36552126,,https://www.sec.gov/Archives/edgar/data/1767114/000119312526389530/0001193125-26-389530-index.htm,LOW
+2026-09-11T23:21:22+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $40.06M,40058950,,https://www.sec.gov/Archives/edgar/data/1571996/000119312526389529/0001193125-26-389529-index.htm,LOW
