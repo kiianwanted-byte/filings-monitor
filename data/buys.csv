@@ -429,3 +429,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-11T11:39:09+00:00,2026-09-09,CLIK,Click Holdings Ltd.,Chan Chun Sing,"Director, Chief Executive Officer, 10% owner",48200,1.03,49869,1.0,0001493152-26-042298
 2026-09-11T11:39:10+00:00,2026-09-09,RLMD,"RELMADA THERAPEUTICS, INC.",Shenouda Maged,Chief Financial Officer,200000,4.22,843990,25.0,0001213900-26-098970
 2026-09-11T11:39:11+00:00,2026-09-09,RLMD,"RELMADA THERAPEUTICS, INC.",TRAVERSA SERGIO,"Director, Chief Executive Officer",200000,4.14,828000,15.4,0001213900-26-098969
+2026-09-11T12:13:54+00:00,2026-09-10,ANIX,Anixa Biosciences Inc,KUMAR AMIT,"Director, Chief Executive Officer",5000,2.76,13799,0.8,0001493152-26-042302
