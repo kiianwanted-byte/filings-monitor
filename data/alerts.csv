@@ -1940,3 +1940,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-11T18:17:22+00:00,FORM_144,,COMMVAULT SYSTEMS INC,proposed sale $201K,201443,,https://www.sec.gov/Archives/edgar/data/1669918/000195917326006889/0001959173-26-006889-index.htm,LOW
 2026-09-11T18:17:22+00:00,FORM_144,,OppFi Inc.,proposed sale $69K,69365,,https://www.sec.gov/Archives/edgar/data/1874038/000195917326006888/0001959173-26-006888-index.htm,LOW
 2026-09-11T18:17:23+00:00,FORM_144,,"Warner Bros. Discovery, Inc.",proposed sale $188K,188002,,https://www.sec.gov/Archives/edgar/data/1437107/000195917326006887/0001959173-26-006887-index.htm,LOW
+2026-09-11T18:34:32+00:00,FORM_144,,VIVMARK RESIDENTIAL,proposed sale $5.31M,5310874,,https://www.sec.gov/Archives/edgar/data/1414146/000195917326006892/0001959173-26-006892-index.htm,LOW
