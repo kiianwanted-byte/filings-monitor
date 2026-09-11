@@ -1948,3 +1948,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-11T19:19:18+00:00,FORM_144,,Invesco Ltd.,proposed sale $97K,97321,,https://www.sec.gov/Archives/edgar/data/1197233/000195917326006893/0001959173-26-006893-index.htm,LOW
 2026-09-11T19:30:02+00:00,FORM_144,,"UNIVERSAL INSURANCE HOLDINGS, INC.",proposed sale $876K,876000,,https://www.sec.gov/Archives/edgar/data/1287040/000197407826000352/0001974078-26-000352-index.htm,LOW
 2026-09-11T19:30:02+00:00,FORM_144,,Fortrea Holdings Inc.,proposed sale $18K,17692,,https://www.sec.gov/Archives/edgar/data/1979544/000195917326006895/0001959173-26-006895-index.htm,LOW
+2026-09-11T19:40:57+00:00,FORM_144,,TTM TECHNOLOGIES INC,proposed sale $99K,99122,,https://www.sec.gov/Archives/edgar/data/1982399/000195917326006896/0001959173-26-006896-index.htm,LOW
