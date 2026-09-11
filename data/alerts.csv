@@ -1918,3 +1918,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-11T14:46:54+00:00,FORM_144,,"Klaviyo, Inc.",proposed sale $37K,37085,,https://www.sec.gov/Archives/edgar/data/1835830/000195917326006878/0001959173-26-006878-index.htm,LOW
 2026-09-11T14:46:55+00:00,FORM_144,,NOVANTA INC,proposed sale $98K,97858,,https://www.sec.gov/Archives/edgar/data/1552961/000195917326006877/0001959173-26-006877-index.htm,LOW
 2026-09-11T14:46:55+00:00,FORM_144,,SYSCO CORP,proposed sale $80K,79680,,https://www.sec.gov/Archives/edgar/data/1861524/000195917326006876/0001959173-26-006876-index.htm,LOW
+2026-09-11T15:09:48+00:00,FORM_144,,"AtriCure, Inc.",proposed sale $285K,285095,,https://www.sec.gov/Archives/edgar/data/1653877/000195917326006879/0001959173-26-006879-index.htm,LOW
