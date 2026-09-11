@@ -1921,3 +1921,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-11T15:09:48+00:00,FORM_144,,"AtriCure, Inc.",proposed sale $285K,285095,,https://www.sec.gov/Archives/edgar/data/1653877/000195917326006879/0001959173-26-006879-index.htm,LOW
 2026-09-11T15:47:33+00:00,FORM_144,,"Life Time Group Holdings, Inc.",proposed sale $6.51M,6506304,,https://www.sec.gov/Archives/edgar/data/1884996/000195917326006881/0001959173-26-006881-index.htm,LOW
 2026-09-11T15:47:33+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $21.14M,21137621,,https://www.sec.gov/Archives/edgar/data/2110325/000195917326006880/0001959173-26-006880-index.htm,LOW
+2026-09-11T16:10:25+00:00,FORM_144,,"Cencora, Inc.",proposed sale $430K,430300,,https://www.sec.gov/Archives/edgar/data/1774724/000195917326006883/0001959173-26-006883-index.htm,LOW
+2026-09-11T16:10:26+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $3.29M,3285330,,https://www.sec.gov/Archives/edgar/data/1680902/000195917326006882/0001959173-26-006882-index.htm,LOW
