@@ -1933,3 +1933,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-11T16:58:07+00:00,FORM_144,,EOG RESOURCES INC,proposed sale $1.09M,1085728,,https://www.sec.gov/Archives/edgar/data/1376006/000195917326006885/0001959173-26-006885-index.htm,LOW
 2026-09-11T17:23:09+00:00,FORM_144,,"Inhibrx Biosciences, Inc.",proposed sale $56K,55887,,https://www.sec.gov/Archives/edgar/data/2007919/000195917326006886/0001959173-26-006886-index.htm,LOW
 2026-09-11T17:23:09+00:00,FORM_144,,"Accel Entertainmet, Inc.",proposed sale $475K,475000,,https://www.sec.gov/Archives/edgar/data/1794002/000162828026061492/0001628280-26-061492-index.htm,LOW
+2026-09-11T17:43:53+00:00,INSIDER_CLUSTER,GROV,"Grove Collaborative Holdings, Inc.",Landesberg Stuart $5K,5067,2,https://www.sec.gov/Archives/edgar/data/1930721/000184176126000098/0001841761-26-000098-index.htm,HIGH
