@@ -1942,3 +1942,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-11T18:17:23+00:00,FORM_144,,"Warner Bros. Discovery, Inc.",proposed sale $188K,188002,,https://www.sec.gov/Archives/edgar/data/1437107/000195917326006887/0001959173-26-006887-index.htm,LOW
 2026-09-11T18:34:32+00:00,FORM_144,,VIVMARK RESIDENTIAL,proposed sale $5.31M,5310874,,https://www.sec.gov/Archives/edgar/data/1414146/000195917326006892/0001959173-26-006892-index.htm,LOW
 2026-09-11T18:46:51+00:00,FORM_144,,Evolv Technologies Holdings,proposed sale $250K,250000,,https://www.sec.gov/Archives/edgar/data/1996777/000162828026061515/0001628280-26-061515-index.htm,LOW
+2026-09-11T19:19:12+00:00,INSIDER_CLUSTER,RGCO,RGC RESOURCES INC,JOHNSTON ROBERT B $8K,7898,1,https://www.sec.gov/Archives/edgar/data/1280855/000143774926030160/0001437749-26-030160-index.htm,HIGH
+2026-09-11T19:19:15+00:00,INSIDER_CLUSTER,RGCO,RGC RESOURCES INC,WILLIAMSON JOHN B III $28K,27914,2,https://www.sec.gov/Archives/edgar/data/1238836/000143774926030157/0001437749-26-030157-index.htm,HIGH
+2026-09-11T19:19:18+00:00,FORM_144,,"Teladoc Health, Inc.",proposed sale $109K,108683,,https://www.sec.gov/Archives/edgar/data/1477449/000195917326006894/0001959173-26-006894-index.htm,LOW
+2026-09-11T19:19:18+00:00,FORM_144,,Invesco Ltd.,proposed sale $97K,97321,,https://www.sec.gov/Archives/edgar/data/1197233/000195917326006893/0001959173-26-006893-index.htm,LOW
