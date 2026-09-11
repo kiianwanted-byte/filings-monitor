@@ -2047,3 +2047,10 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-11T21:06:14+00:00,FORM_144,,"Diamondback Energy, Inc.",proposed sale $15.32M,15323272,,https://www.sec.gov/Archives/edgar/data/1559933/000192109426001012/0001921094-26-001012-index.htm,LOW
 2026-09-11T21:06:14+00:00,FORM_144,,"ROCKET PHARMACEUTICALS, INC.",proposed sale $256K,256486,,https://www.sec.gov/Archives/edgar/data/1704342/000195917326006908/0001959173-26-006908-index.htm,LOW
 2026-09-11T21:06:14+00:00,FORM_144,,"ROCKET PHARMACEUTICALS, INC.",proposed sale $30K,30367,,https://www.sec.gov/Archives/edgar/data/1662170/000195917326006907/0001959173-26-006907-index.htm,LOW
+2026-09-11T21:19:46+00:00,FORM_144,,LIQUIDIA CORPORATION,proposed sale $619K,619209,,https://www.sec.gov/Archives/edgar/data/1819576/000195004726009376/0001950047-26-009376-index.htm,LOW
+2026-09-11T21:19:46+00:00,FORM_144,,Flywire Corporation,proposed sale $1.64M,1636994,,https://www.sec.gov/Archives/edgar/data/1862946/000196858226000953/0001968582-26-000953-index.htm,LOW
+2026-09-11T21:19:46+00:00,FORM_144,,"CG ONCOLOGY, INC.",proposed sale $62K,61950,,https://www.sec.gov/Archives/edgar/data/2007090/000195004726009375/0001950047-26-009375-index.htm,LOW
+2026-09-11T21:19:47+00:00,FORM_144,,"Korro Bio, Inc.",proposed sale $110K,110357,,https://www.sec.gov/Archives/edgar/data/1708269/000162828026061593/0001628280-26-061593-index.htm,LOW
+2026-09-11T21:19:47+00:00,FORM_144,,"Korro Bio, Inc.",proposed sale $23K,22855,,https://www.sec.gov/Archives/edgar/data/1885327/000162828026061592/0001628280-26-061592-index.htm,LOW
+2026-09-11T21:19:47+00:00,FORM_144,,"Fastly, Inc.",proposed sale $639K,639392,,https://www.sec.gov/Archives/edgar/data/1993556/000199355626000007/0001993556-26-000007-index.htm,LOW
+2026-09-11T21:19:48+00:00,FORM_144,,"Fastly, Inc.",proposed sale $730K,729586,,https://www.sec.gov/Archives/edgar/data/2024441/000151741326000280/0001517413-26-000280-index.htm,LOW
