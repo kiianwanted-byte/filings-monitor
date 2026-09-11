@@ -1893,3 +1893,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-10T23:40:28+00:00,FORM_144,,Seagate Technology Holdings plc,proposed sale $2.58M,2579258,,https://www.sec.gov/Archives/edgar/data/1388390/000138839026000010/0001388390-26-000010-index.htm,LOW
 2026-09-10T23:40:28+00:00,FORM_144,,Seagate Technology Holdings plc,proposed sale $1.22M,1220263,,https://www.sec.gov/Archives/edgar/data/1764650/000176465026000006/0001764650-26-000006-index.htm,LOW
 2026-09-10T23:48:35+00:00,FORM_144,,Seagate Technology Holdings plc,proposed sale $518K,518022,,https://www.sec.gov/Archives/edgar/data/1988271/000198827126000008/0001988271-26-000008-index.htm,LOW
+2026-09-11T00:11:26+00:00,INSIDER_BUY,SNES,"SenesTech, Inc.",Edell Michael $2K,1740,1,https://www.sec.gov/Archives/edgar/data/1680378/000162828026061448/0001628280-26-061448-index.htm,HIGH
+2026-09-11T00:11:28+00:00,INSIDER_CLUSTER,PRTS,"CarParts.com, Inc.",Huffaker Michael $133K,133295,0,https://www.sec.gov/Archives/edgar/data/1956633/000114036126036239/0001140361-26-036239-index.htm,HIGH
+2026-09-11T00:11:29+00:00,INSIDER_CLUSTER,PRTS,"CarParts.com, Inc.",Meniane David $133K,133295,0,https://www.sec.gov/Archives/edgar/data/1770720/000114036126036237/0001140361-26-036237-index.htm,HIGH
