@@ -2060,3 +2060,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-11T22:20:16+00:00,FORM_144,,Oshkosh Corporation,proposed sale $2.11M,2105722,,https://www.sec.gov/Archives/edgar/data/1434515/000196858226000959/0001968582-26-000959-index.htm,LOW
 2026-09-11T22:42:15+00:00,FORM_144,,Telos Corporation,proposed sale $936K,936000,,https://www.sec.gov/Archives/edgar/data/1872955/000196858226000961/0001968582-26-000961-index.htm,LOW
 2026-09-11T22:42:16+00:00,FORM_144,,Cimpress plc,proposed sale $2.37M,2373560,,https://www.sec.gov/Archives/edgar/data/1337084/000195824426000588/0001958244-26-000588-index.htm,LOW
+2026-09-11T22:50:04+00:00,FORM_144,,"Uber Technologies, Inc.",proposed sale $11.41M,11408391,,https://www.sec.gov/Archives/edgar/data/1775297/000196858226000963/0001968582-26-000963-index.htm,LOW
+2026-09-11T22:50:05+00:00,FORM_144,,MOHAWK INDUSTRIES INC,proposed sale $436K,435568,,https://www.sec.gov/Archives/edgar/data/925177/000001179026000028/0000011790-26-000028-index.htm,LOW
