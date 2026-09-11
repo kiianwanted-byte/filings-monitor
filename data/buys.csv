@@ -425,3 +425,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-11T00:11:26+00:00,2026-09-09,SNES,"SenesTech, Inc.",Edell Michael,"Director, Chief Executive Officer",2000,0.87,1740,33.3,0001628280-26-061448
 2026-09-11T00:11:28+00:00,2026-09-10,PRTS,"CarParts.com, Inc.",Huffaker Michael,COO,13250,10.06,133295,9.5,0001140361-26-036239
 2026-09-11T00:11:29+00:00,2026-09-10,PRTS,"CarParts.com, Inc.",Meniane David,CEO,13250,10.06,133295,4.4,0001140361-26-036237
+2026-09-11T01:10:28+00:00,2026-09-10,ATEC,"Alphatec Holdings, Inc.",Miles Patrick,"Director, CEO",115000,8.81,1013150,2.0,0001289409-26-000008

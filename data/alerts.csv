@@ -1899,3 +1899,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-11T00:33:24+00:00,FORM_144,,BlackSky Technology Inc.,proposed sale $1.17M,1172312,,https://www.sec.gov/Archives/edgar/data/1753539/000175353926000140/0001753539-26-000140-index.htm,LOW
 2026-09-11T00:48:25+00:00,FORM_144,,BlackSky Technology Inc.,proposed sale $272K,271846,,https://www.sec.gov/Archives/edgar/data/1753539/000140095426000007/0001400954-26-000007-index.htm,LOW
 2026-09-11T00:48:25+00:00,FORM_144,,BlackSky Technology Inc,proposed sale $318K,317743,,https://www.sec.gov/Archives/edgar/data/1753539/000134998326000007/0001349983-26-000007-index.htm,LOW
+2026-09-11T01:10:29+00:00,FORM_144,,"Light & Wonder, Inc.",proposed sale $329K,329119,,https://www.sec.gov/Archives/edgar/data/1830349/000095015726001000/0000950157-26-001000-index.htm,LOW
