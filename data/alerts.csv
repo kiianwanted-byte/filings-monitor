@@ -2057,3 +2057,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-11T21:29:50+00:00,FORM_144,,Sea Limited,proposed sale $137.84M,137843200,,https://www.sec.gov/Archives/edgar/data/1966565/000196858226000955/0001968582-26-000955-index.htm,LOW
 2026-09-11T21:29:51+00:00,FORM_144,,"Mission Produce, Inc",proposed sale $653K,653309,,https://www.sec.gov/Archives/edgar/data/1825803/000162828026061599/0001628280-26-061599-index.htm,LOW
 2026-09-11T21:55:42+00:00,FORM_144,,"The Carlyle Group, Inc.",proposed sale $17.23M,17228000,,https://www.sec.gov/Archives/edgar/data/1543895/000196858226000956/0001968582-26-000956-index.htm,LOW
+2026-09-11T22:20:16+00:00,FORM_144,,Oshkosh Corporation,proposed sale $2.11M,2105722,,https://www.sec.gov/Archives/edgar/data/1434515/000196858226000959/0001968582-26-000959-index.htm,LOW
