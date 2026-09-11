@@ -1897,3 +1897,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-11T00:11:28+00:00,INSIDER_CLUSTER,PRTS,"CarParts.com, Inc.",Huffaker Michael $133K,133295,0,https://www.sec.gov/Archives/edgar/data/1956633/000114036126036239/0001140361-26-036239-index.htm,HIGH
 2026-09-11T00:11:29+00:00,INSIDER_CLUSTER,PRTS,"CarParts.com, Inc.",Meniane David $133K,133295,0,https://www.sec.gov/Archives/edgar/data/1770720/000114036126036237/0001140361-26-036237-index.htm,HIGH
 2026-09-11T00:33:24+00:00,FORM_144,,BlackSky Technology Inc.,proposed sale $1.17M,1172312,,https://www.sec.gov/Archives/edgar/data/1753539/000175353926000140/0001753539-26-000140-index.htm,LOW
+2026-09-11T00:48:25+00:00,FORM_144,,BlackSky Technology Inc.,proposed sale $272K,271846,,https://www.sec.gov/Archives/edgar/data/1753539/000140095426000007/0001400954-26-000007-index.htm,LOW
+2026-09-11T00:48:25+00:00,FORM_144,,BlackSky Technology Inc,proposed sale $318K,317743,,https://www.sec.gov/Archives/edgar/data/1753539/000134998326000007/0001349983-26-000007-index.htm,LOW
