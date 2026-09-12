@@ -2077,3 +2077,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-11T23:21:22+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $963K,962578,,https://www.sec.gov/Archives/edgar/data/1651403/000119312526389531/0001193125-26-389531-index.htm,LOW
 2026-09-11T23:21:22+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $36.55M,36552126,,https://www.sec.gov/Archives/edgar/data/1767114/000119312526389530/0001193125-26-389530-index.htm,LOW
 2026-09-11T23:21:22+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $40.06M,40058950,,https://www.sec.gov/Archives/edgar/data/1571996/000119312526389529/0001193125-26-389529-index.htm,LOW
+2026-09-12T00:58:05+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $835K,835413,,https://www.sec.gov/Archives/edgar/data/2135147/000213514726000013/0002135147-26-000013-index.htm,LOW
+2026-09-12T00:58:06+00:00,FORM_144,,"Ouster, Inc.",proposed sale $637K,637404,,https://www.sec.gov/Archives/edgar/data/1816581/000167714326000001/0001677143-26-000001-index.htm,LOW
