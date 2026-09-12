@@ -859,10 +859,10 @@ def handle_form4(item):
     if notable:
         priority = "HIGH"         # watchlist always wins
 
-    title = (f"\U0001F7E2 INSIDER CLUSTER - {cluster['insiders']} BUYERS"
-             if cluster["fires"] else "\U0001F7E2 INSIDER BUY")
+    title = (f"INSIDER CLUSTER - {cluster['insiders']} BUYERS"
+             if cluster["fires"] else "INSIDER BUY")
     if notable:
-        title = "\U0001F7E2 WATCHLIST BUY"
+        title = "WATCHLIST BUY"
     if amended:
         title = "AMENDED  " + title
 
@@ -935,7 +935,7 @@ def handle_form144(item):
     return send_alert("FORM_144", ticker, company,
                       f"proposed sale {money(value)}", value, "",
                       item["link"],
-                      box("\U0001F534 INSIDER SELL NOTICE - Form 144", rows,
+                      box("INSIDER SELL NOTICE - Form 144", rows,
                           link=item["link"],
                           footer="Filed BEFORE the sale happens. "
                                  "Intent to sell, not a completed trade."),
@@ -958,7 +958,7 @@ def handle_8k(item):
 
     severe = "4.02" in hits or "1.03" in hits
     priority = "HIGH" if any(h in EIGHTK_HIGH for h in hits) else "LOW"
-    title = "\U0001F4C4 8-K MATERIAL EVENT" + ("  [SEVERE]" if severe else "")
+    title = "8-K MATERIAL EVENT" + ("  [SEVERE]" if severe else "")
 
     rows = [("PRIORITY", priority),
             ("COMPANY", item["company"]),
@@ -980,7 +980,7 @@ def handle_nt(item):
     ]
     return send_alert("LATE_FILING", "", item["company"], item["form"],
                       0, "", item["link"],
-                      box("\U0001F4C4 LATE FILING NOTICE", rows, link=item["link"],
+                      box("LATE FILING NOTICE", rows, link=item["link"],
                           footer="Stated reason is in Part III of the filing."))
 
 
@@ -1092,9 +1092,9 @@ def handle_stake(item):
         ("FILED", dmy(item["filed"])),
     ]
 
-    title = ("\U0001F7E2 WATCHLIST STAKE" if notable
-             else ("\U0001F7E2 ACTIVIST STAKE - 13D" if activist
-                   else "\U0001F7E2 NEW 5% STAKE - 13G"))
+    title = ("WATCHLIST STAKE" if notable
+             else ("ACTIVIST STAKE - 13D" if activist
+                   else "NEW 5% STAKE - 13G"))
 
     return send_alert(
         "STAKE_13D" if activist else "STAKE_13G",
@@ -1230,13 +1230,13 @@ def check_fear_greed():
     old_i = FNG_LEVELS.index(last_rating) if last_rating in FNG_LEVELS else -1
     new_i = FNG_LEVELS.index(now["rating"])
     direction = "toward greed" if new_i > old_i else "toward fear"
-    mark = "\U0001F7E2" if new_i > old_i else "\U0001F534"
+    mark = "up" if new_i > old_i else "down"
 
     rows = [
         ("PRIORITY", "HIGH"),
         ("NOW", f"{now['rating'].upper()}  ({now['score']})"),
         ("WAS", last_rating.upper()),
-        ("MOVED", f"{direction}  {mark}"),
+        ("MOVED", direction),
         ("PREV CLOSE", str(round(float(now["prev_close"]), 1))
                        if now.get("prev_close") is not None else ""),
         ("1 WEEK AGO", str(round(float(now["week_ago"]), 1))

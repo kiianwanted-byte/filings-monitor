@@ -593,16 +593,15 @@ def send_filing(label, link, filed, rows):
 
     lines = []
     for a in big[:MAX_LINES_IN_MESSAGE]:
-        mark = "\U0001F7E2" if a["action"] == "BUY" else \
-               "\U0001F534" if a["action"] == "SELL" else ""
+        mark = ""
         label = a["ticker"] or a["asset"][:16]
         lines.append((f"{a['action'][:4]} {label}",
                       f"{a['count']}x   {money(a['low'])} - {money(a['high'])}"
-                      + (f"  {mark}" if mark else "")))
+                      ))
     if len(big) > MAX_LINES_IN_MESSAGE:
         lines.append(("...", f"+{len(big) - MAX_LINES_IN_MESSAGE} more tickers"))
 
-    telegram(box("\U0001F4C4 TRUMP 278-T - EQUITY", header + [("", "")] + lines,
+    telegram(box("TRUMP 278-T - EQUITY", header + [("", "")] + lines,
                  link=link,
                  footer="Trustee managed accounts. The filing does not indicate "
                         "the filer directed these trades. Full list in "

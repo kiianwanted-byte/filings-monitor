@@ -141,7 +141,7 @@ def run_digest():
         label = "next week"
 
     if data is None:
-        telegram(box("\U0001F4C4 US EVENTS - no data", [
+        telegram(box("US EVENTS - no data", [
             ("PRIORITY", "MEDIUM"),
             ("PROBLEM", "Calendar feed returned nothing"),
             ("LIKELY CAUSE", "Feed URL moved or blocked"),
@@ -154,7 +154,7 @@ def run_digest():
 
     if not rows:
         log("events: no US events matched this week")
-        telegram(box("\U0001F4C4 WEEK AHEAD - US EVENTS", [
+        telegram(box("WEEK AHEAD - US EVENTS", [
             ("WEEK", now.strftime("%d %b")),
             ("STATUS", "No high impact US events scheduled"),
         ]))
@@ -165,7 +165,7 @@ def run_digest():
               ("TIMES", "Singapore (SGT)"),
               ("", "")]
 
-    telegram(box("\U0001F4C4 WEEK AHEAD - US EVENTS", header + rows,
+    telegram(box("WEEK AHEAD - US EVENTS", header + rows,
                  footer="You cannot beat a data release. This is so you are "
                         "not holding into one you forgot about."))
 
