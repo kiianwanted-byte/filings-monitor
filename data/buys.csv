@@ -463,3 +463,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-11T23:21:17+00:00,2026-09-11,PVH,PVH CORP. /DE/,Larsson Stefan,"Director, Chief Executive Officer",14179,70.53,1000001,4.2,0001123292-26-001286
 2026-09-11T23:57:03+00:00,2026-09-09,MGX,"Metagenomi Therapeutics, Inc.",Reid Laurence,Director,20000,1.17,23401,NEW,0001193125-26-389550
 2026-09-12T00:48:11+00:00,2026-09-09,ALP,Alpha Compute Corp,Levitt Wesley Allen,Chief Financial Officer,1000,5.10,5095,NEW,0001171843-26-006009
+2026-09-12T01:31:15+00:00,2026-09-11,FLD,"Fold Holdings, Inc.",Young Bracebridge H Jr,Director,20000,0.55,11049,39.9,0001193125-26-389597
