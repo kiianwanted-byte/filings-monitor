@@ -2079,3 +2079,10 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-11T23:21:22+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $40.06M,40058950,,https://www.sec.gov/Archives/edgar/data/1571996/000119312526389529/0001193125-26-389529-index.htm,LOW
 2026-09-12T00:58:05+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $835K,835413,,https://www.sec.gov/Archives/edgar/data/2135147/000213514726000013/0002135147-26-000013-index.htm,LOW
 2026-09-12T00:58:06+00:00,FORM_144,,"Ouster, Inc.",proposed sale $637K,637404,,https://www.sec.gov/Archives/edgar/data/1816581/000167714326000001/0001677143-26-000001-index.htm,LOW
+2026-09-12T01:10:12+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $6K,5822,,https://www.sec.gov/Archives/edgar/data/2126756/000212675626000007/0002126756-26-000007-index.htm,LOW
+2026-09-12T01:10:12+00:00,FORM_144,,"Ouster, Inc.",proposed sale $361K,361478,,https://www.sec.gov/Archives/edgar/data/2117981/000211798126000001/0002117981-26-000001-index.htm,LOW
+2026-09-12T01:10:13+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $93K,93085,,https://www.sec.gov/Archives/edgar/data/2135151/000213515126000010/0002135151-26-000010-index.htm,LOW
+2026-09-12T01:10:13+00:00,FORM_144,,"Ouster, Inc.",proposed sale $1.23M,1234695,,https://www.sec.gov/Archives/edgar/data/1848817/000184881726000001/0001848817-26-000001-index.htm,LOW
+2026-09-12T01:10:13+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $3.62M,3618813,,https://www.sec.gov/Archives/edgar/data/2135135/000213513526000011/0002135135-26-000011-index.htm,LOW
+2026-09-12T01:10:14+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $259K,259154,,https://www.sec.gov/Archives/edgar/data/2135137/000213513726000017/0002135137-26-000017-index.htm,LOW
+2026-09-12T01:10:14+00:00,FORM_144,,Dave Inc./DE,proposed sale $14.03M,14028400,,https://www.sec.gov/Archives/edgar/data/1889438/000119312526389589/0001193125-26-389589-index.htm,LOW
