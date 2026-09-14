@@ -2277,3 +2277,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-14T22:08:22+00:00,FORM_144,,"Castle Biosciences, Inc.",proposed sale $441K,440638,,https://www.sec.gov/Archives/edgar/data/1856542/000195824426000597/0001958244-26-000597-index.htm,LOW
 2026-09-14T22:08:22+00:00,FORM_144,,Spotify Technology S.A.,proposed sale $46.53M,46531437,,https://www.sec.gov/Archives/edgar/data/1848565/000195824426000596/0001958244-26-000596-index.htm,LOW
 2026-09-14T22:08:22+00:00,FORM_144,,CME GROUP INC.,proposed sale $140K,140052,,https://www.sec.gov/Archives/edgar/data/1643475/000195004726009451/0001950047-26-009451-index.htm,LOW
+2026-09-14T22:23:36+00:00,FORM_144,,"Pediatrix Medical Group, Inc.",proposed sale $573K,572619,,https://www.sec.gov/Archives/edgar/data/1894731/000162828026061930/0001628280-26-061930-index.htm,LOW
+2026-09-14T22:23:36+00:00,FORM_144,,"Pediatrix Medical Group, Inc.",proposed sale $246K,246365,,https://www.sec.gov/Archives/edgar/data/1894731/000162828026061929/0001628280-26-061929-index.htm,LOW
+2026-09-14T22:23:36+00:00,FORM_144,,OPEN TEXT CORPORATION,proposed sale $47K,47044,,https://www.sec.gov/Archives/edgar/data/1983825/000195004726009454/0001950047-26-009454-index.htm,LOW
+2026-09-14T22:23:37+00:00,FORM_144,,"COREWEAVE, INC.",proposed sale $5.57M,5572284,,https://www.sec.gov/Archives/edgar/data/2058038/000195004726009453/0001950047-26-009453-index.htm,LOW
+2026-09-14T22:23:37+00:00,FORM_144,,KANZHUN LIMITED,proposed sale $283.47M,283473000,,https://www.sec.gov/Archives/edgar/data/1970144/000095010326013932/0000950103-26-013932-index.htm,LOW
