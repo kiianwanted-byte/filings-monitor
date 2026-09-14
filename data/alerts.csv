@@ -2135,3 +2135,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-14T17:33:39+00:00,FORM_144,,American Strategic Investment Co.,proposed sale $160K,160000,,https://www.sec.gov/Archives/edgar/data/1595527/000162828026061791/0001628280-26-061791-index.htm,LOW
 2026-09-14T17:46:51+00:00,FORM_144,,Wayfair Inc.,proposed sale $100K,100000,,https://www.sec.gov/Archives/edgar/data/1620052/000195917326006923/0001959173-26-006923-index.htm,LOW
 2026-09-14T17:46:52+00:00,FORM_144,,Artesian Resources Corporation,proposed sale $497K,496860,,https://www.sec.gov/Archives/edgar/data/1208428/000196922326001020/0001969223-26-001020-index.htm,LOW
+2026-09-14T18:09:10+00:00,FORM_144,,Wayfair Inc.,proposed sale $100K,100000,,https://www.sec.gov/Archives/edgar/data/1620093/000195917326006925/0001959173-26-006925-index.htm,LOW
+2026-09-14T18:09:10+00:00,FORM_144,,ALERUS FINANCIAL CORP,proposed sale $20K,19963,,https://www.sec.gov/Archives/edgar/data/1989390/000195917326006924/0001959173-26-006924-index.htm,LOW
+2026-09-14T18:09:11+00:00,FORM_144,,IBEX Ltd,proposed sale $91K,90960,,https://www.sec.gov/Archives/edgar/data/1974089/000100027526000110/0001000275-26-000110-index.htm,LOW
+2026-09-14T18:09:11+00:00,FORM_144,,CORCEPT THERAPEUTICS INC,proposed sale $1.13M,1134423,,https://www.sec.gov/Archives/edgar/data/1817838/000197325126000037/0001973251-26-000037-index.htm,LOW
