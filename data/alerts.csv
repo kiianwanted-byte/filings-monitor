@@ -2265,3 +2265,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-14T21:47:01+00:00,FORM_144,,WEX Inc.,proposed sale $668K,668485,,https://www.sec.gov/Archives/edgar/data/1724040/000162828026061917/0001628280-26-061917-index.htm,LOW
 2026-09-14T21:47:01+00:00,FORM_144,,StoneX Group Inc.,proposed sale $2.09M,2086522,,https://www.sec.gov/Archives/edgar/data/1511110/000162828026061915/0001628280-26-061915-index.htm,LOW
 2026-09-14T21:47:01+00:00,FORM_144,,StoneX Group Inc.,proposed sale $3.62M,3616214,,https://www.sec.gov/Archives/edgar/data/1662210/000162828026061913/0001628280-26-061913-index.htm,LOW
+2026-09-14T21:57:11+00:00,FORM_144,,RingCentral Inc.,proposed sale $2.53M,2534707,,https://www.sec.gov/Archives/edgar/data/1586648/000162828026061924/0001628280-26-061924-index.htm,LOW
+2026-09-14T21:57:12+00:00,FORM_144,,"MAGNITE, INC.",proposed sale $246K,246241,,https://www.sec.gov/Archives/edgar/data/1603808/000195004726009450/0001950047-26-009450-index.htm,LOW
+2026-09-14T21:57:12+00:00,FORM_144,,Super Group (SGHC) Ltd,proposed sale $321K,321272,,https://www.sec.gov/Archives/edgar/data/2117552/000101143826000567/0001011438-26-000567-index.htm,LOW
