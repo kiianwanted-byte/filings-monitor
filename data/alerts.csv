@@ -2149,3 +2149,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-14T18:58:17+00:00,FORM_144,,"BrightSpring Health Services, Inc.",proposed sale $874K,874383,,https://www.sec.gov/Archives/edgar/data/2075158/000195917326006933/0001959173-26-006933-index.htm,LOW
 2026-09-14T19:10:48+00:00,FORM_144,,DEVON ENERGY CORP/DE,proposed sale $344K,344238,,https://www.sec.gov/Archives/edgar/data/2053677/000195917326006935/0001959173-26-006935-index.htm,LOW
 2026-09-14T19:10:48+00:00,FORM_144,,SYSCO CORP,proposed sale $5K,4806,,https://www.sec.gov/Archives/edgar/data/1861524/000195917326006934/0001959173-26-006934-index.htm,LOW
+2026-09-14T19:25:13+00:00,FORM_144,,Hilton Worldwide Holdings Inc.,proposed sale $136K,136239,,https://www.sec.gov/Archives/edgar/data/1821096/000195917326006937/0001959173-26-006937-index.htm,LOW
+2026-09-14T19:25:13+00:00,FORM_144,,BRADY CORP,proposed sale $391K,390659,,https://www.sec.gov/Archives/edgar/data/1964928/000195917326006936/0001959173-26-006936-index.htm,LOW
