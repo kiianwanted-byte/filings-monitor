@@ -2119,3 +2119,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-14T15:50:20+00:00,INSIDER_CLUSTER,GRNT,"Granite Ridge Resources, Inc.",Miller Matthew Reade $50K,50300,3,https://www.sec.gov/Archives/edgar/data/1951282/000162828026061771/0001628280-26-061771-index.htm,HIGH
 2026-09-14T15:50:23+00:00,INSIDER_CLUSTER,CCFN,MUNCY COLUMBIA FINANCIAL Corp,Glunk Robert J $2K,2312,4,https://www.sec.gov/Archives/edgar/data/1548117/000117494726000869/0001174947-26-000869-index.htm,HIGH
 2026-09-14T15:50:25+00:00,FORM_144,,STEALTHGAS INC.,proposed sale $353K,353250,,https://www.sec.gov/Archives/edgar/data/2036857/000119312526390068/0001193125-26-390068-index.htm,LOW
+2026-09-14T15:58:50+00:00,FORM_144,,ATI INC,proposed sale $3.19M,3185490,,https://www.sec.gov/Archives/edgar/data/1776844/000195917326006916/0001959173-26-006916-index.htm,LOW
+2026-09-14T15:58:51+00:00,FORM_144,,"BillionToOne, Inc.",proposed sale $523K,522536,,https://www.sec.gov/Archives/edgar/data/2088549/000195917326006915/0001959173-26-006915-index.htm,LOW
