@@ -2139,3 +2139,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-14T18:09:10+00:00,FORM_144,,ALERUS FINANCIAL CORP,proposed sale $20K,19963,,https://www.sec.gov/Archives/edgar/data/1989390/000195917326006924/0001959173-26-006924-index.htm,LOW
 2026-09-14T18:09:11+00:00,FORM_144,,IBEX Ltd,proposed sale $91K,90960,,https://www.sec.gov/Archives/edgar/data/1974089/000100027526000110/0001000275-26-000110-index.htm,LOW
 2026-09-14T18:09:11+00:00,FORM_144,,CORCEPT THERAPEUTICS INC,proposed sale $1.13M,1134423,,https://www.sec.gov/Archives/edgar/data/1817838/000197325126000037/0001973251-26-000037-index.htm,LOW
+2026-09-14T18:26:49+00:00,FORM_144,,Ralliant Corp,proposed sale $849K,849119,,https://www.sec.gov/Archives/edgar/data/2041385/000195917326006928/0001959173-26-006928-index.htm,LOW
+2026-09-14T18:26:49+00:00,FORM_144,,"Kodiak Gas Services, Inc.",proposed sale $169K,168788,,https://www.sec.gov/Archives/edgar/data/1971110/000195917326006927/0001959173-26-006927-index.htm,LOW
+2026-09-14T18:26:49+00:00,FORM_144,,"Gold.com, Inc.",proposed sale $5.93M,5933701,,https://www.sec.gov/Archives/edgar/data/1591588/000195917326006926/0001959173-26-006926-index.htm,LOW
