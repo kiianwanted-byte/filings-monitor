@@ -2293,3 +2293,11 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-14T23:51:39+00:00,INSIDER_CLUSTER,PMTS,CPI Card Group Inc.,Mallela Ravi $22K,21500,0,https://www.sec.gov/Archives/edgar/data/1751947/000175194726000004/0001751947-26-000004-index.htm,HIGH
 2026-09-14T23:51:40+00:00,INSIDER_CLUSTER,PMTS,CPI Card Group Inc.,Peters Nicholas $250K,250002,0,https://www.sec.gov/Archives/edgar/data/1654770/000165477026000004/0001654770-26-000004-index.htm,HIGH
 2026-09-14T23:51:41+00:00,FORM_144,,"Palo Alto Networks, Inc.",proposed sale $331K,330650,,https://www.sec.gov/Archives/edgar/data/1773301/000196858226000970/0001968582-26-000970-index.htm,LOW
+2026-09-14T23:59:10+00:00,INSIDER_CLUSTER,PMTS,CPI Card Group Inc.,Tricor PMT25 Holdings Inc. $11.29M,11287500,0,https://www.sec.gov/Archives/edgar/data/2101417/000110465926107610/0001104659-26-107610-index.htm,HIGH
+2026-09-14T23:59:11+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $315K,314845,,https://www.sec.gov/Archives/edgar/data/1672565/000119312526391001/0001193125-26-391001-index.htm,LOW
+2026-09-14T23:59:11+00:00,FORM_144,,Seagate Technology Holdings plc,proposed sale $1.53M,1533731,,https://www.sec.gov/Archives/edgar/data/1388390/000138839026000012/0001388390-26-000012-index.htm,LOW
+2026-09-14T23:59:12+00:00,FORM_144,,Mission Produce Inc,proposed sale $1.30M,1301000,,https://www.sec.gov/Archives/edgar/data/1825803/000196858226000972/0001968582-26-000972-index.htm,LOW
+2026-09-14T23:59:12+00:00,FORM_144,,Mission Produce Inc,proposed sale $1.30M,1301000,,https://www.sec.gov/Archives/edgar/data/1825803/000196858226000971/0001968582-26-000971-index.htm,LOW
+2026-09-14T23:59:12+00:00,FORM_144,,Kinetik Holdings Inc.,proposed sale $56K,55913,,https://www.sec.gov/Archives/edgar/data/1904934/000090514826004192/0000905148-26-004192-index.htm,LOW
+2026-09-14T23:59:13+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $14.06M,14063686,,https://www.sec.gov/Archives/edgar/data/1767114/000119312526390999/0001193125-26-390999-index.htm,LOW
+2026-09-14T23:59:13+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $15.41M,15408163,,https://www.sec.gov/Archives/edgar/data/1571996/000119312526390998/0001193125-26-390998-index.htm,LOW
