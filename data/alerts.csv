@@ -2284,3 +2284,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-14T22:23:37+00:00,FORM_144,,KANZHUN LIMITED,proposed sale $283.47M,283473000,,https://www.sec.gov/Archives/edgar/data/1970144/000095010326013932/0000950103-26-013932-index.htm,LOW
 2026-09-14T22:36:54+00:00,FORM_144,,PHARVARIS N.V.,proposed sale $1.02M,1023583,,https://www.sec.gov/Archives/edgar/data/1973529/000195004726009455/0001950047-26-009455-index.htm,LOW
 2026-09-14T22:48:46+00:00,STAKE_13G,,Guardian Metal Resources PLC,Guardian Metal Resources PLC 0.0%,,,https://www.sec.gov/Archives/edgar/data/2039972/000089914026001060/0000899140-26-001060-index.htm,HIGH
+2026-09-14T22:57:44+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $231K,230997,,https://www.sec.gov/Archives/edgar/data/2126746/000212674626000002/0002126746-26-000002-index.htm,LOW
+2026-09-14T22:57:44+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $76K,75815,,https://www.sec.gov/Archives/edgar/data/2126753/000212675326000014/0002126753-26-000014-index.htm,LOW
