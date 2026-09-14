@@ -477,3 +477,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-14T13:24:23+00:00,2026-09-10,ANIX,Anixa Biosciences Inc,Titterton Lewis H jr,Director,10000,2.73,27300,1.0,0001493152-26-042502
 2026-09-14T13:51:52+00:00,2026-09-10,ANIX,Anixa Biosciences Inc,KUMAR AMIT,"Director, Chief Executive Officer",3000,2.75,8250,0.5,0001493152-26-042512
 2026-09-14T13:51:55+00:00,2026-09-11,GRX,Gabelli Healthcare & WellnessRx Trust,"Saba Capital Management, L.P.",10% owner,400,9.71,3884,0.0,0001510281-26-000300
+2026-09-14T14:35:00+00:00,2026-09-14,FINS,Angel Oak Financial Strategies Income Term Trust,Parks Kevin,,1000,12.53,12530,17.6,0001816321-26-000003
