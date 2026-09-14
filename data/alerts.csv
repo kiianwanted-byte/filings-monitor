@@ -2289,3 +2289,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-14T23:10:07+00:00,INSIDER_BUY,RSG,"REPUBLIC SERVICES, INC.","CASCADE INVESTMENT, L.L.C. $129.31M",129305616,4,https://www.sec.gov/Archives/edgar/data/1060391/000110465926107592/0001104659-26-107592-index.htm,HIGH
 2026-09-14T23:21:58+00:00,INSIDER_CLUSTER,GPUS,"Hyperscale Data, Inc.",AULT MILTON C III $49K,48809,6,https://www.sec.gov/Archives/edgar/data/1734770/000121465926011678/0001214659-26-011678-index.htm,HIGH
 2026-09-14T23:22:00+00:00,FORM_144,,Lightspeed Commerce Inc.,proposed sale $31K,30646,,https://www.sec.gov/Archives/edgar/data/2014620/000201462026000009/0002014620-26-000009-index.htm,LOW
+2026-09-14T23:51:38+00:00,INSIDER_CLUSTER,PMTS,CPI Card Group Inc.,Riley H Sanford $300K,299989,0,https://www.sec.gov/Archives/edgar/data/1641614/000131740626000006/0001317406-26-000006-index.htm,HIGH
+2026-09-14T23:51:39+00:00,INSIDER_CLUSTER,PMTS,CPI Card Group Inc.,Mallela Ravi $22K,21500,0,https://www.sec.gov/Archives/edgar/data/1751947/000175194726000004/0001751947-26-000004-index.htm,HIGH
+2026-09-14T23:51:40+00:00,INSIDER_CLUSTER,PMTS,CPI Card Group Inc.,Peters Nicholas $250K,250002,0,https://www.sec.gov/Archives/edgar/data/1654770/000165477026000004/0001654770-26-000004-index.htm,HIGH
+2026-09-14T23:51:41+00:00,FORM_144,,"Palo Alto Networks, Inc.",proposed sale $331K,330650,,https://www.sec.gov/Archives/edgar/data/1773301/000196858226000970/0001968582-26-000970-index.htm,LOW
