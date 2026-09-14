@@ -2107,3 +2107,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-14T13:38:30+00:00,FORM_144,,Essent Group Ltd.,proposed sale $161K,160622,,https://www.sec.gov/Archives/edgar/data/1448893/000195917326006909/0001959173-26-006909-index.htm,LOW
 2026-09-14T13:51:52+00:00,INSIDER_CLUSTER,ANIX,Anixa Biosciences Inc,KUMAR AMIT $8K,8250,4,https://www.sec.gov/Archives/edgar/data/1191905/000149315226042512/0001493152-26-042512-index.htm,HIGH
 2026-09-14T13:51:55+00:00,FORM_144,,DEXCOM INC,proposed sale $130K,130231,,https://www.sec.gov/Archives/edgar/data/1238485/000195917326006910/0001959173-26-006910-index.htm,LOW
+2026-09-14T14:18:16+00:00,FORM_144,,Stevanato Group SpA,proposed sale $276K,276255,,https://www.sec.gov/Archives/edgar/data/1981529/000119312526389972/0001193125-26-389972-index.htm,LOW
