@@ -2253,3 +2253,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-14T21:08:56+00:00,FORM_144,,"Korro Bio, Inc.",proposed sale $440K,440373,,https://www.sec.gov/Archives/edgar/data/1708269/000162828026061898/0001628280-26-061898-index.htm,LOW
 2026-09-14T21:08:56+00:00,FORM_144,,"Korro Bio, Inc.",proposed sale $91K,91173,,https://www.sec.gov/Archives/edgar/data/1885327/000162828026061897/0001628280-26-061897-index.htm,LOW
 2026-09-14T21:08:57+00:00,FORM_144,,"Inhibrx Biosciences, Inc.",proposed sale $55K,55130,,https://www.sec.gov/Archives/edgar/data/2007919/000195917326006953/0001959173-26-006953-index.htm,LOW
+2026-09-14T21:23:07+00:00,FORM_144,,TransUnion,proposed sale $99K,98837,,https://www.sec.gov/Archives/edgar/data/2058648/000195917326006956/0001959173-26-006956-index.htm,LOW
+2026-09-14T21:23:07+00:00,FORM_144,,Neptune Insurance Holdings Inc.,proposed sale $1.58M,1580000,,https://www.sec.gov/Archives/edgar/data/2085255/000196858226000967/0001968582-26-000967-index.htm,LOW
+2026-09-14T21:23:08+00:00,FORM_144,,CARVANA CO,proposed sale $1.16M,1161127,,https://www.sec.gov/Archives/edgar/data/1690820/000195004726009446/0001950047-26-009446-index.htm,LOW
+2026-09-14T21:23:08+00:00,STAKE_13G,,Guardian Metal Resources PLC,Guardian Metal Resources PLC 0.0%,,,https://www.sec.gov/Archives/edgar/data/2039972/000089914026001058/0000899140-26-001058-index.htm,HIGH

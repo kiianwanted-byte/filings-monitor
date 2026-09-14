@@ -503,3 +503,5 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-14T20:56:56+00:00,2026-09-10,GREE,Vulcan Infrastructure & Power Inc.,Mulvihill Christian,Chief Financial Officer,58479,1.71,99999,33.2,0001628280-26-061879
 2026-09-14T20:56:57+00:00,2026-09-10,GREE,Vulcan Infrastructure & Power Inc.,Irwin Dale,President,58479,1.71,99999,28.9,0001628280-26-061878
 2026-09-14T21:08:30+00:00,2026-09-10,DFH,"Dream Finders Homes, Inc.",BECKWITT RICHARD,Director,10000,12.07,120700,11.1,0000897069-26-001778
+2026-09-14T21:22:50+00:00,2026-09-10,CROX,"Crocs, Inc.",SMACH THOMAS J,Director,4000,109.38,437529,4.5,0001194106-26-000012
+2026-09-14T21:23:01+00:00,2026-09-11,PPG,PPG INDUSTRIES INC,Hefel Juliane M.,"Sr. VP, Ind Coatings & Sp Prod",13,105.31,1409,0.7,0000079879-26-000290
