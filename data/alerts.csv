@@ -2103,3 +2103,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-14T11:33:20+00:00,INSIDER_CLUSTER,ALP,Alpha Compute Corp,Villani Fiorenzo $35K,35455,5,https://www.sec.gov/Archives/edgar/data/1889272/000117184326006026/0001171843-26-006026-index.htm,HIGH
 2026-09-14T11:33:21+00:00,INSIDER_CLUSTER,ALP,Alpha Compute Corp,Kaiser Brittany $50K,49997,5,https://www.sec.gov/Archives/edgar/data/1918874/000117184326006025/0001171843-26-006025-index.htm,HIGH
 2026-09-14T12:15:39+00:00,INSIDER_CLUSTER,DOMH,Dominari Holdings Inc.,Wool Kyle Michael $209K,209190,4,https://www.sec.gov/Archives/edgar/data/1856536/000121390026099456/0001213900-26-099456-index.htm,HIGH
+2026-09-14T13:24:23+00:00,INSIDER_CLUSTER,ANIX,Anixa Biosciences Inc,Titterton Lewis H jr $27K,27300,4,https://www.sec.gov/Archives/edgar/data/1499254/000149315226042502/0001493152-26-042502-index.htm,HIGH
