@@ -2157,3 +2157,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-14T19:37:44+00:00,FORM_144,,"Century Therapeutics, Inc.",proposed sale $5K,4994,,https://www.sec.gov/Archives/edgar/data/1867305/000195917326006940/0001959173-26-006940-index.htm,LOW
 2026-09-14T19:37:44+00:00,FORM_144,,"Century Therapeutics, Inc.",proposed sale $3K,3200,,https://www.sec.gov/Archives/edgar/data/1867173/000195917326006939/0001959173-26-006939-index.htm,LOW
 2026-09-14T19:37:44+00:00,FORM_144,,"ROCKET PHARMACEUTICALS, INC.",proposed sale $23K,22730,,https://www.sec.gov/Archives/edgar/data/1662170/000195917326006938/0001959173-26-006938-index.htm,LOW
+2026-09-14T19:47:27+00:00,FORM_144,,"Academy Sports & Outdoors, Inc.",proposed sale $1.38M,1379936,,https://www.sec.gov/Archives/edgar/data/1817358/000195917326006943/0001959173-26-006943-index.htm,LOW
