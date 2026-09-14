@@ -2193,3 +2193,56 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-14T20:36:53+00:00,FORM_144,,Wayfair Inc.,proposed sale $7.13M,7132078,,https://www.sec.gov/Archives/edgar/data/1620052/000195917326006948/0001959173-26-006948-index.htm,LOW
 2026-09-14T20:36:54+00:00,FORM_144,,LANDMARK BANCORP INC,proposed sale $7K,7345,,https://www.sec.gov/Archives/edgar/data/1141688/000100027526000111/0001000275-26-000111-index.htm,LOW
 2026-09-14T20:36:54+00:00,FORM_144,,GENPACT LIMITED,proposed sale $368K,367904,,https://www.sec.gov/Archives/edgar/data/1768217/000195004726009398/0001950047-26-009398-index.htm,LOW
+2026-09-14T20:56:54+00:00,INSIDER_CLUSTER,GREE,Vulcan Infrastructure & Power Inc.,Kovler Jordan $100K,99999,4,https://www.sec.gov/Archives/edgar/data/1971292/000162828026061880/0001628280-26-061880-index.htm,HIGH
+2026-09-14T20:56:56+00:00,INSIDER_CLUSTER,GREE,Vulcan Infrastructure & Power Inc.,Mulvihill Christian $100K,99999,4,https://www.sec.gov/Archives/edgar/data/1998358/000162828026061879/0001628280-26-061879-index.htm,HIGH
+2026-09-14T20:56:57+00:00,INSIDER_CLUSTER,GREE,Vulcan Infrastructure & Power Inc.,Irwin Dale $100K,99999,4,https://www.sec.gov/Archives/edgar/data/1881363/000162828026061878/0001628280-26-061878-index.htm,HIGH
+2026-09-14T20:57:01+00:00,FORM_144,,BANCFIRST CORP /OK/,proposed sale $280K,280000,,https://www.sec.gov/Archives/edgar/data/1640710/000164071026000001/0001640710-26-000001-index.htm,LOW
+2026-09-14T20:57:59+00:00,FORM_144,,GLOBAL-E ONLINE LTD,proposed sale $465K,464750,,https://www.sec.gov/Archives/edgar/data/1964100/000195004726009443/0001950047-26-009443-index.htm,LOW
+2026-09-14T20:58:11+00:00,FORM_144,,Hewlett Packard Enterprise Company,proposed sale $1.06M,1055530,,https://www.sec.gov/Archives/edgar/data/1645590/000196858226000965/0001968582-26-000965-index.htm,LOW
+2026-09-14T20:58:11+00:00,FORM_144,,RHYTHM PHARMACEUTICALS INC,proposed sale $5.24M,5235500,,https://www.sec.gov/Archives/edgar/data/1649904/000195004726009442/0001950047-26-009442-index.htm,LOW
+2026-09-14T20:58:12+00:00,FORM_144,,ENTERGY CORP /DE/,proposed sale $942K,942435,,https://www.sec.gov/Archives/edgar/data/1894663/000195917326006952/0001959173-26-006952-index.htm,LOW
+2026-09-14T20:58:12+00:00,FORM_144,,NEUROCRINE BIOSCIENCES INC,proposed sale $361K,361024,,https://www.sec.gov/Archives/edgar/data/1724097/000195004726009441/0001950047-26-009441-index.htm,LOW
+2026-09-14T20:58:12+00:00,FORM_144,,PHARVARIS N V,proposed sale $87K,87103,,https://www.sec.gov/Archives/edgar/data/1830487/000195004726009440/0001950047-26-009440-index.htm,LOW
+2026-09-14T20:58:13+00:00,FORM_144,,NextNav Inc.,proposed sale $29K,28508,,https://www.sec.gov/Archives/edgar/data/1945586/000195004726009439/0001950047-26-009439-index.htm,LOW
+2026-09-14T20:58:13+00:00,FORM_144,,"FASTLY, INC.",proposed sale $1.17M,1167078,,https://www.sec.gov/Archives/edgar/data/2074428/000195004726009438/0001950047-26-009438-index.htm,LOW
+2026-09-14T20:58:14+00:00,FORM_144,,"FIGMA, INC.",proposed sale $5.80M,5800000,,https://www.sec.gov/Archives/edgar/data/2073592/000195004726009437/0001950047-26-009437-index.htm,LOW
+2026-09-14T20:58:14+00:00,FORM_144,,Shopify Inc.,proposed sale $1.50M,1500017,,https://www.sec.gov/Archives/edgar/data/1962732/000195004726009436/0001950047-26-009436-index.htm,LOW
+2026-09-14T20:58:14+00:00,FORM_144,,"CISCO SYSTEMS, INC.",proposed sale $35K,34984,,https://www.sec.gov/Archives/edgar/data/2015287/000195004726009435/0001950047-26-009435-index.htm,LOW
+2026-09-14T20:58:15+00:00,FORM_144,,"CISCO SYSTEMS, INC.",proposed sale $76K,76248,,https://www.sec.gov/Archives/edgar/data/2066411/000195004726009434/0001950047-26-009434-index.htm,LOW
+2026-09-14T20:58:15+00:00,FORM_144,,BEL FUSE INC /NJ,proposed sale $250K,250000,,https://www.sec.gov/Archives/edgar/data/1688761/000143774926030337/0001437749-26-030337-index.htm,LOW
+2026-09-14T20:58:16+00:00,FORM_144,,"Slide Insurance Holdings, Inc.",proposed sale $283K,282530,,https://www.sec.gov/Archives/edgar/data/2114934/000195004726009433/0001950047-26-009433-index.htm,LOW
+2026-09-14T20:58:16+00:00,FORM_144,,"FORTINET, INC.",proposed sale $8.85M,8849169,,https://www.sec.gov/Archives/edgar/data/1476336/000195004726009432/0001950047-26-009432-index.htm,LOW
+2026-09-14T20:58:17+00:00,FORM_144,,ACV AUCTIONS INC,proposed sale $350K,349692,,https://www.sec.gov/Archives/edgar/data/2030941/000195004726009431/0001950047-26-009431-index.htm,LOW
+2026-09-14T20:58:17+00:00,FORM_144,,Sandisk Corporation,proposed sale $55.27M,55269297,,https://www.sec.gov/Archives/edgar/data/2023554/000195004726009430/0001950047-26-009430-index.htm,LOW
+2026-09-14T20:58:17+00:00,FORM_144,,"Duolingo, Inc.",proposed sale $1.16M,1159784,,https://www.sec.gov/Archives/edgar/data/1869758/000195004726009429/0001950047-26-009429-index.htm,LOW
+2026-09-14T20:58:18+00:00,FORM_144,,"Datadog, Inc.",proposed sale $2.65M,2654520,,https://www.sec.gov/Archives/edgar/data/1561550/000195004726009428/0001950047-26-009428-index.htm,LOW
+2026-09-14T20:58:18+00:00,FORM_144,,"Datadog, Inc.",proposed sale $8.85M,8848400,,https://www.sec.gov/Archives/edgar/data/1561550/000195004726009427/0001950047-26-009427-index.htm,LOW
+2026-09-14T20:58:19+00:00,FORM_144,,"Datadog, Inc.",proposed sale $2.65M,2654520,,https://www.sec.gov/Archives/edgar/data/1561550/000195004726009426/0001950047-26-009426-index.htm,LOW
+2026-09-14T20:58:19+00:00,FORM_144,,VEEVA SYSTEMS INC,proposed sale $787K,787200,,https://www.sec.gov/Archives/edgar/data/1788226/000195004726009425/0001950047-26-009425-index.htm,LOW
+2026-09-14T20:58:19+00:00,FORM_144,,"MAGNITE, INC.",proposed sale $28K,27692,,https://www.sec.gov/Archives/edgar/data/1966857/000195004726009424/0001950047-26-009424-index.htm,LOW
+2026-09-14T20:58:20+00:00,FORM_144,,LATTICE SEMICONDUCTOR CORPORATION,proposed sale $244K,244190,,https://www.sec.gov/Archives/edgar/data/1992449/000195004726009423/0001950047-26-009423-index.htm,LOW
+2026-09-14T20:58:20+00:00,FORM_144,,"F5, INC.",proposed sale $1.82M,1822228,,https://www.sec.gov/Archives/edgar/data/1869466/000195004726009422/0001950047-26-009422-index.htm,LOW
+2026-09-14T20:58:21+00:00,FORM_144,,"Porch Group, Inc.",proposed sale $545K,545070,,https://www.sec.gov/Archives/edgar/data/1950180/000195004726009421/0001950047-26-009421-index.htm,LOW
+2026-09-14T20:58:21+00:00,FORM_144,,"Health In Tech, Inc.",proposed sale $11K,10776,,https://www.sec.gov/Archives/edgar/data/2020283/000165495426008344/0001654954-26-008344-index.htm,LOW
+2026-09-14T20:58:22+00:00,FORM_144,,"BLOCK, INC.",proposed sale $474K,473760,,https://www.sec.gov/Archives/edgar/data/1933928/000195004726009420/0001950047-26-009420-index.htm,LOW
+2026-09-14T20:58:22+00:00,FORM_144,,"NETAPP, INC.",proposed sale $7.66M,7656847,,https://www.sec.gov/Archives/edgar/data/1586813/000195004726009419/0001950047-26-009419-index.htm,LOW
+2026-09-14T20:58:22+00:00,FORM_144,,"CROWDSTRIKE HOLDINGS, INC.",proposed sale $11.88M,11879825,,https://www.sec.gov/Archives/edgar/data/1535527/000195004726009418/0001950047-26-009418-index.htm,LOW
+2026-09-14T20:58:23+00:00,FORM_144,,"F5, INC.",proposed sale $84K,83988,,https://www.sec.gov/Archives/edgar/data/2046054/000195004726009417/0001950047-26-009417-index.htm,LOW
+2026-09-14T20:58:23+00:00,FORM_144,,"Datadog, Inc.",proposed sale $1.17M,1167988,,https://www.sec.gov/Archives/edgar/data/1903975/000195004726009416/0001950047-26-009416-index.htm,LOW
+2026-09-14T20:58:24+00:00,FORM_144,,"VENTURE GLOBAL, INC.",proposed sale $2.41M,2412028,,https://www.sec.gov/Archives/edgar/data/2050370/000195004726009415/0001950047-26-009415-index.htm,LOW
+2026-09-14T20:58:24+00:00,FORM_144,,UNITED THERAPEUTICS CORPORATION,proposed sale $115K,115337,,https://www.sec.gov/Archives/edgar/data/1756697/000195004726009414/0001950047-26-009414-index.htm,LOW
+2026-09-14T20:58:24+00:00,FORM_144,,COGNIZANT TECHNOLOGY SOLUTIONS CORPORATION,proposed sale $8K,8040,,https://www.sec.gov/Archives/edgar/data/2075228/000195004726009413/0001950047-26-009413-index.htm,LOW
+2026-09-14T20:58:25+00:00,FORM_144,,"ROSS STORES, INC.",proposed sale $1.48M,1475303,,https://www.sec.gov/Archives/edgar/data/1997180/000195004726009411/0001950047-26-009411-index.htm,LOW
+2026-09-14T20:58:25+00:00,FORM_144,,NEUROCRINE BIOSCIENCES INC,proposed sale $736K,736421,,https://www.sec.gov/Archives/edgar/data/1909817/000195004726009412/0001950047-26-009412-index.htm,LOW
+2026-09-14T20:58:26+00:00,FORM_144,,"FASTLY, INC.",proposed sale $3.22M,3216808,,https://www.sec.gov/Archives/edgar/data/1769490/000195004726009410/0001950047-26-009410-index.htm,LOW
+2026-09-14T20:58:37+00:00,FORM_144,,"THE HONEST COMPANY, INC.",proposed sale $137K,137032,,https://www.sec.gov/Archives/edgar/data/2016633/000195004726009409/0001950047-26-009409-index.htm,LOW
+2026-09-14T20:58:38+00:00,FORM_144,,"Arteris, Inc.",proposed sale $277K,277249,,https://www.sec.gov/Archives/edgar/data/1888601/000195004726009408/0001950047-26-009408-index.htm,LOW
+2026-09-14T20:58:38+00:00,FORM_144,,"Airbnb, Inc.",proposed sale $2.35M,2346729,,https://www.sec.gov/Archives/edgar/data/1834147/000195917326006951/0001959173-26-006951-index.htm,LOW
+2026-09-14T20:58:38+00:00,FORM_144,,"XPO, Inc.",proposed sale $1.43M,1429202,,https://www.sec.gov/Archives/edgar/data/1534267/000195004726009407/0001950047-26-009407-index.htm,LOW
+2026-09-14T20:58:39+00:00,FORM_144,,"Porch Group, Inc.",proposed sale $4.01M,4009736,,https://www.sec.gov/Archives/edgar/data/1837336/000195004726009406/0001950047-26-009406-index.htm,LOW
+2026-09-14T20:58:39+00:00,FORM_144,,"XPO, Inc.",proposed sale $547K,546540,,https://www.sec.gov/Archives/edgar/data/1987257/000195004726009405/0001950047-26-009405-index.htm,LOW
+2026-09-14T20:58:40+00:00,FORM_144,,SEAGATE TECHNOLOGY HOLDINGS PUBLIC LIMITED COMPANY,proposed sale $770K,770431,,https://www.sec.gov/Archives/edgar/data/1801425/000195004726009404/0001950047-26-009404-index.htm,LOW
+2026-09-14T20:58:40+00:00,FORM_144,,"NETAPP, INC.",proposed sale $684K,684185,,https://www.sec.gov/Archives/edgar/data/1494732/000195004726009403/0001950047-26-009403-index.htm,LOW
+2026-09-14T20:58:40+00:00,FORM_144,,"GUIDEWIRE SOFTWARE, INC.",proposed sale $175K,175044,,https://www.sec.gov/Archives/edgar/data/1784996/000195004726009402/0001950047-26-009402-index.htm,LOW
+2026-09-14T20:58:41+00:00,FORM_144,,"HERITAGE INSURANCE HOLDINGS, INC.",proposed sale $88K,88135,,https://www.sec.gov/Archives/edgar/data/1607776/000195004726009401/0001950047-26-009401-index.htm,LOW
+2026-09-14T20:58:41+00:00,FORM_144,,"BillionToOne, Inc.",proposed sale $2.51M,2507908,,https://www.sec.gov/Archives/edgar/data/2088549/000195917326006950/0001959173-26-006950-index.htm,LOW
