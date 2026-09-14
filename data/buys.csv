@@ -469,3 +469,6 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-14T11:33:20+00:00,2026-09-09,ALP,Alpha Compute Corp,Villani Fiorenzo,"Director, See Remarks",7000,5.07,35455,46.0,0001171843-26-006026
 2026-09-14T11:33:21+00:00,2026-09-09,ALP,Alpha Compute Corp,Kaiser Brittany,"Director, Chief Executive Officer",9350,5.35,49997,126.1,0001171843-26-006025
 2026-09-14T11:46:54+00:00,2026-09-11,SKYH,Sky Harbour Group Corp,Gonzalez Francisco,Chief Financial Officer,1000,10.08,10080,0.1,0001437749-26-030226
+2026-09-14T12:15:39+00:00,2026-09-10,DOMH,Dominari Holdings Inc.,Hayes Anthony,"Director, CEO",100000,2.09,209190,2.2,0001213900-26-099457
+2026-09-14T12:15:39+00:00,2026-09-10,DOMH,Dominari Holdings Inc.,Wool Kyle Michael,"Director, President",100000,2.09,209190,2.4,0001213900-26-099456
+2026-09-14T12:15:41+00:00,2026-09-10,NNOX,Nano-X Imaging Ltd.,Meltzer Erez,"Director, Chief Executive Officer",10000,0.78,7800,22.0,0001213900-26-099455
