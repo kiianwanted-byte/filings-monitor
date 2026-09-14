@@ -466,3 +466,5 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-12T01:31:15+00:00,2026-09-11,FLD,"Fold Holdings, Inc.",Young Bracebridge H Jr,Director,20000,0.55,11049,39.9,0001193125-26-389597
 2026-09-12T01:59:48+00:00,2026-09-09,GPUS,"Hyperscale Data, Inc.",AULT MILTON C III,"Director, Executive Chairman, 10% owner",178300,0.19,33651,6.9,0001214659-26-011648
 2026-09-14T10:12:45+00:00,2026-09-11,NTHI,"NEONC TECHNOLOGIES HOLDINGS, INC.",Heshmatpour Amir F,"Director, CEO, President, 10% owner",37000,3.67,135619,1.2,0001213900-26-099422
+2026-09-14T11:33:20+00:00,2026-09-09,ALP,Alpha Compute Corp,Villani Fiorenzo,"Director, See Remarks",7000,5.07,35455,46.0,0001171843-26-006026
+2026-09-14T11:33:21+00:00,2026-09-09,ALP,Alpha Compute Corp,Kaiser Brittany,"Director, Chief Executive Officer",9350,5.35,49997,126.1,0001171843-26-006025

@@ -2100,3 +2100,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-12T01:51:53+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $14K,13565,,https://www.sec.gov/Archives/edgar/data/2152878/000215287826000001/0002152878-26-000001-index.htm,LOW
 2026-09-12T01:59:48+00:00,INSIDER_CLUSTER,GPUS,"Hyperscale Data, Inc.",AULT MILTON C III $34K,33651,2,https://www.sec.gov/Archives/edgar/data/1734770/000121465926011648/0001214659-26-011648-index.htm,HIGH
 2026-09-14T11:18:31+00:00,FORM_144,,FLEXSTEEL INDUSTRIES INC,proposed sale $8.78M,8779172,,https://www.sec.gov/Archives/edgar/data/1668493/000197337926000337/0001973379-26-000337-index.htm,LOW
+2026-09-14T11:33:20+00:00,INSIDER_CLUSTER,ALP,Alpha Compute Corp,Villani Fiorenzo $35K,35455,5,https://www.sec.gov/Archives/edgar/data/1889272/000117184326006026/0001171843-26-006026-index.htm,HIGH
+2026-09-14T11:33:21+00:00,INSIDER_CLUSTER,ALP,Alpha Compute Corp,Kaiser Brittany $50K,49997,5,https://www.sec.gov/Archives/edgar/data/1918874/000117184326006025/0001171843-26-006025-index.htm,HIGH
