@@ -2170,3 +2170,21 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-14T20:10:09+00:00,FORM_144,,CORVEL CORP,proposed sale $8.97M,8973628,,https://www.sec.gov/Archives/edgar/data/1256520/000196922326001021/0001969223-26-001021-index.htm,LOW
 2026-09-14T20:10:09+00:00,FORM_144,,"Meta Platforms, Inc.",proposed sale $1.04M,1035925,,https://www.sec.gov/Archives/edgar/data/1564475/000192109426001013/0001921094-26-001013-index.htm,LOW
 2026-09-14T20:10:10+00:00,FORM_144,,"Verisk Analytics, Inc.",proposed sale $1.01M,1008610,,https://www.sec.gov/Archives/edgar/data/1803783/000196430626000439/0001964306-26-000439-index.htm,LOW
+2026-09-14T20:23:57+00:00,FORM_144,,"ConnectM Technology Solutions, Inc.",proposed sale $4K,3856,,https://www.sec.gov/Archives/edgar/data/1904506/000195004726009397/0001950047-26-009397-index.htm,LOW
+2026-09-14T20:23:57+00:00,FORM_144,,"BARK, INC.",proposed sale $41K,40812,,https://www.sec.gov/Archives/edgar/data/1819574/000195004726009396/0001950047-26-009396-index.htm,LOW
+2026-09-14T20:23:57+00:00,FORM_144,,MOHAWK INDUSTRIES INC,proposed sale $4.86M,4864677,,https://www.sec.gov/Archives/edgar/data/925177/000001179026000032/0000011790-26-000032-index.htm,LOW
+2026-09-14T20:23:58+00:00,FORM_144,,"SHOULDER INNOVATIONS, INC.",proposed sale $188K,187706,,https://www.sec.gov/Archives/edgar/data/2070664/000195004726009395/0001950047-26-009395-index.htm,LOW
+2026-09-14T20:23:58+00:00,FORM_144,,DEVON ENERGY CORP/DE,proposed sale $4.31M,4312367,,https://www.sec.gov/Archives/edgar/data/1887203/000195917326006947/0001959173-26-006947-index.htm,LOW
+2026-09-14T20:23:58+00:00,FORM_144,,"AFFIRM HOLDINGS, INC.",proposed sale $1.95M,1947788,,https://www.sec.gov/Archives/edgar/data/1832806/000195004726009394/0001950047-26-009394-index.htm,LOW
+2026-09-14T20:23:59+00:00,FORM_144,,"NWPX Infrastructure, Inc.",proposed sale $101K,101119,,https://www.sec.gov/Archives/edgar/data/1401658/000195917326006946/0001959173-26-006946-index.htm,LOW
+2026-09-14T20:23:59+00:00,FORM_144,,EPSILON ENERGY LTD.,proposed sale $16K,16353,,https://www.sec.gov/Archives/edgar/data/1726126/000195004726009393/0001950047-26-009393-index.htm,LOW
+2026-09-14T20:23:59+00:00,FORM_144,,"STARFIGHTERS SPACE, INC.",proposed sale $1.12M,1115264,,https://www.sec.gov/Archives/edgar/data/2101764/000195004726009392/0001950047-26-009392-index.htm,LOW
+2026-09-14T20:24:00+00:00,FORM_144,,"EASTERN BANKSHARES, INC.",proposed sale $87K,87100,,https://www.sec.gov/Archives/edgar/data/1825604/000195004726009391/0001950047-26-009391-index.htm,LOW
+2026-09-14T20:24:00+00:00,FORM_144,,"DOCUSIGN, INC.",proposed sale $37K,36716,,https://www.sec.gov/Archives/edgar/data/1753557/000195004726009390/0001950047-26-009390-index.htm,LOW
+2026-09-14T20:24:00+00:00,FORM_144,,"FIVE BELOW, INC.",proposed sale $1.37M,1369445,,https://www.sec.gov/Archives/edgar/data/1177609/000195004726009389/0001950047-26-009389-index.htm,LOW
+2026-09-14T20:24:01+00:00,FORM_144,,"Heartflow, Inc.",proposed sale $231K,230743,,https://www.sec.gov/Archives/edgar/data/2079946/000195917326006945/0001959173-26-006945-index.htm,LOW
+2026-09-14T20:24:01+00:00,FORM_144,,INNODATA INC.,proposed sale $535K,535483,,https://www.sec.gov/Archives/edgar/data/1197984/000195004726009388/0001950047-26-009388-index.htm,LOW
+2026-09-14T20:24:01+00:00,FORM_144,,HYATT HOTELS CORPORATION,proposed sale $222K,222407,,https://www.sec.gov/Archives/edgar/data/1849027/000195004726009387/0001950047-26-009387-index.htm,LOW
+2026-09-14T20:24:01+00:00,FORM_144,,DESIGNER BRANDS INC.,proposed sale $113K,112697,,https://www.sec.gov/Archives/edgar/data/1533646/000195004726009386/0001950047-26-009386-index.htm,LOW
+2026-09-14T20:24:02+00:00,FORM_144,,JFROG LTD.,proposed sale $110K,110475,,https://www.sec.gov/Archives/edgar/data/1800667/000195004726009385/0001950047-26-009385-index.htm,LOW
+2026-09-14T20:24:02+00:00,FORM_144,,LIQUIDIA CORPORATION,proposed sale $560K,560242,,https://www.sec.gov/Archives/edgar/data/1819576/000195004726009384/0001950047-26-009384-index.htm,LOW
