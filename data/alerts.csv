@@ -2246,3 +2246,10 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-14T20:58:40+00:00,FORM_144,,"GUIDEWIRE SOFTWARE, INC.",proposed sale $175K,175044,,https://www.sec.gov/Archives/edgar/data/1784996/000195004726009402/0001950047-26-009402-index.htm,LOW
 2026-09-14T20:58:41+00:00,FORM_144,,"HERITAGE INSURANCE HOLDINGS, INC.",proposed sale $88K,88135,,https://www.sec.gov/Archives/edgar/data/1607776/000195004726009401/0001950047-26-009401-index.htm,LOW
 2026-09-14T20:58:41+00:00,FORM_144,,"BillionToOne, Inc.",proposed sale $2.51M,2507908,,https://www.sec.gov/Archives/edgar/data/2088549/000195917326006950/0001959173-26-006950-index.htm,LOW
+2026-09-14T21:08:30+00:00,INSIDER_CLUSTER,DFH,"Dream Finders Homes, Inc.",BECKWITT RICHARD $121K,120700,4,https://www.sec.gov/Archives/edgar/data/1825088/000089706926001778/0000897069-26-001778-index.htm,HIGH
+2026-09-14T21:08:55+00:00,FORM_144,,BANNER CORP,proposed sale $77K,76954,,https://www.sec.gov/Archives/edgar/data/1702210/000195917326006955/0001959173-26-006955-index.htm,LOW
+2026-09-14T21:08:55+00:00,FORM_144,,"Groupon, Inc.",proposed sale $322K,321613,,https://www.sec.gov/Archives/edgar/data/1973423/000195917326006954/0001959173-26-006954-index.htm,LOW
+2026-09-14T21:08:55+00:00,FORM_144,,"VERACYTE, INC.",proposed sale $205K,204747,,https://www.sec.gov/Archives/edgar/data/1819880/000195004726009444/0001950047-26-009444-index.htm,LOW
+2026-09-14T21:08:56+00:00,FORM_144,,"Korro Bio, Inc.",proposed sale $440K,440373,,https://www.sec.gov/Archives/edgar/data/1708269/000162828026061898/0001628280-26-061898-index.htm,LOW
+2026-09-14T21:08:56+00:00,FORM_144,,"Korro Bio, Inc.",proposed sale $91K,91173,,https://www.sec.gov/Archives/edgar/data/1885327/000162828026061897/0001628280-26-061897-index.htm,LOW
+2026-09-14T21:08:57+00:00,FORM_144,,"Inhibrx Biosciences, Inc.",proposed sale $55K,55130,,https://www.sec.gov/Archives/edgar/data/2007919/000195917326006953/0001959173-26-006953-index.htm,LOW
