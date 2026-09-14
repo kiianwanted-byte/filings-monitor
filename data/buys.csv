@@ -508,3 +508,5 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-14T21:34:47+00:00,2026-09-10,SLGL,Sol-Gel Technologies Ltd.,Opaleye Management Inc.,10% owner,3124,66.39,207398,0.6,0001493152-26-042615
 2026-09-14T22:23:32+00:00,2026-09-14,DLPN,"Dolphin Entertainment, Inc.",O'Dowd William IV,"Director, Chief Executive Officer, 10% owner",4300,1.12,4816,0.8,0001079973-26-001257
 2026-09-14T22:36:53+00:00,2026-09-11,FBDT,"First Breach, Inc.",LOW JORDAN ZACHARY,"Director, Pres., COO",140000,0.67,94164,2.5,0001213900-26-099824
+2026-09-14T22:48:43+00:00,2026-09-10,JCTC,JEWETT CAMERON TRADING CO LTD,"AJB Investment Fund II, LP",10% owner,5914,2.90,17150,1.2,0001536588-26-000031
+2026-09-14T22:48:44+00:00,2025-03-03,CZR,"Caesars Entertainment, Inc.",TOMICK DAVID P,Director,1850,33.36,61716,31.9,0001158390-26-000007
