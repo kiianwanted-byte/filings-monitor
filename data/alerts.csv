@@ -2116,3 +2116,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-14T15:21:00+00:00,FORM_144,,RADIAN GROUP INC,proposed sale $281K,280763,,https://www.sec.gov/Archives/edgar/data/2112741/000195917326006913/0001959173-26-006913-index.htm,LOW
 2026-09-14T15:35:45+00:00,FORM_144,,Par Pacific,proposed sale $322K,322246,,https://www.sec.gov/Archives/edgar/data/2059514/000162828026061767/0001628280-26-061767-index.htm,LOW
 2026-09-14T15:35:45+00:00,FORM_144,,Willis Lease,proposed sale $1.69M,1685400,,https://www.sec.gov/Archives/edgar/data/1676532/000162828026061763/0001628280-26-061763-index.htm,LOW
+2026-09-14T15:50:20+00:00,INSIDER_CLUSTER,GRNT,"Granite Ridge Resources, Inc.",Miller Matthew Reade $50K,50300,3,https://www.sec.gov/Archives/edgar/data/1951282/000162828026061771/0001628280-26-061771-index.htm,HIGH
+2026-09-14T15:50:23+00:00,INSIDER_CLUSTER,CCFN,MUNCY COLUMBIA FINANCIAL Corp,Glunk Robert J $2K,2312,4,https://www.sec.gov/Archives/edgar/data/1548117/000117494726000869/0001174947-26-000869-index.htm,HIGH
+2026-09-14T15:50:25+00:00,FORM_144,,STEALTHGAS INC.,proposed sale $353K,353250,,https://www.sec.gov/Archives/edgar/data/2036857/000119312526390068/0001193125-26-390068-index.htm,LOW
