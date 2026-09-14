@@ -2151,3 +2151,9 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-14T19:10:48+00:00,FORM_144,,SYSCO CORP,proposed sale $5K,4806,,https://www.sec.gov/Archives/edgar/data/1861524/000195917326006934/0001959173-26-006934-index.htm,LOW
 2026-09-14T19:25:13+00:00,FORM_144,,Hilton Worldwide Holdings Inc.,proposed sale $136K,136239,,https://www.sec.gov/Archives/edgar/data/1821096/000195917326006937/0001959173-26-006937-index.htm,LOW
 2026-09-14T19:25:13+00:00,FORM_144,,BRADY CORP,proposed sale $391K,390659,,https://www.sec.gov/Archives/edgar/data/1964928/000195917326006936/0001959173-26-006936-index.htm,LOW
+2026-09-14T19:37:40+00:00,INSIDER_CLUSTER,OFLX,"Omega Flex, Inc.",Moran Edwin B. $20K,20089,0,https://www.sec.gov/Archives/edgar/data/1827321/000131794526000011/0001317945-26-000011-index.htm,HIGH
+2026-09-14T19:37:43+00:00,FORM_144,,Hilton Worldwide Holdings Inc.,proposed sale $2.26M,2258215,,https://www.sec.gov/Archives/edgar/data/1827369/000195917326006942/0001959173-26-006942-index.htm,LOW
+2026-09-14T19:37:43+00:00,FORM_144,,Oklo Inc.,proposed sale $233K,233001,,https://www.sec.gov/Archives/edgar/data/2021774/000195917326006941/0001959173-26-006941-index.htm,LOW
+2026-09-14T19:37:44+00:00,FORM_144,,"Century Therapeutics, Inc.",proposed sale $5K,4994,,https://www.sec.gov/Archives/edgar/data/1867305/000195917326006940/0001959173-26-006940-index.htm,LOW
+2026-09-14T19:37:44+00:00,FORM_144,,"Century Therapeutics, Inc.",proposed sale $3K,3200,,https://www.sec.gov/Archives/edgar/data/1867173/000195917326006939/0001959173-26-006939-index.htm,LOW
+2026-09-14T19:37:44+00:00,FORM_144,,"ROCKET PHARMACEUTICALS, INC.",proposed sale $23K,22730,,https://www.sec.gov/Archives/edgar/data/1662170/000195917326006938/0001959173-26-006938-index.htm,LOW
