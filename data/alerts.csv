@@ -2188,3 +2188,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-14T20:24:01+00:00,FORM_144,,DESIGNER BRANDS INC.,proposed sale $113K,112697,,https://www.sec.gov/Archives/edgar/data/1533646/000195004726009386/0001950047-26-009386-index.htm,LOW
 2026-09-14T20:24:02+00:00,FORM_144,,JFROG LTD.,proposed sale $110K,110475,,https://www.sec.gov/Archives/edgar/data/1800667/000195004726009385/0001950047-26-009385-index.htm,LOW
 2026-09-14T20:24:02+00:00,FORM_144,,LIQUIDIA CORPORATION,proposed sale $560K,560242,,https://www.sec.gov/Archives/edgar/data/1819576/000195004726009384/0001950047-26-009384-index.htm,LOW
+2026-09-14T20:36:52+00:00,FORM_144,,"CHIME FINANCIAL, INC.",proposed sale $3.25M,3252329,,https://www.sec.gov/Archives/edgar/data/1795586/000195004726009400/0001950047-26-009400-index.htm,LOW
+2026-09-14T20:36:52+00:00,FORM_144,,"CHIME FINANCIAL, INC.",proposed sale $1.86M,1861395,,https://www.sec.gov/Archives/edgar/data/1795586/000195004726009399/0001950047-26-009399-index.htm,LOW
+2026-09-14T20:36:53+00:00,FORM_144,,Wayfair Inc.,proposed sale $7.13M,7132078,,https://www.sec.gov/Archives/edgar/data/1620052/000195917326006948/0001959173-26-006948-index.htm,LOW
+2026-09-14T20:36:54+00:00,FORM_144,,LANDMARK BANCORP INC,proposed sale $7K,7345,,https://www.sec.gov/Archives/edgar/data/1141688/000100027526000111/0001000275-26-000111-index.htm,LOW
+2026-09-14T20:36:54+00:00,FORM_144,,GENPACT LIMITED,proposed sale $368K,367904,,https://www.sec.gov/Archives/edgar/data/1768217/000195004726009398/0001950047-26-009398-index.htm,LOW
