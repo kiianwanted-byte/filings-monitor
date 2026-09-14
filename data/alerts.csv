@@ -2131,3 +2131,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-14T17:06:55+00:00,FORM_144,,Amalgamated Financial Corp.,proposed sale $1.50M,1498553,,https://www.sec.gov/Archives/edgar/data/1848228/000197407826000353/0001974078-26-000353-index.htm,LOW
 2026-09-14T17:20:54+00:00,FORM_144,,WABASH NATIONAL Corp,proposed sale $122K,122500,,https://www.sec.gov/Archives/edgar/data/1759750/000195917326006922/0001959173-26-006922-index.htm,LOW
 2026-09-14T17:20:54+00:00,FORM_144,,"Rent the Runway, Inc.",proposed sale $77K,76803,,https://www.sec.gov/Archives/edgar/data/1468327/000146832726000094/0001468327-26-000094-index.htm,LOW
+2026-09-14T17:33:39+00:00,FORM_144,,"Coinbase Global, Inc.",proposed sale $2.49M,2489032,,https://www.sec.gov/Archives/edgar/data/1679788/000197407826000354/0001974078-26-000354-index.htm,LOW
+2026-09-14T17:33:39+00:00,FORM_144,,American Strategic Investment Co.,proposed sale $160K,160000,,https://www.sec.gov/Archives/edgar/data/1595527/000162828026061791/0001628280-26-061791-index.htm,LOW
