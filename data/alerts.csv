@@ -2158,3 +2158,15 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-14T19:37:44+00:00,FORM_144,,"Century Therapeutics, Inc.",proposed sale $3K,3200,,https://www.sec.gov/Archives/edgar/data/1867173/000195917326006939/0001959173-26-006939-index.htm,LOW
 2026-09-14T19:37:44+00:00,FORM_144,,"ROCKET PHARMACEUTICALS, INC.",proposed sale $23K,22730,,https://www.sec.gov/Archives/edgar/data/1662170/000195917326006938/0001959173-26-006938-index.htm,LOW
 2026-09-14T19:47:27+00:00,FORM_144,,"Academy Sports & Outdoors, Inc.",proposed sale $1.38M,1379936,,https://www.sec.gov/Archives/edgar/data/1817358/000195917326006943/0001959173-26-006943-index.htm,LOW
+2026-09-14T20:09:50+00:00,INSIDER_CLUSTER,SDHC,Smith Douglas Homes Corp.,Bradbury Thomas L $200K,199522,4,https://www.sec.gov/Archives/edgar/data/1992568/000162828026061831/0001628280-26-061831-index.htm,HIGH
+2026-09-14T20:10:05+00:00,FORM_144,,"Academy Sports & Outdoors, Inc.",proposed sale $3.75M,3750665,,https://www.sec.gov/Archives/edgar/data/1817358/000195917326006944/0001959173-26-006944-index.htm,LOW
+2026-09-14T20:10:06+00:00,FORM_144,,LUMENTUM HOLDINGS INC.,proposed sale $431K,431070,,https://www.sec.gov/Archives/edgar/data/1633978/000195004726009383/0001950047-26-009383-index.htm,LOW
+2026-09-14T20:10:06+00:00,FORM_144,,MOHAWK INDUSTRIES INC,proposed sale $954K,953858,,https://www.sec.gov/Archives/edgar/data/925177/000001179026000031/0000011790-26-000031-index.htm,LOW
+2026-09-14T20:10:07+00:00,FORM_144,,"Mineralys Therapeutics, Inc.",proposed sale $217K,216931,,https://www.sec.gov/Archives/edgar/data/1933414/000196430626000440/0001964306-26-000440-index.htm,LOW
+2026-09-14T20:10:07+00:00,FORM_144,,"Blend Labs, Inc.",proposed sale $25K,25267,,https://www.sec.gov/Archives/edgar/data/1870974/000192109426001015/0001921094-26-001015-index.htm,LOW
+2026-09-14T20:10:08+00:00,FORM_144,,"Xometry, Inc.",proposed sale $128K,127905,,https://www.sec.gov/Archives/edgar/data/2051034/000196922326001022/0001969223-26-001022-index.htm,LOW
+2026-09-14T20:10:08+00:00,FORM_144,,ELASTIC N.V.,proposed sale $7.13M,7127583,,https://www.sec.gov/Archives/edgar/data/1753445/000195004726009382/0001950047-26-009382-index.htm,LOW
+2026-09-14T20:10:08+00:00,FORM_144,,"Stitch Fix, Inc.",proposed sale $30K,29500,,https://www.sec.gov/Archives/edgar/data/2004694/000192109426001014/0001921094-26-001014-index.htm,LOW
+2026-09-14T20:10:09+00:00,FORM_144,,CORVEL CORP,proposed sale $8.97M,8973628,,https://www.sec.gov/Archives/edgar/data/1256520/000196922326001021/0001969223-26-001021-index.htm,LOW
+2026-09-14T20:10:09+00:00,FORM_144,,"Meta Platforms, Inc.",proposed sale $1.04M,1035925,,https://www.sec.gov/Archives/edgar/data/1564475/000192109426001013/0001921094-26-001013-index.htm,LOW
+2026-09-14T20:10:10+00:00,FORM_144,,"Verisk Analytics, Inc.",proposed sale $1.01M,1008610,,https://www.sec.gov/Archives/edgar/data/1803783/000196430626000439/0001964306-26-000439-index.htm,LOW

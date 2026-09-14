@@ -489,3 +489,7 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-14T17:56:00+00:00,2026-09-10,BDCO,BLUE DOLPHIN ENERGY CO,McDougall William Christopher,,900,12.75,11474,300.0,0001437749-26-030276
 2026-09-14T19:10:43+00:00,2026-09-14,OFLX,"Omega Flex, Inc.",Unger Matthew Francis,Vice President - CFO,1000,25.42,25420,NEW,0001317945-26-000010
 2026-09-14T19:37:40+00:00,2026-09-14,OFLX,"Omega Flex, Inc.",Moran Edwin B.,"Director, President",790,25.43,20089,79.0,0001317945-26-000011
+2026-09-14T20:09:45+00:00,2026-09-14,GBAB,Guggenheim Taxable Municipal Bond & Investment Grade Debt Trust,Li Allen,,700,13.33,9331,70.0,0001509318-26-000007
+2026-09-14T20:09:47+00:00,2026-09-03,JUSH,Jushi Holdings Inc.,Arsenault Denis J.,10% owner,133134,0.59,79002,1.7,0001628280-26-061833
+2026-09-14T20:09:50+00:00,2026-09-10,SDHC,Smith Douglas Homes Corp.,Bradbury Thomas L,"Director, 10% owner",19360,10.31,199522,32.9,0001628280-26-061831
+2026-09-14T20:09:55+00:00,2026-09-10,AMH,American Homes 4 Rent,CORRIGAN JACK E,Director,9000,21.51,193558,56.2,0001227454-26-000014
