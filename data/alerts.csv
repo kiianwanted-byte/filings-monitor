@@ -2142,3 +2142,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-14T18:26:49+00:00,FORM_144,,Ralliant Corp,proposed sale $849K,849119,,https://www.sec.gov/Archives/edgar/data/2041385/000195917326006928/0001959173-26-006928-index.htm,LOW
 2026-09-14T18:26:49+00:00,FORM_144,,"Kodiak Gas Services, Inc.",proposed sale $169K,168788,,https://www.sec.gov/Archives/edgar/data/1971110/000195917326006927/0001959173-26-006927-index.htm,LOW
 2026-09-14T18:26:49+00:00,FORM_144,,"Gold.com, Inc.",proposed sale $5.93M,5933701,,https://www.sec.gov/Archives/edgar/data/1591588/000195917326006926/0001959173-26-006926-index.htm,LOW
+2026-09-14T18:43:26+00:00,FORM_144,,"Moderna, Inc.",proposed sale $5.81M,5807745,,https://www.sec.gov/Archives/edgar/data/1760669/000195917326006932/0001959173-26-006932-index.htm,LOW
+2026-09-14T18:43:26+00:00,FORM_144,,AMC Global Media Inc.,proposed sale $132K,131543,,https://www.sec.gov/Archives/edgar/data/1880332/000195917326006931/0001959173-26-006931-index.htm,LOW
+2026-09-14T18:43:27+00:00,FORM_144,,BOSTON OMAHA Corp,proposed sale $1.38M,1381597,,https://www.sec.gov/Archives/edgar/data/1689627/000195917326006930/0001959173-26-006930-index.htm,LOW
+2026-09-14T18:43:27+00:00,FORM_144,,TENET HEALTHCARE CORP,proposed sale $3.21M,3212675,,https://www.sec.gov/Archives/edgar/data/1179100/000195917326006929/0001959173-26-006929-index.htm,LOW
