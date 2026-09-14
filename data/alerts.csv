@@ -2147,3 +2147,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-14T18:43:27+00:00,FORM_144,,BOSTON OMAHA Corp,proposed sale $1.38M,1381597,,https://www.sec.gov/Archives/edgar/data/1689627/000195917326006930/0001959173-26-006930-index.htm,LOW
 2026-09-14T18:43:27+00:00,FORM_144,,TENET HEALTHCARE CORP,proposed sale $3.21M,3212675,,https://www.sec.gov/Archives/edgar/data/1179100/000195917326006929/0001959173-26-006929-index.htm,LOW
 2026-09-14T18:58:17+00:00,FORM_144,,"BrightSpring Health Services, Inc.",proposed sale $874K,874383,,https://www.sec.gov/Archives/edgar/data/2075158/000195917326006933/0001959173-26-006933-index.htm,LOW
+2026-09-14T19:10:48+00:00,FORM_144,,DEVON ENERGY CORP/DE,proposed sale $344K,344238,,https://www.sec.gov/Archives/edgar/data/2053677/000195917326006935/0001959173-26-006935-index.htm,LOW
+2026-09-14T19:10:48+00:00,FORM_144,,SYSCO CORP,proposed sale $5K,4806,,https://www.sec.gov/Archives/edgar/data/1861524/000195917326006934/0001959173-26-006934-index.htm,LOW
