@@ -2268,3 +2268,12 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-14T21:57:11+00:00,FORM_144,,RingCentral Inc.,proposed sale $2.53M,2534707,,https://www.sec.gov/Archives/edgar/data/1586648/000162828026061924/0001628280-26-061924-index.htm,LOW
 2026-09-14T21:57:12+00:00,FORM_144,,"MAGNITE, INC.",proposed sale $246K,246241,,https://www.sec.gov/Archives/edgar/data/1603808/000195004726009450/0001950047-26-009450-index.htm,LOW
 2026-09-14T21:57:12+00:00,FORM_144,,Super Group (SGHC) Ltd,proposed sale $321K,321272,,https://www.sec.gov/Archives/edgar/data/2117552/000101143826000567/0001011438-26-000567-index.htm,LOW
+2026-09-14T22:08:20+00:00,FORM_144,,"ROSS STORES, INC.",proposed sale $11.29M,11291774,,https://www.sec.gov/Archives/edgar/data/1623534/000195004726009452/0001950047-26-009452-index.htm,LOW
+2026-09-14T22:08:20+00:00,FORM_144,,Marex Group Limited,proposed sale $5.34M,5343723,,https://www.sec.gov/Archives/edgar/data/2057618/000195824426000602/0001958244-26-000602-index.htm,LOW
+2026-09-14T22:08:20+00:00,FORM_144,,"4D Molecular Therapeutics, Inc.",proposed sale $803K,802662,,https://www.sec.gov/Archives/edgar/data/1834021/000195824426000601/0001958244-26-000601-index.htm,LOW
+2026-09-14T22:08:21+00:00,FORM_144,,"PC Connection, Inc.",proposed sale $7.35M,7349118,,https://www.sec.gov/Archives/edgar/data/1186630/000195824426000600/0001958244-26-000600-index.htm,LOW
+2026-09-14T22:08:21+00:00,FORM_144,,Credo Technology Group Holding Ltd,proposed sale $5.00M,5003700,,https://www.sec.gov/Archives/edgar/data/1896237/000195824426000599/0001958244-26-000599-index.htm,LOW
+2026-09-14T22:08:21+00:00,FORM_144,,Microsoft Corporation,proposed sale $28.45M,28446496,,https://www.sec.gov/Archives/edgar/data/1576843/000195824426000598/0001958244-26-000598-index.htm,LOW
+2026-09-14T22:08:22+00:00,FORM_144,,"Castle Biosciences, Inc.",proposed sale $441K,440638,,https://www.sec.gov/Archives/edgar/data/1856542/000195824426000597/0001958244-26-000597-index.htm,LOW
+2026-09-14T22:08:22+00:00,FORM_144,,Spotify Technology S.A.,proposed sale $46.53M,46531437,,https://www.sec.gov/Archives/edgar/data/1848565/000195824426000596/0001958244-26-000596-index.htm,LOW
+2026-09-14T22:08:22+00:00,FORM_144,,CME GROUP INC.,proposed sale $140K,140052,,https://www.sec.gov/Archives/edgar/data/1643475/000195004726009451/0001950047-26-009451-index.htm,LOW
