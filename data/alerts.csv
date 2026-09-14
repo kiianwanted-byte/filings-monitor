@@ -2110,3 +2110,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-14T14:18:16+00:00,FORM_144,,Stevanato Group SpA,proposed sale $276K,276255,,https://www.sec.gov/Archives/edgar/data/1981529/000119312526389972/0001193125-26-389972-index.htm,LOW
 2026-09-14T14:35:02+00:00,FORM_144,,M&T BANK CORP,proposed sale $4.64M,4642432,,https://www.sec.gov/Archives/edgar/data/1245773/000195917326006911/0001959173-26-006911-index.htm,LOW
 2026-09-14T14:50:39+00:00,FORM_144,,"Qorvo, Inc.",proposed sale $285K,285275,,https://www.sec.gov/Archives/edgar/data/1604778/000195917326006912/0001959173-26-006912-index.htm,LOW
+2026-09-14T15:20:59+00:00,FORM_144,,"Health In Tech, Inc.",proposed sale $16K,16363,,https://www.sec.gov/Archives/edgar/data/2020283/000165495426008337/0001654954-26-008337-index.htm,LOW
+2026-09-14T15:20:59+00:00,FORM_144,,"Life360, Inc.",proposed sale $334K,334011,,https://www.sec.gov/Archives/edgar/data/1696247/000195917326006914/0001959173-26-006914-index.htm,LOW
+2026-09-14T15:21:00+00:00,FORM_144,,OOMA INC,proposed sale $1.16M,1163500,,https://www.sec.gov/Archives/edgar/data/1327688/000194984626000582/0001949846-26-000582-index.htm,LOW
+2026-09-14T15:21:00+00:00,FORM_144,,RADIAN GROUP INC,proposed sale $281K,280763,,https://www.sec.gov/Archives/edgar/data/2112741/000195917326006913/0001959173-26-006913-index.htm,LOW
