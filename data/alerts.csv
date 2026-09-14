@@ -2258,3 +2258,10 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-14T21:23:08+00:00,FORM_144,,CARVANA CO,proposed sale $1.16M,1161127,,https://www.sec.gov/Archives/edgar/data/1690820/000195004726009446/0001950047-26-009446-index.htm,LOW
 2026-09-14T21:23:08+00:00,STAKE_13G,,Guardian Metal Resources PLC,Guardian Metal Resources PLC 0.0%,,,https://www.sec.gov/Archives/edgar/data/2039972/000089914026001058/0000899140-26-001058-index.htm,HIGH
 2026-09-14T21:34:49+00:00,FORM_144,,Lamar Advertising Company,proposed sale $1.21M,1207400,,https://www.sec.gov/Archives/edgar/data/1107157/000196858226000968/0001968582-26-000968-index.htm,LOW
+2026-09-14T21:46:59+00:00,FORM_144,,"CLOVER HEALTH INVESTMENTS, CORP.",proposed sale $103K,103100,,https://www.sec.gov/Archives/edgar/data/2128814/000195004726009449/0001950047-26-009449-index.htm,LOW
+2026-09-14T21:47:00+00:00,FORM_144,,Webull Corp,proposed sale $494K,493746,,https://www.sec.gov/Archives/edgar/data/2093135/000209313526000003/0002093135-26-000003-index.htm,LOW
+2026-09-14T21:47:00+00:00,FORM_144,,"PALO ALTO NETWORKS, INC.",proposed sale $940K,940075,,https://www.sec.gov/Archives/edgar/data/1772458/000195004726009448/0001950047-26-009448-index.htm,LOW
+2026-09-14T21:47:00+00:00,FORM_144,,"SLIDE INSURANCE HOLDINGS, INC.",proposed sale $198K,198000,,https://www.sec.gov/Archives/edgar/data/1886428/000195004726009447/0001950047-26-009447-index.htm,LOW
+2026-09-14T21:47:01+00:00,FORM_144,,WEX Inc.,proposed sale $668K,668485,,https://www.sec.gov/Archives/edgar/data/1724040/000162828026061917/0001628280-26-061917-index.htm,LOW
+2026-09-14T21:47:01+00:00,FORM_144,,StoneX Group Inc.,proposed sale $2.09M,2086522,,https://www.sec.gov/Archives/edgar/data/1511110/000162828026061915/0001628280-26-061915-index.htm,LOW
+2026-09-14T21:47:01+00:00,FORM_144,,StoneX Group Inc.,proposed sale $3.62M,3616214,,https://www.sec.gov/Archives/edgar/data/1662210/000162828026061913/0001628280-26-061913-index.htm,LOW
