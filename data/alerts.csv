@@ -2124,3 +2124,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-14T16:13:44+00:00,FORM_144,,HNI CORP,proposed sale $26K,26476,,https://www.sec.gov/Archives/edgar/data/1378763/000162828026061779/0001628280-26-061779-index.htm,LOW
 2026-09-14T16:13:44+00:00,FORM_144,,"PUMA BIOTECHNOLOGY, INC.",proposed sale $566K,565565,,https://www.sec.gov/Archives/edgar/data/1827015/000195917326006918/0001959173-26-006918-index.htm,LOW
 2026-09-14T16:13:45+00:00,FORM_144,,"PUMA BIOTECHNOLOGY, INC.",proposed sale $46K,45500,,https://www.sec.gov/Archives/edgar/data/1589597/000195917326006917/0001959173-26-006917-index.htm,LOW
+2026-09-14T16:28:54+00:00,FORM_144,,Essent Group Ltd.,proposed sale $172K,171550,,https://www.sec.gov/Archives/edgar/data/1448893/000195917326006920/0001959173-26-006920-index.htm,LOW
+2026-09-14T16:28:55+00:00,FORM_144,,Varex Imaging Corp,proposed sale $150K,150076,,https://www.sec.gov/Archives/edgar/data/1681622/000195917326006919/0001959173-26-006919-index.htm,LOW
