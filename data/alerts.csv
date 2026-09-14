@@ -2114,3 +2114,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-14T15:20:59+00:00,FORM_144,,"Life360, Inc.",proposed sale $334K,334011,,https://www.sec.gov/Archives/edgar/data/1696247/000195917326006914/0001959173-26-006914-index.htm,LOW
 2026-09-14T15:21:00+00:00,FORM_144,,OOMA INC,proposed sale $1.16M,1163500,,https://www.sec.gov/Archives/edgar/data/1327688/000194984626000582/0001949846-26-000582-index.htm,LOW
 2026-09-14T15:21:00+00:00,FORM_144,,RADIAN GROUP INC,proposed sale $281K,280763,,https://www.sec.gov/Archives/edgar/data/2112741/000195917326006913/0001959173-26-006913-index.htm,LOW
+2026-09-14T15:35:45+00:00,FORM_144,,Par Pacific,proposed sale $322K,322246,,https://www.sec.gov/Archives/edgar/data/2059514/000162828026061767/0001628280-26-061767-index.htm,LOW
+2026-09-14T15:35:45+00:00,FORM_144,,Willis Lease,proposed sale $1.69M,1685400,,https://www.sec.gov/Archives/edgar/data/1676532/000162828026061763/0001628280-26-061763-index.htm,LOW
