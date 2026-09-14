@@ -2129,3 +2129,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-14T17:06:54+00:00,FORM_144,,IBEX Ltd,proposed sale $433K,433482,,https://www.sec.gov/Archives/edgar/data/1974087/000100027526000109/0001000275-26-000109-index.htm,LOW
 2026-09-14T17:06:54+00:00,FORM_144,,"Warner Bros. Discovery, Inc.",proposed sale $819K,819004,,https://www.sec.gov/Archives/edgar/data/1646563/000195917326006921/0001959173-26-006921-index.htm,LOW
 2026-09-14T17:06:55+00:00,FORM_144,,Amalgamated Financial Corp.,proposed sale $1.50M,1498553,,https://www.sec.gov/Archives/edgar/data/1848228/000197407826000353/0001974078-26-000353-index.htm,LOW
+2026-09-14T17:20:54+00:00,FORM_144,,WABASH NATIONAL Corp,proposed sale $122K,122500,,https://www.sec.gov/Archives/edgar/data/1759750/000195917326006922/0001959173-26-006922-index.htm,LOW
+2026-09-14T17:20:54+00:00,FORM_144,,"Rent the Runway, Inc.",proposed sale $77K,76803,,https://www.sec.gov/Archives/edgar/data/1468327/000146832726000094/0001468327-26-000094-index.htm,LOW
