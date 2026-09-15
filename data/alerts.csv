@@ -2322,3 +2322,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-15T12:10:57+00:00,INSIDER_CLUSTER,NNOX,Nano-X Imaging Ltd.,Suesskind Dan S $45K,45300,1,https://www.sec.gov/Archives/edgar/data/1795251/000121390026099887/0001213900-26-099887-index.htm,HIGH
 2026-09-15T13:47:29+00:00,FORM_144,,"TERADYNE, INC",proposed sale $1.35M,1351320,,https://www.sec.gov/Archives/edgar/data/1666934/000195917326006957/0001959173-26-006957-index.htm,LOW
 2026-09-15T13:47:30+00:00,FORM_144,,ALLIANCE RESOURCE PARTNERS LP,proposed sale $173K,172680,,https://www.sec.gov/Archives/edgar/data/2031263/000194984626000583/0001949846-26-000583-index.htm,LOW
+2026-09-15T13:57:15+00:00,FORM_144,,DEXCOM INC,proposed sale $550K,549537,,https://www.sec.gov/Archives/edgar/data/1238485/000195917326006959/0001959173-26-006959-index.htm,LOW
+2026-09-15T13:57:16+00:00,FORM_144,,BELDEN INC.,proposed sale $217K,217341,,https://www.sec.gov/Archives/edgar/data/1967061/000195917326006958/0001959173-26-006958-index.htm,LOW
