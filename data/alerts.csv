@@ -2523,3 +2523,11 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-15T21:40:23+00:00,FORM_144,,IRIDIUM COMMUNICATIONS INC.,proposed sale $267K,267393,,https://www.sec.gov/Archives/edgar/data/2046045/000195004726009539/0001950047-26-009539-index.htm,LOW
 2026-09-15T21:57:19+00:00,FORM_144,,MOHAWK INDUSTRIES INC,proposed sale $1.24M,1238139,,https://www.sec.gov/Archives/edgar/data/925177/000001179026000034/0000011790-26-000034-index.htm,LOW
 2026-09-15T21:57:19+00:00,FORM_144,,"Cytokinetics, Inc.",proposed sale $7.09M,7094739,,https://www.sec.gov/Archives/edgar/data/1288859/000196858226000978/0001968582-26-000978-index.htm,LOW
+2026-09-15T22:09:54+00:00,FORM_144,,"Revolution Medicines, Inc.",proposed sale $1.10M,1103414,,https://www.sec.gov/Archives/edgar/data/1628171/000146280826000008/0001462808-26-000008-index.htm,LOW
+2026-09-15T22:09:55+00:00,FORM_144,,"Revolution Medicines, Inc.",proposed sale $984K,984209,,https://www.sec.gov/Archives/edgar/data/1628171/000129419226000005/0001294192-26-000005-index.htm,LOW
+2026-09-15T22:09:55+00:00,FORM_144,,"Revolution Medicines, Inc.",proposed sale $2.77M,2771883,,https://www.sec.gov/Archives/edgar/data/1628171/000124684226000006/0001246842-26-000006-index.htm,LOW
+2026-09-15T22:09:55+00:00,FORM_144,,"Revolution Medicines, Inc.",proposed sale $667K,666735,,https://www.sec.gov/Archives/edgar/data/1969082/000196908226000007/0001969082-26-000007-index.htm,LOW
+2026-09-15T22:09:56+00:00,FORM_144,,PHARVARIS N.V.,proposed sale $1.77M,1771125,,https://www.sec.gov/Archives/edgar/data/2002390/000195004726009540/0001950047-26-009540-index.htm,LOW
+2026-09-15T22:09:56+00:00,FORM_144,,"Revolution Medicines, Inc.",proposed sale $803K,802650,,https://www.sec.gov/Archives/edgar/data/1800668/000180066826000005/0001800668-26-000005-index.htm,LOW
+2026-09-15T22:09:56+00:00,FORM_144,,"Rocket Companies, Inc.",proposed sale $12.10M,12096000,,https://www.sec.gov/Archives/edgar/data/1805284/000196858226000980/0001968582-26-000980-index.htm,LOW
+2026-09-15T22:09:57+00:00,FORM_144,,"Joby Aviation, Inc.",proposed sale $36K,35904,,https://www.sec.gov/Archives/edgar/data/1877717/000181984826000459/0001819848-26-000459-index.htm,LOW
