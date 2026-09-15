@@ -2320,3 +2320,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-15T10:58:28+00:00,FORM_144,,Fiverr International Ltd.,proposed sale $139K,138698,,https://www.sec.gov/Archives/edgar/data/1975805/000197640826000844/0001976408-26-000844-index.htm,LOW
 2026-09-15T11:57:08+00:00,INSIDER_CLUSTER,UAVS,AgEagle Aerial Systems Inc.,Klavon Brent $5K,4999,4,https://www.sec.gov/Archives/edgar/data/2046493/000143774926030387/0001437749-26-030387-index.htm,HIGH
 2026-09-15T12:10:57+00:00,INSIDER_CLUSTER,NNOX,Nano-X Imaging Ltd.,Suesskind Dan S $45K,45300,1,https://www.sec.gov/Archives/edgar/data/1795251/000121390026099887/0001213900-26-099887-index.htm,HIGH
+2026-09-15T13:47:29+00:00,FORM_144,,"TERADYNE, INC",proposed sale $1.35M,1351320,,https://www.sec.gov/Archives/edgar/data/1666934/000195917326006957/0001959173-26-006957-index.htm,LOW
+2026-09-15T13:47:30+00:00,FORM_144,,ALLIANCE RESOURCE PARTNERS LP,proposed sale $173K,172680,,https://www.sec.gov/Archives/edgar/data/2031263/000194984626000583/0001949846-26-000583-index.htm,LOW
