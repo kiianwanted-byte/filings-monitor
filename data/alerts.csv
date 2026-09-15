@@ -2545,3 +2545,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-15T23:35:48+00:00,FORM_144,,"SOUNDHOUND AI, INC.",proposed sale $460K,460101,,https://www.sec.gov/Archives/edgar/data/1921640/000192164026000014/0001921640-26-000014-index.htm,LOW
 2026-09-15T23:35:49+00:00,FORM_144,,"DHT Holdings, Inc.",proposed sale $664K,664500,,https://www.sec.gov/Archives/edgar/data/1331284/000095015726001017/0000950157-26-001017-index.htm,LOW
 2026-09-15T23:44:08+00:00,FORM_144,,"SOUNDHOUND AI, INC.",proposed sale $251K,250583,,https://www.sec.gov/Archives/edgar/data/1920475/000192047526000018/0001920475-26-000018-index.htm,LOW
+2026-09-15T23:52:12+00:00,FORM_144,,"SOUNDHOUND AI, INC.",proposed sale $888K,888266,,https://www.sec.gov/Archives/edgar/data/1917995/000191799526000014/0001917995-26-000014-index.htm,LOW
+2026-09-15T23:52:13+00:00,FORM_144,,Seagate Technology Holdings plc,proposed sale $12.54M,12538789,,https://www.sec.gov/Archives/edgar/data/1988271/000198827126000012/0001988271-26-000012-index.htm,LOW
+2026-09-15T23:52:13+00:00,FORM_144,,"SOUNDHOUND AI, INC.",proposed sale $251K,250583,,https://www.sec.gov/Archives/edgar/data/1920481/000192048126000013/0001920481-26-000013-index.htm,LOW
