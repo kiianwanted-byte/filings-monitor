@@ -2542,3 +2542,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-15T23:13:53+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $27.51M,27512214,,https://www.sec.gov/Archives/edgar/data/1571996/000119312526392240/0001193125-26-392240-index.htm,LOW
 2026-09-15T23:13:54+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $253K,253248,,https://www.sec.gov/Archives/edgar/data/1735863/000119312526392237/0001193125-26-392237-index.htm,LOW
 2026-09-15T23:25:13+00:00,FORM_144,,IBEX Limited,proposed sale $221K,221444,,https://www.sec.gov/Archives/edgar/data/2050174/000197449426000298/0001974494-26-000298-index.htm,LOW
+2026-09-15T23:35:48+00:00,FORM_144,,"SOUNDHOUND AI, INC.",proposed sale $460K,460101,,https://www.sec.gov/Archives/edgar/data/1921640/000192164026000014/0001921640-26-000014-index.htm,LOW
+2026-09-15T23:35:49+00:00,FORM_144,,"DHT Holdings, Inc.",proposed sale $664K,664500,,https://www.sec.gov/Archives/edgar/data/1331284/000095015726001017/0000950157-26-001017-index.htm,LOW
