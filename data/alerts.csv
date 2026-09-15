@@ -2488,3 +2488,27 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-15T20:54:01+00:00,FORM_144,,"TRAVERE THERAPEUTICS, INC.",proposed sale $354K,353621,,https://www.sec.gov/Archives/edgar/data/1882909/000195004726009523/0001950047-26-009523-index.htm,LOW
 2026-09-15T20:54:01+00:00,FORM_144,,NEBIUS GROUP N.V.,proposed sale $1.35M,1350377,,https://www.sec.gov/Archives/edgar/data/2096831/000195004726009522/0001950047-26-009522-index.htm,LOW
 2026-09-15T20:54:02+00:00,FORM_144,,"TRAVERE THERAPEUTICS, INC.",proposed sale $3.32M,3322921,,https://www.sec.gov/Archives/edgar/data/1943192/000195004726009521/0001950047-26-009521-index.htm,LOW
+2026-09-15T21:17:44+00:00,INSIDER_BUY,CARL,"CARLSMED, INC.","Presidio Management Group XII, L.L.C. $3.00M",3000000,418,https://www.sec.gov/Archives/edgar/data/1794546/000119312526392111/0001193125-26-392111-index.htm,MEDIUM
+2026-09-15T21:17:51+00:00,FORM_144,,"Clover Health Investments, Corp.",proposed sale $41K,40500,,https://www.sec.gov/Archives/edgar/data/1839066/000183906626000043/0001839066-26-000043-index.htm,LOW
+2026-09-15T21:17:52+00:00,FORM_144,,QuantumScape Corporation,proposed sale $1.21M,1212000,,https://www.sec.gov/Archives/edgar/data/1834249/000195824426000609/0001958244-26-000609-index.htm,LOW
+2026-09-15T21:17:52+00:00,FORM_144,,"Circle Internet Group, Inc.",proposed sale $279K,278755,,https://www.sec.gov/Archives/edgar/data/1876042/000195824426000608/0001958244-26-000608-index.htm,LOW
+2026-09-15T21:17:53+00:00,FORM_144,,"Circle Internet Group, Inc.",proposed sale $150K,150156,,https://www.sec.gov/Archives/edgar/data/1876042/000195824426000607/0001958244-26-000607-index.htm,LOW
+2026-09-15T21:17:53+00:00,FORM_144,,"Circle Internet Group, Inc.",proposed sale $1.20M,1195300,,https://www.sec.gov/Archives/edgar/data/1876042/000195824426000606/0001958244-26-000606-index.htm,LOW
+2026-09-15T21:17:53+00:00,FORM_144,,Amalgamated Financial Corp.,proposed sale $158K,158231,,https://www.sec.gov/Archives/edgar/data/1849127/000197407826000356/0001974078-26-000356-index.htm,LOW
+2026-09-15T21:17:54+00:00,FORM_144,,"Circle Internet Group, Inc.",proposed sale $166K,166100,,https://www.sec.gov/Archives/edgar/data/1876042/000195824426000605/0001958244-26-000605-index.htm,LOW
+2026-09-15T21:17:54+00:00,FORM_144,,"Circle Internet Group, Inc.",proposed sale $154K,153521,,https://www.sec.gov/Archives/edgar/data/1876042/000195824426000604/0001958244-26-000604-index.htm,LOW
+2026-09-15T21:17:54+00:00,FORM_144,,"Circle Internet Group, Inc.",proposed sale $1.33M,1332480,,https://www.sec.gov/Archives/edgar/data/1876042/000195824426000603/0001958244-26-000603-index.htm,LOW
+2026-09-15T21:17:55+00:00,FORM_144,,"CLOVER HEALTH INVESTMENTS, CORP.","proposed sale $1,000K",999574,,https://www.sec.gov/Archives/edgar/data/1938197/000195004726009537/0001950047-26-009537-index.htm,LOW
+2026-09-15T21:17:55+00:00,FORM_144,,"SoFi Technologies, Inc.",proposed sale $205K,204548,,https://www.sec.gov/Archives/edgar/data/2012135/000195917326006994/0001959173-26-006994-index.htm,LOW
+2026-09-15T21:17:55+00:00,FORM_144,,"WILLDAN GROUP, INC.",proposed sale $389K,389253,,https://www.sec.gov/Archives/edgar/data/1395188/000195004726009536/0001950047-26-009536-index.htm,LOW
+2026-09-15T21:17:56+00:00,FORM_144,,"SoFi Technologies, Inc.",proposed sale $721K,721398,,https://www.sec.gov/Archives/edgar/data/1934200/000195917326006993/0001959173-26-006993-index.htm,LOW
+2026-09-15T21:17:56+00:00,FORM_144,,"HawkEye 360, Inc.",proposed sale $151K,151154,,https://www.sec.gov/Archives/edgar/data/2127284/000175070426000025/0001750704-26-000025-index.htm,LOW
+2026-09-15T21:17:57+00:00,FORM_144,,WEALTHFRONT CORPORATION,proposed sale $400K,399791,,https://www.sec.gov/Archives/edgar/data/2078580/000207858026000013/0002078580-26-000013-index.htm,LOW
+2026-09-15T21:17:57+00:00,FORM_144,,"SoFi Technologies, Inc.",proposed sale $249K,249059,,https://www.sec.gov/Archives/edgar/data/1818874/000195917326006992/0001959173-26-006992-index.htm,LOW
+2026-09-15T21:17:57+00:00,FORM_144,,"SoFi Technologies, Inc.",proposed sale $1.14M,1140984,,https://www.sec.gov/Archives/edgar/data/2032458/000195917326006991/0001959173-26-006991-index.htm,LOW
+2026-09-15T21:17:58+00:00,FORM_144,,"HawkEye 360, Inc.",proposed sale $434K,434168,,https://www.sec.gov/Archives/edgar/data/1836524/000183652426000014/0001836524-26-000014-index.htm,LOW
+2026-09-15T21:17:58+00:00,FORM_144,,WEALTHFRONT CORPORATION,proposed sale $246K,245632,,https://www.sec.gov/Archives/edgar/data/2082674/000208267426000009/0002082674-26-000009-index.htm,LOW
+2026-09-15T21:17:59+00:00,FORM_144,,WEALTHFRONT CORPORATION,proposed sale $512K,511818,,https://www.sec.gov/Archives/edgar/data/1524566/000149748726000008/0001497487-26-000008-index.htm,LOW
+2026-09-15T21:17:59+00:00,FORM_144,,"RINGCENTRAL, INC.",proposed sale $2.72M,2721513,,https://www.sec.gov/Archives/edgar/data/1599821/000195004726009534/0001950047-26-009534-index.htm,LOW
+2026-09-15T21:17:59+00:00,FORM_144,,WEALTHFRONT CORPORATION,proposed sale $309K,309436,,https://www.sec.gov/Archives/edgar/data/2082642/000208264226000006/0002082642-26-000006-index.htm,LOW
+2026-09-15T21:18:00+00:00,FORM_144,,"NATERA, INC.",proposed sale $700K,700014,,https://www.sec.gov/Archives/edgar/data/1646382/000195004726009533/0001950047-26-009533-index.htm,LOW
