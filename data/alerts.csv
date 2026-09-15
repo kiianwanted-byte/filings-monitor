@@ -2467,3 +2467,24 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-15T20:45:25+00:00,FORM_144,,"Chime Financial, Inc.",proposed sale $3.47M,3465007,,https://www.sec.gov/Archives/edgar/data/1795586/000195004726009496/0001950047-26-009496-index.htm,LOW
 2026-09-15T20:45:26+00:00,FORM_144,,ROIVANT SCIENCES LTD,proposed sale $210K,209694,,https://www.sec.gov/Archives/edgar/data/1635088/000195004726009495/0001950047-26-009495-index.htm,LOW
 2026-09-15T20:45:26+00:00,FORM_144,,Ciena Corporation,proposed sale $799K,799100,,https://www.sec.gov/Archives/edgar/data/1444157/000195004726009494/0001950047-26-009494-index.htm,LOW
+2026-09-15T20:53:53+00:00,FORM_144,,TARSUS PHARMACEUTICALS INC,proposed sale $980K,979745,,https://www.sec.gov/Archives/edgar/data/1819790/000162828026062078/0001628280-26-062078-index.htm,LOW
+2026-09-15T20:53:54+00:00,FORM_144,,Sea Limited,proposed sale $10.43M,10433280,,https://www.sec.gov/Archives/edgar/data/1968046/000196858226000975/0001968582-26-000975-index.htm,LOW
+2026-09-15T20:53:54+00:00,FORM_144,,"Joby Aviation, Inc.",proposed sale $3.82M,3822002,,https://www.sec.gov/Archives/edgar/data/1877280/000195004726009532/0001950047-26-009532-index.htm,LOW
+2026-09-15T20:53:55+00:00,FORM_144,,"SoFi Technologies, Inc.",proposed sale $48K,47638,,https://www.sec.gov/Archives/edgar/data/2034857/000195917326006990/0001959173-26-006990-index.htm,LOW
+2026-09-15T20:53:55+00:00,FORM_144,,WEALTHFRONT CORPORATION,proposed sale $1.42M,1421829,,https://www.sec.gov/Archives/edgar/data/2082564/000208256426000012/0002082564-26-000012-index.htm,LOW
+2026-09-15T20:53:55+00:00,FORM_144,,"ROCKET PHARMACEUTICALS, INC.",proposed sale $23K,22730,,https://www.sec.gov/Archives/edgar/data/1662170/000195917326006989/0001959173-26-006989-index.htm,LOW
+2026-09-15T20:53:56+00:00,FORM_144,,"CADENCE DESIGN SYSTEMS, INC.",proposed sale $1.67M,1674360,,https://www.sec.gov/Archives/edgar/data/1847883/000195004726009531/0001950047-26-009531-index.htm,LOW
+2026-09-15T20:53:56+00:00,FORM_144,,"Aquestive Therapeutics, Inc.",proposed sale $244K,244000,,https://www.sec.gov/Archives/edgar/data/1742266/000195004726009530/0001950047-26-009530-index.htm,LOW
+2026-09-15T20:53:57+00:00,FORM_144,,"Reddit, Inc.",proposed sale $19.67M,19673311,,https://www.sec.gov/Archives/edgar/data/1827011/000195004726009529/0001950047-26-009529-index.htm,LOW
+2026-09-15T20:53:57+00:00,FORM_144,,TransDigm Group Incorporated,proposed sale $8.89M,8889760,,https://www.sec.gov/Archives/edgar/data/1656109/000195004726009528/0001950047-26-009528-index.htm,LOW
+2026-09-15T20:53:58+00:00,FORM_144,,Alamos Gold Inc.,proposed sale $369K,369473,,https://www.sec.gov/Archives/edgar/data/2119351/000119312526392040/0001193125-26-392040-index.htm,LOW
+2026-09-15T20:53:58+00:00,FORM_144,,LATTICE SEMICONDUCTOR CORPORATION,proposed sale $456K,455713,,https://www.sec.gov/Archives/edgar/data/1992449/000195004726009527/0001950047-26-009527-index.htm,LOW
+2026-09-15T20:53:58+00:00,FORM_144,,StoneX Group Inc.,proposed sale $3.39M,3385042,,https://www.sec.gov/Archives/edgar/data/1662210/000162828026062071/0001628280-26-062071-index.htm,LOW
+2026-09-15T20:53:59+00:00,FORM_144,,"Erasca, Inc.",proposed sale $133K,133093,,https://www.sec.gov/Archives/edgar/data/1973524/000162828026062070/0001628280-26-062070-index.htm,LOW
+2026-09-15T20:53:59+00:00,FORM_144,,ANGI INC.,proposed sale $16K,15872,,https://www.sec.gov/Archives/edgar/data/2041269/000195004726009526/0001950047-26-009526-index.htm,LOW
+2026-09-15T20:54:00+00:00,FORM_144,,"ATN International, Inc",proposed sale $155K,155000,,https://www.sec.gov/Archives/edgar/data/1366518/000196922326001024/0001969223-26-001024-index.htm,LOW
+2026-09-15T20:54:00+00:00,FORM_144,,SANDISK CORPORATION,proposed sale $4.66M,4655970,,https://www.sec.gov/Archives/edgar/data/2023554/000195004726009525/0001950047-26-009525-index.htm,LOW
+2026-09-15T20:54:00+00:00,FORM_144,,WEALTHFRONT CORP,proposed sale $7K,6794,,https://www.sec.gov/Archives/edgar/data/1524566/000195004726009524/0001950047-26-009524-index.htm,LOW
+2026-09-15T20:54:01+00:00,FORM_144,,"TRAVERE THERAPEUTICS, INC.",proposed sale $354K,353621,,https://www.sec.gov/Archives/edgar/data/1882909/000195004726009523/0001950047-26-009523-index.htm,LOW
+2026-09-15T20:54:01+00:00,FORM_144,,NEBIUS GROUP N.V.,proposed sale $1.35M,1350377,,https://www.sec.gov/Archives/edgar/data/2096831/000195004726009522/0001950047-26-009522-index.htm,LOW
+2026-09-15T20:54:02+00:00,FORM_144,,"TRAVERE THERAPEUTICS, INC.",proposed sale $3.32M,3322921,,https://www.sec.gov/Archives/edgar/data/1943192/000195004726009521/0001950047-26-009521-index.htm,LOW
