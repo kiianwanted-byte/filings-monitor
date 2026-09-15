@@ -2349,3 +2349,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-15T16:21:17+00:00,INSIDER_CLUSTER,NONE,"Fundrise Income Real Estate Fund, LLC",Starr Gayle P $397,397,1,https://www.sec.gov/Archives/edgar/data/1885551/000121390026100005/0001213900-26-100005-index.htm,HIGH
 2026-09-15T16:21:25+00:00,FORM_144,,"Par Pacific Holdings, Inc.",proposed sale $322K,322246,,https://www.sec.gov/Archives/edgar/data/2059514/000162828026061992/0001628280-26-061992-index.htm,LOW
 2026-09-15T16:34:24+00:00,INSIDER_CLUSTER,GROV,"Grove Collaborative Holdings, Inc.",Landesberg Stuart $16K,15799,4,https://www.sec.gov/Archives/edgar/data/1930721/000184176126000100/0001841761-26-000100-index.htm,HIGH
+2026-09-15T16:57:19+00:00,FORM_144,,Arthur J. Gallagher & Co.,proposed sale $3.80M,3799500,,https://www.sec.gov/Archives/edgar/data/1784277/000178427726000007/0001784277-26-000007-index.htm,LOW
+2026-09-15T16:57:19+00:00,FORM_144,,TERADATA CORP /DE/,proposed sale $1.44M,1442310,,https://www.sec.gov/Archives/edgar/data/1904623/000195917326006974/0001959173-26-006974-index.htm,LOW
