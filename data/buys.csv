@@ -523,3 +523,5 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-15T00:55:59+00:00,2026-09-10,ONMD,OneMedNet Corp,Yu Jeffrey,"Director, Chief Medical Officer, 10% owner",142857,0.63,89999,1.6,0001493152-26-042642
 2026-09-15T01:25:19+00:00,2026-09-11,KDOZF,KIDOZ INC.,Ben Tora Eldad,"Director, Chief Strategy Officer",2500,0.10,254,0.0,0001801365-26-000006
 2026-09-15T10:38:31+00:00,2026-09-14,MAIA,"MAIA Biotechnology, Inc.",Vitoc Vlad,"Director, Chief Executive Officer, 10% owner",73000,1.37,100010,7.5,0001878313-26-000087
+2026-09-15T11:57:08+00:00,2026-09-11,UAVS,AgEagle Aerial Systems Inc.,Begley Grant A,"Director, Chairman of the Board",5000,0.98,4900,4.5,0001437749-26-030389
+2026-09-15T11:57:08+00:00,2026-09-11,UAVS,AgEagle Aerial Systems Inc.,Klavon Brent,Director,5050,0.99,4999,9.2,0001437749-26-030387
