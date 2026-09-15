@@ -2544,3 +2544,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-15T23:25:13+00:00,FORM_144,,IBEX Limited,proposed sale $221K,221444,,https://www.sec.gov/Archives/edgar/data/2050174/000197449426000298/0001974494-26-000298-index.htm,LOW
 2026-09-15T23:35:48+00:00,FORM_144,,"SOUNDHOUND AI, INC.",proposed sale $460K,460101,,https://www.sec.gov/Archives/edgar/data/1921640/000192164026000014/0001921640-26-000014-index.htm,LOW
 2026-09-15T23:35:49+00:00,FORM_144,,"DHT Holdings, Inc.",proposed sale $664K,664500,,https://www.sec.gov/Archives/edgar/data/1331284/000095015726001017/0000950157-26-001017-index.htm,LOW
+2026-09-15T23:44:08+00:00,FORM_144,,"SOUNDHOUND AI, INC.",proposed sale $251K,250583,,https://www.sec.gov/Archives/edgar/data/1920475/000192047526000018/0001920475-26-000018-index.htm,LOW
