@@ -2326,3 +2326,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-15T13:57:16+00:00,FORM_144,,BELDEN INC.,proposed sale $217K,217341,,https://www.sec.gov/Archives/edgar/data/1967061/000195917326006958/0001959173-26-006958-index.htm,LOW
 2026-09-15T14:09:53+00:00,FORM_144,,VERIZON COMMUNICATIONS INC,proposed sale $56K,56309,,https://www.sec.gov/Archives/edgar/data/1760581/000195917326006961/0001959173-26-006961-index.htm,LOW
 2026-09-15T14:09:54+00:00,FORM_144,,HUBSPOT INC,proposed sale $2.09M,2087940,,https://www.sec.gov/Archives/edgar/data/1603527/000195917326006960/0001959173-26-006960-index.htm,LOW
+2026-09-15T14:25:34+00:00,FORM_144,,CORCEPT THERAPEUTICS INC,proposed sale $3.34M,3344400,,https://www.sec.gov/Archives/edgar/data/1236387/000194984626000585/0001949846-26-000585-index.htm,LOW
+2026-09-15T14:25:34+00:00,FORM_144,,"Hims & Hers Health, Inc.",proposed sale $226K,225814,,https://www.sec.gov/Archives/edgar/data/2068597/000195917326006963/0001959173-26-006963-index.htm,LOW
+2026-09-15T14:25:35+00:00,FORM_144,,"Hims & Hers Health, Inc.",proposed sale $398K,398226,,https://www.sec.gov/Archives/edgar/data/1965903/000195917326006962/0001959173-26-006962-index.htm,LOW
+2026-09-15T14:25:35+00:00,FORM_144,,MGP INGREDIENTS INC,proposed sale $896K,896390,,https://www.sec.gov/Archives/edgar/data/1853885/000114036126036586/0001140361-26-036586-index.htm,LOW
+2026-09-15T14:25:35+00:00,FORM_144,,FIRST BUSEY CORP /NV/,proposed sale $132K,131635,,https://www.sec.gov/Archives/edgar/data/1766116/000194984626000584/0001949846-26-000584-index.htm,LOW
