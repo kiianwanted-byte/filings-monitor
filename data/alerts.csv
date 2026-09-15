@@ -2536,3 +2536,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-15T22:33:39+00:00,FORM_144,,"Palo Alto Networks, Inc.",proposed sale $187K,186970,,https://www.sec.gov/Archives/edgar/data/1773301/000196858226000982/0001968582-26-000982-index.htm,LOW
 2026-09-15T22:59:38+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $25.11M,25105817,,https://www.sec.gov/Archives/edgar/data/1767114/000119312526392234/0001193125-26-392234-index.htm,LOW
 2026-09-15T22:59:38+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $2.54M,2537830,,https://www.sec.gov/Archives/edgar/data/1651403/000119312526392229/0001193125-26-392229-index.htm,LOW
+2026-09-15T23:13:52+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $14.42M,14419682,,https://www.sec.gov/Archives/edgar/data/1737659/000119312526392244/0001193125-26-392244-index.htm,LOW
+2026-09-15T23:13:53+00:00,FORM_144,,"Amer Sports, Inc.",proposed sale $3.12M,3124039,,https://www.sec.gov/Archives/edgar/data/2065419/000197337926000338/0001973379-26-000338-index.htm,LOW
+2026-09-15T23:13:53+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $563K,562596,,https://www.sec.gov/Archives/edgar/data/1672565/000119312526392243/0001193125-26-392243-index.htm,LOW
+2026-09-15T23:13:53+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $27.51M,27512214,,https://www.sec.gov/Archives/edgar/data/1571996/000119312526392240/0001193125-26-392240-index.htm,LOW
+2026-09-15T23:13:54+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $253K,253248,,https://www.sec.gov/Archives/edgar/data/1735863/000119312526392237/0001193125-26-392237-index.htm,LOW
