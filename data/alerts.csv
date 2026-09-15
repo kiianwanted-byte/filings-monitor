@@ -2345,3 +2345,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-15T15:17:32+00:00,FORM_144,,KLA CORP,proposed sale $12.38M,12378625,,https://www.sec.gov/Archives/edgar/data/1196898/000195917326006969/0001959173-26-006969-index.htm,LOW
 2026-09-15T15:29:51+00:00,FORM_144,,PHINIA INC.,proposed sale $466K,465880,,https://www.sec.gov/Archives/edgar/data/1981384/000195917326006972/0001959173-26-006972-index.htm,LOW
 2026-09-15T15:29:52+00:00,FORM_144,,First Citizens BancShares Inc /DE/,proposed sale $427K,426800,,https://www.sec.gov/Archives/edgar/data/2155190/000215519026000002/0002155190-26-000002-index.htm,LOW
+2026-09-15T15:54:42+00:00,FORM_144,,"Ginkgo Bioworks Holdings, Inc.",proposed sale $35K,35405,,https://www.sec.gov/Archives/edgar/data/1830214/000195917326006973/0001959173-26-006973-index.htm,LOW
