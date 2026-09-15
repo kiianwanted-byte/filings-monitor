@@ -2360,3 +2360,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-15T18:34:21+00:00,FORM_144,,GLOBUS MEDICAL INC,proposed sale $2.24M,2236000,,https://www.sec.gov/Archives/edgar/data/1237831/000197407826000355/0001974078-26-000355-index.htm,LOW
 2026-09-15T18:34:21+00:00,FORM_144,,"SCANSOURCE, INC.",proposed sale $3.33M,3328776,,https://www.sec.gov/Archives/edgar/data/1251456/000196430626000441/0001964306-26-000441-index.htm,LOW
 2026-09-15T18:34:21+00:00,FORM_144,,ACACIA RESEARCH CORP,proposed sale $110K,110000,,https://www.sec.gov/Archives/edgar/data/1776505/000177650526000012/0001776505-26-000012-index.htm,LOW
+2026-09-15T18:58:24+00:00,FORM_144,,AVNET INC,proposed sale $635K,634781,,https://www.sec.gov/Archives/edgar/data/1715546/000195917326006977/0001959173-26-006977-index.htm,LOW
+2026-09-15T18:58:24+00:00,FORM_144,,AGCO CORP /DE,proposed sale $200K,200480,,https://www.sec.gov/Archives/edgar/data/1864808/000195917326006976/0001959173-26-006976-index.htm,LOW
