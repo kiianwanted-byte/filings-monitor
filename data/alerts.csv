@@ -2521,3 +2521,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-15T21:40:22+00:00,FORM_144,,"LiveWire Group, Inc.",proposed sale $12K,12309,,https://www.sec.gov/Archives/edgar/data/2134919/000195917326006995/0001959173-26-006995-index.htm,LOW
 2026-09-15T21:40:23+00:00,FORM_144,,"Cricut, Inc.",proposed sale $1.02M,1017000,,https://www.sec.gov/Archives/edgar/data/1851564/000195824426000610/0001958244-26-000610-index.htm,LOW
 2026-09-15T21:40:23+00:00,FORM_144,,IRIDIUM COMMUNICATIONS INC.,proposed sale $267K,267393,,https://www.sec.gov/Archives/edgar/data/2046045/000195004726009539/0001950047-26-009539-index.htm,LOW
+2026-09-15T21:57:19+00:00,FORM_144,,MOHAWK INDUSTRIES INC,proposed sale $1.24M,1238139,,https://www.sec.gov/Archives/edgar/data/925177/000001179026000034/0000011790-26-000034-index.htm,LOW
+2026-09-15T21:57:19+00:00,FORM_144,,"Cytokinetics, Inc.",proposed sale $7.09M,7094739,,https://www.sec.gov/Archives/edgar/data/1288859/000196858226000978/0001968582-26-000978-index.htm,LOW
