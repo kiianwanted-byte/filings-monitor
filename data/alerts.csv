@@ -2354,3 +2354,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-15T17:21:59+00:00,FORM_144,,Avery Dennison Corp,proposed sale $663K,663264,,https://www.sec.gov/Archives/edgar/data/1565131/000195917326006975/0001959173-26-006975-index.htm,LOW
 2026-09-15T17:44:03+00:00,FORM_144,,PLUG POWER INC,proposed sale $39K,38625,,https://www.sec.gov/Archives/edgar/data/2085249/000100027526000112/0001000275-26-000112-index.htm,LOW
 2026-09-15T17:53:25+00:00,INSIDER_CLUSTER,RWT,REDWOOD TRUST INC,Abate Christopher J $384K,383900,0,https://www.sec.gov/Archives/edgar/data/1453409/000110465926107867/0001104659-26-107867-index.htm,HIGH
+2026-09-15T18:20:25+00:00,FORM_144,,"PACS Group, Inc.",proposed sale $6.43M,6432859,,https://www.sec.gov/Archives/edgar/data/2014361/000201436126000033/0002014361-26-000033-index.htm,LOW
