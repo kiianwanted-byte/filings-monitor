@@ -2534,3 +2534,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-15T22:23:14+00:00,FORM_144,,"Revolution Medicines, Inc.",proposed sale $67K,67447,,https://www.sec.gov/Archives/edgar/data/1835966/000183596626000004/0001835966-26-000004-index.htm,LOW
 2026-09-15T22:23:14+00:00,FORM_144,,"Revolution Medicines, Inc.",proposed sale $484K,484361,,https://www.sec.gov/Archives/edgar/data/2124509/000212450926000006/0002124509-26-000006-index.htm,LOW
 2026-09-15T22:33:39+00:00,FORM_144,,"Palo Alto Networks, Inc.",proposed sale $187K,186970,,https://www.sec.gov/Archives/edgar/data/1773301/000196858226000982/0001968582-26-000982-index.htm,LOW
+2026-09-15T22:59:38+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $25.11M,25105817,,https://www.sec.gov/Archives/edgar/data/1767114/000119312526392234/0001193125-26-392234-index.htm,LOW
+2026-09-15T22:59:38+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $2.54M,2537830,,https://www.sec.gov/Archives/edgar/data/1651403/000119312526392229/0001193125-26-392229-index.htm,LOW
