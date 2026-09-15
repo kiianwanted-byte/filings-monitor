@@ -2301,3 +2301,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-14T23:59:12+00:00,FORM_144,,Kinetik Holdings Inc.,proposed sale $56K,55913,,https://www.sec.gov/Archives/edgar/data/1904934/000090514826004192/0000905148-26-004192-index.htm,LOW
 2026-09-14T23:59:13+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $14.06M,14063686,,https://www.sec.gov/Archives/edgar/data/1767114/000119312526390999/0001193125-26-390999-index.htm,LOW
 2026-09-14T23:59:13+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $15.41M,15408163,,https://www.sec.gov/Archives/edgar/data/1571996/000119312526390998/0001193125-26-390998-index.htm,LOW
+2026-09-15T00:20:33+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $4.60M,4595049,,https://www.sec.gov/Archives/edgar/data/1651403/000119312526391021/0001193125-26-391021-index.htm,LOW
+2026-09-15T00:20:34+00:00,FORM_144,,Seagate Technology Holdings plc,proposed sale $404K,404405,,https://www.sec.gov/Archives/edgar/data/1988271/000198827126000010/0001988271-26-000010-index.htm,LOW
+2026-09-15T00:20:34+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $142K,142389,,https://www.sec.gov/Archives/edgar/data/1735863/000119312526391008/0001193125-26-391008-index.htm,LOW
+2026-09-15T00:20:35+00:00,FORM_144,,Seagate Technology Holdings plc,proposed sale $783K,783391,,https://www.sec.gov/Archives/edgar/data/1764650/000176465026000009/0001764650-26-000009-index.htm,LOW
+2026-09-15T00:20:35+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $8.08M,8079344,,https://www.sec.gov/Archives/edgar/data/1737659/000119312526391006/0001193125-26-391006-index.htm,LOW
