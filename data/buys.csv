@@ -520,3 +520,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-14T23:51:40+00:00,2026-09-14,PMTS,CPI Card Group Inc.,Peters Nicholas,Director,11628,21.50,250002,NEW,0001654770-26-000004
 2026-09-14T23:59:10+00:00,2026-09-14,PMTS,CPI Card Group Inc.,Tricor PMT25 Holdings Inc.,10% owner,525000,21.50,11287500,24.1,0001104659-26-107610
 2026-09-15T00:20:30+00:00,2026-09-14,GLOO,"Gloo Holdings, Inc.",GELSINGER PATRICK P,"Director, See Remarks",25000,3.45,86232,6.8,0001316331-26-000013
+2026-09-15T00:55:59+00:00,2026-09-10,ONMD,OneMedNet Corp,Yu Jeffrey,"Director, Chief Medical Officer, 10% owner",142857,0.63,89999,1.6,0001493152-26-042642
