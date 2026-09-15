@@ -556,3 +556,6 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-15T20:32:21+00:00,2026-09-14,SNES,"SenesTech, Inc.",Edell Michael,"Director, Chief Executive Officer",1000,0.84,840,12.5,0001628280-26-062063
 2026-09-15T20:32:24+00:00,2026-09-11,OPFI,OppFi Inc.,Schwartz Todd G.,"Director, Chief Executive Officer, 10% owner",5240,7.90,41405,0.8,0000905148-26-004199
 2026-09-15T20:32:25+00:00,2026-09-14,FCEL,FUELCELL ENERGY INC,Livingston III Homer John,Director,16404,15.05,246955,62.3,0000897069-26-001780
+2026-09-15T20:44:46+00:00,2026-05-18,CSAN,Cosan S.A.,Cordes Burkhard Otto,Director,159000,4.38,696030,11.8,0001292814-26-004562
+2026-09-15T20:44:53+00:00,2026-09-11,EVRG,"Evergy, Inc.",Rolph Jonathan D,Director,1640,81.47,133610,NEW,0001711269-26-000102
+2026-09-15T20:45:02+00:00,2026-09-11,MOBI,"Mobia Medical, Inc.",Leavitt Chase C.,SEE REMARKS,2000,10.30,20600,66.7,0001193125-26-391998
