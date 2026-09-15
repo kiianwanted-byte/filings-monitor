@@ -2319,3 +2319,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-15T10:38:38+00:00,FORM_144,,Nano Dimension Ltd.,proposed sale $26K,26054,,https://www.sec.gov/Archives/edgar/data/2103000/000197640826000841/0001976408-26-000841-index.htm,LOW
 2026-09-15T10:58:28+00:00,FORM_144,,Fiverr International Ltd.,proposed sale $139K,138698,,https://www.sec.gov/Archives/edgar/data/1975805/000197640826000844/0001976408-26-000844-index.htm,LOW
 2026-09-15T11:57:08+00:00,INSIDER_CLUSTER,UAVS,AgEagle Aerial Systems Inc.,Klavon Brent $5K,4999,4,https://www.sec.gov/Archives/edgar/data/2046493/000143774926030387/0001437749-26-030387-index.htm,HIGH
+2026-09-15T12:10:57+00:00,INSIDER_CLUSTER,NNOX,Nano-X Imaging Ltd.,Suesskind Dan S $45K,45300,1,https://www.sec.gov/Archives/edgar/data/1795251/000121390026099887/0001213900-26-099887-index.htm,HIGH
