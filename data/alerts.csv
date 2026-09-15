@@ -2337,3 +2337,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-15T14:38:45+00:00,FORM_144,,"Academy Sports & Outdoors, Inc.",proposed sale $353K,352625,,https://www.sec.gov/Archives/edgar/data/1817358/000194984626000587/0001949846-26-000587-index.htm,LOW
 2026-09-15T14:38:45+00:00,FORM_144,,EAST WEST BANCORP INC,proposed sale $1.40M,1395457,,https://www.sec.gov/Archives/edgar/data/1482107/000194984626000586/0001949846-26-000586-index.htm,LOW
 2026-09-15T14:38:45+00:00,FORM_144,,MGP INGREDIENTS INC,proposed sale $896K,896390,,https://www.sec.gov/Archives/edgar/data/1854210/000114036126036591/0001140361-26-036591-index.htm,LOW
+2026-09-15T14:51:14+00:00,FORM_144,,"Moderna, Inc.",proposed sale $5.88M,5883709,,https://www.sec.gov/Archives/edgar/data/1760669/000195917326006968/0001959173-26-006968-index.htm,LOW
+2026-09-15T14:51:14+00:00,FORM_144,,"TERADYNE, INC",proposed sale $270K,270264,,https://www.sec.gov/Archives/edgar/data/1618274/000195917326006967/0001959173-26-006967-index.htm,LOW
