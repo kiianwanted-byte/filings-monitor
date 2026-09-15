@@ -8,7 +8,7 @@ on:
 
 # Never let two runs overlap, they would fight over the state files.
 concurrency:
-  group: filings-state
+  group: sec-filings
   cancel-in-progress: false
 
 permissions:

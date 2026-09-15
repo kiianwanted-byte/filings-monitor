@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 concurrency:
-  group: filings-state
+  group: earnings-digest
   cancel-in-progress: false
 
 permissions:

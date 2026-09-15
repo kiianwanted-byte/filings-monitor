@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
 
 concurrency:
-  group: filings-state
+  group: congress-trades
   cancel-in-progress: false
 
 permissions:
