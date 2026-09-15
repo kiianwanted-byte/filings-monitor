@@ -107,27 +107,16 @@ def clean_title(t):
 
 
 def build(events):
-    """Group by Singapore day, sorted."""
-    by_day = {}
-    for ev in events:
+    """One line per event: day date time - event name."""
+    rows = []
+    for ev in sorted(events, key=lambda x: to_sgt(x)[0] or datetime.max
+                     .replace(tzinfo=SGT)):
         when, all_day = to_sgt(ev)
         if when is None:
             continue
-        by_day.setdefault(when.date(), []).append((when, all_day, ev))
-
-    rows = []
-    for day in sorted(by_day):
-        items = sorted(by_day[day], key=lambda x: x[0])
-        label = day.strftime("%a %d %b")
-        for i, (when, all_day, ev) in enumerate(items[:6]):
-            title = clean_title(ev.get("title"))
-            time_txt = "" if all_day else when.strftime("%H:%M")
-            forecast = str(ev.get("forecast") or "").strip()
-            extra = f"  fc {forecast}" if forecast else ""
-            rows.append((label if i == 0 else "",
-                         f"{time_txt:>5}  {title[:34]}{extra}".strip()))
-        if len(items) > 6:
-            rows.append(("", f"       +{len(items) - 6} more"))
+        stamp = when.strftime("%a %d %b")
+        stamp += "  all day" if all_day else when.strftime("  %H:%M")
+        rows.append((stamp + "  -", clean_title(ev.get("title"))[:38]))
     return rows
 
 
@@ -146,7 +135,7 @@ def run_digest():
             ("PROBLEM", "Calendar feed returned nothing"),
             ("LIKELY CAUSE", "Feed URL moved or blocked"),
             ("ACTION", "Run the diagnostics workflow"),
-        ]))
+        ]), silent=False)
         return
 
     events = [e for e in data if wanted(e)]
@@ -155,19 +144,12 @@ def run_digest():
     if not rows:
         log("events: no US events matched this week")
         telegram(box("WEEK AHEAD - US EVENTS", [
-            ("WEEK", now.strftime("%d %b")),
-            ("STATUS", "No high impact US events scheduled"),
-        ]))
+            ("STATUS", "No high impact US events scheduled this week"),
+        ]), silent=False)
         return
 
-    header = [("WEEK", f"{label}, from {now.strftime('%d %b')}"),
-              ("EVENTS", f"{len(events)} US, high impact"),
-              ("TIMES", "Singapore (SGT)"),
-              ("", "")]
-
-    telegram(box("WEEK AHEAD - US EVENTS", header + rows,
-                 footer="You cannot beat a data release. This is so you are "
-                        "not holding into one you forgot about."))
+    telegram(box("WEEK AHEAD - US EVENTS", rows,
+                 footer="All times Singapore."), silent=False)
 
     save_json(STATE_FILE, {"sent": datetime.now(timezone.utc)
                            .isoformat(timespec="seconds"),
