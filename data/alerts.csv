@@ -2351,3 +2351,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-15T16:34:24+00:00,INSIDER_CLUSTER,GROV,"Grove Collaborative Holdings, Inc.",Landesberg Stuart $16K,15799,4,https://www.sec.gov/Archives/edgar/data/1930721/000184176126000100/0001841761-26-000100-index.htm,HIGH
 2026-09-15T16:57:19+00:00,FORM_144,,Arthur J. Gallagher & Co.,proposed sale $3.80M,3799500,,https://www.sec.gov/Archives/edgar/data/1784277/000178427726000007/0001784277-26-000007-index.htm,LOW
 2026-09-15T16:57:19+00:00,FORM_144,,TERADATA CORP /DE/,proposed sale $1.44M,1442310,,https://www.sec.gov/Archives/edgar/data/1904623/000195917326006974/0001959173-26-006974-index.htm,LOW
+2026-09-15T17:21:59+00:00,FORM_144,,Avery Dennison Corp,proposed sale $663K,663264,,https://www.sec.gov/Archives/edgar/data/1565131/000195917326006975/0001959173-26-006975-index.htm,LOW
