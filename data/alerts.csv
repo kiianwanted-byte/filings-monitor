@@ -2518,3 +2518,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-15T21:29:35+00:00,FORM_144,,Kinetik Holdings Inc.,proposed sale $256K,256324,,https://www.sec.gov/Archives/edgar/data/1904934/000090514826004200/0000905148-26-004200-index.htm,LOW
 2026-09-15T21:29:35+00:00,FORM_144,,TEEKAY TANKERS LTD.,proposed sale $739K,738916,,https://www.sec.gov/Archives/edgar/data/1977201/000195004726009538/0001950047-26-009538-index.htm,LOW
 2026-09-15T21:29:36+00:00,FORM_144,,Sea Limited,proposed sale $137.84M,137843200,,https://www.sec.gov/Archives/edgar/data/1966565/000196858226000977/0001968582-26-000977-index.htm,LOW
+2026-09-15T21:40:22+00:00,FORM_144,,"LiveWire Group, Inc.",proposed sale $12K,12309,,https://www.sec.gov/Archives/edgar/data/2134919/000195917326006995/0001959173-26-006995-index.htm,LOW
+2026-09-15T21:40:23+00:00,FORM_144,,"Cricut, Inc.",proposed sale $1.02M,1017000,,https://www.sec.gov/Archives/edgar/data/1851564/000195824426000610/0001958244-26-000610-index.htm,LOW
+2026-09-15T21:40:23+00:00,FORM_144,,IRIDIUM COMMUNICATIONS INC.,proposed sale $267K,267393,,https://www.sec.gov/Archives/edgar/data/2046045/000195004726009539/0001950047-26-009539-index.htm,LOW
