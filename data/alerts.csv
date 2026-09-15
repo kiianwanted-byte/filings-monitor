@@ -2324,3 +2324,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-15T13:47:30+00:00,FORM_144,,ALLIANCE RESOURCE PARTNERS LP,proposed sale $173K,172680,,https://www.sec.gov/Archives/edgar/data/2031263/000194984626000583/0001949846-26-000583-index.htm,LOW
 2026-09-15T13:57:15+00:00,FORM_144,,DEXCOM INC,proposed sale $550K,549537,,https://www.sec.gov/Archives/edgar/data/1238485/000195917326006959/0001959173-26-006959-index.htm,LOW
 2026-09-15T13:57:16+00:00,FORM_144,,BELDEN INC.,proposed sale $217K,217341,,https://www.sec.gov/Archives/edgar/data/1967061/000195917326006958/0001959173-26-006958-index.htm,LOW
+2026-09-15T14:09:53+00:00,FORM_144,,VERIZON COMMUNICATIONS INC,proposed sale $56K,56309,,https://www.sec.gov/Archives/edgar/data/1760581/000195917326006961/0001959173-26-006961-index.htm,LOW
+2026-09-15T14:09:54+00:00,FORM_144,,HUBSPOT INC,proposed sale $2.09M,2087940,,https://www.sec.gov/Archives/edgar/data/1603527/000195917326006960/0001959173-26-006960-index.htm,LOW
