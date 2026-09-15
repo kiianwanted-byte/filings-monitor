@@ -2314,3 +2314,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-15T01:25:22+00:00,FORM_144,,GMR Solutions Inc.,proposed sale $3.48M,3477806,,https://www.sec.gov/Archives/edgar/data/1898718/000110465926107633/0001104659-26-107633-index.htm,LOW
 2026-09-15T01:25:22+00:00,FORM_144,,GMR Solutions Inc.,proposed sale $19.32M,19321172,,https://www.sec.gov/Archives/edgar/data/2126783/000110465926107632/0001104659-26-107632-index.htm,LOW
 2026-09-15T01:25:23+00:00,FORM_144,,GMR Solutions Inc.,proposed sale $1.23M,1228936,,https://www.sec.gov/Archives/edgar/data/1898718/000110465926107631/0001104659-26-107631-index.htm,LOW
+2026-09-15T10:38:31+00:00,INSIDER_CLUSTER,MAIA,"MAIA Biotechnology, Inc.",Vitoc Vlad $100K,100010,1,https://www.sec.gov/Archives/edgar/data/1913257/000187831326000087/0001878313-26-000087-index.htm,HIGH
+2026-09-15T10:38:37+00:00,FORM_144,,ZIM Integrated Shipping Services Ltd.,proposed sale $785K,784906,,https://www.sec.gov/Archives/edgar/data/1966890/000197640826000842/0001976408-26-000842-index.htm,LOW
+2026-09-15T10:38:38+00:00,FORM_144,,Nano Dimension Ltd.,proposed sale $26K,26054,,https://www.sec.gov/Archives/edgar/data/2103000/000197640826000841/0001976408-26-000841-index.htm,LOW

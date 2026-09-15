@@ -522,3 +522,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-15T00:20:30+00:00,2026-09-14,GLOO,"Gloo Holdings, Inc.",GELSINGER PATRICK P,"Director, See Remarks",25000,3.45,86232,6.8,0001316331-26-000013
 2026-09-15T00:55:59+00:00,2026-09-10,ONMD,OneMedNet Corp,Yu Jeffrey,"Director, Chief Medical Officer, 10% owner",142857,0.63,89999,1.6,0001493152-26-042642
 2026-09-15T01:25:19+00:00,2026-09-11,KDOZF,KIDOZ INC.,Ben Tora Eldad,"Director, Chief Strategy Officer",2500,0.10,254,0.0,0001801365-26-000006
+2026-09-15T10:38:31+00:00,2026-09-14,MAIA,"MAIA Biotechnology, Inc.",Vitoc Vlad,"Director, Chief Executive Officer, 10% owner",73000,1.37,100010,7.5,0001878313-26-000087
