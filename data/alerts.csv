@@ -2363,3 +2363,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-15T18:58:24+00:00,FORM_144,,AVNET INC,proposed sale $635K,634781,,https://www.sec.gov/Archives/edgar/data/1715546/000195917326006977/0001959173-26-006977-index.htm,LOW
 2026-09-15T18:58:24+00:00,FORM_144,,AGCO CORP /DE,proposed sale $200K,200480,,https://www.sec.gov/Archives/edgar/data/1864808/000195917326006976/0001959173-26-006976-index.htm,LOW
 2026-09-15T19:11:42+00:00,FORM_144,,"CSW INDUSTRIALS, INC.",proposed sale $434K,434376,,https://www.sec.gov/Archives/edgar/data/1624794/000197372726000055/0001973727-26-000055-index.htm,LOW
+2026-09-15T19:24:06+00:00,FORM_144,,"nCino, Inc.",proposed sale $134K,134049,,https://www.sec.gov/Archives/edgar/data/1928630/000195917326006979/0001959173-26-006979-index.htm,LOW
+2026-09-15T19:24:06+00:00,FORM_144,,Arthur J. Gallagher & Co.,proposed sale $253K,252858,,https://www.sec.gov/Archives/edgar/data/1185998/000195917326006978/0001959173-26-006978-index.htm,LOW
