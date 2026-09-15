@@ -2531,3 +2531,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-15T22:09:56+00:00,FORM_144,,"Revolution Medicines, Inc.",proposed sale $803K,802650,,https://www.sec.gov/Archives/edgar/data/1800668/000180066826000005/0001800668-26-000005-index.htm,LOW
 2026-09-15T22:09:56+00:00,FORM_144,,"Rocket Companies, Inc.",proposed sale $12.10M,12096000,,https://www.sec.gov/Archives/edgar/data/1805284/000196858226000980/0001968582-26-000980-index.htm,LOW
 2026-09-15T22:09:57+00:00,FORM_144,,"Joby Aviation, Inc.",proposed sale $36K,35904,,https://www.sec.gov/Archives/edgar/data/1877717/000181984826000459/0001819848-26-000459-index.htm,LOW
+2026-09-15T22:23:14+00:00,FORM_144,,"Revolution Medicines, Inc.",proposed sale $67K,67447,,https://www.sec.gov/Archives/edgar/data/1835966/000183596626000004/0001835966-26-000004-index.htm,LOW
+2026-09-15T22:23:14+00:00,FORM_144,,"Revolution Medicines, Inc.",proposed sale $484K,484361,,https://www.sec.gov/Archives/edgar/data/2124509/000212450926000006/0002124509-26-000006-index.htm,LOW
