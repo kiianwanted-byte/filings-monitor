@@ -2307,3 +2307,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-15T00:20:35+00:00,FORM_144,,Seagate Technology Holdings plc,proposed sale $783K,783391,,https://www.sec.gov/Archives/edgar/data/1764650/000176465026000009/0001764650-26-000009-index.htm,LOW
 2026-09-15T00:20:35+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $8.08M,8079344,,https://www.sec.gov/Archives/edgar/data/1737659/000119312526391006/0001193125-26-391006-index.htm,LOW
 2026-09-15T00:41:19+00:00,FORM_144,,GigaCloud Technology Inc,proposed sale $311K,311220,,https://www.sec.gov/Archives/edgar/data/2004135/000200413526000006/0002004135-26-000006-index.htm,LOW
+2026-09-15T01:08:17+00:00,FORM_144,,GMR Solutions Inc.,proposed sale $314K,314089,,https://www.sec.gov/Archives/edgar/data/2133986/000110465926107629/0001104659-26-107629-index.htm,LOW
