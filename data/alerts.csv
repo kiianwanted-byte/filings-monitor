@@ -2366,3 +2366,15 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-15T19:24:06+00:00,FORM_144,,"nCino, Inc.",proposed sale $134K,134049,,https://www.sec.gov/Archives/edgar/data/1928630/000195917326006979/0001959173-26-006979-index.htm,LOW
 2026-09-15T19:24:06+00:00,FORM_144,,Arthur J. Gallagher & Co.,proposed sale $253K,252858,,https://www.sec.gov/Archives/edgar/data/1185998/000195917326006978/0001959173-26-006978-index.htm,LOW
 2026-09-15T19:46:01+00:00,FORM_144,,SINO GREEN LAND CORPORATION,proposed sale $11.40M,11400000,,https://www.sec.gov/Archives/edgar/data/1878651/000149315226042736/0001493152-26-042736-index.htm,LOW
+2026-09-15T20:05:36+00:00,FORM_144,,"GILEAD SCIENCES, INC.",proposed sale $436K,435870,,https://www.sec.gov/Archives/edgar/data/1310204/000195004726009467/0001950047-26-009467-index.htm,LOW
+2026-09-15T20:05:37+00:00,FORM_144,,"DOXIMITY, INC.",proposed sale $54K,54043,,https://www.sec.gov/Archives/edgar/data/2111348/000195004726009466/0001950047-26-009466-index.htm,LOW
+2026-09-15T20:05:37+00:00,FORM_144,,CAPITAL ONE FINANCIAL CORPORATION,proposed sale $426K,425947,,https://www.sec.gov/Archives/edgar/data/1741273/000195004726009465/0001950047-26-009465-index.htm,LOW
+2026-09-15T20:05:38+00:00,FORM_144,,ARCBEST CORP /TX/,proposed sale $115K,115498,,https://www.sec.gov/Archives/edgar/data/1967606/000192109426001016/0001921094-26-001016-index.htm,LOW
+2026-09-15T20:05:38+00:00,FORM_144,,"COHU, INC.",proposed sale $51K,51070,,https://www.sec.gov/Archives/edgar/data/1701398/000195004726009464/0001950047-26-009464-index.htm,LOW
+2026-09-15T20:05:38+00:00,FORM_144,,"Arcutis Biotherapeutics, Inc.",proposed sale $114K,114371,,https://www.sec.gov/Archives/edgar/data/1801050/000162828026062042/0001628280-26-062042-index.htm,LOW
+2026-09-15T20:05:39+00:00,FORM_144,,CIENA CORPORATION,proposed sale $390K,389832,,https://www.sec.gov/Archives/edgar/data/1998826/000195004726009463/0001950047-26-009463-index.htm,LOW
+2026-09-15T20:05:39+00:00,FORM_144,,QUICKLOGIC CORPORATION,proposed sale $16K,15660,,https://www.sec.gov/Archives/edgar/data/1261838/000195004726009462/0001950047-26-009462-index.htm,LOW
+2026-09-15T20:05:40+00:00,FORM_144,,"Inhibrx Biosciences, Inc.",proposed sale $53K,52525,,https://www.sec.gov/Archives/edgar/data/2007919/000195917326006980/0001959173-26-006980-index.htm,LOW
+2026-09-15T20:05:44+00:00,FORM_144,,"DEXCOM, INC.",proposed sale $143K,142868,,https://www.sec.gov/Archives/edgar/data/1899922/000195004726009460/0001950047-26-009460-index.htm,LOW
+2026-09-15T20:05:44+00:00,FORM_144,,LUMENTUM HOLDINGS INC.,proposed sale $421K,420755,,https://www.sec.gov/Archives/edgar/data/1633978/000195004726009459/0001950047-26-009459-index.htm,LOW
+2026-09-15T20:05:44+00:00,FORM_144,,"CLOVER HEALTH INVESTMENTS, CORP. /DE",proposed sale $1.42M,1417021,,https://www.sec.gov/Archives/edgar/data/1971702/000162828026062033/0001628280-26-062033-index.htm,LOW
