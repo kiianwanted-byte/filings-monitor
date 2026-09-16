@@ -2576,3 +2576,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-16T14:17:04+00:00,FORM_144,,"Hims & Hers Health, Inc.",proposed sale $174K,173734,,https://www.sec.gov/Archives/edgar/data/1837817/000195917326007001/0001959173-26-007001-index.htm,LOW
 2026-09-16T14:17:05+00:00,FORM_144,,Snowflake Inc.,proposed sale $2.61M,2608915,,https://www.sec.gov/Archives/edgar/data/1640147/000195917326007000/0001959173-26-007000-index.htm,LOW
 2026-09-16T14:46:11+00:00,FORM_144,,Legence Corp.,proposed sale $227K,226835,,https://www.sec.gov/Archives/edgar/data/2082077/000195917326007004/0001959173-26-007004-index.htm,LOW
+2026-09-16T15:24:15+00:00,INSIDER_CLUSTER,SBLK,Star Bulk Carriers Corp.,Karellis Nikolaos $57K,56540,1,https://www.sec.gov/Archives/edgar/data/2011929/000201192926000010/0002011929-26-000010-index.htm,HIGH
