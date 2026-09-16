@@ -584,3 +584,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-16T01:59:59+00:00,2026-09-11,LCU,LION COPPER & GOLD CORP.,Alford Tony L,"Director, 10% owner",11297,4.90,55365,0.4,0001062993-26-004972
 2026-09-16T10:23:17+00:00,2026-09-14,BZUN,Baozun Inc.,Qiu Wenbin,"Director, Chief Executive Officer",14600,2.73,39858,0.9,0001104659-26-108060
 2026-09-16T10:23:18+00:00,2026-09-15,NNOX,Nano-X Imaging Ltd.,Meltzer Erez,"Director, Chief Executive Officer",10000,0.69,6899,18.0,0001213900-26-100307
+2026-09-16T11:51:37+00:00,2026-09-14,ROC,Rank One Computing Corp,Kiernan Kathleen Louise,Director,4000,4.36,17434,NEW,0001213900-26-100339
