@@ -586,3 +586,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-16T10:23:18+00:00,2026-09-15,NNOX,Nano-X Imaging Ltd.,Meltzer Erez,"Director, Chief Executive Officer",10000,0.69,6899,18.0,0001213900-26-100307
 2026-09-16T11:51:37+00:00,2026-09-14,ROC,Rank One Computing Corp,Kiernan Kathleen Louise,Director,4000,4.36,17434,NEW,0001213900-26-100339
 2026-09-16T12:54:10+00:00,2026-09-14,AVBC,"Avidia Bancorp, Inc.",Murphy Michael Dennis,Director,5000,22.12,110600,270.3,0001437749-26-030507
+2026-09-16T13:05:14+00:00,2026-09-15,CELH,"Celsius Holdings, Inc.",Kravitz Hal,Director,12000,28.00,336000,5.3,0001628280-26-062134

@@ -2563,3 +2563,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-16T10:57:25+00:00,FORM_144,,Nexxen International Ltd.,proposed sale $21K,21069,,https://www.sec.gov/Archives/edgar/data/1980184/000197640826000847/0001976408-26-000847-index.htm,LOW
 2026-09-16T11:51:38+00:00,FORM_144,,TIDEWATER INC,proposed sale $47.64M,47643107,,https://www.sec.gov/Archives/edgar/data/1105838/000110583826000008/0001105838-26-000008-index.htm,LOW
 2026-09-16T12:54:10+00:00,INSIDER_CLUSTER,AVBC,"Avidia Bancorp, Inc.",Murphy Michael Dennis $111K,110600,2,https://www.sec.gov/Archives/edgar/data/2077941/000143774926030507/0001437749-26-030507-index.htm,HIGH
+2026-09-16T13:05:14+00:00,INSIDER_CLUSTER,CELH,"Celsius Holdings, Inc.",Kravitz Hal $336K,336000,1,https://www.sec.gov/Archives/edgar/data/1685649/000162828026062134/0001628280-26-062134-index.htm,HIGH
