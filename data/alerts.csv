@@ -2569,3 +2569,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-16T13:49:42+00:00,FORM_144,,"SmartStop Self Storage REIT, Inc.",proposed sale $14K,13621,,https://www.sec.gov/Archives/edgar/data/1672825/000195917326006998/0001959173-26-006998-index.htm,LOW
 2026-09-16T13:49:43+00:00,FORM_144,,"Kodiak Gas Services, Inc.",proposed sale $213K,212966,,https://www.sec.gov/Archives/edgar/data/1814898/000195917326006997/0001959173-26-006997-index.htm,LOW
 2026-09-16T13:49:43+00:00,FORM_144,,ORACLE CORP,proposed sale $1.52M,1522827,,https://www.sec.gov/Archives/edgar/data/2071965/000195917326006996/0001959173-26-006996-index.htm,LOW
+2026-09-16T13:59:50+00:00,FORM_144,,"REVVITY, INC.",proposed sale $1.03M,1032650,,https://www.sec.gov/Archives/edgar/data/1408107/000195917326006999/0001959173-26-006999-index.htm,LOW
+2026-09-16T13:59:50+00:00,FORM_144,,"ARRAY DIGITAL INFRASTRUCTURE, INC.",proposed sale $261K,260909,,https://www.sec.gov/Archives/edgar/data/1215333/000194984626000588/0001949846-26-000588-index.htm,LOW
