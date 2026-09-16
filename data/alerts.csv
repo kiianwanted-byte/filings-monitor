@@ -2590,3 +2590,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-16T17:27:24+00:00,FORM_144,,Stardust Power Inc.,proposed sale $16K,16292,,https://www.sec.gov/Archives/edgar/data/2028166/000197407826000357/0001974078-26-000357-index.htm,LOW
 2026-09-16T17:38:57+00:00,FORM_144,,IBEX LIMTED,proposed sale $93K,93476,,https://www.sec.gov/Archives/edgar/data/1973684/000197449426000300/0001974494-26-000300-index.htm,LOW
 2026-09-16T17:38:57+00:00,FORM_144,,"KINDER MORGAN, INC.",proposed sale $143K,143080,,https://www.sec.gov/Archives/edgar/data/2080127/000196530126000143/0001965301-26-000143-index.htm,LOW
+2026-09-16T17:48:27+00:00,FORM_144,,C3 AI INC,proposed sale $221K,220960,,https://www.sec.gov/Archives/edgar/data/2014154/000162828026062193/0001628280-26-062193-index.htm,LOW
