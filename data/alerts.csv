@@ -2696,3 +2696,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-16T22:16:47+00:00,INSIDER_CLUSTER,CROX,"Crocs, Inc.",KAPLAN BETH J $99K,99227,1,https://www.sec.gov/Archives/edgar/data/1334036/000124715426000005/0001247154-26-000005-index.htm,HIGH
 2026-09-16T22:16:48+00:00,FORM_144,,"AST SpaceMobile, Inc.",proposed sale $2.36M,2357400,,https://www.sec.gov/Archives/edgar/data/2027976/000121390026100619/0001213900-26-100619-index.htm,LOW
 2026-09-16T22:16:49+00:00,FORM_144,,"Alignment Healthcare, Inc.",proposed sale $226K,226460,,https://www.sec.gov/Archives/edgar/data/1832466/000162828026062327/0001628280-26-062327-index.htm,LOW
+2026-09-16T22:50:35+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $258K,258167,,https://www.sec.gov/Archives/edgar/data/1735863/000119312526393359/0001193125-26-393359-index.htm,LOW
+2026-09-16T22:50:35+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $14.67M,14666617,,https://www.sec.gov/Archives/edgar/data/1737659/000119312526393350/0001193125-26-393350-index.htm,LOW
