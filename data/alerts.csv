@@ -2593,3 +2593,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-16T17:48:27+00:00,FORM_144,,C3 AI INC,proposed sale $221K,220960,,https://www.sec.gov/Archives/edgar/data/2014154/000162828026062193/0001628280-26-062193-index.htm,LOW
 2026-09-16T18:10:15+00:00,FORM_144,,"AST SpaceMobile, Inc.",proposed sale $707K,706636,,https://www.sec.gov/Archives/edgar/data/1884187/000195917326007010/0001959173-26-007010-index.htm,LOW
 2026-09-16T18:10:15+00:00,FORM_144,,"Diamondback Energy, Inc.",proposed sale $1.92B,1920623653,,https://www.sec.gov/Archives/edgar/data/2080063/000114036126036761/0001140361-26-036761-index.htm,LOW
+2026-09-16T18:27:25+00:00,INSIDER_CLUSTER,RGCO,RGC RESOURCES INC,WILLIAMSON JOHN B III $2K,2374,1,https://www.sec.gov/Archives/edgar/data/1238836/000143774926030524/0001437749-26-030524-index.htm,HIGH
+2026-09-16T18:27:26+00:00,FORM_144,,Stardust Power Inc.,proposed sale $531,530,,https://www.sec.gov/Archives/edgar/data/2028422/000197407826000358/0001974078-26-000358-index.htm,LOW
