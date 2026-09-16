@@ -2687,3 +2687,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-16T21:17:54+00:00,FORM_144,,UIPATH INC,proposed sale $1.98M,1976447,,https://www.sec.gov/Archives/edgar/data/2127293/000195004726009593/0001950047-26-009593-index.htm,LOW
 2026-09-16T21:17:55+00:00,FORM_144,,StoneX Group Inc.,proposed sale $1.36M,1364634,,https://www.sec.gov/Archives/edgar/data/1511110/000162828026062306/0001628280-26-062306-index.htm,LOW
 2026-09-16T21:17:55+00:00,FORM_144,,MOHAWK INDUSTRIES INC,proposed sale $1.22M,1221263,,https://www.sec.gov/Archives/edgar/data/925177/000001179026000036/0000011790-26-000036-index.htm,LOW
+2026-09-16T21:31:13+00:00,FORM_144,,"Clover Health Investments, Corp.",proposed sale $15K,14708,,https://www.sec.gov/Archives/edgar/data/2128814/000180117026000220/0001801170-26-000220-index.htm,LOW
+2026-09-16T21:31:13+00:00,FORM_144,,Viant Technology Inc.,proposed sale $904K,903826,,https://www.sec.gov/Archives/edgar/data/1828791/000195824426000613/0001958244-26-000613-index.htm,LOW
+2026-09-16T21:31:13+00:00,FORM_144,,"Williams-Sonoma, Inc.",proposed sale $664K,664419,,https://www.sec.gov/Archives/edgar/data/1946355/000195824426000612/0001958244-26-000612-index.htm,LOW
+2026-09-16T21:31:14+00:00,FORM_144,,Phibro Animal Health Corporation,proposed sale $12.36M,12355000,,https://www.sec.gov/Archives/edgar/data/1601607/000195824426000611/0001958244-26-000611-index.htm,LOW
