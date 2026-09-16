@@ -2806,3 +2806,6 @@ timestamp,chamber,member,ticker,asset,action,amount_low,amount_high,trade_date,f
 2026-09-15T19:18:34+00:00,House,Josh Gottheimer,QSR,Restaurant Brands International Inc,BUY,1001,15000,2026-08-06,2026-09-14,39,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035455.pdf
 2026-09-15T19:18:36+00:00,House,August Lee Pfluger II,CHTR,"Charter Communications, Inc. - Class",EXCHANGE,1001,15000,2026-08-20,2026-09-14,25,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035432.pdf
 2026-09-15T19:18:36+00:00,House,August Lee Pfluger II,LBRDK,Liberty Broadband Corporation,EXCHANGE,1001,15000,2026-08-20,2026-09-14,25,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035432.pdf
+2026-09-16T20:46:35+00:00,House,Byron Donalds,HWM,Howmet Aerospace Inc. Common,SELL (partial),1001,15000,2026-08-11,2026-09-15,35,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035420.pdf
+2026-09-16T20:46:35+00:00,House,Byron Donalds,NFLX,"Netflix, Inc. - Common Stock",BUY,1001,15000,2026-08-12,2026-09-15,34,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035420.pdf
+2026-09-16T20:46:35+00:00,House,Byron Donalds,PH,Parker-Hannifin Corporation,SELL (partial),1001,15000,2026-08-11,2026-09-15,35,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035420.pdf
