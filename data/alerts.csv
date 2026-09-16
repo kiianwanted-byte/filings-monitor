@@ -2603,3 +2603,23 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-16T19:42:04+00:00,FORM_144,,"Savers Value Village, Inc.",proposed sale $241K,241170,,https://www.sec.gov/Archives/edgar/data/1883313/000195917326007012/0001959173-26-007012-index.htm,LOW
 2026-09-16T19:50:52+00:00,FORM_144,,Adobe Inc.,proposed sale $31.44M,31437500,,https://www.sec.gov/Archives/edgar/data/1224154/000196922326001025/0001969223-26-001025-index.htm,LOW
 2026-09-16T19:58:33+00:00,INSIDER_CLUSTER,CBKM,CONSUMERS BANCORP INC /OH/,Hudak Hillary A $4K,3708,1,https://www.sec.gov/Archives/edgar/data/1945449/000143774926030543/0001437749-26-030543-index.htm,HIGH
+2026-09-16T20:13:37+00:00,INSIDER_BUY,USO,"United States Oil Fund, LP",HRT FINANCIAL LP $16.61M,16608540,5,https://www.sec.gov/Archives/edgar/data/1475597/000147559726000246/0001475597-26-000246-index.htm,MEDIUM
+2026-09-16T20:13:44+00:00,INSIDER_CLUSTER,CTSO,Cytosorbents Corp,Capponi Vincent $13K,12536,2,https://www.sec.gov/Archives/edgar/data/1368151/000110465926108247/0001104659-26-108247-index.htm,HIGH
+2026-09-16T20:13:46+00:00,FORM_144,,ICON PUBLIC LIMITED COMPANY,proposed sale $876K,875875,,https://www.sec.gov/Archives/edgar/data/1167476/000195004726009549/0001950047-26-009549-index.htm,LOW
+2026-09-16T20:13:47+00:00,FORM_144,,"BLOCK, INC.",proposed sale $470K,470160,,https://www.sec.gov/Archives/edgar/data/1933928/000195004726009548/0001950047-26-009548-index.htm,LOW
+2026-09-16T20:13:47+00:00,FORM_144,,"Eos Energy Enterprises, Inc.",proposed sale $454K,453906,,https://www.sec.gov/Archives/edgar/data/1813990/000196922326001030/0001969223-26-001030-index.htm,LOW
+2026-09-16T20:13:47+00:00,FORM_144,,"Arcutis Biotherapeutics, Inc.",proposed sale $8.55M,8549500,,https://www.sec.gov/Archives/edgar/data/1994805/000162828026062242/0001628280-26-062242-index.htm,LOW
+2026-09-16T20:13:48+00:00,FORM_144,,Snap Inc,proposed sale $40K,39576,,https://www.sec.gov/Archives/edgar/data/2062182/000192109426001031/0001921094-26-001031-index.htm,LOW
+2026-09-16T20:13:48+00:00,FORM_144,,"Eos Energy Enterprises, Inc.",proposed sale $687K,687343,,https://www.sec.gov/Archives/edgar/data/1805077/000196922326001029/0001969223-26-001029-index.htm,LOW
+2026-09-16T20:13:48+00:00,FORM_144,,"Eos Energy Enterprises, Inc.",proposed sale $1.04M,1037500,,https://www.sec.gov/Archives/edgar/data/1833309/000196922326001028/0001969223-26-001028-index.htm,LOW
+2026-09-16T20:13:49+00:00,FORM_144,,"DOCUSIGN, INC.",proposed sale $77K,77377,,https://www.sec.gov/Archives/edgar/data/1261333/000195004726009547/0001950047-26-009547-index.htm,LOW
+2026-09-16T20:13:49+00:00,FORM_144,,"PINTEREST, INC.",proposed sale $874K,873601,,https://www.sec.gov/Archives/edgar/data/1773914/000192109426001030/0001921094-26-001030-index.htm,LOW
+2026-09-16T20:13:49+00:00,FORM_144,,PROSPERITY BANCSHARES INC,proposed sale $626K,625592,,https://www.sec.gov/Archives/edgar/data/1136856/000196922326001027/0001969223-26-001027-index.htm,LOW
+2026-09-16T20:13:50+00:00,FORM_144,,"CHIME FINANCIAL, INC.",proposed sale $5.28M,5279797,,https://www.sec.gov/Archives/edgar/data/2047214/000195004726009546/0001950047-26-009546-index.htm,LOW
+2026-09-16T20:13:50+00:00,FORM_144,,Ethos Technologies Inc.,proposed sale $929K,929169,,https://www.sec.gov/Archives/edgar/data/2089362/000192109426001029/0001921094-26-001029-index.htm,LOW
+2026-09-16T20:13:50+00:00,FORM_144,,"Eos Energy Enterprises, Inc.",proposed sale $182K,181562,,https://www.sec.gov/Archives/edgar/data/1991521/000196922326001026/0001969223-26-001026-index.htm,LOW
+2026-09-16T20:13:50+00:00,FORM_144,,IBEX Limited,proposed sale $100K,100164,,https://www.sec.gov/Archives/edgar/data/1974089/000197449426000302/0001974494-26-000302-index.htm,LOW
+2026-09-16T20:13:51+00:00,FORM_144,,"Guardant Health, Inc.",proposed sale $20K,20300,,https://www.sec.gov/Archives/edgar/data/1968281/000192109426001028/0001921094-26-001028-index.htm,LOW
+2026-09-16T20:13:51+00:00,FORM_144,,PEGASYSTEMS INC.,proposed sale $37K,36677,,https://www.sec.gov/Archives/edgar/data/1353196/000195004726009545/0001950047-26-009545-index.htm,LOW
+2026-09-16T20:13:51+00:00,FORM_144,,"Guardant Health, Inc.",proposed sale $145K,144550,,https://www.sec.gov/Archives/edgar/data/1576280/000192109426001027/0001921094-26-001027-index.htm,LOW
+2026-09-16T20:13:52+00:00,FORM_144,,"Guardant Health, Inc.",proposed sale $1.17M,1172886,,https://www.sec.gov/Archives/edgar/data/1666236/000192109426001026/0001921094-26-001026-index.htm,LOW
