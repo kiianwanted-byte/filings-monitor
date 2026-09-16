@@ -2705,3 +2705,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-16T23:11:03+00:00,INSIDER_CLUSTER,BUKS,BUTLER NATIONAL CORP,Loh Michael Anthony $39K,39100,1,https://www.sec.gov/Archives/edgar/data/2033348/000203334826000012/0002033348-26-000012-index.htm,HIGH
 2026-09-16T23:44:49+00:00,FORM_144,,"Zscaler, Inc.",proposed sale $448K,448173,,https://www.sec.gov/Archives/edgar/data/1713683/000171368326000162/0001713683-26-000162-index.htm,LOW
 2026-09-16T23:44:49+00:00,FORM_144,,"Zscaler, Inc.",proposed sale $550K,549759,,https://www.sec.gov/Archives/edgar/data/1713683/000171368326000160/0001713683-26-000160-index.htm,LOW
+2026-09-16T23:52:10+00:00,FORM_144,,"Zscaler, Inc.",proposed sale $1.08M,1075231,,https://www.sec.gov/Archives/edgar/data/2040014/000171368326000164/0001713683-26-000164-index.htm,LOW
+2026-09-16T23:52:10+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $491,490,,https://www.sec.gov/Archives/edgar/data/2126752/000212675226000020/0002126752-26-000020-index.htm,LOW
