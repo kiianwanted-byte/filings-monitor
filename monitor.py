@@ -43,49 +43,10 @@ PRIORITY_RANK = {"HIGH": 3, "MEDIUM": 2, "LOW": 1}
 # Alert thresholds for insider buys
 MIN_TRADE_VALUE = 250_000        # was 100k, raised to cut noise
 MIN_HOLDING_CHANGE_PCT = 20      # was 10
-
-# A purchase this large alerts regardless of holding change. Without this,
-# a very large holder adding a big dollar amount fails the 20% test purely
-# because their existing position is enormous.
-BIG_TRADE_OVERRIDE = 10_000_000
 MIN_MARKET_CAP = 300_000_000
 
 # Form 144 sell notices are very common and mostly routine.
 FORM144_MIN_VALUE = 5_000_000
-
-# ---- 13D / 13G stake disclosures ----
-# These are the only filings in the system with a real timing gap. A stake
-# crossing 5% must be disclosed within days, and small caps routinely sit
-# unnoticed for a week or more before anyone writes about them.
-#
-# The market cap floor does NOT apply here on purpose. The interesting ones
-# are micro caps, which the $300M floor would have excluded.
-STAKE_MIN_PERCENT = 5.0
-
-# Routine institutional filings. Vanguard crossing 5% in something is not
-# news; it is index rebalancing. Anyone NOT on this list is worth a look.
-INSTITUTIONAL = [
-    "vanguard", "blackrock", "state street", "fmr llc", "fidelity",
-    "geode capital", "t. rowe price", "t rowe price", "capital research",
-    "capital world", "capital international", "wellington", "invesco",
-    "northern trust", "bank of new york", "bny mellon", "jpmorgan",
-    "j.p. morgan", "morgan stanley", "goldman sachs", "ubs group",
-    "credit suisse", "deutsche bank", "barclays", "hsbc", "citigroup",
-    "charles schwab", "dimensional fund", "franklin resources",
-    "amvescap", "aberdeen", "janus henderson", "nuveen", "teachers insurance",
-    "tiaa", "prudential", "allianz", "axa ", "legal & general",
-    "norges bank", "california public employees", "vaneck", "wisdomtree",
-    "susquehanna", "citadel advisors", "point72", "millennium management",
-    "two sigma", "renaissance technologies", "de shaw", "d. e. shaw",
-    "aqr capital", "bridgewater", "man group", "marshall wace",
-    "royal bank of canada", "toronto dominion", "bank of montreal",
-    "sumitomo", "mitsubishi ufj", "nomura", "mizuho",
-]
-
-
-def is_institutional(name):
-    n = (name or "").lower()
-    return any(inst in n for inst in INSTITUTIONAL)
 
 # Cluster detection
 CLUSTER_WINDOW_DAYS = 14
@@ -110,107 +71,7 @@ EIGHTK_LOW = {"1.01", "1.02", "5.02"}
 
 # Trades only. 8-K, NT and 13D were the bulk of the noise and none of them
 # are a buy or a sell. Add them back to this list to re-enable.
-# 5% stake alerts (13D / 13G) are back on, but restricted to the watchlist
-# below. The raw feed is dominated by amendments to existing institutional
-# positions; filtering to notable filers removes almost all of that noise
-# while keeping the filings people actually care about.
-STAKES_ENABLED = True
-STAKES_NOTABLE_ONLY = True
-
-# Names that always alert, at HIGH, regardless of size or holding change.
-#
-# Matched as lowercase substrings against the filer or insider name, so
-# "buffett" catches "Buffett Warren E" and "berkshire" catches every Berkshire
-# entity. Add or remove freely; this is the main dial for who you hear about.
-NOTABLE_FILERS = [
-    # Berkshire
-    "berkshire hathaway", "buffett",
-    # Activist and famous funds
-    "pershing square", "ackman", "icahn", "elliott investment",
-    "elliott management", "third point", "daniel loeb", "starboard value",
-    "trian fund", "trian partners", "nelson peltz", "valueact",
-    "jana partners", "engine capital", "engaged capital", "sachem head",
-    "corvex", "glenview capital", "marcato", "legion partners",
-    # Well-known managers
-    "greenlight capital", "einhorn", "appaloosa", "tepper", "baupost",
-    "klarman", "scion asset", "burry", "duquesne", "druckenmiller",
-    "soros fund", "tiger global", "coatue", "lone pine", "viking global",
-    "pointstate", "altimeter", "hhlr", "himalaya capital", "li lu",
-    "greenhaven road", "abrams capital",
-    # Founders and executives whose own trades are watched
-    "musk elon", "elon musk", "bezos jeffrey", "jeff bezos",
-    "zuckerberg mark", "huang jen", "jensen huang", "dell michael",
-    "ellison lawrence", "larry ellison", "cook timothy", "tim cook",
-    "page larry", "brin sergey", "schmidt eric", "nadella satya",
-    "pichai sundar", "benioff marc", "chesky brian", "karp alexander",
-    "woodman nicholas", "gates bill", "bill & melinda gates",
-    "walton", "koch", "thiel peter", "peter thiel",
-]
-
-
-def is_notable(name):
-    """True if this filer or insider is on the watchlist."""
-    n = (name or "").lower()
-    return any(x in n for x in NOTABLE_FILERS)
-
-
-def notable_in_text(text):
-    """
-    Scan a whole filing page for a watchlist name.
-
-    The 'Filed by' parser fails on plenty of layouts, leaving the filer as
-    'see filing'. Searching the raw page catches those cases rather than
-    silently dropping a filing we care about.
-    """
-    if not text:
-        return ""
-    low = text.lower()
-    for x in NOTABLE_FILERS:
-        if x in low:
-            return x
-    return ""
-
-FORMS = ["4", "144"] + (["SC 13D", "SC 13G"] if STAKES_ENABLED else [])
-
-# EDGAR's getcurrent does prefix matching on `type`, but it chokes on the
-# letter after the number: "SC 13D" returns nothing while "SC 13" returns
-# both 13D and 13G. So we query the prefix and sort the results out using
-# the form name that appears in each entry's title.
-#
-#   query string  ->  which watched forms it can produce
-FEED_QUERIES = [
-    ("4", ["4"]),
-    ("144", ["144"]),
-] + ([("SCHEDULE+13", ["SC 13D", "SC 13G"])] if STAKES_ENABLED else [])
-
-# EDGAR does NOT call these "SC 13D" and "SC 13G". Its atom titles read
-# "SCHEDULE 13D/A" and "SCHEDULE 13G/A". Querying the wrong name returns a
-# clean empty feed rather than an error, which is why this went unnoticed.
-# Confirmed by pulling the untyped feed and counting the form names present:
-#   {'4': 88, '3': 4, 'SCHEDULE 13G/A': 2, '144': 2, 'SCHEDULE 13D/A': 4}
-#
-# Note EDGAR uses BOTH conventions: "SC 13E3" exists alongside "SCHEDULE 13D".
-FORM_TITLES = {
-    "4":       ["4"],
-    "144":     ["144"],
-    "SC 13D":  ["SCHEDULE 13D", "SC 13D"],
-    "SC 13G":  ["SCHEDULE 13G", "SC 13G"],
-}
-
-# If the typed query ever returns nothing, fall back to the untyped feed,
-# which is proven to contain these filings mixed in with everything else.
-UNTYPED_FEED = ("https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent"
-                "&type=&company=&dateb=&owner=include&count=100&output=atom")
-
-
-def title_to_form(title, produces):
-    """Map an atom title's form name onto whichever watched form it is."""
-    actual = title.split(" - ", 1)[0].strip() if " - " in title else ""
-    for form in produces:
-        for prefix in FORM_TITLES.get(form, [form]):
-            if actual.startswith(prefix):
-                return form, actual
-    return None, actual
+FORMS = ["4", "144"]
 
 # A filing with no ticker is not actionable, so it is logged but never pushed.
 REQUIRE_TICKER = True
@@ -221,15 +82,6 @@ MAX_ALERTS_PER_RUN = 25
 SEEN_MAX = 20_000
 SEC_DELAY = 0.15          # SEC allows 10 requests per second
 
-# A newly added feed cannot be "broken" before it has had time to report.
-# 13G in particular clusters around quarter ends and can be quiet for days.
-FEED_GRACE_HOURS = 72
-
-# Feeds whose source is known-unresolved. Add a form name here to keep it
-# being attempted while stopping the heartbeat from reporting it, so a known
-# issue does not produce a daily alarm that trains you to ignore alarms.
-SUPPRESS_STALE = set()
-
 # Paths inside the repo
 ROOT = Path(__file__).resolve().parent
 STATE_DIR = ROOT / "state"
@@ -237,7 +89,6 @@ DATA_DIR = ROOT / "data"
 SEEN_FILE = STATE_DIR / "seen.json"
 QUEUE_FILE = STATE_DIR / "queue.json"
 HEALTH_FILE = STATE_DIR / "health.json"
-FIRST_SEEN_FILE = STATE_DIR / "first_seen.json"
 ALERTS_CSV = DATA_DIR / "alerts.csv"
 BUYS_CSV = DATA_DIR / "buys.csv"
 
@@ -507,125 +358,40 @@ def is_true(v):
 # Stage 1: discovery
 # ---------------------------------------------------------------
 
-def feed_url(form, count=None):
-    """
-    EDGAR's browse-edgar CGI does not decode %20 in the type parameter, so a
-    form name containing a space ("SC 13D") silently returns an empty feed
-    rather than an error. It wants a literal '+' instead.
-    """
-    return ("https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent"
-            f"&type={form.replace(' ', '+')}"
-            f"&company=&dateb=&owner=include"
-            f"&count={count or FEED_COUNT}&output=atom")
-
-
-def daily_index_entries(form, days_back=2):
-    """
-    Fallback discovery via EDGAR's daily index.
-
-    getcurrent does not serve every form type, but the daily index lists
-    every filing EDGAR received, one line per filing, fixed width:
-
-        SC 13G   GoPro, Inc.   1500435   2026-08-20   edgar/data/...
-
-    Slower to appear than the live feed, but complete and reliable.
-    """
-    out = []
-    today = datetime.now(timezone.utc).date()
-    for back in range(days_back + 1):
-        day = today - timedelta(days=back)
-        if day.weekday() >= 5:
-            continue
-        qtr = (day.month - 1) // 3 + 1
-        url = (f"https://www.sec.gov/Archives/edgar/daily-index/{day.year}"
-               f"/QTR{qtr}/form.{day.strftime('%Y%m%d')}.idx")
-        text = fetch(url)
-        if not text:
-            continue
-
-        for line in text.splitlines():
-            if not line.startswith(form):
-                continue
-            # Split on runs of 2+ spaces to survive the fixed-width layout.
-            parts = re.split(r"\s{2,}", line.strip())
-            if len(parts) < 5:
-                continue
-            ftype, company, cik, filed, path = parts[0], parts[1], parts[2], parts[3], parts[-1]
-            if ftype.strip() != form:
-                continue
-            am = re.search(r"(\d{10}-\d{2}-\d{6})", path)
-            if not am:
-                continue
-            accession = am.group(1)
-            cik_clean = re.sub(r"\D", "", cik)
-            link = (f"https://www.sec.gov/Archives/edgar/data/{cik_clean}/"
-                    f"{accession.replace('-', '')}/{accession}-index.htm")
-            out.append({
-                "accession": accession, "company": company.strip(),
-                "cik": cik_clean, "link": link, "filed": filed.strip(),
-            })
-    return out
-
-
 def discover(seen):
     queue = load_json(QUEUE_FILE, [])
     known = {item["key"] for item in queue}
     health = load_json(HEALTH_FILE, {})
     added = 0
 
-    for query, produces in FEED_QUERIES:
+    for form in FORMS:
         url = ("https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent"
-               f"&type={query}&company=&dateb=&owner=include"
-               f"&count={FEED_COUNT}&output=atom")
+               f"&type={requests.utils.quote(form)}"
+               f"&company=&dateb=&owner=include&count={FEED_COUNT}&output=atom")
         text = fetch(url)
         if not text:
-            log(f"  feed unreachable: {query}")
+            log(f"  feed unreachable: {form}")
             continue
 
         try:
-            entries = find_all(ET.fromstring(text), "entry")
+            root = ET.fromstring(text)
         except ET.ParseError as e:
-            log(f"  feed unparseable: {query} :: {e}")
+            log(f"  feed unparseable: {form} :: {e}")
             continue
 
-        if not entries and query != "4":
-            # Proven fallback: the untyped feed carries every form type.
-            log(f"  feed empty for {query}, trying untyped feed")
-            alt = fetch(UNTYPED_FEED)
-            if alt:
-                try:
-                    entries = find_all(ET.fromstring(alt), "entry")
-                except ET.ParseError:
-                    entries = []
-
-        if not entries:
-            log(f"  feed empty: {query}")
-            continue
-
-        # The query returned data, so every form it can produce is healthy,
-        # even if none of that specific type was filed today.
-        stamp = datetime.now(timezone.utc).isoformat(timespec="seconds")
-        for f in produces:
-            health[f] = stamp
+        entries = find_all(root, "entry")
+        if entries:
+            health[form] = datetime.now(timezone.utc).isoformat(timespec="seconds")
 
         for entry in entries:
             link_el = find_one(entry, "link")
             link = link_el.get("href", "") if link_el is not None else ""
             if not link:
                 continue
-            am = re.search(r"(\d{10}-\d{2}-\d{6})", link)
-            if not am:
+            m = re.search(r"(\d{10}-\d{2}-\d{6})", link)
+            if not m:
                 continue
-            accession = am.group(1)
-
-            title_el = find_one(entry, "title")
-            title = (title_el.text or "") if title_el is not None else ""
-
-            # Title looks like: "SCHEDULE 13G/A - GoPro, Inc. (...) (Subject)"
-            form, actual = title_to_form(title, produces)
-            if form is None:
-                continue
-
+            accession = m.group(1)
             key = f"{form}|{accession}"
             if key in seen or key in known:
                 continue
@@ -634,6 +400,8 @@ def discover(seen):
             filed = (upd.text or "")[:10] if upd is not None else \
                 datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
+            title_el = find_one(entry, "title")
+            title = (title_el.text or "") if title_el is not None else ""
             rest = title.split(" - ", 1)[1] if " - " in title else title
             cm = re.match(r"^(.*?)\s*\((\d{10})\)", rest)
             company = cm.group(1).strip() if cm else rest.strip()
@@ -641,8 +409,7 @@ def discover(seen):
 
             queue.append({
                 "key": key, "form": form, "accession": accession,
-                "company": company, "cik": cik, "link": link,
-                "filed": filed, "actual_form": actual,
+                "company": company, "cik": cik, "link": link, "filed": filed,
             })
             known.add(key)
             added += 1
@@ -661,10 +428,6 @@ def discover(seen):
 # ---------------------------------------------------------------
 # Filing access
 # ---------------------------------------------------------------
-
-def filing_html(link):
-    return fetch(link) or ""
-
 
 def folder_of(link):
     return link[:link.rfind("/")]
@@ -837,11 +600,8 @@ def handle_form4(item):
     ])
 
     cluster = cluster_check(ticker, trade_date)
-    notable = is_notable(insider)
-    big = value >= BIG_TRADE_OVERRIDE
     passes = value >= MIN_TRADE_VALUE and pct >= MIN_HOLDING_CHANGE_PCT
-
-    if not (passes or cluster["fires"] or notable or big):
+    if not passes and not cluster["fires"]:
         return False
 
     if FINNHUB_KEY and ticker:
@@ -850,24 +610,18 @@ def handle_form4(item):
             return False
 
     priority = "HIGH" if cluster["fires"] else ("MEDIUM" if passes else "LOW")
-    if big:
-        priority = "HIGH"
     if REQUIRE_TICKER and not ticker:
         priority = "LOW"
     if planned:
         priority = "LOW"          # scheduled, not a conviction signal
-    if notable:
-        priority = "HIGH"         # watchlist always wins
 
-    title = (f"INSIDER CLUSTER - {cluster['insiders']} BUYERS"
-             if cluster["fires"] else "INSIDER BUY")
-    if notable:
-        title = "WATCHLIST BUY"
+    title = (f"\U0001F7E2 INSIDER CLUSTER - {cluster['insiders']} BUYERS"
+             if cluster["fires"] else "\U0001F7E2 INSIDER BUY")
     if amended:
         title = "AMENDED  " + title
 
     rows = [
-        ("PRIORITY", priority + ("  \u2605 WATCHLIST" if notable else "")),
+        ("PRIORITY", priority),
         ("TICKER", ticker or "n/a"),
         ("COMPANY", company),
         ("PERSON", insider),
@@ -935,7 +689,7 @@ def handle_form144(item):
     return send_alert("FORM_144", ticker, company,
                       f"proposed sale {money(value)}", value, "",
                       item["link"],
-                      box("INSIDER SELL NOTICE - Form 144", rows,
+                      box("\U0001F534 INSIDER SELL NOTICE - Form 144", rows,
                           link=item["link"],
                           footer="Filed BEFORE the sale happens. "
                                  "Intent to sell, not a completed trade."),
@@ -958,7 +712,7 @@ def handle_8k(item):
 
     severe = "4.02" in hits or "1.03" in hits
     priority = "HIGH" if any(h in EIGHTK_HIGH for h in hits) else "LOW"
-    title = "8-K MATERIAL EVENT" + ("  [SEVERE]" if severe else "")
+    title = "\U0001F4C4 8-K MATERIAL EVENT" + ("  [SEVERE]" if severe else "")
 
     rows = [("PRIORITY", priority),
             ("COMPANY", item["company"]),
@@ -980,136 +734,40 @@ def handle_nt(item):
     ]
     return send_alert("LATE_FILING", "", item["company"], item["form"],
                       0, "", item["link"],
-                      box("LATE FILING NOTICE", rows, link=item["link"],
+                      box("\U0001F4C4 LATE FILING NOTICE", rows, link=item["link"],
                           footer="Stated reason is in Part III of the filing."))
 
 
-PERCENT_RE = re.compile(
-    r"(?:percent(?:age)?\s+of\s+class|percent\s+of\s+outstanding)"
-    r"[^0-9]{0,120}?(\d{1,2}(?:\.\d{1,2})?)\s*%", re.IGNORECASE | re.DOTALL)
-PERCENT_FALLBACK_RE = re.compile(r"\b(\d{1,2}\.\d{1,2})\s*%")
-
-
-def parse_stake(html):
-    """Percent of class from a 13D or 13G. Returns 0 if unreadable."""
-    if not html:
-        return 0.0
-    text = re.sub(r"<[^>]+>", " ", html)
-    text = re.sub(r"&nbsp;?", " ", text)
-    text = re.sub(r"\s+", " ", text)
-
-    m = PERCENT_RE.search(text)
-    if m:
-        try:
-            v = float(m.group(1))
-            if 0 < v <= 100:
-                return v
-        except ValueError:
-            pass
-
-    # Fall back to the largest plausible percentage in the document.
-    vals = []
-    for x in PERCENT_FALLBACK_RE.findall(text):
-        try:
-            v = float(x)
-            if 0 < v <= 100:
-                vals.append(v)
-        except ValueError:
-            continue
-    return max(vals) if vals else 0.0
-
-
-def filer_name(html, fallback=""):
-    if not html:
-        return fallback
+def handle_13d(item):
+    html = fetch(item["link"]) or ""
+    filed_by = ""
     idx = html.find("Filed by")
     if idx > -1:
-        tail = html[idx:idx + 1500]
+        tail = html[idx:idx + 1200]
         m = re.search(r'class="companyName">\s*([^<(]{3,120})', tail, re.I)
         if m:
-            return m.group(1).replace("&amp;", "&").strip()
-    return fallback
-
-
-def handle_stake(item):
-    """
-    SC 13D and SC 13G. An investor crossing 5% of a company.
-
-    This is the one filing type in the system where the information is often
-    genuinely unnoticed for days. Institutional filers are excluded because
-    an index fund crossing 5% is mechanical, not a view.
-    """
-    html = filing_html(item["link"]) or ""
-    who = filer_name(html, "")
-
-    # The "Filed by" parser fails on many layouts, so also scan the whole
-    # page. A watchlist hit overrides everything below.
-    hit = notable_in_text(html)
-    notable = bool(hit) or is_notable(who)
-
-    if STAKES_NOTABLE_ONLY and not notable:
-        return False          # everything else is CSV only
-    if is_institutional(who) and not notable:
-        return False          # routine index and custodian filings
-
-    # Open the actual document for the stake size.
-    stake = 0.0
-    folder = folder_of(item["link"])
-    idx = fetch(f"{folder}/index.json")
-    if idx:
-        try:
-            items = json.loads(idx)["directory"]["item"]
-            docs = [it["name"] for it in items
-                    if re.search(r"\.(htm|html|txt)$", it["name"], re.I)
-                    and not re.search(r"-index|^R\d", it["name"], re.I)]
-            for name in docs[:2]:
-                body = fetch(f"{folder}/{name}")
-                stake = parse_stake(body)
-                if stake:
-                    break
-        except (ValueError, KeyError):
-            pass
-
-    if stake and stake < STAKE_MIN_PERCENT:
-        return False
-
-    activist = item["form"] == "SC 13D"
-    amended = "/A" in str(item.get("actual_form", ""))
-    priority = "HIGH" if (activist or stake >= 8) else "MEDIUM"
-    if amended:
-        priority = "MEDIUM"      # updates to an existing stake are routine
-    if notable:
-        priority = "HIGH"
+            filed_by = m.group(1).replace("&amp;", "&").strip()
 
     rows = [
-        ("PRIORITY", priority + ("  \u2605 WATCHLIST" if notable else "")),
-        ("COMPANY", item["company"]),
-        ("FILER", who or (hit.title() if hit else "see filing")),
-        ("FORM", (item.get("actual_form") or item["form"])
-                 + ("  (activist)" if activist else "  (passive)")
-                 + ("  [AMENDMENT]" if amended else "")),
-        ("STAKE", f"{stake:.1f}% of class" if stake else "see filing"),
+        ("PRIORITY", "HIGH"),
+        ("TARGET", item["company"]),
+        ("BUYER", filed_by or "see filing"),
+        ("ACTION", "Activist stake above 5%"),
         ("FILED", dmy(item["filed"])),
     ]
-
-    title = ("WATCHLIST STAKE" if notable
-             else ("ACTIVIST STAKE - 13D" if activist
-                   else "NEW 5% STAKE - 13G"))
-
-    return send_alert(
-        "STAKE_13D" if activist else "STAKE_13G",
-        "", item["company"], f"{who} {stake:.1f}%", 0, "", item["link"],
-        box(title, rows, link=item["link"],
-            footer="Non-institutional filer. Passive 13G stakes in small caps "
-                   "often go unreported for days."),
-        priority)
+    return send_alert("13D", "", item["company"], filed_by, 0, "",
+                      item["link"],
+                      box("\U0001F4C4 ACTIVIST STAKE - 13D", rows, link=item["link"],
+                          footer="Stake size and stated purpose: Items 4 and 5."))
 
 
 HANDLERS = {
     "4": handle_form4,
     "144": handle_form144,
-    "SC 13D": handle_stake,
-    "SC 13G": handle_stake,
+    "8-K": handle_8k,
+    "NT 10-Q": handle_nt,
+    "NT 10-K": handle_nt,
+    "SC 13D": handle_13d,
 }
 
 
@@ -1230,13 +888,13 @@ def check_fear_greed():
     old_i = FNG_LEVELS.index(last_rating) if last_rating in FNG_LEVELS else -1
     new_i = FNG_LEVELS.index(now["rating"])
     direction = "toward greed" if new_i > old_i else "toward fear"
-    mark = "up" if new_i > old_i else "down"
+    mark = "\U0001F7E2" if new_i > old_i else "\U0001F534"
 
     rows = [
         ("PRIORITY", "HIGH"),
         ("NOW", f"{now['rating'].upper()}  ({now['score']})"),
         ("WAS", last_rating.upper()),
-        ("MOVED", direction),
+        ("MOVED", f"{direction}  {mark}"),
         ("PREV CLOSE", str(round(float(now["prev_close"]), 1))
                        if now.get("prev_close") is not None else ""),
         ("1 WEEK AGO", str(round(float(now["week_ago"]), 1))
@@ -1333,32 +991,10 @@ def heartbeat():
     for k, v in cong.items():
         merged[f"congress-{k}"] = v
 
-    # A feed added to the watch list five minutes ago has not had a chance
-    # to report yet. Record when each feed was first watched and give it a
-    # grace period before it can be called broken.
-    first_seen = load_json(FIRST_SEEN_FILE, {})
-    changed = False
     for form in watched:
-        if form not in first_seen:
-            first_seen[form] = now.isoformat(timespec="seconds")
-            changed = True
-    if changed:
-        save_json(FIRST_SEEN_FILE, first_seen)
-
-    for form in watched:
-        if form in SUPPRESS_STALE:
-            continue
         ts = merged.get(form)
         if not ts:
-            try:
-                watched_for = (now - datetime.fromisoformat(
-                    first_seen[form])).total_seconds() / 3600
-            except (ValueError, KeyError):
-                watched_for = 0
-            if watched_for < FEED_GRACE_HOURS:
-                log(f"heartbeat: {form} still in grace period "
-                    f"({watched_for:.0f}h of {FEED_GRACE_HOURS}h)")
-                continue
+            # Congress modules only appear once they have run successfully.
             if form.startswith("congress-"):
                 stale.append(f"{form} (never ran)")
             else:
@@ -1390,40 +1026,28 @@ def heartbeat():
 
     queue = load_json(QUEUE_FILE, [])
 
-    # Silent when healthy. One weekly liveness ping on Mondays so that
-    # total silence never becomes ambiguous.
-    is_monday = now.weekday() == 0
-
-    if not stale and not is_monday:
-        log("heartbeat: all feeds healthy, staying quiet")
-        return
-
     errs = load_json(ERROR_FILE, {})
     persistent = {k: v for k, v in errs.items() if v.get("count", 0) >= 3}
 
-    if stale or persistent:
-        rows = [
-            ("PRIORITY", "HIGH"),
-            ("PROBLEM", ", ".join(stale) if stale else "module errors"),
-            ("MEANING", "No new filings seen from these feeds"),
-            ("LIKELY CAUSE", "EDGAR changed a URL or feed format"),
-            ("ACTION", "Open the repo Actions tab, read the newest run log"),
-            ("THEN", "Send the error to Claude to patch monitor.py"),
-            ("STILL OK", ", ".join(ok) if ok else "none"),
-            ("BACKLOG", str(len(queue))),
-        ]
-        for mod, e in list(persistent.items())[:3]:
-            rows.append((mod.upper()[:11], f"x{e['count']}  {e.get('last','')[:40]}"))
-        telegram(box("EDGAR MONITOR IS BROKEN", rows), silent=False)
+    # Silent unless something is actually wrong. Matches the SNKRS, TCG
+    # and halts monitors: no news is good news, a message means go look.
+    if not stale and not persistent:
+        log("heartbeat: all feeds healthy, staying quiet")
         return
 
     rows = [
-        ("STATUS", "All feeds healthy"),
-        ("FEEDS", ", ".join(ok)),
-        ("ALERTS 7D", str(week)),
+        ("PRIORITY", "HIGH"),
+        ("PROBLEM", ", ".join(stale) if stale else "module errors"),
+        ("MEANING", "No new filings seen from these feeds"),
+        ("LIKELY CAUSE", "EDGAR changed a URL or feed format"),
+        ("ACTION", "Open the repo Actions tab, read the newest run log"),
+        ("THEN", "Send the error to Claude to patch monitor.py"),
+        ("STILL OK", ", ".join(ok) if ok else "none"),
         ("BACKLOG", str(len(queue))),
     ]
-    telegram(box("WEEKLY CHECK - EDGAR OK", rows))
+    for mod, e in list(persistent.items())[:3]:
+        rows.append((mod.upper()[:11], f"x{e['count']}  {e.get('last','')[:40]}"))
+    telegram(box("EDGAR MONITOR IS BROKEN", rows), silent=False)
 
 
 # ---------------------------------------------------------------
@@ -1439,138 +1063,6 @@ def main():
 
     if len(sys.argv) > 1 and sys.argv[1] == "heartbeat":
         heartbeat()
-        return
-
-    if len(sys.argv) > 1 and sys.argv[1] == "feeds":
-        print("=== EDGAR FEED PROBE ===")
-        # getcurrent only shows filings EDGAR has received recently. It
-        # accepts filings roughly 06:00-22:00 ET, so a probe run overnight
-        # will look empty for low volume forms even when nothing is wrong.
-        et_hour = (datetime.now(timezone.utc).hour - 4) % 24
-        window = "OPEN" if 6 <= et_hour < 22 else "CLOSED (expect thin results)"
-        print(f"  approx US Eastern time: {et_hour:02d}:xx   "
-              f"EDGAR filing window: {window}")
-        print()
-        health = load_json(HEALTH_FILE, {})
-        def probe(url):
-            text = fetch(url)
-            if not text:
-                return None
-            try:
-                return find_all(ET.fromstring(text), "entry")
-            except ET.ParseError:
-                return None
-
-        for query, produces in FEED_QUERIES:
-            entries = probe("https://www.sec.gov/cgi-bin/browse-edgar"
-                            f"?action=getcurrent&type={query}"
-                            "&company=&dateb=&owner=include&count=40"
-                            "&output=atom")
-            form = query
-            last = health.get(form, "never")
-            if entries is None:
-                print(f"  {form:8} FETCH FAILED")
-                continue
-            print(f"  {form:8} {len(entries):3} entries   last healthy: {last}")
-            for e in entries[:2]:
-                t = find_one(e, "title")
-                print(f"           {(t.text or '')[:72]}")
-
-            if len(entries) == 0:
-                print(f"           trying variants for {form}:")
-                variants = [form.replace(" ", "+"), requests.utils.quote(form),
-                            form.replace(" ", ""), form.split()[-1],
-                            form.replace(" ", "+")[:5]]
-                for v in dict.fromkeys(variants):
-                    got = probe("https://www.sec.gov/cgi-bin/browse-edgar"
-                                f"?action=getcurrent&type={v}"
-                                "&company=&dateb=&owner=include&count=20"
-                                "&output=atom")
-                    print(f"             type={v!r:12} -> "
-                          f"{len(got) if got is not None else 'error'}")
-                rows = daily_index_entries(form)
-                print(f"             daily index    -> {len(rows)}")
-                for r in rows[:2]:
-                    print(f"               {r['filed']}  {r['company'][:44]}")
-        print("=== END ===")
-        return
-
-    if len(sys.argv) > 1 and sys.argv[1] == "stakes":
-        print("=== STAKE FILING SOURCE PROBE ===")
-        et = (datetime.now(timezone.utc).hour - 4) % 24
-        print(f"  approx US Eastern: {et:02d}:xx  "
-              f"({'window open' if 6 <= et < 22 else 'window CLOSED'})")
-
-        def count_atom(url):
-            t = fetch(url)
-            if not t:
-                return "fetch failed"
-            try:
-                es = find_all(ET.fromstring(t), "entry")
-            except ET.ParseError:
-                return "unparseable"
-            forms = {}
-            for e in es:
-                ti = find_one(e, "title")
-                f = ((ti.text or "").split(" - ", 1)[0].strip()
-                     if ti is not None else "?")
-                forms[f] = forms.get(f, 0) + 1
-            return f"{len(es)} entries {forms}"
-
-        print("\n[A] getcurrent, owner parameter variants")
-        for owner in ("include", "only", "exclude"):
-            u = ("https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent"
-                 f"&type=SC+13&company=&dateb=&owner={owner}"
-                 "&count=100&output=atom")
-            print(f"    owner={owner:8} -> {count_atom(u)}")
-
-        print("\n[B] getcurrent, no type filter (what forms appear at all)")
-        u = ("https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent"
-             "&type=&company=&dateb=&owner=include&count=100&output=atom")
-        print(f"    {count_atom(u)}")
-
-        print("\n[C] daily index, last 4 completed weekdays")
-        today = datetime.now(timezone.utc).date()
-        for back in range(1, 6):
-            day = today - timedelta(days=back)
-            if day.weekday() >= 5:
-                continue
-            q = (day.month - 1) // 3 + 1
-            for kind in ("form", "master"):
-                u = (f"https://www.sec.gov/Archives/edgar/daily-index/"
-                     f"{day.year}/QTR{q}/{kind}.{day.strftime('%Y%m%d')}.idx")
-                t = fetch(u)
-                if not t:
-                    print(f"    {day} {kind:6} -> unavailable")
-                    continue
-                d13 = sum(1 for l in t.splitlines()
-                          if l.startswith("SC 13D"))
-                g13 = sum(1 for l in t.splitlines()
-                          if l.startswith("SC 13G"))
-                print(f"    {day} {kind:6} -> {len(t.splitlines())} lines, "
-                      f"SC 13D={d13}, SC 13G={g13}")
-                if d13 or g13:
-                    for l in t.splitlines():
-                        if l.startswith(("SC 13D", "SC 13G")):
-                            print(f"        {l[:100]}")
-                            break
-                break
-
-        print("\n[D] full text search API")
-        for form in ("SC 13D", "SC 13G"):
-            u = ("https://efts.sec.gov/LATEST/search-index?q=%22the%22"
-                 f"&forms={form.replace(' ', '%20')}")
-            t = fetch(u, is_sec=False)
-            if not t:
-                print(f"    {form} -> fetch failed")
-                continue
-            try:
-                total = json.loads(t).get("hits", {}).get("total", {})
-                print(f"    {form} -> hits {total}")
-            except ValueError:
-                print(f"    {form} -> non-JSON ({t[:60]})")
-
-        print("\n=== END ===")
         return
 
     if len(sys.argv) > 1 and sys.argv[1] == "fng":
