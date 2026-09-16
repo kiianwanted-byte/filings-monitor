@@ -625,3 +625,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-16T20:28:36+00:00,2026-09-15,ED,CONSOLIDATED EDISON INC,Miller Joseph,VP & Controller,1,105.81,111,0.0,0001047862-26-000145
 2026-09-16T20:41:21+00:00,2026-09-14,EQPT,EquipmentShare.com Inc,Schlacks Jabbok,"Director, Founder & CEO",25000,17.78,444504,25.0,0001628280-26-062285
 2026-09-16T20:41:23+00:00,2026-09-15,AAON,"AAON, INC.",Stewart David Raymond,Director,1000,74.66,74660,33.3,0001887897-26-000003
+2026-09-16T20:52:42+00:00,2026-09-14,CLPR,Clipper Realty Inc.,Levinson Sam,"Director, 10% owner",9084,3.29,29879,2.4,0001539497-26-002522
