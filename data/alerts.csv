@@ -2571,3 +2571,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-16T13:49:43+00:00,FORM_144,,ORACLE CORP,proposed sale $1.52M,1522827,,https://www.sec.gov/Archives/edgar/data/2071965/000195917326006996/0001959173-26-006996-index.htm,LOW
 2026-09-16T13:59:50+00:00,FORM_144,,"REVVITY, INC.",proposed sale $1.03M,1032650,,https://www.sec.gov/Archives/edgar/data/1408107/000195917326006999/0001959173-26-006999-index.htm,LOW
 2026-09-16T13:59:50+00:00,FORM_144,,"ARRAY DIGITAL INFRASTRUCTURE, INC.",proposed sale $261K,260909,,https://www.sec.gov/Archives/edgar/data/1215333/000194984626000588/0001949846-26-000588-index.htm,LOW
+2026-09-16T14:17:04+00:00,FORM_144,,Snowflake Inc.,proposed sale $951K,951070,,https://www.sec.gov/Archives/edgar/data/1979088/000195917326007003/0001959173-26-007003-index.htm,LOW
+2026-09-16T14:17:04+00:00,FORM_144,,Snowflake Inc.,proposed sale $1.23M,1234544,,https://www.sec.gov/Archives/edgar/data/2038740/000195917326007002/0001959173-26-007002-index.htm,LOW
+2026-09-16T14:17:04+00:00,FORM_144,,"Hims & Hers Health, Inc.",proposed sale $174K,173734,,https://www.sec.gov/Archives/edgar/data/1837817/000195917326007001/0001959173-26-007001-index.htm,LOW
+2026-09-16T14:17:05+00:00,FORM_144,,Snowflake Inc.,proposed sale $2.61M,2608915,,https://www.sec.gov/Archives/edgar/data/1640147/000195917326007000/0001959173-26-007000-index.htm,LOW
