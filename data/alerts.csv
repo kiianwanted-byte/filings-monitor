@@ -2580,3 +2580,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-16T15:36:40+00:00,INSIDER_BUY,ARDC,"Ares Dynamic Credit Allocation Fund, Inc.",THRIVENT FINANCIAL FOR LUTHERANS $6.00M,6000000,2,https://www.sec.gov/Archives/edgar/data/1515324/000031498426000042/0000314984-26-000042-index.htm,MEDIUM
 2026-09-16T15:48:39+00:00,INSIDER_CLUSTER,SBLK,Star Bulk Carriers Corp.,Spyrou Symeon $424K,424050,1,https://www.sec.gov/Archives/edgar/data/1969701/000196970126000006/0001969701-26-000006-index.htm,HIGH
 2026-09-16T15:48:42+00:00,FORM_144,,"Cencora, Inc.",proposed sale $411K,411282,,https://www.sec.gov/Archives/edgar/data/1234234/000162828026062161/0001628280-26-062161-index.htm,LOW
+2026-09-16T15:58:41+00:00,FORM_144,,SEMTECH CORP,proposed sale $878K,877978,,https://www.sec.gov/Archives/edgar/data/1753689/000195917326007005/0001959173-26-007005-index.htm,LOW
