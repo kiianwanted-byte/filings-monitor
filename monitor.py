@@ -287,7 +287,7 @@ def telegram(text, silent=True):
             "text": text[:4000],
             "parse_mode": "HTML",
             "disable_web_page_preview": True,
-            "disable_notification": silent,
+            "disable_notification": False,
         }, timeout=20)
         if r.status_code != 200:
             log(f"  telegram {r.status_code}: {r.text[:200]}")
