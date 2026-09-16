@@ -2602,3 +2602,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-16T19:19:05+00:00,FORM_144,,"Crescent Biopharma, Inc.",proposed sale $33K,33294,,https://www.sec.gov/Archives/edgar/data/1528826/000162828026062211/0001628280-26-062211-index.htm,LOW
 2026-09-16T19:42:04+00:00,FORM_144,,"Savers Value Village, Inc.",proposed sale $241K,241170,,https://www.sec.gov/Archives/edgar/data/1883313/000195917326007012/0001959173-26-007012-index.htm,LOW
 2026-09-16T19:50:52+00:00,FORM_144,,Adobe Inc.,proposed sale $31.44M,31437500,,https://www.sec.gov/Archives/edgar/data/1224154/000196922326001025/0001969223-26-001025-index.htm,LOW
+2026-09-16T19:58:33+00:00,INSIDER_CLUSTER,CBKM,CONSUMERS BANCORP INC /OH/,Hudak Hillary A $4K,3708,1,https://www.sec.gov/Archives/edgar/data/1945449/000143774926030543/0001437749-26-030543-index.htm,HIGH
