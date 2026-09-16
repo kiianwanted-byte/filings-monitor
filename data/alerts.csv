@@ -2548,3 +2548,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-15T23:52:12+00:00,FORM_144,,"SOUNDHOUND AI, INC.",proposed sale $888K,888266,,https://www.sec.gov/Archives/edgar/data/1917995/000191799526000014/0001917995-26-000014-index.htm,LOW
 2026-09-15T23:52:13+00:00,FORM_144,,Seagate Technology Holdings plc,proposed sale $12.54M,12538789,,https://www.sec.gov/Archives/edgar/data/1988271/000198827126000012/0001988271-26-000012-index.htm,LOW
 2026-09-15T23:52:13+00:00,FORM_144,,"SOUNDHOUND AI, INC.",proposed sale $251K,250583,,https://www.sec.gov/Archives/edgar/data/1920481/000192048126000013/0001920481-26-000013-index.htm,LOW
+2026-09-16T00:21:26+00:00,FORM_144,,"PACS Group, Inc.",proposed sale $6.61M,6612032,,https://www.sec.gov/Archives/edgar/data/2014361/000201436126000036/0002014361-26-000036-index.htm,LOW
+2026-09-16T00:21:26+00:00,FORM_144,,Seagate Technology Holdings plc,proposed sale $40.52M,40524880,,https://www.sec.gov/Archives/edgar/data/1764650/000176465026000011/0001764650-26-000011-index.htm,LOW
+2026-09-16T00:21:27+00:00,FORM_144,,Seagate Technology Holdings plc,proposed sale $79.36M,79363744,,https://www.sec.gov/Archives/edgar/data/1388390/000138839026000014/0001388390-26-000014-index.htm,LOW
