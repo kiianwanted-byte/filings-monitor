@@ -2591,3 +2591,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-16T17:38:57+00:00,FORM_144,,IBEX LIMTED,proposed sale $93K,93476,,https://www.sec.gov/Archives/edgar/data/1973684/000197449426000300/0001974494-26-000300-index.htm,LOW
 2026-09-16T17:38:57+00:00,FORM_144,,"KINDER MORGAN, INC.",proposed sale $143K,143080,,https://www.sec.gov/Archives/edgar/data/2080127/000196530126000143/0001965301-26-000143-index.htm,LOW
 2026-09-16T17:48:27+00:00,FORM_144,,C3 AI INC,proposed sale $221K,220960,,https://www.sec.gov/Archives/edgar/data/2014154/000162828026062193/0001628280-26-062193-index.htm,LOW
+2026-09-16T18:10:15+00:00,FORM_144,,"AST SpaceMobile, Inc.",proposed sale $707K,706636,,https://www.sec.gov/Archives/edgar/data/1884187/000195917326007010/0001959173-26-007010-index.htm,LOW
+2026-09-16T18:10:15+00:00,FORM_144,,"Diamondback Energy, Inc.",proposed sale $1.92B,1920623653,,https://www.sec.gov/Archives/edgar/data/2080063/000114036126036761/0001140361-26-036761-index.htm,LOW
