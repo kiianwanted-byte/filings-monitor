@@ -2597,3 +2597,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-16T18:27:26+00:00,FORM_144,,Stardust Power Inc.,proposed sale $531,530,,https://www.sec.gov/Archives/edgar/data/2028422/000197407826000358/0001974078-26-000358-index.htm,LOW
 2026-09-16T18:43:11+00:00,INSIDER_CLUSTER,RWT,REDWOOD TRUST INC,Robinson Dashiell I $252K,251580,0,https://www.sec.gov/Archives/edgar/data/1716998/000171699826000004/0001716998-26-000004-index.htm,HIGH
 2026-09-16T18:43:18+00:00,FORM_144,,Medtronic plc,proposed sale $139K,138888,,https://www.sec.gov/Archives/edgar/data/1708062/000195917326007011/0001959173-26-007011-index.htm,LOW
+2026-09-16T18:54:30+00:00,INSIDER_CLUSTER,UMH,"UMH PROPERTIES, INC.",Miller Kevin S. $1K,1000,1,https://www.sec.gov/Archives/edgar/data/1559910/000075264226000097/0000752642-26-000097-index.htm,HIGH
