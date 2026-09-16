@@ -2623,3 +2623,25 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-16T20:13:51+00:00,FORM_144,,PEGASYSTEMS INC.,proposed sale $37K,36677,,https://www.sec.gov/Archives/edgar/data/1353196/000195004726009545/0001950047-26-009545-index.htm,LOW
 2026-09-16T20:13:51+00:00,FORM_144,,"Guardant Health, Inc.",proposed sale $145K,144550,,https://www.sec.gov/Archives/edgar/data/1576280/000192109426001027/0001921094-26-001027-index.htm,LOW
 2026-09-16T20:13:52+00:00,FORM_144,,"Guardant Health, Inc.",proposed sale $1.17M,1172886,,https://www.sec.gov/Archives/edgar/data/1666236/000192109426001026/0001921094-26-001026-index.htm,LOW
+2026-09-16T20:28:17+00:00,INSIDER_CLUSTER,GABC,"GERMAN AMERICAN BANCORP, INC.",Seger Andrew M $8K,7500,1,https://www.sec.gov/Archives/edgar/data/2081604/000208160426000011/0002081604-26-000011-index.htm,HIGH
+2026-09-16T20:28:24+00:00,INSIDER_CLUSTER,CBKM,CONSUMERS BANCORP INC /OH/,PADEN FRANK L $6K,6000,1,https://www.sec.gov/Archives/edgar/data/1193016/000143774926030548/0001437749-26-030548-index.htm,HIGH
+2026-09-16T20:28:29+00:00,INSIDER_CLUSTER,NONE,Stellus Private Credit BDC,Ladd Robert T. $39K,38857,1,https://www.sec.gov/Archives/edgar/data/1901037/000110465926108263/0001104659-26-108263-index.htm,HIGH
+2026-09-16T20:28:31+00:00,INSIDER_CLUSTER,NONE,Stellus Private Credit BDC,Huskinson W. Todd $6K,5764,1,https://www.sec.gov/Archives/edgar/data/1901037/000110465926108262/0001104659-26-108262-index.htm,HIGH
+2026-09-16T20:28:34+00:00,INSIDER_CLUSTER,NONE,Stellus Private Credit BDC,D'Angelo Dean $32K,32391,1,https://www.sec.gov/Archives/edgar/data/1901037/000110465926108261/0001104659-26-108261-index.htm,HIGH
+2026-09-16T20:28:37+00:00,FORM_144,,"CHIME FINANCIAL, INC.",proposed sale $3.03M,3025486,,https://www.sec.gov/Archives/edgar/data/1795586/000195004726009559/0001950047-26-009559-index.htm,LOW
+2026-09-16T20:28:37+00:00,FORM_144,,EverCommerce Inc.,proposed sale $2K,2064,,https://www.sec.gov/Archives/edgar/data/1856906/000195917326007016/0001959173-26-007016-index.htm,LOW
+2026-09-16T20:28:38+00:00,FORM_144,,"SPRINKLR, INC.",proposed sale $190K,189549,,https://www.sec.gov/Archives/edgar/data/1820664/000195004726009558/0001950047-26-009558-index.htm,LOW
+2026-09-16T20:28:38+00:00,FORM_144,,"SPRINKLR, INC.",proposed sale $38K,38494,,https://www.sec.gov/Archives/edgar/data/1748979/000195004726009557/0001950047-26-009557-index.htm,LOW
+2026-09-16T20:28:42+00:00,FORM_144,,HERSHEY CO,proposed sale $125.18M,125175582,,https://www.sec.gov/Archives/edgar/data/938543/000197372726000056/0001973727-26-000056-index.htm,LOW
+2026-09-16T20:28:42+00:00,FORM_144,,"SPRINKLR, INC.",proposed sale $164K,164440,,https://www.sec.gov/Archives/edgar/data/2018050/000195004726009556/0001950047-26-009556-index.htm,LOW
+2026-09-16T20:28:42+00:00,FORM_144,,"MapLight Therapeutics, Inc.",proposed sale $199K,199428,,https://www.sec.gov/Archives/edgar/data/1789970/000197415826000102/0001974158-26-000102-index.htm,LOW
+2026-09-16T20:28:43+00:00,FORM_144,,"Groupon, Inc.",proposed sale $327K,326643,,https://www.sec.gov/Archives/edgar/data/1973423/000195917326007015/0001959173-26-007015-index.htm,LOW
+2026-09-16T20:28:43+00:00,FORM_144,,EPLUS INC,proposed sale $13K,12979,,https://www.sec.gov/Archives/edgar/data/1736723/000196530126000144/0001965301-26-000144-index.htm,LOW
+2026-09-16T20:28:43+00:00,FORM_144,,"SPRINKLR, INC.",proposed sale $810K,809550,,https://www.sec.gov/Archives/edgar/data/1569345/000195004726009555/0001950047-26-009555-index.htm,LOW
+2026-09-16T20:28:44+00:00,FORM_144,,"SPRINKLR, INC.",proposed sale $145K,144821,,https://www.sec.gov/Archives/edgar/data/1967575/000195004726009554/0001950047-26-009554-index.htm,LOW
+2026-09-16T20:28:44+00:00,FORM_144,,GLAUKOS Corp,proposed sale $243K,243207,,https://www.sec.gov/Archives/edgar/data/1920053/000195917326007014/0001959173-26-007014-index.htm,LOW
+2026-09-16T20:28:44+00:00,FORM_144,,"ConnectM Technology Solutions, Inc.",proposed sale $436,436,,https://www.sec.gov/Archives/edgar/data/1904506/000195004726009553/0001950047-26-009553-index.htm,LOW
+2026-09-16T20:28:45+00:00,FORM_144,,"SPRINKLR, INC.",proposed sale $30K,30286,,https://www.sec.gov/Archives/edgar/data/1866802/000195004726009552/0001950047-26-009552-index.htm,LOW
+2026-09-16T20:28:45+00:00,FORM_144,,BLOOM ENERGY CORPORATION,proposed sale $616K,616031,,https://www.sec.gov/Archives/edgar/data/2067410/000195004726009551/0001950047-26-009551-index.htm,LOW
+2026-09-16T20:28:46+00:00,FORM_144,,SEACOAST BANKING CORPORATION OF FLORIDA,proposed sale $410K,409744,,https://www.sec.gov/Archives/edgar/data/1078596/000195004726009550/0001950047-26-009550-index.htm,LOW
+2026-09-16T20:28:46+00:00,FORM_144,,"HANOVER INSURANCE GROUP, INC.",proposed sale $2.28M,2280314,,https://www.sec.gov/Archives/edgar/data/1572984/000195917326007013/0001959173-26-007013-index.htm,LOW
