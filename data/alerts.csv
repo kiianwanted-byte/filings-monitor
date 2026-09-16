@@ -2581,3 +2581,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-16T15:48:39+00:00,INSIDER_CLUSTER,SBLK,Star Bulk Carriers Corp.,Spyrou Symeon $424K,424050,1,https://www.sec.gov/Archives/edgar/data/1969701/000196970126000006/0001969701-26-000006-index.htm,HIGH
 2026-09-16T15:48:42+00:00,FORM_144,,"Cencora, Inc.",proposed sale $411K,411282,,https://www.sec.gov/Archives/edgar/data/1234234/000162828026062161/0001628280-26-062161-index.htm,LOW
 2026-09-16T15:58:41+00:00,FORM_144,,SEMTECH CORP,proposed sale $878K,877978,,https://www.sec.gov/Archives/edgar/data/1753689/000195917326007005/0001959173-26-007005-index.htm,LOW
+2026-09-16T16:13:29+00:00,INSIDER_CLUSTER,NONE,Privacore VPC Asset Backed Credit Fund,BANKERS LIFE & CASUALTY CO $8.00M,7999999,2,https://www.sec.gov/Archives/edgar/data/2066579/000090393926000030/0000903939-26-000030-index.htm,HIGH
+2026-09-16T16:13:31+00:00,FORM_144,,AFLAC INC,proposed sale $1.56M,1557895,,https://www.sec.gov/Archives/edgar/data/1705261/000195917326007006/0001959173-26-007006-index.htm,LOW
+2026-09-16T16:13:31+00:00,FORM_144,,Designer Brands Inc.,proposed sale $156K,156267,,https://www.sec.gov/Archives/edgar/data/1319947/000194984626000589/0001949846-26-000589-index.htm,LOW
