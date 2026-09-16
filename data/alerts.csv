@@ -2565,3 +2565,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-16T12:54:10+00:00,INSIDER_CLUSTER,AVBC,"Avidia Bancorp, Inc.",Murphy Michael Dennis $111K,110600,2,https://www.sec.gov/Archives/edgar/data/2077941/000143774926030507/0001437749-26-030507-index.htm,HIGH
 2026-09-16T13:05:14+00:00,INSIDER_CLUSTER,CELH,"Celsius Holdings, Inc.",Kravitz Hal $336K,336000,1,https://www.sec.gov/Archives/edgar/data/1685649/000162828026062134/0001628280-26-062134-index.htm,HIGH
 2026-09-16T13:22:47+00:00,FORM_144,,"CBL & ASSOCIATES PROPERTIES, INC.",proposed sale $2.72M,2721500,,https://www.sec.gov/Archives/edgar/data/1220925/000119312526392528/0001193125-26-392528-index.htm,LOW
+2026-09-16T13:36:04+00:00,FORM_144,,"CrowdStrike Holdings, Inc.",proposed sale $29.10M,29098800,,https://www.sec.gov/Archives/edgar/data/1535527/000162828026062140/0001628280-26-062140-index.htm,LOW
