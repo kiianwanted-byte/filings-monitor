@@ -2645,3 +2645,27 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-16T20:28:45+00:00,FORM_144,,BLOOM ENERGY CORPORATION,proposed sale $616K,616031,,https://www.sec.gov/Archives/edgar/data/2067410/000195004726009551/0001950047-26-009551-index.htm,LOW
 2026-09-16T20:28:46+00:00,FORM_144,,SEACOAST BANKING CORPORATION OF FLORIDA,proposed sale $410K,409744,,https://www.sec.gov/Archives/edgar/data/1078596/000195004726009550/0001950047-26-009550-index.htm,LOW
 2026-09-16T20:28:46+00:00,FORM_144,,"HANOVER INSURANCE GROUP, INC.",proposed sale $2.28M,2280314,,https://www.sec.gov/Archives/edgar/data/1572984/000195917326007013/0001959173-26-007013-index.htm,LOW
+2026-09-16T20:41:21+00:00,INSIDER_CLUSTER,EQPT,EquipmentShare.com Inc,Schlacks Jabbok $445K,444504,2,https://www.sec.gov/Archives/edgar/data/2091677/000162828026062285/0001628280-26-062285-index.htm,HIGH
+2026-09-16T20:41:34+00:00,FORM_144,,BEST BUY CO INC,proposed sale $27.97M,27972000,,https://www.sec.gov/Archives/edgar/data/1006394/000196794026000052/0001967940-26-000052-index.htm,LOW
+2026-09-16T20:41:34+00:00,FORM_144,,WILLIAM SONOMA INC,proposed sale $7.74M,7740578,,https://www.sec.gov/Archives/edgar/data/1225922/000162828026062283/0001628280-26-062283-index.htm,LOW
+2026-09-16T20:41:35+00:00,FORM_144,,HARMONY BIOSCIENCES HLDGS INC,proposed sale $76K,75906,,https://www.sec.gov/Archives/edgar/data/2009762/000195004726009579/0001950047-26-009579-index.htm,LOW
+2026-09-16T20:41:35+00:00,FORM_144,,GRINDR INC,proposed sale $5.12M,5120760,,https://www.sec.gov/Archives/edgar/data/1833678/000195004726009578/0001950047-26-009578-index.htm,LOW
+2026-09-16T20:41:36+00:00,FORM_144,,TRAVERE THERAPEUTICS INC,proposed sale $7.05M,7054253,,https://www.sec.gov/Archives/edgar/data/1698262/000195004726009577/0001950047-26-009577-index.htm,LOW
+2026-09-16T20:41:36+00:00,FORM_144,,TRAVERE THERAPEUTICS INC,proposed sale $10.80M,10796539,,https://www.sec.gov/Archives/edgar/data/1789617/000195004726009576/0001950047-26-009576-index.htm,LOW
+2026-09-16T20:41:37+00:00,FORM_144,,NextNav Inc.,proposed sale $42K,42238,,https://www.sec.gov/Archives/edgar/data/1998558/000195004726009575/0001950047-26-009575-index.htm,LOW
+2026-09-16T20:41:37+00:00,FORM_144,,"BLOOM ENERGY, CORP.",proposed sale $744K,744334,,https://www.sec.gov/Archives/edgar/data/1664703/000195004726009574/0001950047-26-009574-index.htm,LOW
+2026-09-16T20:41:37+00:00,FORM_144,,"BLOOM ENERGY, CORP.",proposed sale $744K,744334,,https://www.sec.gov/Archives/edgar/data/2023038/000195004726009573/0001950047-26-009573-index.htm,LOW
+2026-09-16T20:41:38+00:00,FORM_144,,"BLOOM ENERGY, CORP.",proposed sale $934K,933919,,https://www.sec.gov/Archives/edgar/data/2007932/000195004726009572/0001950047-26-009572-index.htm,LOW
+2026-09-16T20:41:38+00:00,FORM_144,,BETA BIONICS INC,proposed sale $541K,540728,,https://www.sec.gov/Archives/edgar/data/2048497/000195004726009571/0001950047-26-009571-index.htm,LOW
+2026-09-16T20:41:39+00:00,FORM_144,,"Proto Labs, Inc.",proposed sale $8K,7909,,https://www.sec.gov/Archives/edgar/data/1894753/000195004726009570/0001950047-26-009570-index.htm,LOW
+2026-09-16T20:41:39+00:00,FORM_144,,"PALVELLA THERAPEUTICS, INC.",proposed sale $651K,650548,,https://www.sec.gov/Archives/edgar/data/1912570/000196794026000051/0001967940-26-000051-index.htm,LOW
+2026-09-16T20:41:39+00:00,FORM_144,,"Tempus AI, Inc.",proposed sale $48K,48195,,https://www.sec.gov/Archives/edgar/data/2024250/000195004726009569/0001950047-26-009569-index.htm,LOW
+2026-09-16T20:41:40+00:00,FORM_144,,NextNav Inc.,proposed sale $6K,6415,,https://www.sec.gov/Archives/edgar/data/1881628/000195004726009568/0001950047-26-009568-index.htm,LOW
+2026-09-16T20:41:40+00:00,FORM_144,,GCM Grosvenor Inc.,proposed sale $128K,127600,,https://www.sec.gov/Archives/edgar/data/1819796/000195004726009567/0001950047-26-009567-index.htm,LOW
+2026-09-16T20:41:40+00:00,FORM_144,,TRAVERE THERAPEUTICS INC,proposed sale $12.24M,12242020,,https://www.sec.gov/Archives/edgar/data/1763494/000195004726009566/0001950047-26-009566-index.htm,LOW
+2026-09-16T20:41:41+00:00,FORM_144,,"Joby Aviation, Inc.",proposed sale $13K,12597,,https://www.sec.gov/Archives/edgar/data/1877717/000195004726009565/0001950047-26-009565-index.htm,LOW
+2026-09-16T20:41:41+00:00,FORM_144,,"Marqeta, Inc.",proposed sale $11K,11472,,https://www.sec.gov/Archives/edgar/data/1863056/000195004726009564/0001950047-26-009564-index.htm,LOW
+2026-09-16T20:41:42+00:00,FORM_144,,"Duolingo, Inc.",proposed sale $4.35M,4354704,,https://www.sec.gov/Archives/edgar/data/1829259/000195004726009563/0001950047-26-009563-index.htm,LOW
+2026-09-16T20:41:42+00:00,FORM_144,,"Duolingo, Inc.",proposed sale $2.93M,2925711,,https://www.sec.gov/Archives/edgar/data/1966358/000195004726009562/0001950047-26-009562-index.htm,LOW
+2026-09-16T20:41:42+00:00,FORM_144,,"Miami International Holdings, Inc.",proposed sale $838K,838283,,https://www.sec.gov/Archives/edgar/data/2080506/000195004726009561/0001950047-26-009561-index.htm,LOW
+2026-09-16T20:41:43+00:00,FORM_144,,"CHIME FINANCIAL, INC.",proposed sale $1.73M,1731568,,https://www.sec.gov/Archives/edgar/data/1795586/000195004726009560/0001950047-26-009560-index.htm,LOW
