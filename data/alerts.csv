@@ -2698,3 +2698,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-16T22:16:49+00:00,FORM_144,,"Alignment Healthcare, Inc.",proposed sale $226K,226460,,https://www.sec.gov/Archives/edgar/data/1832466/000162828026062327/0001628280-26-062327-index.htm,LOW
 2026-09-16T22:50:35+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $258K,258167,,https://www.sec.gov/Archives/edgar/data/1735863/000119312526393359/0001193125-26-393359-index.htm,LOW
 2026-09-16T22:50:35+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $14.67M,14666617,,https://www.sec.gov/Archives/edgar/data/1737659/000119312526393350/0001193125-26-393350-index.htm,LOW
+2026-09-16T22:58:02+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $572K,572316,,https://www.sec.gov/Archives/edgar/data/1672565/000119312526393376/0001193125-26-393376-index.htm,LOW
+2026-09-16T22:58:03+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $25.54M,25541708,,https://www.sec.gov/Archives/edgar/data/1767114/000119312526393372/0001193125-26-393372-index.htm,LOW
+2026-09-16T22:58:03+00:00,FORM_144,,Phillips 66,proposed sale $6.20M,6201539,,https://www.sec.gov/Archives/edgar/data/1641265/000162828026062335/0001628280-26-062335-index.htm,LOW
+2026-09-16T22:58:03+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $27.99M,27986960,,https://www.sec.gov/Archives/edgar/data/1571996/000119312526393369/0001193125-26-393369-index.htm,LOW
