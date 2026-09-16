@@ -2566,3 +2566,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-16T13:05:14+00:00,INSIDER_CLUSTER,CELH,"Celsius Holdings, Inc.",Kravitz Hal $336K,336000,1,https://www.sec.gov/Archives/edgar/data/1685649/000162828026062134/0001628280-26-062134-index.htm,HIGH
 2026-09-16T13:22:47+00:00,FORM_144,,"CBL & ASSOCIATES PROPERTIES, INC.",proposed sale $2.72M,2721500,,https://www.sec.gov/Archives/edgar/data/1220925/000119312526392528/0001193125-26-392528-index.htm,LOW
 2026-09-16T13:36:04+00:00,FORM_144,,"CrowdStrike Holdings, Inc.",proposed sale $29.10M,29098800,,https://www.sec.gov/Archives/edgar/data/1535527/000162828026062140/0001628280-26-062140-index.htm,LOW
+2026-09-16T13:49:42+00:00,FORM_144,,"SmartStop Self Storage REIT, Inc.",proposed sale $14K,13621,,https://www.sec.gov/Archives/edgar/data/1672825/000195917326006998/0001959173-26-006998-index.htm,LOW
+2026-09-16T13:49:43+00:00,FORM_144,,"Kodiak Gas Services, Inc.",proposed sale $213K,212966,,https://www.sec.gov/Archives/edgar/data/1814898/000195917326006997/0001959173-26-006997-index.htm,LOW
+2026-09-16T13:49:43+00:00,FORM_144,,ORACLE CORP,proposed sale $1.52M,1522827,,https://www.sec.gov/Archives/edgar/data/2071965/000195917326006996/0001959173-26-006996-index.htm,LOW
