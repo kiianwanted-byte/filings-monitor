@@ -2577,3 +2577,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-16T14:17:05+00:00,FORM_144,,Snowflake Inc.,proposed sale $2.61M,2608915,,https://www.sec.gov/Archives/edgar/data/1640147/000195917326007000/0001959173-26-007000-index.htm,LOW
 2026-09-16T14:46:11+00:00,FORM_144,,Legence Corp.,proposed sale $227K,226835,,https://www.sec.gov/Archives/edgar/data/2082077/000195917326007004/0001959173-26-007004-index.htm,LOW
 2026-09-16T15:24:15+00:00,INSIDER_CLUSTER,SBLK,Star Bulk Carriers Corp.,Karellis Nikolaos $57K,56540,1,https://www.sec.gov/Archives/edgar/data/2011929/000201192926000010/0002011929-26-000010-index.htm,HIGH
+2026-09-16T15:36:40+00:00,INSIDER_BUY,ARDC,"Ares Dynamic Credit Allocation Fund, Inc.",THRIVENT FINANCIAL FOR LUTHERANS $6.00M,6000000,2,https://www.sec.gov/Archives/edgar/data/1515324/000031498426000042/0000314984-26-000042-index.htm,MEDIUM
