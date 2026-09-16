@@ -2551,3 +2551,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-16T00:21:26+00:00,FORM_144,,"PACS Group, Inc.",proposed sale $6.61M,6612032,,https://www.sec.gov/Archives/edgar/data/2014361/000201436126000036/0002014361-26-000036-index.htm,LOW
 2026-09-16T00:21:26+00:00,FORM_144,,Seagate Technology Holdings plc,proposed sale $40.52M,40524880,,https://www.sec.gov/Archives/edgar/data/1764650/000176465026000011/0001764650-26-000011-index.htm,LOW
 2026-09-16T00:21:27+00:00,FORM_144,,Seagate Technology Holdings plc,proposed sale $79.36M,79363744,,https://www.sec.gov/Archives/edgar/data/1388390/000138839026000014/0001388390-26-000014-index.htm,LOW
+2026-09-16T00:52:58+00:00,INSIDER_CLUSTER,NTHI,"NEONC TECHNOLOGIES HOLDINGS, INC.",CHEN THOMAS C $40K,39999,4,https://www.sec.gov/Archives/edgar/data/1998682/000121390026100266/0001213900-26-100266-index.htm,HIGH
+2026-09-16T00:53:00+00:00,INSIDER_CLUSTER,NTHI,"NEONC TECHNOLOGIES HOLDINGS, INC.",GARNETT KEITHLY $1K,1000,1,https://www.sec.gov/Archives/edgar/data/1997371/000121390026100265/0001213900-26-100265-index.htm,HIGH
