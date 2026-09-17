@@ -2722,3 +2722,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-17T13:11:21+00:00,FORM_144,,Texas Pacific Land Corp,proposed sale $75K,74880,,https://www.sec.gov/Archives/edgar/data/1811074/000143774926030608/0001437749-26-030608-index.htm,LOW
 2026-09-17T13:59:57+00:00,FORM_144,,Snowflake Inc.,proposed sale $315K,314932,,https://www.sec.gov/Archives/edgar/data/1640147/000195917326007018/0001959173-26-007018-index.htm,LOW
 2026-09-17T13:59:57+00:00,FORM_144,,"Ginkgo Bioworks Holdings, Inc.",proposed sale $16K,16038,,https://www.sec.gov/Archives/edgar/data/1882820/000195917326007017/0001959173-26-007017-index.htm,LOW
+2026-09-17T14:16:35+00:00,INSIDER_CLUSTER,SBLK,Star Bulk Carriers Corp.,Pappa Milena Maria $2.10M,2103288,2,https://www.sec.gov/Archives/edgar/data/2113812/000211381226000003/0002113812-26-000003-index.htm,HIGH
+2026-09-17T14:16:39+00:00,INSIDER_CLUSTER,SBLK,Star Bulk Carriers Corp.,Pappas Alexandros $2.10M,2103288,2,https://www.sec.gov/Archives/edgar/data/2107497/000210749726000002/0002107497-26-000002-index.htm,HIGH
+2026-09-17T14:16:43+00:00,FORM_144,,"Vir Biotechnology, Inc.",proposed sale $213K,212927,,https://www.sec.gov/Archives/edgar/data/1871145/000195917326007020/0001959173-26-007020-index.htm,LOW
+2026-09-17T14:16:43+00:00,FORM_144,,Scorpio Tankers Inc.,proposed sale $595K,595173,,https://www.sec.gov/Archives/edgar/data/2089844/000208984426000002/0002089844-26-000002-index.htm,LOW
+2026-09-17T14:16:43+00:00,FORM_144,,"MARA Holdings, Inc.",proposed sale $183K,183200,,https://www.sec.gov/Archives/edgar/data/1907413/000195917326007019/0001959173-26-007019-index.htm,LOW
