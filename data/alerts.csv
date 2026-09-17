@@ -2833,3 +2833,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-17T21:14:29+00:00,FORM_144,,Kinetic Seas Inc.,proposed sale $10K,9750,,https://www.sec.gov/Archives/edgar/data/2016329/000201632926000007/0002016329-26-000007-index.htm,LOW
 2026-09-17T21:26:45+00:00,INSIDER_CLUSTER,RVSB,RIVERVIEW BANCORP INC,Sherman Nicole $10K,10042,0,https://www.sec.gov/Archives/edgar/data/1322325/000132232526000004/0001322325-26-000004-index.htm,HIGH
 2026-09-17T21:26:51+00:00,FORM_144,,Enova International,proposed sale $5.36M,5364399,,https://www.sec.gov/Archives/edgar/data/1529864/000162828026062583/0001628280-26-062583-index.htm,LOW
+2026-09-17T21:37:45+00:00,FORM_144,,"Arista Networks, Inc.",proposed sale $59.86M,59859000,,https://www.sec.gov/Archives/edgar/data/1596532/000195824426000616/0001958244-26-000616-index.htm,LOW
+2026-09-17T21:37:45+00:00,FORM_144,,NVIDIA Corporation,proposed sale $7.66M,7658914,,https://www.sec.gov/Archives/edgar/data/1588670/000195824426000615/0001958244-26-000615-index.htm,LOW
+2026-09-17T21:37:46+00:00,FORM_144,,MINISO Group Holding Limited,proposed sale $47.36M,47358000,,https://www.sec.gov/Archives/edgar/data/1842281/000195824426000614/0001958244-26-000614-index.htm,LOW
+2026-09-17T21:37:46+00:00,FORM_144,,PHARVARIS N.V.,proposed sale $7.00M,7000000,,https://www.sec.gov/Archives/edgar/data/2014983/000195004726009654/0001950047-26-009654-index.htm,LOW
+2026-09-17T21:37:46+00:00,FORM_144,,PHARVARIS N.V.,proposed sale $10.50M,10500000,,https://www.sec.gov/Archives/edgar/data/1830487/000195004726009653/0001950047-26-009653-index.htm,LOW
