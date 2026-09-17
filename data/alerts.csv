@@ -2743,3 +2743,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-17T18:52:09+00:00,INSIDER_CLUSTER,RVSB,RIVERVIEW BANCORP INC,Graham Stacey $10K,9974,1,https://www.sec.gov/Archives/edgar/data/1833500/000183350026000002/0001833500-26-000002-index.htm,HIGH
 2026-09-17T19:14:37+00:00,FORM_144,,Better Home & Finance Holding Company,proposed sale $132K,132418,,https://www.sec.gov/Archives/edgar/data/2022869/000196922326001031/0001969223-26-001031-index.htm,LOW
 2026-09-17T19:14:37+00:00,FORM_144,,Better Home & Finance Holding Company,proposed sale $38K,38411,,https://www.sec.gov/Archives/edgar/data/1989210/000196922326001032/0001969223-26-001032-index.htm,LOW
+2026-09-17T19:37:06+00:00,FORM_144,,3D SYSTEMS CORP,proposed sale $151K,151456,,https://www.sec.gov/Archives/edgar/data/1251036/000197337926000340/0001973379-26-000340-index.htm,LOW
+2026-09-17T19:37:06+00:00,FORM_144,,3D SYSTEMS CORP,proposed sale $107K,107351,,https://www.sec.gov/Archives/edgar/data/1879982/000197337926000339/0001973379-26-000339-index.htm,LOW
