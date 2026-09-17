@@ -57,6 +57,20 @@ HALT_CODES = {
 # everyone gets it at once. That is the one worth waking up for.
 HIGH_CODES = {"T1", "H10", "M"}
 
+# Nasdaq returned HTTP 200 with a non-XML body to a plain client from
+# GitHub's runners. Apps Script never hit this because it came from Google's
+# IP range. Browser headers are the fix.
+BROWSER_HEADERS = {
+    "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                   "AppleWebKit/537.36 (KHTML, like Gecko) "
+                   "Chrome/126.0.0.0 Safari/537.36"),
+    "Accept": ("application/rss+xml, application/xml;q=0.9, text/xml;q=0.9, "
+               "*/*;q=0.8"),
+    "Accept-Language": "en-US,en;q=0.9",
+    "Referer": "https://www.nasdaqtrader.com/trader.aspx?id=tradehalts",
+    "Connection": "keep-alive",
+}
+
 session = requests.Session()
 
 
@@ -64,17 +78,15 @@ def fetch_feed(tries=2):
     """A stalled connection dies at 15 seconds instead of eating the run."""
     for attempt in range(1, tries + 1):
         try:
-            r = session.get(FEED_URL, timeout=15, headers={
-                "User-Agent": os.environ.get("SEC_USER_AGENT",
-                                             "FilingsMonitor"),
-                "Accept": "application/rss+xml, application/xml, text/xml",
-            })
+            r = session.get(FEED_URL, timeout=15, headers=BROWSER_HEADERS)
         except requests.RequestException as e:
             log(f"halts: request failed ({attempt}/{tries}) :: {e}")
             continue
+        ctype = r.headers.get("Content-Type", "")
         if r.status_code != 200:
-            log(f"halts: HTTP {r.status_code}")
+            log(f"halts: HTTP {r.status_code} ({ctype})")
             continue
+        log(f"halts: HTTP 200, {len(r.text)} chars, content-type: {ctype}")
         return r.text
     return None
 
@@ -89,7 +101,12 @@ def parse(xml_text):
     try:
         root = ET.fromstring(xml_text)
     except ET.ParseError as e:
+        # A 200 that is not XML means the server sent something else, usually
+        # a block page or a redirect. Show the head of the body so the cause
+        # is visible instead of guessed at.
+        head = (xml_text or "")[:300].replace("\n", " ").strip()
         log(f"halts: unparseable feed :: {e}")
+        log(f"halts: body starts with: {head}")
         return None
 
     out = []
@@ -200,9 +217,45 @@ def connectivity_test():
     print(f"  approx US Eastern: {et:02d}:xx  "
           f"({'market hours' if 9 <= et < 16 else 'outside market hours'})")
 
+    print("\n[variants] what each URL and header set returns")
+    variants = [
+        ("default headers", FEED_URL, {}),
+        ("browser UA", FEED_URL, {
+            "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                           "AppleWebKit/537.36 (KHTML, like Gecko) "
+                           "Chrome/126.0.0.0 Safari/537.36"),
+            "Accept": "application/rss+xml, application/xml;q=0.9, */*;q=0.8",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Referer": "https://www.nasdaqtrader.com/trader.aspx?id=tradehalts",
+        }),
+        ("http not https", FEED_URL.replace("https://", "http://"), {}),
+        ("no www", FEED_URL.replace("www.", ""), {}),
+        ("rss.aspx alt feed", "https://www.nasdaqtrader.com/rss.aspx"
+                              "?feed=currenthalts", {}),
+    ]
+    for label, url, hdrs in variants:
+        base = {"User-Agent": os.environ.get("SEC_USER_AGENT",
+                                             "FilingsMonitor")}
+        base.update(hdrs)
+        try:
+            r = session.get(url, timeout=15, headers=base,
+                            allow_redirects=True)
+        except requests.RequestException as e:
+            print(f"    {label:20} ERROR {str(e)[:60]}")
+            continue
+        body = r.text or ""
+        looks_xml = body.lstrip().startswith("<?xml") or \
+            body.lstrip().startswith("<rss")
+        print(f"    {label:20} HTTP {r.status_code}  {len(body):7} chars  "
+              f"xml={looks_xml}  ct={r.headers.get('Content-Type','')[:28]}")
+        if not looks_xml and body:
+            print(f"        starts: {body[:110].replace(chr(10), ' ').strip()}")
+        if r.history:
+            print(f"        redirected via {len(r.history)} hop(s) to {r.url}")
+
     xml_text = fetch_feed()
     if xml_text is None:
-        print("  FAILED. Feed unreachable from this runner.")
+        print("\n  FAILED. Feed unreachable from this runner.")
         print("\n=== END ===")
         return
 
