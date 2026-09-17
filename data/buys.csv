@@ -696,3 +696,5 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-17T22:27:45+00:00,2026-09-14,ALP,Alpha Compute Corp,Villani Fiorenzo,"Director, See Remarks",26547,4.11,108987,NEW,0001171843-26-006099
 2026-09-17T22:45:17+00:00,2026-09-15,XBP,"XBP Global Holdings, Inc.",Jonovic Andrej,"Director, Chief Executive Officer",31500,2.83,89145,14.8,0001104659-26-108649
 2026-09-17T22:45:18+00:00,2026-09-16,DLPN,"Dolphin Entertainment, Inc.",O'Dowd William IV,"Director, Chief Executive Officer, 10% owner",4452,1.54,6856,0.8,0001553350-26-000129
+2026-09-17T22:53:10+00:00,2026-09-15,XBP,"XBP Global Holdings, Inc.",CHADHA PAR,Director,204946,2.83,579997,NEW,0001104659-26-108653
+2026-09-17T22:53:12+00:00,2026-09-15,XBP,"XBP Global Holdings, Inc.",Avramovic Dejan,Chief Financial Officer,8833,2.83,24997,10.4,0001104659-26-108652

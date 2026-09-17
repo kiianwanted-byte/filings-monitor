@@ -2842,3 +2842,11 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-17T22:17:33+00:00,FORM_144,,Constellation Energy Corporation,proposed sale $2.60M,2604085,,https://www.sec.gov/Archives/edgar/data/1868275/000195824426000618/0001958244-26-000618-index.htm,LOW
 2026-09-17T22:17:33+00:00,FORM_144,,Constellation Energy Corporation,proposed sale $5.41M,5409846,,https://www.sec.gov/Archives/edgar/data/1868275/000195824426000617/0001958244-26-000617-index.htm,LOW
 2026-09-17T22:27:45+00:00,INSIDER_CLUSTER,ALP,Alpha Compute Corp,Villani Fiorenzo $109K,108987,3,https://www.sec.gov/Archives/edgar/data/1889272/000117184326006099/0001171843-26-006099-index.htm,HIGH
+2026-09-17T22:53:10+00:00,INSIDER_CLUSTER,XBP,"XBP Global Holdings, Inc.",CHADHA PAR $580K,579997,2,https://www.sec.gov/Archives/edgar/data/1839530/000110465926108653/0001104659-26-108653-index.htm,HIGH
+2026-09-17T22:53:12+00:00,INSIDER_CLUSTER,XBP,"XBP Global Holdings, Inc.",Avramovic Dejan $25K,24997,2,https://www.sec.gov/Archives/edgar/data/1996868/000110465926108652/0001104659-26-108652-index.htm,HIGH
+2026-09-17T22:53:13+00:00,FORM_144,,"Guidewire Software, Inc.",proposed sale $275K,275218,,https://www.sec.gov/Archives/edgar/data/1528396/000149615226000016/0001496152-26-000016-index.htm,LOW
+2026-09-17T22:53:13+00:00,FORM_144,,"Guidewire Software, Inc.",proposed sale $5.73M,5733074,,https://www.sec.gov/Archives/edgar/data/1917389/000191738926000021/0001917389-26-000021-index.htm,LOW
+2026-09-17T22:53:14+00:00,FORM_144,,"Guidewire Software, Inc.",proposed sale $1.71M,1706784,,https://www.sec.gov/Archives/edgar/data/1586253/000158625326000018/0001586253-26-000018-index.htm,LOW
+2026-09-17T22:53:14+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $1.01M,1013922,,https://www.sec.gov/Archives/edgar/data/1651403/000119312526394676/0001193125-26-394676-index.htm,LOW
+2026-09-17T22:53:15+00:00,FORM_144,,"Guidewire Software, Inc.",proposed sale $3.36M,3356657,,https://www.sec.gov/Archives/edgar/data/1805719/000180571926000024/0001805719-26-000024-index.htm,LOW
+2026-09-17T22:53:15+00:00,FORM_144,,"Guidewire Software, Inc.",proposed sale $10.44M,10443866,,https://www.sec.gov/Archives/edgar/data/1784996/000178499626000093/0001784996-26-000093-index.htm,LOW
