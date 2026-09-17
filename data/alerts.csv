@@ -2745,3 +2745,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-17T19:14:37+00:00,FORM_144,,Better Home & Finance Holding Company,proposed sale $38K,38411,,https://www.sec.gov/Archives/edgar/data/1989210/000196922326001032/0001969223-26-001032-index.htm,LOW
 2026-09-17T19:37:06+00:00,FORM_144,,3D SYSTEMS CORP,proposed sale $151K,151456,,https://www.sec.gov/Archives/edgar/data/1251036/000197337926000340/0001973379-26-000340-index.htm,LOW
 2026-09-17T19:37:06+00:00,FORM_144,,3D SYSTEMS CORP,proposed sale $107K,107351,,https://www.sec.gov/Archives/edgar/data/1879982/000197337926000339/0001973379-26-000339-index.htm,LOW
+2026-09-17T19:53:47+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $13.98M,13979517,,https://www.sec.gov/Archives/edgar/data/2086800/000195917326007028/0001959173-26-007028-index.htm,LOW
