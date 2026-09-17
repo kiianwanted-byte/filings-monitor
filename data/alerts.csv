@@ -2716,3 +2716,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-17T01:18:58+00:00,INSIDER_CLUSTER,FLNT,"Fluent, Inc.",GEYGAN JAMES $42K,41830,2,https://www.sec.gov/Archives/edgar/data/1734726/000119312526393467/0001193125-26-393467-index.htm,HIGH
 2026-09-17T01:44:44+00:00,INSIDER_CLUSTER,STI,Solidion Technology Inc.,Prantsevich Vlad $7K,7343,2,https://www.sec.gov/Archives/edgar/data/1883233/000121390026100677/0001213900-26-100677-index.htm,HIGH
 2026-09-17T10:16:49+00:00,INSIDER_CLUSTER,BZUN,Baozun Inc.,Wu Junhua $38K,37947,2,https://www.sec.gov/Archives/edgar/data/1964084/000110465926108384/0001104659-26-108384-index.htm,HIGH
+2026-09-17T11:20:16+00:00,INSIDER_CLUSTER,ADC,AGREE REALTY CORP,Agree Joey $501K,500921,1,https://www.sec.gov/Archives/edgar/data/1348490/000134849026000006/0001348490-26-000006-index.htm,HIGH
