@@ -683,3 +683,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-17T20:20:48+00:00,2026-09-17,PLAY,"Dave & Buster's Entertainment, Inc.",Lipman Nathaniel,Director,12000,6.78,81300,64.1,0001193125-26-394355
 2026-09-17T20:32:59+00:00,2026-09-15,CRBG,"Corebridge Financial, Inc.",NIPPON LIFE INSURANCE CO,10% owner,210903,35.02,7385801,0.2,0001193125-26-394389
 2026-09-17T20:33:04+00:00,2026-09-15,CORZ,"Core Scientific, Inc./tx",Weiss Eric Stanton,Director,6000,16.33,97979,2.3,0000905148-26-004212
+2026-09-17T20:43:45+00:00,2026-09-15,BUKS,BUTLER NATIONAL CORP,Daly Joseph Patrick,"Director, 10% owner",1500,4.00,5994,0.0,0001332596-26-000006

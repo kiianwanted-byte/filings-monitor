@@ -2798,3 +2798,22 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-17T20:33:16+00:00,FORM_144,,"BLOCK, INC.",proposed sale $468K,467820,,https://www.sec.gov/Archives/edgar/data/1933928/000195004726009613/0001950047-26-009613-index.htm,LOW
 2026-09-17T20:33:17+00:00,FORM_144,,"BillionToOne, Inc.",proposed sale $3.87M,3873965,,https://www.sec.gov/Archives/edgar/data/2070849/000195917326007032/0001959173-26-007032-index.htm,LOW
 2026-09-17T20:33:17+00:00,FORM_144,,PHARVARIS N.V.,proposed sale $559K,558812,,https://www.sec.gov/Archives/edgar/data/1897890/000195004726009612/0001950047-26-009612-index.htm,LOW
+2026-09-17T20:43:45+00:00,INSIDER_CLUSTER,BUKS,BUTLER NATIONAL CORP,Daly Joseph Patrick $6K,5994,2,https://www.sec.gov/Archives/edgar/data/1332596/000133259626000006/0001332596-26-000006-index.htm,HIGH
+2026-09-17T20:43:59+00:00,FORM_144,,THE REAL BROKERAGE INC.,proposed sale $1.01M,1010930,,https://www.sec.gov/Archives/edgar/data/2136387/000195004726009646/0001950047-26-009646-index.htm,LOW
+2026-09-17T20:43:59+00:00,FORM_144,,"Heartflow, Inc.",proposed sale $380K,379815,,https://www.sec.gov/Archives/edgar/data/2079946/000195917326007034/0001959173-26-007034-index.htm,LOW
+2026-09-17T20:43:59+00:00,FORM_144,,Wealthfront Corporation,proposed sale $778K,778411,,https://www.sec.gov/Archives/edgar/data/2082642/000195004726009645/0001950047-26-009645-index.htm,LOW
+2026-09-17T20:44:00+00:00,FORM_144,,NextNav Inc.,proposed sale $23K,23041,,https://www.sec.gov/Archives/edgar/data/1881628/000195004726009644/0001950047-26-009644-index.htm,LOW
+2026-09-17T20:44:00+00:00,FORM_144,,"MAGNITE, INC.",proposed sale $888K,887873,,https://www.sec.gov/Archives/edgar/data/1595974/000195004726009643/0001950047-26-009643-index.htm,LOW
+2026-09-17T20:44:00+00:00,FORM_144,,TRAVERE THERAPEUTICS INC,proposed sale $6.89M,6887135,,https://www.sec.gov/Archives/edgar/data/1763494/000195004726009642/0001950047-26-009642-index.htm,LOW
+2026-09-17T20:44:01+00:00,FORM_144,,HARMONY BIOSCIENCES HLDGS INC,proposed sale $34K,33768,,https://www.sec.gov/Archives/edgar/data/2009762/000195004726009641/0001950047-26-009641-index.htm,LOW
+2026-09-17T20:44:01+00:00,FORM_144,,Twist Bioscience Corp,proposed sale $9.31M,9314307,,https://www.sec.gov/Archives/edgar/data/1753655/000195917326007033/0001959173-26-007033-index.htm,LOW
+2026-09-17T20:44:01+00:00,FORM_144,,"CARIS LIFE SCIENCES, INC.",proposed sale $12.13M,12132080,,https://www.sec.gov/Archives/edgar/data/2071959/000195004726009640/0001950047-26-009640-index.htm,LOW
+2026-09-17T20:44:02+00:00,FORM_144,,"CG ONCOLOGY, INC.",proposed sale $500K,499698,,https://www.sec.gov/Archives/edgar/data/2007090/000195004726009639/0001950047-26-009639-index.htm,LOW
+2026-09-17T20:44:02+00:00,FORM_144,,"Enliven Therapeutics, Inc.",proposed sale $591K,591208,,https://www.sec.gov/Archives/edgar/data/1882764/000197415826000103/0001974158-26-000103-index.htm,LOW
+2026-09-17T20:44:02+00:00,FORM_144,,PLANET LABS PBC,proposed sale $837K,836884,,https://www.sec.gov/Archives/edgar/data/1897636/000195004726009638/0001950047-26-009638-index.htm,LOW
+2026-09-17T20:44:03+00:00,FORM_144,,"Crescent Biopharma, Inc.",proposed sale $155K,154843,,https://www.sec.gov/Archives/edgar/data/1528826/000162828026062529/0001628280-26-062529-index.htm,LOW
+2026-09-17T20:44:03+00:00,FORM_144,,"Klaviyo, Inc",proposed sale $682K,681660,,https://www.sec.gov/Archives/edgar/data/1991131/000195004726009637/0001950047-26-009637-index.htm,LOW
+2026-09-17T20:44:03+00:00,FORM_144,,"SOUNDHOUND AI, INC.",proposed sale $9K,9203,,https://www.sec.gov/Archives/edgar/data/1920484/000195004726009636/0001950047-26-009636-index.htm,LOW
+2026-09-17T20:44:04+00:00,FORM_144,,"Tandem Diabetes Care, Inc.",proposed sale $6K,6310,,https://www.sec.gov/Archives/edgar/data/2000342/000195004726009635/0001950047-26-009635-index.htm,LOW
+2026-09-17T20:44:04+00:00,FORM_144,,"Crescent Biopharma, Inc.",proposed sale $76K,75849,,https://www.sec.gov/Archives/edgar/data/1824673/000162828026062526/0001628280-26-062526-index.htm,LOW
+2026-09-17T20:44:04+00:00,FORM_144,,"VENTURE GLOBAL, INC.",proposed sale $3.26M,3255552,,https://www.sec.gov/Archives/edgar/data/2007855/000195004726009634/0001950047-26-009634-index.htm,LOW
