@@ -2746,3 +2746,31 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-17T19:37:06+00:00,FORM_144,,3D SYSTEMS CORP,proposed sale $151K,151456,,https://www.sec.gov/Archives/edgar/data/1251036/000197337926000340/0001973379-26-000340-index.htm,LOW
 2026-09-17T19:37:06+00:00,FORM_144,,3D SYSTEMS CORP,proposed sale $107K,107351,,https://www.sec.gov/Archives/edgar/data/1879982/000197337926000339/0001973379-26-000339-index.htm,LOW
 2026-09-17T19:53:47+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $13.98M,13979517,,https://www.sec.gov/Archives/edgar/data/2086800/000195917326007028/0001959173-26-007028-index.htm,LOW
+2026-09-17T20:20:38+00:00,INSIDER_CLUSTER,BENF,Beneficient,Silk James G. $10K,10000,2,https://www.sec.gov/Archives/edgar/data/1978946/000149315226043124/0001493152-26-043124-index.htm,HIGH
+2026-09-17T20:20:40+00:00,INSIDER_CLUSTER,BENF,Beneficient,CANGANY PETER T JR $20K,20000,2,https://www.sec.gov/Archives/edgar/data/1776266/000149315226043126/0001493152-26-043126-index.htm,HIGH
+2026-09-17T20:20:43+00:00,INSIDER_CLUSTER,GPUS,"Hyperscale Data, Inc.",AULT MILTON C III $30K,30159,2,https://www.sec.gov/Archives/edgar/data/1734770/000121465926011758/0001214659-26-011758-index.htm,HIGH
+2026-09-17T20:20:44+00:00,INSIDER_CLUSTER,RVSB,RIVERVIEW BANCORP INC,Lightheart Charmaine $568,568,0,https://www.sec.gov/Archives/edgar/data/2050978/000205097826000008/0002050978-26-000008-index.htm,HIGH
+2026-09-17T20:20:49+00:00,FORM_144,,UNITED THERAPEUTICS CORPORATION,proposed sale $4.13M,4129607,,https://www.sec.gov/Archives/edgar/data/1231589/000195004726009611/0001950047-26-009611-index.htm,LOW
+2026-09-17T20:20:49+00:00,FORM_144,,"ZSCALER, INC.",proposed sale $34K,33985,,https://www.sec.gov/Archives/edgar/data/1713683/000195004726009610/0001950047-26-009610-index.htm,LOW
+2026-09-17T20:20:49+00:00,FORM_144,,Nano Dimension Ltd.,proposed sale $386K,385558,,https://www.sec.gov/Archives/edgar/data/1643303/000196858226000984/0001968582-26-000984-index.htm,LOW
+2026-09-17T20:20:50+00:00,FORM_144,,"Vistance Networks, Inc.",proposed sale $209K,208864,,https://www.sec.gov/Archives/edgar/data/1965783/000196430626000449/0001964306-26-000449-index.htm,LOW
+2026-09-17T20:20:50+00:00,FORM_144,,"Groupon, Inc.",proposed sale $294K,294163,,https://www.sec.gov/Archives/edgar/data/1973423/000195917326007031/0001959173-26-007031-index.htm,LOW
+2026-09-17T20:20:50+00:00,FORM_144,,"DOCUSIGN, INC.",proposed sale $1.02M,1018716,,https://www.sec.gov/Archives/edgar/data/1968977/000195004726009609/0001950047-26-009609-index.htm,LOW
+2026-09-17T20:20:51+00:00,FORM_144,,SANMINA CORPORATION,proposed sale $24K,24055,,https://www.sec.gov/Archives/edgar/data/1899654/000195004726009608/0001950047-26-009608-index.htm,LOW
+2026-09-17T20:20:51+00:00,FORM_144,,"ConnectM Technology Solutions, Inc.",proposed sale $215,214,,https://www.sec.gov/Archives/edgar/data/1904506/000195004726009607/0001950047-26-009607-index.htm,LOW
+2026-09-17T20:20:52+00:00,FORM_144,,"PALO ALTO NETWORKS, INC.",proposed sale $7.53M,7533686,,https://www.sec.gov/Archives/edgar/data/1327567/000195004726009606/0001950047-26-009606-index.htm,LOW
+2026-09-17T20:20:52+00:00,FORM_144,,LUMENTUM HOLDINGS INC.,proposed sale $467K,466725,,https://www.sec.gov/Archives/edgar/data/1633978/000195004726009605/0001950047-26-009605-index.htm,LOW
+2026-09-17T20:20:52+00:00,FORM_144,,CRISPR THERAPEUTICS AG,proposed sale $781K,780935,,https://www.sec.gov/Archives/edgar/data/1674416/000195004726009604/0001950047-26-009604-index.htm,LOW
+2026-09-17T20:20:53+00:00,FORM_144,,ICON PUBLIC LIMITED COMPANY,proposed sale $570K,569625,,https://www.sec.gov/Archives/edgar/data/1973720/000195004726009603/0001950047-26-009603-index.htm,LOW
+2026-09-17T20:20:53+00:00,FORM_144,,Ethos Technologies Inc.,proposed sale $4.61M,4610321,,https://www.sec.gov/Archives/edgar/data/2089263/000192109426001033/0001921094-26-001033-index.htm,LOW
+2026-09-17T20:20:54+00:00,FORM_144,,"Mineralys Therapeutics, Inc.",proposed sale $12K,11655,,https://www.sec.gov/Archives/edgar/data/1933414/000196430626000448/0001964306-26-000448-index.htm,LOW
+2026-09-17T20:20:54+00:00,FORM_144,,ICON PUBLIC LIMITED COMPANY,proposed sale $876K,875875,,https://www.sec.gov/Archives/edgar/data/1974743/000195004726009602/0001950047-26-009602-index.htm,LOW
+2026-09-17T20:20:54+00:00,FORM_144,,"BLACKSTONE MORTGAGE TRUST, INC.",proposed sale $15K,15128,,https://www.sec.gov/Archives/edgar/data/2089544/000196430626000447/0001964306-26-000447-index.htm,LOW
+2026-09-17T20:20:55+00:00,FORM_144,,Ethos Technologies Inc.,proposed sale $906K,906400,,https://www.sec.gov/Archives/edgar/data/2089362/000192109426001032/0001921094-26-001032-index.htm,LOW
+2026-09-17T20:20:55+00:00,FORM_144,,"EQUITABLE HOLDINGS, INC.",proposed sale $109K,108550,,https://www.sec.gov/Archives/edgar/data/1720170/000195004726009601/0001950047-26-009601-index.htm,LOW
+2026-09-17T20:20:56+00:00,FORM_144,,SCORPIO TANKERS INC.,proposed sale $11.13M,11128225,,https://www.sec.gov/Archives/edgar/data/1979195/000195004726009600/0001950047-26-009600-index.htm,LOW
+2026-09-17T20:20:56+00:00,FORM_144,,"BLACKSTONE MORTGAGE TRUST, INC.",proposed sale $12K,11597,,https://www.sec.gov/Archives/edgar/data/1707300/000196430626000446/0001964306-26-000446-index.htm,LOW
+2026-09-17T20:20:56+00:00,FORM_144,,Flowco Holdings Inc.,proposed sale $10K,10492,,https://www.sec.gov/Archives/edgar/data/2049797/000195779926000176/0001957799-26-000176-index.htm,LOW
+2026-09-17T20:20:57+00:00,FORM_144,,BARFRESH FOOD GROUP INC.,proposed sale $28K,27937,,https://www.sec.gov/Archives/edgar/data/1905960/000195004726009598/0001950047-26-009598-index.htm,LOW
+2026-09-17T20:20:57+00:00,FORM_144,,Metropolitan Bank Holding Corp.,proposed sale $179K,178640,,https://www.sec.gov/Archives/edgar/data/1476034/000195917326007030/0001959173-26-007030-index.htm,LOW
+2026-09-17T20:20:58+00:00,FORM_144,,"Hims & Hers Health, Inc.",proposed sale $355K,354860,,https://www.sec.gov/Archives/edgar/data/1907056/000195917326007029/0001959173-26-007029-index.htm,LOW
