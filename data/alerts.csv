@@ -2817,3 +2817,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-17T20:44:04+00:00,FORM_144,,"Tandem Diabetes Care, Inc.",proposed sale $6K,6310,,https://www.sec.gov/Archives/edgar/data/2000342/000195004726009635/0001950047-26-009635-index.htm,LOW
 2026-09-17T20:44:04+00:00,FORM_144,,"Crescent Biopharma, Inc.",proposed sale $76K,75849,,https://www.sec.gov/Archives/edgar/data/1824673/000162828026062526/0001628280-26-062526-index.htm,LOW
 2026-09-17T20:44:04+00:00,FORM_144,,"VENTURE GLOBAL, INC.",proposed sale $3.26M,3255552,,https://www.sec.gov/Archives/edgar/data/2007855/000195004726009634/0001950047-26-009634-index.htm,LOW
+2026-09-17T20:52:15+00:00,FORM_144,,WEALTHFRONT CORP,proposed sale $266K,265823,,https://www.sec.gov/Archives/edgar/data/2078580/000195004726009648/0001950047-26-009648-index.htm,LOW
+2026-09-17T20:52:15+00:00,FORM_144,,PHARVARIS N.V.,proposed sale $1.99M,1989408,,https://www.sec.gov/Archives/edgar/data/1830487/000195004726009647/0001950047-26-009647-index.htm,LOW
+2026-09-17T20:52:15+00:00,FORM_144,,"Ulta Beauty, Inc.",proposed sale $1.09M,1091766,,https://www.sec.gov/Archives/edgar/data/1866021/000192109426001034/0001921094-26-001034-index.htm,LOW
+2026-09-17T20:52:16+00:00,FORM_144,,Twist Bioscience Corp,proposed sale $44.68M,44677452,,https://www.sec.gov/Archives/edgar/data/1753655/000195917326007035/0001959173-26-007035-index.htm,LOW
