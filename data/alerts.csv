@@ -2719,3 +2719,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-17T11:20:16+00:00,INSIDER_CLUSTER,ADC,AGREE REALTY CORP,Agree Joey $501K,500921,1,https://www.sec.gov/Archives/edgar/data/1348490/000134849026000006/0001348490-26-000006-index.htm,HIGH
 2026-09-17T12:05:29+00:00,FORM_144,,Kanzhun Ltd,proposed sale $465K,465310,,https://www.sec.gov/Archives/edgar/data/2116220/000110465926108425/0001104659-26-108425-index.htm,LOW
 2026-09-17T12:43:25+00:00,INSIDER_CLUSTER,SBLK,Star Bulk Carriers Corp.,Reskos Nikolaos $283K,282700,2,https://www.sec.gov/Archives/edgar/data/1969292/000196929226000010/0001969292-26-000010-index.htm,HIGH
+2026-09-17T13:11:21+00:00,FORM_144,,Texas Pacific Land Corp,proposed sale $75K,74880,,https://www.sec.gov/Archives/edgar/data/1811074/000143774926030608/0001437749-26-030608-index.htm,LOW
