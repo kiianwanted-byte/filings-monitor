@@ -1,0 +1,49 @@
+name: Trading Halts
+
+on:
+  schedule:
+    # Every 5 minutes. GitHub cron drifts 5-20 minutes, which is the cost of
+    # moving this off Apps Script. Accepted deliberately: Apps Script cannot
+    # set a request timeout, so a stalled Nasdaq response killed the whole
+    # execution at the 6 minute ceiling.
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: trading-halts
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  halts:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - name: Run halts monitor
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+        run: python halts.py
+      - name: Commit state
+        continue-on-error: true
+        run: |
+          git config user.name "filings-monitor"
+          git config user.email "actions@github.com"
+          git add state || true
+          if git diff --staged --quiet; then exit 0; fi
+          git commit -m "halts: $(date -u '+%Y-%m-%d %H:%M UTC')" || exit 0
+          for i in 1 2 3 4 5; do
+            git pull --rebase --autostash origin ${{ github.ref_name }} \
+              && git push origin HEAD:${{ github.ref_name }} && exit 0
+            sleep $((i * 5))
+          done
+          echo "::warning::state push deferred to next run"
+          exit 0
