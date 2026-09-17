@@ -2774,3 +2774,27 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-17T20:20:57+00:00,FORM_144,,BARFRESH FOOD GROUP INC.,proposed sale $28K,27937,,https://www.sec.gov/Archives/edgar/data/1905960/000195004726009598/0001950047-26-009598-index.htm,LOW
 2026-09-17T20:20:57+00:00,FORM_144,,Metropolitan Bank Holding Corp.,proposed sale $179K,178640,,https://www.sec.gov/Archives/edgar/data/1476034/000195917326007030/0001959173-26-007030-index.htm,LOW
 2026-09-17T20:20:58+00:00,FORM_144,,"Hims & Hers Health, Inc.",proposed sale $355K,354860,,https://www.sec.gov/Archives/edgar/data/1907056/000195917326007029/0001959173-26-007029-index.htm,LOW
+2026-09-17T20:33:06+00:00,FORM_144,,Wealthfront Corporation,proposed sale $47K,46517,,https://www.sec.gov/Archives/edgar/data/2082674/000195004726009633/0001950047-26-009633-index.htm,LOW
+2026-09-17T20:33:06+00:00,FORM_144,,"Cloudflare, Inc.",proposed sale $3.25M,3246500,,https://www.sec.gov/Archives/edgar/data/1477333/000195004726009632/0001950047-26-009632-index.htm,LOW
+2026-09-17T20:33:07+00:00,FORM_144,,PLANET LABS PBC,proposed sale $892K,891721,,https://www.sec.gov/Archives/edgar/data/1836833/000195004726009631/0001950047-26-009631-index.htm,LOW
+2026-09-17T20:33:08+00:00,FORM_144,,"Tempus AI, Inc.",proposed sale $651K,651490,,https://www.sec.gov/Archives/edgar/data/1754464/000195004726009630/0001950047-26-009630-index.htm,LOW
+2026-09-17T20:33:08+00:00,FORM_144,,"DOORDASH, INC.",proposed sale $430K,429723,,https://www.sec.gov/Archives/edgar/data/1833552/000195004726009629/0001950047-26-009629-index.htm,LOW
+2026-09-17T20:33:08+00:00,FORM_144,,"Five9, Inc.",proposed sale $238K,238082,,https://www.sec.gov/Archives/edgar/data/2000932/000195004726009628/0001950047-26-009628-index.htm,LOW
+2026-09-17T20:33:09+00:00,FORM_144,,"FASTLY, INC.",proposed sale $1.08M,1078885,,https://www.sec.gov/Archives/edgar/data/1993556/000195004726009627/0001950047-26-009627-index.htm,LOW
+2026-09-17T20:33:10+00:00,FORM_144,,Sandisk Corporation,proposed sale $51.44M,51437304,,https://www.sec.gov/Archives/edgar/data/2023554/000195004726009626/0001950047-26-009626-index.htm,LOW
+2026-09-17T20:33:10+00:00,FORM_144,,TRAVERE THERAPEUTICS INC,proposed sale $526K,525741,,https://www.sec.gov/Archives/edgar/data/1789617/000195004726009625/0001950047-26-009625-index.htm,LOW
+2026-09-17T20:33:10+00:00,FORM_144,,GRINDR INC,proposed sale $2.58M,2584192,,https://www.sec.gov/Archives/edgar/data/1833678/000195004726009624/0001950047-26-009624-index.htm,LOW
+2026-09-17T20:33:11+00:00,FORM_144,,"FASTLY, INC.",proposed sale $984K,984325,,https://www.sec.gov/Archives/edgar/data/2024441/000195004726009623/0001950047-26-009623-index.htm,LOW
+2026-09-17T20:33:11+00:00,FORM_144,,"Clover Health Investments, Corp.",proposed sale $9K,8759,,https://www.sec.gov/Archives/edgar/data/1839066/000195004726009622/0001950047-26-009622-index.htm,LOW
+2026-09-17T20:33:12+00:00,FORM_144,,"Tempus AI, Inc.",proposed sale $206K,206481,,https://www.sec.gov/Archives/edgar/data/2024169/000195004726009621/0001950047-26-009621-index.htm,LOW
+2026-09-17T20:33:12+00:00,FORM_144,,WEALTHFRONT CORPORATION,proposed sale $508K,508500,,https://www.sec.gov/Archives/edgar/data/2082564/000195004726009620/0001950047-26-009620-index.htm,LOW
+2026-09-17T20:33:13+00:00,FORM_144,,"Dianthus Therapeutics, Inc.",proposed sale $2.05M,2049800,,https://www.sec.gov/Archives/edgar/data/1690585/000195004726009619/0001950047-26-009619-index.htm,LOW
+2026-09-17T20:33:13+00:00,FORM_144,,"Proto Labs, Inc.",proposed sale $408K,407876,,https://www.sec.gov/Archives/edgar/data/1894753/000195004726009618/0001950047-26-009618-index.htm,LOW
+2026-09-17T20:33:14+00:00,FORM_144,,PHARVARIS N.V.,proposed sale $765K,765466,,https://www.sec.gov/Archives/edgar/data/1973705/000195004726009617/0001950047-26-009617-index.htm,LOW
+2026-09-17T20:33:14+00:00,FORM_144,,"Schrodinger, Inc.",proposed sale $756K,756164,,https://www.sec.gov/Archives/edgar/data/1797672/000195004726009616/0001950047-26-009616-index.htm,LOW
+2026-09-17T20:33:15+00:00,FORM_144,,"ZSCALER, INC.",proposed sale $880K,880173,,https://www.sec.gov/Archives/edgar/data/2040014/000195004726009615/0001950047-26-009615-index.htm,LOW
+2026-09-17T20:33:15+00:00,FORM_144,,Repay Holdings Corp,proposed sale $98K,97867,,https://www.sec.gov/Archives/edgar/data/1787173/000196530126000145/0001965301-26-000145-index.htm,LOW
+2026-09-17T20:33:16+00:00,FORM_144,,"NUTANIX, INC.",proposed sale $2.67M,2669809,,https://www.sec.gov/Archives/edgar/data/1924910/000195004726009614/0001950047-26-009614-index.htm,LOW
+2026-09-17T20:33:16+00:00,FORM_144,,"BLOCK, INC.",proposed sale $468K,467820,,https://www.sec.gov/Archives/edgar/data/1933928/000195004726009613/0001950047-26-009613-index.htm,LOW
+2026-09-17T20:33:17+00:00,FORM_144,,"BillionToOne, Inc.",proposed sale $3.87M,3873965,,https://www.sec.gov/Archives/edgar/data/2070849/000195917326007032/0001959173-26-007032-index.htm,LOW
+2026-09-17T20:33:17+00:00,FORM_144,,PHARVARIS N.V.,proposed sale $559K,558812,,https://www.sec.gov/Archives/edgar/data/1897890/000195004726009612/0001950047-26-009612-index.htm,LOW
