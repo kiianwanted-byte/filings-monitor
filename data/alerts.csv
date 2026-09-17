@@ -2839,3 +2839,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-17T21:37:46+00:00,FORM_144,,PHARVARIS N.V.,proposed sale $7.00M,7000000,,https://www.sec.gov/Archives/edgar/data/2014983/000195004726009654/0001950047-26-009654-index.htm,LOW
 2026-09-17T21:37:46+00:00,FORM_144,,PHARVARIS N.V.,proposed sale $10.50M,10500000,,https://www.sec.gov/Archives/edgar/data/1830487/000195004726009653/0001950047-26-009653-index.htm,LOW
 2026-09-17T21:45:09+00:00,FORM_144,,MDxHealth SA,proposed sale $1.06M,1056900,,https://www.sec.gov/Archives/edgar/data/1872529/000117893726000045/0001178937-26-000045-index.htm,LOW
+2026-09-17T22:17:33+00:00,FORM_144,,Constellation Energy Corporation,proposed sale $2.60M,2604085,,https://www.sec.gov/Archives/edgar/data/1868275/000195824426000618/0001958244-26-000618-index.htm,LOW
+2026-09-17T22:17:33+00:00,FORM_144,,Constellation Energy Corporation,proposed sale $5.41M,5409846,,https://www.sec.gov/Archives/edgar/data/1868275/000195824426000617/0001958244-26-000617-index.htm,LOW
