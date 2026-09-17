@@ -2712,3 +2712,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-17T00:21:03+00:00,FORM_144,,"Zscaler, Inc.",proposed sale $1.15M,1148288,,https://www.sec.gov/Archives/edgar/data/1713683/000171368326000168/0001713683-26-000168-index.htm,LOW
 2026-09-17T00:21:03+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $2.88M,2880603,,https://www.sec.gov/Archives/edgar/data/1651403/000119312526393424/0001193125-26-393424-index.htm,LOW
 2026-09-17T00:39:37+00:00,FORM_144,,Kinetik Holdings Inc.,proposed sale $472K,472284,,https://www.sec.gov/Archives/edgar/data/1904934/000090514826004207/0000905148-26-004207-index.htm,LOW
+2026-09-17T01:18:57+00:00,INSIDER_CLUSTER,FLNT,"Fluent, Inc.",GLOBAL VALUE INVESTMENT CORP. $42K,41830,2,https://www.sec.gov/Archives/edgar/data/2007274/000119312526393468/0001193125-26-393468-index.htm,HIGH
+2026-09-17T01:18:58+00:00,INSIDER_CLUSTER,FLNT,"Fluent, Inc.",GEYGAN JAMES $42K,41830,2,https://www.sec.gov/Archives/edgar/data/1734726/000119312526393467/0001193125-26-393467-index.htm,HIGH
