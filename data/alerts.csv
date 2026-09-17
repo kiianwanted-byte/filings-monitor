@@ -2729,3 +2729,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-17T14:16:43+00:00,FORM_144,,"MARA Holdings, Inc.",proposed sale $183K,183200,,https://www.sec.gov/Archives/edgar/data/1907413/000195917326007019/0001959173-26-007019-index.htm,LOW
 2026-09-17T14:45:52+00:00,INSIDER_CLUSTER,SBLK,Star Bulk Carriers Corp.,Plakantonaki Charis $85K,84810,2,https://www.sec.gov/Archives/edgar/data/1978604/000197860426000008/0001978604-26-000008-index.htm,HIGH
 2026-09-17T14:56:14+00:00,INSIDER_CLUSTER,RVSB,RIVERVIEW BANCORP INC,Wills Bessie Ross $11K,11170,2,https://www.sec.gov/Archives/edgar/data/1508267/000150826726000004/0001508267-26-000004-index.htm,HIGH
+2026-09-17T15:08:33+00:00,INSIDER_CLUSTER,SBLK,Star Bulk Carriers Corp.,Zagari Raffaele $1.70M,1696200,2,https://www.sec.gov/Archives/edgar/data/2005037/000200503726000014/0002005037-26-000014-index.htm,HIGH
