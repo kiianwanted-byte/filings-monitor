@@ -2850,3 +2850,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-17T22:53:14+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $1.01M,1013922,,https://www.sec.gov/Archives/edgar/data/1651403/000119312526394676/0001193125-26-394676-index.htm,LOW
 2026-09-17T22:53:15+00:00,FORM_144,,"Guidewire Software, Inc.",proposed sale $3.36M,3356657,,https://www.sec.gov/Archives/edgar/data/1805719/000180571926000024/0001805719-26-000024-index.htm,LOW
 2026-09-17T22:53:15+00:00,FORM_144,,"Guidewire Software, Inc.",proposed sale $10.44M,10443866,,https://www.sec.gov/Archives/edgar/data/1784996/000178499626000093/0001784996-26-000093-index.htm,LOW
+2026-09-17T23:24:00+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $584K,584131,,https://www.sec.gov/Archives/edgar/data/1672565/000119312526394725/0001193125-26-394725-index.htm,LOW
+2026-09-17T23:24:01+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $28.55M,28552043,,https://www.sec.gov/Archives/edgar/data/1571996/000119312526394724/0001193125-26-394724-index.htm,LOW
+2026-09-17T23:24:01+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $264K,263619,,https://www.sec.gov/Archives/edgar/data/1735863/000119312526394722/0001193125-26-394722-index.htm,LOW
+2026-09-17T23:24:01+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $26.05M,26053852,,https://www.sec.gov/Archives/edgar/data/1767114/000119312526394720/0001193125-26-394720-index.htm,LOW
