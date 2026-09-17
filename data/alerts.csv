@@ -2826,3 +2826,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-17T20:59:35+00:00,FORM_144,,"Crowdstrike Holdings, Inc.",proposed sale $7.23M,7226318,,https://www.sec.gov/Archives/edgar/data/1535527/000196858226000985/0001968582-26-000985-index.htm,LOW
 2026-09-17T20:59:36+00:00,FORM_144,,"MAGNITE, INC.",proposed sale $476K,475600,,https://www.sec.gov/Archives/edgar/data/1595974/000195004726009650/0001950047-26-009650-index.htm,LOW
 2026-09-17T20:59:36+00:00,FORM_144,,Wealthfront Corporation,proposed sale $272K,271925,,https://www.sec.gov/Archives/edgar/data/1524566/000195004726009649/0001950047-26-009649-index.htm,LOW
+2026-09-17T21:14:13+00:00,INSIDER_CLUSTER,MNR,MACH NATURAL RESOURCES LP,McMullen William Wallace $389K,388902,2,https://www.sec.gov/Archives/edgar/data/1980088/000121390026101024/0001213900-26-101024-index.htm,HIGH
+2026-09-17T21:14:28+00:00,FORM_144,,"SIONNA THERAPEUTICS, INC.",proposed sale $21.83M,21834318,,https://www.sec.gov/Archives/edgar/data/2036042/000131508226000002/0001315082-26-000002-index.htm,LOW
+2026-09-17T21:14:28+00:00,FORM_144,,WEALTHFRONT CORPORATION,proposed sale $508K,508500,,https://www.sec.gov/Archives/edgar/data/2082564/000195004726009652/0001950047-26-009652-index.htm,LOW
+2026-09-17T21:14:29+00:00,FORM_144,,"Tempus AI, Inc.",proposed sale $13.99M,13994000,,https://www.sec.gov/Archives/edgar/data/1717115/000196858226000987/0001968582-26-000987-index.htm,LOW
+2026-09-17T21:14:29+00:00,FORM_144,,Kinetic Seas Inc.,proposed sale $10K,9750,,https://www.sec.gov/Archives/edgar/data/2016329/000201632926000007/0002016329-26-000007-index.htm,LOW
