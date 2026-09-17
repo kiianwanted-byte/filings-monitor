@@ -2731,3 +2731,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-17T14:56:14+00:00,INSIDER_CLUSTER,RVSB,RIVERVIEW BANCORP INC,Wills Bessie Ross $11K,11170,2,https://www.sec.gov/Archives/edgar/data/1508267/000150826726000004/0001508267-26-000004-index.htm,HIGH
 2026-09-17T15:08:33+00:00,INSIDER_CLUSTER,SBLK,Star Bulk Carriers Corp.,Zagari Raffaele $1.70M,1696200,2,https://www.sec.gov/Archives/edgar/data/2005037/000200503726000014/0002005037-26-000014-index.htm,HIGH
 2026-09-17T15:23:53+00:00,FORM_144,,ROCKWELL AUTOMATION INC,proposed sale $474K,474484,,https://www.sec.gov/Archives/edgar/data/1570660/000162828026062436/0001628280-26-062436-index.htm,LOW
+2026-09-17T15:35:37+00:00,FORM_144,,GENERAC HOLDINGS INC.,proposed sale $138K,138388,,https://www.sec.gov/Archives/edgar/data/1851000/000195917326007021/0001959173-26-007021-index.htm,LOW
+2026-09-17T15:35:37+00:00,FORM_144,,Walmart Inc.,proposed sale $4.23M,4229269,,https://www.sec.gov/Archives/edgar/data/1696737/000194984626000590/0001949846-26-000590-index.htm,LOW
