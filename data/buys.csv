@@ -646,3 +646,5 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-17T01:18:58+00:00,2026-09-14,FLNT,"Fluent, Inc.",GEYGAN JAMES,"Director, 10% owner",12376,3.38,41830,0.4,0001193125-26-393467
 2026-09-17T01:44:40+00:00,2026-09-15,WULF,TERAWULF INC.,Bucella Michael C.,Director,6085,14.79,89966,1.8,0001628280-26-062352
 2026-09-17T01:44:44+00:00,2026-09-14,STI,Solidion Technology Inc.,Prantsevich Vlad,Chief Financial Officer,1030,7.13,7343,42.5,0001213900-26-100677
+2026-09-17T10:16:49+00:00,2026-09-16,ADAG,Adagene Inc.,Luo Peter,"Director, Chief Executive Officer",20290,3.15,63980,29.7,0001104659-26-108386
+2026-09-17T10:16:49+00:00,2026-09-15,BZUN,Baozun Inc.,Wu Junhua,"Director, Chief Strategy Officer",13900,2.73,37947,5.2,0001104659-26-108384
