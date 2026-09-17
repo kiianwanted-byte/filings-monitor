@@ -2841,3 +2841,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-17T21:45:09+00:00,FORM_144,,MDxHealth SA,proposed sale $1.06M,1056900,,https://www.sec.gov/Archives/edgar/data/1872529/000117893726000045/0001178937-26-000045-index.htm,LOW
 2026-09-17T22:17:33+00:00,FORM_144,,Constellation Energy Corporation,proposed sale $2.60M,2604085,,https://www.sec.gov/Archives/edgar/data/1868275/000195824426000618/0001958244-26-000618-index.htm,LOW
 2026-09-17T22:17:33+00:00,FORM_144,,Constellation Energy Corporation,proposed sale $5.41M,5409846,,https://www.sec.gov/Archives/edgar/data/1868275/000195824426000617/0001958244-26-000617-index.htm,LOW
+2026-09-17T22:27:45+00:00,INSIDER_CLUSTER,ALP,Alpha Compute Corp,Villani Fiorenzo $109K,108987,3,https://www.sec.gov/Archives/edgar/data/1889272/000117184326006099/0001171843-26-006099-index.htm,HIGH
