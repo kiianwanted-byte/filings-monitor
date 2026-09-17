@@ -2854,3 +2854,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-17T23:24:01+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $28.55M,28552043,,https://www.sec.gov/Archives/edgar/data/1571996/000119312526394724/0001193125-26-394724-index.htm,LOW
 2026-09-17T23:24:01+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $264K,263619,,https://www.sec.gov/Archives/edgar/data/1735863/000119312526394722/0001193125-26-394722-index.htm,LOW
 2026-09-17T23:24:01+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $26.05M,26053852,,https://www.sec.gov/Archives/edgar/data/1767114/000119312526394720/0001193125-26-394720-index.htm,LOW
+2026-09-17T23:31:49+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $360K,360349,,https://www.sec.gov/Archives/edgar/data/2135137/000213513726000018/0002135137-26-000018-index.htm,LOW
+2026-09-17T23:31:49+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $1.19M,1192940,,https://www.sec.gov/Archives/edgar/data/2135147/000213514726000014/0002135147-26-000014-index.htm,LOW
+2026-09-17T23:31:49+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $14.96M,14957602,,https://www.sec.gov/Archives/edgar/data/1737659/000119312526394730/0001193125-26-394730-index.htm,LOW
+2026-09-17T23:31:50+00:00,FORM_144,,PHARVARIS N.V.,proposed sale $3.50M,3500000,,https://www.sec.gov/Archives/edgar/data/1972159/000195004726009655/0001950047-26-009655-index.htm,LOW
