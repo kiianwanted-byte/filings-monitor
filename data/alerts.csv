@@ -2821,3 +2821,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-17T20:52:15+00:00,FORM_144,,PHARVARIS N.V.,proposed sale $1.99M,1989408,,https://www.sec.gov/Archives/edgar/data/1830487/000195004726009647/0001950047-26-009647-index.htm,LOW
 2026-09-17T20:52:15+00:00,FORM_144,,"Ulta Beauty, Inc.",proposed sale $1.09M,1091766,,https://www.sec.gov/Archives/edgar/data/1866021/000192109426001034/0001921094-26-001034-index.htm,LOW
 2026-09-17T20:52:16+00:00,FORM_144,,Twist Bioscience Corp,proposed sale $44.68M,44677452,,https://www.sec.gov/Archives/edgar/data/1753655/000195917326007035/0001959173-26-007035-index.htm,LOW
+2026-09-17T20:59:26+00:00,INSIDER_CLUSTER,BWMX,"BETTERWARE DE MEXICO, S.A.P.I. DE C.V",Campos Luis $1.31M,1307102,2,https://www.sec.gov/Archives/edgar/data/1834688/000121390026101014/0001213900-26-101014-index.htm,HIGH
+2026-09-17T20:59:28+00:00,INSIDER_CLUSTER,BWMX,"BETTERWARE DE MEXICO, S.A.P.I. DE C.V",CHEVALLIER ANDRES CAMPOS $740K,739785,2,https://www.sec.gov/Archives/edgar/data/2120042/000121390026101012/0001213900-26-101012-index.htm,HIGH
+2026-09-17T20:59:35+00:00,FORM_144,,"Crowdstrike Holdings, Inc.",proposed sale $7.23M,7226318,,https://www.sec.gov/Archives/edgar/data/1535527/000196858226000985/0001968582-26-000985-index.htm,LOW
+2026-09-17T20:59:36+00:00,FORM_144,,"MAGNITE, INC.",proposed sale $476K,475600,,https://www.sec.gov/Archives/edgar/data/1595974/000195004726009650/0001950047-26-009650-index.htm,LOW
+2026-09-17T20:59:36+00:00,FORM_144,,Wealthfront Corporation,proposed sale $272K,271925,,https://www.sec.gov/Archives/edgar/data/1524566/000195004726009649/0001950047-26-009649-index.htm,LOW
