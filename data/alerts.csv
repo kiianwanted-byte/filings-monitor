@@ -2740,3 +2740,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-17T17:32:50+00:00,FORM_144,,"MARA Holdings, Inc.",proposed sale $315K,314932,,https://www.sec.gov/Archives/edgar/data/1567383/000195917326007026/0001959173-26-007026-index.htm,LOW
 2026-09-17T18:23:48+00:00,FORM_144,,Genius Sports Ltd,proposed sale $326K,325564,,https://www.sec.gov/Archives/edgar/data/1977490/000195917326007027/0001959173-26-007027-index.htm,LOW
 2026-09-17T18:38:08+00:00,INSIDER_BUY,USO,"United States Oil Fund, LP",HRT FINANCIAL LP $6.78M,6776820,1,https://www.sec.gov/Archives/edgar/data/1475597/000147559726000248/0001475597-26-000248-index.htm,MEDIUM
+2026-09-17T18:52:09+00:00,INSIDER_CLUSTER,RVSB,RIVERVIEW BANCORP INC,Graham Stacey $10K,9974,1,https://www.sec.gov/Archives/edgar/data/1833500/000183350026000002/0001833500-26-000002-index.htm,HIGH
