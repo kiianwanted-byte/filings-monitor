@@ -2727,3 +2727,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-17T14:16:43+00:00,FORM_144,,"Vir Biotechnology, Inc.",proposed sale $213K,212927,,https://www.sec.gov/Archives/edgar/data/1871145/000195917326007020/0001959173-26-007020-index.htm,LOW
 2026-09-17T14:16:43+00:00,FORM_144,,Scorpio Tankers Inc.,proposed sale $595K,595173,,https://www.sec.gov/Archives/edgar/data/2089844/000208984426000002/0002089844-26-000002-index.htm,LOW
 2026-09-17T14:16:43+00:00,FORM_144,,"MARA Holdings, Inc.",proposed sale $183K,183200,,https://www.sec.gov/Archives/edgar/data/1907413/000195917326007019/0001959173-26-007019-index.htm,LOW
+2026-09-17T14:45:52+00:00,INSIDER_CLUSTER,SBLK,Star Bulk Carriers Corp.,Plakantonaki Charis $85K,84810,2,https://www.sec.gov/Archives/edgar/data/1978604/000197860426000008/0001978604-26-000008-index.htm,HIGH
