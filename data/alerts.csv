@@ -2736,3 +2736,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-17T15:47:29+00:00,FORM_144,,"TERADYNE, INC",proposed sale $140K,140444,,https://www.sec.gov/Archives/edgar/data/1618274/000195917326007022/0001959173-26-007022-index.htm,LOW
 2026-09-17T16:10:08+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $2.33M,2333456,,https://www.sec.gov/Archives/edgar/data/1680902/000195917326007023/0001959173-26-007023-index.htm,LOW
 2026-09-17T16:38:21+00:00,FORM_144,,GENERAC HOLDINGS INC.,proposed sale $34K,34425,,https://www.sec.gov/Archives/edgar/data/1474735/000195917326007024/0001959173-26-007024-index.htm,LOW
+2026-09-17T16:49:14+00:00,FORM_144,,INNSUITES HOSPITALITY TRUST,proposed sale $23K,22560,,https://www.sec.gov/Archives/edgar/data/1248349/000194984626000591/0001949846-26-000591-index.htm,LOW
