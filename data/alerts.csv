@@ -2875,3 +2875,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-18T01:54:42+00:00,FORM_144,,XP Inc.,proposed sale $2.41M,2413885,,https://www.sec.gov/Archives/edgar/data/2117047/000095010326014162/0000950103-26-014162-index.htm,LOW
 2026-09-18T10:18:11+00:00,FORM_144,,RADWARE LTD,proposed sale $442K,441750,,https://www.sec.gov/Archives/edgar/data/2077793/000197640826000855/0001976408-26-000855-index.htm,LOW
 2026-09-18T10:52:52+00:00,INSIDER_CLUSTER,BZUN,Baozun Inc.,Qiu Wenbin $40K,40166,2,https://www.sec.gov/Archives/edgar/data/1975717/000110465926108719/0001104659-26-108719-index.htm,HIGH
+2026-09-18T11:16:55+00:00,FORM_144,,"JD.com, Inc.",proposed sale $3.73M,3729600,,https://www.sec.gov/Archives/edgar/data/1971883/000173839626000013/0001738396-26-000013-index.htm,LOW
