@@ -2883,3 +2883,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-18T13:46:51+00:00,FORM_144,,Legence Corp.,proposed sale $58K,58200,,https://www.sec.gov/Archives/edgar/data/2082077/000195917326007036/0001959173-26-007036-index.htm,LOW
 2026-09-18T13:55:52+00:00,FORM_144,,PARK OHIO HOLDINGS CORP,proposed sale $230K,230000,,https://www.sec.gov/Archives/edgar/data/1206686/000120668626000002/0001206686-26-000002-index.htm,LOW
 2026-09-18T14:06:42+00:00,FORM_144,,"Heartflow, Inc.",proposed sale $987K,987052,,https://www.sec.gov/Archives/edgar/data/1585724/000195917326007037/0001959173-26-007037-index.htm,LOW
+2026-09-18T14:22:05+00:00,FORM_144,,"Heartflow, Inc.",proposed sale $283K,283497,,https://www.sec.gov/Archives/edgar/data/1585724/000195917326007038/0001959173-26-007038-index.htm,LOW
