@@ -2940,3 +2940,10 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-18T20:44:51+00:00,FORM_144,,DORIAN LPG LTD.,proposed sale $1.45M,1447750,,https://www.sec.gov/Archives/edgar/data/1596993/000091957426006397/0000919574-26-006397-index.htm,LOW
 2026-09-18T20:44:51+00:00,FORM_144,,"Abacus Global Management, Inc.",proposed sale $4.54M,4535000,,https://www.sec.gov/Archives/edgar/data/1984139/000196858226000994/0001968582-26-000994-index.htm,LOW
 2026-09-18T20:44:52+00:00,FORM_144,,"Patterson-UTI Energy, Inc.",proposed sale $3.01M,3007500,,https://www.sec.gov/Archives/edgar/data/1546374/000196858226000993/0001968582-26-000993-index.htm,LOW
+2026-09-18T20:53:09+00:00,FORM_144,,"Smartbird, Inc.",proposed sale $118K,117795,,https://www.sec.gov/Archives/edgar/data/1653909/000196858226000995/0001968582-26-000995-index.htm,LOW
+2026-09-18T20:53:09+00:00,FORM_144,,"KORSANA BIOSCIENCES, INC.",proposed sale $75K,74843,,https://www.sec.gov/Archives/edgar/data/1755237/000195004726009679/0001950047-26-009679-index.htm,LOW
+2026-09-18T20:53:10+00:00,FORM_144,,"Expensify, Inc.",proposed sale $6K,6112,,https://www.sec.gov/Archives/edgar/data/1892682/000189268226000031/0001892682-26-000031-index.htm,LOW
+2026-09-18T20:53:10+00:00,FORM_144,,"Expensify, Inc.",proposed sale $16K,16132,,https://www.sec.gov/Archives/edgar/data/1891197/000189119726000016/0001891197-26-000016-index.htm,LOW
+2026-09-18T20:53:10+00:00,FORM_144,,"Expensify, Inc.",proposed sale $8K,7733,,https://www.sec.gov/Archives/edgar/data/1891061/000189106126000019/0001891061-26-000019-index.htm,LOW
+2026-09-18T20:53:11+00:00,FORM_144,,"Expensify, Inc.",proposed sale $15K,14624,,https://www.sec.gov/Archives/edgar/data/1891862/000189186226000018/0001891862-26-000018-index.htm,LOW
+2026-09-18T20:53:11+00:00,FORM_144,,"Expensify, Inc.",proposed sale $23K,23457,,https://www.sec.gov/Archives/edgar/data/2104456/000210445626000025/0002104456-26-000025-index.htm,LOW
