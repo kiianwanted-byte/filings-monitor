@@ -2897,3 +2897,10 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-18T18:41:31+00:00,FORM_144,,IBEX Ltd,proposed sale $60K,60436,,https://www.sec.gov/Archives/edgar/data/1973685/000197368526000008/0001973685-26-000008-index.htm,LOW
 2026-09-18T18:41:31+00:00,FORM_144,,Star Bulk Carriers Corp.,proposed sale $316K,315500,,https://www.sec.gov/Archives/edgar/data/1624829/000195917326007041/0001959173-26-007041-index.htm,LOW
 2026-09-18T19:41:38+00:00,FORM_144,,"Esquire Financial Holdings, Inc.",proposed sale $127K,127303,,https://www.sec.gov/Archives/edgar/data/1709867/000170986726000001/0001709867-26-000001-index.htm,LOW
+2026-09-18T20:10:01+00:00,FORM_144,,Snowflake Inc.,proposed sale $65.89M,65888271,,https://www.sec.gov/Archives/edgar/data/1640147/000195917326007042/0001959173-26-007042-index.htm,LOW
+2026-09-18T20:10:01+00:00,FORM_144,,Ethos Technologies Inc.,proposed sale $860K,859862,,https://www.sec.gov/Archives/edgar/data/2089362/000192109426001036/0001921094-26-001036-index.htm,LOW
+2026-09-18T20:10:02+00:00,FORM_144,,METLIFE INC,proposed sale $26K,25895,,https://www.sec.gov/Archives/edgar/data/2027739/000162828026062719/0001628280-26-062719-index.htm,LOW
+2026-09-18T20:10:02+00:00,FORM_144,,"Dynatrace, Inc.",proposed sale $2.86M,2860500,,https://www.sec.gov/Archives/edgar/data/1783507/000196922326001033/0001969223-26-001033-index.htm,LOW
+2026-09-18T20:10:02+00:00,FORM_144,,"Smartbird, Inc.",proposed sale $45K,44797,,https://www.sec.gov/Archives/edgar/data/1971623/000192109426001035/0001921094-26-001035-index.htm,LOW
+2026-09-18T20:10:03+00:00,FORM_144,,Blackstone Inc.,proposed sale $12.38M,12379954,,https://www.sec.gov/Archives/edgar/data/1574706/000196430626000451/0001964306-26-000451-index.htm,LOW
+2026-09-18T20:10:03+00:00,FORM_144,,"Oscar Health, Inc.",proposed sale $806K,806000,,https://www.sec.gov/Archives/edgar/data/1568651/000196430626000450/0001964306-26-000450-index.htm,LOW
