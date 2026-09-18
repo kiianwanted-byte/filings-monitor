@@ -2904,3 +2904,29 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-18T20:10:02+00:00,FORM_144,,"Smartbird, Inc.",proposed sale $45K,44797,,https://www.sec.gov/Archives/edgar/data/1971623/000192109426001035/0001921094-26-001035-index.htm,LOW
 2026-09-18T20:10:03+00:00,FORM_144,,Blackstone Inc.,proposed sale $12.38M,12379954,,https://www.sec.gov/Archives/edgar/data/1574706/000196430626000451/0001964306-26-000451-index.htm,LOW
 2026-09-18T20:10:03+00:00,FORM_144,,"Oscar Health, Inc.",proposed sale $806K,806000,,https://www.sec.gov/Archives/edgar/data/1568651/000196430626000450/0001964306-26-000450-index.htm,LOW
+2026-09-18T20:23:35+00:00,FORM_144,,OKTA INC,proposed sale $468K,467829,,https://www.sec.gov/Archives/edgar/data/1968125/000195004726009674/0001950047-26-009674-index.htm,LOW
+2026-09-18T20:23:35+00:00,FORM_144,,GITLAB INC.,proposed sale $147K,147492,,https://www.sec.gov/Archives/edgar/data/2087405/000195004726009673/0001950047-26-009673-index.htm,LOW
+2026-09-18T20:23:35+00:00,FORM_144,,"Heartflow, Inc.",proposed sale $851K,850926,,https://www.sec.gov/Archives/edgar/data/2079946/000195917326007044/0001959173-26-007044-index.htm,LOW
+2026-09-18T20:23:36+00:00,FORM_144,,SYNAPTICS INCORPORATED,proposed sale $6K,5740,,https://www.sec.gov/Archives/edgar/data/2014632/000195004726009672/0001950047-26-009672-index.htm,LOW
+2026-09-18T20:23:36+00:00,FORM_144,,METLIFE INC,proposed sale $22K,21806,,https://www.sec.gov/Archives/edgar/data/1099219/000162828026062735/0001628280-26-062735-index.htm,LOW
+2026-09-18T20:23:36+00:00,FORM_144,,LuxExperience B.V.,proposed sale $715K,714905,,https://www.sec.gov/Archives/edgar/data/1986276/000195004726009671/0001950047-26-009671-index.htm,LOW
+2026-09-18T20:23:37+00:00,FORM_144,,"HARMONY BIOSCIENCES HOLDINGS, INC.",proposed sale $1.53M,1532314,,https://www.sec.gov/Archives/edgar/data/2009762/000195004726009670/0001950047-26-009670-index.htm,LOW
+2026-09-18T20:23:37+00:00,FORM_144,,HERITAGE INSURANCE HOLDINGS INC,proposed sale $124K,123970,,https://www.sec.gov/Archives/edgar/data/1598665/000195004726009669/0001950047-26-009669-index.htm,LOW
+2026-09-18T20:23:38+00:00,FORM_144,,OKTA INC,proposed sale $1.22M,1215177,,https://www.sec.gov/Archives/edgar/data/2053652/000195004726009668/0001950047-26-009668-index.htm,LOW
+2026-09-18T20:23:38+00:00,FORM_144,,"AMBARELLA, INC.",proposed sale $127K,126861,,https://www.sec.gov/Archives/edgar/data/2009866/000195004726009667/0001950047-26-009667-index.htm,LOW
+2026-09-18T20:23:38+00:00,FORM_144,,"WORKDAY, INC.",proposed sale $18.75M,18750055,,https://www.sec.gov/Archives/edgar/data/1327811/000195004726009666/0001950047-26-009666-index.htm,LOW
+2026-09-18T20:23:39+00:00,FORM_144,,Pagaya Technologies Ltd.,proposed sale $175K,174842,,https://www.sec.gov/Archives/edgar/data/1970282/000195004726009665/0001950047-26-009665-index.htm,LOW
+2026-09-18T20:23:39+00:00,FORM_144,,"Revolution Medicines, Inc.",proposed sale $347K,347402,,https://www.sec.gov/Archives/edgar/data/2124509/000195004726009664/0001950047-26-009664-index.htm,LOW
+2026-09-18T20:23:39+00:00,FORM_144,,SYNAPTICS INCORPORATED,proposed sale $30K,30434,,https://www.sec.gov/Archives/edgar/data/1213272/000195004726009663/0001950047-26-009663-index.htm,LOW
+2026-09-18T20:23:40+00:00,FORM_144,,METLIFE INC,proposed sale $4K,4380,,https://www.sec.gov/Archives/edgar/data/1099219/000162828026062731/0001628280-26-062731-index.htm,LOW
+2026-09-18T20:23:40+00:00,FORM_144,,"Groupon, Inc.",proposed sale $318K,317554,,https://www.sec.gov/Archives/edgar/data/1973423/000195917326007043/0001959173-26-007043-index.htm,LOW
+2026-09-18T20:23:40+00:00,FORM_144,,"Intuitive Machines, Inc.",proposed sale $2.22M,2218500,,https://www.sec.gov/Archives/edgar/data/1963498/000196858226000989/0001968582-26-000989-index.htm,LOW
+2026-09-18T20:23:41+00:00,FORM_144,,METLIFE INC,proposed sale $2K,2433,,https://www.sec.gov/Archives/edgar/data/1099219/000162828026062728/0001628280-26-062728-index.htm,LOW
+2026-09-18T20:23:41+00:00,FORM_144,,SOUTHERN FIRST BANCSHARES INC,proposed sale $494K,494162,,https://www.sec.gov/Archives/edgar/data/1243366/000124336626000001/0001243366-26-000001-index.htm,LOW
+2026-09-18T20:23:41+00:00,FORM_144,,Shopify Inc.,proposed sale $198K,197953,,https://www.sec.gov/Archives/edgar/data/2093214/000159480526000058/0001594805-26-000058-index.htm,LOW
+2026-09-18T20:23:42+00:00,FORM_144,,"GUIDEWIRE SOFTWARE, INC.",proposed sale $1.42M,1417731,,https://www.sec.gov/Archives/edgar/data/1805719/000195004726009662/0001950047-26-009662-index.htm,LOW
+2026-09-18T20:23:42+00:00,FORM_144,,LUMENTUM HOLDINGS INC.,proposed sale $460K,460000,,https://www.sec.gov/Archives/edgar/data/1633978/000195004726009661/0001950047-26-009661-index.htm,LOW
+2026-09-18T20:23:42+00:00,FORM_144,,Shopify Inc.,proposed sale $678K,678481,,https://www.sec.gov/Archives/edgar/data/1962730/000159480526000057/0001594805-26-000057-index.htm,LOW
+2026-09-18T20:23:43+00:00,FORM_144,,UPWORK INC.,proposed sale $386K,386476,,https://www.sec.gov/Archives/edgar/data/1860481/000195004726009660/0001950047-26-009660-index.htm,LOW
+2026-09-18T20:23:43+00:00,FORM_144,,Shopify Inc.,proposed sale $1.44M,1438737,,https://www.sec.gov/Archives/edgar/data/1962731/000159480526000056/0001594805-26-000056-index.htm,LOW
+2026-09-18T20:23:44+00:00,FORM_144,,Samsara Inc.,proposed sale $31K,31123,,https://www.sec.gov/Archives/edgar/data/2074298/000192109426001037/0001921094-26-001037-index.htm,LOW
