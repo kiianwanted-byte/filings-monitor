@@ -716,3 +716,6 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-18T16:44:11+00:00,2026-09-15,BGDE,"Big Digital Energy, Inc.","Endeavor Blockchain, LLC",10% owner,1325,5.99,7936,5.1,0000912282-26-001279
 2026-09-18T20:23:23+00:00,2026-09-16,HDSN,HUDSON TECHNOLOGIES INC /NY,"Hartree Partners, LP",10% owner,11136,5.10,56793,0.2,0000921895-26-002585
 2026-09-18T20:23:25+00:00,2026-09-16,CRBG,"Corebridge Financial, Inc.",NIPPON LIFE INSURANCE CO,10% owner,320785,35.02,11232960,0.3,0001193125-26-395554
+2026-09-18T20:34:16+00:00,2026-09-18,TH,Target Hospitality Corp.,Schrenk Troy C.,Chief Commercial Officer,5907,21.16,124992,2.8,0001712189-26-000061
+2026-09-18T20:34:18+00:00,2026-09-16,TELA,"TELA Bio, Inc.",Capper Joseph H,Director,75000,1.18,88795,71.5,0001456817-26-000015
+2026-09-18T20:34:19+00:00,2026-09-16,GPUS,"Hyperscale Data, Inc.",Horne William B.,"Director, Chief Executive Officer",1000,18.00,18000,20.0,0001214659-26-011803

@@ -2930,3 +2930,10 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-18T20:23:43+00:00,FORM_144,,UPWORK INC.,proposed sale $386K,386476,,https://www.sec.gov/Archives/edgar/data/1860481/000195004726009660/0001950047-26-009660-index.htm,LOW
 2026-09-18T20:23:43+00:00,FORM_144,,Shopify Inc.,proposed sale $1.44M,1438737,,https://www.sec.gov/Archives/edgar/data/1962731/000159480526000056/0001594805-26-000056-index.htm,LOW
 2026-09-18T20:23:44+00:00,FORM_144,,Samsara Inc.,proposed sale $31K,31123,,https://www.sec.gov/Archives/edgar/data/2074298/000192109426001037/0001921094-26-001037-index.htm,LOW
+2026-09-18T20:34:19+00:00,INSIDER_CLUSTER,GPUS,"Hyperscale Data, Inc.",Horne William B. $18K,18000,2,https://www.sec.gov/Archives/edgar/data/1333268/000121465926011803/0001214659-26-011803-index.htm,HIGH
+2026-09-18T20:34:25+00:00,FORM_144,,"BLOCK, INC.",proposed sale $459K,459300,,https://www.sec.gov/Archives/edgar/data/1933928/000195004726009678/0001950047-26-009678-index.htm,LOW
+2026-09-18T20:34:26+00:00,FORM_144,,"GUIDEWIRE SOFTWARE, INC.",proposed sale $200K,200217,,https://www.sec.gov/Archives/edgar/data/1586253/000195004726009677/0001950047-26-009677-index.htm,LOW
+2026-09-18T20:34:26+00:00,FORM_144,,"Abacus Global Management, Inc.",proposed sale $4.54M,4535000,,https://www.sec.gov/Archives/edgar/data/1983263/000196858226000991/0001968582-26-000991-index.htm,LOW
+2026-09-18T20:34:26+00:00,FORM_144,,UPWORK INC.,proposed sale $79K,78897,,https://www.sec.gov/Archives/edgar/data/1975669/000195004726009676/0001950047-26-009676-index.htm,LOW
+2026-09-18T20:34:27+00:00,FORM_144,,"Abacus Global Management, Inc.",proposed sale $4.54M,4535000,,https://www.sec.gov/Archives/edgar/data/1982989/000196858226000990/0001968582-26-000990-index.htm,LOW
+2026-09-18T20:34:27+00:00,FORM_144,,UPWORK INC.,proposed sale $202K,201917,,https://www.sec.gov/Archives/edgar/data/1753662/000195004726009675/0001950047-26-009675-index.htm,LOW
