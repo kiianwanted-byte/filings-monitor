@@ -2880,3 +2880,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-18T12:47:42+00:00,INSIDER_CLUSTER,KRMN,Karman Holdings Inc.,Petryszyn Mary D $19K,18719,2,https://www.sec.gov/Archives/edgar/data/2040127/000119312526395097/0001193125-26-395097-index.htm,HIGH
 2026-09-18T12:47:43+00:00,INSIDER_CLUSTER,KRMN,Karman Holdings Inc.,Twitty Stephen $10K,10117,2,https://www.sec.gov/Archives/edgar/data/2054316/000119312526395095/0001193125-26-395095-index.htm,HIGH
 2026-09-18T12:47:44+00:00,FORM_144,,Stardust Power Inc.,proposed sale $8K,8334,,https://www.sec.gov/Archives/edgar/data/2027948/000197407826000359/0001974078-26-000359-index.htm,LOW
+2026-09-18T13:46:51+00:00,FORM_144,,Legence Corp.,proposed sale $58K,58200,,https://www.sec.gov/Archives/edgar/data/2082077/000195917326007036/0001959173-26-007036-index.htm,LOW
