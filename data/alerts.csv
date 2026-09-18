@@ -2867,3 +2867,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-18T00:14:44+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $124,123,,https://www.sec.gov/Archives/edgar/data/2152878/000215287826000002/0002152878-26-000002-index.htm,LOW
 2026-09-18T00:14:44+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $29,29,,https://www.sec.gov/Archives/edgar/data/2126751/000212675126000011/0002126751-26-000011-index.htm,LOW
 2026-09-18T00:59:29+00:00,FORM_144,,Kinetik Holdings Inc.,proposed sale $5.85M,5849885,,https://www.sec.gov/Archives/edgar/data/1904934/000090514826004216/0000905148-26-004216-index.htm,LOW
+2026-09-18T01:25:26+00:00,FORM_144,,"ServiceTitan, Inc.",proposed sale $180K,179656,,https://www.sec.gov/Archives/edgar/data/1908788/000163882626000100/0001638826-26-000100-index.htm,LOW
+2026-09-18T01:25:26+00:00,FORM_144,,"ServiceTitan, Inc.",proposed sale $1.33M,1326592,,https://www.sec.gov/Archives/edgar/data/2045642/000163882626000098/0001638826-26-000098-index.htm,LOW
+2026-09-18T01:25:27+00:00,FORM_144,,"ServiceTitan, Inc.",proposed sale $180K,179656,,https://www.sec.gov/Archives/edgar/data/1908757/000163882626000097/0001638826-26-000097-index.htm,LOW
