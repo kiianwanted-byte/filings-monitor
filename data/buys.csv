@@ -721,3 +721,5 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-18T20:34:19+00:00,2026-09-16,GPUS,"Hyperscale Data, Inc.",Horne William B.,"Director, Chief Executive Officer",1000,18.00,18000,20.0,0001214659-26-011803
 2026-09-18T20:53:05+00:00,2026-09-17,DLHC,DLH Holdings Corp.,Mink Brook Asset Management LLC,10% owner,520,3.94,2047,0.0,0001628280-26-062758
 2026-09-18T20:53:06+00:00,2026-09-17,AFCG,Advanced Flower Capital Inc.,TANNENBAUM LEONARD M,"Director, 10% owner",25000,3.50,87500,0.4,0001628280-26-062756
+2026-09-18T21:16:54+00:00,2026-09-17,NONE,5C Lending Partners Corp.,LIBERTY MUTUAL HOLDING Co INC.,10% owner,398774,24.48,9761987,10.5,0001193125-26-395720
+2026-09-18T21:17:09+00:00,2026-08-27,ELOG,Eastern International Ltd.,Wong Albert,"Director, Chief Executive Officer, 10% owner",200000,1.00,200000,NEW,0001493152-26-043376

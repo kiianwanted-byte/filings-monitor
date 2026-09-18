@@ -2947,3 +2947,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-18T20:53:10+00:00,FORM_144,,"Expensify, Inc.",proposed sale $8K,7733,,https://www.sec.gov/Archives/edgar/data/1891061/000189106126000019/0001891061-26-000019-index.htm,LOW
 2026-09-18T20:53:11+00:00,FORM_144,,"Expensify, Inc.",proposed sale $15K,14624,,https://www.sec.gov/Archives/edgar/data/1891862/000189186226000018/0001891862-26-000018-index.htm,LOW
 2026-09-18T20:53:11+00:00,FORM_144,,"Expensify, Inc.",proposed sale $23K,23457,,https://www.sec.gov/Archives/edgar/data/2104456/000210445626000025/0002104456-26-000025-index.htm,LOW
+2026-09-18T21:16:54+00:00,INSIDER_CLUSTER,NONE,5C Lending Partners Corp.,LIBERTY MUTUAL HOLDING Co INC. $9.76M,9761987,1,https://www.sec.gov/Archives/edgar/data/1142872/000119312526395720/0001193125-26-395720-index.htm,HIGH
+2026-09-18T21:17:12+00:00,FORM_144,,"ZipRecruiter, Inc.",proposed sale $91K,91408,,https://www.sec.gov/Archives/edgar/data/1859449/000195824426000620/0001958244-26-000620-index.htm,LOW
+2026-09-18T21:17:13+00:00,FORM_144,,"ZipRecruiter, Inc.",proposed sale $417K,417189,,https://www.sec.gov/Archives/edgar/data/1859448/000195824426000619/0001958244-26-000619-index.htm,LOW
+2026-09-18T21:17:13+00:00,FORM_144,,TEVA PHARMACEUTICAL INDUSTRIES LTD,proposed sale $14.41M,14406244,,https://www.sec.gov/Archives/edgar/data/1166309/000091957426006400/0000919574-26-006400-index.htm,LOW
+2026-09-18T21:17:13+00:00,FORM_144,,MOHAWK INDUSTRIES INC,proposed sale $100K,100495,,https://www.sec.gov/Archives/edgar/data/1271373/000001179026000037/0000011790-26-000037-index.htm,LOW
