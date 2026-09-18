@@ -98,13 +98,28 @@ def txt(el, name):
 
 
 def parse(xml_text):
+    # Accept bytes or str. Bytes are preferred: ElementTree then honours the
+    # encoding declared in the document itself.
+    if isinstance(xml_text, bytes):
+        xml_text = xml_text.lstrip(b"\xef\xbb\xbf")      # strip UTF-8 BOM
+    else:
+        # A BOM that was mis-decoded arrives as three literal characters, so
+        # lstrip of \ufeff alone will not clear it. Cut anything before the
+        # first "<" instead, which handles every variant.
+        cut = xml_text.find("<")
+        if 0 < cut <= 8:
+            xml_text = xml_text[cut:]
+        xml_text = xml_text.lstrip("\ufeff").lstrip()
+
     try:
         root = ET.fromstring(xml_text)
-    except ET.ParseError as e:
+    except (ET.ParseError, ValueError) as e:
         # A 200 that is not XML means the server sent something else, usually
         # a block page or a redirect. Show the head of the body so the cause
         # is visible instead of guessed at.
-        head = (xml_text or "")[:300].replace("\n", " ").strip()
+        raw = (xml_text.decode("utf-8", "replace")
+               if isinstance(xml_text, bytes) else (xml_text or ""))
+        head = raw[:300].replace("\n", " ").strip()
         log(f"halts: unparseable feed :: {e}")
         log(f"halts: body starts with: {head}")
         return None
@@ -260,8 +275,11 @@ def connectivity_test():
         return
 
     halts = parse(xml_text)
-    print(f"  OK. {len(halts)} items in feed "
-          f"({len(xml_text)} chars)")
+    if halts is None:
+        print("  FAILED to parse.")
+        print("\n=== END ===")
+        return
+    print(f"  OK. {len(halts)} items in feed ({len(xml_text)} bytes)")
 
     codes = {}
     for h in halts:
