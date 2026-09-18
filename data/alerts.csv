@@ -2886,3 +2886,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-18T14:22:05+00:00,FORM_144,,"Heartflow, Inc.",proposed sale $283K,283497,,https://www.sec.gov/Archives/edgar/data/1585724/000195917326007038/0001959173-26-007038-index.htm,LOW
 2026-09-18T14:33:40+00:00,INSIDER_CLUSTER,GAM,GENERAL AMERICAN INVESTORS CO INC,Jin Samantha X. $71K,71040,1,https://www.sec.gov/Archives/edgar/data/1764659/000004041726000048/0000040417-26-000048-index.htm,HIGH
 2026-09-18T14:33:46+00:00,FORM_144,,Blue Bird Corp,proposed sale $250K,249600,,https://www.sec.gov/Archives/edgar/data/2094766/000209476626000004/0002094766-26-000004-index.htm,LOW
+2026-09-18T15:22:00+00:00,FORM_144,,PLUG POWER INC,proposed sale $428K,428300,,https://www.sec.gov/Archives/edgar/data/2085249/000100027526000113/0001000275-26-000113-index.htm,LOW
+2026-09-18T15:22:01+00:00,FORM_144,,Adlai Nortye Group Ltd.,proposed sale $1.22M,1222400,,https://www.sec.gov/Archives/edgar/data/2129331/000212933126000004/0002129331-26-000004-index.htm,LOW
