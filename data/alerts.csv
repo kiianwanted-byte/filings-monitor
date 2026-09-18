@@ -2870,3 +2870,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-18T01:25:26+00:00,FORM_144,,"ServiceTitan, Inc.",proposed sale $180K,179656,,https://www.sec.gov/Archives/edgar/data/1908788/000163882626000100/0001638826-26-000100-index.htm,LOW
 2026-09-18T01:25:26+00:00,FORM_144,,"ServiceTitan, Inc.",proposed sale $1.33M,1326592,,https://www.sec.gov/Archives/edgar/data/2045642/000163882626000098/0001638826-26-000098-index.htm,LOW
 2026-09-18T01:25:27+00:00,FORM_144,,"ServiceTitan, Inc.",proposed sale $180K,179656,,https://www.sec.gov/Archives/edgar/data/1908757/000163882626000097/0001638826-26-000097-index.htm,LOW
+2026-09-18T01:35:17+00:00,INSIDER_CLUSTER,TENX,"TENAX THERAPEUTICS, INC.",Doogan Declan $102K,101760,1,https://www.sec.gov/Archives/edgar/data/1704234/000119312526394831/0001193125-26-394831-index.htm,HIGH
