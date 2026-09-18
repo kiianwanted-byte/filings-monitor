@@ -2896,3 +2896,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-18T17:32:37+00:00,FORM_144,,"MARA Holdings, Inc.",proposed sale $101K,100868,,https://www.sec.gov/Archives/edgar/data/1837940/000195779926000177/0001957799-26-000177-index.htm,LOW
 2026-09-18T18:41:31+00:00,FORM_144,,IBEX Ltd,proposed sale $60K,60436,,https://www.sec.gov/Archives/edgar/data/1973685/000197368526000008/0001973685-26-000008-index.htm,LOW
 2026-09-18T18:41:31+00:00,FORM_144,,Star Bulk Carriers Corp.,proposed sale $316K,315500,,https://www.sec.gov/Archives/edgar/data/1624829/000195917326007041/0001959173-26-007041-index.htm,LOW
+2026-09-18T19:41:38+00:00,FORM_144,,"Esquire Financial Holdings, Inc.",proposed sale $127K,127303,,https://www.sec.gov/Archives/edgar/data/1709867/000170986726000001/0001709867-26-000001-index.htm,LOW
