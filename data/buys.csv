@@ -699,3 +699,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-17T22:53:10+00:00,2026-09-15,XBP,"XBP Global Holdings, Inc.",CHADHA PAR,Director,204946,2.83,579997,NEW,0001104659-26-108653
 2026-09-17T22:53:12+00:00,2026-09-15,XBP,"XBP Global Holdings, Inc.",Avramovic Dejan,Chief Financial Officer,8833,2.83,24997,10.4,0001104659-26-108652
 2026-09-18T01:35:17+00:00,2026-09-16,TENX,"TENAX THERAPEUTICS, INC.",Doogan Declan,Director,53000,1.92,101760,2330.7,0001193125-26-394831
+2026-09-18T10:52:52+00:00,2026-09-16,BZUN,Baozun Inc.,Qiu Wenbin,"Director, Chief Executive Officer",14400,2.79,40166,0.9,0001104659-26-108719
