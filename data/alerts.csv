@@ -2937,3 +2937,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-18T20:34:26+00:00,FORM_144,,UPWORK INC.,proposed sale $79K,78897,,https://www.sec.gov/Archives/edgar/data/1975669/000195004726009676/0001950047-26-009676-index.htm,LOW
 2026-09-18T20:34:27+00:00,FORM_144,,"Abacus Global Management, Inc.",proposed sale $4.54M,4535000,,https://www.sec.gov/Archives/edgar/data/1982989/000196858226000990/0001968582-26-000990-index.htm,LOW
 2026-09-18T20:34:27+00:00,FORM_144,,UPWORK INC.,proposed sale $202K,201917,,https://www.sec.gov/Archives/edgar/data/1753662/000195004726009675/0001950047-26-009675-index.htm,LOW
+2026-09-18T20:44:51+00:00,FORM_144,,DORIAN LPG LTD.,proposed sale $1.45M,1447750,,https://www.sec.gov/Archives/edgar/data/1596993/000091957426006397/0000919574-26-006397-index.htm,LOW
+2026-09-18T20:44:51+00:00,FORM_144,,"Abacus Global Management, Inc.",proposed sale $4.54M,4535000,,https://www.sec.gov/Archives/edgar/data/1984139/000196858226000994/0001968582-26-000994-index.htm,LOW
+2026-09-18T20:44:52+00:00,FORM_144,,"Patterson-UTI Energy, Inc.",proposed sale $3.01M,3007500,,https://www.sec.gov/Archives/edgar/data/1546374/000196858226000993/0001968582-26-000993-index.htm,LOW
