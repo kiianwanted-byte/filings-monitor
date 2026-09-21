@@ -738,3 +738,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-21T11:18:25+00:00,2026-09-18,EU,enCore Energy Corp.,SHERIFF WILLIAM M,"Director, Executive Chairman",125000,0.81,101250,NEW,0001193125-26-396060
 2026-09-21T12:06:16+00:00,2026-09-16,HLEO,Helio Corp /FL/,Knauf Mark Harry,Chief Financial Officer,16246,1.49,24134,NEW,0001683168-26-007242
 2026-09-21T12:51:25+00:00,2026-09-17,CBKM,CONSUMERS BANCORP INC /OH/,Lober Ralph J II,"Director, CEO & President",70,32.59,2281,0.1,0001437749-26-030775
+2026-09-21T13:52:49+00:00,2026-09-17,GF,NEW GERMANY FUND INC,"Saba Capital Management, L.P.",10% owner,15443,10.84,167445,0.4,0001510281-26-000307
