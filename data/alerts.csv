@@ -3008,3 +3008,40 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-21T20:28:46+00:00,FORM_144,,BRISTOW GROUP INC.,proposed sale $42K,41540,,https://www.sec.gov/Archives/edgar/data/1792626/000195004726009697/0001950047-26-009697-index.htm,LOW
 2026-09-21T20:39:21+00:00,INSIDER_CLUSTER,SKIL,Skillsoft Corp.,HOVSEPIAN RONALD W $100K,99865,4,https://www.sec.gov/Archives/edgar/data/1774675/000109148226000015/0001091482-26-000015-index.htm,HIGH
 2026-09-21T20:39:28+00:00,INSIDER_CLUSTER,GPUS,"Hyperscale Data, Inc.",AULT MILTON C III $7K,6842,4,https://www.sec.gov/Archives/edgar/data/1734770/000121465926011836/0001214659-26-011836-index.htm,HIGH
+2026-09-21T20:48:11+00:00,INSIDER_BUY,GSAT,"Globalstar, Inc.",Monroe James III $29.84M,29839232,3,https://www.sec.gov/Archives/edgar/data/1379664/000137966426000002/0001379664-26-000002-index.htm,MEDIUM
+2026-09-21T20:48:24+00:00,FORM_144,,Qualcomm,proposed sale $1.95M,1950000,,https://www.sec.gov/Archives/edgar/data/1559665/000162828026062919/0001628280-26-062919-index.htm,LOW
+2026-09-21T20:48:24+00:00,FORM_144,,"Nextdoor Holdings, Inc.",proposed sale $100K,99600,,https://www.sec.gov/Archives/edgar/data/2083093/000195004726009723/0001950047-26-009723-index.htm,LOW
+2026-09-21T20:48:25+00:00,FORM_144,,Structure Therapeutics Inc.,proposed sale $140K,140280,,https://www.sec.gov/Archives/edgar/data/2037144/000195004726009722/0001950047-26-009722-index.htm,LOW
+2026-09-21T20:48:25+00:00,FORM_144,,"Datadog, Inc.",proposed sale $690K,689760,,https://www.sec.gov/Archives/edgar/data/1561550/000195004726009721/0001950047-26-009721-index.htm,LOW
+2026-09-21T20:48:26+00:00,FORM_144,,"Datadog, Inc.",proposed sale $690K,689760,,https://www.sec.gov/Archives/edgar/data/1561550/000195004726009720/0001950047-26-009720-index.htm,LOW
+2026-09-21T20:48:26+00:00,FORM_144,,Kanzhun Limited,proposed sale $88.31M,88308640,,https://www.sec.gov/Archives/edgar/data/1982580/000110465926109340/0001104659-26-109340-index.htm,LOW
+2026-09-21T20:48:26+00:00,FORM_144,,"Datadog, Inc.",proposed sale $2.30M,2299200,,https://www.sec.gov/Archives/edgar/data/1561550/000195004726009719/0001950047-26-009719-index.htm,LOW
+2026-09-21T20:48:27+00:00,FORM_144,,SEAGATE TECHNOLOGY HOLDINGS PUBLIC LIMITED COMPANY,proposed sale $12.75M,12752172,,https://www.sec.gov/Archives/edgar/data/1988271/000195004726009718/0001950047-26-009718-index.htm,LOW
+2026-09-21T20:48:27+00:00,FORM_144,,"GRAIL, Inc.",proposed sale $5.77M,5771178,,https://www.sec.gov/Archives/edgar/data/1822088/000195004726009717/0001950047-26-009717-index.htm,LOW
+2026-09-21T20:48:28+00:00,FORM_144,,"ZSCALER, INC.",proposed sale $1.06M,1064290,,https://www.sec.gov/Archives/edgar/data/1713683/000195004726009716/0001950047-26-009716-index.htm,LOW
+2026-09-21T20:48:28+00:00,FORM_144,,"Meta Platforms, Inc.",proposed sale $1.07M,1071425,,https://www.sec.gov/Archives/edgar/data/1564475/000192109426001042/0001921094-26-001042-index.htm,LOW
+2026-09-21T20:48:28+00:00,FORM_144,,"KRATOS DEFENSE & SECURITY SOLUTIONS, INC.",proposed sale $977K,976916,,https://www.sec.gov/Archives/edgar/data/1094718/000195004726009715/0001950047-26-009715-index.htm,LOW
+2026-09-21T20:48:29+00:00,FORM_144,,"Duolingo, Inc.",proposed sale $4.97M,4965364,,https://www.sec.gov/Archives/edgar/data/1966358/000195004726009714/0001950047-26-009714-index.htm,LOW
+2026-09-21T20:48:29+00:00,FORM_144,,"INDIE SEMICONDUCTOR, INC.",proposed sale $12K,11512,,https://www.sec.gov/Archives/edgar/data/2095553/000195004726009713/0001950047-26-009713-index.htm,LOW
+2026-09-21T20:48:29+00:00,FORM_144,,"Duolingo, Inc.",proposed sale $5.30M,5302235,,https://www.sec.gov/Archives/edgar/data/1829259/000195004726009712/0001950047-26-009712-index.htm,LOW
+2026-09-21T20:48:30+00:00,FORM_144,,"VERACYTE, INC.",proposed sale $160K,159776,,https://www.sec.gov/Archives/edgar/data/1991536/000195004726009711/0001950047-26-009711-index.htm,LOW
+2026-09-21T20:48:30+00:00,FORM_144,,SOPHIA GENETICS SA,proposed sale $6K,6339,,https://www.sec.gov/Archives/edgar/data/1840706/000195004726009710/0001950047-26-009710-index.htm,LOW
+2026-09-21T20:48:31+00:00,FORM_144,,JOBY AVIATION INC,proposed sale $38K,37564,,https://www.sec.gov/Archives/edgar/data/1877894/000195004726009709/0001950047-26-009709-index.htm,LOW
+2026-09-21T20:48:31+00:00,FORM_144,,"Palomar Holdings, Inc.",proposed sale $476K,476000,,https://www.sec.gov/Archives/edgar/data/1772383/000195004726009708/0001950047-26-009708-index.htm,LOW
+2026-09-21T20:48:31+00:00,FORM_144,,"Everpure, Inc.",proposed sale $10.41M,10414000,,https://www.sec.gov/Archives/edgar/data/1651902/000195004726009707/0001950047-26-009707-index.htm,LOW
+2026-09-21T20:48:32+00:00,FORM_144,,"CIRRUS LOGIC, INC.",proposed sale $416K,415632,,https://www.sec.gov/Archives/edgar/data/1777830/000195004726009706/0001950047-26-009706-index.htm,LOW
+2026-09-21T20:48:32+00:00,FORM_144,,BLACKSKY TECHNOLOGY INC,proposed sale $390K,390060,,https://www.sec.gov/Archives/edgar/data/1753539/000195004726009705/0001950047-26-009705-index.htm,LOW
+2026-09-21T20:48:32+00:00,FORM_144,,Kanzhun Ltd,proposed sale $3.09M,3085440,,https://www.sec.gov/Archives/edgar/data/1982580/000110465926109326/0001104659-26-109326-index.htm,LOW
+2026-09-21T20:48:33+00:00,FORM_144,,"AELUMA, INC",proposed sale $1.27M,1272500,,https://www.sec.gov/Archives/edgar/data/1869626/000195004726009704/0001950047-26-009704-index.htm,LOW
+2026-09-21T20:48:33+00:00,FORM_144,,"Hinge Health, Inc.",proposed sale $3.13M,3131700,,https://www.sec.gov/Archives/edgar/data/1783108/000195004726009703/0001950047-26-009703-index.htm,LOW
+2026-09-21T20:48:34+00:00,FORM_144,,"Robinhood Markets, Inc.",proposed sale $31.05M,31053270,,https://www.sec.gov/Archives/edgar/data/1871006/000195004726009702/0001950047-26-009702-index.htm,LOW
+2026-09-21T20:48:34+00:00,FORM_144,,"Oruka Therapeutics, Inc.",proposed sale $51K,50613,,https://www.sec.gov/Archives/edgar/data/2033974/000195004726009701/0001950047-26-009701-index.htm,LOW
+2026-09-21T20:48:34+00:00,FORM_144,,SOPHIA GENETICS SA,proposed sale $3K,3456,,https://www.sec.gov/Archives/edgar/data/2005463/000195004726009700/0001950047-26-009700-index.htm,LOW
+2026-09-21T20:48:35+00:00,FORM_144,,CLARITEV CORPORATION,proposed sale $278K,278060,,https://www.sec.gov/Archives/edgar/data/2032799/000195004726009699/0001950047-26-009699-index.htm,LOW
+2026-09-21T20:48:35+00:00,FORM_144,,"ZIPRECRUITER, INC.",proposed sale $29K,28996,,https://www.sec.gov/Archives/edgar/data/1861460/000195004726009698/0001950047-26-009698-index.htm,LOW
+2026-09-21T20:48:35+00:00,FORM_144,,"NWPX Infrastructure, Inc.",proposed sale $102K,102309,,https://www.sec.gov/Archives/edgar/data/1401658/000195917326007064/0001959173-26-007064-index.htm,LOW
+2026-09-21T20:48:36+00:00,FORM_144,,"Life360, Inc.",proposed sale $2.04M,2044284,,https://www.sec.gov/Archives/edgar/data/1932626/000195917326007063/0001959173-26-007063-index.htm,LOW
+2026-09-21T20:48:36+00:00,FORM_144,,"Stitch Fix, Inc.",proposed sale $116K,115609,,https://www.sec.gov/Archives/edgar/data/2004694/000192109426001041/0001921094-26-001041-index.htm,LOW
+2026-09-21T20:48:37+00:00,FORM_144,,Interface Inc.,proposed sale $136K,136213,,https://www.sec.gov/Archives/edgar/data/1094629/000162828026062901/0001628280-26-062901-index.htm,LOW
+2026-09-21T20:48:37+00:00,FORM_144,,NVIDIA CORP,proposed sale $6.79M,6786532,,https://www.sec.gov/Archives/edgar/data/1696841/000192109426001040/0001921094-26-001040-index.htm,LOW
+2026-09-21T20:48:38+00:00,FORM_144,,"Groupon, Inc.",proposed sale $526K,526213,,https://www.sec.gov/Archives/edgar/data/1973423/000195917326007062/0001959173-26-007062-index.htm,LOW
