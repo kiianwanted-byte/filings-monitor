@@ -2962,3 +2962,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-21T12:51:25+00:00,INSIDER_CLUSTER,CBKM,CONSUMERS BANCORP INC /OH/,Lober Ralph J II $2K,2281,4,https://www.sec.gov/Archives/edgar/data/1401124/000143774926030775/0001437749-26-030775-index.htm,HIGH
 2026-09-21T13:14:28+00:00,FORM_144,,STAR BULK CARRIERS CORP,proposed sale $114K,113680,,https://www.sec.gov/Archives/edgar/data/2117770/000211777026000004/0002117770-26-000004-index.htm,LOW
 2026-09-21T14:54:59+00:00,FORM_144,,"REVVITY, INC.",proposed sale $236K,235728,,https://www.sec.gov/Archives/edgar/data/1943549/000195917326007045/0001959173-26-007045-index.htm,LOW
+2026-09-21T15:19:15+00:00,FORM_144,,"Phreesia, Inc.",proposed sale $67K,67152,,https://www.sec.gov/Archives/edgar/data/1564521/000195917326007046/0001959173-26-007046-index.htm,LOW
