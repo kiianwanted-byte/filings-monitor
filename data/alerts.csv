@@ -3063,3 +3063,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-21T22:28:42+00:00,INSIDER_BUY,CRM,"Salesforce, Inc.",Kirk David Blair $999K,999450,3,https://www.sec.gov/Archives/edgar/data/2077892/000110852426000212/0001108524-26-000212-index.htm,MEDIUM
 2026-09-21T22:28:45+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $2.72M,2719871,,https://www.sec.gov/Archives/edgar/data/1571996/000119312526396929/0001193125-26-396929-index.htm,LOW
 2026-09-21T22:28:45+00:00,FORM_144,,Telos Corporation,proposed sale $387K,387030,,https://www.sec.gov/Archives/edgar/data/1356849/000135684926000015/0001356849-26-000015-index.htm,LOW
+2026-09-21T22:40:34+00:00,FORM_144,,"Amphastar Pharmaceuticals, Inc.",proposed sale $103K,103475,,https://www.sec.gov/Archives/edgar/data/1297184/000196922326001034/0001969223-26-001034-index.htm,LOW
+2026-09-21T22:40:34+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $355K,355037,,https://www.sec.gov/Archives/edgar/data/1972002/000119312526396939/0001193125-26-396939-index.htm,LOW
+2026-09-21T22:40:35+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $1.05M,1050911,,https://www.sec.gov/Archives/edgar/data/1972001/000119312526396937/0001193125-26-396937-index.htm,LOW
+2026-09-21T22:40:35+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $358K,357877,,https://www.sec.gov/Archives/edgar/data/1972013/000119312526396933/0001193125-26-396933-index.htm,LOW
+2026-09-21T22:40:35+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $57K,57374,,https://www.sec.gov/Archives/edgar/data/1571996/000119312526396931/0001193125-26-396931-index.htm,LOW
