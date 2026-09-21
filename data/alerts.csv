@@ -3060,3 +3060,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-21T22:15:47+00:00,INSIDER_CLUSTER,BOLT,"Bolt Biotherapeutics, Inc.",Quinn William P. $2K,2469,108,https://www.sec.gov/Archives/edgar/data/1724190/000119312526396890/0001193125-26-396890-index.htm,HIGH
 2026-09-21T22:15:54+00:00,FORM_144,,"Crowdstrike Holdings, Inc.",proposed sale $17.71M,17708490,,https://www.sec.gov/Archives/edgar/data/1778564/000196858226000999/0001968582-26-000999-index.htm,LOW
 2026-09-21T22:15:54+00:00,FORM_144,,Lightspeed Commerce Inc.,proposed sale $146K,145942,,https://www.sec.gov/Archives/edgar/data/2137087/000213708726000001/0002137087-26-000001-index.htm,LOW
+2026-09-21T22:28:42+00:00,INSIDER_BUY,CRM,"Salesforce, Inc.",Kirk David Blair $999K,999450,3,https://www.sec.gov/Archives/edgar/data/2077892/000110852426000212/0001108524-26-000212-index.htm,MEDIUM
+2026-09-21T22:28:45+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $2.72M,2719871,,https://www.sec.gov/Archives/edgar/data/1571996/000119312526396929/0001193125-26-396929-index.htm,LOW
+2026-09-21T22:28:45+00:00,FORM_144,,Telos Corporation,proposed sale $387K,387030,,https://www.sec.gov/Archives/edgar/data/1356849/000135684926000015/0001356849-26-000015-index.htm,LOW
