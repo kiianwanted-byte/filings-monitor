@@ -2967,3 +2967,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-21T15:54:25+00:00,FORM_144,,ARM HOLDINGS PLC /UK,proposed sale $3.12M,3120000,,https://www.sec.gov/Archives/edgar/data/1973239/000195917326007048/0001959173-26-007048-index.htm,LOW
 2026-09-21T16:20:44+00:00,FORM_144,,Archer Aviation Inc.,proposed sale $246K,246299,,https://www.sec.gov/Archives/edgar/data/1870608/000195917326007050/0001959173-26-007050-index.htm,LOW
 2026-09-21T16:20:45+00:00,FORM_144,,"SoFi Technologies, Inc.",proposed sale $326K,325920,,https://www.sec.gov/Archives/edgar/data/1934200/000195917326007049/0001959173-26-007049-index.htm,LOW
+2026-09-21T16:33:23+00:00,FORM_144,,ALAMO GROUP INC,proposed sale $242K,241696,,https://www.sec.gov/Archives/edgar/data/1546251/000195917326007051/0001959173-26-007051-index.htm,LOW
+2026-09-21T16:33:24+00:00,FORM_144,,Innovative Eyewear Inc,proposed sale $3K,3376,,https://www.sec.gov/Archives/edgar/data/2008020/000197407826000360/0001974078-26-000360-index.htm,LOW
