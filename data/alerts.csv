@@ -3070,3 +3070,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-21T22:40:35+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $57K,57374,,https://www.sec.gov/Archives/edgar/data/1571996/000119312526396931/0001193125-26-396931-index.htm,LOW
 2026-09-21T22:49:41+00:00,FORM_144,,"Globalstar, Inc.",proposed sale $140K,140363,,https://www.sec.gov/Archives/edgar/data/1496862/000149686226000010/0001496862-26-000010-index.htm,LOW
 2026-09-21T22:49:41+00:00,FORM_144,,Repay Holdings Corp,proposed sale $44K,44448,,https://www.sec.gov/Archives/edgar/data/1787173/000196530126000146/0001965301-26-000146-index.htm,LOW
+2026-09-21T23:44:37+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $219K,219095,,https://www.sec.gov/Archives/edgar/data/2126751/000212675126000012/0002126751-26-000012-index.htm,LOW
+2026-09-21T23:44:38+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $657K,656698,,https://www.sec.gov/Archives/edgar/data/2126752/000212675226000023/0002126752-26-000023-index.htm,LOW
+2026-09-21T23:44:38+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $300K,299828,,https://www.sec.gov/Archives/edgar/data/2126755/000212675526000016/0002126755-26-000016-index.htm,LOW
+2026-09-21T23:44:39+00:00,FORM_144,,Kinetik Holdings Inc.,proposed sale $1.15M,1145245,,https://www.sec.gov/Archives/edgar/data/1904934/000090514826004245/0000905148-26-004245-index.htm,LOW
