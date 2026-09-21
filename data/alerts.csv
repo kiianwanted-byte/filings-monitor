@@ -2974,3 +2974,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-21T17:29:51+00:00,FORM_144,,ATI INC,proposed sale $1.73M,1726380,,https://www.sec.gov/Archives/edgar/data/1776844/000195917326007054/0001959173-26-007054-index.htm,LOW
 2026-09-21T17:58:40+00:00,FORM_144,,GigaCloud Technology Inc,proposed sale $2.84M,2842483,,https://www.sec.gov/Archives/edgar/data/2045034/000194984626000592/0001949846-26-000592-index.htm,LOW
 2026-09-21T18:47:38+00:00,FORM_144,,PEAPACK GLADSTONE FINANCIAL CORP,proposed sale $104K,104109,,https://www.sec.gov/Archives/edgar/data/1786533/000195917326007055/0001959173-26-007055-index.htm,LOW
+2026-09-21T18:57:47+00:00,FORM_144,,"Keysight Technologies, Inc.",proposed sale $682K,681570,,https://www.sec.gov/Archives/edgar/data/1621383/000195917326007056/0001959173-26-007056-index.htm,LOW
