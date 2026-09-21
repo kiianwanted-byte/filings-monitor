@@ -3045,3 +3045,10 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-21T20:48:37+00:00,FORM_144,,Interface Inc.,proposed sale $136K,136213,,https://www.sec.gov/Archives/edgar/data/1094629/000162828026062901/0001628280-26-062901-index.htm,LOW
 2026-09-21T20:48:37+00:00,FORM_144,,NVIDIA CORP,proposed sale $6.79M,6786532,,https://www.sec.gov/Archives/edgar/data/1696841/000192109426001040/0001921094-26-001040-index.htm,LOW
 2026-09-21T20:48:38+00:00,FORM_144,,"Groupon, Inc.",proposed sale $526K,526213,,https://www.sec.gov/Archives/edgar/data/1973423/000195917326007062/0001959173-26-007062-index.htm,LOW
+2026-09-21T21:07:10+00:00,INSIDER_CLUSTER,GME,GameStop Corp.,Cohen Ryan $26.39M,26393722,0,https://www.sec.gov/Archives/edgar/data/1767470/000092189526002608/0000921895-26-002608-index.htm,HIGH
+2026-09-21T21:07:13+00:00,INSIDER_CLUSTER,FBDT,"First Breach, Inc.",LEITH CHARLES KENNETH $45K,45330,3,https://www.sec.gov/Archives/edgar/data/2153915/000121390026101846/0001213900-26-101846-index.htm,HIGH
+2026-09-21T21:07:18+00:00,FORM_144,,Bullish,proposed sale $9.97M,9968400,,https://www.sec.gov/Archives/edgar/data/2043628/000196858226000996/0001968582-26-000996-index.htm,LOW
+2026-09-21T21:07:18+00:00,FORM_144,,Twist Bioscience Corp,proposed sale $279K,279183,,https://www.sec.gov/Archives/edgar/data/1753655/000195917326007067/0001959173-26-007067-index.htm,LOW
+2026-09-21T21:07:18+00:00,FORM_144,,Twist Bioscience Corp,proposed sale $49K,48654,,https://www.sec.gov/Archives/edgar/data/1753672/000195917326007066/0001959173-26-007066-index.htm,LOW
+2026-09-21T21:07:19+00:00,FORM_144,,Twist Bioscience Corp,proposed sale $58K,57591,,https://www.sec.gov/Archives/edgar/data/1883451/000195917326007065/0001959173-26-007065-index.htm,LOW
+2026-09-21T21:07:19+00:00,FORM_144,,"NETAPP, INC.",proposed sale $2.60M,2600161,,https://www.sec.gov/Archives/edgar/data/1586813/000195004726009724/0001950047-26-009724-index.htm,LOW
