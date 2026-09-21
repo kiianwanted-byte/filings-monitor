@@ -3006,3 +3006,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-21T20:28:45+00:00,FORM_144,,"Coinbase Global, Inc.",proposed sale $1.40M,1401790,,https://www.sec.gov/Archives/edgar/data/1679788/000197407826000361/0001974078-26-000361-index.htm,LOW
 2026-09-21T20:28:45+00:00,FORM_144,,MACROGENICS INC.,proposed sale $66K,65530,,https://www.sec.gov/Archives/edgar/data/1675464/000162828026062884/0001628280-26-062884-index.htm,LOW
 2026-09-21T20:28:46+00:00,FORM_144,,BRISTOW GROUP INC.,proposed sale $42K,41540,,https://www.sec.gov/Archives/edgar/data/1792626/000195004726009697/0001950047-26-009697-index.htm,LOW
+2026-09-21T20:39:21+00:00,INSIDER_CLUSTER,SKIL,Skillsoft Corp.,HOVSEPIAN RONALD W $100K,99865,4,https://www.sec.gov/Archives/edgar/data/1774675/000109148226000015/0001091482-26-000015-index.htm,HIGH
+2026-09-21T20:39:28+00:00,INSIDER_CLUSTER,GPUS,"Hyperscale Data, Inc.",AULT MILTON C III $7K,6842,4,https://www.sec.gov/Archives/edgar/data/1734770/000121465926011836/0001214659-26-011836-index.htm,HIGH
