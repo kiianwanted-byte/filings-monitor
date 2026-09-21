@@ -2819,3 +2819,5 @@ timestamp,chamber,member,ticker,asset,action,amount_low,amount_high,trade_date,f
 2026-09-18T17:42:34+00:00,House,Scott Scott Franklin,PEP,"Pepsico, Inc",BUY,1001,15000,2026-08-26,2026-09-17,22,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035450.pdf
 2026-09-18T17:42:36+00:00,House,David J. Taylor,IBP,"Installed Building Products, Inc",BUY,1001,15000,2026-09-08,2026-09-17,9,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035471.pdf
 2026-09-18T17:42:36+00:00,House,David J. Taylor,PG,Procter & Gamble Company,BUY,1001,15000,2026-09-08,2026-09-17,9,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035471.pdf
+2026-09-21T15:18:37+00:00,House,Pete Sessions,ABBV,AbbVie Inc. Common Stock,SELL,15001,50000,2026-09-14,2026-09-18,4,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035480.pdf
+2026-09-21T15:18:37+00:00,House,Pete Sessions,GOOGL,Alphabet Inc. - Class A Common,SELL,15001,50000,2026-09-14,2026-09-18,4,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035480.pdf
