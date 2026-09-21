@@ -2957,3 +2957,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-19T00:36:51+00:00,INSIDER_CLUSTER,RWT,REDWOOD TRUST INC,Abate Christopher J $384K,383900,3,https://www.sec.gov/Archives/edgar/data/1453409/000110465926109010/0001104659-26-109010-index.htm,HIGH
 2026-09-19T00:36:54+00:00,FORM_144,,Kinetik Holdings Inc.,proposed sale $7.23M,7226994,,https://www.sec.gov/Archives/edgar/data/1904934/000090514826004223/0000905148-26-004223-index.htm,LOW
 2026-09-21T10:44:21+00:00,FORM_144,,TEVA PHARMACEUTICAL INDUSTRIES LTD,proposed sale $273K,273062,,https://www.sec.gov/Archives/edgar/data/2112339/000197337926000342/0001973379-26-000342-index.htm,LOW
+2026-09-21T11:18:24+00:00,INSIDER_CLUSTER,BORR,Borr Drilling Ltd,Morand De Oliveira Bruno $200K,200200,3,https://www.sec.gov/Archives/edgar/data/2117088/000162828026062804/0001628280-26-062804-index.htm,HIGH
+2026-09-21T11:18:26+00:00,FORM_144,,TSAKOS ENERGY NAVIGATION LTD,proposed sale $530K,530013,,https://www.sec.gov/Archives/edgar/data/2120925/000212092526000002/0002120925-26-000002-index.htm,LOW
