@@ -2971,3 +2971,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-21T16:33:24+00:00,FORM_144,,Innovative Eyewear Inc,proposed sale $3K,3376,,https://www.sec.gov/Archives/edgar/data/2008020/000197407826000360/0001974078-26-000360-index.htm,LOW
 2026-09-21T16:46:04+00:00,FORM_144,,MERCURY SYSTEMS INC,proposed sale $87K,86520,,https://www.sec.gov/Archives/edgar/data/1289593/000195917326007052/0001959173-26-007052-index.htm,LOW
 2026-09-21T17:19:03+00:00,FORM_144,,"DigitalOcean Holdings, Inc.",proposed sale $1.60M,1595160,,https://www.sec.gov/Archives/edgar/data/1761862/000195917326007053/0001959173-26-007053-index.htm,LOW
+2026-09-21T17:29:51+00:00,FORM_144,,ATI INC,proposed sale $1.73M,1726380,,https://www.sec.gov/Archives/edgar/data/1776844/000195917326007054/0001959173-26-007054-index.htm,LOW
