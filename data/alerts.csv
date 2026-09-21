@@ -2979,3 +2979,19 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-21T19:09:56+00:00,FORM_144,,"BillionToOne, Inc.",proposed sale $151K,150959,,https://www.sec.gov/Archives/edgar/data/2087126/000195917326007058/0001959173-26-007058-index.htm,LOW
 2026-09-21T19:09:56+00:00,FORM_144,,"CrowdStrike Holdings, Inc.",proposed sale $8.07M,8070014,,https://www.sec.gov/Archives/edgar/data/1778610/000195917326007057/0001959173-26-007057-index.htm,LOW
 2026-09-21T19:22:58+00:00,FORM_144,,"Coinbase Global, Inc.",proposed sale $8.01M,8010631,,https://www.sec.gov/Archives/edgar/data/1679788/000162828026062867/0001628280-26-062867-index.htm,LOW
+2026-09-21T20:16:01+00:00,FORM_144,,"EQUITABLE HOLDINGS, INC.",proposed sale $151K,151093,,https://www.sec.gov/Archives/edgar/data/1333986/000195004726009696/0001950047-26-009696-index.htm,LOW
+2026-09-21T20:16:01+00:00,FORM_144,,"Verisk Analytics, Inc.",proposed sale $180K,179702,,https://www.sec.gov/Archives/edgar/data/1803783/000196430626000454/0001964306-26-000454-index.htm,LOW
+2026-09-21T20:16:02+00:00,FORM_144,,PHARVARIS N.V.,proposed sale $219K,218800,,https://www.sec.gov/Archives/edgar/data/1830487/000195004726009695/0001950047-26-009695-index.htm,LOW
+2026-09-21T20:16:02+00:00,FORM_144,,CREDO TECHNOLOGY GROUP HOLDING LTD,proposed sale $925K,925001,,https://www.sec.gov/Archives/edgar/data/1807794/000195004726009694/0001950047-26-009694-index.htm,LOW
+2026-09-21T20:16:02+00:00,FORM_144,,"Mineralys Therapeutics, Inc.",proposed sale $209K,209135,,https://www.sec.gov/Archives/edgar/data/1933414/000196430626000453/0001964306-26-000453-index.htm,LOW
+2026-09-21T20:16:03+00:00,FORM_144,,"COHU, INC.",proposed sale $3.35M,3347640,,https://www.sec.gov/Archives/edgar/data/1509513/000195004726009693/0001950047-26-009693-index.htm,LOW
+2026-09-21T20:16:03+00:00,FORM_144,,"VIASAT, INC.",proposed sale $308K,307646,,https://www.sec.gov/Archives/edgar/data/1832377/000195004726009692/0001950047-26-009692-index.htm,LOW
+2026-09-21T20:16:04+00:00,FORM_144,,"CG ONCOLOGY, INC.",proposed sale $2.34M,2340024,,https://www.sec.gov/Archives/edgar/data/2007090/000195004726009691/0001950047-26-009691-index.htm,LOW
+2026-09-21T20:16:04+00:00,FORM_144,,"BLOCK, INC.",proposed sale $465K,465240,,https://www.sec.gov/Archives/edgar/data/1933928/000195004726009690/0001950047-26-009690-index.htm,LOW
+2026-09-21T20:16:04+00:00,FORM_144,,"ZSCALER, INC.",proposed sale $132K,132200,,https://www.sec.gov/Archives/edgar/data/2040014/000195004726009689/0001950047-26-009689-index.htm,LOW
+2026-09-21T20:16:05+00:00,FORM_144,,"NETAPP, INC.",proposed sale $690K,690000,,https://www.sec.gov/Archives/edgar/data/1494732/000195004726009688/0001950047-26-009688-index.htm,LOW
+2026-09-21T20:16:05+00:00,FORM_144,,"GUIDEWIRE SOFTWARE, INC.",proposed sale $175K,175104,,https://www.sec.gov/Archives/edgar/data/1784996/000195004726009687/0001950047-26-009687-index.htm,LOW
+2026-09-21T20:16:06+00:00,FORM_144,,ANTERIX INC.,proposed sale $1.20M,1200000,,https://www.sec.gov/Archives/edgar/data/1571601/000195004726009685/0001950047-26-009685-index.htm,LOW
+2026-09-21T20:16:06+00:00,FORM_144,,LUMENTUM HOLDINGS INC.,proposed sale $480K,479635,,https://www.sec.gov/Archives/edgar/data/1633978/000195004726009684/0001950047-26-009684-index.htm,LOW
+2026-09-21T20:16:06+00:00,FORM_144,,"KESTRA MEDICAL TECHNOLOGIES, LTD.",proposed sale $97K,97267,,https://www.sec.gov/Archives/edgar/data/1877184/000196430626000452/0001964306-26-000452-index.htm,LOW
+2026-09-21T20:16:07+00:00,FORM_144,,Snowflake Inc.,proposed sale $34.46M,34457272,,https://www.sec.gov/Archives/edgar/data/1640147/000195917326007060/0001959173-26-007060-index.htm,LOW
