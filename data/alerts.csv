@@ -3068,3 +3068,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-21T22:40:35+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $1.05M,1050911,,https://www.sec.gov/Archives/edgar/data/1972001/000119312526396937/0001193125-26-396937-index.htm,LOW
 2026-09-21T22:40:35+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $358K,357877,,https://www.sec.gov/Archives/edgar/data/1972013/000119312526396933/0001193125-26-396933-index.htm,LOW
 2026-09-21T22:40:35+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $57K,57374,,https://www.sec.gov/Archives/edgar/data/1571996/000119312526396931/0001193125-26-396931-index.htm,LOW
+2026-09-21T22:49:41+00:00,FORM_144,,"Globalstar, Inc.",proposed sale $140K,140363,,https://www.sec.gov/Archives/edgar/data/1496862/000149686226000010/0001496862-26-000010-index.htm,LOW
+2026-09-21T22:49:41+00:00,FORM_144,,Repay Holdings Corp,proposed sale $44K,44448,,https://www.sec.gov/Archives/edgar/data/1787173/000196530126000146/0001965301-26-000146-index.htm,LOW
