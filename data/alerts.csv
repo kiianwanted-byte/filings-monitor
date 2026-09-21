@@ -2956,3 +2956,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-18T22:19:16+00:00,INSIDER_BUY,CV,"CapsoVision, Inc",Shen Ching Hang $5.00M,4999996,3,https://www.sec.gov/Archives/edgar/data/2102304/000210230426000003/0002102304-26-000003-index.htm,MEDIUM
 2026-09-19T00:36:51+00:00,INSIDER_CLUSTER,RWT,REDWOOD TRUST INC,Abate Christopher J $384K,383900,3,https://www.sec.gov/Archives/edgar/data/1453409/000110465926109010/0001104659-26-109010-index.htm,HIGH
 2026-09-19T00:36:54+00:00,FORM_144,,Kinetik Holdings Inc.,proposed sale $7.23M,7226994,,https://www.sec.gov/Archives/edgar/data/1904934/000090514826004223/0000905148-26-004223-index.htm,LOW
+2026-09-21T10:44:21+00:00,FORM_144,,TEVA PHARMACEUTICAL INDUSTRIES LTD,proposed sale $273K,273062,,https://www.sec.gov/Archives/edgar/data/2112339/000197337926000342/0001973379-26-000342-index.htm,LOW
