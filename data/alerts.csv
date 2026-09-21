@@ -3052,3 +3052,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-21T21:07:18+00:00,FORM_144,,Twist Bioscience Corp,proposed sale $49K,48654,,https://www.sec.gov/Archives/edgar/data/1753672/000195917326007066/0001959173-26-007066-index.htm,LOW
 2026-09-21T21:07:19+00:00,FORM_144,,Twist Bioscience Corp,proposed sale $58K,57591,,https://www.sec.gov/Archives/edgar/data/1883451/000195917326007065/0001959173-26-007065-index.htm,LOW
 2026-09-21T21:07:19+00:00,FORM_144,,"NETAPP, INC.",proposed sale $2.60M,2600161,,https://www.sec.gov/Archives/edgar/data/1586813/000195004726009724/0001950047-26-009724-index.htm,LOW
+2026-09-21T21:21:15+00:00,INSIDER_CLUSTER,CYBN,CYBIN INC.,Halstead Michael $1.35M,1347050,0,https://www.sec.gov/Archives/edgar/data/1833141/000091228226001293/0000912282-26-001293-index.htm,HIGH
+2026-09-21T21:21:18+00:00,FORM_144,,"SoFi Technologies, Inc.",proposed sale $524K,524369,,https://www.sec.gov/Archives/edgar/data/2032458/000196858226000998/0001968582-26-000998-index.htm,LOW
