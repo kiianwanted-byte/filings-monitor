@@ -2978,3 +2978,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-21T19:09:56+00:00,FORM_144,,REPLIGEN CORP,proposed sale $977K,976680,,https://www.sec.gov/Archives/edgar/data/1995525/000195917326007059/0001959173-26-007059-index.htm,LOW
 2026-09-21T19:09:56+00:00,FORM_144,,"BillionToOne, Inc.",proposed sale $151K,150959,,https://www.sec.gov/Archives/edgar/data/2087126/000195917326007058/0001959173-26-007058-index.htm,LOW
 2026-09-21T19:09:56+00:00,FORM_144,,"CrowdStrike Holdings, Inc.",proposed sale $8.07M,8070014,,https://www.sec.gov/Archives/edgar/data/1778610/000195917326007057/0001959173-26-007057-index.htm,LOW
+2026-09-21T19:22:58+00:00,FORM_144,,"Coinbase Global, Inc.",proposed sale $8.01M,8010631,,https://www.sec.gov/Archives/edgar/data/1679788/000162828026062867/0001628280-26-062867-index.htm,LOW
