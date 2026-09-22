@@ -3087,3 +3087,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-22T10:37:28+00:00,FORM_144,,NOVA LTD.,proposed sale $1.38M,1376009,,https://www.sec.gov/Archives/edgar/data/1961103/000197640826000858/0001976408-26-000858-index.htm,LOW
 2026-09-22T11:09:34+00:00,INSIDER_CLUSTER,EU,enCore Energy Corp.,Little Richard H $11K,10600,1,https://www.sec.gov/Archives/edgar/data/1779908/000119312526397218/0001193125-26-397218-index.htm,HIGH
 2026-09-22T11:09:35+00:00,INSIDER_CLUSTER,ECOR,"electroCore, Inc.",Errico Thomas J. $49K,49081,8,https://www.sec.gov/Archives/edgar/data/1737633/000149315226043640/0001493152-26-043640-index.htm,HIGH
+2026-09-22T12:23:49+00:00,INSIDER_CLUSTER,BBD,BANK BRADESCO,Pavarina Denise Pauli $843K,842794,4,https://www.sec.gov/Archives/edgar/data/2125969/000129281426004633/0001292814-26-004633-index.htm,HIGH
