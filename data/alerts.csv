@@ -3184,3 +3184,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-22T23:43:50+00:00,FORM_144,,"ChargePoint Holdings, Inc.",proposed sale $59K,58814,,https://www.sec.gov/Archives/edgar/data/2014204/000201420426000015/0002014204-26-000015-index.htm,LOW
 2026-09-22T23:43:51+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $4K,3995,,https://www.sec.gov/Archives/edgar/data/2126756/000212675626000008/0002126756-26-000008-index.htm,LOW
 2026-09-22T23:43:51+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $455K,454680,,https://www.sec.gov/Archives/edgar/data/2135151/000213515126000012/0002135151-26-000012-index.htm,LOW
+2026-09-22T23:51:40+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $142K,142052,,https://www.sec.gov/Archives/edgar/data/2126754/000212675426000009/0002126754-26-000009-index.htm,LOW
+2026-09-22T23:51:40+00:00,FORM_144,,"ChargePoint Holdings, Inc.",proposed sale $15K,14632,,https://www.sec.gov/Archives/edgar/data/2131098/000213109826000012/0002131098-26-000012-index.htm,LOW
+2026-09-22T23:51:41+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $905K,905314,,https://www.sec.gov/Archives/edgar/data/2126755/000212675526000017/0002126755-26-000017-index.htm,LOW
+2026-09-22T23:51:41+00:00,FORM_144,,"ChargePoint Holdings, Inc.",proposed sale $49K,48619,,https://www.sec.gov/Archives/edgar/data/2001123/000200112326000015/0002001123-26-000015-index.htm,LOW
