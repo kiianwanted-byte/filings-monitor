@@ -3155,3 +3155,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-22T20:19:42+00:00,FORM_144,,RAMBUS INC,proposed sale $525K,525000,,https://www.sec.gov/Archives/edgar/data/1188095/000196922326001035/0001969223-26-001035-index.htm,LOW
 2026-09-22T20:19:42+00:00,FORM_144,,"Cloudflare, Inc.",proposed sale $8.83M,8828753,,https://www.sec.gov/Archives/edgar/data/1477333/000197248126000285/0001972481-26-000285-index.htm,LOW
 2026-09-22T20:19:42+00:00,FORM_144,,IPG PHOTONICS CORP,proposed sale $909K,909072,,https://www.sec.gov/Archives/edgar/data/1973250/000197248126000284/0001972481-26-000284-index.htm,LOW
+2026-09-22T20:30:58+00:00,FORM_144,,"Barnes & Noble Education, Inc.",proposed sale $331K,331296,,https://www.sec.gov/Archives/edgar/data/1829618/000195917326007080/0001959173-26-007080-index.htm,LOW
+2026-09-22T20:30:59+00:00,FORM_144,,"Groupon, Inc.",proposed sale $444K,443977,,https://www.sec.gov/Archives/edgar/data/1973423/000195917326007079/0001959173-26-007079-index.htm,LOW
+2026-09-22T20:30:59+00:00,FORM_144,,EPLUS INC,proposed sale $93,93,,https://www.sec.gov/Archives/edgar/data/1736723/000196530126000147/0001965301-26-000147-index.htm,LOW
+2026-09-22T20:30:59+00:00,FORM_144,,PHARVARIS N.V.,proposed sale $7.00M,7000000,,https://www.sec.gov/Archives/edgar/data/2014983/000195004726009752/0001950047-26-009752-index.htm,LOW

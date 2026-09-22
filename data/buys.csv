@@ -818,3 +818,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-22T19:54:12+00:00,2026-09-21,MXF,MEXICO FUND INC,"Saba Capital Management, L.P.",10% owner,2034,21.03,42775,0.1,0001510281-26-000309
 2026-09-22T20:18:36+00:00,2026-09-15,NWPP,NEW PEOPLES BANKSHARES INC,White Blaine Scott,"Director, 10% owner",5500,4.85,26680,2.1,0001903596-26-000363
 2026-09-22T20:18:43+00:00,2026-09-18,JUSH,Jushi Holdings Inc.,Cacioppo James,"Director, Chief Executive Officer, 10% owner",20,0.51,10,0.0,0001628280-26-063027
+2026-09-22T20:30:42+00:00,2026-09-18,CRBG,"Corebridge Financial, Inc.",NIPPON LIFE INSURANCE CO,10% owner,131333,34.88,4581512,0.1,0001193125-26-397991
