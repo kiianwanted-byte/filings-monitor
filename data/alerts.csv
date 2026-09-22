@@ -3090,3 +3090,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-22T12:23:49+00:00,INSIDER_CLUSTER,BBD,BANK BRADESCO,Pavarina Denise Pauli $843K,842794,4,https://www.sec.gov/Archives/edgar/data/2125969/000129281426004633/0001292814-26-004633-index.htm,HIGH
 2026-09-22T12:39:40+00:00,INSIDER_CLUSTER,BBD,BANK BRADESCO,Alvarez Denise Aguiar $2.35M,2348116,4,https://www.sec.gov/Archives/edgar/data/2126543/000129281426004635/0001292814-26-004635-index.htm,HIGH
 2026-09-22T12:39:42+00:00,FORM_144,,"JinkoSolar Holding Co., Ltd.",proposed sale $7.35M,7350000,,https://www.sec.gov/Archives/edgar/data/1985294/000110465926109491/0001104659-26-109491-index.htm,LOW
+2026-09-22T12:53:21+00:00,INSIDER_CLUSTER,BBD,BANK BRADESCO,Alvarez Rubens Aguiar $843K,842794,4,https://www.sec.gov/Archives/edgar/data/2126531/000129281426004638/0001292814-26-004638-index.htm,HIGH
