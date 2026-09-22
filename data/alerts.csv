@@ -3188,3 +3188,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-22T23:51:40+00:00,FORM_144,,"ChargePoint Holdings, Inc.",proposed sale $15K,14632,,https://www.sec.gov/Archives/edgar/data/2131098/000213109826000012/0002131098-26-000012-index.htm,LOW
 2026-09-22T23:51:41+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $905K,905314,,https://www.sec.gov/Archives/edgar/data/2126755/000212675526000017/0002126755-26-000017-index.htm,LOW
 2026-09-22T23:51:41+00:00,FORM_144,,"ChargePoint Holdings, Inc.",proposed sale $49K,48619,,https://www.sec.gov/Archives/edgar/data/2001123/000200112326000015/0002001123-26-000015-index.htm,LOW
+2026-09-22T23:59:51+00:00,FORM_144,,"NextTrip, Inc.",proposed sale $202K,202000,,https://www.sec.gov/Archives/edgar/data/2062002/000149315226043775/0001493152-26-043775-index.htm,LOW
+2026-09-22T23:59:51+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $240K,239820,,https://www.sec.gov/Archives/edgar/data/2137613/000213761326000006/0002137613-26-000006-index.htm,LOW
+2026-09-22T23:59:52+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $926K,925957,,https://www.sec.gov/Archives/edgar/data/2126753/000212675326000015/0002126753-26-000015-index.htm,LOW
