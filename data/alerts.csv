@@ -3159,3 +3159,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-22T20:30:59+00:00,FORM_144,,"Groupon, Inc.",proposed sale $444K,443977,,https://www.sec.gov/Archives/edgar/data/1973423/000195917326007079/0001959173-26-007079-index.htm,LOW
 2026-09-22T20:30:59+00:00,FORM_144,,EPLUS INC,proposed sale $93,93,,https://www.sec.gov/Archives/edgar/data/1736723/000196530126000147/0001965301-26-000147-index.htm,LOW
 2026-09-22T20:30:59+00:00,FORM_144,,PHARVARIS N.V.,proposed sale $7.00M,7000000,,https://www.sec.gov/Archives/edgar/data/2014983/000195004726009752/0001950047-26-009752-index.htm,LOW
+2026-09-22T20:44:37+00:00,FORM_144,,"OOMA, INC.",proposed sale $198K,198225,,https://www.sec.gov/Archives/edgar/data/1680630/000195004726009756/0001950047-26-009756-index.htm,LOW
+2026-09-22T20:44:37+00:00,FORM_144,,CRISPR THERAPEUTICS AG,proposed sale $626K,626459,,https://www.sec.gov/Archives/edgar/data/1708172/000195004726009755/0001950047-26-009755-index.htm,LOW
+2026-09-22T20:44:38+00:00,FORM_144,,"ARVINAS, INC.",proposed sale $196K,196242,,https://www.sec.gov/Archives/edgar/data/1655759/000195004726009754/0001950047-26-009754-index.htm,LOW
+2026-09-22T20:44:38+00:00,FORM_144,,LUMENTUM HOLDINGS INC.,proposed sale $468K,467775,,https://www.sec.gov/Archives/edgar/data/1633978/000195004726009753/0001950047-26-009753-index.htm,LOW
