@@ -3176,3 +3176,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-22T22:43:33+00:00,INSIDER_CLUSTER,BRID,BRIDGFORD FOODS CORP,Bridgford Richard Eugene $2K,2054,4,https://www.sec.gov/Archives/edgar/data/1638258/000149315226043773/0001493152-26-043773-index.htm,HIGH
 2026-09-22T22:52:26+00:00,FORM_144,,TERAWULF INC.,proposed sale $52.35M,52350000,,https://www.sec.gov/Archives/edgar/data/1877255/000197067326000002/0001970673-26-000002-index.htm,LOW
 2026-09-22T23:14:21+00:00,FORM_144,,"Okta, Inc.",proposed sale $9.34M,9341113,,https://www.sec.gov/Archives/edgar/data/1700626/000196858226001005/0001968582-26-001005-index.htm,LOW
+2026-09-22T23:35:10+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $9.39M,9387672,,https://www.sec.gov/Archives/edgar/data/2135135/000213513526000013/0002135135-26-000013-index.htm,LOW
+2026-09-22T23:35:10+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $1.21M,1209218,,https://www.sec.gov/Archives/edgar/data/2135137/000213513726000019/0002135137-26-000019-index.htm,LOW
+2026-09-22T23:35:11+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $4.00M,3995680,,https://www.sec.gov/Archives/edgar/data/2135147/000213514726000015/0002135147-26-000015-index.htm,LOW
+2026-09-22T23:35:11+00:00,FORM_144,,Kinetik Holdings Inc.,proposed sale $2.09M,2092299,,https://www.sec.gov/Archives/edgar/data/1904934/000090514826004257/0000905148-26-004257-index.htm,LOW
