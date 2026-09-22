@@ -3094,3 +3094,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-22T13:19:43+00:00,INSIDER_CLUSTER,BBD,BANK BRADESCO,Nunes Regina Helena Jorge $562K,562162,4,https://www.sec.gov/Archives/edgar/data/2135664/000129281426004644/0001292814-26-004644-index.htm,HIGH
 2026-09-22T13:19:45+00:00,INSIDER_CLUSTER,BBD,BANK BRADESCO,Marcilio Juliano Ribeiro $1.09M,1092806,4,https://www.sec.gov/Archives/edgar/data/2126140/000129281426004642/0001292814-26-004642-index.htm,HIGH
 2026-09-22T13:19:49+00:00,FORM_144,,"Angel Oak Mortgage REIT, Inc.",proposed sale $518K,518050,,https://www.sec.gov/Archives/edgar/data/1866903/000194984626000593/0001949846-26-000593-index.htm,LOW
+2026-09-22T13:33:47+00:00,FORM_144,,"CBL & ASSOCIATES PROPERTIES, INC.",proposed sale $364K,364323,,https://www.sec.gov/Archives/edgar/data/1977476/000119312526397344/0001193125-26-397344-index.htm,LOW
