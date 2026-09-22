@@ -3124,3 +3124,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-22T18:26:22+00:00,INSIDER_CLUSTER,BCBP,BCB BANCORP INC,Chaudhry Jawad $78K,77500,4,https://www.sec.gov/Archives/edgar/data/1953663/000119312526397672/0001193125-26-397672-index.htm,HIGH
 2026-09-22T18:40:53+00:00,INSIDER_CLUSTER,NONE,"Fundrise Real Estate Interval Fund, LLC",Booth Richard Whitaker $500,499,1,https://www.sec.gov/Archives/edgar/data/1845014/000121390026102144/0001213900-26-102144-index.htm,HIGH
 2026-09-22T18:40:59+00:00,FORM_144,,Legend Biotech Corp,proposed sale $1.30M,1302109,,https://www.sec.gov/Archives/edgar/data/1967360/000195917326007076/0001959173-26-007076-index.htm,LOW
+2026-09-22T19:35:55+00:00,FORM_144,,Legend Biotech Corp,proposed sale $51K,50854,,https://www.sec.gov/Archives/edgar/data/2097065/000195917326007077/0001959173-26-007077-index.htm,LOW
