@@ -3109,3 +3109,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-22T15:28:55+00:00,INSIDER_CLUSTER,BBD,BANK BRADESCO,Caffarelli Paulo Rogerio $562K,562162,4,https://www.sec.gov/Archives/edgar/data/2116145/000129281426004666/0001292814-26-004666-index.htm,HIGH
 2026-09-22T15:29:00+00:00,INSIDER_CLUSTER,BBD,BANK BRADESCO,Favarao Vinicius Urias $1.09M,1087646,4,https://www.sec.gov/Archives/edgar/data/2122593/000129281426004664/0001292814-26-004664-index.htm,HIGH
 2026-09-22T15:29:01+00:00,FORM_144,,VERIZON COMMUNICATIONS INC,proposed sale $52K,52415,,https://www.sec.gov/Archives/edgar/data/1760581/000195917326007069/0001959173-26-007069-index.htm,LOW
+2026-09-22T15:59:14+00:00,FORM_144,,ORACLE CORP,proposed sale $399K,399122,,https://www.sec.gov/Archives/edgar/data/1957369/000195917326007070/0001959173-26-007070-index.htm,LOW
