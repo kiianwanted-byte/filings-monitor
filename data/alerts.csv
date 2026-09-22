@@ -3180,3 +3180,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-22T23:35:10+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $1.21M,1209218,,https://www.sec.gov/Archives/edgar/data/2135137/000213513726000019/0002135137-26-000019-index.htm,LOW
 2026-09-22T23:35:11+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $4.00M,3995680,,https://www.sec.gov/Archives/edgar/data/2135147/000213514726000015/0002135147-26-000015-index.htm,LOW
 2026-09-22T23:35:11+00:00,FORM_144,,Kinetik Holdings Inc.,proposed sale $2.09M,2092299,,https://www.sec.gov/Archives/edgar/data/1904934/000090514826004257/0000905148-26-004257-index.htm,LOW
+2026-09-22T23:43:50+00:00,FORM_144,,"ChargePoint Holdings, Inc.",proposed sale $42K,42417,,https://www.sec.gov/Archives/edgar/data/2078710/000207871026000011/0002078710-26-000011-index.htm,LOW
+2026-09-22T23:43:50+00:00,FORM_144,,"ChargePoint Holdings, Inc.",proposed sale $59K,58814,,https://www.sec.gov/Archives/edgar/data/2014204/000201420426000015/0002014204-26-000015-index.htm,LOW
+2026-09-22T23:43:51+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $4K,3995,,https://www.sec.gov/Archives/edgar/data/2126756/000212675626000008/0002126756-26-000008-index.htm,LOW
+2026-09-22T23:43:51+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $455K,454680,,https://www.sec.gov/Archives/edgar/data/2135151/000213515126000012/0002135151-26-000012-index.htm,LOW
