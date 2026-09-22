@@ -3173,3 +3173,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-22T21:16:46+00:00,FORM_144,,"KORSANA BIOSCIENCES, INC.",proposed sale $3K,3499,,https://www.sec.gov/Archives/edgar/data/1755237/000195004726009757/0001950047-26-009757-index.htm,LOW
 2026-09-22T21:57:13+00:00,FORM_144,,"J.JILL, INC.",proposed sale $326K,326195,,https://www.sec.gov/Archives/edgar/data/2062399/000119312526398164/0001193125-26-398164-index.htm,LOW
 2026-09-22T22:32:40+00:00,FORM_144,,"10X Genomics, Inc.",proposed sale $453K,452689,,https://www.sec.gov/Archives/edgar/data/1770787/000196858226001003/0001968582-26-001003-index.htm,LOW
+2026-09-22T22:43:33+00:00,INSIDER_CLUSTER,BRID,BRIDGFORD FOODS CORP,Bridgford Richard Eugene $2K,2054,4,https://www.sec.gov/Archives/edgar/data/1638258/000149315226043773/0001493152-26-043773-index.htm,HIGH
