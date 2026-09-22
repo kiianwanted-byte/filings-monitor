@@ -3088,3 +3088,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-22T11:09:34+00:00,INSIDER_CLUSTER,EU,enCore Energy Corp.,Little Richard H $11K,10600,1,https://www.sec.gov/Archives/edgar/data/1779908/000119312526397218/0001193125-26-397218-index.htm,HIGH
 2026-09-22T11:09:35+00:00,INSIDER_CLUSTER,ECOR,"electroCore, Inc.",Errico Thomas J. $49K,49081,8,https://www.sec.gov/Archives/edgar/data/1737633/000149315226043640/0001493152-26-043640-index.htm,HIGH
 2026-09-22T12:23:49+00:00,INSIDER_CLUSTER,BBD,BANK BRADESCO,Pavarina Denise Pauli $843K,842794,4,https://www.sec.gov/Archives/edgar/data/2125969/000129281426004633/0001292814-26-004633-index.htm,HIGH
+2026-09-22T12:39:40+00:00,INSIDER_CLUSTER,BBD,BANK BRADESCO,Alvarez Denise Aguiar $2.35M,2348116,4,https://www.sec.gov/Archives/edgar/data/2126543/000129281426004635/0001292814-26-004635-index.htm,HIGH
+2026-09-22T12:39:42+00:00,FORM_144,,"JinkoSolar Holding Co., Ltd.",proposed sale $7.35M,7350000,,https://www.sec.gov/Archives/edgar/data/1985294/000110465926109491/0001104659-26-109491-index.htm,LOW
