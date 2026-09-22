@@ -3175,3 +3175,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-22T22:32:40+00:00,FORM_144,,"10X Genomics, Inc.",proposed sale $453K,452689,,https://www.sec.gov/Archives/edgar/data/1770787/000196858226001003/0001968582-26-001003-index.htm,LOW
 2026-09-22T22:43:33+00:00,INSIDER_CLUSTER,BRID,BRIDGFORD FOODS CORP,Bridgford Richard Eugene $2K,2054,4,https://www.sec.gov/Archives/edgar/data/1638258/000149315226043773/0001493152-26-043773-index.htm,HIGH
 2026-09-22T22:52:26+00:00,FORM_144,,TERAWULF INC.,proposed sale $52.35M,52350000,,https://www.sec.gov/Archives/edgar/data/1877255/000197067326000002/0001970673-26-000002-index.htm,LOW
+2026-09-22T23:14:21+00:00,FORM_144,,"Okta, Inc.",proposed sale $9.34M,9341113,,https://www.sec.gov/Archives/edgar/data/1700626/000196858226001005/0001968582-26-001005-index.htm,LOW
