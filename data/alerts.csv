@@ -3115,3 +3115,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-22T16:52:53+00:00,FORM_144,,PHOTRONICS INC,proposed sale $297K,297000,,https://www.sec.gov/Archives/edgar/data/1748668/000195917326007073/0001959173-26-007073-index.htm,LOW
 2026-09-22T17:16:01+00:00,FORM_144,,ANALOG DEVICES INC,proposed sale $573K,573285,,https://www.sec.gov/Archives/edgar/data/2009110/000195917326007074/0001959173-26-007074-index.htm,LOW
 2026-09-22T17:28:06+00:00,FORM_144,,Globe Life Inc,proposed sale $1.72M,1721600,,https://www.sec.gov/Archives/edgar/data/1872419/000165495426008516/0001654954-26-008516-index.htm,LOW
+2026-09-22T17:39:57+00:00,INSIDER_CLUSTER,NONE,"Fundrise Real Estate Interval Fund, LLC",Monte Mark David $201,200,1,https://www.sec.gov/Archives/edgar/data/1910629/000121390026102123/0001213900-26-102123-index.htm,HIGH
+2026-09-22T17:40:00+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $1.14M,1142996,,https://www.sec.gov/Archives/edgar/data/1662205/000195917326007075/0001959173-26-007075-index.htm,LOW
