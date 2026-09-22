@@ -3084,3 +3084,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-22T01:46:55+00:00,FORM_144,,"NAVAN, INC.",proposed sale $770K,769814,,https://www.sec.gov/Archives/edgar/data/2085105/000208510526000013/0002085105-26-000013-index.htm,LOW
 2026-09-22T01:46:56+00:00,FORM_144,,"NAVAN, INC.",proposed sale $1.08M,1081819,,https://www.sec.gov/Archives/edgar/data/1853730/000185373026000013/0001853730-26-000013-index.htm,LOW
 2026-09-22T10:24:05+00:00,INSIDER_CLUSTER,BZUN,Baozun Inc.,Qiu Wenbin $40K,39825,4,https://www.sec.gov/Archives/edgar/data/1975717/000110465926109444/0001104659-26-109444-index.htm,HIGH
+2026-09-22T10:37:28+00:00,FORM_144,,NOVA LTD.,proposed sale $1.38M,1376009,,https://www.sec.gov/Archives/edgar/data/1961103/000197640826000858/0001976408-26-000858-index.htm,LOW
