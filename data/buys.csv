@@ -770,3 +770,5 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-21T22:15:53+00:00,2026-09-17,GLP,GLOBAL PARTNERS LP,Global GP LLC,,10000,50.35,503550,6.2,0001339396-26-000086
 2026-09-21T22:28:42+00:00,2026-09-18,CRM,"Salesforce, Inc.",Kirk David Blair,Director,4176,239.33,999450,28.7,0001108524-26-000212
 2026-09-21T22:49:40+00:00,2026-09-16,EPSN,Epsilon Energy Ltd.,Stabell Jason,"Director, Chief Executive Officer",23104,5.91,136553,3.7,0001104659-26-109383
+2026-09-22T00:51:58+00:00,2026-09-21,GRAB,Grab Holdings Ltd,Hungate Alexander Charles,"Director, President and COO",299571,2.89,866838,4.9,0002026373-26-000010
+2026-09-22T00:51:58+00:00,2026-09-21,GRAB,Grab Holdings Ltd,Tan Anthony Ping Yeow,"Director, Chief Executive Officer",10350000,2.89,29876310,2415.4,0001896497-26-000009
