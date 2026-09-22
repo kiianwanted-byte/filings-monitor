@@ -3113,3 +3113,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-22T16:29:57+00:00,FORM_144,,"Hims & Hers Health, Inc.",proposed sale $877K,876846,,https://www.sec.gov/Archives/edgar/data/1907056/000195917326007071/0001959173-26-007071-index.htm,LOW
 2026-09-22T16:43:17+00:00,FORM_144,,Snowflake Inc.,proposed sale $903K,903279,,https://www.sec.gov/Archives/edgar/data/1979088/000195917326007072/0001959173-26-007072-index.htm,LOW
 2026-09-22T16:52:53+00:00,FORM_144,,PHOTRONICS INC,proposed sale $297K,297000,,https://www.sec.gov/Archives/edgar/data/1748668/000195917326007073/0001959173-26-007073-index.htm,LOW
+2026-09-22T17:16:01+00:00,FORM_144,,ANALOG DEVICES INC,proposed sale $573K,573285,,https://www.sec.gov/Archives/edgar/data/2009110/000195917326007074/0001959173-26-007074-index.htm,LOW
