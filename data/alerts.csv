@@ -3125,3 +3125,33 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-22T18:40:53+00:00,INSIDER_CLUSTER,NONE,"Fundrise Real Estate Interval Fund, LLC",Booth Richard Whitaker $500,499,1,https://www.sec.gov/Archives/edgar/data/1845014/000121390026102144/0001213900-26-102144-index.htm,HIGH
 2026-09-22T18:40:59+00:00,FORM_144,,Legend Biotech Corp,proposed sale $1.30M,1302109,,https://www.sec.gov/Archives/edgar/data/1967360/000195917326007076/0001959173-26-007076-index.htm,LOW
 2026-09-22T19:35:55+00:00,FORM_144,,Legend Biotech Corp,proposed sale $51K,50854,,https://www.sec.gov/Archives/edgar/data/2097065/000195917326007077/0001959173-26-007077-index.htm,LOW
+2026-09-22T20:19:22+00:00,FORM_144,,OMEROS CORPORATION,proposed sale $185K,184900,,https://www.sec.gov/Archives/edgar/data/2005787/000195004726009751/0001950047-26-009751-index.htm,LOW
+2026-09-22T20:19:23+00:00,FORM_144,,BETA BIONICS INC,proposed sale $197K,197081,,https://www.sec.gov/Archives/edgar/data/2048467/000195004726009750/0001950047-26-009750-index.htm,LOW
+2026-09-22T20:19:24+00:00,FORM_144,,"Asana, Inc.",proposed sale $1.43M,1432669,,https://www.sec.gov/Archives/edgar/data/2075006/000195004726009749/0001950047-26-009749-index.htm,LOW
+2026-09-22T20:19:28+00:00,FORM_144,,"Duolingo, Inc.",proposed sale $540K,540003,,https://www.sec.gov/Archives/edgar/data/1829259/000195004726009748/0001950047-26-009748-index.htm,LOW
+2026-09-22T20:19:29+00:00,FORM_144,,TANGO THERAPEUTICS INC,proposed sale $340K,340108,,https://www.sec.gov/Archives/edgar/data/2130408/000195004726009747/0001950047-26-009747-index.htm,LOW
+2026-09-22T20:19:29+00:00,FORM_144,,SEI INVESTMENTS CO,proposed sale $247K,246669,,https://www.sec.gov/Archives/edgar/data/2037087/000192109426001045/0001921094-26-001045-index.htm,LOW
+2026-09-22T20:19:30+00:00,FORM_144,,"CoreWeave, Inc.",proposed sale $4.76M,4763918,,https://www.sec.gov/Archives/edgar/data/2058038/000195004726009746/0001950047-26-009746-index.htm,LOW
+2026-09-22T20:19:30+00:00,FORM_144,,GLOBAL-E ONLINE LTD,proposed sale $1.98M,1984500,,https://www.sec.gov/Archives/edgar/data/1964100/000195004726009745/0001950047-26-009745-index.htm,LOW
+2026-09-22T20:19:31+00:00,FORM_144,,PHARVARIS N.V.,proposed sale $29K,28952,,https://www.sec.gov/Archives/edgar/data/2014983/000195004726009744/0001950047-26-009744-index.htm,LOW
+2026-09-22T20:19:32+00:00,FORM_144,,"Robinhood Markets, Inc.",proposed sale $29.69M,29694832,,https://www.sec.gov/Archives/edgar/data/1871006/000195004726009743/0001950047-26-009743-index.htm,LOW
+2026-09-22T20:19:34+00:00,FORM_144,,HNI CORP,proposed sale $1.13M,1129419,,https://www.sec.gov/Archives/edgar/data/1378763/000162828026063030/0001628280-26-063030-index.htm,LOW
+2026-09-22T20:19:35+00:00,FORM_144,,"PINTEREST, INC.",proposed sale $914K,913904,,https://www.sec.gov/Archives/edgar/data/1773914/000192109426001044/0001921094-26-001044-index.htm,LOW
+2026-09-22T20:19:35+00:00,FORM_144,,REVOLUTION MEDICINES INC,proposed sale $2.91M,2906820,,https://www.sec.gov/Archives/edgar/data/1758247/000195004726009742/0001950047-26-009742-index.htm,LOW
+2026-09-22T20:19:36+00:00,FORM_144,,"CoreWeave, Inc.",proposed sale $9.20M,9200127,,https://www.sec.gov/Archives/edgar/data/2058037/000195004726009741/0001950047-26-009741-index.htm,LOW
+2026-09-22T20:19:36+00:00,FORM_144,,Space Exploration Technologies Corp.,proposed sale $51.96M,51958514,,https://www.sec.gov/Archives/edgar/data/1768956/000195004726009740/0001950047-26-009740-index.htm,LOW
+2026-09-22T20:19:37+00:00,FORM_144,,"CoreWeave, Inc.",proposed sale $17.09M,17086000,,https://www.sec.gov/Archives/edgar/data/2058037/000195004726009739/0001950047-26-009739-index.htm,LOW
+2026-09-22T20:19:37+00:00,FORM_144,,APPLE INC,proposed sale $10.57M,10570074,,https://www.sec.gov/Archives/edgar/data/1780525/000195004726009738/0001950047-26-009738-index.htm,LOW
+2026-09-22T20:19:38+00:00,FORM_144,,Maplebear Inc.,proposed sale $827K,827246,,https://www.sec.gov/Archives/edgar/data/1990106/000192109426001043/0001921094-26-001043-index.htm,LOW
+2026-09-22T20:19:38+00:00,FORM_144,,"Everpure, Inc.",proposed sale $11.37M,11366000,,https://www.sec.gov/Archives/edgar/data/1651902/000195004726009737/0001950047-26-009737-index.htm,LOW
+2026-09-22T20:19:39+00:00,FORM_144,,"BLOCK, INC.",proposed sale $478K,477540,,https://www.sec.gov/Archives/edgar/data/1933928/000195004726009736/0001950047-26-009736-index.htm,LOW
+2026-09-22T20:19:39+00:00,FORM_144,,RH,proposed sale $132K,132000,,https://www.sec.gov/Archives/edgar/data/1528849/000195004726009735/0001950047-26-009735-index.htm,LOW
+2026-09-22T20:19:39+00:00,FORM_144,,"MINERALYS THERAPEUTICS, INC.",proposed sale $3.01M,3005302,,https://www.sec.gov/Archives/edgar/data/1933414/000195004726009734/0001950047-26-009734-index.htm,LOW
+2026-09-22T20:19:40+00:00,FORM_144,,"CARIS LIFE SCIENCES, INC.",proposed sale $239K,238626,,https://www.sec.gov/Archives/edgar/data/2071923/000195004726009733/0001950047-26-009733-index.htm,LOW
+2026-09-22T20:19:40+00:00,FORM_144,,Strategy Inc,proposed sale $81K,81225,,https://www.sec.gov/Archives/edgar/data/1309191/000195917326007078/0001959173-26-007078-index.htm,LOW
+2026-09-22T20:19:40+00:00,FORM_144,,"ASANA, INC.",proposed sale $83K,82789,,https://www.sec.gov/Archives/edgar/data/2099916/000195004726009732/0001950047-26-009732-index.htm,LOW
+2026-09-22T20:19:41+00:00,FORM_144,,"NASDAQ, INC.",proposed sale $107K,106875,,https://www.sec.gov/Archives/edgar/data/1736565/000195004726009731/0001950047-26-009731-index.htm,LOW
+2026-09-22T20:19:41+00:00,FORM_144,,BRISTOW GROUP INC.,proposed sale $127K,127266,,https://www.sec.gov/Archives/edgar/data/1792626/000195004726009730/0001950047-26-009730-index.htm,LOW
+2026-09-22T20:19:42+00:00,FORM_144,,RAMBUS INC,proposed sale $525K,525000,,https://www.sec.gov/Archives/edgar/data/1188095/000196922326001035/0001969223-26-001035-index.htm,LOW
+2026-09-22T20:19:42+00:00,FORM_144,,"Cloudflare, Inc.",proposed sale $8.83M,8828753,,https://www.sec.gov/Archives/edgar/data/1477333/000197248126000285/0001972481-26-000285-index.htm,LOW
+2026-09-22T20:19:42+00:00,FORM_144,,IPG PHOTONICS CORP,proposed sale $909K,909072,,https://www.sec.gov/Archives/edgar/data/1973250/000197248126000284/0001972481-26-000284-index.htm,LOW
