@@ -3122,3 +3122,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-22T18:07:47+00:00,INSIDER_CLUSTER,BUKS,BUTLER NATIONAL CORP,Daly Joseph Patrick $26K,25509,0,https://www.sec.gov/Archives/edgar/data/1332596/000133259626000008/0001332596-26-000008-index.htm,HIGH
 2026-09-22T18:26:19+00:00,INSIDER_BUY,BCBP,BCB BANCORP INC,OBrien Thomas M $1.24M,1240000,4,https://www.sec.gov/Archives/edgar/data/1381048/000119312526397677/0001193125-26-397677-index.htm,MEDIUM
 2026-09-22T18:26:22+00:00,INSIDER_CLUSTER,BCBP,BCB BANCORP INC,Chaudhry Jawad $78K,77500,4,https://www.sec.gov/Archives/edgar/data/1953663/000119312526397672/0001193125-26-397672-index.htm,HIGH
+2026-09-22T18:40:53+00:00,INSIDER_CLUSTER,NONE,"Fundrise Real Estate Interval Fund, LLC",Booth Richard Whitaker $500,499,1,https://www.sec.gov/Archives/edgar/data/1845014/000121390026102144/0001213900-26-102144-index.htm,HIGH
+2026-09-22T18:40:59+00:00,FORM_144,,Legend Biotech Corp,proposed sale $1.30M,1302109,,https://www.sec.gov/Archives/edgar/data/1967360/000195917326007076/0001959173-26-007076-index.htm,LOW
