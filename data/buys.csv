@@ -776,3 +776,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-22T01:38:28+00:00,2026-09-17,VENU,Venu Holding Corp,Cominsky Stephen Joseph,Director,3234,1.70,5497,3.9,0001493152-26-043617
 2026-09-22T01:38:30+00:00,2026-09-17,"LEN, LEN.B",LENNAR CORP /NEW/,BERKSHIRE HATHAWAY INC,10% owner,2743529,77.42,212395151,NEW,0001193125-26-397059
 2026-09-22T01:38:31+00:00,2026-09-17,ENHA,Enhanced Group Inc.,Apeiron Investment Group Ltd.,"Director, 10% owner",6080047,1.15,6992054,16.3,0001193125-26-397056
+2026-09-22T10:24:05+00:00,2026-09-18,BZUN,Baozun Inc.,Qiu Wenbin,"Director, Chief Executive Officer",13900,2.87,39825,0.8,0001104659-26-109444
