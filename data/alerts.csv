@@ -3163,3 +3163,9 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-22T20:44:37+00:00,FORM_144,,CRISPR THERAPEUTICS AG,proposed sale $626K,626459,,https://www.sec.gov/Archives/edgar/data/1708172/000195004726009755/0001950047-26-009755-index.htm,LOW
 2026-09-22T20:44:38+00:00,FORM_144,,"ARVINAS, INC.",proposed sale $196K,196242,,https://www.sec.gov/Archives/edgar/data/1655759/000195004726009754/0001950047-26-009754-index.htm,LOW
 2026-09-22T20:44:38+00:00,FORM_144,,LUMENTUM HOLDINGS INC.,proposed sale $468K,467775,,https://www.sec.gov/Archives/edgar/data/1633978/000195004726009753/0001950047-26-009753-index.htm,LOW
+2026-09-22T20:53:23+00:00,INSIDER_CLUSTER,BFRG,"BullFrog AI Holdings, Inc.",Singh Vininder $45K,44917,0,https://www.sec.gov/Archives/edgar/data/1967605/000162828026063054/0001628280-26-063054-index.htm,HIGH
+2026-09-22T20:53:32+00:00,FORM_144,,"Butterfly Network, Inc.",proposed sale $787K,786790,,https://www.sec.gov/Archives/edgar/data/1872122/000195917326007082/0001959173-26-007082-index.htm,LOW
+2026-09-22T20:53:33+00:00,FORM_144,,Howard Hughes Holdings Inc.,proposed sale $264K,264338,,https://www.sec.gov/Archives/edgar/data/1981792/000195917326007081/0001959173-26-007081-index.htm,LOW
+2026-09-22T20:53:33+00:00,FORM_144,,Royalty Pharma PLC,proposed sale $5.85M,5846972,,https://www.sec.gov/Archives/edgar/data/2094176/000162828026063061/0001628280-26-063061-index.htm,LOW
+2026-09-22T20:53:34+00:00,FORM_144,,"Tempus AI, Inc.",proposed sale $19.51M,19507500,,https://www.sec.gov/Archives/edgar/data/1717115/000196858226001001/0001968582-26-001001-index.htm,LOW
+2026-09-22T20:53:34+00:00,FORM_144,,"Eos Energy Enterprises, Inc.",proposed sale $467K,467263,,https://www.sec.gov/Archives/edgar/data/1813990/000196922326001036/0001969223-26-001036-index.htm,LOW
