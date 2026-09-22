@@ -3077,3 +3077,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-22T00:22:04+00:00,FORM_144,,Aura Minerals Inc.,proposed sale $38K,37841,,https://www.sec.gov/Archives/edgar/data/2152878/000215287826000003/0002152878-26-000003-index.htm,LOW
 2026-09-22T00:22:04+00:00,FORM_144,,"CrowdStrike Holdings, Inc.",proposed sale $11.85M,11849941,,https://www.sec.gov/Archives/edgar/data/1968270/000095010326014283/0000950103-26-014283-index.htm,LOW
 2026-09-22T00:51:58+00:00,INSIDER_CLUSTER,GRAB,Grab Holdings Ltd,Tan Anthony Ping Yeow $29.88M,29876310,0,https://www.sec.gov/Archives/edgar/data/1896497/000189649726000009/0001896497-26-000009-index.htm,HIGH
+2026-09-22T01:13:27+00:00,INSIDER_CLUSTER,GME,GameStop Corp.,Attal Alain $402K,401957,0,https://www.sec.gov/Archives/edgar/data/1840485/000184048526000008/0001840485-26-000008-index.htm,HIGH
