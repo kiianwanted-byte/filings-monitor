@@ -2821,3 +2821,19 @@ timestamp,chamber,member,ticker,asset,action,amount_low,amount_high,trade_date,f
 2026-09-18T17:42:36+00:00,House,David J. Taylor,PG,Procter & Gamble Company,BUY,1001,15000,2026-09-08,2026-09-17,9,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035471.pdf
 2026-09-21T15:18:37+00:00,House,Pete Sessions,ABBV,AbbVie Inc. Common Stock,SELL,15001,50000,2026-09-14,2026-09-18,4,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035480.pdf
 2026-09-21T15:18:37+00:00,House,Pete Sessions,GOOGL,Alphabet Inc. - Class A Common,SELL,15001,50000,2026-09-14,2026-09-18,4,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035480.pdf
+2026-09-22T18:47:31+00:00,House,Scott H. Peters,,Energy Northwest WA PWR UTIL,SELL,500001,1000000,2026-08-13,2026-09-21,39,HIGH,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035434.pdf
+2026-09-22T18:47:31+00:00,House,Scott H. Peters,,Enterprise CA,SELL,500001,1000000,2026-08-04,2026-09-21,48,HIGH,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035434.pdf
+2026-09-22T18:47:31+00:00,House,Scott H. Peters,,Irvine Ranch CA WRSR UTIL,BUY,100001,250000,2026-08-20,2026-09-21,32,MEDIUM,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035434.pdf
+2026-09-22T18:47:31+00:00,House,Scott H. Peters,,Kent Street O&M Holdings LLC,BUY,100001,250000,2026-08-12,2026-09-21,40,MEDIUM,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035434.pdf
+2026-09-22T18:47:31+00:00,House,Scott H. Peters,,"New York, NY City COMB TX",SELL,500001,1000000,2026-08-31,2026-09-21,21,HIGH,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035434.pdf
+2026-09-22T18:47:31+00:00,House,Scott H. Peters,,Palmdale CA Sch,SELL,50001,100000,2026-08-03,2026-09-21,49,MEDIUM,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035434.pdf
+2026-09-22T18:47:31+00:00,House,Scott H. Peters,,Petaluma CA WASTE SWR UTIL,BUY,500001,1000000,2026-08-19,2026-09-21,33,HIGH,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035434.pdf
+2026-09-22T18:47:31+00:00,House,Scott H. Peters,,Ro,BUY,250001,500000,2026-08-03,2026-09-21,49,MEDIUM,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035434.pdf
+2026-09-22T18:47:31+00:00,House,Scott H. Peters,,Smash Capital Fund II LP,BUY,15001,50000,2026-08-05,2026-09-21,47,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035434.pdf
+2026-09-22T18:47:31+00:00,House,Scott H. Peters,,U.S. Treasury Bill,BUY,250001,500000,2026-08-10,2026-09-21,42,MEDIUM,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035434.pdf
+2026-09-22T18:47:31+00:00,House,Scott H. Peters,,U.S. Treasury Bill,SELL (partial),50001,100000,2026-08-13,2026-09-21,39,MEDIUM,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035434.pdf
+2026-09-22T18:47:31+00:00,House,Scott H. Peters,,U.S. Treasury Bill,SELL (partial),50001,100000,2026-08-31,2026-09-21,21,MEDIUM,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035434.pdf
+2026-09-22T18:47:31+00:00,House,Scott H. Peters,,U.S. Treasury Bill,BUY,50001,100000,2026-08-03,2026-09-21,49,MEDIUM,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035434.pdf
+2026-09-22T18:47:31+00:00,House,Scott H. Peters,,U.S. Treasury Bill,SELL (partial),100001,250000,2026-08-05,2026-09-21,47,MEDIUM,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035434.pdf
+2026-09-22T18:47:31+00:00,House,Scott H. Peters,,UNIV CA PUB EDUC,BUY,500001,1000000,2026-08-13,2026-09-21,39,HIGH,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035434.pdf
+2026-09-22T18:47:31+00:00,House,Scott H. Peters,,West VY Mission CMN EDUC,BUY,250001,500000,2026-08-06,2026-09-21,46,MEDIUM,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035434.pdf
