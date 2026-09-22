@@ -3091,3 +3091,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-22T12:39:40+00:00,INSIDER_CLUSTER,BBD,BANK BRADESCO,Alvarez Denise Aguiar $2.35M,2348116,4,https://www.sec.gov/Archives/edgar/data/2126543/000129281426004635/0001292814-26-004635-index.htm,HIGH
 2026-09-22T12:39:42+00:00,FORM_144,,"JinkoSolar Holding Co., Ltd.",proposed sale $7.35M,7350000,,https://www.sec.gov/Archives/edgar/data/1985294/000110465926109491/0001104659-26-109491-index.htm,LOW
 2026-09-22T12:53:21+00:00,INSIDER_CLUSTER,BBD,BANK BRADESCO,Alvarez Rubens Aguiar $843K,842794,4,https://www.sec.gov/Archives/edgar/data/2126531/000129281426004638/0001292814-26-004638-index.htm,HIGH
+2026-09-22T13:19:43+00:00,INSIDER_CLUSTER,BBD,BANK BRADESCO,Nunes Regina Helena Jorge $562K,562162,4,https://www.sec.gov/Archives/edgar/data/2135664/000129281426004644/0001292814-26-004644-index.htm,HIGH
+2026-09-22T13:19:45+00:00,INSIDER_CLUSTER,BBD,BANK BRADESCO,Marcilio Juliano Ribeiro $1.09M,1092806,4,https://www.sec.gov/Archives/edgar/data/2126140/000129281426004642/0001292814-26-004642-index.htm,HIGH
+2026-09-22T13:19:49+00:00,FORM_144,,"Angel Oak Mortgage REIT, Inc.",proposed sale $518K,518050,,https://www.sec.gov/Archives/edgar/data/1866903/000194984626000593/0001949846-26-000593-index.htm,LOW
