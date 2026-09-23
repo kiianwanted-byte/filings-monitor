@@ -3222,3 +3222,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-23T16:33:10+00:00,FORM_144,,GENERAL DYNAMICS CORP,proposed sale $2.57M,2574619,,https://www.sec.gov/Archives/edgar/data/1180592/000195917326007088/0001959173-26-007088-index.htm,LOW
 2026-09-23T16:56:06+00:00,FORM_144,,"Keysight Technologies, Inc.",proposed sale $70K,69602,,https://www.sec.gov/Archives/edgar/data/1987126/000195917326007089/0001959173-26-007089-index.htm,LOW
 2026-09-23T18:20:17+00:00,INSIDER_BUY,CRAFX,Cascade Real Assets Fund,Nesbitt Stephen Lane $5.00M,5000000,2,https://www.sec.gov/Archives/edgar/data/2114459/000121390026102533/0001213900-26-102533-index.htm,MEDIUM
+2026-09-23T18:36:21+00:00,FORM_144,,BEST BUY CO INC,proposed sale $10.70M,10695356,,https://www.sec.gov/Archives/edgar/data/1707469/000195917326007091/0001959173-26-007091-index.htm,LOW
+2026-09-23T18:36:22+00:00,FORM_144,,Snowflake Inc.,proposed sale $254K,253953,,https://www.sec.gov/Archives/edgar/data/2127025/000195917326007090/0001959173-26-007090-index.htm,LOW
