@@ -3256,3 +3256,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-23T21:41:55+00:00,INSIDER_CLUSTER,ETRA,"Electra Therapeutics, Inc.",ORBIMED ADVISORS LLC $20.00M,19999995,2,https://www.sec.gov/Archives/edgar/data/2088082/000094787126000880/0000947871-26-000880-index.htm,HIGH
 2026-09-23T21:41:57+00:00,FORM_144,,Redwire Corporation,proposed sale $10.93M,10930155,,https://www.sec.gov/Archives/edgar/data/1880796/000162828026063268/0001628280-26-063268-index.htm,LOW
 2026-09-23T22:22:25+00:00,INSIDER_CLUSTER,GRCE,"Grace Therapeutics, Inc.",Opaleye Management Inc. $32K,31686,2,https://www.sec.gov/Archives/edgar/data/1595855/000149315226043996/0001493152-26-043996-index.htm,HIGH
+2026-09-23T22:43:39+00:00,FORM_144,,Kinetik Holdings Inc.,proposed sale $1.28M,1280346,,https://www.sec.gov/Archives/edgar/data/1904934/000090514826004261/0000905148-26-004261-index.htm,LOW
