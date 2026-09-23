@@ -3238,3 +3238,14 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-23T20:33:59+00:00,INSIDER_BUY,KBDC,"Kayne Anderson BDC, Inc.",ROBO JAMES L $1.50M,1504742,1,https://www.sec.gov/Archives/edgar/data/1747172/000118325426000006/0001183254-26-000006-index.htm,MEDIUM
 2026-09-23T20:34:05+00:00,INSIDER_CLUSTER,DUOT,"DUOS TECHNOLOGIES GROUP, INC.",Recker Frank Douglas $85K,84557,1,https://www.sec.gov/Archives/edgar/data/2083730/000155335026000136/0001553350-26-000136-index.htm,HIGH
 2026-09-23T20:34:07+00:00,INSIDER_CLUSTER,SKIL,Skillsoft Corp.,HOVSEPIAN RONALD W $51K,50771,2,https://www.sec.gov/Archives/edgar/data/1774675/000109148226000017/0001091482-26-000017-index.htm,HIGH
+2026-09-23T20:44:15+00:00,INSIDER_BUY,INR,"INFINITY NATURAL RESOURCES, INC.",Gieselman Scott $364K,363777,2,https://www.sec.gov/Archives/edgar/data/2029118/000202911826000108/0002029118-26-000108-index.htm,MEDIUM
+2026-09-23T20:44:18+00:00,INSIDER_CLUSTER,ALP,Alpha Compute Corp,Villani Fiorenzo $44K,44047,1,https://www.sec.gov/Archives/edgar/data/1889272/000117184326006194/0001171843-26-006194-index.htm,HIGH
+2026-09-23T20:44:23+00:00,FORM_144,,CIENA CORPORATION,proposed sale $1.34M,1342091,,https://www.sec.gov/Archives/edgar/data/1251445/000195004726009774/0001950047-26-009774-index.htm,LOW
+2026-09-23T20:44:23+00:00,FORM_144,,"Barnes & Noble Education, Inc.",proposed sale $25K,25390,,https://www.sec.gov/Archives/edgar/data/2059672/000195917326007095/0001959173-26-007095-index.htm,LOW
+2026-09-23T20:44:24+00:00,FORM_144,,"AvePoint, Inc.",proposed sale $131K,130727,,https://www.sec.gov/Archives/edgar/data/1865783/000196530126000149/0001965301-26-000149-index.htm,LOW
+2026-09-23T20:44:24+00:00,FORM_144,,"Butterfly Network, Inc.",proposed sale $32K,31756,,https://www.sec.gov/Archives/edgar/data/1804176/000195917326007094/0001959173-26-007094-index.htm,LOW
+2026-09-23T20:44:24+00:00,FORM_144,,"Groupon, Inc.",proposed sale $402K,402085,,https://www.sec.gov/Archives/edgar/data/1973423/000195917326007093/0001959173-26-007093-index.htm,LOW
+2026-09-23T20:44:25+00:00,FORM_144,,PHARVARIS N.V.,proposed sale $396K,395523,,https://www.sec.gov/Archives/edgar/data/1838204/000195004726009773/0001950047-26-009773-index.htm,LOW
+2026-09-23T20:44:25+00:00,FORM_144,,"Mama's Creations, Inc.",proposed sale $927K,927257,,https://www.sec.gov/Archives/edgar/data/1950993/000196430626000455/0001964306-26-000455-index.htm,LOW
+2026-09-23T20:44:26+00:00,FORM_144,,"FASTLY, INC.",proposed sale $9.22M,9220114,,https://www.sec.gov/Archives/edgar/data/1769490/000195004726009772/0001950047-26-009772-index.htm,LOW
+2026-09-23T20:44:26+00:00,FORM_144,,"ASANA, INC.",proposed sale $29K,29273,,https://www.sec.gov/Archives/edgar/data/1964323/000195004726009771/0001950047-26-009771-index.htm,LOW
