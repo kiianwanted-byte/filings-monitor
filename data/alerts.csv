@@ -3220,3 +3220,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-23T16:33:09+00:00,FORM_144,,Voip-pal.com Inc,proposed sale $6K,5937,,https://www.sec.gov/Archives/edgar/data/1750219/000175021926000006/0001750219-26-000006-index.htm,LOW
 2026-09-23T16:33:10+00:00,FORM_144,,OLD SECOND BANCORP INC,proposed sale $493K,493000,,https://www.sec.gov/Archives/edgar/data/1184766/000194984626000595/0001949846-26-000595-index.htm,LOW
 2026-09-23T16:33:10+00:00,FORM_144,,GENERAL DYNAMICS CORP,proposed sale $2.57M,2574619,,https://www.sec.gov/Archives/edgar/data/1180592/000195917326007088/0001959173-26-007088-index.htm,LOW
+2026-09-23T16:56:06+00:00,FORM_144,,"Keysight Technologies, Inc.",proposed sale $70K,69602,,https://www.sec.gov/Archives/edgar/data/1987126/000195917326007089/0001959173-26-007089-index.htm,LOW
