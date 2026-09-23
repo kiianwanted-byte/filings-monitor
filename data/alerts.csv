@@ -3249,3 +3249,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-23T20:44:25+00:00,FORM_144,,"Mama's Creations, Inc.",proposed sale $927K,927257,,https://www.sec.gov/Archives/edgar/data/1950993/000196430626000455/0001964306-26-000455-index.htm,LOW
 2026-09-23T20:44:26+00:00,FORM_144,,"FASTLY, INC.",proposed sale $9.22M,9220114,,https://www.sec.gov/Archives/edgar/data/1769490/000195004726009772/0001950047-26-009772-index.htm,LOW
 2026-09-23T20:44:26+00:00,FORM_144,,"ASANA, INC.",proposed sale $29K,29273,,https://www.sec.gov/Archives/edgar/data/1964323/000195004726009771/0001950047-26-009771-index.htm,LOW
+2026-09-23T20:53:12+00:00,INSIDER_CLUSTER,LUCK,Lucky Strike Entertainment Corp,Lavan Robert M. $2K,2119,1,https://www.sec.gov/Archives/edgar/data/1840572/000162828026063239/0001628280-26-063239-index.htm,HIGH
+2026-09-23T20:53:27+00:00,FORM_144,,"KORSANA BIOSCIENCES, INC.",proposed sale $172K,171555,,https://www.sec.gov/Archives/edgar/data/1755237/000195004726009776/0001950047-26-009776-index.htm,LOW
+2026-09-23T20:53:27+00:00,FORM_144,,VIAVI SOLUTIONS INC.,proposed sale $1.30M,1299902,,https://www.sec.gov/Archives/edgar/data/1556374/000195004726009775/0001950047-26-009775-index.htm,LOW
