@@ -3216,3 +3216,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-23T15:11:38+00:00,FORM_144,,"Butterfly Network, Inc.",proposed sale $3.23M,3230200,,https://www.sec.gov/Archives/edgar/data/1872122/000195917326007086/0001959173-26-007086-index.htm,LOW
 2026-09-23T15:11:39+00:00,FORM_144,,"Natera, Inc.",proposed sale $8.16M,8163402,,https://www.sec.gov/Archives/edgar/data/1646649/000194984626000594/0001949846-26-000594-index.htm,LOW
 2026-09-23T15:26:40+00:00,FORM_144,,MARCUS CORP,proposed sale $1.39M,1389000,,https://www.sec.gov/Archives/edgar/data/917705/000196530126000148/0001965301-26-000148-index.htm,LOW
+2026-09-23T15:52:36+00:00,FORM_144,,"Progyny, Inc.",proposed sale $102K,101868,,https://www.sec.gov/Archives/edgar/data/1956339/000195917326007087/0001959173-26-007087-index.htm,LOW
