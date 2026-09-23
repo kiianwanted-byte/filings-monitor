@@ -3252,3 +3252,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-23T20:53:12+00:00,INSIDER_CLUSTER,LUCK,Lucky Strike Entertainment Corp,Lavan Robert M. $2K,2119,1,https://www.sec.gov/Archives/edgar/data/1840572/000162828026063239/0001628280-26-063239-index.htm,HIGH
 2026-09-23T20:53:27+00:00,FORM_144,,"KORSANA BIOSCIENCES, INC.",proposed sale $172K,171555,,https://www.sec.gov/Archives/edgar/data/1755237/000195004726009776/0001950047-26-009776-index.htm,LOW
 2026-09-23T20:53:27+00:00,FORM_144,,VIAVI SOLUTIONS INC.,proposed sale $1.30M,1299902,,https://www.sec.gov/Archives/edgar/data/1556374/000195004726009775/0001950047-26-009775-index.htm,LOW
+2026-09-23T21:41:53+00:00,INSIDER_BUY,ETRA,"Electra Therapeutics, Inc.",GORDON CARL L $20.00M,19999995,2,https://www.sec.gov/Archives/edgar/data/2088082/000094787126000881/0000947871-26-000881-index.htm,MEDIUM
+2026-09-23T21:41:55+00:00,INSIDER_CLUSTER,ETRA,"Electra Therapeutics, Inc.",ORBIMED ADVISORS LLC $20.00M,19999995,2,https://www.sec.gov/Archives/edgar/data/2088082/000094787126000880/0000947871-26-000880-index.htm,HIGH
+2026-09-23T21:41:57+00:00,FORM_144,,Redwire Corporation,proposed sale $10.93M,10930155,,https://www.sec.gov/Archives/edgar/data/1880796/000162828026063268/0001628280-26-063268-index.htm,LOW
