@@ -830,3 +830,7 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-22T21:27:34+00:00,2026-09-21,DLPN,"Dolphin Entertainment, Inc.",O'Dowd William IV,"Director, Chief Executive Officer, 10% owner",4300,1.13,4850,0.8,0001079973-26-001270
 2026-09-22T22:43:33+00:00,2026-09-18,BRID,BRIDGFORD FOODS CORP,Bridgford Richard Eugene,,350,5.87,2054,11.5,0001493152-26-043773
 2026-09-22T22:43:34+00:00,2026-09-18,AFCG,Advanced Flower Capital Inc.,TANNENBAUM LEONARD M,"Director, 10% owner",10000,3.49,34900,0.1,0001628280-26-063099
+2026-09-23T00:20:16+00:00,2026-09-18,NONE,Fortress Private Lending Fund,Munro Lucy Lu,"Director, Chief Operating Officer",4133,24.19,99996,4750.6,0001140361-26-037358
+2026-09-23T00:20:19+00:00,2026-09-21,RWAY,Runway Growth Finance Corp.,Goldthorpe Edward J.,Director,10000,6.75,67450,NEW,0001104659-26-109712
+2026-09-23T00:20:20+00:00,2026-09-18,NONE,Fortress Private Lending Fund,Dreyfuss Avraham,Chief Financial Officer,4133,24.19,99996,9611.6,0001140361-26-037356
+2026-09-23T00:20:21+00:00,2026-09-18,BGDE,"Big Digital Energy, Inc.","Endeavor Blockchain, LLC",10% owner,494,5.99,2959,1.8,0000912282-26-001299
