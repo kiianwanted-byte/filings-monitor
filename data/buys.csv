@@ -847,3 +847,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-23T19:54:44+00:00,2026-09-18,OFIX,Orthofix Medical Inc.,"Juniper Investment Company, LLC",10% owner,310000,8.81,2732097,9.0,0001794034-26-000007
 2026-09-23T20:05:27+00:00,2026-09-22,PHIO,Phio Pharmaceuticals Corp.,Bitterman Robert J,"Director, Chairman, Pres. & CEO",2000,1.03,2057,0.6,0001683168-26-007321
 2026-09-23T20:05:29+00:00,2026-09-21,XOS,"Xos, Inc.",Mattson George N,Director,4062,2.60,10561,2.1,0001193125-26-399359
+2026-09-23T20:21:39+00:00,2026-09-21,PAL,"Proficient Auto Logistics, Inc",Lux Steven F,Director,6000,4.01,24060,1.0,0001213900-26-102629
