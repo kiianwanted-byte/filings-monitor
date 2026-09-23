@@ -2837,3 +2837,11 @@ timestamp,chamber,member,ticker,asset,action,amount_low,amount_high,trade_date,f
 2026-09-22T18:47:31+00:00,House,Scott H. Peters,,U.S. Treasury Bill,SELL (partial),100001,250000,2026-08-05,2026-09-21,47,MEDIUM,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035434.pdf
 2026-09-22T18:47:31+00:00,House,Scott H. Peters,,UNIV CA PUB EDUC,BUY,500001,1000000,2026-08-13,2026-09-21,39,HIGH,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035434.pdf
 2026-09-22T18:47:31+00:00,House,Scott H. Peters,,West VY Mission CMN EDUC,BUY,250001,500000,2026-08-06,2026-09-21,46,MEDIUM,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035434.pdf
+2026-09-23T15:46:53+00:00,House,Richard W. Allen,AVGO,Broadcom Inc. - Common Stock,BUY,1001,15000,2026-08-12,2026-09-22,41,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035492.pdf
+2026-09-23T15:46:53+00:00,House,Richard W. Allen,ROL,"Rollins, Inc. Common Stock",SELL,15001,50000,2026-08-12,2026-09-22,41,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035492.pdf
+2026-09-23T15:46:53+00:00,House,Richard W. Allen,TSM,Taiwan Semiconductor,BUY,1001,15000,2026-08-12,2026-09-22,41,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035492.pdf
+2026-09-23T15:46:54+00:00,House,Sheri Biggs,,ALPHAKEYS BLACKSTONE LIFE,BUY,1001,15000,2026-08-31,2026-09-22,22,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035489.pdf
+2026-09-23T15:46:54+00:00,House,Sheri Biggs,,Apollo Debt Solutions BDC Class S,BUY,1001,15000,2026-08-28,2026-09-22,25,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035489.pdf
+2026-09-23T15:46:54+00:00,House,Sheri Biggs,,Bank of Nova Scotia,SELL,500001,1000000,2026-08-19,2026-09-22,34,HIGH,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035489.pdf
+2026-09-23T15:46:54+00:00,House,Sheri Biggs,,Bank of Nova Scotia,BUY,500001,1000000,2026-09-01,2026-09-22,21,HIGH,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035489.pdf
+2026-09-23T15:46:54+00:00,House,Pete Sessions,AAPL,Apple Inc. - Common Stock,SELL,100001,250000,2026-09-22,2026-09-22,0,MEDIUM,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035499.pdf
