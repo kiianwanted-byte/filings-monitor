@@ -3204,3 +3204,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-23T10:56:47+00:00,FORM_144,,"JinkoSolar Holding Co., Ltd.",proposed sale $46K,46000,,https://www.sec.gov/Archives/edgar/data/1985403/000198540326000001/0001985403-26-000001-index.htm,LOW
 2026-09-23T11:08:36+00:00,INSIDER_CLUSTER,ADC,AGREE REALTY CORP,Erlich Craig $68K,67550,2,https://www.sec.gov/Archives/edgar/data/1747962/000174796226000007/0001747962-26-000007-index.htm,HIGH
 2026-09-23T12:08:48+00:00,FORM_144,,Zepp Health Corp,proposed sale $87K,86600,,https://www.sec.gov/Archives/edgar/data/2113111/000173839626000014/0001738396-26-000014-index.htm,LOW
+2026-09-23T12:44:55+00:00,FORM_144,,DESCARTES SYSTEMS GROUP INC,proposed sale $3.56M,3563120,,https://www.sec.gov/Archives/edgar/data/2155805/000197407826000362/0001974078-26-000362-index.htm,LOW
