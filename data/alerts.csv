@@ -3211,3 +3211,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-23T13:29:05+00:00,FORM_144,,"TechTarget, Inc.",proposed sale $34K,33606,,https://www.sec.gov/Archives/edgar/data/2018064/000119312526398629/0001193125-26-398629-index.htm,LOW
 2026-09-23T13:29:05+00:00,FORM_144,,"TechTarget, Inc.",proposed sale $16K,15554,,https://www.sec.gov/Archives/edgar/data/2018064/000119312526398628/0001193125-26-398628-index.htm,LOW
 2026-09-23T14:19:48+00:00,INSIDER_CLUSTER,GAM,GENERAL AMERICAN INVESTORS CO INC,Grassi Craig Anthony $46K,46160,1,https://www.sec.gov/Archives/edgar/data/1313312/000004041726000050/0000040417-26-000050-index.htm,HIGH
+2026-09-23T14:33:45+00:00,FORM_144,,Snowflake Inc.,proposed sale $16.95M,16954000,,https://www.sec.gov/Archives/edgar/data/1821737/000195917326007084/0001959173-26-007084-index.htm,LOW
