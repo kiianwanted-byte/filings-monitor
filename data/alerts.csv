@@ -3259,3 +3259,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-23T22:43:39+00:00,FORM_144,,Kinetik Holdings Inc.,proposed sale $1.28M,1280346,,https://www.sec.gov/Archives/edgar/data/1904934/000090514826004261/0000905148-26-004261-index.htm,LOW
 2026-09-23T23:31:01+00:00,FORM_144,,Quantum-Si Inc,proposed sale $11K,10994,,https://www.sec.gov/Archives/edgar/data/1856912/000185691226000003/0001856912-26-000003-index.htm,LOW
 2026-09-23T23:31:01+00:00,FORM_144,,Quantum-Si Inc,proposed sale $6K,5805,,https://www.sec.gov/Archives/edgar/data/1816431/000155773626000004/0001557736-26-000004-index.htm,LOW
+2026-09-23T23:41:29+00:00,FORM_144,,Quantum-Si Inc,proposed sale $23K,22610,,https://www.sec.gov/Archives/edgar/data/1816431/000150503426000004/0001505034-26-000004-index.htm,LOW
