@@ -3217,3 +3217,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-23T15:11:39+00:00,FORM_144,,"Natera, Inc.",proposed sale $8.16M,8163402,,https://www.sec.gov/Archives/edgar/data/1646649/000194984626000594/0001949846-26-000594-index.htm,LOW
 2026-09-23T15:26:40+00:00,FORM_144,,MARCUS CORP,proposed sale $1.39M,1389000,,https://www.sec.gov/Archives/edgar/data/917705/000196530126000148/0001965301-26-000148-index.htm,LOW
 2026-09-23T15:52:36+00:00,FORM_144,,"Progyny, Inc.",proposed sale $102K,101868,,https://www.sec.gov/Archives/edgar/data/1956339/000195917326007087/0001959173-26-007087-index.htm,LOW
+2026-09-23T16:33:09+00:00,FORM_144,,Voip-pal.com Inc,proposed sale $6K,5937,,https://www.sec.gov/Archives/edgar/data/1750219/000175021926000006/0001750219-26-000006-index.htm,LOW
+2026-09-23T16:33:10+00:00,FORM_144,,OLD SECOND BANCORP INC,proposed sale $493K,493000,,https://www.sec.gov/Archives/edgar/data/1184766/000194984626000595/0001949846-26-000595-index.htm,LOW
+2026-09-23T16:33:10+00:00,FORM_144,,GENERAL DYNAMICS CORP,proposed sale $2.57M,2574619,,https://www.sec.gov/Archives/edgar/data/1180592/000195917326007088/0001959173-26-007088-index.htm,LOW
