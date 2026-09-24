@@ -2,8 +2,10 @@ name: Filings Heartbeat
 
 on:
   schedule:
-    # 00:00 UTC = 08:00 Singapore
-    - cron: "0 0 * * *"
+    # Every 6 hours at :17 past, avoiding the congested top of the hour.
+    # Silent when healthy, so running often costs nothing. It means a real
+    # outage is reported within hours rather than up to a day later.
+    - cron: "17 */6 * * *"
   workflow_dispatch:
 
 permissions:
