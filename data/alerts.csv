@@ -3275,3 +3275,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-24T10:58:00+00:00,STAKE_13D,,Elliott Investment Management L.P., 12.3%,,,https://www.sec.gov/Archives/edgar/data/1791786/000091957426006414/0000919574-26-006414-index.htm,HIGH
 2026-09-24T13:04:03+00:00,INSIDER_CLUSTER,CSBB,"CSB Bancorp, Inc.",Kirkbride Cheryl M $622,622,2,https://www.sec.gov/Archives/edgar/data/1729698/000119312526400323/0001193125-26-400323-index.htm,HIGH
 2026-09-24T13:04:12+00:00,FORM_144,,"CBL & ASSOCIATES PROPERTIES, INC.",proposed sale $364K,364323,,https://www.sec.gov/Archives/edgar/data/1977511/000119312526400315/0001193125-26-400315-index.htm,LOW
+2026-09-24T13:36:24+00:00,INSIDER_CLUSTER,GAM,GENERAL AMERICAN INVESTORS CO INC,Stark Eugene S $114K,113750,1,https://www.sec.gov/Archives/edgar/data/1315319/000004041726000051/0000040417-26-000051-index.htm,HIGH
