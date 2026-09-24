@@ -3309,3 +3309,15 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-24T20:28:40+00:00,FORM_144,,"WORTHINGTON ENTERPRISES, INC.",proposed sale $2.07M,2068993,,https://www.sec.gov/Archives/edgar/data/1106145/000195004726009787/0001950047-26-009787-index.htm,LOW
 2026-09-24T20:28:40+00:00,FORM_144,,"Klaviyo, Inc.",proposed sale $22K,22124,,https://www.sec.gov/Archives/edgar/data/1991125/000195917326007106/0001959173-26-007106-index.htm,LOW
 2026-09-24T20:28:41+00:00,FORM_144,,"PINTEREST, INC.",proposed sale $550K,549842,,https://www.sec.gov/Archives/edgar/data/1983697/000192109426001048/0001921094-26-001048-index.htm,LOW
+2026-09-24T20:42:15+00:00,INSIDER_CLUSTER,GPUS,"Hyperscale Data, Inc.",AULT MILTON C III $19K,18650,3,https://www.sec.gov/Archives/edgar/data/1734770/000121465926011956/0001214659-26-011956-index.htm,HIGH
+2026-09-24T20:42:19+00:00,FORM_144,,FORTINET INC,proposed sale $9K,8579,,https://www.sec.gov/Archives/edgar/data/2016813/000195004726009800/0001950047-26-009800-index.htm,LOW
+2026-09-24T20:42:19+00:00,FORM_144,,"Duolingo, Inc.",proposed sale $6.81M,6814638,,https://www.sec.gov/Archives/edgar/data/1829259/000195004726009799/0001950047-26-009799-index.htm,LOW
+2026-09-24T20:42:20+00:00,FORM_144,,"Lyft, Inc.",proposed sale $443K,443100,,https://www.sec.gov/Archives/edgar/data/1759509/000195004726009798/0001950047-26-009798-index.htm,LOW
+2026-09-24T20:42:20+00:00,FORM_144,,MONOPAR THERAPEUTICS INC.,proposed sale $2.60M,2597025,,https://www.sec.gov/Archives/edgar/data/1727334/000195004726009797/0001950047-26-009797-index.htm,LOW
+2026-09-24T20:42:20+00:00,FORM_144,,"PALO ALTO NETWORKS, INC.",proposed sale $13.77M,13765500,,https://www.sec.gov/Archives/edgar/data/1852540/000195004726009796/0001950047-26-009796-index.htm,LOW
+2026-09-24T20:42:21+00:00,FORM_144,,VORNADO REALTY TRUST,proposed sale $3.07M,3074400,,https://www.sec.gov/Archives/edgar/data/1774826/000177482626000013/0001774826-26-000013-index.htm,LOW
+2026-09-24T20:42:21+00:00,FORM_144,,"Everpure, Inc.",proposed sale $10.96M,10965000,,https://www.sec.gov/Archives/edgar/data/1651902/000195004726009795/0001950047-26-009795-index.htm,LOW
+2026-09-24T20:42:40+00:00,FORM_144,,GITLAB INC,proposed sale $103.71M,103714962,,https://www.sec.gov/Archives/edgar/data/1886022/000195004726009794/0001950047-26-009794-index.htm,LOW
+2026-09-24T20:42:40+00:00,FORM_144,,"EVERPURE, INC.",proposed sale $5.33M,5330648,,https://www.sec.gov/Archives/edgar/data/1897944/000195004726009793/0001950047-26-009793-index.htm,LOW
+2026-09-24T20:42:41+00:00,FORM_144,,"NEXTDOOR HOLDINGS, INC.",proposed sale $715K,715041,,https://www.sec.gov/Archives/edgar/data/1846069/000195004726009792/0001950047-26-009792-index.htm,LOW
+2026-09-24T20:42:41+00:00,FORM_144,,Flowco Holdings Inc.,proposed sale $292K,292014,,https://www.sec.gov/Archives/edgar/data/2049797/000195779926000178/0001957799-26-000178-index.htm,LOW
