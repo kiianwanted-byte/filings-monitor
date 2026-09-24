@@ -3272,3 +3272,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-24T10:07:05+00:00,FORM_144,,"Qfin Holdings, Inc.",proposed sale $5.31M,5312703,,https://www.sec.gov/Archives/edgar/data/1741530/000110465926110102/0001104659-26-110102-index.htm,LOW
 2026-09-24T10:23:28+00:00,FORM_144,,"Bowman Consulting Group, LTD.",proposed sale $1.60M,1595774,,https://www.sec.gov/Archives/edgar/data/1859488/000162828026063307/0001628280-26-063307-index.htm,LOW
 2026-09-24T10:36:46+00:00,FORM_144,,"Bowman Consulting Group, LTD.",proposed sale $957K,957464,,https://www.sec.gov/Archives/edgar/data/1859488/000162828026063309/0001628280-26-063309-index.htm,LOW
+2026-09-24T10:58:00+00:00,STAKE_13D,,Elliott Investment Management L.P., 12.3%,,,https://www.sec.gov/Archives/edgar/data/1791786/000091957426006414/0000919574-26-006414-index.htm,HIGH
