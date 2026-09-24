@@ -3268,3 +3268,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-24T00:14:12+00:00,FORM_144,,Broadcom Inc.,proposed sale $25.80M,25797598,,https://www.sec.gov/Archives/edgar/data/1996005/000197372726000058/0001973727-26-000058-index.htm,LOW
 2026-09-24T00:14:12+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $1.02M,1015502,,https://www.sec.gov/Archives/edgar/data/1651403/000119312526399887/0001193125-26-399887-index.htm,LOW
 2026-09-24T00:35:24+00:00,FORM_144,,TORM plc,proposed sale $173.15M,173150000,,https://www.sec.gov/Archives/edgar/data/2002087/000121390026102740/0001213900-26-102740-index.htm,LOW
+2026-09-24T01:15:00+00:00,INSIDER_CLUSTER,CV,"CapsoVision, Inc",HARARI ELIYAHOU ET AL $10.00M,9999998,5,https://www.sec.gov/Archives/edgar/data/1378325/000100916526000009/0001009165-26-000009-index.htm,HIGH
