@@ -900,3 +900,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-24T21:31:06+00:00,2026-09-23,DY,DYCOM INDUSTRIES INC,Sabater Carmen M,Director,350,280.62,98217,5.1,0001919348-26-000002
 2026-09-24T22:51:02+00:00,2026-09-23,NONE,Blackstone Private Real Estate Credit & Income Fund,Blackstone Holdings IV L.P.,10% owner,191695,26.17,5016661,NEW,0001213900-26-103146
 2026-09-24T22:51:04+00:00,2026-09-23,NONE,Blackstone Private Real Estate Credit & Income Fund,Blackstone Private Multi-Asset Credit & Income Fund,10% owner,191695,26.17,5016661,NEW,0001213900-26-103145
+2026-09-24T22:59:13+00:00,2026-09-22,PDI,PIMCO Dynamic Income Fund,Morris Sonya,Director,5700,14.02,79885,NEW,0002084606-26-000014
