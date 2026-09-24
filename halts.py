@@ -39,8 +39,7 @@ STATE_FILE = STATE_DIR / "halts_state.json"
 SEEN_MAX = 4000
 MAX_ALERTS_PER_RUN = 10
 
-# Codes worth an alert. LUDP and LUDS are ordinary volatility pauses and are
-# excluded on purpose: on a volatile day they alone produce hundreds.
+# Every reason code the feed uses, kept for labelling.
 HALT_CODES = {
     "T1":  "News pending",
     "T2":  "News released",
@@ -53,23 +52,26 @@ HALT_CODES = {
     "M":   "Volatility trading pause, market wide",
 }
 
-# T1 means material news is coming and the exchange stopped trading so
-# everyone gets it at once. That is the one worth waking up for.
-HIGH_CODES = {"T1", "H10", "M"}
-
-# Nasdaq returned HTTP 200 with a non-XML body to a plain client from
-# GitHub's runners. Apps Script never hit this because it came from Google's
-# IP range. Browser headers are the fix.
-BROWSER_HEADERS = {
-    "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-                   "AppleWebKit/537.36 (KHTML, like Gecko) "
-                   "Chrome/126.0.0.0 Safari/537.36"),
-    "Accept": ("application/rss+xml, application/xml;q=0.9, text/xml;q=0.9, "
-               "*/*;q=0.8"),
-    "Accept-Language": "en-US,en;q=0.9",
-    "Referer": "https://www.nasdaqtrader.com/trader.aspx?id=tradehalts",
-    "Connection": "keep-alive",
+# Only these produce an alert. Trimmed 18 Sep 2026 because volume was too
+# high: one run had 25 alertable items out of 68.
+#
+# T2 was the biggest offender. It means news released, which is the
+# resumption of a T1, so every halt was arriving twice for no extra
+# information. D fires on routine delistings most days. T12, H4, H9 and H11
+# are compliance and filing issues that show up steadily and rarely matter.
+#
+# Add a code back to this set to widen it again.
+ALERT_ON = {
+    "T1",    # news pending, the only one that says something is coming
+    "H10",   # SEC trading suspension, rare and serious
+    "M",     # market wide volatility halt
 }
+
+# LUDP and LUDS, ordinary volatility pauses, were never included. On a
+# volatile day those alone produce hundreds.
+
+# Of the alerting codes, these buzz the phone rather than landing silently.
+HIGH_CODES = {"T1", "H10", "M"}
 
 session = requests.Session()
 
@@ -209,7 +211,7 @@ def run():
             continue
         seen_set.add(k)
         new_keys.append(k)
-        if h["code"] in HALT_CODES:
+        if h["code"] in ALERT_ON:
             fresh.append(h)
 
     if fresh:
@@ -286,7 +288,7 @@ def connectivity_test():
         codes[h["code"]] = codes.get(h["code"], 0) + 1
     print(f"  reason codes: {codes}")
 
-    alertable = [h for h in halts if h["code"] in HALT_CODES]
+    alertable = [h for h in halts if h["code"] in ALERT_ON]
     print(f"  would alert on {len(alertable)} of them")
     for h in alertable[:5]:
         print(f"      {h['symbol']:8} {h['code']:4} "
