@@ -3321,3 +3321,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-24T20:42:40+00:00,FORM_144,,"EVERPURE, INC.",proposed sale $5.33M,5330648,,https://www.sec.gov/Archives/edgar/data/1897944/000195004726009793/0001950047-26-009793-index.htm,LOW
 2026-09-24T20:42:41+00:00,FORM_144,,"NEXTDOOR HOLDINGS, INC.",proposed sale $715K,715041,,https://www.sec.gov/Archives/edgar/data/1846069/000195004726009792/0001950047-26-009792-index.htm,LOW
 2026-09-24T20:42:41+00:00,FORM_144,,Flowco Holdings Inc.,proposed sale $292K,292014,,https://www.sec.gov/Archives/edgar/data/2049797/000195779926000178/0001957799-26-000178-index.htm,LOW
+2026-09-24T20:53:38+00:00,FORM_144,,"PAGERDUTY, INC.",proposed sale $853K,852725,,https://www.sec.gov/Archives/edgar/data/1736979/000195004726009805/0001950047-26-009805-index.htm,LOW
+2026-09-24T20:53:39+00:00,FORM_144,,"Proto Labs, Inc.",proposed sale $446K,445650,,https://www.sec.gov/Archives/edgar/data/1894753/000195004726009804/0001950047-26-009804-index.htm,LOW
+2026-09-24T20:53:39+00:00,FORM_144,,"Revolution Medicines, Inc.",proposed sale $112K,111964,,https://www.sec.gov/Archives/edgar/data/2124509/000195004726009803/0001950047-26-009803-index.htm,LOW
+2026-09-24T20:53:40+00:00,FORM_144,,"PUBMATIC, INC.",proposed sale $881K,880657,,https://www.sec.gov/Archives/edgar/data/1833511/000195004726009802/0001950047-26-009802-index.htm,LOW
+2026-09-24T20:53:40+00:00,FORM_144,,NextNav Inc.,proposed sale $34K,34104,,https://www.sec.gov/Archives/edgar/data/2060247/000195004726009801/0001950047-26-009801-index.htm,LOW

@@ -895,3 +895,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-24T20:42:06+00:00,2026-09-22,ENGN,enGene Therapeutics Inc.,Grossman William,"Director, Interim Chief Medical Officer",5102,1.97,10050,NEW,0001552781-26-000501
 2026-09-24T20:42:15+00:00,2026-09-21,UUU,"UNIVERSAL SAFETY PRODUCTS, INC.",AULT MILTON C III,"Director, 10% owner",15434,5.09,78545,1.4,0001214659-26-011957
 2026-09-24T20:42:15+00:00,2026-09-21,GPUS,"Hyperscale Data, Inc.",AULT MILTON C III,"Director, Executive Chairman, 10% owner",104700,0.18,18650,3.6,0001214659-26-011956
+2026-09-24T20:53:29+00:00,2026-09-24,KG,Kestrel Group Ltd,NIGRO STEVEN HAROLD,Director,2500,5.34,13350,11.3,0001628280-26-063450
