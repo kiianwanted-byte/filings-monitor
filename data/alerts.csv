@@ -3291,3 +3291,9 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-24T19:39:29+00:00,FORM_144,,Espey MFG. & Electronics Corp,proposed sale $4K,4110,,https://www.sec.gov/Archives/edgar/data/1258045/000195917326007104/0001959173-26-007104-index.htm,LOW
 2026-09-24T19:49:23+00:00,FORM_144,,EUROSEAS LTD.,proposed sale $75K,75050,,https://www.sec.gov/Archives/edgar/data/2122342/000091957426006467/0000919574-26-006467-index.htm,LOW
 2026-09-24T19:49:23+00:00,FORM_144,,EuroDry Ltd.,proposed sale $76K,75962,,https://www.sec.gov/Archives/edgar/data/2122342/000091957426006466/0000919574-26-006466-index.htm,LOW
+2026-09-24T20:12:01+00:00,FORM_144,,"KURA ONCOLOGY, INC.",proposed sale $225K,224514,,https://www.sec.gov/Archives/edgar/data/2051119/000195004726009786/0001950047-26-009786-index.htm,LOW
+2026-09-24T20:12:02+00:00,FORM_144,,"NUTANIX, INC.",proposed sale $4.76M,4761176,,https://www.sec.gov/Archives/edgar/data/1796184/000195004726009785/0001950047-26-009785-index.htm,LOW
+2026-09-24T20:12:03+00:00,FORM_144,,"OOMA, INC.",proposed sale $33K,33236,,https://www.sec.gov/Archives/edgar/data/1932872/000195004726009784/0001950047-26-009784-index.htm,LOW
+2026-09-24T20:12:03+00:00,FORM_144,,"CLOVER HEALTH INVESTMENTS, CORP.",proposed sale $631K,631162,,https://www.sec.gov/Archives/edgar/data/1938197/000195004726009783/0001950047-26-009783-index.htm,LOW
+2026-09-24T20:12:03+00:00,FORM_144,,LUMENTUM HOLDINGS INC.,proposed sale $461K,460535,,https://www.sec.gov/Archives/edgar/data/1633978/000195004726009782/0001950047-26-009782-index.htm,LOW
+2026-09-24T20:12:04+00:00,FORM_144,,"BETA Technologies, Inc.",proposed sale $230K,230444,,https://www.sec.gov/Archives/edgar/data/2090083/000195917326007105/0001959173-26-007105-index.htm,LOW
