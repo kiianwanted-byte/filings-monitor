@@ -3269,3 +3269,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-24T00:14:12+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $1.02M,1015502,,https://www.sec.gov/Archives/edgar/data/1651403/000119312526399887/0001193125-26-399887-index.htm,LOW
 2026-09-24T00:35:24+00:00,FORM_144,,TORM plc,proposed sale $173.15M,173150000,,https://www.sec.gov/Archives/edgar/data/2002087/000121390026102740/0001213900-26-102740-index.htm,LOW
 2026-09-24T01:15:00+00:00,INSIDER_CLUSTER,CV,"CapsoVision, Inc",HARARI ELIYAHOU ET AL $10.00M,9999998,5,https://www.sec.gov/Archives/edgar/data/1378325/000100916526000009/0001009165-26-000009-index.htm,HIGH
+2026-09-24T10:07:05+00:00,FORM_144,,"Qfin Holdings, Inc.",proposed sale $5.31M,5312703,,https://www.sec.gov/Archives/edgar/data/1741530/000110465926110102/0001104659-26-110102-index.htm,LOW
