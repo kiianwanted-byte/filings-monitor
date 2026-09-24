@@ -3327,3 +3327,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-24T20:53:40+00:00,FORM_144,,"PUBMATIC, INC.",proposed sale $881K,880657,,https://www.sec.gov/Archives/edgar/data/1833511/000195004726009802/0001950047-26-009802-index.htm,LOW
 2026-09-24T20:53:40+00:00,FORM_144,,NextNav Inc.,proposed sale $34K,34104,,https://www.sec.gov/Archives/edgar/data/2060247/000195004726009801/0001950047-26-009801-index.htm,LOW
 2026-09-24T21:03:27+00:00,FORM_144,,"Meta Platforms, Inc.",proposed sale $21.36M,21359454,,https://www.sec.gov/Archives/edgar/data/1548760/000192109426001050/0001921094-26-001050-index.htm,LOW
+2026-09-24T21:19:58+00:00,FORM_144,,REPLIGEN CORP,proposed sale $2.46M,2459740,,https://www.sec.gov/Archives/edgar/data/1995525/000195917326007110/0001959173-26-007110-index.htm,LOW
+2026-09-24T21:19:59+00:00,FORM_144,,"BillionToOne, Inc.",proposed sale $417K,416625,,https://www.sec.gov/Archives/edgar/data/2087127/000195917326007109/0001959173-26-007109-index.htm,LOW
