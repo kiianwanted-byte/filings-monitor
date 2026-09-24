@@ -3297,3 +3297,15 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-24T20:12:03+00:00,FORM_144,,"CLOVER HEALTH INVESTMENTS, CORP.",proposed sale $631K,631162,,https://www.sec.gov/Archives/edgar/data/1938197/000195004726009783/0001950047-26-009783-index.htm,LOW
 2026-09-24T20:12:03+00:00,FORM_144,,LUMENTUM HOLDINGS INC.,proposed sale $461K,460535,,https://www.sec.gov/Archives/edgar/data/1633978/000195004726009782/0001950047-26-009782-index.htm,LOW
 2026-09-24T20:12:04+00:00,FORM_144,,"BETA Technologies, Inc.",proposed sale $230K,230444,,https://www.sec.gov/Archives/edgar/data/2090083/000195917326007105/0001959173-26-007105-index.htm,LOW
+2026-09-24T20:28:22+00:00,INSIDER_CLUSTER,OXM,OXFORD INDUSTRIES INC,Chubb Thomas Caldecot III $65K,65374,0,https://www.sec.gov/Archives/edgar/data/1296939/000007528826000095/0000075288-26-000095-index.htm,HIGH
+2026-09-24T20:28:27+00:00,INSIDER_CLUSTER,DKS,"DICK'S SPORTING GOODS, INC.","Gupta Navdeep $1,000K",999983,2,https://www.sec.gov/Archives/edgar/data/1772409/000177240926000009/0001772409-26-000009-index.htm,HIGH
+2026-09-24T20:28:37+00:00,FORM_144,,"VERACYTE, INC.",proposed sale $352K,352500,,https://www.sec.gov/Archives/edgar/data/1819880/000195004726009791/0001950047-26-009791-index.htm,LOW
+2026-09-24T20:28:37+00:00,FORM_144,,"BLOCK, INC.",proposed sale $447K,447480,,https://www.sec.gov/Archives/edgar/data/1933928/000195004726009790/0001950047-26-009790-index.htm,LOW
+2026-09-24T20:28:38+00:00,FORM_144,,"NETAPP, INC.",proposed sale $7.40M,7398150,,https://www.sec.gov/Archives/edgar/data/1586813/000195004726009789/0001950047-26-009789-index.htm,LOW
+2026-09-24T20:28:38+00:00,FORM_144,,"Groupon, Inc.",proposed sale $410K,409530,,https://www.sec.gov/Archives/edgar/data/1973423/000195917326007108/0001959173-26-007108-index.htm,LOW
+2026-09-24T20:28:38+00:00,FORM_144,,"CrowdStrike Holdings, Inc.",proposed sale $125.47M,125469600,,https://www.sec.gov/Archives/edgar/data/1778610/000195917326007107/0001959173-26-007107-index.htm,LOW
+2026-09-24T20:28:39+00:00,FORM_144,,"Toll Brothers, Inc.",proposed sale $109K,108792,,https://www.sec.gov/Archives/edgar/data/1805167/000192109426001049/0001921094-26-001049-index.htm,LOW
+2026-09-24T20:28:39+00:00,FORM_144,,"PROTO LABS, INC.",proposed sale $173K,172534,,https://www.sec.gov/Archives/edgar/data/1870293/000195004726009788/0001950047-26-009788-index.htm,LOW
+2026-09-24T20:28:40+00:00,FORM_144,,"WORTHINGTON ENTERPRISES, INC.",proposed sale $2.07M,2068993,,https://www.sec.gov/Archives/edgar/data/1106145/000195004726009787/0001950047-26-009787-index.htm,LOW
+2026-09-24T20:28:40+00:00,FORM_144,,"Klaviyo, Inc.",proposed sale $22K,22124,,https://www.sec.gov/Archives/edgar/data/1991125/000195917326007106/0001959173-26-007106-index.htm,LOW
+2026-09-24T20:28:41+00:00,FORM_144,,"PINTEREST, INC.",proposed sale $550K,549842,,https://www.sec.gov/Archives/edgar/data/1983697/000192109426001048/0001921094-26-001048-index.htm,LOW
