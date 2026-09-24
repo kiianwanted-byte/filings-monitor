@@ -272,25 +272,53 @@ def ensure_files():
 
 
 def prune_csv(path, header, days, date_col="timestamp"):
-    """Keep the file to a rolling window so the repo and the reads stay small."""
+    """
+    Keep a CSV to a rolling window so the repo and the reads stay small.
+
+    Written with csv.reader, not DictReader. The alerts file on disk still has
+    an older 8-column header while newer rows carry 9 values, because the
+    priority column was added to the code without rewriting the file. With
+    DictReader the extra value landed under a None key and DictWriter raised
+    "dict contains fields not in fieldnames: None", which crashed every run
+    before state could be committed.
+
+    Rows are now read positionally, the timestamp is located by name in the
+    file's own header, and every row is written back padded or trimmed to the
+    canonical header. That also repairs the stale header on disk.
+    """
     if not path.exists():
         return
+    with path.open(newline="", encoding="utf-8") as f:
+        rows = list(csv.reader(f))
+    if not rows:
+        return
+
+    file_header, body = rows[0], rows[1:]
+    try:
+        ts_idx = file_header.index(date_col)
+    except ValueError:
+        ts_idx = 0
+
     cutoff = datetime.now(timezone.utc) - timedelta(days=days)
     kept = []
-    with path.open(newline="", encoding="utf-8") as f:
-        for row in csv.DictReader(f):
-            try:
-                d = datetime.fromisoformat(row[date_col])
-                if d.tzinfo is None:
-                    d = d.replace(tzinfo=timezone.utc)
-            except (ValueError, KeyError, TypeError):
-                kept.append(row)      # unparseable date, keep it rather than lose it
-                continue
-            if d >= cutoff:
-                kept.append(row)
+    for r in body:
+        if not r:
+            continue
+        keep = True
+        try:
+            d = datetime.fromisoformat(r[ts_idx])
+            if d.tzinfo is None:
+                d = d.replace(tzinfo=timezone.utc)
+            keep = d >= cutoff
+        except (ValueError, IndexError):
+            keep = True          # unreadable date, keep rather than lose it
+        if keep:
+            width = len(header)
+            kept.append((r + [""] * width)[:width])
+
     with path.open("w", newline="", encoding="utf-8") as f:
-        w = csv.DictWriter(f, fieldnames=header)
-        w.writeheader()
+        w = csv.writer(f)
+        w.writerow(header)
         w.writerows(kept)
 
 
@@ -1675,8 +1703,17 @@ def main():
 
     # Housekeeping once an hour.
     if due("prune", 55):
-        prune_csv(BUYS_CSV, BUYS_HEADER, 180)
-        prune_csv(ALERTS_CSV, ALERTS_HEADER, 365)
+        # Housekeeping must never take a run down with it. A failure here
+        # previously crashed the job before the commit step, so nothing was
+        # saved and the same crash repeated on every run.
+        for p, hdr, days in ((BUYS_CSV, BUYS_HEADER, 180),
+                             (ALERTS_CSV, ALERTS_HEADER, 365)):
+            try:
+                prune_csv(p, hdr, days)
+            except Exception as e:
+                record_error("prune", f"{p.name}: {e}")
+            else:
+                clear_error("prune")
         log("pruned rolling windows")
 
     log("done")
