@@ -3261,3 +3261,9 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link
 2026-09-23T23:31:01+00:00,FORM_144,,Quantum-Si Inc,proposed sale $6K,5805,,https://www.sec.gov/Archives/edgar/data/1816431/000155773626000004/0001557736-26-000004-index.htm,LOW
 2026-09-23T23:41:29+00:00,FORM_144,,Quantum-Si Inc,proposed sale $23K,22610,,https://www.sec.gov/Archives/edgar/data/1816431/000150503426000004/0001505034-26-000004-index.htm,LOW
 2026-09-23T23:58:05+00:00,FORM_144,,Broadcom Inc.,proposed sale $25.00M,25000058,,https://www.sec.gov/Archives/edgar/data/1730168/000197372726000057/0001973727-26-000057-index.htm,LOW
+2026-09-24T00:14:09+00:00,INSIDER_CLUSTER,NONE,Diameter Dynamic Credit Fund,"Lewinsohn Jonathan $1,000K",999999,13,https://www.sec.gov/Archives/edgar/data/2067955/000119312526399896/0001193125-26-399896-index.htm,HIGH
+2026-09-24T00:14:11+00:00,FORM_144,,Broadcom Inc.,proposed sale $225.00M,225004972,,https://www.sec.gov/Archives/edgar/data/2059824/000197372726000059/0001973727-26-000059-index.htm,LOW
+2026-09-24T00:14:11+00:00,FORM_144,,NN INC,proposed sale $3.37M,3370000,,https://www.sec.gov/Archives/edgar/data/1560207/000092189526002637/0000921895-26-002637-index.htm,LOW
+2026-09-24T00:14:11+00:00,FORM_144,,Korn Ferry,proposed sale $278K,278128,,https://www.sec.gov/Archives/edgar/data/1191546/000162828026063298/0001628280-26-063298-index.htm,LOW
+2026-09-24T00:14:12+00:00,FORM_144,,Broadcom Inc.,proposed sale $25.80M,25797598,,https://www.sec.gov/Archives/edgar/data/1996005/000197372726000058/0001973727-26-000058-index.htm,LOW
+2026-09-24T00:14:12+00:00,FORM_144,,Dell Technologies Inc.,proposed sale $1.02M,1015502,,https://www.sec.gov/Archives/edgar/data/1651403/000119312526399887/0001193125-26-399887-index.htm,LOW
