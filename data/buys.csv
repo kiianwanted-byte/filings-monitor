@@ -872,3 +872,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-24T00:35:24+00:00,2026-09-23,BCDA,"BioCardia, Inc.",Altman Peter,"Director, President and CEO",1900,1.05,1995,0.5,0001437749-26-031093
 2026-09-24T00:59:55+00:00,2026-09-22,DFDV,DeFi Development Corp.,Kang Daniel,Chief Strategy Officer,10440,8.83,92183,NEW,0002087925-26-000006
 2026-09-24T01:15:00+00:00,2026-09-18,CV,"CapsoVision, Inc",HARARI ELIYAHOU ET AL,10% owner,1757469,5.69,9999998,NEW,0001009165-26-000009
+2026-09-24T01:27:49+00:00,2026-09-21,LCU,Lion Copper Corp.,Alford Tony L,"Director, 10% owner",1000,4.36,4360,0.0,0001062993-26-005069
