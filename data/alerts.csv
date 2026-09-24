@@ -3287,3 +3287,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-24T18:21:28+00:00,FORM_144,,"BillionToOne, Inc.",proposed sale $170K,169920,,https://www.sec.gov/Archives/edgar/data/2087126/000195917326007102/0001959173-26-007102-index.htm,LOW
 2026-09-24T18:21:28+00:00,FORM_144,,AMERICAN COASTAL INSURANCE Corp,proposed sale $194K,193519,,https://www.sec.gov/Archives/edgar/data/1857512/000194984626000596/0001949846-26-000596-index.htm,LOW
 2026-09-24T18:21:29+00:00,FORM_144,,HENNESSY ADVISORS INC,proposed sale $51K,50800,,https://www.sec.gov/Archives/edgar/data/1165096/000195917326007101/0001959173-26-007101-index.htm,LOW
+2026-09-24T18:36:42+00:00,FORM_144,,VIVMARK RESIDENTIAL,proposed sale $1.59M,1594320,,https://www.sec.gov/Archives/edgar/data/1750568/000195917326007103/0001959173-26-007103-index.htm,LOW
