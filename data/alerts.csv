@@ -3281,3 +3281,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-24T14:49:07+00:00,FORM_144,,PROGRESSIVE CORP/OH/,proposed sale $250K,250255,,https://www.sec.gov/Archives/edgar/data/1665574/000195917326007097/0001959173-26-007097-index.htm,LOW
 2026-09-24T14:59:57+00:00,FORM_144,,MGIC INVESTMENT CORP,proposed sale $590K,589600,,https://www.sec.gov/Archives/edgar/data/1783337/000195917326007098/0001959173-26-007098-index.htm,LOW
 2026-09-24T15:17:41+00:00,FORM_144,,Gulfport Energy Corporation,proposed sale $397K,397440,,https://www.sec.gov/Archives/edgar/data/1678505/000197449426000304/0001974494-26-000304-index.htm,LOW
+2026-09-24T16:39:55+00:00,FORM_144,,Hut 8 Corp.,proposed sale $2.00M,2000000,,https://www.sec.gov/Archives/edgar/data/1964789/000195917326007099/0001959173-26-007099-index.htm,LOW
