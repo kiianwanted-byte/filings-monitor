@@ -38,7 +38,7 @@ import requests
 
 from monitor import (
     box, log, telegram, money, dmy, days_between,
-    load_json, save_json, append_csv, STATE_DIR, DATA_DIR,
+    load_json, save_json, append_csv, stamp, STATE_DIR, DATA_DIR,
 )
 
 # ---------------------------------------------------------------
@@ -708,6 +708,13 @@ def main():
         time.sleep(1)
 
     save_json(SEEN_FILE, list(seen)[-500:])
+
+    # Health stamp. Discovery returning nothing means the index or the
+    # seed list failed, which is a real error, not a quiet day.
+    if filings:
+        stamp("trump_state.json", documents=len(filings), new=len(new))
+    else:
+        stamp("trump_state.json", error="no filings found by discovery")
     log("trump done")
 
 

@@ -21,7 +21,7 @@ from datetime import datetime, timezone, timedelta
 
 import requests
 
-from monitor import box, log, telegram, load_json, save_json, STATE_DIR
+from monitor import box, log, telegram, load_json, save_json, stamp, STATE_DIR
 
 USER_AGENT = os.environ.get("SEC_USER_AGENT", "FilingsMonitor")
 FINNHUB_KEY = os.environ.get("FINNHUB_KEY", "")
@@ -148,7 +148,14 @@ def fetch_finnhub(start, end):
 
 
 def collect_week(start, end):
-    """Nasdaq first, Finnhub as fallback. Returns [] if both fail."""
+    """
+    Returns (rows, source_ok).
+
+    source_ok is False only when every source failed. An empty rows list with
+    source_ok True is a genuinely quiet week, not a fault. The old version
+    returned [] for both, so every quiet week in early September was reported
+    as "Nasdaq blocked the request".
+    """
     found = []
     day = start
     nasdaq_ok = False
@@ -162,11 +169,13 @@ def collect_week(start, end):
         day += timedelta(days=1)
 
     if nasdaq_ok:
-        return found
+        return found, True
 
     log("nasdaq unavailable, trying finnhub")
     rows = fetch_finnhub(start, end)
-    return rows if rows is not None else []
+    if rows is not None:
+        return rows, True
+    return [], False
 
 
 # ---------------------------------------------------------------
@@ -210,21 +219,33 @@ def run_digest():
     if today.weekday() == 0:
         start = today
     end = start + timedelta(days=4)
+    span = f"{start.strftime('%d %b')} to {end.strftime('%d %b')}"
 
-    rows = collect_week(start, end)
-    digest = build_digest(start, end, rows)
+    rows, source_ok = collect_week(start, end)
 
-    if not digest:
-        telegram(box("WEEK AHEAD - no calendar data", [
+    if not source_ok:
+        stamp("earnings_state.json", error="Nasdaq and Finnhub both failed")
+        telegram(box("WEEK AHEAD - EARNINGS UNAVAILABLE", [
             ("PRIORITY", "MEDIUM"),
-            ("WEEK", f"{start.strftime('%d %b')} to {end.strftime('%d %b')}"),
-            ("PROBLEM", "Earnings calendar returned nothing"),
-            ("LIKELY CAUSE", "Nasdaq blocked the request or changed format"),
-            ("ACTION", "Run the earnings workflow manually with the test arg"),
+            ("WEEK", span),
+            ("PROBLEM", "Earnings calendar could not be reached"),
+            ("ACTION", "Actions tab, run Diagnostics"),
         ]))
         return
 
-    body = [("WEEK", f"{start.strftime('%d %b')} to {end.strftime('%d %b')}")]
+    digest = build_digest(start, end, rows)
+
+    if not digest:
+        # A real quiet week. Say so plainly and count it as a healthy run.
+        telegram(box("WEEK AHEAD - EARNINGS", [
+            ("WEEK", span),
+            ("STATUS", f"None of the {len(WATCHLIST)} large caps report this week"),
+        ]))
+        stamp("earnings_state.json", count=0)
+        log("earnings: quiet week, no watchlist companies reporting")
+        return
+
+    body = [("WEEK", span)]
     body += digest
     body.append(("WATCHING", f"{len(WATCHLIST)} large caps"))
 
@@ -232,9 +253,7 @@ def run_digest():
                  footer="You cannot beat the market to a release. "
                         "This is so you are not holding into one blind."))
 
-    save_json(STATE_FILE, {"last_sent": datetime.now(timezone.utc)
-                           .isoformat(timespec="seconds"),
-                           "count": len(rows)})
+    stamp("earnings_state.json", count=len(rows))
     log(f"earnings digest sent, {len(rows)} entries")
 
 

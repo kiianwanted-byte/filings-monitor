@@ -25,7 +25,7 @@ from datetime import datetime, timezone, timedelta
 
 import requests
 
-from monitor import box, log, telegram, load_json, save_json, STATE_DIR
+from monitor import box, log, telegram, load_json, save_json, stamp, STATE_DIR
 
 USER_AGENT = os.environ.get("SEC_USER_AGENT", "FilingsMonitor")
 
@@ -130,6 +130,7 @@ def run_digest():
         label = "next week"
 
     if data is None:
+        stamp("events_state.json", error="calendar feed unreachable")
         telegram(box("US EVENTS - no data", [
             ("PRIORITY", "MEDIUM"),
             ("PROBLEM", "Calendar feed returned nothing"),
@@ -142,18 +143,20 @@ def run_digest():
     rows = build(events)
 
     if not rows:
+        # A quiet week is still a healthy run. Previously this returned
+        # before saving state, so the state file aged out and a quiet week
+        # looked identical to a broken module.
         log("events: no US events matched this week")
         telegram(box("WEEK AHEAD - US EVENTS", [
             ("STATUS", "No high impact US events scheduled this week"),
         ]), silent=False)
+        stamp("events_state.json", count=0)
         return
 
     telegram(box("WEEK AHEAD - US EVENTS", rows,
                  footer="All times Singapore."), silent=False)
 
-    save_json(STATE_FILE, {"sent": datetime.now(timezone.utc)
-                           .isoformat(timespec="seconds"),
-                           "count": len(events)})
+    stamp("events_state.json", count=len(events))
     log(f"events digest sent, {len(events)} events")
 
 

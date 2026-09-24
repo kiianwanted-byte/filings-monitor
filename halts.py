@@ -28,7 +28,7 @@ from xml.etree import ElementTree as ET
 
 import requests
 
-from monitor import (box, log, telegram, load_json, save_json,
+from monitor import (box, log, telegram, load_json, save_json, stamp,
                      find_all, find_one, STATE_DIR)
 
 FEED_URL = "https://www.nasdaqtrader.com/rss.aspx?feed=tradehalts"
@@ -190,16 +190,15 @@ def run():
     xml_text = fetch_feed()
     if xml_text is None:
         log("halts: feed unreachable this run")
+        stamp("halts_state.json", error="feed unreachable")
         return
 
     halts = parse(xml_text)
     if halts is None:
+        stamp("halts_state.json", error="feed not parseable as XML")
         return
 
-    save_json(STATE_FILE, {
-        "last_ok": datetime.now(timezone.utc).isoformat(timespec="seconds"),
-        "items_in_feed": len(halts),
-    })
+    stamp("halts_state.json", items_in_feed=len(halts))
 
     seen = load_json(SEEN_FILE, [])
     seen_set = set(seen)
