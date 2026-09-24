@@ -128,11 +128,6 @@ def fetch_finnhub(start, end):
     except ValueError:
         return None
 
-    if debug:
-        allsyms = [(r.get("symbol") or "").upper() for r in rows]
-        print(f"    total companies reporting: {len(rows)}")
-        print(f"    sample: {', '.join(allsyms[:12])}")
-
     out = []
     for row in rows:
         sym = (row.get("symbol") or "").upper().strip()

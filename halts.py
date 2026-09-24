@@ -73,6 +73,19 @@ ALERT_ON = {
 # Of the alerting codes, these buzz the phone rather than landing silently.
 HIGH_CODES = {"T1", "H10", "M"}
 
+# Referenced by fetch_feed but was never defined in the deployed file, so
+# every run from the morning of 24 Sep 2026 died with a NameError before
+# fetching anything. That is what stalled halts for most of a day.
+BROWSER_HEADERS = {
+    "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                   "AppleWebKit/537.36 (KHTML, like Gecko) "
+                   "Chrome/126.0.0.0 Safari/537.36"),
+    "Accept": ("application/rss+xml, application/xml;q=0.9, "
+               "text/xml;q=0.9, */*;q=0.8"),
+    "Accept-Language": "en-US,en;q=0.9",
+    "Referer": "https://www.nasdaqtrader.com/trader.aspx?id=tradehalts",
+}
+
 session = requests.Session()
 
 
