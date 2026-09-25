@@ -66,40 +66,97 @@ SENATE_ENABLED = os.environ.get("SENATE_ENABLED", "").lower() in ("1", "true", "
 # trades. Everything still lands in the CSV, this only governs what is pushed.
 EQUITY_ONLY = True
 
-# Members whose trades get pushed at HIGH regardless of size. Matched as
-# lowercase substrings against the filed name.
 # Members whose trades always push at HIGH, even below the dollar floor.
 #
-# Matched as WHOLE WORDS against the full "First Last" name. The previous
-# substring match had two bugs found on 25 Sep 2026: "scott" (meant for
-# Senators Rick and Tim Scott) matched the first name of any Scott, so Scott
-# Peters and Scott Franklin were treated as watchlist and their small trades
-# bypassed the floor. And "johnson mike" was in the wrong word order, so the
-# Speaker, Mike Johnson, never matched at all.
+# Matched on SURNAME, because the House writes legal names: "Daniel
+# Crenshaw", "Michael Patrick Guest", "Terri A. Sewell". Full-name matching
+# missed Crenshaw and Meuser for that reason, and plain substring matching let
+# "scott" match any Scott. Where a surname is common, the allowed first names
+# follow it, so "Julie Johnson" does not match the Speaker and "Scott Peters"
+# does not match Senator Rick Scott.
 #
-# Use full names wherever a surname is common. Senators are listed for when
-# SENATE_ENABLED is turned on; they cannot match while it is off.
-NOTABLE_MEMBERS = [
-    # House
-    "nancy pelosi", "marjorie taylor greene", "ro khanna", "dan crenshaw",
-    "josh gottheimer", "michael mccaul", "lauren boebert", "thomas massie",
-    "maxine waters", "hakeem jeffries", "mike johnson", "kevin hern",
-    "dan meuser", "david kustoff", "andrew garbarino",
-    # Senate
-    "tommy tuberville", "ron wyden", "chuck schumer", "mitch mcconnell",
-    "rick scott", "tim scott", "mark warner", "bernie moreno", "jim banks",
-    "ruben gallego",
-]
+# Reviewed 25 Sep 2026 against the Unusual Whales yearly rankings. Those
+# measure change in portfolio value over the year, not trade win rate, and
+# they do not persist: none of the 2025 top 10 were in the 2024 top 10.
+# Several top performers barely trade (Norcross logged no trades in 2026,
+# Davidson one), so watching them costs almost nothing in noise.
+#
+#   surname             allowed first names (None = any)
+NOTABLE_MEMBERS = {
+    # Long-watched
+    "pelosi":            None,
+    "greene":            {"marjorie"},
+    "khanna":            None,
+    "crenshaw":          None,
+    "gottheimer":        None,
+    "mccaul":            None,
+    "boebert":           None,
+    "massie":            None,
+    "waters":            {"maxine"},
+    "jeffries":          None,
+    "johnson":           {"mike", "michael", "james"},     # the Speaker
+    "hern":              {"kevin"},
+    "meuser":            None,
+    "garbarino":         None,
+    "kustoff":           None,
+    # 2025 top ten, House
+    "davidson":          {"warren"},
+    "norcross":          None,
+    "sewell":            {"terri"},
+    "steil":             None,
+    "lalota":            None,
+    "guest":             {"michael"},
+    "evans":             {"dwight"},
+    # 2024 top ten, House
+    "williams":          {"roger"},
+    "rouzer":            None,
+    "wasserman schultz": None,
+    "mcgarvey":          None,
+    "sessions":          {"pete", "peter"},
+    # Requested, sitting member
+    "babin":             None,
+    # Senate. Only takes effect if SENATE_ENABLED is switched on.
+    "tuberville":        None,
+    "wyden":             None,
+    "schumer":           None,
+    "mcconnell":         None,
+    "scott":             {"rick", "richard", "tim", "timothy"},
+    "warner":            {"mark"},
+    "moreno":            {"bernie", "bernardo"},
+    "banks":             {"jim", "james"},
+    "gallego":           {"ruben"},
+    "padilla":           {"alex", "alejandro"},
+    "collins":           {"susan"},
+    "fetterman":         None,
+}
 
-_NOTABLE_RE = re.compile(
-    r"\b(" + "|".join(re.escape(n) for n in NOTABLE_MEMBERS) + r")\b")
+_NAME_SUFFIXES = {"jr", "sr", "ii", "iii", "iv", "md", "phd"}
+
+
+def _member_tokens(name):
+    s = str(name or "").lower().replace("-", " ")
+    s = re.sub(r"[^a-z ]", " ", s)
+    toks = [t for t in s.split() if len(t) > 1 and t not in _NAME_SUFFIXES]
+    # "Scott Scott Franklin": drop an immediately repeated word.
+    out = []
+    for t in toks:
+        if not out or out[-1] != t:
+            out.append(t)
+    return out
 
 
 def is_notable_member(name):
-    """Whole-word match, and tolerant of a middle initial: "Nancy P. Pelosi"
-    and "Nancy Pelosi" both match "nancy pelosi"."""
-    n = re.sub(r"\s+", " ", re.sub(r"\b[a-z]\.\s*", "", (name or "").lower()))
-    return bool(_NOTABLE_RE.search(n))
+    """Surname match, with a first-name check where the surname is common."""
+    toks = _member_tokens(name)
+    if len(toks) < 2:
+        return False
+    joined = " ".join(toks)
+    for surname, firsts in NOTABLE_MEMBERS.items():
+        if joined.endswith(" " + surname):
+            if firsts is None or toks[0] in firsts:
+                return True
+    return False
+
 
 # Asset names that mean debt or a private vehicle rather than a listed stock.
 NON_EQUITY_RE = re.compile(
