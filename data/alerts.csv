@@ -3356,3 +3356,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-25T14:16:42+00:00,FORM_144,AMBA,AMBARELLA INC,proposed sale $18K,17690,,https://www.sec.gov/Archives/edgar/data/1280263/000195917326007113/0001959173-26-007113-index.htm,LOW
 2026-09-25T14:58:44+00:00,INSIDER_BUY,HRGN,"Harvard Apparatus Regenerative Technology, Inc.",He Junli $394K,394459,14,https://www.sec.gov/Archives/edgar/data/1728598/000143774926031181/0001437749-26-031181-index.htm,MEDIUM
 2026-09-25T15:15:03+00:00,INSIDER_BUY,KBDC,"Kayne Anderson BDC, Inc.",ROBO JAMES L $1.37M,1369830,1,https://www.sec.gov/Archives/edgar/data/1747172/000118325426000007/0001183254-26-000007-index.htm,MEDIUM
+2026-09-25T15:30:18+00:00,INSIDER_CLUSTER,RGCO,RGC RESOURCES INC,JOHNSTON ROBERT B $22K,22193,2,https://www.sec.gov/Archives/edgar/data/1280855/000143774926031185/0001437749-26-031185-index.htm,HIGH
+2026-09-25T15:30:26+00:00,FORM_144,SBGI,"Sinclair, Inc.",proposed sale $3.85M,3845658,,https://www.sec.gov/Archives/edgar/data/1971213/000162828026063521/0001628280-26-063521-index.htm,LOW
