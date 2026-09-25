@@ -3397,3 +3397,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-25T20:38:34+00:00,FORM_144,DFTX,"DEFINIUM THERAPEUTICS, INC.",proposed sale $1.16M,1158831,,https://www.sec.gov/Archives/edgar/data/1897557/000195004726009813/0001950047-26-009813-index.htm,LOW
 2026-09-25T20:38:34+00:00,FORM_144,XYZ,"BLOCK, INC.",proposed sale $461K,461400,,https://www.sec.gov/Archives/edgar/data/1933928/000195004726009812/0001950047-26-009812-index.htm,LOW
 2026-09-25T20:38:34+00:00,FORM_144,LITE,LUMENTUM HOLDINGS INC.,proposed sale $468K,467875,,https://www.sec.gov/Archives/edgar/data/1633978/000195004726009811/0001950047-26-009811-index.htm,LOW
+2026-09-25T20:48:40+00:00,FORM_144,CACC,Credit Acceptance Corp,proposed sale $7.81M,7805520,,https://www.sec.gov/Archives/edgar/data/2137517/000196922326001041/0001969223-26-001041-index.htm,LOW
+2026-09-25T20:48:40+00:00,FORM_144,ZETA,Zeta Global Holdings Corp,proposed sale $1.04M,1042311,,https://www.sec.gov/Archives/edgar/data/2006594/000162828026063597/0001628280-26-063597-index.htm,LOW
+2026-09-25T20:48:41+00:00,FORM_144,AHR,"AMERICAN HEALTHCARE REIT, INC.",proposed sale $78K,78090,,https://www.sec.gov/Archives/edgar/data/1941750/000162828026063591/0001628280-26-063591-index.htm,LOW
+2026-09-25T20:49:00+00:00,FORM_144,CBRS,Cerebras Systems Inc.,proposed sale $24.77M,24769200,,https://www.sec.gov/Archives/edgar/data/2132472/000195004726009828/0001950047-26-009828-index.htm,LOW
+2026-09-25T20:49:01+00:00,STAKE_13D,,ICAHN CARL C, 99.6%,,,https://www.sec.gov/Archives/edgar/data/921669/000153949726002605/0001539497-26-002605-index.htm,HIGH
