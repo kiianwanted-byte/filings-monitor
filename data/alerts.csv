@@ -3364,3 +3364,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-25T17:53:33+00:00,FORM_144,MAR,MARRIOTT INTERNATIONAL INC /MD/,proposed sale $1.24M,1236900,,https://www.sec.gov/Archives/edgar/data/1359807/000197407826000365/0001974078-26-000365-index.htm,LOW
 2026-09-25T18:04:12+00:00,FORM_144,MAR,MARRIOTT INTERNATIONAL INC /MD/,proposed sale $1.24M,1236900,,https://www.sec.gov/Archives/edgar/data/1048286/000197407826000366/0001974078-26-000366-index.htm,LOW
 2026-09-25T18:22:40+00:00,FORM_144,MAR,MARRIOTT INTERNATIONAL INC /MD/,proposed sale $1.24M,1236900,,https://www.sec.gov/Archives/edgar/data/1359809/000197407826000367/0001974078-26-000367-index.htm,LOW
+2026-09-25T18:36:31+00:00,INSIDER_CLUSTER,DFDV,DeFi Development Corp.,White Parker $90K,89567,1,https://www.sec.gov/Archives/edgar/data/2061848/000206184826000005/0002061848-26-000005-index.htm,HIGH
+2026-09-25T18:36:35+00:00,INSIDER_BUY,,Calamos Aksia Hedged Strategies Fund,"Calamos Aksia Hedged Strategies Fund (Offshore), Ltd. $7.48M",7477499,2,https://www.sec.gov/Archives/edgar/data/2125773/000212577326000013/0002125773-26-000013-index.htm,LOW
