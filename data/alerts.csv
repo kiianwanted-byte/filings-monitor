@@ -3341,3 +3341,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-24T23:25:59+00:00,INSIDER_BUY,HHH,Howard Hughes Holdings Inc.,GRANDISSON MARC $1.60M,1602937,1,https://www.sec.gov/Archives/edgar/data/1981792/000110465926110505/0001104659-26-110505-index.htm,MEDIUM
 2026-09-24T23:26:00+00:00,INSIDER_CLUSTER,HHH,Howard Hughes Holdings Inc.,Davis Andrew D. $64K,64489,1,https://www.sec.gov/Archives/edgar/data/2061033/000110465926110504/0001104659-26-110504-index.htm,HIGH
 2026-09-24T23:37:05+00:00,FORM_144,,"Palo Alto Networks, Inc.",proposed sale $295K,294975,,https://www.sec.gov/Archives/edgar/data/1773301/000196858226001007/0001968582-26-001007-index.htm,LOW
+2026-09-25T00:31:09+00:00,INSIDER_CLUSTER,NONE,Blackstone Multi-Strategy Hedge Fund L.P.,Jaffe Max James $50K,49999,23,https://www.sec.gov/Archives/edgar/data/2105120/000119312526401356/0001193125-26-401356-index.htm,HIGH
+2026-09-25T00:31:12+00:00,FORM_144,,Ondas Inc.,proposed sale $38K,38328,,https://www.sec.gov/Archives/edgar/data/1646188/000121390026103171/0001213900-26-103171-index.htm,LOW

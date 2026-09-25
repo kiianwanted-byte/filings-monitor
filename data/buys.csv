@@ -903,3 +903,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-24T22:59:13+00:00,2026-09-22,PDI,PIMCO Dynamic Income Fund,Morris Sonya,Director,5700,14.02,79885,NEW,0002084606-26-000014
 2026-09-24T23:25:59+00:00,2026-09-23,HHH,Howard Hughes Holdings Inc.,GRANDISSON MARC,"Director, Executive Chairman, Vantage",25000,64.12,1602937,34.7,0001104659-26-110505
 2026-09-24T23:26:00+00:00,2026-09-23,HHH,Howard Hughes Holdings Inc.,Davis Andrew D.,"Chief Operating Officer, HHC",1000,64.49,64489,3.2,0001104659-26-110504
+2026-09-25T00:31:09+00:00,2026-09-01,NONE,Blackstone Multi-Strategy Hedge Fund L.P.,Jaffe Max James,Chief Operating Officer,1957,25.54,49999,NEW,0001193125-26-401356
