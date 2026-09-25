@@ -929,3 +929,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-25T18:04:11+00:00,2026-09-18,CUEN,Cuentas Inc.,Maimon Shalom Arik,CEO,10000,0.59,5863,1.1,0001213900-26-103430
 2026-09-25T18:36:31+00:00,2026-09-24,DFDV,DeFi Development Corp.,White Parker,10% owner,10000,8.96,89567,NEW,0002061848-26-000005
 2026-09-25T18:36:35+00:00,2026-09-23,,Calamos Aksia Hedged Strategies Fund,"Calamos Aksia Hedged Strategies Fund (Offshore), Ltd.",10% owner,714183,10.47,7477499,37.3,0002125773-26-000013
+2026-09-25T19:14:50+00:00,2026-09-24,DHF,BNY MELLON HIGH YIELD STRATEGIES FUND,DIMARTINO JOSEPH S,Director,20000,2.22,44400,9.1,0001180645-26-000001
