@@ -3370,3 +3370,30 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-25T19:57:05+00:00,FORM_144,CACC,Credit Acceptance Corp,proposed sale $6.66M,6660000,,https://www.sec.gov/Archives/edgar/data/1568982/000196922326001037/0001969223-26-001037-index.htm,LOW
 2026-09-25T20:12:18+00:00,INSIDER_CLUSTER,PHIO,Phio Pharmaceuticals Corp.,BRADFORD PATRICIA A $7K,6582,1,https://www.sec.gov/Archives/edgar/data/1533040/000168316826007432/0001683168-26-007432-index.htm,HIGH
 2026-09-25T20:22:58+00:00,FORM_144,FLOC,Flowco Holdings Inc.,proposed sale $39K,39092,,https://www.sec.gov/Archives/edgar/data/2049797/000195779926000179/0001957799-26-000179-index.htm,LOW
+2026-09-25T20:35:12+00:00,INSIDER_BUY,,Core University Living Real Estate Income Trust,"CS RE Holdings, LLC $30.91M",30907590,66,https://www.sec.gov/Archives/edgar/data/2148516/000119312526402876/0001193125-26-402876-index.htm,LOW
+2026-09-25T20:35:19+00:00,INSIDER_CLUSTER,SKIL,Skillsoft Corp.,HOVSEPIAN RONALD W $66K,66414,2,https://www.sec.gov/Archives/edgar/data/1774675/000109148226000019/0001091482-26-000019-index.htm,HIGH
+2026-09-25T20:35:23+00:00,FORM_144,WOR,"WORTHINGTON ENTERPRISES, INC.",proposed sale $2.10M,2104723,,https://www.sec.gov/Archives/edgar/data/1106145/000195004726009827/0001950047-26-009827-index.htm,LOW
+2026-09-25T20:35:33+00:00,FORM_144,KDK,"Kodiak AI, Inc.",proposed sale $9.04M,9035000,,https://www.sec.gov/Archives/edgar/data/2082817/000196858226001014/0001968582-26-001014-index.htm,LOW
+2026-09-25T20:35:33+00:00,FORM_144,PRLB,"PROTO LABS, INC.",proposed sale $109K,109493,,https://www.sec.gov/Archives/edgar/data/1870293/000195004726009826/0001950047-26-009826-index.htm,LOW
+2026-09-25T20:35:34+00:00,FORM_144,IBEX,IBEX Ltd,proposed sale $225K,225095,,https://www.sec.gov/Archives/edgar/data/1720420/000100027526000114/0001000275-26-000114-index.htm,LOW
+2026-09-25T20:35:34+00:00,FORM_144,IOT,SAMSARA INC.,proposed sale $845K,844986,,https://www.sec.gov/Archives/edgar/data/1895101/000195004726009825/0001950047-26-009825-index.htm,LOW
+2026-09-25T20:35:34+00:00,FORM_144,TEM,"Tempus AI, Inc.",proposed sale $846K,845509,,https://www.sec.gov/Archives/edgar/data/2113721/000195004726009824/0001950047-26-009824-index.htm,LOW
+2026-09-25T20:35:35+00:00,FORM_144,DFTX,"DEFINIUM THERAPEUTICS, INC.",proposed sale $516K,516093,,https://www.sec.gov/Archives/edgar/data/1813814/000195004726009823/0001950047-26-009823-index.htm,LOW
+2026-09-25T20:36:33+00:00,FORM_144,SONO,Sonos Inc,proposed sale $848K,847634,,https://www.sec.gov/Archives/edgar/data/1561290/000195917326007120/0001959173-26-007120-index.htm,LOW
+2026-09-25T20:36:34+00:00,FORM_144,P,"Everpure, Inc.",proposed sale $12.19M,12188000,,https://www.sec.gov/Archives/edgar/data/1651902/000195004726009821/0001950047-26-009821-index.htm,LOW
+2026-09-25T20:36:40+00:00,FORM_144,MNKD,MannKind Corporation,proposed sale $128K,128477,,https://www.sec.gov/Archives/edgar/data/1712601/000195004726009820/0001950047-26-009820-index.htm,LOW
+2026-09-25T20:37:06+00:00,FORM_144,AKAM,AKAMAI TECHNOLOGIES INC,proposed sale $258K,257664,,https://www.sec.gov/Archives/edgar/data/1845739/000192109426001051/0001921094-26-001051-index.htm,LOW
+2026-09-25T20:37:06+00:00,FORM_144,RVMD,"Revolution Medicines, Inc.",proposed sale $1.87M,1871289,,https://www.sec.gov/Archives/edgar/data/2124509/000195004726009818/0001950047-26-009818-index.htm,LOW
+2026-09-25T20:37:19+00:00,FORM_144,GRPN,"Groupon, Inc.",proposed sale $425K,425073,,https://www.sec.gov/Archives/edgar/data/1973423/000195917326007119/0001959173-26-007119-index.htm,LOW
+2026-09-25T20:37:42+00:00,FORM_144,DFTX,"DEFINIUM THERAPEUTICS, INC.",proposed sale $124K,124037,,https://www.sec.gov/Archives/edgar/data/1813814/000195004726009817/0001950047-26-009817-index.htm,LOW
+2026-09-25T20:37:43+00:00,FORM_144,CACC,Credit Acceptance Corp,proposed sale $3.39M,3388275,,https://www.sec.gov/Archives/edgar/data/2137517/000196922326001040/0001969223-26-001040-index.htm,LOW
+2026-09-25T20:37:43+00:00,FORM_144,DFTX,"DEFINIUM THERAPEUTICS, INC.",proposed sale $114K,113752,,https://www.sec.gov/Archives/edgar/data/1813814/000195004726009816/0001950047-26-009816-index.htm,LOW
+2026-09-25T20:37:43+00:00,FORM_144,BETA,"BETA Technologies, Inc.",proposed sale $241K,241498,,https://www.sec.gov/Archives/edgar/data/2090083/000195917326007118/0001959173-26-007118-index.htm,LOW
+2026-09-25T20:37:44+00:00,FORM_144,COHU,"COHU, INC.",proposed sale $1.77M,1770340,,https://www.sec.gov/Archives/edgar/data/1509513/000195004726009815/0001950047-26-009815-index.htm,LOW
+2026-09-25T20:37:44+00:00,FORM_144,SHOP,Shopify Inc.,proposed sale $893K,893054,,https://www.sec.gov/Archives/edgar/data/1962732/000159480526000060/0001594805-26-000060-index.htm,LOW
+2026-09-25T20:38:01+00:00,FORM_144,INNV,InnovAge Holding Corp.,proposed sale $293K,292581,,https://www.sec.gov/Archives/edgar/data/1884895/000196858226001012/0001968582-26-001012-index.htm,LOW
+2026-09-25T20:38:01+00:00,FORM_144,ASPI,"ASP Isotopes, Inc.",proposed sale $590K,590000,,https://www.sec.gov/Archives/edgar/data/1921865/000196858226001011/0001968582-26-001011-index.htm,LOW
+2026-09-25T20:38:33+00:00,FORM_144,ANET,"Arista Networks, Inc.",proposed sale $13.24M,13238021,,https://www.sec.gov/Archives/edgar/data/1605809/000195917326007116/0001959173-26-007116-index.htm,LOW
+2026-09-25T20:38:34+00:00,FORM_144,DFTX,"DEFINIUM THERAPEUTICS, INC.",proposed sale $1.16M,1158831,,https://www.sec.gov/Archives/edgar/data/1897557/000195004726009813/0001950047-26-009813-index.htm,LOW
+2026-09-25T20:38:34+00:00,FORM_144,XYZ,"BLOCK, INC.",proposed sale $461K,461400,,https://www.sec.gov/Archives/edgar/data/1933928/000195004726009812/0001950047-26-009812-index.htm,LOW
+2026-09-25T20:38:34+00:00,FORM_144,LITE,LUMENTUM HOLDINGS INC.,proposed sale $468K,467875,,https://www.sec.gov/Archives/edgar/data/1633978/000195004726009811/0001950047-26-009811-index.htm,LOW
