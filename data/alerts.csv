@@ -3353,3 +3353,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-25T10:13:37+00:00,INSIDER_BUY,NCT,Intercont (Cayman) Ltd,Zhu Muchun $650K,650000,0,https://www.sec.gov/Archives/edgar/data/2071210/000149315226044229/0001493152-26-044229-index.htm,MEDIUM
 2026-09-25T12:51:34+00:00,INSIDER_CLUSTER,ANIX,Anixa Biosciences Inc,Titterton Lewis H jr $132K,131906,2,https://www.sec.gov/Archives/edgar/data/1499254/000149315226044250/0001493152-26-044250-index.htm,HIGH
 2026-09-25T13:59:19+00:00,FORM_144,EOG,EOG RESOURCES INC,proposed sale $1.27M,1270973,,https://www.sec.gov/Archives/edgar/data/1862479/000195917326007112/0001959173-26-007112-index.htm,LOW
+2026-09-25T14:16:42+00:00,FORM_144,AMBA,AMBARELLA INC,proposed sale $18K,17690,,https://www.sec.gov/Archives/edgar/data/1280263/000195917326007113/0001959173-26-007113-index.htm,LOW
