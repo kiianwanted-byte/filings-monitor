@@ -3360,3 +3360,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-25T15:30:26+00:00,FORM_144,SBGI,"Sinclair, Inc.",proposed sale $3.85M,3845658,,https://www.sec.gov/Archives/edgar/data/1971213/000162828026063521/0001628280-26-063521-index.htm,LOW
 2026-09-25T16:22:34+00:00,FORM_144,QCOM,QUALCOMM,proposed sale $2.00M,2000000,,https://www.sec.gov/Archives/edgar/data/1559665/000162828026063526/0001628280-26-063526-index.htm,LOW
 2026-09-25T16:50:36+00:00,FORM_144,HOS,"HORNBECK OFFSHORE SERVICES, INC.",proposed sale $606K,606459,,https://www.sec.gov/Archives/edgar/data/1880259/000195917326007114/0001959173-26-007114-index.htm,LOW
+2026-09-25T17:41:55+00:00,FORM_144,PLAB,PHOTRONICS INC,proposed sale $289K,288515,,https://www.sec.gov/Archives/edgar/data/2027437/000195917326007115/0001959173-26-007115-index.htm,LOW
