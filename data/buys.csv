@@ -904,3 +904,11 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-24T23:25:59+00:00,2026-09-23,HHH,Howard Hughes Holdings Inc.,GRANDISSON MARC,"Director, Executive Chairman, Vantage",25000,64.12,1602937,34.7,0001104659-26-110505
 2026-09-24T23:26:00+00:00,2026-09-23,HHH,Howard Hughes Holdings Inc.,Davis Andrew D.,"Chief Operating Officer, HHC",1000,64.49,64489,3.2,0001104659-26-110504
 2026-09-25T00:31:09+00:00,2026-09-01,NONE,Blackstone Multi-Strategy Hedge Fund L.P.,Jaffe Max James,Chief Operating Officer,1957,25.54,49999,NEW,0001193125-26-401356
+2026-09-25T00:47:48+00:00,2026-09-23,PWRL,Powerlaw Corp.,Dinsdale Mike John,"Director, Chief Executive Officer",8726,11.46,99999,1.3,0001213900-26-103178
+2026-09-25T00:47:49+00:00,2026-09-01,NONE,Blackstone Multi-Strategy Hedge Fund L.P.,Abrahams Riad M,"Director, Chief Executive Officer",3915,25.54,100000,NEW,0001193125-26-401375
+2026-09-25T00:47:50+00:00,2026-09-01,NONE,Blackstone Multi-Strategy Hedge Fund L.P.,Collins Philip Daniel,Director,78308,25.54,2000000,NEW,0001193125-26-401374
+2026-09-25T00:47:52+00:00,2026-09-01,NONE,Blackstone Multi-Strategy Hedge Fund L.P.,Gardiner William Simpson,Chief Compliance Officer,1957,25.54,49999,NEW,0001193125-26-401370
+2026-09-25T00:47:53+00:00,2026-09-01,NONE,Blackstone Multi-Strategy Hedge Fund L.P.,Desai Ravi Rajendra,President,15661,25.54,399999,NEW,0001193125-26-401365
+2026-09-25T00:47:56+00:00,2026-09-01,NONE,Blackstone Multi-Strategy Hedge Fund L.P.,Knopp Paul James,Director,3915,25.54,100000,NEW,0001193125-26-401360
+2026-09-25T00:47:57+00:00,2026-09-01,NONE,Blackstone Multi-Strategy Hedge Fund L.P.,Uffner Gregory Adam,Chief Legal Officer,1957,25.54,49999,NEW,0001193125-26-401359
+2026-09-25T00:47:58+00:00,2026-09-01,NONE,Blackstone Multi-Strategy Hedge Fund L.P.,Querrey Kimberly K.,Director,274079,25.54,7000000,NEW,0001193125-26-401358
