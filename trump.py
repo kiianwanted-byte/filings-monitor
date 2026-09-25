@@ -39,6 +39,7 @@ import requests
 from monitor import (
     box, log, telegram, money, dmy, days_between,
     load_json, save_json, append_csv, stamp, STATE_DIR, DATA_DIR,
+    name_to_ticker,
 )
 
 # ---------------------------------------------------------------
@@ -260,7 +261,16 @@ def resolve_ticker(name):
         if key.startswith(k) or k.startswith(key):
             if abs(len(k) - len(key)) <= 6:
                 return v
-    return ""
+
+    # Fall back to the SEC's full list of listed companies. The hand-built
+    # map above covers about 300 names, which left 43 percent of Trump trades
+    # showing a company name instead of a ticker (Booking, Chipotle, Zscaler,
+    # Lululemon). refresh=False: monitor.py owns that cache file and this
+    # workflow only reads it, so the two never collide on a git push.
+    try:
+        return name_to_ticker(name, refresh=False)
+    except Exception:
+        return ""
 
 
 # The 278-T carries NO tickers. Rows are company names in plain text, and

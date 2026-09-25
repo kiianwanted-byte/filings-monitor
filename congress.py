@@ -68,17 +68,38 @@ EQUITY_ONLY = True
 
 # Members whose trades get pushed at HIGH regardless of size. Matched as
 # lowercase substrings against the filed name.
+# Members whose trades always push at HIGH, even below the dollar floor.
+#
+# Matched as WHOLE WORDS against the full "First Last" name. The previous
+# substring match had two bugs found on 25 Sep 2026: "scott" (meant for
+# Senators Rick and Tim Scott) matched the first name of any Scott, so Scott
+# Peters and Scott Franklin were treated as watchlist and their small trades
+# bypassed the floor. And "johnson mike" was in the wrong word order, so the
+# Speaker, Mike Johnson, never matched at all.
+#
+# Use full names wherever a surname is common. Senators are listed for when
+# SENATE_ENABLED is turned on; they cannot match while it is off.
 NOTABLE_MEMBERS = [
-    "pelosi", "greene", "khanna", "crenshaw", "gottheimer", "mccaul",
-    "tuberville", "wyden", "schumer", "mcconnell", "scott", "warner",
-    "moreno", "banks", "gallego", "boebert", "massie", "waters",
-    "jeffries", "johnson mike", "hern", "meuser", "kustoff", "garbarino",
+    # House
+    "nancy pelosi", "marjorie taylor greene", "ro khanna", "dan crenshaw",
+    "josh gottheimer", "michael mccaul", "lauren boebert", "thomas massie",
+    "maxine waters", "hakeem jeffries", "mike johnson", "kevin hern",
+    "dan meuser", "david kustoff", "andrew garbarino",
+    # Senate
+    "tommy tuberville", "ron wyden", "chuck schumer", "mitch mcconnell",
+    "rick scott", "tim scott", "mark warner", "bernie moreno", "jim banks",
+    "ruben gallego",
 ]
+
+_NOTABLE_RE = re.compile(
+    r"\b(" + "|".join(re.escape(n) for n in NOTABLE_MEMBERS) + r")\b")
 
 
 def is_notable_member(name):
-    n = (name or "").lower()
-    return any(x in n for x in NOTABLE_MEMBERS)
+    """Whole-word match, and tolerant of a middle initial: "Nancy P. Pelosi"
+    and "Nancy Pelosi" both match "nancy pelosi"."""
+    n = re.sub(r"\s+", " ", re.sub(r"\b[a-z]\.\s*", "", (name or "").lower()))
+    return bool(_NOTABLE_RE.search(n))
 
 # Asset names that mean debt or a private vehicle rather than a listed stock.
 NON_EQUITY_RE = re.compile(
@@ -307,6 +328,9 @@ def fetch_house_index(year):
             continue
 
         name = " ".join(x for x in [g("First"), g("Last")] if x).strip()
+        # Some records repeat the first name inside Last ("Scott Scott
+        # Franklin"). Collapse an immediately repeated word.
+        name = re.sub(r"\b(\w+) \1\b", r"\1", name, flags=re.IGNORECASE)
         if g("Suffix"):
             name += " " + g("Suffix")
 

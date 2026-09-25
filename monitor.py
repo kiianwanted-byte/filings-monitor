@@ -51,7 +51,10 @@ BIG_TRADE_OVERRIDE = 10_000_000
 MIN_MARKET_CAP = 300_000_000
 
 # Form 144 sell notices are very common and mostly routine.
-FORM144_MIN_VALUE = 5_000_000
+# Raised from 5M on 25 Sep 2026. At 5M, 57 notices a week would have buzzed
+# (about 8 a day). At 25M it is about 2 a day and still catches the ones that
+# matter: Broadcom 225M, CrowdStrike 125M, GitLab 104M, Snowflake 66M.
+FORM144_MIN_VALUE = 25_000_000
 
 # ---- 13D / 13G stake disclosures ----
 # These are the only filings in the system with a real timing gap. A stake
@@ -90,6 +93,14 @@ def is_institutional(name):
 # Cluster detection
 CLUSTER_WINDOW_DAYS = 14
 CLUSTER_MIN_INSIDERS = 2
+
+# A cluster alerts once when it forms, then at most once more if it grows to
+# CLUSTER_BIG_MILESTONE insiders, then stays quiet for CLUSTER_COOLDOWN_DAYS.
+# Before this, every extra buy inside the window re-fired the same cluster.
+# Banco Bradesco (BBD) had 20 insiders buy on one day, filed over several
+# days, and buzzed 19 times in a week.
+CLUSTER_COOLDOWN_DAYS = 7
+CLUSTER_BIG_MILESTONE = 5
 
 # 8-K item codes. HIGH ones push to Telegram, LOW ones only hit the CSV.
 EIGHTK_ITEMS = {
@@ -130,28 +141,46 @@ NOTABLE_FILERS = [
     "elliott management", "third point", "daniel loeb", "starboard value",
     "trian fund", "trian partners", "nelson peltz", "valueact",
     "jana partners", "engine capital", "engaged capital", "sachem head",
-    "corvex", "glenview capital", "marcato", "legion partners",
+    "corvex", "glenview capital", "marcato capital", "legion partners",
     # Well-known managers
     "greenlight capital", "einhorn", "appaloosa", "tepper", "baupost",
     "klarman", "scion asset", "burry", "duquesne", "druckenmiller",
-    "soros fund", "tiger global", "coatue", "lone pine", "viking global",
-    "pointstate", "altimeter", "hhlr", "himalaya capital", "li lu",
+    "soros fund", "tiger global", "coatue", "lone pine capital",
+    "viking global", "pointstate", "altimeter capital", "himalaya capital",
     "greenhaven road", "abrams capital",
-    # Founders and executives whose own trades are watched
+    # Founders and executives. SEC filings write names surname first.
     "musk elon", "elon musk", "bezos jeffrey", "jeff bezos",
-    "zuckerberg mark", "huang jen", "jensen huang", "dell michael",
+    "zuckerberg mark", "huang jen hsun", "jensen huang", "dell michael",
     "ellison lawrence", "larry ellison", "cook timothy", "tim cook",
-    "page larry", "brin sergey", "schmidt eric", "nadella satya",
+    "page lawrence", "brin sergey", "schmidt eric", "nadella satya",
     "pichai sundar", "benioff marc", "chesky brian", "karp alexander",
-    "woodman nicholas", "gates bill", "bill & melinda gates",
-    "walton", "koch", "thiel peter", "peter thiel",
+    "woodman nicholas", "gates william", "bill gates",
+    "bill and melinda gates", "walton jim", "walton alice",
+    "walton s robson", "walton samuel robson", "koch industries",
+    "koch charles", "charles koch", "thiel peter", "peter thiel",
 ]
+
+# Whole-word matching. The old substring match flagged two of 649 real
+# insiders wrongly on 25 Sep 2026: "Edell Michael" contains "dell michael",
+# and "Huang Jen-Chau" matched "huang jen" (Jensen Huang files as Huang Jen
+# Hsun). Bare surnames like "walton", "koch" and "lone pine" were replaced
+# with full names because notable_in_text scans an entire filing page, where
+# a bare word can be an address or a passing mention.
+_NOTABLE_FILER_RE = re.compile(
+    r"\b(" + "|".join(re.escape(n) for n in NOTABLE_FILERS) + r")\b")
+
+
+def _norm_person(text):
+    """Lowercase, '&' to 'and', and punctuation to spaces, so
+    'Bill & Melinda Gates' and 'Gates William H. III' compare cleanly."""
+    s = str(text or "").lower().replace("&", " and ")
+    s = re.sub(r"[^a-z0-9 ]", " ", s)
+    return re.sub(r"\s+", " ", s)
 
 
 def is_notable(name):
     """True if this filer or insider is on the watchlist."""
-    n = (name or "").lower()
-    return any(x in n for x in NOTABLE_FILERS)
+    return bool(_NOTABLE_FILER_RE.search(_norm_person(name)))
 
 
 def notable_in_text(text):
@@ -164,6 +193,8 @@ def notable_in_text(text):
     """
     if not text:
         return ""
+    m = _NOTABLE_FILER_RE.search(_norm_person(re.sub(r"<[^>]+>", " ", text)))
+    return m.group(1) if m else ""
     low = text.lower()
     for x in NOTABLE_FILERS:
         if x in low:
@@ -757,6 +788,154 @@ def market_cap(ticker):
 # Form 4
 # ---------------------------------------------------------------
 
+# Filers write these when an issuer has no listed stock. They are not
+# tickers. Treating "NONE" as real let unrelated private funds cluster with
+# each other, because cluster detection groups buys by ticker.
+JUNK_TICKERS = {"NONE", "N/A", "NA", "NULL", "-", "--", "0", "TBD"}
+
+
+def clean_ticker(t):
+    t = (t or "").strip().upper()
+    return "" if t in JUNK_TICKERS else t
+
+
+SEC_COMPANIES_FILE = STATE_DIR / "sec_companies.json"
+SEC_COMPANIES_URL = "https://www.sec.gov/files/company_tickers.json"
+_sec_rows = None
+_cik_index = None
+_name_index = None
+
+
+def load_sec_companies(refresh=True):
+    """
+    The SEC's own list of every exchange-listed company: CIK, ticker, name.
+
+    Used two ways. Form 144 XML has no ticker field, so ticker_for_cik
+    resolves it from the issuer CIK; without that every notice arrived blank
+    and was demoted to LOW, so the feature had never fired. Trump filings have
+    no tickers either, only names, so name_to_ticker resolves those.
+
+    Only monitor.py refreshes this file. trump.py calls it with
+    refresh=False and reads the committed copy. Two workflows writing one
+    file would collide on git rebase.
+    """
+    global _sec_rows
+    if _sec_rows is not None:
+        return _sec_rows
+
+    cached = load_json(SEC_COMPANIES_FILE, [])
+    want = refresh and (not cached or due("sec_companies", 7 * 24 * 60))
+    if want:
+        text = fetch(SEC_COMPANIES_URL)
+        fresh = []
+        if text:
+            try:
+                for row in json.loads(text).values():
+                    fresh.append([str(int(row.get("cik_str"))),
+                                  str(row.get("ticker", "")).upper(),
+                                  str(row.get("title", ""))])
+            except (ValueError, TypeError, AttributeError) as e:
+                record_error("sec_companies", f"parse failed: {e}")
+        if fresh:
+            save_json(SEC_COMPANIES_FILE, fresh)
+            clear_error("sec_companies")
+            cached = fresh
+        elif not cached:
+            record_error("sec_companies", "download failed, no cache")
+    _sec_rows = cached or []
+    return _sec_rows
+
+
+def ticker_for_cik(cik, refresh=True):
+    global _cik_index
+    try:
+        key = str(int(str(cik).strip()))
+    except (TypeError, ValueError):
+        return ""
+    if _cik_index is None:
+        idx = {}
+        for c, t, _ in load_sec_companies(refresh):
+            idx.setdefault(c, t)          # first entry is the primary listing
+        _cik_index = idx
+    return clean_ticker(_cik_index.get(key, ""))
+
+
+_NAME_DROP = {"INC", "INCORPORATED", "CORP", "CORPORATION", "CO", "COMPANY",
+              "LTD", "LIMITED", "PLC", "HLDGS", "HLDG", "HOLDINGS", "HOLDING",
+              "GROUP", "GRP", "THE", "NEW", "DEL", "CL", "CLASS", "A", "B",
+              "COMMON", "STOCK", "SHS", "LLC", "LP", "NV", "SA", "AG", "SE"}
+
+
+def norm_company(name):
+    """Reduce a company name to a comparable core: 'Booking Holdings Inc.'
+    and 'BOOKING HLDGS INC' both become 'BOOKING'."""
+    s = str(name or "").upper().replace("&", " AND ")
+    s = re.sub(r"[^A-Z0-9 ]", " ", s)
+    words = [w for w in s.split() if w not in _NAME_DROP]
+    return " ".join(words)
+
+
+def name_to_ticker(name, refresh=False):
+    """
+    Exact match on the normalised name only. No prefix or fuzzy matching:
+    'BROWN' must never be guessed as Brown-Forman. A wrong ticker is worse
+    than showing the company name.
+    """
+    global _name_index
+    if _name_index is None:
+        idx, clash = {}, set()
+        for c, t, title in load_sec_companies(refresh):
+            k = norm_company(title)
+            if not k:
+                continue
+            if k in idx:
+                # Same company, second share class (GOOGL and GOOG): keep the
+                # first, it is the primary listing. Two DIFFERENT companies
+                # sharing a core name is ambiguous, so drop it entirely.
+                if idx[k][0] != c:
+                    clash.add(k)
+                continue
+            idx[k] = (c, t)
+        _name_index = {k: v[1] for k, v in idx.items() if k not in clash}
+    return clean_ticker(_name_index.get(norm_company(name), ""))
+
+
+CLUSTER_STATE_FILE = STATE_DIR / "cluster_alerts.json"
+
+
+def cluster_should_alert(ticker, insiders):
+    """
+    True if this cluster is new, or has grown enough to be worth a second
+    alert. Records the alert when it returns True.
+    """
+    st = load_json(CLUSTER_STATE_FILE, {})
+    now = datetime.now(timezone.utc)
+    prev = st.get(ticker)
+    if prev:
+        try:
+            age_days = (now - datetime.fromisoformat(prev["at"])).total_seconds() / 86400
+        except (KeyError, ValueError):
+            age_days = 999
+        if age_days < CLUSTER_COOLDOWN_DAYS:
+            # Inside the cooldown, the only thing that breaks the silence is
+            # the cluster crossing the milestone for the first time.
+            crossed = (int(prev.get("insiders", 0)) < CLUSTER_BIG_MILESTONE
+                       <= insiders)
+            if not crossed:
+                return False
+    st[ticker] = {"at": now.isoformat(timespec="seconds"), "insiders": insiders}
+    # Drop entries far outside the window so the file stays small.
+    keep = {}
+    for k, v in st.items():
+        try:
+            if (now - datetime.fromisoformat(v["at"])).days < CLUSTER_COOLDOWN_DAYS * 4:
+                keep[k] = v
+        except (KeyError, ValueError, TypeError):
+            pass
+    save_json(CLUSTER_STATE_FILE, keep)
+    return True
+
+
 def cluster_check(ticker, trade_date):
     """Distinct insiders buying the same ticker inside the window."""
     out = {"fires": False, "insiders": 0, "total": 0.0}
@@ -772,7 +951,7 @@ def cluster_check(ticker, trade_date):
     names, total = set(), 0.0
     with BUYS_CSV.open(newline="", encoding="utf-8") as f:
         for row in csv.DictReader(f):
-            if (row.get("ticker") or "").upper() != ticker:
+            if clean_ticker(row.get("ticker")) != ticker:
                 continue
             try:
                 d = datetime.strptime(str(row.get("trade_date"))[:10], "%Y-%m-%d")
@@ -797,7 +976,8 @@ def handle_form4(item):
     if root is None or local(root.tag) != "ownershipDocument":
         return False
 
-    ticker = val(root, "issuerTradingSymbol").upper()
+    ticker = (clean_ticker(val(root, "issuerTradingSymbol"))
+              or ticker_for_cik(val(root, "issuerCik")))
     company = val(root, "issuerName") or item["company"]
 
     # An amendment corrects an earlier filing. Label it so a changed number
@@ -865,6 +1045,14 @@ def handle_form4(item):
     ])
 
     cluster = cluster_check(ticker, trade_date)
+    # A pre-scheduled 10b5-1 buy is not a conviction signal, so it must not
+    # open a cluster or start the cooldown clock that would silence a real
+    # cluster forming later.
+    if cluster["fires"] and (planned or
+                             not cluster_should_alert(ticker, cluster["insiders"])):
+        # Already alerted this cluster recently and it has not grown enough.
+        # The buy is still logged to buys.csv above.
+        cluster["fires"] = False
     notable = is_notable(insider)
     big = value >= BIG_TRADE_OVERRIDE
     passes = value >= MIN_TRADE_VALUE and pct >= MIN_HOLDING_CHANGE_PCT
@@ -929,7 +1117,9 @@ def handle_form144(item):
         return False
 
     company = val(root, "issuerName") or item["company"]
-    ticker = val(root, "issuerTradingSymbol").upper()
+    # Form 144 XML carries no ticker, so resolve it from the issuer CIK.
+    ticker = (clean_ticker(val(root, "issuerTradingSymbol"))
+              or ticker_for_cik(val(root, "issuerCik") or val(root, "cik")))
     units = val(root, "unitsToBeSold")
     sale_date = val(root, "approxSaleDate")
     broker = val(root, "brokerName") or val(root, "nameOfBrokerFirm")
