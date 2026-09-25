@@ -3402,3 +3402,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-25T20:48:41+00:00,FORM_144,AHR,"AMERICAN HEALTHCARE REIT, INC.",proposed sale $78K,78090,,https://www.sec.gov/Archives/edgar/data/1941750/000162828026063591/0001628280-26-063591-index.htm,LOW
 2026-09-25T20:49:00+00:00,FORM_144,CBRS,Cerebras Systems Inc.,proposed sale $24.77M,24769200,,https://www.sec.gov/Archives/edgar/data/2132472/000195004726009828/0001950047-26-009828-index.htm,LOW
 2026-09-25T20:49:01+00:00,STAKE_13D,,ICAHN CARL C, 99.6%,,,https://www.sec.gov/Archives/edgar/data/921669/000153949726002605/0001539497-26-002605-index.htm,HIGH
+2026-09-25T20:57:33+00:00,INSIDER_CLUSTER,UMH,"UMH PROPERTIES, INC.",Mitchell William Edward $20K,19890,0,https://www.sec.gov/Archives/edgar/data/1782938/000075264226000112/0000752642-26-000112-index.htm,HIGH
+2026-09-25T20:57:35+00:00,FORM_144,ZS,"Zscaler, Inc.",proposed sale $332K,332048,,https://www.sec.gov/Archives/edgar/data/1713683/000196858226001015/0001968582-26-001015-index.htm,LOW
