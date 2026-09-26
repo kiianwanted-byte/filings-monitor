@@ -3407,3 +3407,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-25T22:23:57+00:00,FORM_144,BEKE,KE Holdings Inc.,proposed sale $89.20M,89202392,,https://www.sec.gov/Archives/edgar/data/1976097/000196858226001017/0001968582-26-001017-index.htm,MEDIUM
 2026-09-25T22:37:13+00:00,INSIDER_CLUSTER,ADAG,Adagene Inc.,Tam Man Kin $6K,6000,2,https://www.sec.gov/Archives/edgar/data/2106478/000110465926111069/0001104659-26-111069-index.htm,HIGH
 2026-09-25T23:31:32+00:00,FORM_144,RBRK,"Rubrik, Inc.",proposed sale $56.90M,56900000,,https://www.sec.gov/Archives/edgar/data/1943896/000195824426000624/0001958244-26-000624-index.htm,MEDIUM
+2026-09-26T00:23:54+00:00,INSIDER_BUY,LEN,LENNAR CORP /NEW/,BERKSHIRE HATHAWAY INC $136.38M,136382789,2,https://www.sec.gov/Archives/edgar/data/1067983/000119312526403089/0001193125-26-403089-index.htm,HIGH
