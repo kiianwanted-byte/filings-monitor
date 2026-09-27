@@ -16,6 +16,7 @@ import json
 import time
 import sys
 from datetime import datetime, timedelta, timezone
+from zoneinfo import ZoneInfo
 from pathlib import Path
 from xml.etree import ElementTree as ET
 
@@ -1595,12 +1596,43 @@ def self_heal():
 #
 #   label          state file              limit (hours)
 MODULE_CHECKS = [
-    ("halts",      "halts_state.json",     3),     # every 5 min
+    ("halts",      "halts_state.json",     3),     # every 5 min, see halts_limit()
     ("fear-greed", "fear_greed.json",      6),     # hourly
     ("trump",      "trump_state.json",     48),    # daily
     ("earnings",   "earnings_state.json",  192),   # weekly
     ("us-events",  "events_state.json",    192),   # weekly
 ]
+
+# ---- halts staleness is market aware ----
+# GitHub throttles scheduled runs hard when load is high, mostly nights and
+# weekends. Measured 12-27 Sep 2026: worst gap inside US hours was 24 min,
+# but closed-market gaps ran 3-7.5h and fired false alarms on Sun 27 Sep.
+# Halts only happen while the market is open, so hold the tight limit there
+# and relax it otherwise. 12h still catches a genuinely broken workflow.
+NY_TZ = ZoneInfo("America/New_York")
+HALTS_OPEN_LIMIT_H = 3
+HALTS_CLOSED_LIMIT_H = 12
+# NYSE full-day closures (ICE announcement, Nov 2024). Extend each year. If it
+# lapses, holidays just fall back to the weekday limit.
+NYSE_HOLIDAYS = {
+    "2026-11-26", "2026-12-25",
+    "2027-01-01", "2027-01-18", "2027-02-15", "2027-03-26", "2027-05-31",
+    "2027-06-18", "2027-07-05", "2027-09-06", "2027-11-25", "2027-12-24",
+}
+
+
+def us_market_open(now):
+    """True from 09:30 to 16:30 New York time on a trading day."""
+    ny = now.astimezone(NY_TZ)
+    if ny.weekday() >= 5 or ny.strftime("%Y-%m-%d") in NYSE_HOLIDAYS:
+        return False
+    mins = ny.hour * 60 + ny.minute
+    return 9 * 60 + 30 <= mins <= 16 * 60 + 30
+
+
+def halts_limit(now):
+    return HALTS_OPEN_LIMIT_H if us_market_open(now) else HALTS_CLOSED_LIMIT_H
+
 
 # Older state files used other key names. Read whichever is present.
 OK_KEYS = ("last_ok", "at", "last_sent", "sent")
@@ -1680,6 +1712,8 @@ def heartbeat():
 
     # ---- modules with their own state files ----
     for label, fname, limit in MODULE_CHECKS:
+        if label == "halts":
+            limit = halts_limit(now)
         st = load_json(STATE_DIR / fname, {})
         ts = next((st[k] for k in OK_KEYS if k in st), None)
         age = _age_hours(ts, now)
