@@ -3413,3 +3413,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-28T14:58:17+00:00,INSIDER_CLUSTER,FTHY,FIRST TRUST HIGH YIELD OPPORTUNITIES 2027 TERM FUND,MCGAREL DAVID $129K,129247,3,https://www.sec.gov/Archives/edgar/data/1810523/000144554626007146/0001445546-26-007146-index.htm,HIGH
 2026-09-28T15:01:48+00:00,FORM_144,PKOH,PARK OHIO HOLDINGS CORP,proposed sale $1.87M,1866000,,https://www.sec.gov/Archives/edgar/data/1210284/000194984626000597/0001949846-26-000597-index.htm,LOW
 2026-09-28T15:32:39+00:00,FORM_144,BLLN,"BillionToOne, Inc.",proposed sale $1.01M,1005293,,https://www.sec.gov/Archives/edgar/data/2088549/000195917326007121/0001959173-26-007121-index.htm,LOW
+2026-09-28T15:42:19+00:00,FORM_144,BLLN,"BillionToOne, Inc.",proposed sale $322K,321626,,https://www.sec.gov/Archives/edgar/data/2088549/000195917326007122/0001959173-26-007122-index.htm,LOW
