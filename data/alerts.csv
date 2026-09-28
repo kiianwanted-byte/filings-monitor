@@ -3454,3 +3454,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-28T20:23:22+00:00,FORM_144,MDGL,"MADRIGAL PHARMACEUTICALS, INC.",proposed sale $25.83M,25828000,,https://www.sec.gov/Archives/edgar/data/1236927/000195004726009840/0001950047-26-009840-index.htm,MEDIUM
 2026-09-28T20:23:24+00:00,FORM_144,XERS,"XERIS BIOPHARMA HOLDINGS, INC.",proposed sale $637K,637000,,https://www.sec.gov/Archives/edgar/data/2031695/000195004726009839/0001950047-26-009839-index.htm,LOW
 2026-09-28T20:23:24+00:00,FORM_144,SNEX,StoneX Group Inc.,proposed sale $3.69M,3693122,,https://www.sec.gov/Archives/edgar/data/1569789/000162828026063723/0001628280-26-063723-index.htm,LOW
+2026-09-28T20:28:02+00:00,FORM_144,NCMI,"National CineMedia, Inc.",proposed sale $30K,29700,,https://www.sec.gov/Archives/edgar/data/1881162/000119312526405381/0001193125-26-405381-index.htm,LOW
