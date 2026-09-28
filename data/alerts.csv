@@ -3416,3 +3416,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-28T15:42:19+00:00,FORM_144,BLLN,"BillionToOne, Inc.",proposed sale $322K,321626,,https://www.sec.gov/Archives/edgar/data/2088549/000195917326007122/0001959173-26-007122-index.htm,LOW
 2026-09-28T15:54:22+00:00,FORM_144,ADSE,ADS-TEC ENERGY PUBLIC LTD CO,proposed sale $45K,44591,,https://www.sec.gov/Archives/edgar/data/2050006/000121390026103875/0001213900-26-103875-index.htm,LOW
 2026-09-28T15:54:23+00:00,FORM_144,ADSE,ADS-TEC ENERGY PUBLIC LTD CO,proposed sale $45K,44591,,https://www.sec.gov/Archives/edgar/data/2050001/000121390026103874/0001213900-26-103874-index.htm,LOW
+2026-09-28T16:01:57+00:00,FORM_144,ADSE,ADS-TEC ENERGY PUBLIC LTD CO,proposed sale $67K,66881,,https://www.sec.gov/Archives/edgar/data/1879248/000121390026103876/0001213900-26-103876-index.htm,LOW
