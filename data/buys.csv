@@ -962,3 +962,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-28T20:27:56+00:00,2026-09-24,HDSN,HUDSON TECHNOLOGIES INC /NY,"Hartree Partners, LP",10% owner,118549,5.10,604445,2.3,0000921895-26-002658
 2026-09-28T20:32:43+00:00,2026-09-24,CRBG,"Corebridge Financial, Inc.",NIPPON LIFE INSURANCE CO,10% owner,258878,33.85,8763848,0.2,0001193125-26-405404
 2026-09-28T20:37:23+00:00,2026-09-24,LLYVK,"Liberty Live Holdings, Inc.",MALONE JOHN C,10% owner,28333,102.53,2904982,1.2,0001225208-26-007970
+2026-09-28T20:51:58+00:00,2026-09-28,DLPN,"Dolphin Entertainment, Inc.",O'Dowd William IV,"Director, Chief Executive Officer, 10% owner",4400,1.11,4884,0.8,0001079973-26-001296
