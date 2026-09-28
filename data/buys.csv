@@ -972,3 +972,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-28T21:03:16+00:00,2026-09-28,PLAY,"Dave & Buster's Entertainment, Inc.",Hatton Cory,Interim CFO,4000,6.50,25999,4.0,0001193125-26-405479
 2026-09-28T21:13:18+00:00,2026-09-25,FNWD,Finward Bancorp,Bochnowski Benjamin J,"Director, President, CEO",5,43.48,224,0.3,0001628280-26-063746
 2026-09-28T21:13:20+00:00,2026-09-25,FNWD,Finward Bancorp,Lowry Robert T,Executive Vice President,42,43.48,1829,0.3,0001628280-26-063744
+2026-09-28T21:17:12+00:00,2026-09-25,FNWD,Finward Bancorp,Puntillo Anthony,Director,5,43.46,233,0.2,0001628280-26-063748
