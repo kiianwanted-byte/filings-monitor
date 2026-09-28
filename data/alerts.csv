@@ -3432,3 +3432,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-28T20:07:31+00:00,FORM_144,BLND,"Blend Labs, Inc.",proposed sale $25K,24816,,https://www.sec.gov/Archives/edgar/data/1870974/000192109426001054/0001921094-26-001054-index.htm,LOW
 2026-09-28T20:07:31+00:00,FORM_144,BETA,"BETA Technologies, Inc.",proposed sale $233K,233197,,https://www.sec.gov/Archives/edgar/data/2090083/000195917326007129/0001959173-26-007129-index.htm,LOW
 2026-09-28T20:07:32+00:00,FORM_144,PONY,Pony AI Inc.,proposed sale $95K,94744,,https://www.sec.gov/Archives/edgar/data/2072497/000197337926000344/0001973379-26-000344-index.htm,LOW
+2026-09-28T20:12:16+00:00,FORM_144,SWX,"Southwest Gas Holdings, Inc.",proposed sale $205K,204518,,https://www.sec.gov/Archives/edgar/data/1932678/000195917326007131/0001959173-26-007131-index.htm,LOW
+2026-09-28T20:12:16+00:00,FORM_144,ABNB,"Airbnb, Inc.",proposed sale $2.14M,2135172,,https://www.sec.gov/Archives/edgar/data/1834147/000195917326007130/0001959173-26-007130-index.htm,LOW
+2026-09-28T20:12:17+00:00,FORM_144,RPRX,Royalty Pharma plc,proposed sale $239K,238812,,https://www.sec.gov/Archives/edgar/data/1838139/000196430626000456/0001964306-26-000456-index.htm,LOW
+2026-09-28T20:12:17+00:00,FORM_144,TRUP,"TRUPANION, INC.",proposed sale $10K,9878,,https://www.sec.gov/Archives/edgar/data/1967117/000195004726009835/0001950047-26-009835-index.htm,LOW
+2026-09-28T20:12:17+00:00,FORM_144,LITE,LUMENTUM HOLDINGS INC.,proposed sale $474K,474250,,https://www.sec.gov/Archives/edgar/data/1633978/000195004726009834/0001950047-26-009834-index.htm,LOW
