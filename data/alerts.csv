@@ -3417,3 +3417,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-28T15:54:22+00:00,FORM_144,ADSE,ADS-TEC ENERGY PUBLIC LTD CO,proposed sale $45K,44591,,https://www.sec.gov/Archives/edgar/data/2050006/000121390026103875/0001213900-26-103875-index.htm,LOW
 2026-09-28T15:54:23+00:00,FORM_144,ADSE,ADS-TEC ENERGY PUBLIC LTD CO,proposed sale $45K,44591,,https://www.sec.gov/Archives/edgar/data/2050001/000121390026103874/0001213900-26-103874-index.htm,LOW
 2026-09-28T16:01:57+00:00,FORM_144,ADSE,ADS-TEC ENERGY PUBLIC LTD CO,proposed sale $67K,66881,,https://www.sec.gov/Archives/edgar/data/1879248/000121390026103876/0001213900-26-103876-index.htm,LOW
+2026-09-28T16:17:19+00:00,FORM_144,TRT,TRIO-TECH INTERNATIONAL,proposed sale $573K,573478,,https://www.sec.gov/Archives/edgar/data/1247606/000194984626000598/0001949846-26-000598-index.htm,LOW
