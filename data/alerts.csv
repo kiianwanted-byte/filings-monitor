@@ -3427,3 +3427,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-28T19:37:20+00:00,FORM_144,CHE,Chemed Corporation,proposed sale $1.07M,1072260,,https://www.sec.gov/Archives/edgar/data/1207137/000162828026063702/0001628280-26-063702-index.htm,LOW
 2026-09-28T20:02:48+00:00,FORM_144,META,"Meta Platforms, Inc.",proposed sale $1.18M,1180966,,https://www.sec.gov/Archives/edgar/data/1564475/000192109426001053/0001921094-26-001053-index.htm,LOW
 2026-09-28T20:02:48+00:00,FORM_144,PONY,Pony AI Inc.,proposed sale $107K,106960,,https://www.sec.gov/Archives/edgar/data/2075339/000197337926000343/0001973379-26-000343-index.htm,LOW
+2026-09-28T20:07:22+00:00,INSIDER_BUY,GPI,GROUP 1 AUTOMOTIVE INC,"Conifer Management, L.L.C. $31.52M",31524452,4,https://www.sec.gov/Archives/edgar/data/1773994/000090514826004278/0000905148-26-004278-index.htm,HIGH
+2026-09-28T20:07:30+00:00,FORM_144,PONY,Pony AI Inc.,proposed sale $86K,85608,,https://www.sec.gov/Archives/edgar/data/2072435/000197337926000345/0001973379-26-000345-index.htm,LOW
+2026-09-28T20:07:31+00:00,FORM_144,BLND,"Blend Labs, Inc.",proposed sale $25K,24816,,https://www.sec.gov/Archives/edgar/data/1870974/000192109426001054/0001921094-26-001054-index.htm,LOW
+2026-09-28T20:07:31+00:00,FORM_144,BETA,"BETA Technologies, Inc.",proposed sale $233K,233197,,https://www.sec.gov/Archives/edgar/data/2090083/000195917326007129/0001959173-26-007129-index.htm,LOW
+2026-09-28T20:07:32+00:00,FORM_144,PONY,Pony AI Inc.,proposed sale $95K,94744,,https://www.sec.gov/Archives/edgar/data/2072497/000197337926000344/0001973379-26-000344-index.htm,LOW
