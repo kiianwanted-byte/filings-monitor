@@ -3437,3 +3437,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-28T20:12:17+00:00,FORM_144,RPRX,Royalty Pharma plc,proposed sale $239K,238812,,https://www.sec.gov/Archives/edgar/data/1838139/000196430626000456/0001964306-26-000456-index.htm,LOW
 2026-09-28T20:12:17+00:00,FORM_144,TRUP,"TRUPANION, INC.",proposed sale $10K,9878,,https://www.sec.gov/Archives/edgar/data/1967117/000195004726009835/0001950047-26-009835-index.htm,LOW
 2026-09-28T20:12:17+00:00,FORM_144,LITE,LUMENTUM HOLDINGS INC.,proposed sale $474K,474250,,https://www.sec.gov/Archives/edgar/data/1633978/000195004726009834/0001950047-26-009834-index.htm,LOW
+2026-09-28T20:17:33+00:00,FORM_144,NWPX,"NWPX Infrastructure, Inc.",proposed sale $102K,102195,,https://www.sec.gov/Archives/edgar/data/1401658/000195917326007132/0001959173-26-007132-index.htm,LOW
+2026-09-28T20:17:33+00:00,FORM_144,XYZ,"BLOCK, INC.",proposed sale $451K,451200,,https://www.sec.gov/Archives/edgar/data/1933928/000195004726009838/0001950047-26-009838-index.htm,LOW
+2026-09-28T20:17:33+00:00,FORM_144,DXCM,"DEXCOM, INC.",proposed sale $221K,220974,,https://www.sec.gov/Archives/edgar/data/1797971/000195004726009837/0001950047-26-009837-index.htm,LOW
+2026-09-28T20:17:34+00:00,FORM_144,GWRE,"GUIDEWIRE SOFTWARE, INC.",proposed sale $171K,171180,,https://www.sec.gov/Archives/edgar/data/1784996/000195004726009836/0001950047-26-009836-index.htm,LOW
