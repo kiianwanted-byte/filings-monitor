@@ -980,3 +980,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-28T22:07:58+00:00,2026-09-24,INR,"INFINITY NATURAL RESOURCES, INC.",Baetz Cary D,EVP and CFO,22316,13.44,299993,NEW,0002029118-26-000113
 2026-09-28T22:33:23+00:00,2026-09-24,LILA,Liberty Latin America Ltd.,MALONE JOHN C,10% owner,22442,20.44,458653,1.6,0000937797-26-000032
 2026-09-28T23:28:31+00:00,2026-09-16,CBK,"Commercial Bancgroup, Inc.",Robertson John Adam,"Director, Executive Chairperson",70,32.69,2287,0.2,0000898432-26-000710
+2026-09-28T23:42:37+00:00,2026-09-24,PDI,PIMCO Dynamic Income Fund,Rappaport Alan,Director,5500,13.76,75654,144.2,0001495443-26-000007
