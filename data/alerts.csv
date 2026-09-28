@@ -3423,3 +3423,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-28T19:12:33+00:00,FORM_144,BLCO,Bausch & Lomb Corp,proposed sale $76K,75735,,https://www.sec.gov/Archives/edgar/data/1860742/000195917326007126/0001959173-26-007126-index.htm,LOW
 2026-09-28T19:12:33+00:00,FORM_144,OKLO,Oklo Inc.,proposed sale $66K,66375,,https://www.sec.gov/Archives/edgar/data/2080717/000195917326007125/0001959173-26-007125-index.htm,LOW
 2026-09-28T19:19:03+00:00,FORM_144,OKLO,Oklo Inc.,proposed sale $42K,41507,,https://www.sec.gov/Archives/edgar/data/2146828/000195917326007127/0001959173-26-007127-index.htm,LOW
+2026-09-28T19:37:19+00:00,FORM_144,OKLO,Oklo Inc.,proposed sale $41K,41133,,https://www.sec.gov/Archives/edgar/data/2147680/000195917326007128/0001959173-26-007128-index.htm,LOW
+2026-09-28T19:37:20+00:00,FORM_144,CHE,Chemed Corporation,proposed sale $1.07M,1072260,,https://www.sec.gov/Archives/edgar/data/1207137/000162828026063702/0001628280-26-063702-index.htm,LOW
