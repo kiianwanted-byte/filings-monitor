@@ -3419,3 +3419,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-28T16:01:57+00:00,FORM_144,ADSE,ADS-TEC ENERGY PUBLIC LTD CO,proposed sale $67K,66881,,https://www.sec.gov/Archives/edgar/data/1879248/000121390026103876/0001213900-26-103876-index.htm,LOW
 2026-09-28T16:17:19+00:00,FORM_144,TRT,TRIO-TECH INTERNATIONAL,proposed sale $573K,573478,,https://www.sec.gov/Archives/edgar/data/1247606/000194984626000598/0001949846-26-000598-index.htm,LOW
 2026-09-28T16:28:03+00:00,FORM_144,MED,MEDIFAST INC,proposed sale $114K,114337,,https://www.sec.gov/Archives/edgar/data/1289557/000195917326007123/0001959173-26-007123-index.htm,LOW
+2026-09-28T17:27:12+00:00,FORM_144,OVLY,Oak Valley Bancorp,proposed sale $13K,12761,,https://www.sec.gov/Archives/edgar/data/1442259/000195917326007124/0001959173-26-007124-index.htm,LOW
