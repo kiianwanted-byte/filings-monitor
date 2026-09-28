@@ -3459,3 +3459,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-28T21:03:10+00:00,INSIDER_CLUSTER,ATCH,"AtlasClear Holdings, Inc.",Ridenhour David Craig $19K,19395,4,https://www.sec.gov/Archives/edgar/data/2002523/000149315226044630/0001493152-26-044630-index.htm,HIGH
 2026-09-28T21:03:12+00:00,INSIDER_CLUSTER,ATCH,"AtlasClear Holdings, Inc.",Hammond Thomas Jon $100K,99800,4,https://www.sec.gov/Archives/edgar/data/1963088/000149315226044628/0001493152-26-044628-index.htm,HIGH
 2026-09-28T21:03:16+00:00,INSIDER_CLUSTER,PLAY,"Dave & Buster's Entertainment, Inc.",Hatton Cory $26K,25999,0,https://www.sec.gov/Archives/edgar/data/2149157/000119312526405479/0001193125-26-405479-index.htm,HIGH
+2026-09-28T21:13:20+00:00,INSIDER_CLUSTER,FNWD,Finward Bancorp,Lowry Robert T $2K,1829,3,https://www.sec.gov/Archives/edgar/data/1307952/000162828026063744/0001628280-26-063744-index.htm,HIGH
