@@ -3464,3 +3464,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-28T21:47:12+00:00,STAKE_13D,,"Legion Partners Asset Management, LLC", 17.3%,,,https://www.sec.gov/Archives/edgar/data/1560207/000092189526002661/0000921895-26-002661-index.htm,HIGH
 2026-09-28T21:53:32+00:00,INSIDER_CLUSTER,INBX,"Inhibrx Biosciences, Inc.",Lappe Mark $999K,998783,3,https://www.sec.gov/Archives/edgar/data/2007919/000136607426000004/0001366074-26-000004-index.htm,HIGH
 2026-09-28T21:53:34+00:00,FORM_144,MPWR,"MONOLITHIC POWER SYSTEMS, INC.",proposed sale $40.35M,40349049,,https://www.sec.gov/Archives/edgar/data/1308676/000195004726009850/0001950047-26-009850-index.htm,MEDIUM
+2026-09-28T22:07:58+00:00,INSIDER_CLUSTER,INR,"INFINITY NATURAL RESOURCES, INC.",Baetz Cary D $300K,299993,4,https://www.sec.gov/Archives/edgar/data/2029118/000202911826000113/0002029118-26-000113-index.htm,HIGH

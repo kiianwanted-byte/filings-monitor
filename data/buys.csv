@@ -977,3 +977,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-28T21:38:35+00:00,2026-09-24,PODC,"PodcastOne, Inc.",MERRIMAN D JONATHAN,Director,11000,2.21,24310,3.0,0001213900-26-104166
 2026-09-28T21:53:32+00:00,2026-09-25,INBX,"Inhibrx Biosciences, Inc.",Lappe Mark,"Director, Chief Executive Officer",10000,99.88,998783,1.4,0001366074-26-000004
 2026-09-28T21:57:49+00:00,2026-09-25,FNWD,Finward Bancorp,Scheub Todd M.,Executive Vice President,32,43.48,1407,0.3,0001628280-26-063755
+2026-09-28T22:07:58+00:00,2026-09-24,INR,"INFINITY NATURAL RESOURCES, INC.",Baetz Cary D,EVP and CFO,22316,13.44,299993,NEW,0002029118-26-000113
