@@ -3495,3 +3495,15 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-29T20:11:51+00:00,FORM_144,GRPN,"Groupon, Inc.",proposed sale $361K,361036,,https://www.sec.gov/Archives/edgar/data/1973423/000195917326007142/0001959173-26-007142-index.htm,LOW
 2026-09-29T20:16:41+00:00,FORM_144,PINS,"PINTEREST, INC.",proposed sale $859K,859387,,https://www.sec.gov/Archives/edgar/data/1773914/000192109426001055/0001921094-26-001055-index.htm,LOW
 2026-09-29T20:16:41+00:00,FORM_144,PAYX,"Paychex, Inc.",proposed sale $56.21M,56212863,,https://www.sec.gov/Archives/edgar/data/903201/000162828026063810/0001628280-26-063810-index.htm,MEDIUM
+2026-09-29T20:26:43+00:00,FORM_144,KURA,"KURA ONCOLOGY, INC.",proposed sale $164K,163712,,https://www.sec.gov/Archives/edgar/data/1934232/000195004726009866/0001950047-26-009866-index.htm,LOW
+2026-09-29T20:26:44+00:00,FORM_144,KURA,"KURA ONCOLOGY, INC.",proposed sale $306K,305589,,https://www.sec.gov/Archives/edgar/data/2051106/000195004726009865/0001950047-26-009865-index.htm,LOW
+2026-09-29T20:26:44+00:00,FORM_144,KURA,"KURA ONCOLOGY, INC.",proposed sale $39K,38917,,https://www.sec.gov/Archives/edgar/data/1785406/000195004726009864/0001950047-26-009864-index.htm,LOW
+2026-09-29T20:26:45+00:00,FORM_144,CBRS,Cerebras Systems Inc.,proposed sale $77.91M,77909040,,https://www.sec.gov/Archives/edgar/data/2039572/000195004726009863/0001950047-26-009863-index.htm,MEDIUM
+2026-09-29T20:26:46+00:00,FORM_144,RVMD,REVOLUTION MEDICINES INC,proposed sale $1.27M,1272777,,https://www.sec.gov/Archives/edgar/data/1835966/000195004726009862/0001950047-26-009862-index.htm,LOW
+2026-09-29T20:26:47+00:00,FORM_144,CBRS,Cerebras Systems Inc.,proposed sale $6.39M,6394050,,https://www.sec.gov/Archives/edgar/data/2021728/000195004726009861/0001950047-26-009861-index.htm,LOW
+2026-09-29T20:26:47+00:00,FORM_144,CRWV,"CoreWeave, Inc.",proposed sale $9.16M,9161358,,https://www.sec.gov/Archives/edgar/data/2058037/000195004726009860/0001950047-26-009860-index.htm,LOW
+2026-09-29T20:26:48+00:00,FORM_144,CRWV,"CoreWeave, Inc.",proposed sale $17.01M,17014000,,https://www.sec.gov/Archives/edgar/data/2058037/000195004726009859/0001950047-26-009859-index.htm,LOW
+2026-09-29T20:26:48+00:00,FORM_144,ANRO,ALTO NEUROSCIENCE INC,proposed sale $3.60M,3596060,,https://www.sec.gov/Archives/edgar/data/2009130/000195004726009858/0001950047-26-009858-index.htm,LOW
+2026-09-29T20:26:49+00:00,FORM_144,XYZ,"BLOCK, INC.",proposed sale $440K,439740,,https://www.sec.gov/Archives/edgar/data/1933928/000195004726009857/0001950047-26-009857-index.htm,LOW
+2026-09-29T20:26:49+00:00,FORM_144,ONTO,ONTO INNOVATION INC.,proposed sale $600K,600000,,https://www.sec.gov/Archives/edgar/data/1233488/000195004726009856/0001950047-26-009856-index.htm,LOW
+2026-09-29T20:26:49+00:00,FORM_144,LITE,LUMENTUM HOLDINGS INC.,proposed sale $290K,290115,,https://www.sec.gov/Archives/edgar/data/1633978/000195004726009855/0001950047-26-009855-index.htm,LOW
