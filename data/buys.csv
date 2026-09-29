@@ -1012,3 +1012,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-29T20:51:42+00:00,2026-09-25,CRBG,"Corebridge Financial, Inc.",NIPPON LIFE INSURANCE CO,10% owner,178840,34.52,6174129,0.1,0001193125-26-407701
 2026-09-29T21:01:34+00:00,2026-09-29,GME,GameStop Corp.,Cohen Ryan,"Director, President, CEO and Chairman",450000,23.48,10563796,1.1,0000921895-26-002670
 2026-09-29T21:11:49+00:00,2026-09-28,SNES,"SenesTech, Inc.",Edell Michael,"Director, Chief Executive Officer",2000,0.64,1288,22.2,0001628280-26-063849
+2026-09-29T21:31:39+00:00,2026-09-25,COUR,"Coursera, Inc.",Pale Fire Capital SE,10% owner,2332742,4.87,11355072,8.8,0000921895-26-002677
