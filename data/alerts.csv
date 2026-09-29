@@ -3487,3 +3487,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-29T19:16:37+00:00,FORM_144,STEM,"STEM, INC.",proposed sale $671,671,,https://www.sec.gov/Archives/edgar/data/1948274/000195917326007139/0001959173-26-007139-index.htm,LOW
 2026-09-29T19:26:41+00:00,FORM_144,MED,MEDIFAST INC,proposed sale $112K,111951,,https://www.sec.gov/Archives/edgar/data/1289557/000195917326007140/0001959173-26-007140-index.htm,LOW
 2026-09-29T20:01:37+00:00,INSIDER_BUY,HGBL,Heritage Global Inc.,Burnham William L $399K,399000,4,https://www.sec.gov/Archives/edgar/data/1248150/000119312526407271/0001193125-26-407271-index.htm,MEDIUM
+2026-09-29T20:06:51+00:00,FORM_144,BATRA,"Atlanta Braves Holdings, Inc.",proposed sale $4.34M,4344636,,https://www.sec.gov/Archives/edgar/data/2036380/000196922326001042/0001969223-26-001042-index.htm,LOW
+2026-09-29T20:06:52+00:00,FORM_144,BETA,"BETA Technologies, Inc.",proposed sale $22.62M,22620521,,https://www.sec.gov/Archives/edgar/data/2090083/000195917326007141/0001959173-26-007141-index.htm,LOW
