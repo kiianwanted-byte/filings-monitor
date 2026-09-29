@@ -3493,3 +3493,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-29T20:11:50+00:00,FORM_144,SEIC,SEI Investments Company,proposed sale $3.67M,3668700,,https://www.sec.gov/Archives/edgar/data/1059374/000196858226001019/0001968582-26-001019-index.htm,LOW
 2026-09-29T20:11:51+00:00,FORM_144,KDK,"Kodiak AI, Inc.",proposed sale $350K,350365,,https://www.sec.gov/Archives/edgar/data/2082817/000195917326007143/0001959173-26-007143-index.htm,LOW
 2026-09-29T20:11:51+00:00,FORM_144,GRPN,"Groupon, Inc.",proposed sale $361K,361036,,https://www.sec.gov/Archives/edgar/data/1973423/000195917326007142/0001959173-26-007142-index.htm,LOW
+2026-09-29T20:16:41+00:00,FORM_144,PINS,"PINTEREST, INC.",proposed sale $859K,859387,,https://www.sec.gov/Archives/edgar/data/1773914/000192109426001055/0001921094-26-001055-index.htm,LOW
+2026-09-29T20:16:41+00:00,FORM_144,PAYX,"Paychex, Inc.",proposed sale $56.21M,56212863,,https://www.sec.gov/Archives/edgar/data/903201/000162828026063810/0001628280-26-063810-index.htm,MEDIUM
