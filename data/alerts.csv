@@ -3481,3 +3481,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-29T16:51:36+00:00,FORM_144,WSHP,WeShop Holdings Ltd,proposed sale $3.17M,3170000,,https://www.sec.gov/Archives/edgar/data/2134642/000213464226000001/0002134642-26-000001-index.htm,LOW
 2026-09-29T17:01:25+00:00,FORM_144,PLAB,PHOTRONICS INC,proposed sale $308K,307578,,https://www.sec.gov/Archives/edgar/data/1748668/000195917326007135/0001959173-26-007135-index.htm,LOW
 2026-09-29T17:36:41+00:00,FORM_144,COST,COSTCO WHOLESALE CORP /NEW,proposed sale $733K,733328,,https://www.sec.gov/Archives/edgar/data/1928633/000195917326007136/0001959173-26-007136-index.htm,LOW
+2026-09-29T18:06:37+00:00,FORM_144,COST,COSTCO WHOLESALE CORP /NEW,proposed sale $2.02M,2015046,,https://www.sec.gov/Archives/edgar/data/1916124/000195917326007137/0001959173-26-007137-index.htm,LOW
