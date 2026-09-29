@@ -3476,3 +3476,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-29T11:01:36+00:00,INSIDER_CLUSTER,DTIL,PRECISION BIOSCIENCES INC,Germano Geno J $16K,16384,4,https://www.sec.gov/Archives/edgar/data/1424383/000162828026063766/0001628280-26-063766-index.htm,HIGH
 2026-09-29T14:21:35+00:00,FORM_144,VZ,VERIZON COMMUNICATIONS INC,proposed sale $51K,51040,,https://www.sec.gov/Archives/edgar/data/1760581/000195917326007134/0001959173-26-007134-index.htm,LOW
 2026-09-29T14:36:35+00:00,FORM_144,MATX,"Matson, Inc.",proposed sale $6.32M,6323644,,https://www.sec.gov/Archives/edgar/data/1206911/000194984626000599/0001949846-26-000599-index.htm,LOW
+2026-09-29T14:46:32+00:00,INSIDER_CLUSTER,CRAFX,Cascade Real Assets Fund,Williams Paul Jay $300K,300000,4,https://www.sec.gov/Archives/edgar/data/2114459/000121390026104418/0001213900-26-104418-index.htm,HIGH
