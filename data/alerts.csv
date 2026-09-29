@@ -3484,3 +3484,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-29T18:06:37+00:00,FORM_144,COST,COSTCO WHOLESALE CORP /NEW,proposed sale $2.02M,2015046,,https://www.sec.gov/Archives/edgar/data/1916124/000195917326007137/0001959173-26-007137-index.htm,LOW
 2026-09-29T18:37:37+00:00,FORM_144,LEGN,Legend Biotech Corp,proposed sale $259K,258914,,https://www.sec.gov/Archives/edgar/data/1801198/000195917326007138/0001959173-26-007138-index.htm,LOW
 2026-09-29T18:51:36+00:00,FORM_144,VHC,VirnetX Holding Corporation,proposed sale $10K,10290,,https://www.sec.gov/Archives/edgar/data/1404851/000165495426008638/0001654954-26-008638-index.htm,LOW
+2026-09-29T19:16:37+00:00,FORM_144,STEM,"STEM, INC.",proposed sale $671,671,,https://www.sec.gov/Archives/edgar/data/1948274/000195917326007139/0001959173-26-007139-index.htm,LOW
