@@ -3517,3 +3517,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-29T20:51:45+00:00,FORM_144,ABEO,ABEONA THERAPEUTICS INC.,proposed sale $25K,25273,,https://www.sec.gov/Archives/edgar/data/2106295/000197248126000287/0001972481-26-000287-index.htm,LOW
 2026-09-29T20:51:45+00:00,FORM_144,ABEO,ABEONA THERAPEUTICS INC.,proposed sale $35K,34682,,https://www.sec.gov/Archives/edgar/data/1884342/000197248126000286/0001972481-26-000286-index.htm,LOW
 2026-09-29T20:56:33+00:00,FORM_144,ABEO,ABEONA THERAPEUTICS INC.,proposed sale $47K,47385,,https://www.sec.gov/Archives/edgar/data/1715291/000197248126000289/0001972481-26-000289-index.htm,LOW
+2026-09-29T21:01:34+00:00,INSIDER_CLUSTER,GME,GameStop Corp.,Cohen Ryan $10.56M,10563796,0,https://www.sec.gov/Archives/edgar/data/1767470/000092189526002670/0000921895-26-002670-index.htm,HIGH
+2026-09-29T21:01:40+00:00,FORM_144,HUT,HUT 8 Corp.,proposed sale $139.06M,139065000,,https://www.sec.gov/Archives/edgar/data/1999337/000196858226001020/0001968582-26-001020-index.htm,MEDIUM
