@@ -3522,3 +3522,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-29T21:11:52+00:00,FORM_144,IOT,Samsara Inc.,proposed sale $59.22M,59217535,,https://www.sec.gov/Archives/edgar/data/1895111/000192109426001057/0001921094-26-001057-index.htm,MEDIUM
 2026-09-29T21:11:54+00:00,FORM_144,IOT,Samsara Inc.,proposed sale $59.30M,59303847,,https://www.sec.gov/Archives/edgar/data/1895106/000192109426001056/0001921094-26-001056-index.htm,MEDIUM
 2026-09-29T21:31:39+00:00,INSIDER_BUY,COUR,"Coursera, Inc.",Pale Fire Capital SE $11.36M,11355072,4,https://www.sec.gov/Archives/edgar/data/2055254/000092189526002677/0000921895-26-002677-index.htm,HIGH
+2026-09-29T21:36:36+00:00,INSIDER_BUY,BPRE,Bluerock Private Real Estate Fund,KAMFAR RAMIN $3.74M,3744613,6,https://www.sec.gov/Archives/edgar/data/1551047/000139834426017550/0001398344-26-017550-index.htm,MEDIUM
