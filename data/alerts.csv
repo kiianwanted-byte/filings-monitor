@@ -3473,3 +3473,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-29T00:19:28+00:00,FORM_144,ARLO,"ARLO TECHNOLOGIES, INC.",proposed sale $1.03M,1034996,,https://www.sec.gov/Archives/edgar/data/1736946/000173694626000062/0001736946-26-000062-index.htm,LOW
 2026-09-29T01:02:21+00:00,FORM_144,KURA,"KURA ONCOLOGY, INC.",proposed sale $97K,97055,,https://www.sec.gov/Archives/edgar/data/1934232/000119312526405751/0001193125-26-405751-index.htm,LOW
 2026-09-29T02:03:18+00:00,INSIDER_CLUSTER,CFND,C1 Fund Inc.,Han Elliot Jin $24K,24049,285,https://www.sec.gov/Archives/edgar/data/2044327/000110465926111497/0001104659-26-111497-index.htm,HIGH
+2026-09-29T11:01:36+00:00,INSIDER_CLUSTER,DTIL,PRECISION BIOSCIENCES INC,Germano Geno J $16K,16384,4,https://www.sec.gov/Archives/edgar/data/1424383/000162828026063766/0001628280-26-063766-index.htm,HIGH
