@@ -3537,3 +3537,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-29T22:41:31+00:00,INSIDER_CLUSTER,ZDGE,"Zedge, Inc.",JONAS HOWARD S $0,,4,https://www.sec.gov/Archives/edgar/data/1667313/000119312526407951/0001193125-26-407951-index.htm,HIGH
 2026-09-29T22:41:34+00:00,FORM_144,TTWO,TAKE TWO INTERACTIVE SOFTWARE INC,proposed sale $8.10M,8095544,,https://www.sec.gov/Archives/edgar/data/1229590/000197372726000061/0001973727-26-000061-index.htm,LOW
 2026-09-29T22:51:33+00:00,FORM_144,AUGO,Aura Minerals Inc.,proposed sale $179K,179036,,https://www.sec.gov/Archives/edgar/data/2126752/000212675226000025/0002126752-26-000025-index.htm,LOW
+2026-09-29T23:21:31+00:00,FORM_144,NNBR,NN INC,proposed sale $4.15M,4149522,,https://www.sec.gov/Archives/edgar/data/1560207/000092189526002681/0000921895-26-002681-index.htm,LOW
