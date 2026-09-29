@@ -3479,3 +3479,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-29T14:46:32+00:00,INSIDER_CLUSTER,CRAFX,Cascade Real Assets Fund,Williams Paul Jay $300K,300000,4,https://www.sec.gov/Archives/edgar/data/2114459/000121390026104418/0001213900-26-104418-index.htm,HIGH
 2026-09-29T15:26:34+00:00,INSIDER_CLUSTER,NYAX,Nayax Ltd.,Ben-Avi David $123K,123479,7,https://www.sec.gov/Archives/edgar/data/2000237/000197640826000873/0001976408-26-000873-index.htm,HIGH
 2026-09-29T16:51:36+00:00,FORM_144,WSHP,WeShop Holdings Ltd,proposed sale $3.17M,3170000,,https://www.sec.gov/Archives/edgar/data/2134642/000213464226000001/0002134642-26-000001-index.htm,LOW
+2026-09-29T17:01:25+00:00,FORM_144,PLAB,PHOTRONICS INC,proposed sale $308K,307578,,https://www.sec.gov/Archives/edgar/data/1748668/000195917326007135/0001959173-26-007135-index.htm,LOW
