@@ -3510,3 +3510,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-29T20:31:56+00:00,FORM_144,NBIS,Nebius Group N.V.,proposed sale $12K,11866,,https://www.sec.gov/Archives/edgar/data/2096831/000195004726009868/0001950047-26-009868-index.htm,LOW
 2026-09-29T20:31:56+00:00,FORM_144,ARLO,"ARLO TECHNOLOGIES, INC",proposed sale $168K,168310,,https://www.sec.gov/Archives/edgar/data/1736946/000195004726009867/0001950047-26-009867-index.htm,LOW
 2026-09-29T20:36:55+00:00,FORM_144,NTAP,"NETAPP, INC.",proposed sale $10.50M,10497695,,https://www.sec.gov/Archives/edgar/data/1586813/000195004726009869/0001950047-26-009869-index.htm,LOW
+2026-09-29T20:46:33+00:00,INSIDER_CLUSTER,BPRE,Bluerock Private Real Estate Fund,KAMFAR RAMIN $2.16M,2156938,8,https://www.sec.gov/Archives/edgar/data/1551047/000139834426017538/0001398344-26-017538-index.htm,HIGH
+2026-09-29T20:46:40+00:00,FORM_144,SPH,SUBURBAN PROPANE PARTNERS LP,proposed sale $21K,20995,,https://www.sec.gov/Archives/edgar/data/1307744/000197407826000368/0001974078-26-000368-index.htm,LOW

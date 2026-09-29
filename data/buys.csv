@@ -1007,3 +1007,5 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-29T20:31:52+00:00,2026-09-25,MONIX,Monachil Credit Income Fund,Meli Ali,"Director, President and CEO, 10% owner",8423,10.21,85999,0.7,0001953760-26-000001
 2026-09-29T20:36:49+00:00,2026-09-24,CINT,CI&T Inc,Guicardi Neto Bruno,"Pres. of N. Am. and Europe Ops, 10% owner",581,3.02,1754,0.6,0001292814-26-004736
 2026-09-29T20:41:46+00:00,2026-09-28,DLHC,DLH Holdings Corp.,Mink Brook Asset Management LLC,10% owner,60,3.47,208,0.0,0001628280-26-063818
+2026-09-29T20:46:33+00:00,2026-09-21,BPRE,Bluerock Private Real Estate Fund,KAMFAR RAMIN,Director,179763,12.00,2156938,NEW,0001398344-26-017538
+2026-09-29T20:46:37+00:00,2026-09-29,GPUS,"Hyperscale Data, Inc.",Horne William B.,"Director, Chief Executive Officer",100000,0.17,16800,33.3,0001214659-26-012204
