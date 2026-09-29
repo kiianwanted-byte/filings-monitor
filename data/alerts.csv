@@ -3507,3 +3507,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-29T20:26:49+00:00,FORM_144,XYZ,"BLOCK, INC.",proposed sale $440K,439740,,https://www.sec.gov/Archives/edgar/data/1933928/000195004726009857/0001950047-26-009857-index.htm,LOW
 2026-09-29T20:26:49+00:00,FORM_144,ONTO,ONTO INNOVATION INC.,proposed sale $600K,600000,,https://www.sec.gov/Archives/edgar/data/1233488/000195004726009856/0001950047-26-009856-index.htm,LOW
 2026-09-29T20:26:49+00:00,FORM_144,LITE,LUMENTUM HOLDINGS INC.,proposed sale $290K,290115,,https://www.sec.gov/Archives/edgar/data/1633978/000195004726009855/0001950047-26-009855-index.htm,LOW
+2026-09-29T20:31:56+00:00,FORM_144,NBIS,Nebius Group N.V.,proposed sale $12K,11866,,https://www.sec.gov/Archives/edgar/data/2096831/000195004726009868/0001950047-26-009868-index.htm,LOW
+2026-09-29T20:31:56+00:00,FORM_144,ARLO,"ARLO TECHNOLOGIES, INC",proposed sale $168K,168310,,https://www.sec.gov/Archives/edgar/data/1736946/000195004726009867/0001950047-26-009867-index.htm,LOW
