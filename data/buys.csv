@@ -1001,3 +1001,6 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-29T19:41:41+00:00,2026-09-25,PAM,Pampa Energy Inc.,Mariani Gustavo,Vicepresident,25000,78.26,1956500,1.6,0002028917-26-000003
 2026-09-29T20:01:37+00:00,2026-09-25,HGBL,Heritage Global Inc.,Burnham William L,Director,300000,1.33,399000,NEW,0001193125-26-407271
 2026-09-29T20:06:35+00:00,2026-09-25,SWZ,Total Return Securities Fund,Dakos Andrew,"Director, President and CEO",20000,5.79,115813,50.0,0001398344-26-017532
+2026-09-29T20:11:33+00:00,2026-09-10,VRXA,Veraxa Biotech AG,Hosseinion Warren,Director,6024,1.67,10060,1.0,0001829126-26-010557
+2026-09-29T20:11:41+00:00,2026-09-22,AMFN,"American Fusion, Inc.",Rossa Alexander William,,842775,0.10,85963,39.1,0001079973-26-001308
+2026-09-29T20:11:49+00:00,2026-09-28,AHRT,"AH Realty Trust, Inc.",Wittman Lori,Director,3000,5.95,17835,NEW,0001569187-26-000154

@@ -3489,3 +3489,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-29T20:01:37+00:00,INSIDER_BUY,HGBL,Heritage Global Inc.,Burnham William L $399K,399000,4,https://www.sec.gov/Archives/edgar/data/1248150/000119312526407271/0001193125-26-407271-index.htm,MEDIUM
 2026-09-29T20:06:51+00:00,FORM_144,BATRA,"Atlanta Braves Holdings, Inc.",proposed sale $4.34M,4344636,,https://www.sec.gov/Archives/edgar/data/2036380/000196922326001042/0001969223-26-001042-index.htm,LOW
 2026-09-29T20:06:52+00:00,FORM_144,BETA,"BETA Technologies, Inc.",proposed sale $22.62M,22620521,,https://www.sec.gov/Archives/edgar/data/2090083/000195917326007141/0001959173-26-007141-index.htm,LOW
+2026-09-29T20:11:33+00:00,INSIDER_CLUSTER,VRXA,Veraxa Biotech AG,Hosseinion Warren $10K,10060,19,https://www.sec.gov/Archives/edgar/data/2079364/000182912626010557/0001829126-26-010557-index.htm,HIGH
+2026-09-29T20:11:50+00:00,FORM_144,SEIC,SEI Investments Company,proposed sale $3.67M,3668700,,https://www.sec.gov/Archives/edgar/data/1059374/000196858226001019/0001968582-26-001019-index.htm,LOW
+2026-09-29T20:11:51+00:00,FORM_144,KDK,"Kodiak AI, Inc.",proposed sale $350K,350365,,https://www.sec.gov/Archives/edgar/data/2082817/000195917326007143/0001959173-26-007143-index.htm,LOW
+2026-09-29T20:11:51+00:00,FORM_144,GRPN,"Groupon, Inc.",proposed sale $361K,361036,,https://www.sec.gov/Archives/edgar/data/1973423/000195917326007142/0001959173-26-007142-index.htm,LOW
