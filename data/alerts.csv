@@ -3534,3 +3534,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-29T22:26:34+00:00,FORM_144,BMBL,Bumble Inc.,proposed sale $6.31M,6312828,,https://www.sec.gov/Archives/edgar/data/1870643/000119312526407918/0001193125-26-407918-index.htm,LOW
 2026-09-29T22:26:35+00:00,FORM_144,BMBL,Bumble Inc.,proposed sale $459K,458797,,https://www.sec.gov/Archives/edgar/data/1870641/000119312526407916/0001193125-26-407916-index.htm,LOW
 2026-09-29T22:36:43+00:00,INSIDER_BUY,ASX:LNW,"Light & Wonder, Inc.",McLennan Hamish $339K,339077,1664,https://www.sec.gov/Archives/edgar/data/1830349/000095015726001049/0000950157-26-001049-index.htm,MEDIUM
+2026-09-29T22:41:31+00:00,INSIDER_CLUSTER,ZDGE,"Zedge, Inc.",JONAS HOWARD S $0,,4,https://www.sec.gov/Archives/edgar/data/1667313/000119312526407951/0001193125-26-407951-index.htm,HIGH
+2026-09-29T22:41:34+00:00,FORM_144,TTWO,TAKE TWO INTERACTIVE SOFTWARE INC,proposed sale $8.10M,8095544,,https://www.sec.gov/Archives/edgar/data/1229590/000197372726000061/0001973727-26-000061-index.htm,LOW
