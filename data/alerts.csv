@@ -3612,3 +3612,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-30T21:16:45+00:00,FORM_144,REX,REX American Resources Corp,proposed sale $2.13M,2129500,,https://www.sec.gov/Archives/edgar/data/936969/000196858226001022/0001968582-26-001022-index.htm,LOW
 2026-09-30T21:26:30+00:00,INSIDER_BUY,ADRX,"ADARx Pharmaceuticals, Inc.",GORDON CARL L $16.15M,16150000,2,https://www.sec.gov/Archives/edgar/data/1802369/000094787126000911/0000947871-26-000911-index.htm,HIGH
 2026-09-30T21:26:34+00:00,INSIDER_BUY,ADRX,"ADARx Pharmaceuticals, Inc.",ORBIMED ADVISORS LLC $16.15M,16150000,2,https://www.sec.gov/Archives/edgar/data/1808744/000094787126000910/0000947871-26-000910-index.htm,HIGH
+2026-09-30T21:31:33+00:00,INSIDER_CLUSTER,ADRX,"ADARx Pharmaceuticals, Inc.",Chimovits Erez $1.05M,1045772,2,https://www.sec.gov/Archives/edgar/data/1802369/000094787126000912/0000947871-26-000912-index.htm,HIGH
