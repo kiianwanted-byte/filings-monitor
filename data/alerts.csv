@@ -3578,3 +3578,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-30T20:11:41+00:00,FORM_144,CX,"CEMEX, S.A.B. DE C.V.",proposed sale $888K,888046,,https://www.sec.gov/Archives/edgar/data/2092936/000195004726009878/0001950047-26-009878-index.htm,LOW
 2026-09-30T20:11:42+00:00,FORM_144,KMTS,"KESTRA MEDICAL TECHNOLOGIES, LTD.",proposed sale $98K,97503,,https://www.sec.gov/Archives/edgar/data/1877184/000196430626000458/0001964306-26-000458-index.htm,LOW
 2026-09-30T20:11:42+00:00,FORM_144,PINS,"PINTEREST, INC.",proposed sale $878K,877617,,https://www.sec.gov/Archives/edgar/data/1773914/000192109426001059/0001921094-26-001059-index.htm,LOW
+2026-09-30T20:16:37+00:00,FORM_144,CRWV,"COREWEAVE, INC.",proposed sale $438,438,,https://www.sec.gov/Archives/edgar/data/2058056/000195004726009880/0001950047-26-009880-index.htm,LOW
