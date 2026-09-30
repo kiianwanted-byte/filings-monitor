@@ -3560,3 +3560,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-30T18:26:35+00:00,FORM_144,KEYS,"Keysight Technologies, Inc.",proposed sale $1.09M,1092390,,https://www.sec.gov/Archives/edgar/data/1712648/000195917326007149/0001959173-26-007149-index.htm,LOW
 2026-09-30T19:21:31+00:00,FORM_144,HRB,H&R BLOCK INC,proposed sale $110K,109852,,https://www.sec.gov/Archives/edgar/data/2103635/000195917326007151/0001959173-26-007151-index.htm,LOW
 2026-09-30T19:21:32+00:00,FORM_144,RYN,RAYONIER INC,proposed sale $16K,16460,,https://www.sec.gov/Archives/edgar/data/2125295/000195917326007150/0001959173-26-007150-index.htm,LOW
+2026-09-30T19:56:40+00:00,FORM_144,COLL,"COLLEGIUM PHARMACEUTICAL, INC",proposed sale $603K,603320,,https://www.sec.gov/Archives/edgar/data/1746251/000195917326007152/0001959173-26-007152-index.htm,LOW
