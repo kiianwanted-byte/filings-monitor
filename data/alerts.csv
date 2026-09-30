@@ -3621,3 +3621,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-30T21:51:32+00:00,FORM_144,FRT,Federal Realty Investment Trust,proposed sale $162K,162435,,https://www.sec.gov/Archives/edgar/data/1822926/000195824426000627/0001958244-26-000627-index.htm,LOW
 2026-09-30T21:56:34+00:00,INSIDER_CLUSTER,CLPR,Clipper Realty Inc.,Bistricer Jacob $246K,246225,2,https://www.sec.gov/Archives/edgar/data/1697378/000143774926031626/0001437749-26-031626-index.htm,HIGH
 2026-09-30T22:11:30+00:00,FORM_144,PONY,PONY AI INC.,proposed sale $19.62M,19620000,,https://www.sec.gov/Archives/edgar/data/2067495/000195824426000629/0001958244-26-000629-index.htm,LOW
+2026-09-30T22:16:32+00:00,FORM_144,HNGE,"Hinge Health, Inc.",proposed sale $39.14M,39135124,,https://www.sec.gov/Archives/edgar/data/1710860/000197407826000369/0001974078-26-000369-index.htm,MEDIUM
