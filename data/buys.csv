@@ -1073,3 +1073,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-09-30T21:41:33+00:00,2026-09-28,,AGL Private Credit Income Fund,Abu Dhabi Investment Authority,10% owner,955608,23.42,22380356,4.9,0001193125-26-409304
 2026-09-30T21:51:31+00:00,2026-09-28,INLX,"INTELLINETICS, INC.",SEID PAUL,Director,184,5.15,947,0.1,0001493152-26-045167
 2026-09-30T21:56:34+00:00,2026-09-28,CLPR,Clipper Realty Inc.,Bistricer Jacob,Chief Operating Officer,73500,3.35,246225,NEW,0001437749-26-031626
+2026-09-30T22:56:44+00:00,2026-09-29,BCDA,"BioCardia, Inc.",Altman Peter,"Director, President and CEO",1000,1.03,1030,0.3,0001437749-26-031638
