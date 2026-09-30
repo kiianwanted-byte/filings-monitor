@@ -3545,3 +3545,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-30T11:31:30+00:00,FORM_144,ATHM,Autohome Inc.,proposed sale $30K,29616,,https://www.sec.gov/Archives/edgar/data/1975234/000197337926000347/0001973379-26-000347-index.htm,LOW
 2026-09-30T11:36:33+00:00,FORM_144,ATHM,Autohome Inc.,proposed sale $49K,49374,,https://www.sec.gov/Archives/edgar/data/1976012/000197337926000348/0001973379-26-000348-index.htm,LOW
 2026-09-30T12:21:32+00:00,FORM_144,IGIC,International General Insurance Holdings Ltd.,proposed sale $1.94M,1940492,,https://www.sec.gov/Archives/edgar/data/1808127/000110465926112124/0001104659-26-112124-index.htm,LOW
+2026-09-30T13:56:33+00:00,INSIDER_CLUSTER,CULP,CULP INC,CULP ROBERT GEORGE IV $12K,11514,2,https://www.sec.gov/Archives/edgar/data/1294280/000129428026000007/0001294280-26-000007-index.htm,HIGH
