@@ -3555,3 +3555,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-30T16:51:34+00:00,INSIDER_BUY,,Nuveen Churchill Private Capital Income Fund,Kencel Kenneth J. $500K,499999,2,https://www.sec.gov/Archives/edgar/data/1911066/000122520826008020/0001225208-26-008020-index.htm,LOW
 2026-09-30T16:51:35+00:00,FORM_144,NKE,"NIKE, Inc.",proposed sale $454K,453915,,https://www.sec.gov/Archives/edgar/data/1806799/000195917326007147/0001959173-26-007147-index.htm,LOW
 2026-09-30T17:31:33+00:00,FORM_144,PTCT,"PTC THERAPEUTICS, INC.",proposed sale $782K,781920,,https://www.sec.gov/Archives/edgar/data/1269131/000195917326007148/0001959173-26-007148-index.htm,LOW
+2026-09-30T17:36:31+00:00,FORM_144,NXGL,"NEXGEL, INC.",proposed sale $3K,3488,,https://www.sec.gov/Archives/edgar/data/1794090/000194984626000600/0001949846-26-000600-index.htm,LOW
