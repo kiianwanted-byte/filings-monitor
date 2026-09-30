@@ -3589,3 +3589,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-30T20:22:17+00:00,FORM_144,PFGC,PERFORMANCE FOOD GROUP COMPANY,proposed sale $92K,92449,,https://www.sec.gov/Archives/edgar/data/1951271/000195004726009881/0001950047-26-009881-index.htm,LOW
 2026-09-30T20:22:17+00:00,FORM_144,TWLO,TWILIO INC,proposed sale $2.68M,2676624,,https://www.sec.gov/Archives/edgar/data/1965469/000192109426001061/0001921094-26-001061-index.htm,LOW
 2026-09-30T20:22:18+00:00,FORM_144,TWLO,TWILIO INC,proposed sale $4.09M,4087133,,https://www.sec.gov/Archives/edgar/data/1737610/000192109426001060/0001921094-26-001060-index.htm,LOW
+2026-09-30T20:26:33+00:00,FORM_144,XYZ,"BLOCK, INC.",proposed sale $446K,445980,,https://www.sec.gov/Archives/edgar/data/1933928/000195004726009891/0001950047-26-009891-index.htm,LOW
+2026-09-30T20:26:34+00:00,FORM_144,CRWD,"CROWDSTRIKE HOLDINGS, INC.",proposed sale $64.22M,64224732,,https://www.sec.gov/Archives/edgar/data/1968270/000195004726009890/0001950047-26-009890-index.htm,MEDIUM
+2026-09-30T20:26:35+00:00,FORM_144,DOCS,"DOXIMITY, INC.",proposed sale $34K,34455,,https://www.sec.gov/Archives/edgar/data/1940538/000195004726009889/0001950047-26-009889-index.htm,LOW
+2026-09-30T20:26:36+00:00,FORM_144,AVPT,"AvePoint, Inc.",proposed sale $141K,141122,,https://www.sec.gov/Archives/edgar/data/1865783/000196530126000151/0001965301-26-000151-index.htm,LOW
+2026-09-30T20:26:37+00:00,FORM_144,ROIV,Roivant Sciences Ltd.,proposed sale $7.32M,7323556,,https://www.sec.gov/Archives/edgar/data/1801917/000196530126000150/0001965301-26-000150-index.htm,LOW
