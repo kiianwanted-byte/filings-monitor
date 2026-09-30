@@ -3607,3 +3607,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-30T20:51:36+00:00,FORM_144,CRWV,"COREWEAVE, INC.",proposed sale $4.96M,4956965,,https://www.sec.gov/Archives/edgar/data/2058103/000195004726009894/0001950047-26-009894-index.htm,LOW
 2026-09-30T21:01:31+00:00,INSIDER_BUY,CRBG,"Corebridge Financial, Inc.",NIPPON LIFE INSURANCE CO $27.52M,27519616,2,https://www.sec.gov/Archives/edgar/data/1889539/000119312526409206/0001193125-26-409206-index.htm,LOW
 2026-09-30T21:01:35+00:00,INSIDER_CLUSTER,KWY,KINGSWAY Corp,Hansen Kent A $2K,1571,0,https://www.sec.gov/Archives/edgar/data/1686017/000107262726000055/0001072627-26-000055-index.htm,HIGH
+2026-09-30T21:06:37+00:00,FORM_144,CRWV,"COREWEAVE, INC.",proposed sale $438,438,,https://www.sec.gov/Archives/edgar/data/2058048/000195004726009896/0001950047-26-009896-index.htm,LOW
