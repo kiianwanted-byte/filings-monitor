@@ -3562,3 +3562,12 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-30T19:21:32+00:00,FORM_144,RYN,RAYONIER INC,proposed sale $16K,16460,,https://www.sec.gov/Archives/edgar/data/2125295/000195917326007150/0001959173-26-007150-index.htm,LOW
 2026-09-30T19:56:40+00:00,FORM_144,COLL,"COLLEGIUM PHARMACEUTICAL, INC",proposed sale $603K,603320,,https://www.sec.gov/Archives/edgar/data/1746251/000195917326007152/0001959173-26-007152-index.htm,LOW
 2026-09-30T20:01:34+00:00,INSIDER_CLUSTER,SWZ,Total Return Securities Fund,SELL MORITZ A $12K,11530,2,https://www.sec.gov/Archives/edgar/data/1053116/000139834426017612/0001398344-26-017612-index.htm,HIGH
+2026-09-30T20:06:38+00:00,FORM_144,KDK,"Kodiak AI, Inc.",proposed sale $2K,1634,,https://www.sec.gov/Archives/edgar/data/2082817/000195917326007154/0001959173-26-007154-index.htm,LOW
+2026-09-30T20:06:38+00:00,FORM_144,GOOGL,Alphabet Inc.,proposed sale $28K,28257,,https://www.sec.gov/Archives/edgar/data/1665419/000192109426001058/0001921094-26-001058-index.htm,LOW
+2026-09-30T20:06:39+00:00,FORM_144,CRWV,"COREWEAVE, INC.",proposed sale $351,350,,https://www.sec.gov/Archives/edgar/data/2124855/000195004726009877/0001950047-26-009877-index.htm,LOW
+2026-09-30T20:06:39+00:00,FORM_144,BXMT,"BLACKSTONE MORTGAGE TRUST, INC.",proposed sale $20K,20091,,https://www.sec.gov/Archives/edgar/data/2089544/000196430626000457/0001964306-26-000457-index.htm,LOW
+2026-09-30T20:06:40+00:00,FORM_144,SYRE,"SPYRE THERAPEUTICS, INC.",proposed sale $1.57M,1573157,,https://www.sec.gov/Archives/edgar/data/1853327/000195004726009876/0001950047-26-009876-index.htm,LOW
+2026-09-30T20:06:40+00:00,FORM_144,BETA,"BETA Technologies, Inc.",proposed sale $226K,226304,,https://www.sec.gov/Archives/edgar/data/2090083/000195917326007153/0001959173-26-007153-index.htm,LOW
+2026-09-30T20:06:41+00:00,FORM_144,ASAN,"ASANA, INC.",proposed sale $55K,54656,,https://www.sec.gov/Archives/edgar/data/2099916/000195004726009875/0001950047-26-009875-index.htm,LOW
+2026-09-30T20:06:41+00:00,FORM_144,BATRA,"Atlanta Braves Holdings, Inc.",proposed sale $9.46M,9460806,,https://www.sec.gov/Archives/edgar/data/1958140/000196922326001043/0001969223-26-001043-index.htm,LOW
+2026-09-30T20:06:41+00:00,FORM_144,CXW,"CoreCivic, Inc.",proposed sale $406K,406375,,https://www.sec.gov/Archives/edgar/data/1746033/000199652726000010/0001996527-26-000010-index.htm,LOW
