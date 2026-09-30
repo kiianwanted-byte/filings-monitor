@@ -3551,3 +3551,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-30T15:16:33+00:00,INSIDER_CLUSTER,FUL,FULLER H B CO,Rasmussen Trangsrud Teresa J $100K,99984,2,https://www.sec.gov/Archives/edgar/data/1832403/000122520826008013/0001225208-26-008013-index.htm,HIGH
 2026-09-30T15:16:35+00:00,INSIDER_CLUSTER,FUL,FULLER H B CO,Zaheer Srilata $100K,100118,2,https://www.sec.gov/Archives/edgar/data/1919136/000122520826008011/0001225208-26-008011-index.htm,HIGH
 2026-09-30T15:16:37+00:00,FORM_144,CARL,"CARLSMED, INC.",proposed sale $3K,3399,,https://www.sec.gov/Archives/edgar/data/2147819/000195917326007145/0001959173-26-007145-index.htm,LOW
+2026-09-30T15:26:34+00:00,FORM_144,JBLU,JETBLUE AIRWAYS CORP,proposed sale $9K,8580,,https://www.sec.gov/Archives/edgar/data/1858380/000195917326007146/0001959173-26-007146-index.htm,LOW
