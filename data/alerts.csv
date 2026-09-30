@@ -3571,3 +3571,10 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-30T20:06:41+00:00,FORM_144,ASAN,"ASANA, INC.",proposed sale $55K,54656,,https://www.sec.gov/Archives/edgar/data/2099916/000195004726009875/0001950047-26-009875-index.htm,LOW
 2026-09-30T20:06:41+00:00,FORM_144,BATRA,"Atlanta Braves Holdings, Inc.",proposed sale $9.46M,9460806,,https://www.sec.gov/Archives/edgar/data/1958140/000196922326001043/0001969223-26-001043-index.htm,LOW
 2026-09-30T20:06:41+00:00,FORM_144,CXW,"CoreCivic, Inc.",proposed sale $406K,406375,,https://www.sec.gov/Archives/edgar/data/1746033/000199652726000010/0001996527-26-000010-index.htm,LOW
+2026-09-30T20:11:36+00:00,INSIDER_BUY,KBDC,"Kayne Anderson BDC, Inc.",ROBO JAMES L $1.91M,1912657,2,https://www.sec.gov/Archives/edgar/data/1747172/000118325426000008/0001183254-26-000008-index.htm,MEDIUM
+2026-09-30T20:11:40+00:00,FORM_144,AMPL,"Amplitude, Inc.",proposed sale $20K,19857,,https://www.sec.gov/Archives/edgar/data/1882913/000195917326007155/0001959173-26-007155-index.htm,LOW
+2026-09-30T20:11:40+00:00,FORM_144,MLYS,"Mineralys Therapeutics, Inc.",proposed sale $1.91M,1909661,,https://www.sec.gov/Archives/edgar/data/1933414/000196430626000459/0001964306-26-000459-index.htm,LOW
+2026-09-30T20:11:41+00:00,FORM_144,CRWV,"COREWEAVE, INC.",proposed sale $6.89M,6887894,,https://www.sec.gov/Archives/edgar/data/2058037/000195004726009879/0001950047-26-009879-index.htm,LOW
+2026-09-30T20:11:41+00:00,FORM_144,CX,"CEMEX, S.A.B. DE C.V.",proposed sale $888K,888046,,https://www.sec.gov/Archives/edgar/data/2092936/000195004726009878/0001950047-26-009878-index.htm,LOW
+2026-09-30T20:11:42+00:00,FORM_144,KMTS,"KESTRA MEDICAL TECHNOLOGIES, LTD.",proposed sale $98K,97503,,https://www.sec.gov/Archives/edgar/data/1877184/000196430626000458/0001964306-26-000458-index.htm,LOW
+2026-09-30T20:11:42+00:00,FORM_144,PINS,"PINTEREST, INC.",proposed sale $878K,877617,,https://www.sec.gov/Archives/edgar/data/1773914/000192109426001059/0001921094-26-001059-index.htm,LOW
