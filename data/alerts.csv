@@ -3594,3 +3594,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-30T20:26:35+00:00,FORM_144,DOCS,"DOXIMITY, INC.",proposed sale $34K,34455,,https://www.sec.gov/Archives/edgar/data/1940538/000195004726009889/0001950047-26-009889-index.htm,LOW
 2026-09-30T20:26:36+00:00,FORM_144,AVPT,"AvePoint, Inc.",proposed sale $141K,141122,,https://www.sec.gov/Archives/edgar/data/1865783/000196530126000151/0001965301-26-000151-index.htm,LOW
 2026-09-30T20:26:37+00:00,FORM_144,ROIV,Roivant Sciences Ltd.,proposed sale $7.32M,7323556,,https://www.sec.gov/Archives/edgar/data/1801917/000196530126000150/0001965301-26-000150-index.htm,LOW
+2026-09-30T20:31:30+00:00,INSIDER_CLUSTER,PMPEX,Primark Meketa Private Equity Investments Fund,Samson Ethan Isaac $14K,14499,2,https://www.sec.gov/Archives/edgar/data/2102036/000210203626000003/0002102036-26-000003-index.htm,HIGH
+2026-09-30T20:31:34+00:00,INSIDER_BUY,KOD,Kodiak Sciences Inc.,BAKER BROS. ADVISORS LP $34.96M,34963076,2,https://www.sec.gov/Archives/edgar/data/1580575/000119312526409118/0001193125-26-409118-index.htm,HIGH
+2026-09-30T20:31:36+00:00,INSIDER_BUY,KOD,Kodiak Sciences Inc.,BAKER BROS. ADVISORS LP $58.63M,58625707,2,https://www.sec.gov/Archives/edgar/data/1580575/000119312526409116/0001193125-26-409116-index.htm,HIGH
+2026-09-30T20:31:39+00:00,FORM_144,SPRY,"ARS PHARMACEUTICALS, INC.",proposed sale $432K,431560,,https://www.sec.gov/Archives/edgar/data/1951287/000195004726009892/0001950047-26-009892-index.htm,LOW
+2026-09-30T20:31:40+00:00,FORM_144,GRPN,"Groupon, Inc.",proposed sale $314K,314187,,https://www.sec.gov/Archives/edgar/data/1973423/000195917326007156/0001959173-26-007156-index.htm,LOW
