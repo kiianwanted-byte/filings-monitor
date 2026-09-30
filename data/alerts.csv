@@ -3558,3 +3558,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-30T17:36:31+00:00,FORM_144,NXGL,"NEXGEL, INC.",proposed sale $3K,3488,,https://www.sec.gov/Archives/edgar/data/1794090/000194984626000600/0001949846-26-000600-index.htm,LOW
 2026-09-30T18:21:30+00:00,INSIDER_CLUSTER,TPYTX,TCW Private Asset Income Fund,Swell Michael $15K,15243,2,https://www.sec.gov/Archives/edgar/data/2036272/000119312526408892/0001193125-26-408892-index.htm,HIGH
 2026-09-30T18:26:35+00:00,FORM_144,KEYS,"Keysight Technologies, Inc.",proposed sale $1.09M,1092390,,https://www.sec.gov/Archives/edgar/data/1712648/000195917326007149/0001959173-26-007149-index.htm,LOW
+2026-09-30T19:21:31+00:00,FORM_144,HRB,H&R BLOCK INC,proposed sale $110K,109852,,https://www.sec.gov/Archives/edgar/data/2103635/000195917326007151/0001959173-26-007151-index.htm,LOW
+2026-09-30T19:21:32+00:00,FORM_144,RYN,RAYONIER INC,proposed sale $16K,16460,,https://www.sec.gov/Archives/edgar/data/2125295/000195917326007150/0001959173-26-007150-index.htm,LOW
