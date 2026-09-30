@@ -3543,3 +3543,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-30T10:06:33+00:00,INSIDER_BUY,MNSO,MINISO Group Holding Ltd,Zhang Jingjing Eason $340K,340099,1,https://www.sec.gov/Archives/edgar/data/2111254/000110465926112076/0001104659-26-112076-index.htm,MEDIUM
 2026-09-30T11:26:28+00:00,FORM_144,ATHM,Autohome Inc.,proposed sale $182K,182320,,https://www.sec.gov/Archives/edgar/data/1975515/000197337926000346/0001973379-26-000346-index.htm,LOW
 2026-09-30T11:31:30+00:00,FORM_144,ATHM,Autohome Inc.,proposed sale $30K,29616,,https://www.sec.gov/Archives/edgar/data/1975234/000197337926000347/0001973379-26-000347-index.htm,LOW
+2026-09-30T11:36:33+00:00,FORM_144,ATHM,Autohome Inc.,proposed sale $49K,49374,,https://www.sec.gov/Archives/edgar/data/1976012/000197337926000348/0001973379-26-000348-index.htm,LOW
