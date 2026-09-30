@@ -3617,3 +3617,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-30T21:36:31+00:00,FORM_144,UMBF,UMB FINANCIAL CORP,proposed sale $332K,331525,,https://www.sec.gov/Archives/edgar/data/1976234/000197636326000034/0001976363-26-000034-index.htm,LOW
 2026-09-30T21:36:32+00:00,FORM_144,UMBF,UMB FINANCIAL CORP,proposed sale $163K,162512,,https://www.sec.gov/Archives/edgar/data/1976289/000197636326000033/0001976363-26-000033-index.htm,LOW
 2026-09-30T21:36:32+00:00,FORM_144,UMBF,UMB FINANCIAL CORP,proposed sale $75K,74885,,https://www.sec.gov/Archives/edgar/data/1975226/000197636326000032/0001976363-26-000032-index.htm,LOW
+2026-09-30T21:41:33+00:00,INSIDER_BUY,,AGL Private Credit Income Fund,Abu Dhabi Investment Authority $22.38M,22380356,2,https://www.sec.gov/Archives/edgar/data/2042774/000119312526409304/0001193125-26-409304-index.htm,LOW
