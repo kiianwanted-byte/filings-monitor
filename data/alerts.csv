@@ -3601,3 +3601,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-30T20:31:40+00:00,FORM_144,GRPN,"Groupon, Inc.",proposed sale $314K,314187,,https://www.sec.gov/Archives/edgar/data/1973423/000195917326007156/0001959173-26-007156-index.htm,LOW
 2026-09-30T20:36:45+00:00,INSIDER_BUY,KOD,Kodiak Sciences Inc.,BAKER BROS. ADVISORS LP $63.40M,63397609,2,https://www.sec.gov/Archives/edgar/data/1580575/000119312526409127/0001193125-26-409127-index.htm,HIGH
 2026-09-30T20:36:46+00:00,FORM_144,SGHT,"Sight Sciences, Inc.",proposed sale $208K,208051,,https://www.sec.gov/Archives/edgar/data/1650737/000195917326007157/0001959173-26-007157-index.htm,LOW
+2026-09-30T20:46:33+00:00,INSIDER_CLUSTER,BBD,BANK BRADESCO,Di Marcello Francesco $1.01M,1008843,2,https://www.sec.gov/Archives/edgar/data/2125956/000129281426004756/0001292814-26-004756-index.htm,HIGH
+2026-09-30T20:46:35+00:00,FORM_144,CRWV,"COREWEAVE, INC.",proposed sale $5.75M,5753591,,https://www.sec.gov/Archives/edgar/data/2058067/000195004726009893/0001950047-26-009893-index.htm,LOW
