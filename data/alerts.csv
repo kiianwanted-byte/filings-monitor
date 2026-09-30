@@ -3623,3 +3623,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-30T22:11:30+00:00,FORM_144,PONY,PONY AI INC.,proposed sale $19.62M,19620000,,https://www.sec.gov/Archives/edgar/data/2067495/000195824426000629/0001958244-26-000629-index.htm,LOW
 2026-09-30T22:16:32+00:00,FORM_144,HNGE,"Hinge Health, Inc.",proposed sale $39.14M,39135124,,https://www.sec.gov/Archives/edgar/data/1710860/000197407826000369/0001974078-26-000369-index.htm,MEDIUM
 2026-09-30T22:36:32+00:00,FORM_144,HNGE,"Hinge Health, Inc.",proposed sale $47.73M,47725118,,https://www.sec.gov/Archives/edgar/data/1710959/000197407826000370/0001974078-26-000370-index.htm,MEDIUM
+2026-09-30T22:51:29+00:00,FORM_144,HNGE,"Hinge Health, Inc.",proposed sale $7.57M,7570304,,https://www.sec.gov/Archives/edgar/data/1710835/000197407826000371/0001974078-26-000371-index.htm,LOW
