@@ -3828,3 +3828,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-01T21:41:30+00:00,INSIDER_CLUSTER,PRHI,"Presurance Holdings, Inc.",RONEY BRIAN J $51K,50622,1,https://www.sec.gov/Archives/edgar/data/1502292/000119312526410894/0001193125-26-410894-index.htm,HIGH
 2026-10-01T21:41:32+00:00,FORM_144,HPE,Hewlett Packard Enterprise Company,proposed sale $2.16M,2157979,,https://www.sec.gov/Archives/edgar/data/1645590/000195824426000631/0001958244-26-000631-index.htm,LOW
 2026-10-01T21:41:33+00:00,FORM_144,CRCT,"Cricut, Inc.",proposed sale $1.17M,1172700,,https://www.sec.gov/Archives/edgar/data/1851564/000195824426000630/0001958244-26-000630-index.htm,LOW
+2026-10-01T21:46:36+00:00,INSIDER_BUY,ORCL,ORACLE CORP,RUSCKOWSKI STEPHEN H $3.48M,3483800,2,https://www.sec.gov/Archives/edgar/data/1341439/000134143926000099/0001341439-26-000099-index.htm,MEDIUM
