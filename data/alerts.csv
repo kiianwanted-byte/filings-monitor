@@ -3682,3 +3682,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-01T18:26:34+00:00,INSIDER_BUY,,John Hancock GA Senior Loan Trust,Manufacturers Life Reinsurance Ltd $31.00M,30998383,1,https://www.sec.gov/Archives/edgar/data/1765496/000176549626000018/0001765496-26-000018-index.htm,LOW
 2026-10-01T18:46:31+00:00,INSIDER_BUY,,John Hancock GA Mortgage Trust,Manulife (International) Ltd $26.00M,25998869,1,https://www.sec.gov/Archives/edgar/data/1765518/000176551826000006/0001765518-26-000006-index.htm,LOW
 2026-10-01T19:16:32+00:00,INSIDER_CLUSTER,SPG,SIMON PROPERTY GROUP INC.,Jones Nina P $9K,9327,1,https://www.sec.gov/Archives/edgar/data/2007895/000200789526000016/0002007895-26-000016-index.htm,HIGH
+2026-10-01T19:21:33+00:00,INSIDER_CLUSTER,SPG,SIMON PROPERTY GROUP INC.,LEIBOWITZ REUBEN S $97K,97334,1,https://www.sec.gov/Archives/edgar/data/1210982/000121098226000010/0001210982-26-000010-index.htm,HIGH
