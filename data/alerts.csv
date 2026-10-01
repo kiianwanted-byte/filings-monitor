@@ -3834,3 +3834,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-01T21:51:32+00:00,FORM_144,GRML,GREENLAND MINES LTD,proposed sale $32K,31885,,https://www.sec.gov/Archives/edgar/data/1926018/000195824426000632/0001958244-26-000632-index.htm,LOW
 2026-10-01T22:01:37+00:00,FORM_144,PEG,"Public Service Enterprise Group, Inc.",proposed sale $421K,420807,,https://www.sec.gov/Archives/edgar/data/1377477/000196858226001036/0001968582-26-001036-index.htm,LOW
 2026-10-01T22:01:38+00:00,FORM_144,,HSBC BANK PLC,proposed sale $5.00B,5000000000,,https://www.sec.gov/Archives/edgar/data/2157144/000215714426000002/0002157144-26-000002-index.htm,LOW
+2026-10-01T22:06:34+00:00,FORM_144,BLTE,"Belite Bio, Inc.",proposed sale $679K,679280,,https://www.sec.gov/Archives/edgar/data/2113223/000196858226001037/0001968582-26-001037-index.htm,LOW
+2026-10-01T22:06:34+00:00,FORM_144,CRWD,"CrowdStrike Holdings, Inc.",proposed sale $21.82M,21819380,,https://www.sec.gov/Archives/edgar/data/1535527/000195824426000634/0001958244-26-000634-index.htm,LOW
