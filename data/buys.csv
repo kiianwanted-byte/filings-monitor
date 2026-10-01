@@ -1083,3 +1083,5 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-10-01T10:31:34+00:00,2026-09-29,GPUS,"Hyperscale Data, Inc.",AULT MILTON C III,"Director, Executive Chairman, 10% owner",10313474,0.49,5051382,285.5,0001214659-26-012383
 2026-10-01T11:56:32+00:00,2026-09-30,UXIN,Uxin Ltd,Dai Kun,"Director, Chief Executive Officer",7443,1.34,9945,88.2,0001493152-26-045255
 2026-10-01T12:01:37+00:00,2026-09-29,FLNA,"FILANA THERAPEUTICS, INC.",Barry Richard,"Director, President & CEO",306813,0.91,278131,29.8,0001437749-26-031654
+2026-10-01T13:21:35+00:00,2026-09-30,XENE,Xenon Pharmaceuticals Inc.,Kelly Thomas Patrick,Chief Financial Officer,15000,37.32,559740,NEW,0001193125-26-410001
+2026-10-01T13:21:36+00:00,2026-09-30,XENE,Xenon Pharmaceuticals Inc.,MORTIMER IAN,"Director, PRESIDENT & CEO",30000,37.38,1121400,150.6,0001193125-26-409999
