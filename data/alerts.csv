@@ -3659,3 +3659,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-01T15:11:40+00:00,FORM_144,CORT,CORCEPT THERAPEUTICS INC,proposed sale $1.15M,1152300,,https://www.sec.gov/Archives/edgar/data/1817838/000197325126000038/0001973251-26-000038-index.htm,LOW
 2026-10-01T15:11:41+00:00,FORM_144,IRM,IRON MOUNTAIN INC,proposed sale $554K,553600,,https://www.sec.gov/Archives/edgar/data/1769841/000195917326007174/0001959173-26-007174-index.htm,LOW
 2026-10-01T15:31:38+00:00,FORM_144,NEM,NEWMONT Corp /DE/,proposed sale $344K,344430,,https://www.sec.gov/Archives/edgar/data/1936354/000195917326007176/0001959173-26-007176-index.htm,LOW
+2026-10-01T15:46:38+00:00,FORM_144,MTG,MGIC INVESTMENT CORP,proposed sale $782K,781800,,https://www.sec.gov/Archives/edgar/data/1687897/000195917326007177/0001959173-26-007177-index.htm,LOW
