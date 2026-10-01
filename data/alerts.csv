@@ -3651,3 +3651,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-01T14:41:30+00:00,FORM_144,OBIO,"Orchestra BioMed Holdings, Inc.",proposed sale $94K,94050,,https://www.sec.gov/Archives/edgar/data/1814114/000195917326007169/0001959173-26-007169-index.htm,LOW
 2026-10-01T14:46:40+00:00,FORM_144,CBLL,"Ceribell, Inc.",proposed sale $119K,119145,,https://www.sec.gov/Archives/edgar/data/2036112/000195917326007171/0001959173-26-007171-index.htm,LOW
 2026-10-01T14:46:40+00:00,FORM_144,IRM,IRON MOUNTAIN INC,proposed sale $4.26M,4259841,,https://www.sec.gov/Archives/edgar/data/1566391/000195917326007170/0001959173-26-007170-index.htm,LOW
+2026-10-01T14:51:33+00:00,FORM_144,RVTY,"REVVITY, INC.",proposed sale $13K,13060,,https://www.sec.gov/Archives/edgar/data/1976445/000195917326007172/0001959173-26-007172-index.htm,LOW
