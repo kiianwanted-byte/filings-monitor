@@ -3825,3 +3825,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-01T21:21:52+00:00,FORM_144,AMWL,American Well Corporation,proposed sale $56K,55668,,https://www.sec.gov/Archives/edgar/data/1393584/000119312526410841/0001193125-26-410841-index.htm,LOW
 2026-10-01T21:31:33+00:00,INSIDER_BUY,UUU,"UNIVERSAL SAFETY PRODUCTS, INC.",AULT MILTON C III $92.41M,92412000,1,https://www.sec.gov/Archives/edgar/data/1212502/000121465926012438/0001214659-26-012438-index.htm,HIGH
 2026-10-01T21:31:34+00:00,INSIDER_CLUSTER,CINT,CI&T Inc,Gon Cesar Nivaldo $20K,20145,2,https://www.sec.gov/Archives/edgar/data/2121401/000129281426004824/0001292814-26-004824-index.htm,HIGH
+2026-10-01T21:41:30+00:00,INSIDER_CLUSTER,PRHI,"Presurance Holdings, Inc.",RONEY BRIAN J $51K,50622,1,https://www.sec.gov/Archives/edgar/data/1502292/000119312526410894/0001193125-26-410894-index.htm,HIGH
+2026-10-01T21:41:32+00:00,FORM_144,HPE,Hewlett Packard Enterprise Company,proposed sale $2.16M,2157979,,https://www.sec.gov/Archives/edgar/data/1645590/000195824426000631/0001958244-26-000631-index.htm,LOW
+2026-10-01T21:41:33+00:00,FORM_144,CRCT,"Cricut, Inc.",proposed sale $1.17M,1172700,,https://www.sec.gov/Archives/edgar/data/1851564/000195824426000630/0001958244-26-000630-index.htm,LOW
