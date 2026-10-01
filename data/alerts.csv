@@ -3837,3 +3837,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-01T22:06:34+00:00,FORM_144,BLTE,"Belite Bio, Inc.",proposed sale $679K,679280,,https://www.sec.gov/Archives/edgar/data/2113223/000196858226001037/0001968582-26-001037-index.htm,LOW
 2026-10-01T22:06:34+00:00,FORM_144,CRWD,"CrowdStrike Holdings, Inc.",proposed sale $21.82M,21819380,,https://www.sec.gov/Archives/edgar/data/1535527/000195824426000634/0001958244-26-000634-index.htm,LOW
 2026-10-01T22:31:35+00:00,FORM_144,OII,"Oceaneering International, Inc.",proposed sale $785K,785340,,https://www.sec.gov/Archives/edgar/data/1550150/000196858226001039/0001968582-26-001039-index.htm,LOW
+2026-10-01T22:56:31+00:00,FORM_144,VSTM,"Verastem, Inc.",proposed sale $353K,353047,,https://www.sec.gov/Archives/edgar/data/1563202/000110465926112933/0001104659-26-112933-index.htm,LOW
