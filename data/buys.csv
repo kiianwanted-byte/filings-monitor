@@ -1081,3 +1081,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-10-01T00:41:33+00:00,2026-09-28,LPCN,Lipocine Inc.,Higuchi John W.,Director,12561,2.16,27131,6.2,0001493152-26-045185
 2026-10-01T00:51:29+00:00,2026-09-28,GPI,GROUP 1 AUTOMOTIVE INC,"Conifer Management, L.L.C.",10% owner,273712,242.15,66278316,16.7,0000905148-26-004310
 2026-10-01T10:31:34+00:00,2026-09-29,GPUS,"Hyperscale Data, Inc.",AULT MILTON C III,"Director, Executive Chairman, 10% owner",10313474,0.49,5051382,285.5,0001214659-26-012383
+2026-10-01T11:56:32+00:00,2026-09-30,UXIN,Uxin Ltd,Dai Kun,"Director, Chief Executive Officer",7443,1.34,9945,88.2,0001493152-26-045255
