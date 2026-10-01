@@ -3654,3 +3654,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-01T14:51:33+00:00,FORM_144,RVTY,"REVVITY, INC.",proposed sale $13K,13060,,https://www.sec.gov/Archives/edgar/data/1976445/000195917326007172/0001959173-26-007172-index.htm,LOW
 2026-10-01T15:01:33+00:00,FORM_144,NEGG,"Newegg Commerce, Inc.",proposed sale $884,884,,https://www.sec.gov/Archives/edgar/data/1966016/000195917326007173/0001959173-26-007173-index.htm,LOW
 2026-10-01T15:01:34+00:00,FORM_144,LIF,"Life360, Inc.",proposed sale $490K,489791,,https://www.sec.gov/Archives/edgar/data/1581760/000194984626000601/0001949846-26-000601-index.htm,LOW
+2026-10-01T15:06:40+00:00,INSIDER_CLUSTER,MOALX,Lord Abbett Municipal Opportunities Fund,English Christopher T. $50K,49999,2,https://www.sec.gov/Archives/edgar/data/2037483/000093041326003049/0000930413-26-003049-index.htm,HIGH
