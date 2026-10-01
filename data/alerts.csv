@@ -3667,3 +3667,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-01T16:06:36+00:00,FORM_144,MARA,"MARA Holdings, Inc.",proposed sale $309K,308606,,https://www.sec.gov/Archives/edgar/data/1567383/000195917326007181/0001959173-26-007181-index.htm,LOW
 2026-10-01T16:11:35+00:00,FORM_144,EXLS,"ExlService Holdings, Inc.",proposed sale $389K,389180,,https://www.sec.gov/Archives/edgar/data/1373633/000195917326007183/0001959173-26-007183-index.htm,LOW
 2026-10-01T16:16:34+00:00,FORM_144,COUR,"Coursera, Inc.",proposed sale $15K,14858,,https://www.sec.gov/Archives/edgar/data/1847374/000195917326007184/0001959173-26-007184-index.htm,LOW
+2026-10-01T16:31:35+00:00,FORM_144,W,Wayfair Inc.,proposed sale $715K,715260,,https://www.sec.gov/Archives/edgar/data/1867558/000195917326007185/0001959173-26-007185-index.htm,LOW
