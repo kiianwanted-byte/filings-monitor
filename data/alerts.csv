@@ -3643,3 +3643,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-01T14:01:36+00:00,FORM_144,MCO,MOODYS CORP /DE/,proposed sale $420K,419965,,https://www.sec.gov/Archives/edgar/data/1481153/000195917326007161/0001959173-26-007161-index.htm,LOW
 2026-10-01T14:06:37+00:00,FORM_144,PG,PROCTER & GAMBLE Co,proposed sale $391K,391184,,https://www.sec.gov/Archives/edgar/data/2110932/000008042426000182/0000080424-26-000182-index.htm,LOW
 2026-10-01T14:06:37+00:00,FORM_144,TRU,TransUnion,proposed sale $62K,62290,,https://www.sec.gov/Archives/edgar/data/1879101/000195917326007163/0001959173-26-007163-index.htm,LOW
+2026-10-01T14:11:40+00:00,FORM_144,ADI,ANALOG DEVICES INC,proposed sale $3.97M,3969400,,https://www.sec.gov/Archives/edgar/data/1201872/000195917326007164/0001959173-26-007164-index.htm,LOW
