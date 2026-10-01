@@ -3818,3 +3818,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-01T21:01:39+00:00,FORM_144,AMWL,American Well Corporation,proposed sale $87K,86804,,https://www.sec.gov/Archives/edgar/data/1824038/000119312526410796/0001193125-26-410796-index.htm,LOW
 2026-10-01T21:01:40+00:00,FORM_144,WMT,Walmart Inc.,proposed sale $417K,416595,,https://www.sec.gov/Archives/edgar/data/1579299/000195724426000018/0001957244-26-000018-index.htm,LOW
 2026-10-01T21:06:42+00:00,FORM_144,AMWL,American Well Corporation,proposed sale $110K,109750,,https://www.sec.gov/Archives/edgar/data/2059643/000119312526410807/0001193125-26-410807-index.htm,LOW
+2026-10-01T21:16:41+00:00,FORM_144,GRPN,"Groupon, Inc.",proposed sale $402K,402085,,https://www.sec.gov/Archives/edgar/data/1973423/000195917326007199/0001959173-26-007199-index.htm,LOW
+2026-10-01T21:16:42+00:00,FORM_144,CBRL,"CRACKER BARREL OLD COUNTRY STORE, INC.",proposed sale $182K,182262,,https://www.sec.gov/Archives/edgar/data/1895381/000195004726009987/0001950047-26-009987-index.htm,LOW
