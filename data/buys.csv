@@ -1114,3 +1114,5 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-10-01T19:51:30+00:00,2026-09-30,GRX,Gabelli Healthcare & WellnessRx Trust,"Saba Capital Management, L.P.",10% owner,519,9.52,4940,0.0,0001510281-26-000318
 2026-10-01T19:56:35+00:00,2026-09-30,MXF,MEXICO FUND INC,"Saba Capital Management, L.P.",10% owner,1238,20.39,25242,0.1,0001510281-26-000320
 2026-10-01T19:56:38+00:00,2026-09-29,GF,NEW GERMANY FUND INC,"Saba Capital Management, L.P.",10% owner,13047,10.70,139574,0.4,0001510281-26-000319
+2026-10-01T20:06:29+00:00,2026-09-29,LILA,Liberty Latin America Ltd.,MALONE JOHN C,10% owner,21525,9.25,199197,7.1,0000937797-26-000034
+2026-10-01T20:06:31+00:00,2026-09-21,GRCE,"Grace Therapeutics, Inc.",Opaleye Management Inc.,10% owner,15089,2.10,31686,0.5,0001493152-26-045347

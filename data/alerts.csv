@@ -3688,3 +3688,24 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-01T19:56:39+00:00,FORM_144,PEGA,Pegasystems Inc.,proposed sale $34K,34150,,https://www.sec.gov/Archives/edgar/data/1684701/000162828026064211/0001628280-26-064211-index.htm,LOW
 2026-10-01T20:01:36+00:00,FORM_144,BJ,BJ's Wholesale Club Inc,proposed sale $457K,456907,,https://www.sec.gov/Archives/edgar/data/2102139/000162828026064224/0001628280-26-064224-index.htm,LOW
 2026-10-01T20:01:36+00:00,FORM_144,BJ,BJ's Wholesale Club Inc,proposed sale $285K,285000,,https://www.sec.gov/Archives/edgar/data/1743889/000162828026064221/0001628280-26-064221-index.htm,LOW
+2026-10-01T20:06:31+00:00,INSIDER_CLUSTER,GRCE,"Grace Therapeutics, Inc.",Opaleye Management Inc. $32K,31686,10,https://www.sec.gov/Archives/edgar/data/1595855/000149315226045347/0001493152-26-045347-index.htm,HIGH
+2026-10-01T20:06:47+00:00,FORM_144,DOCS,"DOXIMITY, INC.",proposed sale $58K,57820,,https://www.sec.gov/Archives/edgar/data/1862897/000195004726009916/0001950047-26-009916-index.htm,LOW
+2026-10-01T20:06:48+00:00,FORM_144,NTAP,"NETAPP, INC.",proposed sale $2.10M,2100396,,https://www.sec.gov/Archives/edgar/data/1586813/000195004726009915/0001950047-26-009915-index.htm,LOW
+2026-10-01T20:06:48+00:00,FORM_144,V,VISA INC.,proposed sale $2.11M,2108008,,https://www.sec.gov/Archives/edgar/data/1578261/000196430626000460/0001964306-26-000460-index.htm,LOW
+2026-10-01T20:06:49+00:00,FORM_144,GDDY,GODADDY INC.,proposed sale $98K,97500,,https://www.sec.gov/Archives/edgar/data/1678432/000195004726009914/0001950047-26-009914-index.htm,LOW
+2026-10-01T20:06:49+00:00,FORM_144,IDT,IDT CORPORATION,proposed sale $39K,39274,,https://www.sec.gov/Archives/edgar/data/1390097/000195004726009913/0001950047-26-009913-index.htm,LOW
+2026-10-01T20:06:49+00:00,FORM_144,MRVL,"MARVELL TECHNOLOGY, INC.",proposed sale $2.62M,2620515,,https://www.sec.gov/Archives/edgar/data/1835632/000195004726009912/0001950047-26-009912-index.htm,LOW
+2026-10-01T20:06:50+00:00,FORM_144,,"Orion Diversified Holding Co., Inc",proposed sale $42K,41580,,https://www.sec.gov/Archives/edgar/data/2051452/000109690626001493/0001096906-26-001493-index.htm,LOW
+2026-10-01T20:06:50+00:00,FORM_144,BURL,"Burlington Stores, Inc.",proposed sale $453K,452791,,https://www.sec.gov/Archives/edgar/data/1641994/000196922326001046/0001969223-26-001046-index.htm,LOW
+2026-10-01T20:06:51+00:00,FORM_144,NTRA,"NATERA, INC.",proposed sale $1.24M,1242645,,https://www.sec.gov/Archives/edgar/data/2010019/000195004726009911/0001950047-26-009911-index.htm,LOW
+2026-10-01T20:06:51+00:00,FORM_144,DOCU,"DOCUSIGN, INC.",proposed sale $227K,227064,,https://www.sec.gov/Archives/edgar/data/1842656/000195004726009910/0001950047-26-009910-index.htm,LOW
+2026-10-01T20:06:52+00:00,FORM_144,IDT,IDT CORPORATION,proposed sale $31K,31214,,https://www.sec.gov/Archives/edgar/data/1790176/000195004726009909/0001950047-26-009909-index.htm,LOW
+2026-10-01T20:06:52+00:00,FORM_144,GDDY,GODADDY INC.,proposed sale $439K,438750,,https://www.sec.gov/Archives/edgar/data/1753365/000195004726009908/0001950047-26-009908-index.htm,LOW
+2026-10-01T20:06:52+00:00,FORM_144,EVER,"EverQuote, Inc.",proposed sale $420K,420229,,https://www.sec.gov/Archives/edgar/data/1744403/000196922326001045/0001969223-26-001045-index.htm,LOW
+2026-10-01T20:06:53+00:00,FORM_144,ELVN,"ENLIVEN THERAPEUTICS, INC.",proposed sale $607K,606719,,https://www.sec.gov/Archives/edgar/data/1672619/000195004726009907/0001950047-26-009907-index.htm,LOW
+2026-10-01T20:06:53+00:00,FORM_144,VRSN,"VERISIGN, INC.",proposed sale $142K,142190,,https://www.sec.gov/Archives/edgar/data/1624651/000195004726009906/0001950047-26-009906-index.htm,LOW
+2026-10-01T20:06:54+00:00,FORM_144,CIEN,CIENA CORPORATION,proposed sale $746K,746254,,https://www.sec.gov/Archives/edgar/data/1963781/000195004726009905/0001950047-26-009905-index.htm,LOW
+2026-10-01T20:06:54+00:00,FORM_144,MAZE,"Maze Therapeutics, Inc.",proposed sale $933K,933252,,https://www.sec.gov/Archives/edgar/data/1842295/000196922326001044/0001969223-26-001044-index.htm,LOW
+2026-10-01T20:06:55+00:00,FORM_144,CIEN,CIENA CORPORATION,proposed sale $934K,933794,,https://www.sec.gov/Archives/edgar/data/1699193/000195004726009904/0001950047-26-009904-index.htm,LOW
+2026-10-01T20:06:55+00:00,FORM_144,DOCU,"DOCUSIGN, INC.",proposed sale $826K,825507,,https://www.sec.gov/Archives/edgar/data/1294600/000195004726009902/0001950047-26-009902-index.htm,LOW
+2026-10-01T20:06:55+00:00,FORM_144,VSAT,"VIASAT, INC.",proposed sale $140K,139740,,https://www.sec.gov/Archives/edgar/data/1992819/000195004726009901/0001950047-26-009901-index.htm,LOW
