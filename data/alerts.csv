@@ -3671,3 +3671,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-01T16:41:34+00:00,FORM_144,MTG,MGIC INVESTMENT CORP,proposed sale $3.57M,3573190,,https://www.sec.gov/Archives/edgar/data/1465105/000195917326007186/0001959173-26-007186-index.htm,LOW
 2026-10-01T16:56:43+00:00,FORM_144,PG,PROCTER & GAMBLE Co,proposed sale $416K,416465,,https://www.sec.gov/Archives/edgar/data/1929158/000008042426000184/0000080424-26-000184-index.htm,LOW
 2026-10-01T16:56:44+00:00,FORM_144,PG,PROCTER & GAMBLE Co,proposed sale $688K,688195,,https://www.sec.gov/Archives/edgar/data/1844763/000008042426000183/0000080424-26-000183-index.htm,LOW
+2026-10-01T17:07:11+00:00,FORM_144,TRU,TransUnion,proposed sale $16K,15572,,https://www.sec.gov/Archives/edgar/data/2058648/000195917326007187/0001959173-26-007187-index.htm,LOW
