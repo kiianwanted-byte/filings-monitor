@@ -1098,3 +1098,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-10-01T18:41:36+00:00,2026-09-30,,John Hancock GA Mortgage Trust,Manufacturers Life Insurance Co (Bermuda Branch),10% owner,56773,17.61,999956,0.3,0001833683-26-000019
 2026-10-01T18:46:31+00:00,2026-09-30,,John Hancock GA Mortgage Trust,Manulife (International) Ltd,10% owner,1476118,17.61,25998869,3.1,0001765518-26-000006
 2026-10-01T19:04:52+00:00,2026-09-30,CRESY,CRESUD INC,Elsztain Alejandro Gustavo,"Director, CEO",17334,11.50,199282,1.4,0002119764-26-000028
+2026-10-01T19:11:42+00:00,2026-09-30,SPG,SIMON PROPERTY GROUP INC.,Aeppel Glyn,Director,222,202.78,45017,1.1,0001340262-26-000013
