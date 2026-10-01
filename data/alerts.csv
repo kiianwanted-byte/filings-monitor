@@ -3626,3 +3626,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-09-30T22:51:29+00:00,FORM_144,HNGE,"Hinge Health, Inc.",proposed sale $7.57M,7570304,,https://www.sec.gov/Archives/edgar/data/1710835/000197407826000371/0001974078-26-000371-index.htm,LOW
 2026-09-30T23:06:30+00:00,FORM_144,HNGE,"Hinge Health, Inc.",proposed sale $1.14M,1135526,,https://www.sec.gov/Archives/edgar/data/1710834/000197407826000372/0001974078-26-000372-index.htm,LOW
 2026-09-30T23:56:30+00:00,INSIDER_BUY,LEN,LENNAR CORP /NEW/,BERKSHIRE HATHAWAY INC $53.88M,53882588,2,https://www.sec.gov/Archives/edgar/data/1067983/000119312526409451/0001193125-26-409451-index.htm,HIGH
+2026-10-01T00:36:32+00:00,INSIDER_BUY,BPRE,Bluerock Private Real Estate Fund,KAMFAR RAMIN $5.35M,5351244,2,https://www.sec.gov/Archives/edgar/data/1551047/000139834426017661/0001398344-26-017661-index.htm,MEDIUM
