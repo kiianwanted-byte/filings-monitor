@@ -3665,3 +3665,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-01T15:56:32+00:00,FORM_144,TER,"TERADYNE, INC",proposed sale $67K,67284,,https://www.sec.gov/Archives/edgar/data/1225110/000195917326007178/0001959173-26-007178-index.htm,LOW
 2026-10-01T16:06:35+00:00,FORM_144,HIMS,"Hims & Hers Health, Inc.",proposed sale $59K,59400,,https://www.sec.gov/Archives/edgar/data/1907056/000195917326007182/0001959173-26-007182-index.htm,LOW
 2026-10-01T16:06:36+00:00,FORM_144,MARA,"MARA Holdings, Inc.",proposed sale $309K,308606,,https://www.sec.gov/Archives/edgar/data/1567383/000195917326007181/0001959173-26-007181-index.htm,LOW
+2026-10-01T16:11:35+00:00,FORM_144,EXLS,"ExlService Holdings, Inc.",proposed sale $389K,389180,,https://www.sec.gov/Archives/edgar/data/1373633/000195917326007183/0001959173-26-007183-index.htm,LOW
