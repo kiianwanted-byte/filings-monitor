@@ -1122,3 +1122,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-10-01T20:11:41+00:00,2026-10-01,CTM,"Castellum, Inc.",Ives Glen R,"Director, President",1700,0.54,909,0.8,0001877939-26-000084
 2026-10-01T20:11:45+00:00,2026-09-29,TKLF,"Tokyo Lifestyle Co., Ltd.",Kanayama Mei,"Director, Representative Director (PEO), 10% owner",1396755,0.27,382710,19.4,0001213900-26-105765
 2026-10-01T20:16:35+00:00,2026-09-29,CRBG,"Corebridge Financial, Inc.",NIPPON LIFE INSURANCE CO,10% owner,216818,33.67,7300934,0.2,0001193125-26-410677
+2026-10-01T20:21:43+00:00,2026-09-30,PCG,PG&E Corp,LARSEN JOHN O,Director,7500,12.20,91500,25.7,0001628280-26-064255

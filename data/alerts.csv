@@ -3736,3 +3736,11 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-01T20:16:45+00:00,FORM_144,PCVX,"Vaxcyte, Inc.",proposed sale $128K,127642,,https://www.sec.gov/Archives/edgar/data/1813798/000196922326001049/0001969223-26-001049-index.htm,LOW
 2026-10-01T20:16:46+00:00,FORM_144,ETSY,ETSY INC,proposed sale $975K,974608,,https://www.sec.gov/Archives/edgar/data/1525358/000196922326001048/0001969223-26-001048-index.htm,LOW
 2026-10-01T20:16:46+00:00,FORM_144,SO,The Southern Company,proposed sale $8K,8273,,https://www.sec.gov/Archives/edgar/data/2082705/000162828026064248/0001628280-26-064248-index.htm,LOW
+2026-10-01T20:21:44+00:00,FORM_144,CTNM,"Contineum Therapeutics, Inc.",proposed sale $56K,55961,,https://www.sec.gov/Archives/edgar/data/1861550/000195004726009932/0001950047-26-009932-index.htm,LOW
+2026-10-01T20:21:44+00:00,FORM_144,EBS,EMERGENT BIOSOLUTIONS INC.,proposed sale $20K,19591,,https://www.sec.gov/Archives/edgar/data/1961994/000195004726009931/0001950047-26-009931-index.htm,LOW
+2026-10-01T20:21:45+00:00,FORM_144,SRRK,Scholar Rock Holding Corp.,proposed sale $49K,48610,,https://www.sec.gov/Archives/edgar/data/1983850/000196858226001028/0001968582-26-001028-index.htm,LOW
+2026-10-01T20:21:45+00:00,FORM_144,YELP,YELP INC.,proposed sale $9K,9300,,https://www.sec.gov/Archives/edgar/data/1919747/000195004726009930/0001950047-26-009930-index.htm,LOW
+2026-10-01T20:21:45+00:00,FORM_144,BETA,"BETA Technologies, Inc.",proposed sale $220K,220027,,https://www.sec.gov/Archives/edgar/data/2090083/000195917326007193/0001959173-26-007193-index.htm,LOW
+2026-10-01T20:21:46+00:00,FORM_144,ROKU,"ROKU, INC.",proposed sale $84K,84324,,https://www.sec.gov/Archives/edgar/data/1959033/000195004726009929/0001950047-26-009929-index.htm,LOW
+2026-10-01T20:21:46+00:00,FORM_144,PLUS,EPLUS INC,proposed sale $558,558,,https://www.sec.gov/Archives/edgar/data/1736723/000196530126000152/0001965301-26-000152-index.htm,LOW
+2026-10-01T20:21:46+00:00,FORM_144,COUR,"Coursera, Inc.",proposed sale $38K,37784,,https://www.sec.gov/Archives/edgar/data/1847374/000195917326007192/0001959173-26-007192-index.htm,LOW
