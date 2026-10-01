@@ -1123,3 +1123,8 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-10-01T20:11:45+00:00,2026-09-29,TKLF,"Tokyo Lifestyle Co., Ltd.",Kanayama Mei,"Director, Representative Director (PEO), 10% owner",1396755,0.27,382710,19.4,0001213900-26-105765
 2026-10-01T20:16:35+00:00,2026-09-29,CRBG,"Corebridge Financial, Inc.",NIPPON LIFE INSURANCE CO,10% owner,216818,33.67,7300934,0.2,0001193125-26-410677
 2026-10-01T20:21:43+00:00,2026-09-30,PCG,PG&E Corp,LARSEN JOHN O,Director,7500,12.20,91500,25.7,0001628280-26-064255
+2026-10-01T20:31:48+00:00,2026-09-29,GRCE,"Grace Therapeutics, Inc.",Opaleye Management Inc.,10% owner,7849,2.09,16404,0.3,0001493152-26-045358
+2026-10-01T20:31:50+00:00,2026-09-29,SLBT,SL Science Holding Ltd,Wang Ching-Dong,"Director, Chief Executive Officer, 10% owner",4545306,2272653.00,10329903316818,1.4,0001104659-26-112844
+2026-10-01T20:31:51+00:00,2026-09-29,,Blackstone Private Equity Strategies Fund L.P.,Solotar Joan,Director,4354,39.72,172999,2.1,0001193125-26-410738
+2026-10-01T20:31:56+00:00,2026-09-29,,Blackstone Private Equity Strategies Fund L.P.,Morrison Thomas M,President,654,39.72,25999,1.7,0001193125-26-410741
+2026-10-01T20:31:56+00:00,2026-09-29,,Blackstone Private Equity Strategies Fund L.P.,James Christopher J.,"Director, Chairperson",3297,39.72,131000,20.4,0001193125-26-410740

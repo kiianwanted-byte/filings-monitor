@@ -3774,3 +3774,21 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-01T20:26:57+00:00,FORM_144,AI,C3.ai Inc,proposed sale $548K,548090,,https://www.sec.gov/Archives/edgar/data/2085719/000162828026064269/0001628280-26-064269-index.htm,LOW
 2026-10-01T20:26:58+00:00,FORM_144,OMDA,"Omada Health, Inc.",proposed sale $269K,269364,,https://www.sec.gov/Archives/edgar/data/2069522/000195004726009934/0001950047-26-009934-index.htm,LOW
 2026-10-01T20:26:58+00:00,FORM_144,MAZE,MAZE THERAPEUTICS INC,proposed sale $439K,438712,,https://www.sec.gov/Archives/edgar/data/2050172/000195004726009933/0001950047-26-009933-index.htm,LOW
+2026-10-01T20:31:50+00:00,INSIDER_BUY,SLBT,SL Science Holding Ltd,Wang Ching-Dong $10329.90B,10329903316818,2,https://www.sec.gov/Archives/edgar/data/2124675/000110465926112844/0001104659-26-112844-index.htm,HIGH
+2026-10-01T20:32:05+00:00,FORM_144,SYRE,"SPYRE THERAPEUTICS, INC.",proposed sale $2.61M,2611695,,https://www.sec.gov/Archives/edgar/data/1794898/000195004726009971/0001950047-26-009971-index.htm,LOW
+2026-10-01T20:32:05+00:00,FORM_144,BBNX,"BETA BIONICS, INC.",proposed sale $50K,50486,,https://www.sec.gov/Archives/edgar/data/2048497/000195004726009970/0001950047-26-009970-index.htm,LOW
+2026-10-01T20:32:05+00:00,FORM_144,SPRY,"ARS PHARMACEUTICALS, INC.",proposed sale $426K,426096,,https://www.sec.gov/Archives/edgar/data/1951287/000195004726009969/0001950047-26-009969-index.htm,LOW
+2026-10-01T20:32:06+00:00,FORM_144,NWPX,NWPX INFRASTRUCTURE INC,proposed sale $2.57M,2574102,,https://www.sec.gov/Archives/edgar/data/1808046/000196858226001032/0001968582-26-001032-index.htm,LOW
+2026-10-01T20:32:06+00:00,FORM_144,EVCM,EverCommerce Inc.,proposed sale $87K,86600,,https://www.sec.gov/Archives/edgar/data/1856776/000195004726009968/0001950047-26-009968-index.htm,LOW
+2026-10-01T20:32:06+00:00,FORM_144,NXPI,NXP Semiconductors N.V.,proposed sale $797K,796913,,https://www.sec.gov/Archives/edgar/data/1812730/000195004726009967/0001950047-26-009967-index.htm,LOW
+2026-10-01T20:32:07+00:00,FORM_144,TWST,Twist Bioscience Corp,proposed sale $131K,131000,,https://www.sec.gov/Archives/edgar/data/1753655/000195917326007195/0001959173-26-007195-index.htm,LOW
+2026-10-01T20:32:07+00:00,FORM_144,MTSI,"MACOM Technology Solutions Holdings, Inc.",proposed sale $186K,185987,,https://www.sec.gov/Archives/edgar/data/1792846/000195004726009966/0001950047-26-009966-index.htm,LOW
+2026-10-01T20:32:08+00:00,FORM_144,LUXE,LuxExperience B.V.,proposed sale $727K,727493,,https://www.sec.gov/Archives/edgar/data/1986276/000195004726009965/0001950047-26-009965-index.htm,LOW
+2026-10-01T20:32:08+00:00,FORM_144,CLOV,"Clover Health Investments, Corp.",proposed sale $1.31M,1309430,,https://www.sec.gov/Archives/edgar/data/1838733/000183873326000031/0001838733-26-000031-index.htm,LOW
+2026-10-01T20:32:09+00:00,FORM_144,ROKU,"ROKU, Inc.",proposed sale $302K,302186,,https://www.sec.gov/Archives/edgar/data/1428439/000162828026064277/0001628280-26-064277-index.htm,LOW
+2026-10-01T20:32:09+00:00,FORM_144,SPIR,"SPIRE GLOBAL, INC.",proposed sale $201K,200725,,https://www.sec.gov/Archives/edgar/data/1856366/000195004726009964/0001950047-26-009964-index.htm,LOW
+2026-10-01T20:32:09+00:00,FORM_144,CXM,"Sprinklr, Inc.",proposed sale $1.01M,1008146,,https://www.sec.gov/Archives/edgar/data/1569345/000195004726009963/0001950047-26-009963-index.htm,LOW
+2026-10-01T20:32:10+00:00,FORM_144,ATOM,ATOMERA INCORPORATED,proposed sale $4K,4380,,https://www.sec.gov/Archives/edgar/data/1680617/000195004726009962/0001950047-26-009962-index.htm,LOW
+2026-10-01T20:32:10+00:00,FORM_144,ELF,"e.l.f. Beauty, Inc.",proposed sale $4.75M,4745590,,https://www.sec.gov/Archives/edgar/data/1600033/000195004726009961/0001950047-26-009961-index.htm,LOW
+2026-10-01T20:32:11+00:00,FORM_144,BE,BLOOM ENERGY CORPORATION,proposed sale $2.34M,2336880,,https://www.sec.gov/Archives/edgar/data/2007932/000195004726009960/0001950047-26-009960-index.htm,LOW
+2026-10-01T20:32:11+00:00,FORM_144,XERS,"XERIS BIOPHARMA HOLDINGS, INC.",proposed sale $159K,159326,,https://www.sec.gov/Archives/edgar/data/1867096/000195004726009959/0001950047-26-009959-index.htm,LOW
