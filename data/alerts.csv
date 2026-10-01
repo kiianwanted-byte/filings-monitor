@@ -3829,3 +3829,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-01T21:41:32+00:00,FORM_144,HPE,Hewlett Packard Enterprise Company,proposed sale $2.16M,2157979,,https://www.sec.gov/Archives/edgar/data/1645590/000195824426000631/0001958244-26-000631-index.htm,LOW
 2026-10-01T21:41:33+00:00,FORM_144,CRCT,"Cricut, Inc.",proposed sale $1.17M,1172700,,https://www.sec.gov/Archives/edgar/data/1851564/000195824426000630/0001958244-26-000630-index.htm,LOW
 2026-10-01T21:46:36+00:00,INSIDER_BUY,ORCL,ORACLE CORP,RUSCKOWSKI STEPHEN H $3.48M,3483800,2,https://www.sec.gov/Archives/edgar/data/1341439/000134143926000099/0001341439-26-000099-index.htm,MEDIUM
+2026-10-01T21:51:29+00:00,INSIDER_CLUSTER,PRHI,"Presurance Holdings, Inc.",O'Hanlon Isolde $49K,48935,1,https://www.sec.gov/Archives/edgar/data/1715637/000119312526410913/0001193125-26-410913-index.htm,HIGH
+2026-10-01T21:51:32+00:00,FORM_144,ONON,On Holding AG,proposed sale $5.29M,5285000,,https://www.sec.gov/Archives/edgar/data/1860218/000195824426000633/0001958244-26-000633-index.htm,LOW
+2026-10-01T21:51:32+00:00,FORM_144,GRML,GREENLAND MINES LTD,proposed sale $32K,31885,,https://www.sec.gov/Archives/edgar/data/1926018/000195824426000632/0001958244-26-000632-index.htm,LOW
