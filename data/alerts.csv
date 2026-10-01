@@ -3820,3 +3820,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-01T21:06:42+00:00,FORM_144,AMWL,American Well Corporation,proposed sale $110K,109750,,https://www.sec.gov/Archives/edgar/data/2059643/000119312526410807/0001193125-26-410807-index.htm,LOW
 2026-10-01T21:16:41+00:00,FORM_144,GRPN,"Groupon, Inc.",proposed sale $402K,402085,,https://www.sec.gov/Archives/edgar/data/1973423/000195917326007199/0001959173-26-007199-index.htm,LOW
 2026-10-01T21:16:42+00:00,FORM_144,CBRL,"CRACKER BARREL OLD COUNTRY STORE, INC.",proposed sale $182K,182262,,https://www.sec.gov/Archives/edgar/data/1895381/000195004726009987/0001950047-26-009987-index.htm,LOW
+2026-10-01T21:21:49+00:00,INSIDER_BUY,,"CNL Strategic Residential Credit, Inc.",SENEFF JAMES M JR $5.00M,5000000,1,https://www.sec.gov/Archives/edgar/data/2066337/000143774926031762/0001437749-26-031762-index.htm,LOW
+2026-10-01T21:21:51+00:00,INSIDER_CLUSTER,RDGL,VIVOS INC,Korenko Michael K $100K,99600,1,https://www.sec.gov/Archives/edgar/data/1486806/000148680626000010/0001486806-26-000010-index.htm,HIGH
+2026-10-01T21:21:52+00:00,FORM_144,AMWL,American Well Corporation,proposed sale $56K,55668,,https://www.sec.gov/Archives/edgar/data/1393584/000119312526410841/0001193125-26-410841-index.htm,LOW
