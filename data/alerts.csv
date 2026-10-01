@@ -3660,3 +3660,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-01T15:11:41+00:00,FORM_144,IRM,IRON MOUNTAIN INC,proposed sale $554K,553600,,https://www.sec.gov/Archives/edgar/data/1769841/000195917326007174/0001959173-26-007174-index.htm,LOW
 2026-10-01T15:31:38+00:00,FORM_144,NEM,NEWMONT Corp /DE/,proposed sale $344K,344430,,https://www.sec.gov/Archives/edgar/data/1936354/000195917326007176/0001959173-26-007176-index.htm,LOW
 2026-10-01T15:46:38+00:00,FORM_144,MTG,MGIC INVESTMENT CORP,proposed sale $782K,781800,,https://www.sec.gov/Archives/edgar/data/1687897/000195917326007177/0001959173-26-007177-index.htm,LOW
+2026-10-01T15:56:32+00:00,FORM_144,SMR,NUSCALE POWER Corp,proposed sale $158K,157800,,https://www.sec.gov/Archives/edgar/data/1922054/000195917326007180/0001959173-26-007180-index.htm,LOW
+2026-10-01T15:56:32+00:00,FORM_144,SNOW,Snowflake Inc.,proposed sale $5.12M,5123550,,https://www.sec.gov/Archives/edgar/data/1979088/000195917326007179/0001959173-26-007179-index.htm,LOW
+2026-10-01T15:56:32+00:00,FORM_144,TER,"TERADYNE, INC",proposed sale $67K,67284,,https://www.sec.gov/Archives/edgar/data/1225110/000195917326007178/0001959173-26-007178-index.htm,LOW
