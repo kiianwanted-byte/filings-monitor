@@ -3801,3 +3801,10 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-01T20:36:49+00:00,FORM_144,SEPN,"Septerna, Inc.",proposed sale $391K,391339,,https://www.sec.gov/Archives/edgar/data/2040349/000195004726009973/0001950047-26-009973-index.htm,LOW
 2026-10-01T20:36:49+00:00,FORM_144,JAZZ,Jazz Pharmaceuticals Plc,proposed sale $1.38M,1381980,,https://www.sec.gov/Archives/edgar/data/1232524/000162828026064280/0001628280-26-064280-index.htm,LOW
 2026-10-01T20:36:50+00:00,FORM_144,SYM,SYMBOTIC INC.,proposed sale $252K,252420,,https://www.sec.gov/Archives/edgar/data/1837240/000195004726009972/0001950047-26-009972-index.htm,LOW
+2026-10-01T20:41:51+00:00,FORM_144,RSI,"Rush Street Interactive, Inc.",proposed sale $1.22M,1219800,,https://www.sec.gov/Archives/edgar/data/1835040/000195004726009984/0001950047-26-009984-index.htm,LOW
+2026-10-01T20:41:51+00:00,FORM_144,VICR,VICOR CORPORATION,proposed sale $2.66M,2663159,,https://www.sec.gov/Archives/edgar/data/1512868/000195004726009983/0001950047-26-009983-index.htm,LOW
+2026-10-01T20:41:51+00:00,FORM_144,UTHR,UNITED THERAPEUTICS CORP,proposed sale $113.26M,113255010,,https://www.sec.gov/Archives/edgar/data/1106578/000195004726009982/0001950047-26-009982-index.htm,MEDIUM
+2026-10-01T20:41:53+00:00,FORM_144,MNPR,MONOPAR THERAPEUTICS INC,proposed sale $1.34M,1338456,,https://www.sec.gov/Archives/edgar/data/1645469/000195004726009981/0001950047-26-009981-index.htm,LOW
+2026-10-01T20:41:53+00:00,FORM_144,AIP,ARTERIS INC,proposed sale $7.09M,7092000,,https://www.sec.gov/Archives/edgar/data/1888862/000195004726009980/0001950047-26-009980-index.htm,LOW
+2026-10-01T20:41:53+00:00,FORM_144,EXTR,"Extreme Networks, Inc.",proposed sale $2.15M,2145000,,https://www.sec.gov/Archives/edgar/data/1179945/000195004726009979/0001950047-26-009979-index.htm,LOW
+2026-10-01T20:41:54+00:00,FORM_144,SYRE,SPYRE THERAPEUTICS INC,proposed sale $4.01M,4006350,,https://www.sec.gov/Archives/edgar/data/1758363/000195004726009978/0001950047-26-009978-index.htm,LOW
