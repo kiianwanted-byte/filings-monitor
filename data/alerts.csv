@@ -3744,3 +3744,33 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-01T20:21:46+00:00,FORM_144,ROKU,"ROKU, INC.",proposed sale $84K,84324,,https://www.sec.gov/Archives/edgar/data/1959033/000195004726009929/0001950047-26-009929-index.htm,LOW
 2026-10-01T20:21:46+00:00,FORM_144,PLUS,EPLUS INC,proposed sale $558,558,,https://www.sec.gov/Archives/edgar/data/1736723/000196530126000152/0001965301-26-000152-index.htm,LOW
 2026-10-01T20:21:46+00:00,FORM_144,COUR,"Coursera, Inc.",proposed sale $38K,37784,,https://www.sec.gov/Archives/edgar/data/1847374/000195917326007192/0001959173-26-007192-index.htm,LOW
+2026-10-01T20:26:44+00:00,FORM_144,HGBL,HERITAGE GLOBAL INC.,proposed sale $3K,3250,,https://www.sec.gov/Archives/edgar/data/1641547/000195004726009958/0001950047-26-009958-index.htm,LOW
+2026-10-01T20:26:44+00:00,FORM_144,WDAY,WORKDAY INC,proposed sale $18.75M,18750025,,https://www.sec.gov/Archives/edgar/data/1327811/000195004726009957/0001950047-26-009957-index.htm,LOW
+2026-10-01T20:26:45+00:00,FORM_144,PLTR,Palantir Technologies Inc.,proposed sale $250K,250085,,https://www.sec.gov/Archives/edgar/data/1840244/000195004726009956/0001950047-26-009956-index.htm,LOW
+2026-10-01T20:26:45+00:00,FORM_144,RIVN,"RIVIAN AUTOMOTIVE, INC.",proposed sale $225K,225000,,https://www.sec.gov/Archives/edgar/data/1874178/000195004726009955/0001950047-26-009955-index.htm,LOW
+2026-10-01T20:26:46+00:00,FORM_144,CIEN,Ciena Corporation,proposed sale $34K,34126,,https://www.sec.gov/Archives/edgar/data/2080157/000195004726009954/0001950047-26-009954-index.htm,LOW
+2026-10-01T20:26:46+00:00,FORM_144,SGHT,"Sight Sciences, Inc.",proposed sale $25K,24768,,https://www.sec.gov/Archives/edgar/data/1650737/000195917326007194/0001959173-26-007194-index.htm,LOW
+2026-10-01T20:26:47+00:00,FORM_144,DASH,"DOORDASH, INC.",proposed sale $401K,400689,,https://www.sec.gov/Archives/edgar/data/1833552/000195004726009953/0001950047-26-009953-index.htm,LOW
+2026-10-01T20:26:47+00:00,FORM_144,PL,PLANET LABS,proposed sale $188K,188485,,https://www.sec.gov/Archives/edgar/data/1836833/000195004726009952/0001950047-26-009952-index.htm,LOW
+2026-10-01T20:26:48+00:00,FORM_144,GTLB,GITLAB INC.,proposed sale $431K,431487,,https://www.sec.gov/Archives/edgar/data/2087405/000195004726009951/0001950047-26-009951-index.htm,LOW
+2026-10-01T20:26:48+00:00,FORM_144,WRBY,Warby Parker Inc.,proposed sale $417K,416700,,https://www.sec.gov/Archives/edgar/data/1883369/000195004726009950/0001950047-26-009950-index.htm,LOW
+2026-10-01T20:26:49+00:00,FORM_144,SEPN,"Septerna, Inc.",proposed sale $493K,492724,,https://www.sec.gov/Archives/edgar/data/2040363/000195004726009949/0001950047-26-009949-index.htm,LOW
+2026-10-01T20:26:49+00:00,FORM_144,NTRA,"NATERA, INC.",proposed sale $526K,526143,,https://www.sec.gov/Archives/edgar/data/1711968/000195004726009948/0001950047-26-009948-index.htm,LOW
+2026-10-01T20:26:50+00:00,FORM_144,CSTL,CASTLE BIOSCIENCES INC,proposed sale $148K,147556,,https://www.sec.gov/Archives/edgar/data/1856565/000195004726009947/0001950047-26-009947-index.htm,LOW
+2026-10-01T20:26:50+00:00,FORM_144,HAWK,"HawkEye 360, Inc.",proposed sale $1.39M,1394167,,https://www.sec.gov/Archives/edgar/data/2127288/000195004726009946/0001950047-26-009946-index.htm,LOW
+2026-10-01T20:26:51+00:00,FORM_144,ORIC,"Oric Pharmaceuticals, Inc.",proposed sale $109K,109107,,https://www.sec.gov/Archives/edgar/data/1796280/000196858226001030/0001968582-26-001030-index.htm,LOW
+2026-10-01T20:26:51+00:00,FORM_144,OKTA,"OKTA, INC",proposed sale $5.13M,5131977,,https://www.sec.gov/Archives/edgar/data/1968125/000195004726009945/0001950047-26-009945-index.htm,LOW
+2026-10-01T20:26:52+00:00,FORM_144,RKLB,ROCKET LAB CORPORATION,proposed sale $9.77M,9766139,,https://www.sec.gov/Archives/edgar/data/1819994/000195004726009944/0001950047-26-009944-index.htm,LOW
+2026-10-01T20:26:52+00:00,FORM_144,CVNA,CARVANA CO,proposed sale $3.99M,3986925,,https://www.sec.gov/Archives/edgar/data/1700540/000195004726009943/0001950047-26-009943-index.htm,LOW
+2026-10-01T20:26:53+00:00,FORM_144,ORIC,"Oric Pharmaceuticals, Inc.",proposed sale $102K,102372,,https://www.sec.gov/Archives/edgar/data/1796280/000196858226001029/0001968582-26-001029-index.htm,LOW
+2026-10-01T20:26:53+00:00,FORM_144,DOCU,DOCUSIGN INC,proposed sale $1.76M,1762687,,https://www.sec.gov/Archives/edgar/data/1657309/000195004726009942/0001950047-26-009942-index.htm,LOW
+2026-10-01T20:26:54+00:00,FORM_144,VICR,VICOR CORPORATION,proposed sale $5.78M,5778800,,https://www.sec.gov/Archives/edgar/data/901484/000195004726009941/0001950047-26-009941-index.htm,LOW
+2026-10-01T20:26:54+00:00,FORM_144,ORKA,"Oruka Therapeutics, Inc.",proposed sale $2.08M,2082250,,https://www.sec.gov/Archives/edgar/data/1762583/000195004726009940/0001950047-26-009940-index.htm,LOW
+2026-10-01T20:26:55+00:00,FORM_144,WRBY,WARBY PARKER INC,proposed sale $2.78M,2778000,,https://www.sec.gov/Archives/edgar/data/1883345/000195004726009939/0001950047-26-009939-index.htm,LOW
+2026-10-01T20:26:55+00:00,FORM_144,DBX,DROPBOX INC,proposed sale $11.99M,11993055,,https://www.sec.gov/Archives/edgar/data/1734563/000195004726009938/0001950047-26-009938-index.htm,LOW
+2026-10-01T20:26:56+00:00,FORM_144,RBLX,Roblox Corporation,proposed sale $353K,353069,,https://www.sec.gov/Archives/edgar/data/1834990/000195004726009937/0001950047-26-009937-index.htm,LOW
+2026-10-01T20:26:56+00:00,FORM_144,RBLX,Roblox Corporation,proposed sale $353K,353069,,https://www.sec.gov/Archives/edgar/data/1834990/000195004726009936/0001950047-26-009936-index.htm,LOW
+2026-10-01T20:26:57+00:00,FORM_144,GRND,Grindr Inc.,proposed sale $3.21M,3205273,,https://www.sec.gov/Archives/edgar/data/1833678/000195004726009935/0001950047-26-009935-index.htm,LOW
+2026-10-01T20:26:57+00:00,FORM_144,AI,C3.ai Inc,proposed sale $548K,548090,,https://www.sec.gov/Archives/edgar/data/2085719/000162828026064269/0001628280-26-064269-index.htm,LOW
+2026-10-01T20:26:58+00:00,FORM_144,OMDA,"Omada Health, Inc.",proposed sale $269K,269364,,https://www.sec.gov/Archives/edgar/data/2069522/000195004726009934/0001950047-26-009934-index.htm,LOW
+2026-10-01T20:26:58+00:00,FORM_144,MAZE,MAZE THERAPEUTICS INC,proposed sale $439K,438712,,https://www.sec.gov/Archives/edgar/data/2050172/000195004726009933/0001950047-26-009933-index.htm,LOW
