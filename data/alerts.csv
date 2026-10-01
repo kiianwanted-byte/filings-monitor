@@ -3638,3 +3638,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-01T13:41:37+00:00,FORM_144,EXOD,"Exodus Movement, Inc.",proposed sale $956,955,,https://www.sec.gov/Archives/edgar/data/2022093/000076490026000041/0000764900-26-000041-index.htm,LOW
 2026-10-01T13:41:37+00:00,FORM_144,CRCL,"Circle Internet Group, Inc.",proposed sale $4.09M,4091000,,https://www.sec.gov/Archives/edgar/data/2060511/000195917326007158/0001959173-26-007158-index.htm,LOW
 2026-10-01T13:46:33+00:00,FORM_144,MMS,"MAXIMUS, INC.",proposed sale $174K,173969,,https://www.sec.gov/Archives/edgar/data/1808982/000195917326007159/0001959173-26-007159-index.htm,LOW
+2026-10-01T13:51:32+00:00,FORM_144,FSLR,"FIRST SOLAR, INC.",proposed sale $139K,139200,,https://www.sec.gov/Archives/edgar/data/1819680/000195917326007160/0001959173-26-007160-index.htm,LOW
