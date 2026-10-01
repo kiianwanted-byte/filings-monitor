@@ -3680,3 +3680,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-01T18:11:38+00:00,FORM_144,IBTA,"Ibotta, Inc.",proposed sale $234K,233501,,https://www.sec.gov/Archives/edgar/data/1873513/000195917326007190/0001959173-26-007190-index.htm,LOW
 2026-10-01T18:16:36+00:00,INSIDER_BUY,,John Hancock GA Senior Loan Trust,Manufacturers Life Insurance Co (Bermuda Branch) $12.00M,11999374,1,https://www.sec.gov/Archives/edgar/data/1833683/000183368326000018/0001833683-26-000018-index.htm,LOW
 2026-10-01T18:26:34+00:00,INSIDER_BUY,,John Hancock GA Senior Loan Trust,Manufacturers Life Reinsurance Ltd $31.00M,30998383,1,https://www.sec.gov/Archives/edgar/data/1765496/000176549626000018/0001765496-26-000018-index.htm,LOW
+2026-10-01T18:46:31+00:00,INSIDER_BUY,,John Hancock GA Mortgage Trust,Manulife (International) Ltd $26.00M,25998869,1,https://www.sec.gov/Archives/edgar/data/1765518/000176551826000006/0001765518-26-000006-index.htm,LOW
