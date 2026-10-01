@@ -1139,3 +1139,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-10-01T21:31:34+00:00,2026-09-30,PODC,"PodcastOne, Inc.",MERRIMAN D JONATHAN,Director,7000,2.21,15470,1.8,0001213900-26-105925
 2026-10-01T21:31:34+00:00,2026-09-29,CINT,CI&T Inc,Gon Cesar Nivaldo,"Director, Chief Executive Officer, 10% owner",6684,3.01,20145,8.9,0001292814-26-004824
 2026-10-01T21:31:38+00:00,2026-09-29,CINT,CI&T Inc,Guicardi Neto Bruno,"Pres. of N. Am. /Europe Ops, 10% owner",2825,2.98,8409,2.9,0001292814-26-004822
+2026-10-01T21:37:09+00:00,2026-09-30,PRHI,"Presurance Holdings, Inc.",MELOCHE HAROLD J,"CFO, Treasurer",4100,6.38,26137,39.5,0001193125-26-410889
