@@ -3809,3 +3809,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-01T20:41:53+00:00,FORM_144,EXTR,"Extreme Networks, Inc.",proposed sale $2.15M,2145000,,https://www.sec.gov/Archives/edgar/data/1179945/000195004726009979/0001950047-26-009979-index.htm,LOW
 2026-10-01T20:41:54+00:00,FORM_144,SYRE,SPYRE THERAPEUTICS INC,proposed sale $4.01M,4006350,,https://www.sec.gov/Archives/edgar/data/1758363/000195004726009978/0001950047-26-009978-index.htm,LOW
 2026-10-01T20:46:42+00:00,FORM_144,SGHT,"Sight Sciences, Inc.",proposed sale $71K,70555,,https://www.sec.gov/Archives/edgar/data/1870825/000195917326007196/0001959173-26-007196-index.htm,LOW
+2026-10-01T20:51:41+00:00,FORM_144,BCS,BARCLAYS PLC,proposed sale $5.00B,5000000000,,https://www.sec.gov/Archives/edgar/data/2157144/000215714426000001/0002157144-26-000001-index.htm,MEDIUM
+2026-10-01T20:51:43+00:00,FORM_144,SGHT,"Sight Sciences, Inc.",proposed sale $268K,268332,,https://www.sec.gov/Archives/edgar/data/1870865/000195917326007198/0001959173-26-007198-index.htm,LOW
+2026-10-01T20:51:43+00:00,FORM_144,SE,Sea Limited,proposed sale $14.60M,14604000,,https://www.sec.gov/Archives/edgar/data/1965725/000196858226001034/0001968582-26-001034-index.htm,LOW
+2026-10-01T20:51:44+00:00,FORM_144,GIS,"GENERAL MILLS, INC.",proposed sale $197K,197191,,https://www.sec.gov/Archives/edgar/data/2013148/000195004726009985/0001950047-26-009985-index.htm,LOW
+2026-10-01T20:51:44+00:00,FORM_144,CDLX,"Cardlytics, Inc.",proposed sale $28K,28051,,https://www.sec.gov/Archives/edgar/data/1961238/000195917326007197/0001959173-26-007197-index.htm,LOW
