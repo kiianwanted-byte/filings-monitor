@@ -3637,3 +3637,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-01T13:21:36+00:00,INSIDER_CLUSTER,XENE,Xenon Pharmaceuticals Inc.,MORTIMER IAN $1.12M,1121400,1,https://www.sec.gov/Archives/edgar/data/1619961/000119312526409999/0001193125-26-409999-index.htm,HIGH
 2026-10-01T13:41:37+00:00,FORM_144,EXOD,"Exodus Movement, Inc.",proposed sale $956,955,,https://www.sec.gov/Archives/edgar/data/2022093/000076490026000041/0000764900-26-000041-index.htm,LOW
 2026-10-01T13:41:37+00:00,FORM_144,CRCL,"Circle Internet Group, Inc.",proposed sale $4.09M,4091000,,https://www.sec.gov/Archives/edgar/data/2060511/000195917326007158/0001959173-26-007158-index.htm,LOW
+2026-10-01T13:46:33+00:00,FORM_144,MMS,"MAXIMUS, INC.",proposed sale $174K,173969,,https://www.sec.gov/Archives/edgar/data/1808982/000195917326007159/0001959173-26-007159-index.htm,LOW
