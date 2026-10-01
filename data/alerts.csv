@@ -3630,3 +3630,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-01T00:51:29+00:00,INSIDER_BUY,GPI,GROUP 1 AUTOMOTIVE INC,"Conifer Management, L.L.C. $66.28M",66278316,2,https://www.sec.gov/Archives/edgar/data/1773994/000090514826004310/0000905148-26-004310-index.htm,HIGH
 2026-10-01T01:46:28+00:00,FORM_144,GAP,"THE GAP, INC.",proposed sale $1.53M,1529602,,https://www.sec.gov/Archives/edgar/data/1217081/000121708126000007/0001217081-26-000007-index.htm,LOW
 2026-10-01T10:31:34+00:00,INSIDER_BUY,GPUS,"Hyperscale Data, Inc.",AULT MILTON C III $5.05M,5051382,2,https://www.sec.gov/Archives/edgar/data/1734770/000121465926012383/0001214659-26-012383-index.htm,MEDIUM
+2026-10-01T11:41:58+00:00,FORM_144,ORMP,ORAMED PHARMACEUTICALS INC.,proposed sale $140K,140100,,https://www.sec.gov/Archives/edgar/data/1573235/000197640826000876/0001976408-26-000876-index.htm,LOW
