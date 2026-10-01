@@ -3730,3 +3730,9 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-01T20:11:54+00:00,FORM_144,DOCU,"DOCUSIGN, INC.",proposed sale $69K,68800,,https://www.sec.gov/Archives/edgar/data/1261333/000195004726009918/0001950047-26-009918-index.htm,LOW
 2026-10-01T20:11:54+00:00,FORM_144,VRSK,"Verisk Analytics, Inc.",proposed sale $603K,603424,,https://www.sec.gov/Archives/edgar/data/1521495/000196430626000461/0001964306-26-000461-index.htm,LOW
 2026-10-01T20:11:55+00:00,FORM_144,IDT,IDT CORPORATION,proposed sale $268K,267873,,https://www.sec.gov/Archives/edgar/data/1365233/000195004726009917/0001950047-26-009917-index.htm,LOW
+2026-10-01T20:16:44+00:00,FORM_144,WHD,CACTUS INC,proposed sale $6.20M,6200000,,https://www.sec.gov/Archives/edgar/data/1992549/000162828026064254/0001628280-26-064254-index.htm,LOW
+2026-10-01T20:16:44+00:00,FORM_144,XMTR,"Xometry, Inc.",proposed sale $1.02M,1025000,,https://www.sec.gov/Archives/edgar/data/1869814/000196922326001050/0001969223-26-001050-index.htm,LOW
+2026-10-01T20:16:45+00:00,FORM_144,AMPL,"Amplitude, Inc.",proposed sale $51K,51138,,https://www.sec.gov/Archives/edgar/data/1882913/000195917326007191/0001959173-26-007191-index.htm,LOW
+2026-10-01T20:16:45+00:00,FORM_144,PCVX,"Vaxcyte, Inc.",proposed sale $128K,127642,,https://www.sec.gov/Archives/edgar/data/1813798/000196922326001049/0001969223-26-001049-index.htm,LOW
+2026-10-01T20:16:46+00:00,FORM_144,ETSY,ETSY INC,proposed sale $975K,974608,,https://www.sec.gov/Archives/edgar/data/1525358/000196922326001048/0001969223-26-001048-index.htm,LOW
+2026-10-01T20:16:46+00:00,FORM_144,SO,The Southern Company,proposed sale $8K,8273,,https://www.sec.gov/Archives/edgar/data/2082705/000162828026064248/0001628280-26-064248-index.htm,LOW
