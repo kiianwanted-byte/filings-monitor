@@ -3823,3 +3823,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-01T21:21:49+00:00,INSIDER_BUY,,"CNL Strategic Residential Credit, Inc.",SENEFF JAMES M JR $5.00M,5000000,1,https://www.sec.gov/Archives/edgar/data/2066337/000143774926031762/0001437749-26-031762-index.htm,LOW
 2026-10-01T21:21:51+00:00,INSIDER_CLUSTER,RDGL,VIVOS INC,Korenko Michael K $100K,99600,1,https://www.sec.gov/Archives/edgar/data/1486806/000148680626000010/0001486806-26-000010-index.htm,HIGH
 2026-10-01T21:21:52+00:00,FORM_144,AMWL,American Well Corporation,proposed sale $56K,55668,,https://www.sec.gov/Archives/edgar/data/1393584/000119312526410841/0001193125-26-410841-index.htm,LOW
+2026-10-01T21:31:33+00:00,INSIDER_BUY,UUU,"UNIVERSAL SAFETY PRODUCTS, INC.",AULT MILTON C III $92.41M,92412000,1,https://www.sec.gov/Archives/edgar/data/1212502/000121465926012438/0001214659-26-012438-index.htm,HIGH
+2026-10-01T21:31:34+00:00,INSIDER_CLUSTER,CINT,CI&T Inc,Gon Cesar Nivaldo $20K,20145,2,https://www.sec.gov/Archives/edgar/data/2121401/000129281426004824/0001292814-26-004824-index.htm,HIGH
