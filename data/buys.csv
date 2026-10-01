@@ -1116,3 +1116,8 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-10-01T19:56:38+00:00,2026-09-29,GF,NEW GERMANY FUND INC,"Saba Capital Management, L.P.",10% owner,13047,10.70,139574,0.4,0001510281-26-000319
 2026-10-01T20:06:29+00:00,2026-09-29,LILA,Liberty Latin America Ltd.,MALONE JOHN C,10% owner,21525,9.25,199197,7.1,0000937797-26-000034
 2026-10-01T20:06:31+00:00,2026-09-21,GRCE,"Grace Therapeutics, Inc.",Opaleye Management Inc.,10% owner,15089,2.10,31686,0.5,0001493152-26-045347
+2026-10-01T20:11:35+00:00,2026-10-01,CTM,"Castellum, Inc.",MARTIN TAMMY L,General Counsel  and Secretary,1396,0.54,747,9.3,0001877939-26-000087
+2026-10-01T20:11:36+00:00,2026-10-01,CTM,"Castellum, Inc.",Bell David T,Chief Financial Officer,1396,0.54,747,8.1,0001877939-26-000086
+2026-10-01T20:11:38+00:00,2026-10-01,CTM,"Castellum, Inc.",Merriman Andrew,Chief Operating Officer,1396,0.54,747,0.2,0001877939-26-000085
+2026-10-01T20:11:41+00:00,2026-10-01,CTM,"Castellum, Inc.",Ives Glen R,"Director, President",1700,0.54,909,0.8,0001877939-26-000084
+2026-10-01T20:11:45+00:00,2026-09-29,TKLF,"Tokyo Lifestyle Co., Ltd.",Kanayama Mei,"Director, Representative Director (PEO), 10% owner",1396755,0.27,382710,19.4,0001213900-26-105765
