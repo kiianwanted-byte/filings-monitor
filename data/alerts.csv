@@ -3893,3 +3893,18 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-02T20:01:46+00:00,FORM_144,SGHT,"Sight Sciences, Inc.",proposed sale $64K,63813,,https://www.sec.gov/Archives/edgar/data/1961970/000195917326007224/0001959173-26-007224-index.htm,LOW
 2026-10-02T20:01:46+00:00,FORM_144,ASST,"Strive, Inc.",proposed sale $1.84M,1842112,,https://www.sec.gov/Archives/edgar/data/2084252/000195917326007223/0001959173-26-007223-index.htm,LOW
 2026-10-02T20:01:47+00:00,FORM_144,ARQQ,Arqit Quantum Inc.,proposed sale $12K,12090,,https://www.sec.gov/Archives/edgar/data/2120006/000195917326007222/0001959173-26-007222-index.htm,LOW
+2026-10-02T20:06:45+00:00,FORM_144,OCUL,"OCULAR THERAPEUTIX, INC.",proposed sale $77K,76639,,https://www.sec.gov/Archives/edgar/data/1653082/000195004726009997/0001950047-26-009997-index.htm,LOW
+2026-10-02T20:06:45+00:00,FORM_144,XMTR,"Xometry, Inc.",proposed sale $117K,116570,,https://www.sec.gov/Archives/edgar/data/2051034/000196922326001053/0001969223-26-001053-index.htm,LOW
+2026-10-02T20:06:46+00:00,FORM_144,ASST,"Strive, Inc.",proposed sale $177K,176537,,https://www.sec.gov/Archives/edgar/data/1928588/000195917326007228/0001959173-26-007228-index.htm,LOW
+2026-10-02T20:06:46+00:00,FORM_144,VEEV,VEEVA SYSTEMS INC.,proposed sale $1.34M,1338578,,https://www.sec.gov/Archives/edgar/data/2154448/000195004726009996/0001950047-26-009996-index.htm,LOW
+2026-10-02T20:06:46+00:00,FORM_144,AMBQ,"AMBIQ MICRO, INC.",proposed sale $401K,401208,,https://www.sec.gov/Archives/edgar/data/2078559/000207855926000012/0002078559-26-000012-index.htm,LOW
+2026-10-02T20:06:47+00:00,FORM_144,TOST,"Toast, Inc.",proposed sale $432K,431883,,https://www.sec.gov/Archives/edgar/data/1869139/000195917326007227/0001959173-26-007227-index.htm,LOW
+2026-10-02T20:06:47+00:00,FORM_144,XYZ,"BLOCK, INC.",proposed sale $454K,453660,,https://www.sec.gov/Archives/edgar/data/1933928/000195004726009995/0001950047-26-009995-index.htm,LOW
+2026-10-02T20:06:47+00:00,FORM_144,ALKS,Alkermes plc.,proposed sale $83K,83455,,https://www.sec.gov/Archives/edgar/data/1675905/000196430626000464/0001964306-26-000464-index.htm,LOW
+2026-10-02T20:06:48+00:00,FORM_144,ARQQ,Arqit Quantum Inc.,proposed sale $3K,2961,,https://www.sec.gov/Archives/edgar/data/1859690/000195917326007226/0001959173-26-007226-index.htm,LOW
+2026-10-02T20:06:48+00:00,FORM_144,VSH,VISHAY INTERTECHNOLOGY INC,proposed sale $594K,593696,,https://www.sec.gov/Archives/edgar/data/1699101/000162828026064507/0001628280-26-064507-index.htm,LOW
+2026-10-02T20:06:49+00:00,FORM_144,WKC,WORLD KINECT CORP,proposed sale $357K,356687,,https://www.sec.gov/Archives/edgar/data/1242793/000196430626000463/0001964306-26-000463-index.htm,LOW
+2026-10-02T20:06:49+00:00,FORM_144,HPQ,HP Inc.,proposed sale $1.01M,1014092,,https://www.sec.gov/Archives/edgar/data/1951912/000162828026064504/0001628280-26-064504-index.htm,LOW
+2026-10-02T20:06:49+00:00,FORM_144,EHTH,"EHEALTH, INC.",proposed sale $14K,14037,,https://www.sec.gov/Archives/edgar/data/1333493/000195004726009994/0001950047-26-009994-index.htm,LOW
+2026-10-02T20:06:50+00:00,FORM_144,AMKR,"AMKOR TECHNOLOGY, INC.",proposed sale $275K,275000,,https://www.sec.gov/Archives/edgar/data/1195858/000195004726009992/0001950047-26-009992-index.htm,LOW
+2026-10-02T20:06:50+00:00,FORM_144,QCOM,QUALCOMM INCORPORATED,proposed sale $18K,18281,,https://www.sec.gov/Archives/edgar/data/2081650/000195004726009991/0001950047-26-009991-index.htm,LOW
