@@ -3879,3 +3879,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-02T18:21:42+00:00,FORM_144,ADI,ANALOG DEVICES INC,proposed sale $498K,498028,,https://www.sec.gov/Archives/edgar/data/2044259/000195917326007213/0001959173-26-007213-index.htm,LOW
 2026-10-02T18:32:07+00:00,INSIDER_CLUSTER,MXF,MEXICO FUND INC,Garcia Cuellar Maria Regina $17K,16945,3,https://www.sec.gov/Archives/edgar/data/2063220/000206322026000002/0002063220-26-000002-index.htm,HIGH
 2026-10-02T18:32:11+00:00,FORM_144,JOBY,Joby Aviation,proposed sale $380K,380357,,https://www.sec.gov/Archives/edgar/data/1819848/000162828026064475/0001628280-26-064475-index.htm,LOW
+2026-10-02T18:41:34+00:00,FORM_144,MOVE,"Corvex, Inc",proposed sale $76K,75956,,https://www.sec.gov/Archives/edgar/data/1849857/000197449426000307/0001974494-26-000307-index.htm,LOW
