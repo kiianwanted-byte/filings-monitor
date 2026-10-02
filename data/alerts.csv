@@ -3964,3 +3964,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-02T20:41:51+00:00,FORM_144,CDLX,"Cardlytics, Inc.",proposed sale $19K,18700,,https://www.sec.gov/Archives/edgar/data/1961238/000195917326007242/0001959173-26-007242-index.htm,LOW
 2026-10-02T20:46:56+00:00,FORM_144,TOST,"Toast, Inc.",proposed sale $200K,199925,,https://www.sec.gov/Archives/edgar/data/2004790/000195917326007245/0001959173-26-007245-index.htm,LOW
 2026-10-02T20:46:56+00:00,FORM_144,TWST,Twist Bioscience Corp,proposed sale $1.80M,1797040,,https://www.sec.gov/Archives/edgar/data/1883451/000195917326007244/0001959173-26-007244-index.htm,LOW
+2026-10-02T20:51:46+00:00,FORM_144,TWST,Twist Bioscience Corp,proposed sale $1.91M,1905459,,https://www.sec.gov/Archives/edgar/data/1753672/000195917326007247/0001959173-26-007247-index.htm,LOW
+2026-10-02T20:51:46+00:00,FORM_144,TWST,Twist Bioscience Corp,proposed sale $280K,279925,,https://www.sec.gov/Archives/edgar/data/1590947/000195917326007246/0001959173-26-007246-index.htm,LOW
