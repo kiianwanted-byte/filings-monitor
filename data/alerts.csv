@@ -3858,3 +3858,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-02T14:31:32+00:00,FORM_144,CRCL,"Circle Internet Group, Inc.",proposed sale $157K,156977,,https://www.sec.gov/Archives/edgar/data/2083179/000195917326007202/0001959173-26-007202-index.htm,LOW
 2026-10-02T14:31:32+00:00,FORM_144,TTWO,TAKE TWO INTERACTIVE SOFTWARE INC,proposed sale $99K,98585,,https://www.sec.gov/Archives/edgar/data/1395208/000195917326007201/0001959173-26-007201-index.htm,LOW
 2026-10-02T14:36:41+00:00,FORM_144,HURN,Huron Consulting Group Inc.,proposed sale $14K,13755,,https://www.sec.gov/Archives/edgar/data/1609169/000195917326007203/0001959173-26-007203-index.htm,LOW
+2026-10-02T14:51:38+00:00,FORM_144,W,Wayfair Inc.,proposed sale $631K,630611,,https://www.sec.gov/Archives/edgar/data/1994593/000195917326007204/0001959173-26-007204-index.htm,LOW
