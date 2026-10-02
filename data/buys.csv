@@ -1164,3 +1164,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-10-02T12:41:33+00:00,2026-09-30,NYAX,Nayax Ltd.,Nechmad Yair,"CEO, Co Founder & Chairman",44148,47.84,2112082,0.6,0001976408-26-000880
 2026-10-02T13:32:10+00:00,2026-10-01,SKYH,Sky Harbour Group Corp,Gonzalez Francisco,Chief Financial Officer,1600,9.40,15040,0.2,0001437749-26-031792
 2026-10-02T14:11:37+00:00,2026-10-01,DLHC,DLH Holdings Corp.,Mink Brook Asset Management LLC,10% owner,199099,3.70,736666,28.7,0001628280-26-064396
+2026-10-02T15:01:35+00:00,2026-10-01,,"BBR ALO Fund, LLC",WINGERTZAHN MICHAEL,Director,342,14.59,5000,6.6,0001104659-26-113107
