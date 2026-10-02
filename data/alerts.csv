@@ -3886,3 +3886,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-02T19:46:37+00:00,FORM_144,FLD,"Fold Holdings, Inc.",proposed sale $653,652,,https://www.sec.gov/Archives/edgar/data/2057456/000195917326007215/0001959173-26-007215-index.htm,LOW
 2026-10-02T19:51:35+00:00,FORM_144,TOST,"Toast, Inc.",proposed sale $191K,191005,,https://www.sec.gov/Archives/edgar/data/1869299/000195917326007218/0001959173-26-007218-index.htm,LOW
 2026-10-02T19:51:36+00:00,FORM_144,ARQQ,Arqit Quantum Inc.,proposed sale $5K,5408,,https://www.sec.gov/Archives/edgar/data/2101275/000195917326007217/0001959173-26-007217-index.htm,LOW
+2026-10-02T19:56:38+00:00,FORM_144,ARQQ,Arqit Quantum Inc.,proposed sale $14K,13632,,https://www.sec.gov/Archives/edgar/data/1967211/000195917326007221/0001959173-26-007221-index.htm,LOW
+2026-10-02T19:56:38+00:00,FORM_144,ARQQ,Arqit Quantum Inc.,proposed sale $12K,12384,,https://www.sec.gov/Archives/edgar/data/1967068/000195917326007220/0001959173-26-007220-index.htm,LOW
+2026-10-02T19:56:39+00:00,FORM_144,ARQQ,Arqit Quantum Inc.,proposed sale $69K,68968,,https://www.sec.gov/Archives/edgar/data/2035890/000195917326007219/0001959173-26-007219-index.htm,LOW
