@@ -3973,3 +3973,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-02T21:11:49+00:00,FORM_144,SFM,"Sprouts Farmers Market, Inc.",proposed sale $1.39M,1391004,,https://www.sec.gov/Archives/edgar/data/1719121/000195824426000635/0001958244-26-000635-index.htm,LOW
 2026-10-02T21:16:40+00:00,FORM_144,NNBR,NN INC,proposed sale $178K,178157,,https://www.sec.gov/Archives/edgar/data/1560207/000092189526002721/0000921895-26-002721-index.htm,LOW
 2026-10-02T21:21:50+00:00,FORM_144,AAPL,Apple Inc.,proposed sale $8.48M,8479730,,https://www.sec.gov/Archives/edgar/data/2148403/000195824426000636/0001958244-26-000636-index.htm,LOW
+2026-10-02T22:16:34+00:00,INSIDER_BUY,,Fortress Net Lease REIT,"TIEDEMANN ADVISORS, LLC $20.00M",19999999,1,https://www.sec.gov/Archives/edgar/data/2046647/000091957426006648/0000919574-26-006648-index.htm,LOW
