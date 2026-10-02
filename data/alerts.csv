@@ -3924,3 +3924,12 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-02T20:16:50+00:00,FORM_144,IPGP,IPG PHOTONICS CORP,proposed sale $650K,649986,,https://www.sec.gov/Archives/edgar/data/1378544/000197248126000292/0001972481-26-000292-index.htm,LOW
 2026-10-02T20:16:50+00:00,FORM_144,RMBS,RAMBUS INC,proposed sale $555K,555000,,https://www.sec.gov/Archives/edgar/data/1188095/000196922326001057/0001969223-26-001057-index.htm,LOW
 2026-10-02T20:16:51+00:00,FORM_144,AMBQ,"AMBIQ MICRO, INC.",proposed sale $600K,600222,,https://www.sec.gov/Archives/edgar/data/2078339/000207833926000016/0002078339-26-000016-index.htm,LOW
+2026-10-02T20:21:50+00:00,FORM_144,STOK,"Stoke Therapeutics, Inc.",proposed sale $16K,16308,,https://www.sec.gov/Archives/edgar/data/1966716/000195004726010004/0001950047-26-010004-index.htm,LOW
+2026-10-02T20:21:51+00:00,FORM_144,SITM,SITIME CORPORATION,proposed sale $933K,932767,,https://www.sec.gov/Archives/edgar/data/1834679/000195004726010003/0001950047-26-010003-index.htm,LOW
+2026-10-02T20:21:51+00:00,FORM_144,AAPL,Apple Inc.,proposed sale $3.33M,3329584,,https://www.sec.gov/Archives/edgar/data/1214156/000195917326007235/0001959173-26-007235-index.htm,LOW
+2026-10-02T20:21:52+00:00,FORM_144,MIAX,"Miami International Holdings, Inc.",proposed sale $4.05M,4050000,,https://www.sec.gov/Archives/edgar/data/2079445/000195004726010002/0001950047-26-010002-index.htm,LOW
+2026-10-02T20:21:52+00:00,FORM_144,NRIX,NURIX THERAPEUTICS INC,proposed sale $135K,135045,,https://www.sec.gov/Archives/edgar/data/1817199/000195004726010001/0001950047-26-010001-index.htm,LOW
+2026-10-02T20:21:52+00:00,FORM_144,ASST,"Strive, Inc.",proposed sale $132K,131886,,https://www.sec.gov/Archives/edgar/data/2084539/000195917326007234/0001959173-26-007234-index.htm,LOW
+2026-10-02T20:21:53+00:00,FORM_144,BETA,"BETA Technologies, Inc.",proposed sale $218K,217738,,https://www.sec.gov/Archives/edgar/data/2090083/000195917326007233/0001959173-26-007233-index.htm,LOW
+2026-10-02T20:21:53+00:00,FORM_144,TWST,Twist Bioscience Corp,proposed sale $4.86M,4856958,,https://www.sec.gov/Archives/edgar/data/1755970/000195917326007232/0001959173-26-007232-index.htm,LOW
+2026-10-02T20:21:54+00:00,FORM_144,AMBQ,"AMBIQ MICRO, INC.",proposed sale $377K,377213,,https://www.sec.gov/Archives/edgar/data/1500412/000131214326000010/0001312143-26-000010-index.htm,LOW
