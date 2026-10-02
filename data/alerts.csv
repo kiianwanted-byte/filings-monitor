@@ -3865,3 +3865,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-02T15:21:32+00:00,FORM_144,CARG,"CarGurus, Inc.",proposed sale $79K,79174,,https://www.sec.gov/Archives/edgar/data/2010096/000195917326007207/0001959173-26-007207-index.htm,LOW
 2026-10-02T15:26:34+00:00,FORM_144,KMI,"KINDER MORGAN, INC.",proposed sale $2.46M,2455299,,https://www.sec.gov/Archives/edgar/data/1713209/000194984626000603/0001949846-26-000603-index.htm,LOW
 2026-10-02T15:31:33+00:00,FORM_144,GNRC,GENERAC HOLDINGS INC.,proposed sale $128K,128179,,https://www.sec.gov/Archives/edgar/data/1851000/000195917326007208/0001959173-26-007208-index.htm,LOW
+2026-10-02T15:41:34+00:00,FORM_144,CARG,"CarGurus, Inc.",proposed sale $113K,113266,,https://www.sec.gov/Archives/edgar/data/1899207/000195917326007209/0001959173-26-007209-index.htm,LOW
