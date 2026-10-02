@@ -3847,3 +3847,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-02T00:56:35+00:00,INSIDER_BUY,GME,GameStop Corp.,Turner Nat $255K,254540,0,https://www.sec.gov/Archives/edgar/data/1822293/000182229326000002/0001822293-26-000002-index.htm,MEDIUM
 2026-10-02T00:56:37+00:00,FORM_144,GME,GameStop Corp.,proposed sale $177K,177025,,https://www.sec.gov/Archives/edgar/data/1990547/000199054726000021/0001990547-26-000021-index.htm,LOW
 2026-10-02T01:01:32+00:00,FORM_144,GME,GameStop Corp.,proposed sale $177K,177000,,https://www.sec.gov/Archives/edgar/data/1981001/000198100126000025/0001981001-26-000025-index.htm,LOW
+2026-10-02T01:11:31+00:00,FORM_144,CLSK,"CLEANSPARK, INC.",proposed sale $191K,191320,,https://www.sec.gov/Archives/edgar/data/2022147/000119312526411074/0001193125-26-411074-index.htm,LOW
