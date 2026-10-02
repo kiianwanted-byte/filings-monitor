@@ -3869,3 +3869,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-02T15:51:39+00:00,FORM_144,CRCL,"Circle Internet Group, Inc.",proposed sale $364K,363535,,https://www.sec.gov/Archives/edgar/data/1876042/000195917326007210/0001959173-26-007210-index.htm,LOW
 2026-10-02T16:21:38+00:00,FORM_144,SRTA,"Strata Critical Medical, Inc.",proposed sale $517K,517000,,https://www.sec.gov/Archives/edgar/data/1779128/000196922326001051/0001969223-26-001051-index.htm,LOW
 2026-10-02T16:31:40+00:00,FORM_144,AEO,AMERICAN EAGLE OUTFITTERS INC,proposed sale $64K,63930,,https://www.sec.gov/Archives/edgar/data/1513234/000195917326007211/0001959173-26-007211-index.htm,LOW
+2026-10-02T17:01:35+00:00,INSIDER_CLUSTER,MPB,MID PENN BANCORP INC,Abel Robert A $496,495,2,https://www.sec.gov/Archives/edgar/data/1511696/000151169626000010/0001511696-26-000010-index.htm,HIGH
