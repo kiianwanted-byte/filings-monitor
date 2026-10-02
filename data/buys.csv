@@ -1182,3 +1182,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-10-02T20:31:29+00:00,2026-09-29,HEPA,"Hepion Pharmaceuticals, Inc.",Fisher Danina,Director,200000,0.05,10000,NEW,0001493152-26-045526
 2026-10-02T20:31:33+00:00,2026-09-30,PORT.U,Southport Acquisition Corp. II,SPENCER JEB S.,"Director, CEO and CFO, 10% owner",500000,10.00,5000000,NEW,0001185185-26-004541
 2026-10-02T20:31:41+00:00,2026-09-30,CRBG,"Corebridge Financial, Inc.",NIPPON LIFE INSURANCE CO,10% owner,348215,33.65,11716076,0.3,0001193125-26-412414
+2026-10-02T20:41:45+00:00,2026-09-28,PAM,Pampa Energy Inc.,Mindlin Damian Miguel,Vicepresident,1432197,3.89,5564816,NEW,0002028916-26-000011

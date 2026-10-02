@@ -3957,3 +3957,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-02T20:36:54+00:00,FORM_144,SGHT,"Sight Sciences, Inc.",proposed sale $224K,223631,,https://www.sec.gov/Archives/edgar/data/1596080/000195917326007241/0001959173-26-007241-index.htm,LOW
 2026-10-02T20:36:54+00:00,FORM_144,TWST,Twist Bioscience Corp,proposed sale $1.52M,1521836,,https://www.sec.gov/Archives/edgar/data/1827198/000195917326007240/0001959173-26-007240-index.htm,LOW
 2026-10-02T20:36:55+00:00,FORM_144,REZI,"RESIDEO TECHNOLOGIES, INC.",proposed sale $225K,224787,,https://www.sec.gov/Archives/edgar/data/1754267/000195004726010018/0001950047-26-010018-index.htm,LOW
+2026-10-02T20:41:45+00:00,INSIDER_CLUSTER,PAM,Pampa Energy Inc.,Mindlin Damian Miguel $5.56M,5564816,4,https://www.sec.gov/Archives/edgar/data/2028916/000202891626000011/0002028916-26-000011-index.htm,HIGH
+2026-10-02T20:41:50+00:00,FORM_144,SNOW,Snowflake Inc.,proposed sale $17.45M,17454904,,https://www.sec.gov/Archives/edgar/data/1640147/000197325126000039/0001973251-26-000039-index.htm,LOW
+2026-10-02T20:41:50+00:00,FORM_144,CPNG,"Coupang, Inc",proposed sale $75K,75338,,https://www.sec.gov/Archives/edgar/data/1919697/000197449426000310/0001974494-26-000310-index.htm,LOW
+2026-10-02T20:41:51+00:00,FORM_144,TWST,Twist Bioscience Corp,proposed sale $8.64M,8638789,,https://www.sec.gov/Archives/edgar/data/1753655/000195917326007243/0001959173-26-007243-index.htm,LOW
+2026-10-02T20:41:51+00:00,FORM_144,CDLX,"Cardlytics, Inc.",proposed sale $19K,18700,,https://www.sec.gov/Archives/edgar/data/1961238/000195917326007242/0001959173-26-007242-index.htm,LOW
