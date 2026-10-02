@@ -3876,3 +3876,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-02T17:36:37+00:00,INSIDER_CLUSTER,RGCO,RGC RESOURCES INC,Miles Christen Brooke $100,100,1,https://www.sec.gov/Archives/edgar/data/1968153/000143774926031825/0001437749-26-031825-index.htm,HIGH
 2026-10-02T18:01:45+00:00,FORM_144,ADI,ANALOG DEVICES INC,proposed sale $834K,833961,,https://www.sec.gov/Archives/edgar/data/1465733/000195917326007212/0001959173-26-007212-index.htm,LOW
 2026-10-02T18:01:46+00:00,FORM_144,NTWK,NETSOL TECHNOLOGIES INC,proposed sale $60K,60400,,https://www.sec.gov/Archives/edgar/data/1585901/000194984626000604/0001949846-26-000604-index.htm,LOW
+2026-10-02T18:21:42+00:00,FORM_144,ADI,ANALOG DEVICES INC,proposed sale $498K,498028,,https://www.sec.gov/Archives/edgar/data/2044259/000195917326007213/0001959173-26-007213-index.htm,LOW
