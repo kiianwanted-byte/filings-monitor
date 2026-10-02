@@ -3908,3 +3908,15 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-02T20:06:49+00:00,FORM_144,EHTH,"EHEALTH, INC.",proposed sale $14K,14037,,https://www.sec.gov/Archives/edgar/data/1333493/000195004726009994/0001950047-26-009994-index.htm,LOW
 2026-10-02T20:06:50+00:00,FORM_144,AMKR,"AMKOR TECHNOLOGY, INC.",proposed sale $275K,275000,,https://www.sec.gov/Archives/edgar/data/1195858/000195004726009992/0001950047-26-009992-index.htm,LOW
 2026-10-02T20:06:50+00:00,FORM_144,QCOM,QUALCOMM INCORPORATED,proposed sale $18K,18281,,https://www.sec.gov/Archives/edgar/data/2081650/000195004726009991/0001950047-26-009991-index.htm,LOW
+2026-10-02T20:11:53+00:00,FORM_144,USAR,"USA Rare Earth, Inc.",proposed sale $1.22M,1215128,,https://www.sec.gov/Archives/edgar/data/1970622/000195917326007231/0001959173-26-007231-index.htm,LOW
+2026-10-02T20:11:54+00:00,FORM_144,COHU,"COHU, INC.",proposed sale $1.58M,1581326,,https://www.sec.gov/Archives/edgar/data/1509513/000195004726010000/0001950047-26-010000-index.htm,LOW
+2026-10-02T20:11:54+00:00,FORM_144,XMTR,"Xometry, Inc.",proposed sale $196K,195612,,https://www.sec.gov/Archives/edgar/data/2056024/000196922326001056/0001969223-26-001056-index.htm,LOW
+2026-10-02T20:11:55+00:00,FORM_144,COIN,"Coinbase Global, Inc.",proposed sale $1.35M,1353924,,https://www.sec.gov/Archives/edgar/data/1679788/000197407826000375/0001974078-26-000375-index.htm,LOW
+2026-10-02T20:11:55+00:00,FORM_144,AAPL,Apple Inc.,proposed sale $15.46M,15459598,,https://www.sec.gov/Archives/edgar/data/1767094/000196922326001055/0001969223-26-001055-index.htm,LOW
+2026-10-02T20:11:56+00:00,FORM_144,OCUL,"OCULAR THERAPEUTIX, INC.",proposed sale $70K,70459,,https://www.sec.gov/Archives/edgar/data/2011869/000195004726009999/0001950047-26-009999-index.htm,LOW
+2026-10-02T20:11:57+00:00,FORM_144,BCYC,BICYCLE THERAPEUTICS PLC,proposed sale $31K,31231,,https://www.sec.gov/Archives/edgar/data/1776938/000197248126000290/0001972481-26-000290-index.htm,LOW
+2026-10-02T20:11:57+00:00,FORM_144,AMBQ,"AMBIQ MICRO, INC.",proposed sale $1.15M,1145124,,https://www.sec.gov/Archives/edgar/data/2078454/000207845426000016/0002078454-26-000016-index.htm,LOW
+2026-10-02T20:11:58+00:00,FORM_144,XMTR,"Xometry, Inc.",proposed sale $600K,599732,,https://www.sec.gov/Archives/edgar/data/1869814/000196922326001054/0001969223-26-001054-index.htm,LOW
+2026-10-02T20:11:58+00:00,FORM_144,TOST,"Toast, Inc.",proposed sale $349K,348900,,https://www.sec.gov/Archives/edgar/data/1674159/000195917326007230/0001959173-26-007230-index.htm,LOW
+2026-10-02T20:11:59+00:00,FORM_144,NTAP,"NETAPP, INC.",proposed sale $1.08M,1082150,,https://www.sec.gov/Archives/edgar/data/1754302/000195004726009998/0001950047-26-009998-index.htm,LOW
+2026-10-02T20:11:59+00:00,FORM_144,SGHT,"Sight Sciences, Inc.",proposed sale $26K,26453,,https://www.sec.gov/Archives/edgar/data/1596103/000195917326007229/0001959173-26-007229-index.htm,LOW
