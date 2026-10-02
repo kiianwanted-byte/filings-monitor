@@ -3889,3 +3889,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-02T19:56:38+00:00,FORM_144,ARQQ,Arqit Quantum Inc.,proposed sale $14K,13632,,https://www.sec.gov/Archives/edgar/data/1967211/000195917326007221/0001959173-26-007221-index.htm,LOW
 2026-10-02T19:56:38+00:00,FORM_144,ARQQ,Arqit Quantum Inc.,proposed sale $12K,12384,,https://www.sec.gov/Archives/edgar/data/1967068/000195917326007220/0001959173-26-007220-index.htm,LOW
 2026-10-02T19:56:39+00:00,FORM_144,ARQQ,Arqit Quantum Inc.,proposed sale $69K,68968,,https://www.sec.gov/Archives/edgar/data/2035890/000195917326007219/0001959173-26-007219-index.htm,LOW
+2026-10-02T20:01:46+00:00,FORM_144,TOST,"Toast, Inc.",proposed sale $275K,274987,,https://www.sec.gov/Archives/edgar/data/1869038/000195917326007225/0001959173-26-007225-index.htm,LOW
+2026-10-02T20:01:46+00:00,FORM_144,SGHT,"Sight Sciences, Inc.",proposed sale $64K,63813,,https://www.sec.gov/Archives/edgar/data/1961970/000195917326007224/0001959173-26-007224-index.htm,LOW
+2026-10-02T20:01:46+00:00,FORM_144,ASST,"Strive, Inc.",proposed sale $1.84M,1842112,,https://www.sec.gov/Archives/edgar/data/2084252/000195917326007223/0001959173-26-007223-index.htm,LOW
+2026-10-02T20:01:47+00:00,FORM_144,ARQQ,Arqit Quantum Inc.,proposed sale $12K,12090,,https://www.sec.gov/Archives/edgar/data/2120006/000195917326007222/0001959173-26-007222-index.htm,LOW
