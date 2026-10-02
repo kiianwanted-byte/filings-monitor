@@ -3854,3 +3854,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-02T10:31:28+00:00,FORM_144,MLCO,Melco Resorts & Entertainment LTD,proposed sale $1.61M,1614600,,https://www.sec.gov/Archives/edgar/data/1963892/000197337926000349/0001973379-26-000349-index.htm,LOW
 2026-10-02T10:36:33+00:00,FORM_144,MSGY,Masonglory Ltd,proposed sale $3.26M,3257100,,https://www.sec.gov/Archives/edgar/data/2108417/000118518526004537/0001185185-26-004537-index.htm,LOW
 2026-10-02T14:11:37+00:00,INSIDER_BUY,DLHC,DLH Holdings Corp.,Mink Brook Asset Management LLC $737K,736666,1,https://www.sec.gov/Archives/edgar/data/2052205/000162828026064396/0001628280-26-064396-index.htm,MEDIUM
+2026-10-02T14:26:34+00:00,FORM_144,CRCL,"Circle Internet Group, Inc.",proposed sale $102K,102421,,https://www.sec.gov/Archives/edgar/data/1876042/000195917326007200/0001959173-26-007200-index.htm,LOW
