@@ -3844,3 +3844,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-02T00:06:34+00:00,FORM_144,XFOR,"X4 Pharmaceuticals, Inc",proposed sale $34K,33658,,https://www.sec.gov/Archives/edgar/data/1501697/000127675026000008/0001276750-26-000008-index.htm,LOW
 2026-10-02T00:31:33+00:00,FORM_144,EDRY,EuroDry Ltd.,proposed sale $167K,167190,,https://www.sec.gov/Archives/edgar/data/1927715/000091957426006606/0000919574-26-006606-index.htm,LOW
 2026-10-02T00:36:33+00:00,FORM_144,ESEA,EUROSEAS LTD.,proposed sale $529K,528825,,https://www.sec.gov/Archives/edgar/data/1927715/000091957426006607/0000919574-26-006607-index.htm,LOW
+2026-10-02T00:56:35+00:00,INSIDER_BUY,GME,GameStop Corp.,Turner Nat $255K,254540,0,https://www.sec.gov/Archives/edgar/data/1822293/000182229326000002/0001822293-26-000002-index.htm,MEDIUM
+2026-10-02T00:56:37+00:00,FORM_144,GME,GameStop Corp.,proposed sale $177K,177025,,https://www.sec.gov/Archives/edgar/data/1990547/000199054726000021/0001990547-26-000021-index.htm,LOW
