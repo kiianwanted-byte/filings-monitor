@@ -2936,3 +2936,8 @@ timestamp,chamber,member,ticker,asset,action,amount_low,amount_high,trade_date,f
 2026-09-28T22:30:06+00:00,House,Kevin Hern,AIO,Virtus Artificial Intelligence &,SELL (partial),15001,50000,2026-08-31,2026-09-25,25,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf
 2026-09-28T22:30:06+00:00,House,Kevin Hern,VUZI,Vuzix Corporation,SELL,1001,15000,2026-09-03,2026-09-25,22,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf
 2026-09-28T22:30:06+00:00,House,Kevin Hern,WMT,Walmart Inc. - Common Stock,SELL (partial),1001,15000,2026-08-27,2026-09-25,29,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf
+2026-10-02T00:08:09+00:00,House,Suzan K. DelBene,,Boulder Larimer & Weld CNTYS Colo,BUY,250001,500000,2026-09-03,2026-09-30,27,MEDIUM,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035498.pdf
+2026-10-02T00:08:09+00:00,House,Suzan K. DelBene,,California CMNTY Choice Fing Auth,SELL,250001,500000,2026-09-03,2026-09-30,27,MEDIUM,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035498.pdf
+2026-10-02T00:08:09+00:00,House,Suzan K. DelBene,,Central VY Energy Auth Calif,BUY,250001,500000,2026-09-14,2026-09-30,16,MEDIUM,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035498.pdf
+2026-10-02T00:08:09+00:00,House,Suzan K. DelBene,,San Joaquin VY Calif Clean Energy,BUY,250001,500000,2026-09-03,2026-09-30,27,MEDIUM,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035498.pdf
+2026-10-02T00:08:09+00:00,House,Suzan K. DelBene,,San Joaquin VY Calif Clean Energy,SELL,250001,500000,2026-09-14,2026-09-30,16,MEDIUM,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035498.pdf
