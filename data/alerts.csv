@@ -3933,3 +3933,14 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-02T20:21:53+00:00,FORM_144,BETA,"BETA Technologies, Inc.",proposed sale $218K,217738,,https://www.sec.gov/Archives/edgar/data/2090083/000195917326007233/0001959173-26-007233-index.htm,LOW
 2026-10-02T20:21:53+00:00,FORM_144,TWST,Twist Bioscience Corp,proposed sale $4.86M,4856958,,https://www.sec.gov/Archives/edgar/data/1755970/000195917326007232/0001959173-26-007232-index.htm,LOW
 2026-10-02T20:21:54+00:00,FORM_144,AMBQ,"AMBIQ MICRO, INC.",proposed sale $377K,377213,,https://www.sec.gov/Archives/edgar/data/1500412/000131214326000010/0001312143-26-000010-index.htm,LOW
+2026-10-02T20:26:57+00:00,FORM_144,TOST,"Toast, Inc.",proposed sale $200K,199841,,https://www.sec.gov/Archives/edgar/data/2004790/000195917326007238/0001959173-26-007238-index.htm,LOW
+2026-10-02T20:26:58+00:00,FORM_144,GTM,ZOOMINFO TECHNOLOGIES INC,proposed sale $9K,9474,,https://www.sec.gov/Archives/edgar/data/2057389/000195004726010011/0001950047-26-010011-index.htm,LOW
+2026-10-02T20:26:58+00:00,FORM_144,GDYN,"GRID DYNAMICS HOLDINGS, INC.",proposed sale $11K,10532,,https://www.sec.gov/Archives/edgar/data/1805673/000195004726010010/0001950047-26-010010-index.htm,LOW
+2026-10-02T20:26:59+00:00,FORM_144,ESTC,ELASTIC N.V.,proposed sale $926K,925800,,https://www.sec.gov/Archives/edgar/data/2003569/000195004726010009/0001950047-26-010009-index.htm,LOW
+2026-10-02T20:26:59+00:00,FORM_144,IPGP,IPG PHOTONICS CORP,proposed sale $11.56M,11561400,,https://www.sec.gov/Archives/edgar/data/1130423/000197248126000293/0001972481-26-000293-index.htm,LOW
+2026-10-02T20:26:59+00:00,FORM_144,ICHR,"ICHOR HOLDINGS, LTD.",proposed sale $134K,134269,,https://www.sec.gov/Archives/edgar/data/1958644/000195004726010008/0001950047-26-010008-index.htm,LOW
+2026-10-02T20:27:00+00:00,FORM_144,RNG,"RingCentral, Inc.",proposed sale $99K,98983,,https://www.sec.gov/Archives/edgar/data/1710815/000195004726010007/0001950047-26-010007-index.htm,LOW
+2026-10-02T20:27:00+00:00,FORM_144,ICHR,ICHOR HOLDINGS LTD,proposed sale $43K,43048,,https://www.sec.gov/Archives/edgar/data/1723433/000195004726010006/0001950047-26-010006-index.htm,LOW
+2026-10-02T20:27:01+00:00,FORM_144,ASST,"Strive, Inc.",proposed sale $629K,629098,,https://www.sec.gov/Archives/edgar/data/2084255/000195917326007237/0001959173-26-007237-index.htm,LOW
+2026-10-02T20:27:01+00:00,FORM_144,FLD,"Fold Holdings, Inc.",proposed sale $3,3,,https://www.sec.gov/Archives/edgar/data/2057497/000195917326007236/0001959173-26-007236-index.htm,LOW
+2026-10-02T20:27:01+00:00,FORM_144,VICR,VICOR CORPORATION,proposed sale $6.17M,6171800,,https://www.sec.gov/Archives/edgar/data/901484/000195004726010005/0001950047-26-010005-index.htm,LOW
