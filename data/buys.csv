@@ -1156,3 +1156,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-10-01T23:51:30+00:00,2026-09-15,,Stellus Private Credit BDC,Huskinson W. Todd,"CFO, CCO and Secretary",374,15.25,5703,6.4,0001104659-26-112944
 2026-10-02T00:11:34+00:00,2026-09-30,AVR,Anteris Technologies Global Corp.,L1 Capital Pty Ltd,10% owner,397226,7.62,3027831,8.3,0001817646-26-000028
 2026-10-02T00:16:29+00:00,2026-09-29,HELP,Helus Pharma Inc.,Cavers Greg,Chief Financial Officer,3000,12.91,38730,NEW,0000912282-26-001334
+2026-10-02T00:31:32+00:00,2026-09-29,LPCN,Lipocine Inc.,Higuchi John W.,Director,25007,2.20,55042,11.6,0001493152-26-045400
