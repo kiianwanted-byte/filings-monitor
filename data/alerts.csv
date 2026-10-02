@@ -3843,3 +3843,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-01T23:01:38+00:00,FORM_144,TH,Target Hospitality Corp.,proposed sale $153.86M,153857653,,https://www.sec.gov/Archives/edgar/data/1767017/000095014226002664/0000950142-26-002664-index.htm,MEDIUM
 2026-10-02T00:06:34+00:00,FORM_144,XFOR,"X4 Pharmaceuticals, Inc",proposed sale $34K,33658,,https://www.sec.gov/Archives/edgar/data/1501697/000127675026000008/0001276750-26-000008-index.htm,LOW
 2026-10-02T00:31:33+00:00,FORM_144,EDRY,EuroDry Ltd.,proposed sale $167K,167190,,https://www.sec.gov/Archives/edgar/data/1927715/000091957426006606/0000919574-26-006606-index.htm,LOW
+2026-10-02T00:36:33+00:00,FORM_144,ESEA,EUROSEAS LTD.,proposed sale $529K,528825,,https://www.sec.gov/Archives/edgar/data/1927715/000091957426006607/0000919574-26-006607-index.htm,LOW
