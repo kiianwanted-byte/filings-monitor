@@ -3861,3 +3861,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-02T14:51:38+00:00,FORM_144,W,Wayfair Inc.,proposed sale $631K,630611,,https://www.sec.gov/Archives/edgar/data/1994593/000195917326007204/0001959173-26-007204-index.htm,LOW
 2026-10-02T15:06:32+00:00,FORM_144,CARG,"CarGurus, Inc.",proposed sale $214K,214271,,https://www.sec.gov/Archives/edgar/data/1897130/000195917326007206/0001959173-26-007206-index.htm,LOW
 2026-10-02T15:06:32+00:00,FORM_144,SMTC,SEMTECH CORP,proposed sale $382K,382420,,https://www.sec.gov/Archives/edgar/data/1156899/000195917326007205/0001959173-26-007205-index.htm,LOW
+2026-10-02T15:21:32+00:00,FORM_144,MTUS,Metallus Inc.,proposed sale $2.23M,2225097,,https://www.sec.gov/Archives/edgar/data/1598428/000194984626000602/0001949846-26-000602-index.htm,LOW
+2026-10-02T15:21:32+00:00,FORM_144,CARG,"CarGurus, Inc.",proposed sale $79K,79174,,https://www.sec.gov/Archives/edgar/data/2010096/000195917326007207/0001959173-26-007207-index.htm,LOW
