@@ -3944,3 +3944,13 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-02T20:27:01+00:00,FORM_144,ASST,"Strive, Inc.",proposed sale $629K,629098,,https://www.sec.gov/Archives/edgar/data/2084255/000195917326007237/0001959173-26-007237-index.htm,LOW
 2026-10-02T20:27:01+00:00,FORM_144,FLD,"Fold Holdings, Inc.",proposed sale $3,3,,https://www.sec.gov/Archives/edgar/data/2057497/000195917326007236/0001959173-26-007236-index.htm,LOW
 2026-10-02T20:27:01+00:00,FORM_144,VICR,VICOR CORPORATION,proposed sale $6.17M,6171800,,https://www.sec.gov/Archives/edgar/data/901484/000195004726010005/0001950047-26-010005-index.htm,LOW
+2026-10-02T20:31:33+00:00,INSIDER_BUY,PORT.U,Southport Acquisition Corp. II,SPENCER JEB S. $5.00M,5000000,2,https://www.sec.gov/Archives/edgar/data/2151215/000118518526004541/0001185185-26-004541-index.htm,MEDIUM
+2026-10-02T20:31:41+00:00,INSIDER_BUY,CRBG,"Corebridge Financial, Inc.",NIPPON LIFE INSURANCE CO $11.72M,11716076,2,https://www.sec.gov/Archives/edgar/data/1889539/000119312526412414/0001193125-26-412414-index.htm,LOW
+2026-10-02T20:31:47+00:00,FORM_144,KRNT,Kornit Digital Ltd.,proposed sale $1.64M,1637503,,https://www.sec.gov/Archives/edgar/data/2125959/000197640826000881/0001976408-26-000881-index.htm,LOW
+2026-10-02T20:31:48+00:00,FORM_144,GTM,ZOOMINFO TECHNOLOGIES INC,proposed sale $80K,79976,,https://www.sec.gov/Archives/edgar/data/2057761/000195004726010017/0001950047-26-010017-index.htm,LOW
+2026-10-02T20:31:48+00:00,FORM_144,LUXE,LuxExperience B.V.,proposed sale $26K,25980,,https://www.sec.gov/Archives/edgar/data/1986276/000195004726010016/0001950047-26-010016-index.htm,LOW
+2026-10-02T20:31:48+00:00,FORM_144,FLD,"Fold Holdings, Inc.",proposed sale $3K,2813,,https://www.sec.gov/Archives/edgar/data/2057455/000195917326007239/0001959173-26-007239-index.htm,LOW
+2026-10-02T20:31:49+00:00,FORM_144,NP,Neptune Insurance Holdings Inc.,proposed sale $4.51M,4510126,,https://www.sec.gov/Archives/edgar/data/2077387/000195004726010015/0001950047-26-010015-index.htm,LOW
+2026-10-02T20:31:49+00:00,FORM_144,PATH,UIPATH INC,proposed sale $880K,879812,,https://www.sec.gov/Archives/edgar/data/1855778/000195004726010014/0001950047-26-010014-index.htm,LOW
+2026-10-02T20:31:50+00:00,FORM_144,IBRX,IMMUNITYBIO INC,proposed sale $752K,752199,,https://www.sec.gov/Archives/edgar/data/1529371/000195004726010013/0001950047-26-010013-index.htm,LOW
+2026-10-02T20:31:50+00:00,FORM_144,GRND,Grindr Inc.,proposed sale $25.40M,25396465,,https://www.sec.gov/Archives/edgar/data/1833678/000195004726010012/0001950047-26-010012-index.htm,MEDIUM
