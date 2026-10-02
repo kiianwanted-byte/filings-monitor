@@ -3954,3 +3954,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-02T20:31:49+00:00,FORM_144,PATH,UIPATH INC,proposed sale $880K,879812,,https://www.sec.gov/Archives/edgar/data/1855778/000195004726010014/0001950047-26-010014-index.htm,LOW
 2026-10-02T20:31:50+00:00,FORM_144,IBRX,IMMUNITYBIO INC,proposed sale $752K,752199,,https://www.sec.gov/Archives/edgar/data/1529371/000195004726010013/0001950047-26-010013-index.htm,LOW
 2026-10-02T20:31:50+00:00,FORM_144,GRND,Grindr Inc.,proposed sale $25.40M,25396465,,https://www.sec.gov/Archives/edgar/data/1833678/000195004726010012/0001950047-26-010012-index.htm,MEDIUM
+2026-10-02T20:36:54+00:00,FORM_144,SGHT,"Sight Sciences, Inc.",proposed sale $224K,223631,,https://www.sec.gov/Archives/edgar/data/1596080/000195917326007241/0001959173-26-007241-index.htm,LOW
+2026-10-02T20:36:54+00:00,FORM_144,TWST,Twist Bioscience Corp,proposed sale $1.52M,1521836,,https://www.sec.gov/Archives/edgar/data/1827198/000195917326007240/0001959173-26-007240-index.htm,LOW
+2026-10-02T20:36:55+00:00,FORM_144,REZI,"RESIDEO TECHNOLOGIES, INC.",proposed sale $225K,224787,,https://www.sec.gov/Archives/edgar/data/1754267/000195004726010018/0001950047-26-010018-index.htm,LOW
