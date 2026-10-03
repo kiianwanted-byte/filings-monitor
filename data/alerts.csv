@@ -3975,3 +3975,9 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-02T21:21:50+00:00,FORM_144,AAPL,Apple Inc.,proposed sale $8.48M,8479730,,https://www.sec.gov/Archives/edgar/data/2148403/000195824426000636/0001958244-26-000636-index.htm,LOW
 2026-10-02T22:16:34+00:00,INSIDER_BUY,,Fortress Net Lease REIT,"TIEDEMANN ADVISORS, LLC $20.00M",19999999,1,https://www.sec.gov/Archives/edgar/data/2046647/000091957426006648/0000919574-26-006648-index.htm,LOW
 2026-10-02T22:46:33+00:00,INSIDER_CLUSTER,AUBN,"AUBURN NATIONAL BANCORPORATION, INC",HOUSEL DAVID E $1K,1401,2,https://www.sec.gov/Archives/edgar/data/1195632/000143774926031936/0001437749-26-031936-index.htm,HIGH
+2026-10-03T00:06:29+00:00,FORM_144,JOBY,"Joby Aviation, Inc",proposed sale $57K,56968,,https://www.sec.gov/Archives/edgar/data/1877282/000181984826000488/0001819848-26-000488-index.htm,LOW
+2026-10-03T00:06:29+00:00,FORM_144,JOBY,"Joby Aviation, Inc.",proposed sale $94K,93939,,https://www.sec.gov/Archives/edgar/data/1877280/000181984826000486/0001819848-26-000486-index.htm,LOW
+2026-10-03T00:06:30+00:00,FORM_144,JOBY,"Joby Aviation, Inc.",proposed sale $46K,45592,,https://www.sec.gov/Archives/edgar/data/1877894/000181984826000485/0001819848-26-000485-index.htm,LOW
+2026-10-03T00:06:30+00:00,FORM_144,JOBY,"Joby Aviation, Inc.",proposed sale $56K,55516,,https://www.sec.gov/Archives/edgar/data/1877636/000181984826000484/0001819848-26-000484-index.htm,LOW
+2026-10-03T00:06:30+00:00,FORM_144,JOBY,"Joby Aviation, Inc.",proposed sale $65K,64595,,https://www.sec.gov/Archives/edgar/data/1877717/000181984826000483/0001819848-26-000483-index.htm,LOW
+2026-10-03T00:06:31+00:00,FORM_144,JOBY,"Joby Aviation, Inc.",proposed sale $65K,64792,,https://www.sec.gov/Archives/edgar/data/1819848/000181984826000482/0001819848-26-000482-index.htm,LOW
