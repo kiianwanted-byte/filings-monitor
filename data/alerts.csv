@@ -3981,3 +3981,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-03T00:06:30+00:00,FORM_144,JOBY,"Joby Aviation, Inc.",proposed sale $56K,55516,,https://www.sec.gov/Archives/edgar/data/1877636/000181984826000484/0001819848-26-000484-index.htm,LOW
 2026-10-03T00:06:30+00:00,FORM_144,JOBY,"Joby Aviation, Inc.",proposed sale $65K,64595,,https://www.sec.gov/Archives/edgar/data/1877717/000181984826000483/0001819848-26-000483-index.htm,LOW
 2026-10-03T00:06:31+00:00,FORM_144,JOBY,"Joby Aviation, Inc.",proposed sale $65K,64792,,https://www.sec.gov/Archives/edgar/data/1819848/000181984826000482/0001819848-26-000482-index.htm,LOW
+2026-10-03T00:11:36+00:00,FORM_144,JOBY,"Joby Aviation, Inc.",proposed sale $18K,17640,,https://www.sec.gov/Archives/edgar/data/2048665/000181984826000490/0001819848-26-000490-index.htm,LOW
+2026-10-03T00:11:37+00:00,FORM_144,JOBY,"Joby Aviation, Inc.",proposed sale $15K,15475,,https://www.sec.gov/Archives/edgar/data/1895244/000181984826000489/0001819848-26-000489-index.htm,LOW
