@@ -3999,3 +3999,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-05T15:36:33+00:00,FORM_144,GNRC,GENERAC HOLDINGS INC.,proposed sale $86K,86184,,https://www.sec.gov/Archives/edgar/data/1474735/000195917326007254/0001959173-26-007254-index.htm,LOW
 2026-10-05T16:01:36+00:00,FORM_144,SBLK,Star Bulk Carriers Corp.,proposed sale $182K,182000,,https://www.sec.gov/Archives/edgar/data/1386716/000133384826000004/0001333848-26-000004-index.htm,LOW
 2026-10-05T16:01:37+00:00,FORM_144,ASST,"Strive, Inc.",proposed sale $203K,203144,,https://www.sec.gov/Archives/edgar/data/1920406/000195917326007255/0001959173-26-007255-index.htm,LOW
+2026-10-05T17:16:33+00:00,FORM_144,RGEN,REPLIGEN CORP,proposed sale $238K,238273,,https://www.sec.gov/Archives/edgar/data/1995525/000195917326007257/0001959173-26-007257-index.htm,LOW
+2026-10-05T17:16:33+00:00,FORM_144,ASST,"Strive, Inc.",proposed sale $185K,184530,,https://www.sec.gov/Archives/edgar/data/2086557/000195917326007256/0001959173-26-007256-index.htm,LOW
