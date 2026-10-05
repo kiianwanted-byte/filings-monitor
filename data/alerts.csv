@@ -4079,3 +4079,9 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-05T22:26:34+00:00,FORM_144,CSTL,"Castle Biosciences, Inc.",proposed sale $1.06M,1062556,,https://www.sec.gov/Archives/edgar/data/1447362/000195824426000640/0001958244-26-000640-index.htm,LOW
 2026-10-05T22:26:34+00:00,FORM_144,BULL,Webull Corporation,proposed sale $793K,792613,,https://www.sec.gov/Archives/edgar/data/2093121/000195824426000639/0001958244-26-000639-index.htm,LOW
 2026-10-05T22:26:35+00:00,FORM_144,FDMT,"4D Molecular Therapeutics, Inc.",proposed sale $754K,753662,,https://www.sec.gov/Archives/edgar/data/1834021/000195824426000638/0001958244-26-000638-index.htm,LOW
+2026-10-05T22:31:33+00:00,FORM_144,S,"SentinelOne, Inc.",proposed sale $13.41M,13410968,,https://www.sec.gov/Archives/edgar/data/1866222/000195824426000647/0001958244-26-000647-index.htm,LOW
+2026-10-05T22:31:34+00:00,FORM_144,BIDU,"Baidu, Inc.",proposed sale $10.67M,10667496,,https://www.sec.gov/Archives/edgar/data/1970587/000195824426000646/0001958244-26-000646-index.htm,LOW
+2026-10-05T22:31:34+00:00,FORM_144,NET,"Cloudflare, Inc.",proposed sale $106.78M,106778236,,https://www.sec.gov/Archives/edgar/data/1786951/000195824426000645/0001958244-26-000645-index.htm,MEDIUM
+2026-10-05T22:31:36+00:00,FORM_144,FANG,"Diamondback Energy, Inc.",proposed sale $6.14M,6135938,,https://www.sec.gov/Archives/edgar/data/1539838/000195824426000644/0001958244-26-000644-index.htm,LOW
+2026-10-05T22:31:37+00:00,FORM_144,KGS,"Kodiak Gas Services, Inc.",proposed sale $143K,142790,,https://www.sec.gov/Archives/edgar/data/1971122/000195824426000643/0001958244-26-000643-index.htm,LOW
+2026-10-05T22:31:37+00:00,FORM_144,HAYW,"Hayward Holdings, Inc.",proposed sale $3.67M,3666850,,https://www.sec.gov/Archives/edgar/data/1851021/000195824426000642/0001958244-26-000642-index.htm,LOW
