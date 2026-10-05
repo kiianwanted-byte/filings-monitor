@@ -4075,3 +4075,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-05T21:30:25+00:00,FORM_144,AAOI,"APPLIED OPTOELECTRONICS, INC.",proposed sale $720K,720154,,https://www.sec.gov/Archives/edgar/data/1587600/000197407826000376/0001974078-26-000376-index.htm,LOW
 2026-10-05T21:36:37+00:00,STAKE_13G,,VIKING GLOBAL INVESTORS LP, 5.1%,,,https://www.sec.gov/Archives/edgar/data/1103804/000090514826004368/0000905148-26-004368-index.htm,HIGH
 2026-10-05T22:11:32+00:00,INSIDER_BUY,BPRE,Bluerock Private Real Estate Fund,KAMFAR RAMIN $3.41M,3408193,4,https://www.sec.gov/Archives/edgar/data/1551047/000139834426017906/0001398344-26-017906-index.htm,MEDIUM
+2026-10-05T22:26:33+00:00,FORM_144,EBAY,eBay Inc.,proposed sale $2.38M,2380650,,https://www.sec.gov/Archives/edgar/data/1495849/000195824426000641/0001958244-26-000641-index.htm,LOW
+2026-10-05T22:26:34+00:00,FORM_144,CSTL,"Castle Biosciences, Inc.",proposed sale $1.06M,1062556,,https://www.sec.gov/Archives/edgar/data/1447362/000195824426000640/0001958244-26-000640-index.htm,LOW
+2026-10-05T22:26:34+00:00,FORM_144,BULL,Webull Corporation,proposed sale $793K,792613,,https://www.sec.gov/Archives/edgar/data/2093121/000195824426000639/0001958244-26-000639-index.htm,LOW
+2026-10-05T22:26:35+00:00,FORM_144,FDMT,"4D Molecular Therapeutics, Inc.",proposed sale $754K,753662,,https://www.sec.gov/Archives/edgar/data/1834021/000195824426000638/0001958244-26-000638-index.htm,LOW
