@@ -4085,3 +4085,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-05T22:31:36+00:00,FORM_144,FANG,"Diamondback Energy, Inc.",proposed sale $6.14M,6135938,,https://www.sec.gov/Archives/edgar/data/1539838/000195824426000644/0001958244-26-000644-index.htm,LOW
 2026-10-05T22:31:37+00:00,FORM_144,KGS,"Kodiak Gas Services, Inc.",proposed sale $143K,142790,,https://www.sec.gov/Archives/edgar/data/1971122/000195824426000643/0001958244-26-000643-index.htm,LOW
 2026-10-05T22:31:37+00:00,FORM_144,HAYW,"Hayward Holdings, Inc.",proposed sale $3.67M,3666850,,https://www.sec.gov/Archives/edgar/data/1851021/000195824426000642/0001958244-26-000642-index.htm,LOW
+2026-10-05T22:41:33+00:00,FORM_144,GAP,"THE GAP, INC.",proposed sale $10.13M,10125850,,https://www.sec.gov/Archives/edgar/data/1217081/000121708126000011/0001217081-26-000011-index.htm,LOW
