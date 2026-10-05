@@ -4010,3 +4010,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-05T19:16:46+00:00,FORM_144,OKLO,Oklo Inc.,proposed sale $23K,23316,,https://www.sec.gov/Archives/edgar/data/2146790/000195917326007265/0001959173-26-007265-index.htm,LOW
 2026-10-05T19:16:46+00:00,FORM_144,ARQQ,Arqit Quantum Inc.,proposed sale $13K,12677,,https://www.sec.gov/Archives/edgar/data/1967068/000195917326007264/0001959173-26-007264-index.htm,LOW
 2026-10-05T19:16:47+00:00,FORM_144,ARQQ,Arqit Quantum Inc.,proposed sale $14K,13985,,https://www.sec.gov/Archives/edgar/data/1967211/000195917326007263/0001959173-26-007263-index.htm,LOW
+2026-10-05T19:22:13+00:00,FORM_144,ARQQ,Arqit Quantum Inc.,proposed sale $6K,5541,,https://www.sec.gov/Archives/edgar/data/2101275/000195917326007266/0001959173-26-007266-index.htm,LOW
