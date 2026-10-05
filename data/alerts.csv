@@ -3989,3 +3989,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-05T12:06:32+00:00,FORM_144,PRCH,"Porch Group, Inc.",proposed sale $692K,692400,,https://www.sec.gov/Archives/edgar/data/1837336/000183733626000042/0001837336-26-000042-index.htm,LOW
 2026-10-05T12:06:32+00:00,FORM_144,PRCH,"Porch Group, Inc.",proposed sale $1.37M,1367490,,https://www.sec.gov/Archives/edgar/data/1784535/000151518426000039/0001515184-26-000039-index.htm,LOW
 2026-10-05T14:16:31+00:00,FORM_144,AEIS,ADVANCED ENERGY INDUSTRIES INC,proposed sale $82K,82285,,https://www.sec.gov/Archives/edgar/data/1770310/000195917326007250/0001959173-26-007250-index.htm,LOW
+2026-10-05T14:26:34+00:00,INSIDER_BUY,BBD,BANK BRADESCO,Alvarez Denise Aguiar $33.58M,33581299,35,https://www.sec.gov/Archives/edgar/data/2126543/000129281426004850/0001292814-26-004850-index.htm,HIGH
+2026-10-05T14:26:36+00:00,FORM_144,IBRX,"ImmunityBio, Inc.",proposed sale $7.66M,7657760,,https://www.sec.gov/Archives/edgar/data/1647994/000194984626000605/0001949846-26-000605-index.htm,LOW
