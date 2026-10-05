@@ -4003,3 +4003,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-05T17:16:33+00:00,FORM_144,ASST,"Strive, Inc.",proposed sale $185K,184530,,https://www.sec.gov/Archives/edgar/data/2086557/000195917326007256/0001959173-26-007256-index.htm,LOW
 2026-10-05T17:51:34+00:00,FORM_144,BLLN,"BillionToOne, Inc.",proposed sale $298K,297995,,https://www.sec.gov/Archives/edgar/data/2087126/000195917326007258/0001959173-26-007258-index.htm,LOW
 2026-10-05T17:56:35+00:00,FORM_144,IHT,INNSUITES HOSPITALITY TRUST,proposed sale $121K,120710,,https://www.sec.gov/Archives/edgar/data/1055365/000194984626000608/0001949846-26-000608-index.htm,LOW
+2026-10-05T18:06:40+00:00,FORM_144,DNA,"Ginkgo Bioworks Holdings, Inc.",proposed sale $36K,36045,,https://www.sec.gov/Archives/edgar/data/1977441/000195917326007259/0001959173-26-007259-index.htm,LOW
