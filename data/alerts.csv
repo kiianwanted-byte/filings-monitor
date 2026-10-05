@@ -4011,3 +4011,39 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-05T19:16:46+00:00,FORM_144,ARQQ,Arqit Quantum Inc.,proposed sale $13K,12677,,https://www.sec.gov/Archives/edgar/data/1967068/000195917326007264/0001959173-26-007264-index.htm,LOW
 2026-10-05T19:16:47+00:00,FORM_144,ARQQ,Arqit Quantum Inc.,proposed sale $14K,13985,,https://www.sec.gov/Archives/edgar/data/1967211/000195917326007263/0001959173-26-007263-index.htm,LOW
 2026-10-05T19:22:13+00:00,FORM_144,ARQQ,Arqit Quantum Inc.,proposed sale $6K,5541,,https://www.sec.gov/Archives/edgar/data/2101275/000195917326007266/0001959173-26-007266-index.htm,LOW
+2026-10-05T20:42:31+00:00,FORM_144,GRAB,GRAB HOLDINGS LIMITED,proposed sale $351K,351120,,https://www.sec.gov/Archives/edgar/data/1990865/000195004726010037/0001950047-26-010037-index.htm,LOW
+2026-10-05T20:42:31+00:00,FORM_144,FIG,"FIGMA, INC.",proposed sale $442K,442173,,https://www.sec.gov/Archives/edgar/data/2073801/000195004726010036/0001950047-26-010036-index.htm,LOW
+2026-10-05T20:42:32+00:00,FORM_144,RBLX,Roblox Corporation,proposed sale $250K,249983,,https://www.sec.gov/Archives/edgar/data/1835037/000195004726010035/0001950047-26-010035-index.htm,LOW
+2026-10-05T20:42:32+00:00,FORM_144,PUBM,"PUBMATIC, INC.",proposed sale $186K,185655,,https://www.sec.gov/Archives/edgar/data/1966530/000195004726010034/0001950047-26-010034-index.htm,LOW
+2026-10-05T20:42:33+00:00,FORM_144,TWST,Twist Bioscience Corp,proposed sale $919K,919373,,https://www.sec.gov/Archives/edgar/data/1753655/000195917326007277/0001959173-26-007277-index.htm,LOW
+2026-10-05T20:42:33+00:00,FORM_144,AMLX,"Amylyx Pharmaceuticals, Inc.",proposed sale $2.78M,2779000,,https://www.sec.gov/Archives/edgar/data/1658551/000195004726010033/0001950047-26-010033-index.htm,LOW
+2026-10-05T20:42:34+00:00,FORM_144,NU,Nu Holdings Ltd.,proposed sale $336K,335750,,https://www.sec.gov/Archives/edgar/data/1973445/000195004726010032/0001950047-26-010032-index.htm,LOW
+2026-10-05T20:42:34+00:00,FORM_144,HOOD,"Robinhood Markets, Inc.",proposed sale $42.28M,42277500,,https://www.sec.gov/Archives/edgar/data/1871006/000195004726010031/0001950047-26-010031-index.htm,MEDIUM
+2026-10-05T20:42:36+00:00,FORM_144,PTC,PTC Inc.,proposed sale $252K,252052,,https://www.sec.gov/Archives/edgar/data/1714701/000195004726010030/0001950047-26-010030-index.htm,LOW
+2026-10-05T20:42:37+00:00,FORM_144,PRGS,PROGRESS SOFTWARE CORPORATION,proposed sale $46K,45940,,https://www.sec.gov/Archives/edgar/data/1948524/000195004726010029/0001950047-26-010029-index.htm,LOW
+2026-10-05T20:42:37+00:00,FORM_144,CRL,"CHARLES RIVER LABORATORIES INTERNATIONAL, INC.",proposed sale $309K,308579,,https://www.sec.gov/Archives/edgar/data/1952784/000196922326001063/0001969223-26-001063-index.htm,LOW
+2026-10-05T20:42:37+00:00,FORM_144,TOST,"Toast, Inc.",proposed sale $230K,230166,,https://www.sec.gov/Archives/edgar/data/2004790/000195917326007276/0001959173-26-007276-index.htm,LOW
+2026-10-05T20:42:38+00:00,FORM_144,NWPX,"NWPX Infrastructure, Inc.",proposed sale $27K,26620,,https://www.sec.gov/Archives/edgar/data/1401658/000195917326007275/0001959173-26-007275-index.htm,LOW
+2026-10-05T20:42:38+00:00,FORM_144,PTCT,"PTC THERAPEUTICS, INC.",proposed sale $105K,104883,,https://www.sec.gov/Archives/edgar/data/1578852/000195917326007274/0001959173-26-007274-index.htm,LOW
+2026-10-05T20:42:39+00:00,FORM_144,VSXY,Victoria's Secret & Co.,proposed sale $647K,647462,,https://www.sec.gov/Archives/edgar/data/1916977/000162828026064937/0001628280-26-064937-index.htm,LOW
+2026-10-05T20:42:39+00:00,FORM_144,GWRE,"GUIDEWIRE SOFTWARE, INC.",proposed sale $183K,183024,,https://www.sec.gov/Archives/edgar/data/1784996/000195004726010028/0001950047-26-010028-index.htm,LOW
+2026-10-05T20:42:40+00:00,FORM_144,IDCC,"INTERDIGITAL, INC.",proposed sale $501K,501480,,https://www.sec.gov/Archives/edgar/data/1936535/000195004726010027/0001950047-26-010027-index.htm,LOW
+2026-10-05T20:42:40+00:00,FORM_144,WDAY,"Workday, Inc.","proposed sale $1,000K",999564,,https://www.sec.gov/Archives/edgar/data/1928908/000196922326001062/0001969223-26-001062-index.htm,LOW
+2026-10-05T20:42:41+00:00,FORM_144,ETSY,ETSY INC,proposed sale $320K,320016,,https://www.sec.gov/Archives/edgar/data/2068229/000196922326001061/0001969223-26-001061-index.htm,LOW
+2026-10-05T20:42:41+00:00,FORM_144,ETSY,ETSY INC,proposed sale $100K,99897,,https://www.sec.gov/Archives/edgar/data/1813761/000196922326001060/0001969223-26-001060-index.htm,LOW
+2026-10-05T20:42:41+00:00,FORM_144,PCVX,"Vaxcyte, Inc.",proposed sale $1.65M,1648060,,https://www.sec.gov/Archives/edgar/data/1960048/000196922326001059/0001969223-26-001059-index.htm,LOW
+2026-10-05T20:42:42+00:00,FORM_144,RGEN,REPLIGEN CORP,proposed sale $798K,798380,,https://www.sec.gov/Archives/edgar/data/1995525/000195917326007273/0001959173-26-007273-index.htm,LOW
+2026-10-05T20:42:42+00:00,FORM_144,BLLN,"BillionToOne, Inc.",proposed sale $2.16M,2162950,,https://www.sec.gov/Archives/edgar/data/2087127/000195917326007272/0001959173-26-007272-index.htm,LOW
+2026-10-05T20:42:43+00:00,FORM_144,PCVX,"Vaxcyte, Inc.",proposed sale $1.56M,1561320,,https://www.sec.gov/Archives/edgar/data/1813798/000196922326001058/0001969223-26-001058-index.htm,LOW
+2026-10-05T20:42:43+00:00,FORM_144,XYZ,"BLOCK, INC.",proposed sale $445K,445440,,https://www.sec.gov/Archives/edgar/data/1933928/000195004726010026/0001950047-26-010026-index.htm,LOW
+2026-10-05T20:42:44+00:00,FORM_144,GKOS,GLAUKOS Corp,proposed sale $251K,251121,,https://www.sec.gov/Archives/edgar/data/1920053/000195917326007271/0001959173-26-007271-index.htm,LOW
+2026-10-05T20:42:44+00:00,FORM_144,TWLO,TWILIO INC,proposed sale $4.20M,4203120,,https://www.sec.gov/Archives/edgar/data/1737610/000192109426001070/0001921094-26-001070-index.htm,LOW
+2026-10-05T20:42:45+00:00,FORM_144,META,"Meta Platforms, Inc.",proposed sale $1.15M,1146726,,https://www.sec.gov/Archives/edgar/data/1564475/000192109426001069/0001921094-26-001069-index.htm,LOW
+2026-10-05T20:42:45+00:00,FORM_144,ROKU,"ROKU, INC.",proposed sale $3.11M,3114103,,https://www.sec.gov/Archives/edgar/data/1951665/000195004726010025/0001950047-26-010025-index.htm,LOW
+2026-10-05T20:42:46+00:00,FORM_144,BETA,"BETA Technologies, Inc.",proposed sale $213K,212959,,https://www.sec.gov/Archives/edgar/data/2090083/000195917326007270/0001959173-26-007270-index.htm,LOW
+2026-10-05T20:42:46+00:00,FORM_144,BOX,BOX INC,proposed sale $183K,182608,,https://www.sec.gov/Archives/edgar/data/1801732/000192109426001068/0001921094-26-001068-index.htm,LOW
+2026-10-05T20:42:47+00:00,FORM_144,BLND,"Blend Labs, Inc.",proposed sale $25K,24649,,https://www.sec.gov/Archives/edgar/data/1870974/000192109426001067/0001921094-26-001067-index.htm,LOW
+2026-10-05T20:42:47+00:00,FORM_144,RPRX,Royalty Pharma plc,proposed sale $236K,235594,,https://www.sec.gov/Archives/edgar/data/1838139/000196430626000465/0001964306-26-000465-index.htm,LOW
+2026-10-05T20:42:48+00:00,FORM_144,ARQQ,Arqit Quantum Inc.,proposed sale $12K,12415,,https://www.sec.gov/Archives/edgar/data/2120006/000195917326007269/0001959173-26-007269-index.htm,LOW
+2026-10-05T20:42:48+00:00,FORM_144,ARQQ,Arqit Quantum Inc.,proposed sale $60K,60294,,https://www.sec.gov/Archives/edgar/data/2035890/000195917326007268/0001959173-26-007268-index.htm,LOW
+2026-10-05T20:42:48+00:00,FORM_144,ARQQ,Arqit Quantum Inc.,proposed sale $3K,3020,,https://www.sec.gov/Archives/edgar/data/1859690/000195917326007267/0001959173-26-007267-index.htm,LOW
