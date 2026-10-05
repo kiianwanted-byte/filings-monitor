@@ -4047,3 +4047,28 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-05T20:42:48+00:00,FORM_144,ARQQ,Arqit Quantum Inc.,proposed sale $12K,12415,,https://www.sec.gov/Archives/edgar/data/2120006/000195917326007269/0001959173-26-007269-index.htm,LOW
 2026-10-05T20:42:48+00:00,FORM_144,ARQQ,Arqit Quantum Inc.,proposed sale $60K,60294,,https://www.sec.gov/Archives/edgar/data/2035890/000195917326007268/0001959173-26-007268-index.htm,LOW
 2026-10-05T20:42:48+00:00,FORM_144,ARQQ,Arqit Quantum Inc.,proposed sale $3K,3020,,https://www.sec.gov/Archives/edgar/data/1859690/000195917326007267/0001959173-26-007267-index.htm,LOW
+2026-10-05T21:22:22+00:00,FORM_144,CLOV,"Clover Health Investments, Corp.",proposed sale $41K,40744,,https://www.sec.gov/Archives/edgar/data/1839066/000183906626000050/0001839066-26-000050-index.htm,LOW
+2026-10-05T21:22:22+00:00,FORM_144,ALHC,"Alignment Healthcare, Inc.",proposed sale $305K,305280,,https://www.sec.gov/Archives/edgar/data/1993255/000162828026065053/0001628280-26-065053-index.htm,LOW
+2026-10-05T21:22:23+00:00,FORM_144,MTUS,Metallus Inc.,proposed sale $106K,105600,,https://www.sec.gov/Archives/edgar/data/1598428/000162828026065029/0001628280-26-065029-index.htm,LOW
+2026-10-05T21:22:23+00:00,FORM_144,PINS,"PINTEREST, INC.",proposed sale $245K,244861,,https://www.sec.gov/Archives/edgar/data/2106873/000192109426001071/0001921094-26-001071-index.htm,LOW
+2026-10-05T21:22:23+00:00,FORM_144,SNPS,"SYNOPSYS, INC.",proposed sale $1.45M,1454340,,https://www.sec.gov/Archives/edgar/data/1652437/000195004726010057/0001950047-26-010057-index.htm,LOW
+2026-10-05T21:22:24+00:00,FORM_144,WEX,WEX Inc.,proposed sale $347K,347037,,https://www.sec.gov/Archives/edgar/data/1788329/000162828026064990/0001628280-26-064990-index.htm,LOW
+2026-10-05T21:22:24+00:00,FORM_144,AIP,"Arteris, Inc.",proposed sale $49K,49393,,https://www.sec.gov/Archives/edgar/data/1888542/000195004726010056/0001950047-26-010056-index.htm,LOW
+2026-10-05T21:22:25+00:00,FORM_144,PUBM,"PUBMATIC, INC.",proposed sale $408K,408426,,https://www.sec.gov/Archives/edgar/data/1833465/000195004726010055/0001950047-26-010055-index.htm,LOW
+2026-10-05T21:22:25+00:00,FORM_144,NTLA,"INTELLIA THERAPEUTICS, INC.",proposed sale $736K,736312,,https://www.sec.gov/Archives/edgar/data/1914448/000195004726010054/0001950047-26-010054-index.htm,LOW
+2026-10-05T21:22:26+00:00,FORM_144,AMBQ,"Ambiq Micro, Inc.",proposed sale $3.63M,3627516,,https://www.sec.gov/Archives/edgar/data/2078559/000195004726010053/0001950047-26-010053-index.htm,LOW
+2026-10-05T21:22:26+00:00,FORM_144,PUBM,"PUBMATIC, INC.",proposed sale $199K,198843,,https://www.sec.gov/Archives/edgar/data/1833508/000195004726010052/0001950047-26-010052-index.htm,LOW
+2026-10-05T21:22:27+00:00,FORM_144,SIBN,"SI-BONE, INC.",proposed sale $31K,31296,,https://www.sec.gov/Archives/edgar/data/1853089/000195004726010051/0001950047-26-010051-index.htm,LOW
+2026-10-05T21:22:27+00:00,FORM_144,SOPH,SOPHIA GENETICS SA,proposed sale $157K,156509,,https://www.sec.gov/Archives/edgar/data/2006362/000195004726010050/0001950047-26-010050-index.htm,LOW
+2026-10-05T21:22:28+00:00,FORM_144,SOPH,SOPHIA GENETICS SA,proposed sale $50K,49775,,https://www.sec.gov/Archives/edgar/data/2006414/000195004726010049/0001950047-26-010049-index.htm,LOW
+2026-10-05T21:22:28+00:00,FORM_144,NBIS,NEBIUS GROUP N.V.,proposed sale $121.41M,121405000,,https://www.sec.gov/Archives/edgar/data/2060551/000195004726010048/0001950047-26-010048-index.htm,MEDIUM
+2026-10-05T21:22:30+00:00,FORM_144,SOPH,SOPHIA GENETICS SA,proposed sale $79K,79392,,https://www.sec.gov/Archives/edgar/data/2005463/000195004726010047/0001950047-26-010047-index.htm,LOW
+2026-10-05T21:22:30+00:00,FORM_144,VEEV,VEEVA SYSTEMS INC.,proposed sale $37.13M,37134886,,https://www.sec.gov/Archives/edgar/data/1788226/000195004726010046/0001950047-26-010046-index.htm,MEDIUM
+2026-10-05T21:22:31+00:00,FORM_144,SOPH,SOPHIA GENETICS SA,proposed sale $181K,180719,,https://www.sec.gov/Archives/edgar/data/2014308/000195004726010045/0001950047-26-010045-index.htm,LOW
+2026-10-05T21:22:32+00:00,FORM_144,SOPH,SOPHIA GENETICS SA,proposed sale $34K,34216,,https://www.sec.gov/Archives/edgar/data/2009280/000195004726010044/0001950047-26-010044-index.htm,LOW
+2026-10-05T21:22:32+00:00,FORM_144,SOPH,SOPHIA GENETICS SA,proposed sale $13K,12847,,https://www.sec.gov/Archives/edgar/data/1840706/000195004726010043/0001950047-26-010043-index.htm,LOW
+2026-10-05T21:22:33+00:00,FORM_144,GME,GameStop Corp.,proposed sale $96K,95885,,https://www.sec.gov/Archives/edgar/data/1981001/000195004726010042/0001950047-26-010042-index.htm,LOW
+2026-10-05T21:22:33+00:00,FORM_144,AIP,"Arteris, Inc.",proposed sale $282K,282406,,https://www.sec.gov/Archives/edgar/data/1667011/000195004726010041/0001950047-26-010041-index.htm,LOW
+2026-10-05T21:22:33+00:00,FORM_144,JOBY,"Joby Aviation, Inc.",proposed sale $32K,31546,,https://www.sec.gov/Archives/edgar/data/1877894/000195004726010040/0001950047-26-010040-index.htm,LOW
+2026-10-05T21:22:34+00:00,FORM_144,SOPH,SOPHIA GENETICS SA,proposed sale $530K,529973,,https://www.sec.gov/Archives/edgar/data/2007050/000195004726010039/0001950047-26-010039-index.htm,LOW
+2026-10-05T21:22:34+00:00,FORM_144,AIP,"Arteris, Inc.",proposed sale $807K,806702,,https://www.sec.gov/Archives/edgar/data/1888601/000195004726010038/0001950047-26-010038-index.htm,LOW
