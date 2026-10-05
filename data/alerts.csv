@@ -3997,3 +3997,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-05T14:51:41+00:00,FORM_144,RSI,"Rush Street Interactive, Inc.",proposed sale $467K,467130,,https://www.sec.gov/Archives/edgar/data/1793659/000195917326007251/0001959173-26-007251-index.htm,LOW
 2026-10-05T15:06:42+00:00,FORM_144,SBUX,STARBUCKS CORP,proposed sale $156K,155501,,https://www.sec.gov/Archives/edgar/data/2018223/000195917326007253/0001959173-26-007253-index.htm,LOW
 2026-10-05T15:36:33+00:00,FORM_144,GNRC,GENERAC HOLDINGS INC.,proposed sale $86K,86184,,https://www.sec.gov/Archives/edgar/data/1474735/000195917326007254/0001959173-26-007254-index.htm,LOW
+2026-10-05T16:01:36+00:00,FORM_144,SBLK,Star Bulk Carriers Corp.,proposed sale $182K,182000,,https://www.sec.gov/Archives/edgar/data/1386716/000133384826000004/0001333848-26-000004-index.htm,LOW
+2026-10-05T16:01:37+00:00,FORM_144,ASST,"Strive, Inc.",proposed sale $203K,203144,,https://www.sec.gov/Archives/edgar/data/1920406/000195917326007255/0001959173-26-007255-index.htm,LOW
