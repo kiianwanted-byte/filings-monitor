@@ -4072,3 +4072,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-05T21:22:33+00:00,FORM_144,JOBY,"Joby Aviation, Inc.",proposed sale $32K,31546,,https://www.sec.gov/Archives/edgar/data/1877894/000195004726010040/0001950047-26-010040-index.htm,LOW
 2026-10-05T21:22:34+00:00,FORM_144,SOPH,SOPHIA GENETICS SA,proposed sale $530K,529973,,https://www.sec.gov/Archives/edgar/data/2007050/000195004726010039/0001950047-26-010039-index.htm,LOW
 2026-10-05T21:22:34+00:00,FORM_144,AIP,"Arteris, Inc.",proposed sale $807K,806702,,https://www.sec.gov/Archives/edgar/data/1888601/000195004726010038/0001950047-26-010038-index.htm,LOW
+2026-10-05T21:30:25+00:00,FORM_144,AAOI,"APPLIED OPTOELECTRONICS, INC.",proposed sale $720K,720154,,https://www.sec.gov/Archives/edgar/data/1587600/000197407826000376/0001974078-26-000376-index.htm,LOW
