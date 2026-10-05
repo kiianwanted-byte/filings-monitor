@@ -3988,3 +3988,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-05T12:06:31+00:00,FORM_144,PRCH,"Porch Group, Inc.",proposed sale $190K,190410,,https://www.sec.gov/Archives/edgar/data/1954327/000195432726000049/0001954327-26-000049-index.htm,LOW
 2026-10-05T12:06:32+00:00,FORM_144,PRCH,"Porch Group, Inc.",proposed sale $692K,692400,,https://www.sec.gov/Archives/edgar/data/1837336/000183733626000042/0001837336-26-000042-index.htm,LOW
 2026-10-05T12:06:32+00:00,FORM_144,PRCH,"Porch Group, Inc.",proposed sale $1.37M,1367490,,https://www.sec.gov/Archives/edgar/data/1784535/000151518426000039/0001515184-26-000039-index.htm,LOW
+2026-10-05T14:16:31+00:00,FORM_144,AEIS,ADVANCED ENERGY INDUSTRIES INC,proposed sale $82K,82285,,https://www.sec.gov/Archives/edgar/data/1770310/000195917326007250/0001959173-26-007250-index.htm,LOW
