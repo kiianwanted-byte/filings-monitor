@@ -4074,3 +4074,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-05T21:22:34+00:00,FORM_144,AIP,"Arteris, Inc.",proposed sale $807K,806702,,https://www.sec.gov/Archives/edgar/data/1888601/000195004726010038/0001950047-26-010038-index.htm,LOW
 2026-10-05T21:30:25+00:00,FORM_144,AAOI,"APPLIED OPTOELECTRONICS, INC.",proposed sale $720K,720154,,https://www.sec.gov/Archives/edgar/data/1587600/000197407826000376/0001974078-26-000376-index.htm,LOW
 2026-10-05T21:36:37+00:00,STAKE_13G,,VIKING GLOBAL INVESTORS LP, 5.1%,,,https://www.sec.gov/Archives/edgar/data/1103804/000090514826004368/0000905148-26-004368-index.htm,HIGH
+2026-10-05T22:11:32+00:00,INSIDER_BUY,BPRE,Bluerock Private Real Estate Fund,KAMFAR RAMIN $3.41M,3408193,4,https://www.sec.gov/Archives/edgar/data/1551047/000139834426017906/0001398344-26-017906-index.htm,MEDIUM
