@@ -4089,3 +4089,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-05T23:16:31+00:00,INSIDER_CLUSTER,ALP,Alpha Compute Corp,Mitin Yury $51K,51482,24,https://www.sec.gov/Archives/edgar/data/2088736/000117184326006419/0001171843-26-006419-index.htm,HIGH
 2026-10-05T23:16:32+00:00,FORM_144,HSBC,HSBC HOLDINGS PLC,proposed sale $97,97,,https://www.sec.gov/Archives/edgar/data/2157144/000215714426000003/0002157144-26-000003-index.htm,LOW
 2026-10-05T23:21:31+00:00,FORM_144,KNTK,Kinetik Holdings Inc.,proposed sale $801K,800871,,https://www.sec.gov/Archives/edgar/data/1904934/000090514826004372/0000905148-26-004372-index.htm,LOW
+2026-10-05T23:56:32+00:00,FORM_144,GRAL,"GRAIL, Inc.",proposed sale $1.15M,1152533,,https://www.sec.gov/Archives/edgar/data/1758838/000162828026065140/0001628280-26-065140-index.htm,LOW
+2026-10-05T23:56:32+00:00,FORM_144,GRAL,"GRAIL, Inc.",proposed sale $3.46M,3457599,,https://www.sec.gov/Archives/edgar/data/2024196/000162828026065138/0001628280-26-065138-index.htm,LOW
