@@ -3996,3 +3996,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-05T14:51:41+00:00,FORM_144,DY,DYCOM INDUSTRIES INC,proposed sale $274K,273990,,https://www.sec.gov/Archives/edgar/data/1829962/000194984626000606/0001949846-26-000606-index.htm,LOW
 2026-10-05T14:51:41+00:00,FORM_144,RSI,"Rush Street Interactive, Inc.",proposed sale $467K,467130,,https://www.sec.gov/Archives/edgar/data/1793659/000195917326007251/0001959173-26-007251-index.htm,LOW
 2026-10-05T15:06:42+00:00,FORM_144,SBUX,STARBUCKS CORP,proposed sale $156K,155501,,https://www.sec.gov/Archives/edgar/data/2018223/000195917326007253/0001959173-26-007253-index.htm,LOW
+2026-10-05T15:36:33+00:00,FORM_144,GNRC,GENERAC HOLDINGS INC.,proposed sale $86K,86184,,https://www.sec.gov/Archives/edgar/data/1474735/000195917326007254/0001959173-26-007254-index.htm,LOW
