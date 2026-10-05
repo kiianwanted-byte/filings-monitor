@@ -3985,3 +3985,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-03T00:11:37+00:00,FORM_144,JOBY,"Joby Aviation, Inc.",proposed sale $15K,15475,,https://www.sec.gov/Archives/edgar/data/1895244/000181984826000489/0001819848-26-000489-index.htm,LOW
 2026-10-03T00:26:34+00:00,FORM_144,ESTC,Elastic N.V.,proposed sale $140.91M,140910000,,https://www.sec.gov/Archives/edgar/data/1754844/000195824426000637/0001958244-26-000637-index.htm,MEDIUM
 2026-10-05T10:11:40+00:00,INSIDER_BUY,VCIG,VCI Global Ltd,HOO VOON HIM $313K,313225,5,https://www.sec.gov/Archives/edgar/data/1930510/000121390026106613/0001213900-26-106613-index.htm,MEDIUM
+2026-10-05T12:06:31+00:00,FORM_144,PRCH,"Porch Group, Inc.",proposed sale $190K,190410,,https://www.sec.gov/Archives/edgar/data/1954327/000195432726000049/0001954327-26-000049-index.htm,LOW
+2026-10-05T12:06:32+00:00,FORM_144,PRCH,"Porch Group, Inc.",proposed sale $692K,692400,,https://www.sec.gov/Archives/edgar/data/1837336/000183733626000042/0001837336-26-000042-index.htm,LOW
+2026-10-05T12:06:32+00:00,FORM_144,PRCH,"Porch Group, Inc.",proposed sale $1.37M,1367490,,https://www.sec.gov/Archives/edgar/data/1784535/000151518426000039/0001515184-26-000039-index.htm,LOW
