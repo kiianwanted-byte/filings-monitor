@@ -4007,3 +4007,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-05T18:11:31+00:00,FORM_144,NCNO,"nCino, Inc.",proposed sale $151K,150716,,https://www.sec.gov/Archives/edgar/data/1902733/000195917326007260/0001959173-26-007260-index.htm,LOW
 2026-10-05T18:21:31+00:00,FORM_144,NKE,"NIKE, Inc.",proposed sale $658K,658266,,https://www.sec.gov/Archives/edgar/data/1806799/000195917326007262/0001959173-26-007262-index.htm,LOW
 2026-10-05T18:21:31+00:00,FORM_144,CARL,"CARLSMED, INC.",proposed sale $11K,10749,,https://www.sec.gov/Archives/edgar/data/2147819/000195917326007261/0001959173-26-007261-index.htm,LOW
+2026-10-05T19:16:46+00:00,FORM_144,OKLO,Oklo Inc.,proposed sale $23K,23316,,https://www.sec.gov/Archives/edgar/data/2146790/000195917326007265/0001959173-26-007265-index.htm,LOW
+2026-10-05T19:16:46+00:00,FORM_144,ARQQ,Arqit Quantum Inc.,proposed sale $13K,12677,,https://www.sec.gov/Archives/edgar/data/1967068/000195917326007264/0001959173-26-007264-index.htm,LOW
+2026-10-05T19:16:47+00:00,FORM_144,ARQQ,Arqit Quantum Inc.,proposed sale $14K,13985,,https://www.sec.gov/Archives/edgar/data/1967211/000195917326007263/0001959173-26-007263-index.htm,LOW
