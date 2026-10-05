@@ -2951,3 +2951,7 @@ timestamp,chamber,member,ticker,asset,action,amount_low,amount_high,trade_date,f
 2026-10-02T22:07:01+00:00,House,David J. Taylor,AMGN,Amgen Inc. - Common Stock,BUY,1001,15000,2026-09-22,2026-10-01,9,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035549.pdf
 2026-10-02T22:07:01+00:00,House,David J. Taylor,HD,"Home Depot, Inc",BUY,1001,15000,2026-09-22,2026-10-01,9,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035549.pdf
 2026-10-02T22:07:01+00:00,House,David J. Taylor,MPC,Marathon Petroleum Corporation,SELL,1001,15000,2026-09-22,2026-10-01,9,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035549.pdf
+2026-10-05T22:33:04+00:00,House,Nancy Pelosi,,"REOF XXX, LLC",BUY,500001,1000000,2026-09-08,2026-10-02,24,HIGH,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035553.pdf
+2026-10-05T22:33:04+00:00,House,Michael Rulli,GS,"Goldman Sachs Group, Inc",BUY,1001,15000,2026-09-03,2026-10-02,29,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035558.pdf
+2026-10-05T22:33:04+00:00,House,Michael Rulli,MSFT,Microsoft Corporation - Common,SELL (partial),1001,15000,2026-09-28,2026-10-02,4,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035558.pdf
+2026-10-05T22:33:04+00:00,House,Michael Rulli,WFC,Wells Fargo & Company Common,SELL (partial),1001,15000,2026-09-03,2026-10-02,29,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035558.pdf
