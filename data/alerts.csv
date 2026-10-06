@@ -4167,3 +4167,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-06T21:01:40+00:00,FORM_144,WOR,"WORTHINGTON ENTERPRISES, INC.",proposed sale $82K,82236,,https://www.sec.gov/Archives/edgar/data/1110858/000195004726010088/0001950047-26-010088-index.htm,LOW
 2026-10-06T21:11:35+00:00,FORM_144,NTNX,"NUTANIX, INC.",proposed sale $23.91M,23907100,,https://www.sec.gov/Archives/edgar/data/1618732/000195004726010090/0001950047-26-010090-index.htm,LOW
 2026-10-06T21:16:41+00:00,FORM_144,KNTK,Kinetik Holdings Inc.,proposed sale $5.10M,5102051,,https://www.sec.gov/Archives/edgar/data/1904934/000090514826004379/0000905148-26-004379-index.htm,LOW
+2026-10-06T21:22:58+00:00,FORM_144,SNPS,"SYNOPSYS, INC.",proposed sale $575K,574882,,https://www.sec.gov/Archives/edgar/data/1711671/000195004726010091/0001950047-26-010091-index.htm,LOW
