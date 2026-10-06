@@ -4110,3 +4110,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-06T18:51:33+00:00,FORM_144,CACC,Credit Acceptance Corp,proposed sale $8.03M,8025000,,https://www.sec.gov/Archives/edgar/data/2137517/000196922326001064/0001969223-26-001064-index.htm,LOW
 2026-10-06T19:06:37+00:00,FORM_144,VRME,"OpenWorld, Inc.",proposed sale $199K,198787,,https://www.sec.gov/Archives/edgar/data/1275847/000196530126000154/0001965301-26-000154-index.htm,LOW
 2026-10-06T19:16:29+00:00,FORM_144,ARQQ,Arqit Quantum Inc.,proposed sale $12K,12192,,https://www.sec.gov/Archives/edgar/data/1967068/000195917326007289/0001959173-26-007289-index.htm,LOW
+2026-10-06T19:21:33+00:00,FORM_144,ARQQ,Arqit Quantum Inc.,proposed sale $3K,2854,,https://www.sec.gov/Archives/edgar/data/1859690/000195917326007292/0001959173-26-007292-index.htm,LOW
+2026-10-06T19:21:33+00:00,FORM_144,ARQQ,Arqit Quantum Inc.,proposed sale $5K,5273,,https://www.sec.gov/Archives/edgar/data/2101275/000195917326007291/0001959173-26-007291-index.htm,LOW
+2026-10-06T19:21:34+00:00,FORM_144,ARQQ,Arqit Quantum Inc.,proposed sale $58K,58011,,https://www.sec.gov/Archives/edgar/data/2035890/000195917326007290/0001959173-26-007290-index.htm,LOW
