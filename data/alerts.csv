@@ -4107,3 +4107,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-06T18:26:33+00:00,FORM_144,BRC,BRADY CORP,proposed sale $133K,133365,,https://www.sec.gov/Archives/edgar/data/2025977/000195917326007286/0001959173-26-007286-index.htm,LOW
 2026-10-06T18:31:35+00:00,FORM_144,ADI,ANALOG DEVICES INC,proposed sale $632K,631620,,https://www.sec.gov/Archives/edgar/data/2009110/000195917326007287/0001959173-26-007287-index.htm,LOW
 2026-10-06T18:41:33+00:00,FORM_144,BFLY,"Butterfly Network, Inc.",proposed sale $359K,358614,,https://www.sec.gov/Archives/edgar/data/1804176/000195917326007288/0001959173-26-007288-index.htm,LOW
+2026-10-06T18:51:33+00:00,FORM_144,CACC,Credit Acceptance Corp,proposed sale $8.03M,8025000,,https://www.sec.gov/Archives/edgar/data/2137517/000196922326001064/0001969223-26-001064-index.htm,LOW
