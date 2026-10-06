@@ -4172,3 +4172,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-06T22:01:29+00:00,INSIDER_BUY,PSUS,"Pershing Square USA, Ltd.",ISRAEL RYAN $9.62M,9615215,4,https://www.sec.gov/Archives/edgar/data/2002660/000119312526415861/0001193125-26-415861-index.htm,MEDIUM
 2026-10-06T22:01:30+00:00,FORM_144,SAIL,"SailPoint, Inc.",proposed sale $778K,778029,,https://www.sec.gov/Archives/edgar/data/2030781/000178688326000029/0001786883-26-000029-index.htm,LOW
 2026-10-06T22:01:31+00:00,FORM_144,VST,Vistra Corp.,proposed sale $3.57M,3566631,,https://www.sec.gov/Archives/edgar/data/1728553/000195824426000648/0001958244-26-000648-index.htm,LOW
+2026-10-06T22:06:33+00:00,FORM_144,SAIL,"SailPoint, Inc.",proposed sale $266K,266203,,https://www.sec.gov/Archives/edgar/data/2058357/000205835726000029/0002058357-26-000029-index.htm,LOW
