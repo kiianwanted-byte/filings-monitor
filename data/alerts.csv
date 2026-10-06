@@ -4118,3 +4118,17 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-06T19:56:39+00:00,FORM_144,HMN,HORACE MANN EDUCATORS CORP /DE/,proposed sale $5K,4600,,https://www.sec.gov/Archives/edgar/data/1198960/000195917326007295/0001959173-26-007295-index.htm,LOW
 2026-10-06T20:01:40+00:00,FORM_144,LBRT,Liberty Energy Inc.,proposed sale $67K,66660,,https://www.sec.gov/Archives/edgar/data/1705066/000192109426001073/0001921094-26-001073-index.htm,LOW
 2026-10-06T20:01:40+00:00,FORM_144,BMBL,Bumble Inc.,proposed sale $7K,6957,,https://www.sec.gov/Archives/edgar/data/1994885/000192109426001072/0001921094-26-001072-index.htm,LOW
+2026-10-06T20:06:46+00:00,INSIDER_BUY,NXH,"NEIGHBORHOOD INTELLIGENCE, INC.",LEMONIS MARCUS $1.00M,1000000,0,https://www.sec.gov/Archives/edgar/data/1136478/000113647826000010/0001136478-26-000010-index.htm,MEDIUM
+2026-10-06T20:06:50+00:00,FORM_144,DRI,"DARDEN RESTAURANTS, INC.",proposed sale $448K,447565,,https://www.sec.gov/Archives/edgar/data/1821092/000195004726010065/0001950047-26-010065-index.htm,LOW
+2026-10-06T20:06:50+00:00,FORM_144,RUN,Sunrun Inc.,proposed sale $78K,77967,,https://www.sec.gov/Archives/edgar/data/1741304/000192109426001080/0001921094-26-001080-index.htm,LOW
+2026-10-06T20:06:51+00:00,FORM_144,ETON,"Eton Pharmaceuticals, Inc.",proposed sale $229K,229406,,https://www.sec.gov/Archives/edgar/data/1968254/000197407826000377/0001974078-26-000377-index.htm,LOW
+2026-10-06T20:06:51+00:00,FORM_144,RUN,Sunrun Inc.,proposed sale $189K,188940,,https://www.sec.gov/Archives/edgar/data/1730240/000192109426001079/0001921094-26-001079-index.htm,LOW
+2026-10-06T20:06:52+00:00,FORM_144,RUN,Sunrun Inc.,proposed sale $123K,122971,,https://www.sec.gov/Archives/edgar/data/1618959/000192109426001078/0001921094-26-001078-index.htm,LOW
+2026-10-06T20:06:52+00:00,FORM_144,RUN,Sunrun Inc.,proposed sale $14K,13753,,https://www.sec.gov/Archives/edgar/data/2056657/000192109426001077/0001921094-26-001077-index.htm,LOW
+2026-10-06T20:06:53+00:00,FORM_144,RUN,Sunrun Inc.,proposed sale $130K,129930,,https://www.sec.gov/Archives/edgar/data/1931495/000192109426001076/0001921094-26-001076-index.htm,LOW
+2026-10-06T20:06:53+00:00,FORM_144,XYZ,"BLOCK, INC.",proposed sale $460K,460080,,https://www.sec.gov/Archives/edgar/data/1933928/000195004726010064/0001950047-26-010064-index.htm,LOW
+2026-10-06T20:06:53+00:00,FORM_144,TT,Trane Technologies plc,proposed sale $23.08M,23083680,,https://www.sec.gov/Archives/edgar/data/1715932/000196922326001065/0001969223-26-001065-index.htm,LOW
+2026-10-06T20:06:54+00:00,FORM_144,PINS,"PINTEREST, INC.",proposed sale $922K,921599,,https://www.sec.gov/Archives/edgar/data/1773914/000192109426001075/0001921094-26-001075-index.htm,LOW
+2026-10-06T20:06:54+00:00,FORM_144,PINS,"PINTEREST, INC.",proposed sale $21K,21000,,https://www.sec.gov/Archives/edgar/data/1589043/000192109426001074/0001921094-26-001074-index.htm,LOW
+2026-10-06T20:06:55+00:00,FORM_144,SNPS,"SYNOPSYS, INC.",proposed sale $4.58M,4585000,,https://www.sec.gov/Archives/edgar/data/1652437/000195004726010063/0001950047-26-010063-index.htm,LOW
+2026-10-06T20:06:56+00:00,STAKE_13D,,"Qorvo, Inc.","Qorvo, Inc. 0.0%",,,https://www.sec.gov/Archives/edgar/data/1604778/000092189526002741/0000921895-26-002741-index.htm,HIGH
