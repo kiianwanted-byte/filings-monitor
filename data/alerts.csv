@@ -4105,3 +4105,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-06T18:11:32+00:00,FORM_144,GNRC,GENERAC HOLDINGS INC.,proposed sale $33K,33000,,https://www.sec.gov/Archives/edgar/data/1474735/000195917326007284/0001959173-26-007284-index.htm,LOW
 2026-10-06T18:16:36+00:00,FORM_144,FCEL,FUELCELL ENERGY INC,proposed sale $46K,46250,,https://www.sec.gov/Archives/edgar/data/2051411/000195917326007285/0001959173-26-007285-index.htm,LOW
 2026-10-06T18:26:33+00:00,FORM_144,BRC,BRADY CORP,proposed sale $133K,133365,,https://www.sec.gov/Archives/edgar/data/2025977/000195917326007286/0001959173-26-007286-index.htm,LOW
+2026-10-06T18:31:35+00:00,FORM_144,ADI,ANALOG DEVICES INC,proposed sale $632K,631620,,https://www.sec.gov/Archives/edgar/data/2009110/000195917326007287/0001959173-26-007287-index.htm,LOW
