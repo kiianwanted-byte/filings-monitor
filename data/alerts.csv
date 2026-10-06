@@ -4109,3 +4109,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-06T18:41:33+00:00,FORM_144,BFLY,"Butterfly Network, Inc.",proposed sale $359K,358614,,https://www.sec.gov/Archives/edgar/data/1804176/000195917326007288/0001959173-26-007288-index.htm,LOW
 2026-10-06T18:51:33+00:00,FORM_144,CACC,Credit Acceptance Corp,proposed sale $8.03M,8025000,,https://www.sec.gov/Archives/edgar/data/2137517/000196922326001064/0001969223-26-001064-index.htm,LOW
 2026-10-06T19:06:37+00:00,FORM_144,VRME,"OpenWorld, Inc.",proposed sale $199K,198787,,https://www.sec.gov/Archives/edgar/data/1275847/000196530126000154/0001965301-26-000154-index.htm,LOW
+2026-10-06T19:16:29+00:00,FORM_144,ARQQ,Arqit Quantum Inc.,proposed sale $12K,12192,,https://www.sec.gov/Archives/edgar/data/1967068/000195917326007289/0001959173-26-007289-index.htm,LOW
