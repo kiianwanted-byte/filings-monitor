@@ -4132,3 +4132,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-06T20:06:54+00:00,FORM_144,PINS,"PINTEREST, INC.",proposed sale $21K,21000,,https://www.sec.gov/Archives/edgar/data/1589043/000192109426001074/0001921094-26-001074-index.htm,LOW
 2026-10-06T20:06:55+00:00,FORM_144,SNPS,"SYNOPSYS, INC.",proposed sale $4.58M,4585000,,https://www.sec.gov/Archives/edgar/data/1652437/000195004726010063/0001950047-26-010063-index.htm,LOW
 2026-10-06T20:06:56+00:00,STAKE_13D,,"Qorvo, Inc.","Qorvo, Inc. 0.0%",,,https://www.sec.gov/Archives/edgar/data/1604778/000092189526002741/0000921895-26-002741-index.htm,HIGH
+2026-10-06T20:11:42+00:00,FORM_144,BETA,"BETA Technologies, Inc.",proposed sale $209K,208979,,https://www.sec.gov/Archives/edgar/data/2090083/000195917326007298/0001959173-26-007298-index.htm,LOW
+2026-10-06T20:11:42+00:00,FORM_144,MET,METLIFE INC,proposed sale $16K,15500,,https://www.sec.gov/Archives/edgar/data/1099219/000162828026065234/0001628280-26-065234-index.htm,LOW
+2026-10-06T20:11:43+00:00,FORM_144,PTCT,"PTC THERAPEUTICS, INC.",proposed sale $28K,27907,,https://www.sec.gov/Archives/edgar/data/1578852/000195917326007297/0001959173-26-007297-index.htm,LOW
+2026-10-06T20:11:43+00:00,FORM_144,LIF,"Life360, Inc.",proposed sale $2.07M,2072045,,https://www.sec.gov/Archives/edgar/data/1932626/000195917326007296/0001959173-26-007296-index.htm,LOW
