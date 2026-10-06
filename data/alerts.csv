@@ -4095,3 +4095,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-06T01:16:28+00:00,INSIDER_CLUSTER,RIME,"Algorhythm Holdings, Inc.","AZURE ENERGY, LLC $0",,20,https://www.sec.gov/Archives/edgar/data/2158212/000121390026106950/0001213900-26-106950-index.htm,HIGH
 2026-10-06T01:31:32+00:00,INSIDER_CLUSTER,ACCV,Accelevation Holdings Corp.,HECKES HOWARD C $90K,90000,4,https://www.sec.gov/Archives/edgar/data/2141406/000162828026065156/0001628280-26-065156-index.htm,HIGH
 2026-10-06T01:46:35+00:00,INSIDER_CLUSTER,ACCV,Accelevation Holdings Corp.,Rubiera Michael $3.66M,3657600,4,https://www.sec.gov/Archives/edgar/data/2149930/000162828026065167/0001628280-26-065167-index.htm,HIGH
+2026-10-06T14:46:30+00:00,FORM_144,BRC,BRADY CORP,proposed sale $205K,204881,,https://www.sec.gov/Archives/edgar/data/1964928/000195917326007278/0001959173-26-007278-index.htm,LOW
