@@ -4142,3 +4142,19 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-06T20:21:42+00:00,FORM_144,JAZZ,JAZZ PHARMACEUTICALS PUBLIC LIMITED COMPANY,proposed sale $473K,472800,,https://www.sec.gov/Archives/edgar/data/1607737/000195004726010067/0001950047-26-010067-index.htm,LOW
 2026-10-06T20:21:43+00:00,FORM_144,MGTX,MeiraGTx Holdings plc,proposed sale $294K,294320,,https://www.sec.gov/Archives/edgar/data/1742771/000195917326007300/0001959173-26-007300-index.htm,LOW
 2026-10-06T20:21:43+00:00,FORM_144,COF,CAPITAL ONE FINANCIAL CORPORATION,proposed sale $687K,686770,,https://www.sec.gov/Archives/edgar/data/1727277/000195004726010066/0001950047-26-010066-index.htm,LOW
+2026-10-06T20:26:38+00:00,FORM_144,ANET,"Arista Networks, Inc.",proposed sale $253K,253245,,https://www.sec.gov/Archives/edgar/data/1850596/000195004726010084/0001950047-26-010084-index.htm,LOW
+2026-10-06T20:26:39+00:00,FORM_144,WDAY,"WORKDAY, INC.",proposed sale $516K,515671,,https://www.sec.gov/Archives/edgar/data/2060774/000195004726010083/0001950047-26-010083-index.htm,LOW
+2026-10-06T20:26:39+00:00,FORM_144,MASS,908 DEVICES INC.,proposed sale $64K,64000,,https://www.sec.gov/Archives/edgar/data/1555279/000195004726010082/0001950047-26-010082-index.htm,LOW
+2026-10-06T20:26:40+00:00,FORM_144,CRWV,"CoreWeave, Inc.",proposed sale $262,262,,https://www.sec.gov/Archives/edgar/data/2058038/000195004726010081/0001950047-26-010081-index.htm,LOW
+2026-10-06T20:26:40+00:00,FORM_144,EVER,"EverQuote, Inc.",proposed sale $45K,45302,,https://www.sec.gov/Archives/edgar/data/1840881/000195004726010080/0001950047-26-010080-index.htm,LOW
+2026-10-06T20:26:41+00:00,FORM_144,P,"Everpure, Inc.",proposed sale $1.72M,1718214,,https://www.sec.gov/Archives/edgar/data/1511893/000195004726010079/0001950047-26-010079-index.htm,LOW
+2026-10-06T20:26:41+00:00,FORM_144,PACB,"Pacific Biosciences of California, Inc.",proposed sale $1.90M,1899409,,https://www.sec.gov/Archives/edgar/data/1384133/000195004726010078/0001950047-26-010078-index.htm,LOW
+2026-10-06T20:26:41+00:00,FORM_144,WDAY,"WORKDAY, INC.",proposed sale $18.75M,18750122,,https://www.sec.gov/Archives/edgar/data/1327811/000195004726010077/0001950047-26-010077-index.htm,LOW
+2026-10-06T20:26:42+00:00,FORM_144,EVER,"EverQuote, Inc.",proposed sale $9K,8559,,https://www.sec.gov/Archives/edgar/data/1983015/000195004726010076/0001950047-26-010076-index.htm,LOW
+2026-10-06T20:26:42+00:00,FORM_144,ADPT,ADAPTIVE BIOTECHNOLOGIES CORPORATION,proposed sale $192K,192288,,https://www.sec.gov/Archives/edgar/data/1820885/000195004726010075/0001950047-26-010075-index.htm,LOW
+2026-10-06T20:26:43+00:00,FORM_144,WAY,Waystar Holding Corp.,proposed sale $2.18M,2184600,,https://www.sec.gov/Archives/edgar/data/1998256/000195004726010074/0001950047-26-010074-index.htm,LOW
+2026-10-06T20:26:43+00:00,FORM_144,RELY,"Remitly Global, Inc.",proposed sale $126K,126005,,https://www.sec.gov/Archives/edgar/data/1880864/000195004726010073/0001950047-26-010073-index.htm,LOW
+2026-10-06T20:26:43+00:00,FORM_144,ARTV,ARTIVA BIOTHERAPEUTICS INC,proposed sale $246K,245735,,https://www.sec.gov/Archives/edgar/data/1909362/000195004726010072/0001950047-26-010072-index.htm,LOW
+2026-10-06T20:26:44+00:00,FORM_144,RLAY,RELAY THERAPEUTICS INC,proposed sale $1.81M,1806236,,https://www.sec.gov/Archives/edgar/data/1818261/000195004726010071/0001950047-26-010071-index.htm,LOW
+2026-10-06T20:26:44+00:00,FORM_144,WS,WORTHINGTON STEEL INC,proposed sale $1.05M,1049902,,https://www.sec.gov/Archives/edgar/data/2048670/000195004726010070/0001950047-26-010070-index.htm,LOW
+2026-10-06T20:26:45+00:00,FORM_144,MDB,"MONGODB, INC.",proposed sale $856K,855685,,https://www.sec.gov/Archives/edgar/data/1441816/000195004726010069/0001950047-26-010069-index.htm,LOW
