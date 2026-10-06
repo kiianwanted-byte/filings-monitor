@@ -4169,3 +4169,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-06T21:16:41+00:00,FORM_144,KNTK,Kinetik Holdings Inc.,proposed sale $5.10M,5102051,,https://www.sec.gov/Archives/edgar/data/1904934/000090514826004379/0000905148-26-004379-index.htm,LOW
 2026-10-06T21:22:58+00:00,FORM_144,SNPS,"SYNOPSYS, INC.",proposed sale $575K,574882,,https://www.sec.gov/Archives/edgar/data/1711671/000195004726010091/0001950047-26-010091-index.htm,LOW
 2026-10-06T21:51:32+00:00,FORM_144,SAIL,"SailPoint, Inc.",proposed sale $428K,428330,,https://www.sec.gov/Archives/edgar/data/2030781/000182048226000029/0001820482-26-000029-index.htm,LOW
+2026-10-06T22:01:29+00:00,INSIDER_BUY,PSUS,"Pershing Square USA, Ltd.",ISRAEL RYAN $9.62M,9615215,4,https://www.sec.gov/Archives/edgar/data/2002660/000119312526415861/0001193125-26-415861-index.htm,MEDIUM
+2026-10-06T22:01:30+00:00,FORM_144,SAIL,"SailPoint, Inc.",proposed sale $778K,778029,,https://www.sec.gov/Archives/edgar/data/2030781/000178688326000029/0001786883-26-000029-index.htm,LOW
+2026-10-06T22:01:31+00:00,FORM_144,VST,Vistra Corp.,proposed sale $3.57M,3566631,,https://www.sec.gov/Archives/edgar/data/1728553/000195824426000648/0001958244-26-000648-index.htm,LOW
