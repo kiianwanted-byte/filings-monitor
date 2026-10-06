@@ -4096,3 +4096,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-06T01:31:32+00:00,INSIDER_CLUSTER,ACCV,Accelevation Holdings Corp.,HECKES HOWARD C $90K,90000,4,https://www.sec.gov/Archives/edgar/data/2141406/000162828026065156/0001628280-26-065156-index.htm,HIGH
 2026-10-06T01:46:35+00:00,INSIDER_CLUSTER,ACCV,Accelevation Holdings Corp.,Rubiera Michael $3.66M,3657600,4,https://www.sec.gov/Archives/edgar/data/2149930/000162828026065167/0001628280-26-065167-index.htm,HIGH
 2026-10-06T14:46:30+00:00,FORM_144,BRC,BRADY CORP,proposed sale $205K,204881,,https://www.sec.gov/Archives/edgar/data/1964928/000195917326007278/0001959173-26-007278-index.htm,LOW
+2026-10-06T14:51:38+00:00,FORM_144,VZ,VERIZON COMMUNICATIONS INC,proposed sale $50K,50325,,https://www.sec.gov/Archives/edgar/data/1760581/000195917326007280/0001959173-26-007280-index.htm,LOW
+2026-10-06T14:51:38+00:00,FORM_144,OKLO,Oklo Inc.,proposed sale $11K,10739,,https://www.sec.gov/Archives/edgar/data/2146790/000195917326007279/0001959173-26-007279-index.htm,LOW
