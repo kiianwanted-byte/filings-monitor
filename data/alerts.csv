@@ -4164,3 +4164,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-06T20:36:54+00:00,FORM_144,LUXE,LuxExperience B.V.,proposed sale $16.91M,16908508,,https://www.sec.gov/Archives/edgar/data/1986276/000195004726010086/0001950047-26-010086-index.htm,LOW
 2026-10-06T20:36:54+00:00,FORM_144,HNGE,"Hinge Health, Inc.",proposed sale $403K,403235,,https://www.sec.gov/Archives/edgar/data/2063236/000195004726010085/0001950047-26-010085-index.htm,LOW
 2026-10-06T20:51:41+00:00,FORM_144,CRSP,CRISPR THERAPEUTICS AG,proposed sale $119K,119481,,https://www.sec.gov/Archives/edgar/data/1708172/000195004726010087/0001950047-26-010087-index.htm,LOW
+2026-10-06T21:01:40+00:00,FORM_144,WOR,"WORTHINGTON ENTERPRISES, INC.",proposed sale $82K,82236,,https://www.sec.gov/Archives/edgar/data/1110858/000195004726010088/0001950047-26-010088-index.htm,LOW
