@@ -1232,3 +1232,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-10-06T01:46:35+00:00,2026-10-01,ACCV,Accelevation Holdings Corp.,Rubiera Michael,"Director, Chief Executive Officer",203200,18.00,3657600,NEW,0001628280-26-065167
 2026-10-06T10:21:30+00:00,2026-10-02,AVR,Anteris Technologies Global Corp.,L1 Capital Pty Ltd,10% owner,884809,7.58,6708731,7.4,0001817646-26-000029
 2026-10-06T11:31:35+00:00,2026-10-05,BORR,Borr Drilling Ltd,Troim Tor Olav,Director,1500000,4.13,6197100,4.9,0001628280-26-065174
+2026-10-06T13:16:35+00:00,2026-10-05,UXIN,Uxin Ltd,Dai Kun,"Director, Chief Executive Officer",8683,1.27,11016,28.4,0001493152-26-045879
