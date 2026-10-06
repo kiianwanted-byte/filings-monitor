@@ -4138,3 +4138,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-06T20:11:43+00:00,FORM_144,LIF,"Life360, Inc.",proposed sale $2.07M,2072045,,https://www.sec.gov/Archives/edgar/data/1932626/000195917326007296/0001959173-26-007296-index.htm,LOW
 2026-10-06T20:16:40+00:00,FORM_144,IDYA,"IDEAYA Biosciences, Inc.",proposed sale $8.80M,8804981,,https://www.sec.gov/Archives/edgar/data/1676725/000196858226001043/0001968582-26-001043-index.htm,LOW
 2026-10-06T20:16:40+00:00,FORM_144,ANET,"Arista Networks, Inc.",proposed sale $97.64M,97642609,,https://www.sec.gov/Archives/edgar/data/1605809/000195917326007299/0001959173-26-007299-index.htm,MEDIUM
+2026-10-06T20:21:41+00:00,FORM_144,PRCH,"Porch Group, Inc.",proposed sale $363K,362944,,https://www.sec.gov/Archives/edgar/data/1950180/000195004726010068/0001950047-26-010068-index.htm,LOW
+2026-10-06T20:21:42+00:00,FORM_144,JAZZ,JAZZ PHARMACEUTICALS PUBLIC LIMITED COMPANY,proposed sale $473K,472800,,https://www.sec.gov/Archives/edgar/data/1607737/000195004726010067/0001950047-26-010067-index.htm,LOW
+2026-10-06T20:21:43+00:00,FORM_144,MGTX,MeiraGTx Holdings plc,proposed sale $294K,294320,,https://www.sec.gov/Archives/edgar/data/1742771/000195917326007300/0001959173-26-007300-index.htm,LOW
+2026-10-06T20:21:43+00:00,FORM_144,COF,CAPITAL ONE FINANCIAL CORPORATION,proposed sale $687K,686770,,https://www.sec.gov/Archives/edgar/data/1727277/000195004726010066/0001950047-26-010066-index.htm,LOW
