@@ -4178,3 +4178,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-06T22:16:32+00:00,FORM_144,SAIL,"SailPoint, Inc.",proposed sale $581K,580911,,https://www.sec.gov/Archives/edgar/data/2030781/000127971426000026/0001279714-26-000026-index.htm,LOW
 2026-10-06T22:21:29+00:00,FORM_144,SAIL,"SailPoint, Inc.",proposed sale $2.11M,2114742,,https://www.sec.gov/Archives/edgar/data/2030781/000172249826000030/0001722498-26-000030-index.htm,LOW
 2026-10-06T22:21:30+00:00,FORM_144,RAPP,"RAPPORT THERAPEUTICS, INC.",proposed sale $1.23M,1229490,,https://www.sec.gov/Archives/edgar/data/2012593/000195824426000649/0001958244-26-000649-index.htm,LOW
+2026-10-06T22:41:28+00:00,FORM_144,GAP,"THE GAP, INC.",proposed sale $11.94M,11944890,,https://www.sec.gov/Archives/edgar/data/1217081/000121708126000013/0001217081-26-000013-index.htm,LOW
