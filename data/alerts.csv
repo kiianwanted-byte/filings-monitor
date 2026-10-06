@@ -4099,3 +4099,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-06T14:51:38+00:00,FORM_144,VZ,VERIZON COMMUNICATIONS INC,proposed sale $50K,50325,,https://www.sec.gov/Archives/edgar/data/1760581/000195917326007280/0001959173-26-007280-index.htm,LOW
 2026-10-06T14:51:38+00:00,FORM_144,OKLO,Oklo Inc.,proposed sale $11K,10739,,https://www.sec.gov/Archives/edgar/data/2146790/000195917326007279/0001959173-26-007279-index.htm,LOW
 2026-10-06T15:11:35+00:00,FORM_144,RXRX,"RECURSION PHARMACEUTICALS, INC.",proposed sale $125K,125000,,https://www.sec.gov/Archives/edgar/data/1601830/000195917326007281/0001959173-26-007281-index.htm,LOW
+2026-10-06T15:51:35+00:00,FORM_144,RXRX,"RECURSION PHARMACEUTICALS, INC.",proposed sale $242K,242000,,https://www.sec.gov/Archives/edgar/data/1856094/000195917326007282/0001959173-26-007282-index.htm,LOW
