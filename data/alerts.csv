@@ -4186,3 +4186,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-07T00:31:36+00:00,FORM_144,DELL,Dell Technologies Inc.,proposed sale $27.97M,27965756,,https://www.sec.gov/Archives/edgar/data/1571996/000119312526415995/0001193125-26-415995-index.htm,MEDIUM
 2026-10-07T00:56:31+00:00,FORM_144,DELL,Dell Technologies Inc.,proposed sale $1.99M,1988244,,https://www.sec.gov/Archives/edgar/data/1651403/000119312526416015/0001193125-26-416015-index.htm,LOW
 2026-10-07T10:06:37+00:00,INSIDER_CLUSTER,IRIX,IRIDEX CORP,Lin Shih-Yao David $598K,597902,561,https://www.sec.gov/Archives/edgar/data/2098041/000106299326005210/0001062993-26-005210-index.htm,HIGH
+2026-10-07T10:11:30+00:00,INSIDER_BUY,IRIX,IRIDEX CORP,Lin Shih-Yao David $439K,438762,308,https://www.sec.gov/Archives/edgar/data/2098041/000106299326005214/0001062993-26-005214-index.htm,MEDIUM
+2026-10-07T10:11:31+00:00,INSIDER_BUY,IRIX,IRIDEX CORP,Lin Shih-Yao David $274K,273611,488,https://www.sec.gov/Archives/edgar/data/2098041/000106299326005212/0001062993-26-005212-index.htm,MEDIUM
