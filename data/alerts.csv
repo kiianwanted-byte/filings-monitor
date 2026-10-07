@@ -4219,3 +4219,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-07T20:36:35+00:00,FORM_144,S,"SENTINELONE, INC.",proposed sale $421K,420643,,https://www.sec.gov/Archives/edgar/data/1849122/000195004726010103/0001950047-26-010103-index.htm,LOW
 2026-10-07T20:36:35+00:00,FORM_144,CLOV,"Clover Health Investments, Corp.",proposed sale $9K,9227,,https://www.sec.gov/Archives/edgar/data/1839066/000195004726010102/0001950047-26-010102-index.htm,LOW
 2026-10-07T20:36:36+00:00,FORM_144,DUOL,"Duolingo, Inc.",proposed sale $16.30M,16301113,,https://www.sec.gov/Archives/edgar/data/1829259/000195004726010101/0001950047-26-010101-index.htm,LOW
+2026-10-07T20:41:32+00:00,FORM_144,PTCT,"PTC THERAPEUTICS, INC.",proposed sale $644K,643500,,https://www.sec.gov/Archives/edgar/data/1288952/000162828026065336/0001628280-26-065336-index.htm,LOW
