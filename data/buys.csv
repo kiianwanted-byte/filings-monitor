@@ -1256,3 +1256,6 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-10-07T12:11:31+00:00,2026-10-05,AGMB,AgomAb Therapeutics NV,Knotnerus Tim Jasper,"Director, Chief Executive Officer",11000,8.58,94380,101.6,0002120886-26-000001
 2026-10-07T12:51:34+00:00,2026-10-06,AGMB,AgomAb Therapeutics NV,Kemula Pierre Thadee Victor,Chief Financial Officer,10000,8.59,85940,NEW,0002119332-26-000001
 2026-10-07T13:01:31+00:00,2026-10-05,AGMB,AgomAb Therapeutics NV,Epstein David R,Director,10000,8.63,86350,NEW,0001445826-26-000013
+2026-10-07T18:01:31+00:00,2026-10-05,GRX,Gabelli Healthcare & WellnessRx Trust,"Saba Capital Management, L.P.",10% owner,1775,9.38,16649,0.1,0001510281-26-000327
+2026-10-07T18:01:32+00:00,2026-10-05,GF,NEW GERMANY FUND INC,"Saba Capital Management, L.P.",10% owner,25144,10.51,264263,0.7,0001510281-26-000326
+2026-10-07T18:01:33+00:00,2026-10-05,MXF,MEXICO FUND INC,"Saba Capital Management, L.P.",10% owner,25900,20.09,520331,1.1,0001510281-26-000325
