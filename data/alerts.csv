@@ -4204,3 +4204,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-07T20:06:59+00:00,FORM_144,VST,Vistra Corp.,proposed sale $3.10M,3095400,,https://www.sec.gov/Archives/edgar/data/1940494/000196922326001067/0001969223-26-001067-index.htm,LOW
 2026-10-07T20:06:59+00:00,FORM_144,WOR,"WORTHINGTON ENTERPRISES, INC.",proposed sale $685K,685041,,https://www.sec.gov/Archives/edgar/data/1110858/000195004726010096/0001950047-26-010096-index.htm,LOW
 2026-10-07T20:07:00+00:00,FORM_144,SFIX,"Stitch Fix, Inc.",proposed sale $133K,132650,,https://www.sec.gov/Archives/edgar/data/2004694/000192109426001082/0001921094-26-001082-index.htm,LOW
+2026-10-07T20:11:52+00:00,FORM_144,ANET,"Arista Networks, Inc.",proposed sale $21.06M,21060920,,https://www.sec.gov/Archives/edgar/data/1605809/000195917326007306/0001959173-26-007306-index.htm,LOW
