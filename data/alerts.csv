@@ -4194,3 +4194,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-07T14:31:34+00:00,FORM_144,SNOW,Snowflake Inc.,proposed sale $16.67M,16671000,,https://www.sec.gov/Archives/edgar/data/1821737/000195917326007302/0001959173-26-007302-index.htm,LOW
 2026-10-07T16:21:31+00:00,FORM_144,WMG,Warner Music Group Corp.,proposed sale $552K,552480,,https://www.sec.gov/Archives/edgar/data/1855951/000195917326007303/0001959173-26-007303-index.htm,LOW
 2026-10-07T17:01:36+00:00,FORM_144,SMTC,SEMTECH CORP,proposed sale $527K,526508,,https://www.sec.gov/Archives/edgar/data/1801730/000195917326007304/0001959173-26-007304-index.htm,LOW
+2026-10-07T19:26:43+00:00,FORM_144,LLY,ELI LILLY AND COMPANY,proposed sale $347.25M,347247000,,https://www.sec.gov/Archives/edgar/data/316011/000031601126000031/0000316011-26-000031-index.htm,MEDIUM
