@@ -4189,3 +4189,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-07T10:11:30+00:00,INSIDER_BUY,IRIX,IRIDEX CORP,Lin Shih-Yao David $439K,438762,308,https://www.sec.gov/Archives/edgar/data/2098041/000106299326005214/0001062993-26-005214-index.htm,MEDIUM
 2026-10-07T10:11:31+00:00,INSIDER_BUY,IRIX,IRIDEX CORP,Lin Shih-Yao David $274K,273611,488,https://www.sec.gov/Archives/edgar/data/2098041/000106299326005212/0001062993-26-005212-index.htm,MEDIUM
 2026-10-07T11:01:30+00:00,FORM_144,CLBT,Cellebrite DI Ltd.,proposed sale $267K,267160,,https://www.sec.gov/Archives/edgar/data/1854587/000162828026065286/0001628280-26-065286-index.htm,LOW
+2026-10-07T12:51:34+00:00,INSIDER_CLUSTER,AGMB,AgomAb Therapeutics NV,Kemula Pierre Thadee Victor $86K,85940,1,https://www.sec.gov/Archives/edgar/data/2119332/000211933226000001/0002119332-26-000001-index.htm,HIGH
