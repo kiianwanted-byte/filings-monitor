@@ -4182,3 +4182,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-07T00:26:33+00:00,FORM_144,DELL,Dell Technologies Inc.,proposed sale $258K,257919,,https://www.sec.gov/Archives/edgar/data/1735863/000119312526415994/0001193125-26-415994-index.htm,LOW
 2026-10-07T00:26:33+00:00,FORM_144,DELL,Dell Technologies Inc.,proposed sale $572K,572172,,https://www.sec.gov/Archives/edgar/data/1672565/000119312526415992/0001193125-26-415992-index.htm,LOW
 2026-10-07T00:26:34+00:00,FORM_144,DELL,Dell Technologies Inc.,proposed sale $25.58M,25583177,,https://www.sec.gov/Archives/edgar/data/1767114/000119312526415991/0001193125-26-415991-index.htm,MEDIUM
+2026-10-07T00:31:36+00:00,FORM_144,DELL,Dell Technologies Inc.,proposed sale $14.66M,14657224,,https://www.sec.gov/Archives/edgar/data/1737659/000119312526415996/0001193125-26-415996-index.htm,LOW
+2026-10-07T00:31:36+00:00,FORM_144,DELL,Dell Technologies Inc.,proposed sale $27.97M,27965756,,https://www.sec.gov/Archives/edgar/data/1571996/000119312526415995/0001193125-26-415995-index.htm,MEDIUM
