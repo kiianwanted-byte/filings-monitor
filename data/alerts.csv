@@ -4221,3 +4221,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-07T20:36:36+00:00,FORM_144,DUOL,"Duolingo, Inc.",proposed sale $16.30M,16301113,,https://www.sec.gov/Archives/edgar/data/1829259/000195004726010101/0001950047-26-010101-index.htm,LOW
 2026-10-07T20:41:32+00:00,FORM_144,PTCT,"PTC THERAPEUTICS, INC.",proposed sale $644K,643500,,https://www.sec.gov/Archives/edgar/data/1288952/000162828026065336/0001628280-26-065336-index.htm,LOW
 2026-10-07T20:51:35+00:00,FORM_144,ALAB,"Astera Labs, Inc.",proposed sale $4.70M,4700373,,https://www.sec.gov/Archives/edgar/data/1736297/000197325126000040/0001973251-26-000040-index.htm,LOW
+2026-10-07T21:46:36+00:00,FORM_144,PAGS,PagSeguro Digital Ltd.,proposed sale $1.06M,1060500,,https://www.sec.gov/Archives/edgar/data/2120783/000155485526002077/0001554855-26-002077-index.htm,LOW
