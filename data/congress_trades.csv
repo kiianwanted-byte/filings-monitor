@@ -2955,3 +2955,8 @@ timestamp,chamber,member,ticker,asset,action,amount_low,amount_high,trade_date,f
 2026-10-05T22:33:04+00:00,House,Michael Rulli,GS,"Goldman Sachs Group, Inc",BUY,1001,15000,2026-09-03,2026-10-02,29,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035558.pdf
 2026-10-05T22:33:04+00:00,House,Michael Rulli,MSFT,Microsoft Corporation - Common,SELL (partial),1001,15000,2026-09-28,2026-10-02,4,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035558.pdf
 2026-10-05T22:33:04+00:00,House,Michael Rulli,WFC,Wells Fargo & Company Common,SELL (partial),1001,15000,2026-09-03,2026-10-02,29,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035558.pdf
+2026-10-07T00:59:33+00:00,House,Lloyd Doggett,HD,"Home Depot, Inc",BUY,1001,15000,2026-09-17,2026-10-05,18,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035580.pdf
+2026-10-07T00:59:33+00:00,House,Lloyd Doggett,IBM,International Business Machines,BUY,1001,15000,2026-09-10,2026-10-05,25,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035580.pdf
+2026-10-07T00:59:33+00:00,House,Lloyd Doggett,JNJ,Johnson & Johnson Common Stock,BUY,1001,15000,2026-09-08,2026-10-05,27,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035580.pdf
+2026-10-07T00:59:33+00:00,House,Lloyd Doggett,PPG,"PPG Industries, Inc. Common Stock",BUY,1001,15000,2026-09-11,2026-10-05,24,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035580.pdf
+2026-10-07T00:59:34+00:00,House,Vince Fong,,U.S. Treasury Bill 0.0% Int Mat,BUY,15001,50000,2026-09-18,2026-10-05,17,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035539.pdf
