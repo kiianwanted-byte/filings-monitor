@@ -4208,3 +4208,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-07T20:16:41+00:00,FORM_144,NTNX,"NUTANIX, INC.",proposed sale $5.55M,5553330,,https://www.sec.gov/Archives/edgar/data/1618732/000195004726010099/0001950047-26-010099-index.htm,LOW
 2026-10-07T20:16:41+00:00,FORM_144,LE,"LANDS' END, INC.",proposed sale $106K,105864,,https://www.sec.gov/Archives/edgar/data/2071574/000195917326007308/0001959173-26-007308-index.htm,LOW
 2026-10-07T20:16:41+00:00,FORM_144,KVYO,"Klaviyo, Inc.",proposed sale $1.70M,1696066,,https://www.sec.gov/Archives/edgar/data/1991125/000195917326007307/0001959173-26-007307-index.htm,LOW
+2026-10-07T20:21:43+00:00,FORM_144,ADI,ANALOG DEVICES INC,proposed sale $820K,819577,,https://www.sec.gov/Archives/edgar/data/1465733/000195917326007309/0001959173-26-007309-index.htm,LOW
+2026-10-07T20:21:44+00:00,FORM_144,XYZ,"BLOCK, INC.",proposed sale $452K,452100,,https://www.sec.gov/Archives/edgar/data/1933928/000195004726010100/0001950047-26-010100-index.htm,LOW
