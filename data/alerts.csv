@@ -4211,3 +4211,11 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-07T20:21:43+00:00,FORM_144,ADI,ANALOG DEVICES INC,proposed sale $820K,819577,,https://www.sec.gov/Archives/edgar/data/1465733/000195917326007309/0001959173-26-007309-index.htm,LOW
 2026-10-07T20:21:44+00:00,FORM_144,XYZ,"BLOCK, INC.",proposed sale $452K,452100,,https://www.sec.gov/Archives/edgar/data/1933928/000195004726010100/0001950047-26-010100-index.htm,LOW
 2026-10-07T20:26:49+00:00,FORM_144,RMD,RESMED INC,proposed sale $1.13M,1129637,,https://www.sec.gov/Archives/edgar/data/1485164/000195917326007310/0001959173-26-007310-index.htm,LOW
+2026-10-07T20:36:33+00:00,FORM_144,RLAY,"RELAY THERAPEUTICS, INC.",proposed sale $1.81M,1806554,,https://www.sec.gov/Archives/edgar/data/1816210/000195004726010107/0001950047-26-010107-index.htm,LOW
+2026-10-07T20:36:33+00:00,FORM_144,RELY,"Remitly Global, Inc.",proposed sale $128K,127600,,https://www.sec.gov/Archives/edgar/data/1880864/000195004726010106/0001950047-26-010106-index.htm,LOW
+2026-10-07T20:36:34+00:00,FORM_144,APPN,Appian Corporation,proposed sale $1.68M,1676250,,https://www.sec.gov/Archives/edgar/data/1441683/000196858226001045/0001968582-26-001045-index.htm,LOW
+2026-10-07T20:36:34+00:00,FORM_144,DDOG,"Datadog, Inc.",proposed sale $15.00M,15000474,,https://www.sec.gov/Archives/edgar/data/1783984/000195004726010105/0001950047-26-010105-index.htm,LOW
+2026-10-07T20:36:34+00:00,FORM_144,OKTA,"Okta, Inc.",proposed sale $3.21M,3209419,,https://www.sec.gov/Archives/edgar/data/1940985/000195004726010104/0001950047-26-010104-index.htm,LOW
+2026-10-07T20:36:35+00:00,FORM_144,S,"SENTINELONE, INC.",proposed sale $421K,420643,,https://www.sec.gov/Archives/edgar/data/1849122/000195004726010103/0001950047-26-010103-index.htm,LOW
+2026-10-07T20:36:35+00:00,FORM_144,CLOV,"Clover Health Investments, Corp.",proposed sale $9K,9227,,https://www.sec.gov/Archives/edgar/data/1839066/000195004726010102/0001950047-26-010102-index.htm,LOW
+2026-10-07T20:36:36+00:00,FORM_144,DUOL,"Duolingo, Inc.",proposed sale $16.30M,16301113,,https://www.sec.gov/Archives/edgar/data/1829259/000195004726010101/0001950047-26-010101-index.htm,LOW
