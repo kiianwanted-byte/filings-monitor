@@ -4210,3 +4210,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-07T20:16:41+00:00,FORM_144,KVYO,"Klaviyo, Inc.",proposed sale $1.70M,1696066,,https://www.sec.gov/Archives/edgar/data/1991125/000195917326007307/0001959173-26-007307-index.htm,LOW
 2026-10-07T20:21:43+00:00,FORM_144,ADI,ANALOG DEVICES INC,proposed sale $820K,819577,,https://www.sec.gov/Archives/edgar/data/1465733/000195917326007309/0001959173-26-007309-index.htm,LOW
 2026-10-07T20:21:44+00:00,FORM_144,XYZ,"BLOCK, INC.",proposed sale $452K,452100,,https://www.sec.gov/Archives/edgar/data/1933928/000195004726010100/0001950047-26-010100-index.htm,LOW
+2026-10-07T20:26:49+00:00,FORM_144,RMD,RESMED INC,proposed sale $1.13M,1129637,,https://www.sec.gov/Archives/edgar/data/1485164/000195917326007310/0001959173-26-007310-index.htm,LOW
