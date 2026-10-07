@@ -4193,3 +4193,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-07T13:41:34+00:00,FORM_144,DELL,DELL TECHNOLOGIES INC,proposed sale $5.16M,5159932,,https://www.sec.gov/Archives/edgar/data/1571996/000162828026065304/0001628280-26-065304-index.htm,LOW
 2026-10-07T14:31:34+00:00,FORM_144,SNOW,Snowflake Inc.,proposed sale $16.67M,16671000,,https://www.sec.gov/Archives/edgar/data/1821737/000195917326007302/0001959173-26-007302-index.htm,LOW
 2026-10-07T16:21:31+00:00,FORM_144,WMG,Warner Music Group Corp.,proposed sale $552K,552480,,https://www.sec.gov/Archives/edgar/data/1855951/000195917326007303/0001959173-26-007303-index.htm,LOW
+2026-10-07T17:01:36+00:00,FORM_144,SMTC,SEMTECH CORP,proposed sale $527K,526508,,https://www.sec.gov/Archives/edgar/data/1801730/000195917326007304/0001959173-26-007304-index.htm,LOW
