@@ -4179,3 +4179,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-06T22:21:29+00:00,FORM_144,SAIL,"SailPoint, Inc.",proposed sale $2.11M,2114742,,https://www.sec.gov/Archives/edgar/data/2030781/000172249826000030/0001722498-26-000030-index.htm,LOW
 2026-10-06T22:21:30+00:00,FORM_144,RAPP,"RAPPORT THERAPEUTICS, INC.",proposed sale $1.23M,1229490,,https://www.sec.gov/Archives/edgar/data/2012593/000195824426000649/0001958244-26-000649-index.htm,LOW
 2026-10-06T22:41:28+00:00,FORM_144,GAP,"THE GAP, INC.",proposed sale $11.94M,11944890,,https://www.sec.gov/Archives/edgar/data/1217081/000121708126000013/0001217081-26-000013-index.htm,LOW
+2026-10-07T00:26:33+00:00,FORM_144,DELL,Dell Technologies Inc.,proposed sale $258K,257919,,https://www.sec.gov/Archives/edgar/data/1735863/000119312526415994/0001193125-26-415994-index.htm,LOW
+2026-10-07T00:26:33+00:00,FORM_144,DELL,Dell Technologies Inc.,proposed sale $572K,572172,,https://www.sec.gov/Archives/edgar/data/1672565/000119312526415992/0001193125-26-415992-index.htm,LOW
+2026-10-07T00:26:34+00:00,FORM_144,DELL,Dell Technologies Inc.,proposed sale $25.58M,25583177,,https://www.sec.gov/Archives/edgar/data/1767114/000119312526415991/0001193125-26-415991-index.htm,MEDIUM
