@@ -4225,3 +4225,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-07T21:56:32+00:00,FORM_144,KNTK,Kinetik Holdings Inc.,proposed sale $3.14M,3140686,,https://www.sec.gov/Archives/edgar/data/1904934/000090514826004400/0000905148-26-004400-index.htm,LOW
 2026-10-07T22:56:33+00:00,FORM_144,SAIL,"SailPoint, Inc.",proposed sale $461K,460624,,https://www.sec.gov/Archives/edgar/data/2030781/000182048226000031/0001820482-26-000031-index.htm,LOW
 2026-10-07T23:01:35+00:00,FORM_144,SAIL,"SailPoint, Inc.",proposed sale $414K,414497,,https://www.sec.gov/Archives/edgar/data/2052444/000205244426000032/0002052444-26-000032-index.htm,LOW
+2026-10-07T23:06:36+00:00,FORM_144,SAIL,"SailPoint, Inc.",proposed sale $446K,445682,,https://www.sec.gov/Archives/edgar/data/2058357/000205835726000031/0002058357-26-000031-index.htm,LOW
