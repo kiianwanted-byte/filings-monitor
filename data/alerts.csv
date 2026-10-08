@@ -4261,3 +4261,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-08T20:26:36+00:00,FORM_144,PLTR,Palantir Technologies Inc.,proposed sale $3.49M,3494160,,https://www.sec.gov/Archives/edgar/data/1823923/000195004726010119/0001950047-26-010119-index.htm,LOW
 2026-10-08T20:26:37+00:00,FORM_144,PLTR,PALANTIR TECHNOLOGIES INC,proposed sale $976K,975647,,https://www.sec.gov/Archives/edgar/data/1840244/000195004726010118/0001950047-26-010118-index.htm,LOW
 2026-10-08T20:26:38+00:00,FORM_144,HMN,HORACE MANN EDUCATORS CORP /DE/,proposed sale $25K,25307,,https://www.sec.gov/Archives/edgar/data/1198960/000195917326007318/0001959173-26-007318-index.htm,LOW
+2026-10-08T20:31:44+00:00,FORM_144,OCUL,"OCULAR THERAPEUTIX, INC.",proposed sale $87K,87315,,https://www.sec.gov/Archives/edgar/data/2039533/000195004726010123/0001950047-26-010123-index.htm,LOW
+2026-10-08T20:31:44+00:00,FORM_144,ULS,UL Solutions Inc.,proposed sale $2.35M,2349550,,https://www.sec.gov/Archives/edgar/data/1901440/000195004726010122/0001950047-26-010122-index.htm,LOW
