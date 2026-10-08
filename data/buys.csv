@@ -1319,3 +1319,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-10-08T21:51:33+00:00,2026-10-08,NRXS,"Neuraxis, INC",Carrico Thomas Joeseph,"CRO, CCO, CPO",328,4.84,1587,0.2,0001493152-26-046381
 2026-10-08T21:56:36+00:00,2026-10-06,CINT,CI&T Inc,Martins Fernando Matt Borges,"Director, 10% owner",15745,3.13,49323,NEW,0001292814-26-004872
 2026-10-08T22:11:37+00:00,2026-10-07,IMMR,IMMERSION CORP,Singer Eric,"Director, President and CEO",41000,7.14,292799,1.9,0001193125-26-418131
+2026-10-08T22:31:32+00:00,2026-10-06,INM,InMed Pharmaceuticals Inc.,"ADAR1 Capital Management, LLC",10% owner,10903,1.33,14484,1.2,0001940272-26-000023
