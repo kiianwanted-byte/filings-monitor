@@ -4265,3 +4265,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-08T20:31:44+00:00,FORM_144,ULS,UL Solutions Inc.,proposed sale $2.35M,2349550,,https://www.sec.gov/Archives/edgar/data/1901440/000195004726010122/0001950047-26-010122-index.htm,LOW
 2026-10-08T20:36:30+00:00,FORM_144,BETA,"BETA Technologies, Inc.",proposed sale $204K,203720,,https://www.sec.gov/Archives/edgar/data/2090083/000195917326007319/0001959173-26-007319-index.htm,LOW
 2026-10-08T20:56:35+00:00,FORM_144,P,"EVERPURE, INC.",proposed sale $666K,665936,,https://www.sec.gov/Archives/edgar/data/1593803/000195004726010124/0001950047-26-010124-index.htm,LOW
+2026-10-08T21:36:32+00:00,FORM_144,GDYN,"GRID DYNAMICS HOLDINGS, INC.",proposed sale $39K,38792,,https://www.sec.gov/Archives/edgar/data/1805673/000195004726010126/0001950047-26-010126-index.htm,LOW
