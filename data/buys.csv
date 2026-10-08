@@ -1317,3 +1317,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-10-08T21:46:35+00:00,2026-10-08,NRXS,"Neuraxis, INC",Henrichs Timothy Robert,Chief Financial Officer,1937,4.84,9375,25.5,0001493152-26-046380
 2026-10-08T21:51:31+00:00,2026-10-08,NRXS,"Neuraxis, INC",Carrico Brian Allen,"Director, Chief Executive Officer",268,4.84,1297,0.1,0001493152-26-046382
 2026-10-08T21:51:33+00:00,2026-10-08,NRXS,"Neuraxis, INC",Carrico Thomas Joeseph,"CRO, CCO, CPO",328,4.84,1587,0.2,0001493152-26-046381
+2026-10-08T21:56:36+00:00,2026-10-06,CINT,CI&T Inc,Martins Fernando Matt Borges,"Director, 10% owner",15745,3.13,49323,NEW,0001292814-26-004872

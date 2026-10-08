@@ -4271,3 +4271,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-08T21:51:34+00:00,FORM_144,CRDO,Credo Technology Group Holding Ltd,proposed sale $1.61M,1605898,,https://www.sec.gov/Archives/edgar/data/1896217/000195824426000651/0001958244-26-000651-index.htm,LOW
 2026-10-08T21:51:34+00:00,FORM_144,CVSA,Covista Inc.,proposed sale $474K,474125,,https://www.sec.gov/Archives/edgar/data/1508595/000195824426000650/0001958244-26-000650-index.htm,LOW
 2026-10-08T21:51:35+00:00,FORM_144,HQY,"HEALTHEQUITY, INC.",proposed sale $112K,112121,,https://www.sec.gov/Archives/edgar/data/1715537/000171553726000016/0001715537-26-000016-index.htm,LOW
+2026-10-08T21:56:36+00:00,INSIDER_CLUSTER,CINT,CI&T Inc,Martins Fernando Matt Borges $49K,49323,2,https://www.sec.gov/Archives/edgar/data/2121136/000129281426004872/0001292814-26-004872-index.htm,HIGH
+2026-10-08T21:56:39+00:00,FORM_144,HQY,"HEALTHEQUITY, INC.",proposed sale $257K,257240,,https://www.sec.gov/Archives/edgar/data/1638683/000163868326000018/0001638683-26-000018-index.htm,LOW
