@@ -4274,3 +4274,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-08T21:56:36+00:00,INSIDER_CLUSTER,CINT,CI&T Inc,Martins Fernando Matt Borges $49K,49323,2,https://www.sec.gov/Archives/edgar/data/2121136/000129281426004872/0001292814-26-004872-index.htm,HIGH
 2026-10-08T21:56:39+00:00,FORM_144,HQY,"HEALTHEQUITY, INC.",proposed sale $257K,257240,,https://www.sec.gov/Archives/edgar/data/1638683/000163868326000018/0001638683-26-000018-index.htm,LOW
 2026-10-08T22:06:32+00:00,FORM_144,HQY,"HEALTHEQUITY, INC.",proposed sale $60K,60344,,https://www.sec.gov/Archives/edgar/data/2076763/000207676326000009/0002076763-26-000009-index.htm,LOW
+2026-10-08T22:11:38+00:00,FORM_144,HQY,"HEALTHEQUITY, INC.",proposed sale $100K,99815,,https://www.sec.gov/Archives/edgar/data/1614838/000161483826000022/0001614838-26-000022-index.htm,LOW
