@@ -4251,3 +4251,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-08T20:06:36+00:00,FORM_144,VRSN,"VERISIGN, INC.",proposed sale $147K,146570,,https://www.sec.gov/Archives/edgar/data/1624651/000195004726010113/0001950047-26-010113-index.htm,LOW
 2026-10-08T20:06:37+00:00,FORM_144,ETSY,ETSY INC,proposed sale $28K,28342,,https://www.sec.gov/Archives/edgar/data/1525358/000196922326001069/0001969223-26-001069-index.htm,LOW
 2026-10-08T20:06:37+00:00,FORM_144,ACN,Accenture plc,proposed sale $261K,261003,,https://www.sec.gov/Archives/edgar/data/2080406/000196922326001068/0001969223-26-001068-index.htm,LOW
+2026-10-08T20:11:32+00:00,FORM_144,ANET,"Arista Networks, Inc.",proposed sale $204K,203720,,https://www.sec.gov/Archives/edgar/data/1605809/000195917326007315/0001959173-26-007315-index.htm,LOW
