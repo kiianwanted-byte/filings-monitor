@@ -4243,3 +4243,11 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-08T17:26:33+00:00,FORM_144,MOBX,"Mobix Labs, Inc.",proposed sale $3K,2933,,https://www.sec.gov/Archives/edgar/data/2067346/000197449426000312/0001974494-26-000312-index.htm,LOW
 2026-10-08T19:51:29+00:00,FORM_144,MSTR,Strategy Inc,proposed sale $211K,211413,,https://www.sec.gov/Archives/edgar/data/1309191/000195917326007313/0001959173-26-007313-index.htm,LOW
 2026-10-08T20:01:30+00:00,FORM_144,MAX,"MediaAlpha, Inc.",proposed sale $482K,481886,,https://www.sec.gov/Archives/edgar/data/1829946/000192109426001083/0001921094-26-001083-index.htm,LOW
+2026-10-08T20:06:32+00:00,INSIDER_CLUSTER,PDI,PIMCO Dynamic Income Fund,FLATTUM DAVID C $250K,249508,2,https://www.sec.gov/Archives/edgar/data/1510599/000120191726000004/0001201917-26-000004-index.htm,HIGH
+2026-10-08T20:06:34+00:00,FORM_144,JAZZ,JAZZ PHARMACEUTICALS PUBLIC LIMITED COMPANY,proposed sale $3.36M,3356713,,https://www.sec.gov/Archives/edgar/data/1767870/000195004726010116/0001950047-26-010116-index.htm,LOW
+2026-10-08T20:06:35+00:00,FORM_144,XYZ,"BLOCK, INC.",proposed sale $451K,451020,,https://www.sec.gov/Archives/edgar/data/1933928/000195004726010115/0001950047-26-010115-index.htm,LOW
+2026-10-08T20:06:35+00:00,FORM_144,HNST,"THE HONEST COMPANY, INC.",proposed sale $122K,122445,,https://www.sec.gov/Archives/edgar/data/2016633/000195004726010114/0001950047-26-010114-index.htm,LOW
+2026-10-08T20:06:36+00:00,FORM_144,BETA,"BETA Technologies, Inc.",proposed sale $204K,203720,,https://www.sec.gov/Archives/edgar/data/2090083/000195917326007314/0001959173-26-007314-index.htm,LOW
+2026-10-08T20:06:36+00:00,FORM_144,VRSN,"VERISIGN, INC.",proposed sale $147K,146570,,https://www.sec.gov/Archives/edgar/data/1624651/000195004726010113/0001950047-26-010113-index.htm,LOW
+2026-10-08T20:06:37+00:00,FORM_144,ETSY,ETSY INC,proposed sale $28K,28342,,https://www.sec.gov/Archives/edgar/data/1525358/000196922326001069/0001969223-26-001069-index.htm,LOW
+2026-10-08T20:06:37+00:00,FORM_144,ACN,Accenture plc,proposed sale $261K,261003,,https://www.sec.gov/Archives/edgar/data/2080406/000196922326001068/0001969223-26-001068-index.htm,LOW
