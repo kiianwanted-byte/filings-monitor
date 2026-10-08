@@ -1310,3 +1310,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-10-08T15:36:31+00:00,2026-10-06,CET,CENTRAL SECURITIES CORP,Hill John C,"Director, CEO & President",500,56.37,28185,0.6,0001209992-26-000050
 2026-10-08T15:47:06+00:00,2026-09-25,GOAI,Eva Live Inc,Boulette David,"Director, Chief Executive Officer, 10% owner",19800,2.01,39797,0.1,0001493152-26-046286
 2026-10-08T15:47:06+00:00,2026-09-22,GOAI,Eva Live Inc,Boulette David,"Director, Chief Executive Officer, 10% owner",18478,2.03,37510,0.1,0001493152-26-046284
+2026-10-08T18:36:35+00:00,2026-10-07,WVVI,WILLAMETTE VALLEY VINEYARDS INC,Osborn Michael Jordan,Chief Executive Officer,5000,1.93,9654,NEW,0001199835-26-000371
