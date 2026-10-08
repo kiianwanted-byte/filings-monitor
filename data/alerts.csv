@@ -4278,3 +4278,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-08T22:16:31+00:00,FORM_144,KNTK,Kinetik Holdings Inc.,proposed sale $6.49M,6485835,,https://www.sec.gov/Archives/edgar/data/1904934/000090514826004407/0000905148-26-004407-index.htm,LOW
 2026-10-08T23:21:32+00:00,STAKE_13D,,Elliott Investment Management L.P., 11.7%,,,https://www.sec.gov/Archives/edgar/data/1791786/000091957426006770/0000919574-26-006770-index.htm,HIGH
 2026-10-08T23:51:33+00:00,FORM_144,HQY,"HEALTHEQUITY, INC.",proposed sale $185K,185227,,https://www.sec.gov/Archives/edgar/data/2016116/000201611626000022/0002016116-26-000022-index.htm,LOW
+2026-10-08T23:56:32+00:00,FORM_144,HQY,"HEALTHEQUITY, INC.",proposed sale $98K,98447,,https://www.sec.gov/Archives/edgar/data/1683056/000168305626000022/0001683056-26-000022-index.htm,LOW
