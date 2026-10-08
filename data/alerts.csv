@@ -4237,3 +4237,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-08T13:56:33+00:00,FORM_144,CRCL,"Circle Internet Group, Inc.",proposed sale $2.12M,2122506,,https://www.sec.gov/Archives/edgar/data/2060495/000195917326007311/0001959173-26-007311-index.htm,LOW
 2026-10-08T14:06:34+00:00,FORM_144,PCRX,"Pacira BioSciences, Inc.",proposed sale $218K,217920,,https://www.sec.gov/Archives/edgar/data/1545439/000195917326007312/0001959173-26-007312-index.htm,LOW
 2026-10-08T14:36:34+00:00,FORM_144,EU,enCore Energy Corp.,proposed sale $33K,33099,,https://www.sec.gov/Archives/edgar/data/1992071/000165495426008848/0001654954-26-008848-index.htm,LOW
+2026-10-08T15:16:39+00:00,FORM_144,VPLM,Voip-pal.com Inc,proposed sale $10K,10104,,https://www.sec.gov/Archives/edgar/data/1934737/000010747626000015/0000107476-26-000015-index.htm,LOW
