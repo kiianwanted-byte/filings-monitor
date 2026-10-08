@@ -4254,3 +4254,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-08T20:11:32+00:00,FORM_144,ANET,"Arista Networks, Inc.",proposed sale $204K,203720,,https://www.sec.gov/Archives/edgar/data/1605809/000195917326007315/0001959173-26-007315-index.htm,LOW
 2026-10-08T20:16:33+00:00,FORM_144,MRVL,"MARVELL TECHNOLOGY, INC.",proposed sale $301K,300949,,https://www.sec.gov/Archives/edgar/data/1835632/000195004726010117/0001950047-26-010117-index.htm,LOW
 2026-10-08T20:16:33+00:00,FORM_144,ADI,ANALOG DEVICES INC,proposed sale $1.34M,1343788,,https://www.sec.gov/Archives/edgar/data/1465733/000195917326007316/0001959173-26-007316-index.htm,LOW
+2026-10-08T20:21:32+00:00,FORM_144,FLO,FLOWERS FOODS INC,proposed sale $26K,25936,,https://www.sec.gov/Archives/edgar/data/1965204/000195917326007317/0001959173-26-007317-index.htm,LOW
+2026-10-08T20:21:33+00:00,FORM_144,MDB,"MongoDB, Inc.",proposed sale $3.60M,3598428,,https://www.sec.gov/Archives/edgar/data/1441816/000195779926000181/0001957799-26-000181-index.htm,LOW
