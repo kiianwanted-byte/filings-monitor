@@ -4229,3 +4229,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-07T23:11:28+00:00,FORM_144,SAIL,"SailPoint, Inc.",proposed sale $837K,836642,,https://www.sec.gov/Archives/edgar/data/2030781/000178688326000031/0001786883-26-000031-index.htm,LOW
 2026-10-07T23:16:30+00:00,FORM_144,SAIL,"SailPoint, Inc.",proposed sale $2.27M,2273967,,https://www.sec.gov/Archives/edgar/data/2030781/000172249826000032/0001722498-26-000032-index.htm,LOW
 2026-10-07T23:16:30+00:00,FORM_144,SAIL,"SailPoint, Inc.",proposed sale $1.04M,1041259,,https://www.sec.gov/Archives/edgar/data/2030781/000127971426000029/0001279714-26-000029-index.htm,LOW
+2026-10-08T01:51:30+00:00,STAKE_13G,,BERKSHIRE HATHAWAY INC, 0.0%,,,https://www.sec.gov/Archives/edgar/data/1067983/000119312526417254/0001193125-26-417254-index.htm,HIGH
