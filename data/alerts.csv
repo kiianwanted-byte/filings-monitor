@@ -4295,3 +4295,11 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-09T19:16:37+00:00,FORM_144,OKLO,Oklo Inc.,proposed sale $13K,12627,,https://www.sec.gov/Archives/edgar/data/2146790/000195917326007323/0001959173-26-007323-index.htm,LOW
 2026-10-09T19:16:37+00:00,FORM_144,TWST,Twist Bioscience Corp,proposed sale $385K,384822,,https://www.sec.gov/Archives/edgar/data/1827198/000195917326007322/0001959173-26-007322-index.htm,LOW
 2026-10-09T20:01:34+00:00,FORM_144,HIPO,Hippo Holdings Inc.,proposed sale $171K,170900,,https://www.sec.gov/Archives/edgar/data/1828105/000162828026065521/0001628280-26-065521-index.htm,LOW
+2026-10-09T20:06:46+00:00,FORM_144,BETA,"BETA Technologies, Inc.",proposed sale $207K,206625,,https://www.sec.gov/Archives/edgar/data/2090083/000195917326007326/0001959173-26-007326-index.htm,LOW
+2026-10-09T20:06:47+00:00,FORM_144,MSTR,Strategy Inc,proposed sale $211K,210811,,https://www.sec.gov/Archives/edgar/data/1309191/000195917326007325/0001959173-26-007325-index.htm,LOW
+2026-10-09T20:06:49+00:00,FORM_144,P,"EVERPURE, INC.",proposed sale $774K,773956,,https://www.sec.gov/Archives/edgar/data/1915915/000195004726010134/0001950047-26-010134-index.htm,LOW
+2026-10-09T20:06:51+00:00,FORM_144,TRUP,"TRUPANION, INC.",proposed sale $26K,25840,,https://www.sec.gov/Archives/edgar/data/1657025/000195004726010133/0001950047-26-010133-index.htm,LOW
+2026-10-09T20:06:54+00:00,FORM_144,ANET,"Arista Networks, Inc.",proposed sale $28.34M,28342507,,https://www.sec.gov/Archives/edgar/data/1605809/000195917326007324/0001959173-26-007324-index.htm,MEDIUM
+2026-10-09T20:06:55+00:00,FORM_144,ATEX,ANTERIX INC.,proposed sale $401K,400606,,https://www.sec.gov/Archives/edgar/data/2090789/000195004726010132/0001950047-26-010132-index.htm,LOW
+2026-10-09T20:06:57+00:00,FORM_144,NTNX,"NUTANIX, INC.",proposed sale $258K,257860,,https://www.sec.gov/Archives/edgar/data/1819560/000195004726010131/0001950047-26-010131-index.htm,LOW
+2026-10-09T20:06:59+00:00,STAKE_13G,,Sotera Health Co,Sotera Health Co 0.0%,,,https://www.sec.gov/Archives/edgar/data/1822479/000110465926115029/0001104659-26-115029-index.htm,HIGH
