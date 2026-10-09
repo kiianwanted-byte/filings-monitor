@@ -4314,3 +4314,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-09T20:21:39+00:00,FORM_144,GTM,ZoomInfo Technologies Inc,proposed sale $20K,20004,,https://www.sec.gov/Archives/edgar/data/2034804/000162828026065532/0001628280-26-065532-index.htm,LOW
 2026-10-09T20:21:40+00:00,FORM_144,VSAT,"VIASAT, INC.",proposed sale $852K,851629,,https://www.sec.gov/Archives/edgar/data/1864468/000195004726010137/0001950047-26-010137-index.htm,LOW
 2026-10-09T20:31:39+00:00,STAKE_13G,,Ionic Digital Inc.,Ionic Digital Inc. 10.0%,,,https://www.sec.gov/Archives/edgar/data/2007691/000090266426004122/0000902664-26-004122-index.htm,HIGH
+2026-10-09T20:41:43+00:00,FORM_144,PATH,"UiPath, Inc.",proposed sale $392K,391723,,https://www.sec.gov/Archives/edgar/data/2127293/000195004726010141/0001950047-26-010141-index.htm,LOW
+2026-10-09T20:41:44+00:00,FORM_144,ASAN,"Asana, Inc.",proposed sale $178K,177867,,https://www.sec.gov/Archives/edgar/data/2075006/000195004726010140/0001950047-26-010140-index.htm,LOW
+2026-10-09T20:41:44+00:00,FORM_144,WKHS,Workhorse Group Inc.,proposed sale $491,490,,https://www.sec.gov/Archives/edgar/data/1425287/000195917326007329/0001959173-26-007329-index.htm,LOW
+2026-10-09T20:41:45+00:00,FORM_144,ZS,"ZSCALER, INC.",proposed sale $5.40M,5400966,,https://www.sec.gov/Archives/edgar/data/2040014/000195004726010139/0001950047-26-010139-index.htm,LOW
+2026-10-09T20:41:46+00:00,FORM_144,KNTK,Kinetik Holdings Inc.,proposed sale $3.12M,3124148,,https://www.sec.gov/Archives/edgar/data/1904934/000090514826004418/0000905148-26-004418-index.htm,LOW
