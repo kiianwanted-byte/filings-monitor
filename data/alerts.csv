@@ -4328,3 +4328,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-09T20:46:46+00:00,FORM_144,CHYM,CHIME FINANCIAL INC,proposed sale $1.45M,1448000,,https://www.sec.gov/Archives/edgar/data/2061219/000195004726010144/0001950047-26-010144-index.htm,LOW
 2026-10-09T20:46:46+00:00,FORM_144,EVER,"EverQuote, Inc.",proposed sale $33K,33038,,https://www.sec.gov/Archives/edgar/data/1744442/000195004726010143/0001950047-26-010143-index.htm,LOW
 2026-10-09T20:46:47+00:00,FORM_144,AFRM,"Affirm Holdings, Inc.",proposed sale $5.06M,5060345,,https://www.sec.gov/Archives/edgar/data/1820953/000195004726010142/0001950047-26-010142-index.htm,LOW
+2026-10-09T20:51:34+00:00,FORM_144,PXED,"Phoenix Education Partners, Inc.",proposed sale $1.51M,1511156,,https://www.sec.gov/Archives/edgar/data/2085188/000195004726010152/0001950047-26-010152-index.htm,LOW
+2026-10-09T20:51:35+00:00,FORM_144,VTEX,VTEX,proposed sale $59,59,,https://www.sec.gov/Archives/edgar/data/1910504/000195004726010151/0001950047-26-010151-index.htm,LOW
