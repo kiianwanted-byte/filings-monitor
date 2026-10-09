@@ -1331,3 +1331,5 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-10-09T14:06:34+00:00,2026-10-07,GRX,Gabelli Healthcare & WellnessRx Trust,"Saba Capital Management, L.P.",10% owner,2955,9.43,27865,0.1,0001510281-26-000335
 2026-10-09T15:31:30+00:00,2026-10-09,QTEX,QTREX Quantum Ltd.,Ben-Noon Dagi Shahar,"Director, Chief Executive Officer",18181,1.67,30362,0.5,0001185185-26-004675
 2026-10-09T16:06:37+00:00,2026-01-02,N.A.,Calamos Aksia Private Equity & Alternatives Fund,Aksia LLC,,82052,11.09,909653,NEW,0001939932-26-000012
+2026-10-09T16:11:30+00:00,2026-01-02,,Calamos Aksia Alternative Credit & Income Fund,Aksia LLC,,52720,10.65,561471,1838.8,0001939932-26-000014
+2026-10-09T16:11:31+00:00,2026-01-02,,Calamos Aksia Hedged Strategies Fund,Aksia LLC,,76827,10.32,792846,NEW,0001939932-26-000013

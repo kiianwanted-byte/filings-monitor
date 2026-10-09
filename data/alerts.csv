@@ -4285,3 +4285,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-09T14:01:36+00:00,INSIDER_CLUSTER,BBD,BANK BRADESCO,Alvarez Rubens Aguiar $32.04M,32042484,38,https://www.sec.gov/Archives/edgar/data/2126531/000129281426004880/0001292814-26-004880-index.htm,HIGH
 2026-10-09T15:21:38+00:00,FORM_144,ZYME,Zymeworks Inc.,proposed sale $349K,349396,,https://www.sec.gov/Archives/edgar/data/2127119/000212711926000004/0002127119-26-000004-index.htm,LOW
 2026-10-09T16:06:37+00:00,INSIDER_BUY,N.A.,Calamos Aksia Private Equity & Alternatives Fund,Aksia LLC $910K,909653,280,https://www.sec.gov/Archives/edgar/data/2047442/000193993226000012/0001939932-26-000012-index.htm,MEDIUM
+2026-10-09T16:11:30+00:00,INSIDER_BUY,,Calamos Aksia Alternative Credit & Income Fund,Aksia LLC $561K,561471,280,https://www.sec.gov/Archives/edgar/data/1939932/000193993226000014/0001939932-26-000014-index.htm,LOW
+2026-10-09T16:11:31+00:00,INSIDER_BUY,,Calamos Aksia Hedged Strategies Fund,Aksia LLC $793K,792846,280,https://www.sec.gov/Archives/edgar/data/2063706/000193993226000013/0001939932-26-000013-index.htm,LOW
