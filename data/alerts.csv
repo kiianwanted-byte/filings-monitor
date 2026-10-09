@@ -4307,3 +4307,9 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-09T20:11:48+00:00,FORM_144,XYZ,"BLOCK, INC.",proposed sale $454K,454500,,https://www.sec.gov/Archives/edgar/data/1933928/000195004726010135/0001950047-26-010135-index.htm,LOW
 2026-10-09T20:16:42+00:00,FORM_144,PTCT,"PTC THERAPEUTICS, INC.",proposed sale $12K,12338,,https://www.sec.gov/Archives/edgar/data/1578852/000195917326007327/0001959173-26-007327-index.htm,LOW
 2026-10-09T20:16:43+00:00,FORM_144,SEZL,SEZZLE INC,proposed sale $41.03M,41027000,,https://www.sec.gov/Archives/edgar/data/2159160/000196858226001048/0001968582-26-001048-index.htm,MEDIUM
+2026-10-09T20:21:37+00:00,INSIDER_BUY,CRBG,"Corebridge Financial, Inc.",NIPPON LIFE INSURANCE CO $20.88M,20880079,2,https://www.sec.gov/Archives/edgar/data/1889539/000119312526419124/0001193125-26-419124-index.htm,LOW
+2026-10-09T20:21:38+00:00,FORM_144,SPT,"Sprout Social, Inc.",proposed sale $441K,440589,,https://www.sec.gov/Archives/edgar/data/1791816/000195917326007328/0001959173-26-007328-index.htm,LOW
+2026-10-09T20:21:39+00:00,FORM_144,GWRE,"GUIDEWIRE SOFTWARE, INC.",proposed sale $1.54M,1543416,,https://www.sec.gov/Archives/edgar/data/1586253/000195004726010138/0001950047-26-010138-index.htm,LOW
+2026-10-09T20:21:39+00:00,FORM_144,SEZL,SEZZLE INC,proposed sale $17.58M,17583000,,https://www.sec.gov/Archives/edgar/data/2159160/000196858226001049/0001968582-26-001049-index.htm,LOW
+2026-10-09T20:21:39+00:00,FORM_144,GTM,ZoomInfo Technologies Inc,proposed sale $20K,20004,,https://www.sec.gov/Archives/edgar/data/2034804/000162828026065532/0001628280-26-065532-index.htm,LOW
+2026-10-09T20:21:40+00:00,FORM_144,VSAT,"VIASAT, INC.",proposed sale $852K,851629,,https://www.sec.gov/Archives/edgar/data/1864468/000195004726010137/0001950047-26-010137-index.htm,LOW
