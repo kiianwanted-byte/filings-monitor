@@ -4339,3 +4339,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-09T22:31:35+00:00,FORM_144,PAGS,PagSeguro Digital Ltd.,proposed sale $5.42M,5418925,,https://www.sec.gov/Archives/edgar/data/2120783/000155485526002102/0001554855-26-002102-index.htm,LOW
 2026-10-09T22:51:29+00:00,FORM_144,DELL,Dell Technologies Inc.,proposed sale $258K,257972,,https://www.sec.gov/Archives/edgar/data/1735863/000119312526419261/0001193125-26-419261-index.htm,LOW
 2026-10-09T22:51:30+00:00,FORM_144,DELL,Dell Technologies Inc.,proposed sale $572K,571677,,https://www.sec.gov/Archives/edgar/data/1672565/000119312526419260/0001193125-26-419260-index.htm,LOW
+2026-10-09T22:56:31+00:00,FORM_144,DELL,Dell Technologies Inc.,proposed sale $27.95M,27954730,,https://www.sec.gov/Archives/edgar/data/1571996/000119312526419263/0001193125-26-419263-index.htm,MEDIUM
+2026-10-09T22:56:32+00:00,FORM_144,DELL,Dell Technologies Inc.,proposed sale $25.51M,25513467,,https://www.sec.gov/Archives/edgar/data/1767114/000119312526419262/0001193125-26-419262-index.htm,MEDIUM
