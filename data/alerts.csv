@@ -4333,3 +4333,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-09T20:56:33+00:00,FORM_144,LUXE,LuxExperience B.V.,proposed sale $42K,42176,,https://www.sec.gov/Archives/edgar/data/1986276/000195004726010153/0001950047-26-010153-index.htm,LOW
 2026-10-09T21:06:31+00:00,INSIDER_CLUSTER,AHRT,"AH Realty Trust, Inc.",BIGMAN THEODORE $11K,11199,1,https://www.sec.gov/Archives/edgar/data/1569187/000156918726000156/0001569187-26-000156-index.htm,HIGH
 2026-10-09T21:16:31+00:00,FORM_144,CVSA,Covista Inc.,proposed sale $604K,603816,,https://www.sec.gov/Archives/edgar/data/1508595/000195824426000653/0001958244-26-000653-index.htm,LOW
+2026-10-09T22:06:32+00:00,FORM_144,PANW,"Palo Alto Networks, Inc.",proposed sale $100K,99625,,https://www.sec.gov/Archives/edgar/data/1773301/000196858226001051/0001968582-26-001051-index.htm,LOW
