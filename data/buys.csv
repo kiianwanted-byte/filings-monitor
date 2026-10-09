@@ -1323,3 +1323,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-10-08T23:16:31+00:00,2026-10-06,AVR,Anteris Technologies Global Corp.,L1 Capital Pty Ltd,10% owner,272695,7.18,1957950,4.5,0001817646-26-000032
 2026-10-09T10:31:33+00:00,2026-10-07,GGR,Gogoro Inc.,Yin Chung-Yao,Director,14158991,2.48,35114297,NEW,0001193125-26-418446
 2026-10-09T12:02:26+00:00,2026-10-08,AGMB,AgomAb Therapeutics NV,Epstein David R,Director,5000,8.90,44500,50.0,0001445826-26-000014
+2026-10-09T13:21:57+00:00,2026-10-08,UXIN,Uxin Ltd,Dai Kun,"Director, Chief Executive Officer",11836,1.13,13333,22.9,0001493152-26-046445
