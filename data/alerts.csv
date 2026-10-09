@@ -4319,3 +4319,12 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-09T20:41:44+00:00,FORM_144,WKHS,Workhorse Group Inc.,proposed sale $491,490,,https://www.sec.gov/Archives/edgar/data/1425287/000195917326007329/0001959173-26-007329-index.htm,LOW
 2026-10-09T20:41:45+00:00,FORM_144,ZS,"ZSCALER, INC.",proposed sale $5.40M,5400966,,https://www.sec.gov/Archives/edgar/data/2040014/000195004726010139/0001950047-26-010139-index.htm,LOW
 2026-10-09T20:41:46+00:00,FORM_144,KNTK,Kinetik Holdings Inc.,proposed sale $3.12M,3124148,,https://www.sec.gov/Archives/edgar/data/1904934/000090514826004418/0000905148-26-004418-index.htm,LOW
+2026-10-09T20:46:43+00:00,FORM_144,WDAY,"WORKDAY, INC.",proposed sale $18.75M,18750011,,https://www.sec.gov/Archives/edgar/data/1327811/000195004726010150/0001950047-26-010150-index.htm,LOW
+2026-10-09T20:46:44+00:00,FORM_144,GTLB,GITLAB INC.,proposed sale $2.67M,2674572,,https://www.sec.gov/Archives/edgar/data/1653482/000195004726010149/0001950047-26-010149-index.htm,LOW
+2026-10-09T20:46:44+00:00,FORM_144,PLTR,Palantir Technologies Inc,proposed sale $199K,198780,,https://www.sec.gov/Archives/edgar/data/1930526/000195004726010148/0001950047-26-010148-index.htm,LOW
+2026-10-09T20:46:44+00:00,FORM_144,MA,Mastercard Incorporated,proposed sale $213K,213235,,https://www.sec.gov/Archives/edgar/data/1184231/000195004726010147/0001950047-26-010147-index.htm,LOW
+2026-10-09T20:46:45+00:00,FORM_144,WSM,"WILLIAMS-SONOMA, INC.",proposed sale $125K,124758,,https://www.sec.gov/Archives/edgar/data/1978268/000195004726010146/0001950047-26-010146-index.htm,LOW
+2026-10-09T20:46:45+00:00,FORM_144,EVER,"EverQuote, Inc.",proposed sale $28K,28330,,https://www.sec.gov/Archives/edgar/data/1744788/000195004726010145/0001950047-26-010145-index.htm,LOW
+2026-10-09T20:46:46+00:00,FORM_144,CHYM,CHIME FINANCIAL INC,proposed sale $1.45M,1448000,,https://www.sec.gov/Archives/edgar/data/2061219/000195004726010144/0001950047-26-010144-index.htm,LOW
+2026-10-09T20:46:46+00:00,FORM_144,EVER,"EverQuote, Inc.",proposed sale $33K,33038,,https://www.sec.gov/Archives/edgar/data/1744442/000195004726010143/0001950047-26-010143-index.htm,LOW
+2026-10-09T20:46:47+00:00,FORM_144,AFRM,"Affirm Holdings, Inc.",proposed sale $5.06M,5060345,,https://www.sec.gov/Archives/edgar/data/1820953/000195004726010142/0001950047-26-010142-index.htm,LOW
