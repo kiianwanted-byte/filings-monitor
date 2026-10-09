@@ -4313,3 +4313,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-09T20:21:39+00:00,FORM_144,SEZL,SEZZLE INC,proposed sale $17.58M,17583000,,https://www.sec.gov/Archives/edgar/data/2159160/000196858226001049/0001968582-26-001049-index.htm,LOW
 2026-10-09T20:21:39+00:00,FORM_144,GTM,ZoomInfo Technologies Inc,proposed sale $20K,20004,,https://www.sec.gov/Archives/edgar/data/2034804/000162828026065532/0001628280-26-065532-index.htm,LOW
 2026-10-09T20:21:40+00:00,FORM_144,VSAT,"VIASAT, INC.",proposed sale $852K,851629,,https://www.sec.gov/Archives/edgar/data/1864468/000195004726010137/0001950047-26-010137-index.htm,LOW
+2026-10-09T20:31:39+00:00,STAKE_13G,,Ionic Digital Inc.,Ionic Digital Inc. 10.0%,,,https://www.sec.gov/Archives/edgar/data/2007691/000090266426004122/0000902664-26-004122-index.htm,HIGH
