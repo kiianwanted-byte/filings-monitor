@@ -4284,3 +4284,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-09T13:46:35+00:00,INSIDER_BUY,PRTA,PROTHENA CORP PUBLIC LTD CO,SCULLY WILLIAM P $1.82M,1821054,2,https://www.sec.gov/Archives/edgar/data/1559053/000104546326000020/0001045463-26-000020-index.htm,MEDIUM
 2026-10-09T14:01:36+00:00,INSIDER_CLUSTER,BBD,BANK BRADESCO,Alvarez Rubens Aguiar $32.04M,32042484,38,https://www.sec.gov/Archives/edgar/data/2126531/000129281426004880/0001292814-26-004880-index.htm,HIGH
 2026-10-09T15:21:38+00:00,FORM_144,ZYME,Zymeworks Inc.,proposed sale $349K,349396,,https://www.sec.gov/Archives/edgar/data/2127119/000212711926000004/0002127119-26-000004-index.htm,LOW
+2026-10-09T16:06:37+00:00,INSIDER_BUY,N.A.,Calamos Aksia Private Equity & Alternatives Fund,Aksia LLC $910K,909653,280,https://www.sec.gov/Archives/edgar/data/2047442/000193993226000012/0001939932-26-000012-index.htm,MEDIUM
