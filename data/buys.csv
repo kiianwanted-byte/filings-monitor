@@ -1347,3 +1347,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-10-09T21:11:35+00:00,2026-10-07,AHRT,"AH Realty Trust, Inc.",Wimbush Frederick Blair,Director,1127,5.98,6736,2.3,0001569187-26-000158
 2026-10-09T21:21:33+00:00,2026-09-25,CINT,CI&T Inc,Gon Cesar Nivaldo,"Director, Chief Executive Officer, 10% owner",8816,2.90,25530,13.3,0001292814-26-004894
 2026-10-09T21:36:30+00:00,2026-10-07,MWA,"Mueller Water Products, Inc.",Healy Brian C.,Director,1376,21.75,29927,5.5,0001225208-26-008364
+2026-10-09T23:01:02+00:00,2026-10-07,SKYA,"SkyAI, Inc.",Bastion Trading Ltd,10% owner,44000,1.78,78262,3.2,0000921895-26-002775
