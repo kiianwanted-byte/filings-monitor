@@ -4291,3 +4291,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-09T17:01:31+00:00,FORM_144,BOX,BOX INC,proposed sale $622K,621560,,https://www.sec.gov/Archives/edgar/data/1606410/000195917326007321/0001959173-26-007321-index.htm,LOW
 2026-10-09T17:31:37+00:00,FORM_144,MDB,"MongoDB, Inc.",proposed sale $377K,376835,,https://www.sec.gov/Archives/edgar/data/1441816/000195779926000182/0001957799-26-000182-index.htm,LOW
 2026-10-09T18:01:31+00:00,INSIDER_CLUSTER,LCU,Lion Copper Corp.,Alford Tony L $13K,12830,2,https://www.sec.gov/Archives/edgar/data/1974775/000106299326005264/0001062993-26-005264-index.htm,HIGH
+2026-10-09T19:06:35+00:00,INSIDER_BUY,VDTA,Vertical Data Inc.,Leverton Jaime $255K,255000,59,https://www.sec.gov/Archives/edgar/data/2033264/000199805426000009/0001998054-26-000009-index.htm,MEDIUM
