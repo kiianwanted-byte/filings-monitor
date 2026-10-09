@@ -4287,3 +4287,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-09T16:06:37+00:00,INSIDER_BUY,N.A.,Calamos Aksia Private Equity & Alternatives Fund,Aksia LLC $910K,909653,280,https://www.sec.gov/Archives/edgar/data/2047442/000193993226000012/0001939932-26-000012-index.htm,MEDIUM
 2026-10-09T16:11:30+00:00,INSIDER_BUY,,Calamos Aksia Alternative Credit & Income Fund,Aksia LLC $561K,561471,280,https://www.sec.gov/Archives/edgar/data/1939932/000193993226000014/0001939932-26-000014-index.htm,LOW
 2026-10-09T16:11:31+00:00,INSIDER_BUY,,Calamos Aksia Hedged Strategies Fund,Aksia LLC $793K,792846,280,https://www.sec.gov/Archives/edgar/data/2063706/000193993226000013/0001939932-26-000013-index.htm,LOW
+2026-10-09T16:16:38+00:00,FORM_144,NCNO,"nCino, Inc.",proposed sale $875K,875440,,https://www.sec.gov/Archives/edgar/data/1902733/000195917326007320/0001959173-26-007320-index.htm,LOW
