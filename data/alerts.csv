@@ -4305,3 +4305,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-09T20:06:59+00:00,STAKE_13G,,Sotera Health Co,Sotera Health Co 0.0%,,,https://www.sec.gov/Archives/edgar/data/1822479/000110465926115029/0001104659-26-115029-index.htm,HIGH
 2026-10-09T20:11:48+00:00,FORM_144,JCI,JOHNSON CONTROLS INTERNATIONAL PLC,proposed sale $8.80M,8804198,,https://www.sec.gov/Archives/edgar/data/1652579/000195004726010136/0001950047-26-010136-index.htm,LOW
 2026-10-09T20:11:48+00:00,FORM_144,XYZ,"BLOCK, INC.",proposed sale $454K,454500,,https://www.sec.gov/Archives/edgar/data/1933928/000195004726010135/0001950047-26-010135-index.htm,LOW
+2026-10-09T20:16:42+00:00,FORM_144,PTCT,"PTC THERAPEUTICS, INC.",proposed sale $12K,12338,,https://www.sec.gov/Archives/edgar/data/1578852/000195917326007327/0001959173-26-007327-index.htm,LOW
+2026-10-09T20:16:43+00:00,FORM_144,SEZL,SEZZLE INC,proposed sale $41.03M,41027000,,https://www.sec.gov/Archives/edgar/data/2159160/000196858226001048/0001968582-26-001048-index.htm,MEDIUM
