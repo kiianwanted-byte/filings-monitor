@@ -4336,3 +4336,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-09T22:06:32+00:00,FORM_144,PANW,"Palo Alto Networks, Inc.",proposed sale $100K,99625,,https://www.sec.gov/Archives/edgar/data/1773301/000196858226001051/0001968582-26-001051-index.htm,LOW
 2026-10-09T22:16:28+00:00,FORM_144,OCGN,"Ocugen, Inc.",proposed sale $498K,497964,,https://www.sec.gov/Archives/edgar/data/1791820/000162828026065563/0001628280-26-065563-index.htm,LOW
 2026-10-09T22:16:28+00:00,FORM_144,VWAV,"VisionWave Holdings, Inc.",proposed sale $849K,848809,,https://www.sec.gov/Archives/edgar/data/2106599/000210659926000001/0002106599-26-000001-index.htm,LOW
+2026-10-09T22:31:35+00:00,FORM_144,PAGS,PagSeguro Digital Ltd.,proposed sale $5.42M,5418925,,https://www.sec.gov/Archives/edgar/data/2120783/000155485526002102/0001554855-26-002102-index.htm,LOW
