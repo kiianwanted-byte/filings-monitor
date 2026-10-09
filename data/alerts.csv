@@ -4334,3 +4334,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-09T21:06:31+00:00,INSIDER_CLUSTER,AHRT,"AH Realty Trust, Inc.",BIGMAN THEODORE $11K,11199,1,https://www.sec.gov/Archives/edgar/data/1569187/000156918726000156/0001569187-26-000156-index.htm,HIGH
 2026-10-09T21:16:31+00:00,FORM_144,CVSA,Covista Inc.,proposed sale $604K,603816,,https://www.sec.gov/Archives/edgar/data/1508595/000195824426000653/0001958244-26-000653-index.htm,LOW
 2026-10-09T22:06:32+00:00,FORM_144,PANW,"Palo Alto Networks, Inc.",proposed sale $100K,99625,,https://www.sec.gov/Archives/edgar/data/1773301/000196858226001051/0001968582-26-001051-index.htm,LOW
+2026-10-09T22:16:28+00:00,FORM_144,OCGN,"Ocugen, Inc.",proposed sale $498K,497964,,https://www.sec.gov/Archives/edgar/data/1791820/000162828026065563/0001628280-26-065563-index.htm,LOW
+2026-10-09T22:16:28+00:00,FORM_144,VWAV,"VisionWave Holdings, Inc.",proposed sale $849K,848809,,https://www.sec.gov/Archives/edgar/data/2106599/000210659926000001/0002106599-26-000001-index.htm,LOW
