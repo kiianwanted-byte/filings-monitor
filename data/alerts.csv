@@ -4281,3 +4281,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-08T23:56:32+00:00,FORM_144,HQY,"HEALTHEQUITY, INC.",proposed sale $98K,98447,,https://www.sec.gov/Archives/edgar/data/1683056/000168305626000022/0001683056-26-000022-index.htm,LOW
 2026-10-09T10:26:32+00:00,FORM_144,URGN,UroGen Pharma Ltd.,proposed sale $90K,89621,,https://www.sec.gov/Archives/edgar/data/1741968/000197640826000887/0001976408-26-000887-index.htm,LOW
 2026-10-09T10:31:33+00:00,INSIDER_BUY,GGR,Gogoro Inc.,Yin Chung-Yao $35.11M,35114297,2,https://www.sec.gov/Archives/edgar/data/1916103/000119312526418446/0001193125-26-418446-index.htm,HIGH
+2026-10-09T13:46:35+00:00,INSIDER_BUY,PRTA,PROTHENA CORP PUBLIC LTD CO,SCULLY WILLIAM P $1.82M,1821054,2,https://www.sec.gov/Archives/edgar/data/1559053/000104546326000020/0001045463-26-000020-index.htm,MEDIUM
