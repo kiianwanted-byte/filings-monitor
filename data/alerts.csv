@@ -4303,3 +4303,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-09T20:06:55+00:00,FORM_144,ATEX,ANTERIX INC.,proposed sale $401K,400606,,https://www.sec.gov/Archives/edgar/data/2090789/000195004726010132/0001950047-26-010132-index.htm,LOW
 2026-10-09T20:06:57+00:00,FORM_144,NTNX,"NUTANIX, INC.",proposed sale $258K,257860,,https://www.sec.gov/Archives/edgar/data/1819560/000195004726010131/0001950047-26-010131-index.htm,LOW
 2026-10-09T20:06:59+00:00,STAKE_13G,,Sotera Health Co,Sotera Health Co 0.0%,,,https://www.sec.gov/Archives/edgar/data/1822479/000110465926115029/0001104659-26-115029-index.htm,HIGH
+2026-10-09T20:11:48+00:00,FORM_144,JCI,JOHNSON CONTROLS INTERNATIONAL PLC,proposed sale $8.80M,8804198,,https://www.sec.gov/Archives/edgar/data/1652579/000195004726010136/0001950047-26-010136-index.htm,LOW
+2026-10-09T20:11:48+00:00,FORM_144,XYZ,"BLOCK, INC.",proposed sale $454K,454500,,https://www.sec.gov/Archives/edgar/data/1933928/000195004726010135/0001950047-26-010135-index.htm,LOW
