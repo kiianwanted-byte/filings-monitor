@@ -1335,3 +1335,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-10-09T16:11:31+00:00,2026-01-02,,Calamos Aksia Hedged Strategies Fund,Aksia LLC,,76827,10.32,792846,NEW,0001939932-26-000013
 2026-10-09T16:51:31+00:00,2026-10-08,FEAM,"5E Advanced Materials, Inc.",Weibel Paul Wesley III,Chief Executive Officer,7175,3.48,24971,32.4,0001911537-26-000009
 2026-10-09T17:51:32+00:00,2026-10-07,LCU,Lion Copper Corp.,SHARMAN MARK BRADY,Director,1000,4.39,4388,0.6,0001062993-26-005260
+2026-10-09T18:01:31+00:00,2026-10-07,LCU,Lion Copper Corp.,Alford Tony L,"Director, 10% owner",3000,4.28,12830,0.1,0001062993-26-005264
