@@ -1348,3 +1348,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-10-09T21:21:33+00:00,2026-09-25,CINT,CI&T Inc,Gon Cesar Nivaldo,"Director, Chief Executive Officer, 10% owner",8816,2.90,25530,13.3,0001292814-26-004894
 2026-10-09T21:36:30+00:00,2026-10-07,MWA,"Mueller Water Products, Inc.",Healy Brian C.,Director,1376,21.75,29927,5.5,0001225208-26-008364
 2026-10-09T23:01:02+00:00,2026-10-07,SKYA,"SkyAI, Inc.",Bastion Trading Ltd,10% owner,44000,1.78,78262,3.2,0000921895-26-002775
+2026-10-09T23:21:29+00:00,2026-10-08,LCU,Lion Copper Corp.,Alford Tony L,"Director, 10% owner",5600,4.01,22457,0.2,0001062993-26-005273
