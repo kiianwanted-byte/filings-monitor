@@ -4289,3 +4289,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-09T16:11:31+00:00,INSIDER_BUY,,Calamos Aksia Hedged Strategies Fund,Aksia LLC $793K,792846,280,https://www.sec.gov/Archives/edgar/data/2063706/000193993226000013/0001939932-26-000013-index.htm,LOW
 2026-10-09T16:16:38+00:00,FORM_144,NCNO,"nCino, Inc.",proposed sale $875K,875440,,https://www.sec.gov/Archives/edgar/data/1902733/000195917326007320/0001959173-26-007320-index.htm,LOW
 2026-10-09T17:01:31+00:00,FORM_144,BOX,BOX INC,proposed sale $622K,621560,,https://www.sec.gov/Archives/edgar/data/1606410/000195917326007321/0001959173-26-007321-index.htm,LOW
+2026-10-09T17:31:37+00:00,FORM_144,MDB,"MongoDB, Inc.",proposed sale $377K,376835,,https://www.sec.gov/Archives/edgar/data/1441816/000195779926000182/0001957799-26-000182-index.htm,LOW
