@@ -1350,3 +1350,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-10-09T23:01:02+00:00,2026-10-07,SKYA,"SkyAI, Inc.",Bastion Trading Ltd,10% owner,44000,1.78,78262,3.2,0000921895-26-002775
 2026-10-09T23:21:29+00:00,2026-10-08,LCU,Lion Copper Corp.,Alford Tony L,"Director, 10% owner",5600,4.01,22457,0.2,0001062993-26-005273
 2026-10-09T23:26:31+00:00,2026-10-09,NEOG,NEOGEN CORP,Nassif Mikheal,"Director, CEO",505,11.95,6034,47.0,0000711377-26-000029
+2026-10-10T01:11:32+00:00,2026-10-06,BPRE,Bluerock Private Real Estate Fund,KAMFAR RAMIN,Director,651063,13.06,8501526,55.4,0001398344-26-018110

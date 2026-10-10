@@ -4343,3 +4343,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-09T22:56:32+00:00,FORM_144,DELL,Dell Technologies Inc.,proposed sale $25.51M,25513467,,https://www.sec.gov/Archives/edgar/data/1767114/000119312526419262/0001193125-26-419262-index.htm,MEDIUM
 2026-10-09T23:01:34+00:00,FORM_144,DELL,Dell Technologies Inc.,proposed sale $14.65M,14648152,,https://www.sec.gov/Archives/edgar/data/1737659/000119312526419264/0001193125-26-419264-index.htm,LOW
 2026-10-09T23:21:30+00:00,FORM_144,DELL,Dell Technologies Inc.,proposed sale $1.03M,1034190,,https://www.sec.gov/Archives/edgar/data/1651403/000119312526419270/0001193125-26-419270-index.htm,LOW
+2026-10-10T01:11:32+00:00,INSIDER_CLUSTER,BPRE,Bluerock Private Real Estate Fund,KAMFAR RAMIN $8.50M,8501526,3,https://www.sec.gov/Archives/edgar/data/1551047/000139834426018110/0001398344-26-018110-index.htm,HIGH
