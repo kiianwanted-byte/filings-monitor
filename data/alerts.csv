@@ -4350,3 +4350,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-13T10:21:35+00:00,FORM_144,BIOE,BIO ESSENCE CORP.,proposed sale $148K,148500,,https://www.sec.gov/Archives/edgar/data/1990397/000121390026108646/0001213900-26-108646-index.htm,LOW
 2026-10-13T11:21:37+00:00,FORM_144,FERG,Ferguson Enterprises Inc. /DE/,proposed sale $772K,772200,,https://www.sec.gov/Archives/edgar/data/2011641/000195917326007330/0001959173-26-007330-index.htm,LOW
 2026-10-13T11:31:30+00:00,FORM_144,FERG,Ferguson Enterprises Inc. /DE/,proposed sale $1.31M,1309377,,https://www.sec.gov/Archives/edgar/data/2011641/000195917326007331/0001959173-26-007331-index.htm,LOW
+2026-10-13T11:36:30+00:00,FORM_144,TEN,TSAKOS ENERGY NAVIGATION LTD,proposed sale $266K,266000,,https://www.sec.gov/Archives/edgar/data/2052945/000205294526000005/0002052945-26-000005-index.htm,LOW
+2026-10-13T11:36:31+00:00,FORM_144,W,Wayfair Inc.,proposed sale $7.30M,7296885,,https://www.sec.gov/Archives/edgar/data/1620093/000195917326007332/0001959173-26-007332-index.htm,LOW
