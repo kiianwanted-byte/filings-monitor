@@ -4348,3 +4348,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-10T01:21:32+00:00,INSIDER_BUY,REF,Reformation Inc.,Coyle John Joseph $3.00M,3000000,70,https://www.sec.gov/Archives/edgar/data/2142660/000162828026065571/0001628280-26-065571-index.htm,MEDIUM
 2026-10-13T10:11:41+00:00,FORM_144,KNTK,Kinetik Holdings Inc.,proposed sale $2.09M,2092697,,https://www.sec.gov/Archives/edgar/data/1904934/000090514826004421/0000905148-26-004421-index.htm,LOW
 2026-10-13T10:21:35+00:00,FORM_144,BIOE,BIO ESSENCE CORP.,proposed sale $148K,148500,,https://www.sec.gov/Archives/edgar/data/1990397/000121390026108646/0001213900-26-108646-index.htm,LOW
+2026-10-13T11:21:37+00:00,FORM_144,FERG,Ferguson Enterprises Inc. /DE/,proposed sale $772K,772200,,https://www.sec.gov/Archives/edgar/data/2011641/000195917326007330/0001959173-26-007330-index.htm,LOW
