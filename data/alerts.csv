@@ -4466,3 +4466,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-13T21:06:34+00:00,FORM_144,SERA,"Sera Prognostics, Inc.",proposed sale $16K,16294,,https://www.sec.gov/Archives/edgar/data/2091798/000209179826000009/0002091798-26-000009-index.htm,LOW
 2026-10-13T21:41:40+00:00,FORM_144,FSLY,"Fastly, Inc.",proposed sale $287K,286890,,https://www.sec.gov/Archives/edgar/data/2074428/000151741326000302/0001517413-26-000302-index.htm,LOW
 2026-10-13T21:41:40+00:00,FORM_144,FRMI,Fermi Inc.,proposed sale $10.23M,10230000,,https://www.sec.gov/Archives/edgar/data/2071778/000195824426000657/0001958244-26-000657-index.htm,LOW
+2026-10-13T21:46:31+00:00,STAKE_13G,,"Surgery Partners, Inc.","Surgery Partners, Inc. 5.4%",,,https://www.sec.gov/Archives/edgar/data/1638833/000090514826004453/0000905148-26-004453-index.htm,HIGH
