@@ -4369,3 +4369,19 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-13T12:21:33+00:00,FORM_144,CYTK,"CYTOKINETICS, INCORPORATED",proposed sale $1.42M,1415475,,https://www.sec.gov/Archives/edgar/data/1288859/000195004726010157/0001950047-26-010157-index.htm,LOW
 2026-10-13T12:21:33+00:00,FORM_144,PATH,UIPATH INC,proposed sale $369K,369405,,https://www.sec.gov/Archives/edgar/data/1734722/000195004726010156/0001950047-26-010156-index.htm,LOW
 2026-10-13T12:21:34+00:00,FORM_144,SIBN,"SI-BONE, INC.",proposed sale $736K,736176,,https://www.sec.gov/Archives/edgar/data/1459839/000195004726010155/0001950047-26-010155-index.htm,LOW
+2026-10-13T12:26:33+00:00,FORM_144,ORKA,ORUKA THERAPEUTICS INC,proposed sale $821K,821017,,https://www.sec.gov/Archives/edgar/data/2033974/000195004726010177/0001950047-26-010177-index.htm,LOW
+2026-10-13T12:26:33+00:00,FORM_144,P,"Everpure, Inc.",proposed sale $7.72M,7724500,,https://www.sec.gov/Archives/edgar/data/1651902/000195004726010176/0001950047-26-010176-index.htm,LOW
+2026-10-13T12:26:34+00:00,FORM_144,P,"Everpure, Inc.",proposed sale $7.72M,7724500,,https://www.sec.gov/Archives/edgar/data/1651902/000195004726010175/0001950047-26-010175-index.htm,LOW
+2026-10-13T12:26:35+00:00,FORM_144,DBX,DROPBOX INC,proposed sale $1.01M,1013620,,https://www.sec.gov/Archives/edgar/data/1734563/000195004726010174/0001950047-26-010174-index.htm,LOW
+2026-10-13T12:26:36+00:00,FORM_144,CVNA,CARVANA CO,proposed sale $357K,356696,,https://www.sec.gov/Archives/edgar/data/1690820/000195004726010173/0001950047-26-010173-index.htm,LOW
+2026-10-13T12:26:36+00:00,FORM_144,FIG,FIGMA INC,proposed sale $4.50M,4500000,,https://www.sec.gov/Archives/edgar/data/2073592/000195004726010172/0001950047-26-010172-index.htm,LOW
+2026-10-13T12:26:37+00:00,FORM_144,ALMU,"Aeluma, Inc.",proposed sale $1.14M,1140000,,https://www.sec.gov/Archives/edgar/data/1869626/000195004726010171/0001950047-26-010171-index.htm,LOW
+2026-10-13T12:26:38+00:00,FORM_144,ZVRA,"Zevra Therapeutics, Inc.",proposed sale $228K,227800,,https://www.sec.gov/Archives/edgar/data/1681098/000195004726010170/0001950047-26-010170-index.htm,LOW
+2026-10-13T12:26:38+00:00,FORM_144,CRDO,Credo Technology Group Holding Ltd,proposed sale $333K,333487,,https://www.sec.gov/Archives/edgar/data/1807794/000195004726010169/0001950047-26-010169-index.htm,LOW
+2026-10-13T12:26:39+00:00,FORM_144,MA,Mastercard Incorporated,proposed sale $218K,217981,,https://www.sec.gov/Archives/edgar/data/1184231/000195004726010168/0001950047-26-010168-index.htm,LOW
+2026-10-13T12:26:41+00:00,FORM_144,P,"Everpure, Inc.",proposed sale $10.81M,10814300,,https://www.sec.gov/Archives/edgar/data/1474432/000195004726010167/0001950047-26-010167-index.htm,LOW
+2026-10-13T12:26:42+00:00,FORM_144,CRWV,"CoreWeave, Inc.",proposed sale $1.85M,1853284,,https://www.sec.gov/Archives/edgar/data/2058038/000195004726010166/0001950047-26-010166-index.htm,LOW
+2026-10-13T12:26:43+00:00,FORM_144,HTFL,"Heartflow, Inc.",proposed sale $1.93M,1928195,,https://www.sec.gov/Archives/edgar/data/1900415/000195917326007341/0001959173-26-007341-index.htm,LOW
+2026-10-13T12:26:45+00:00,FORM_144,WDAY,WORKDAY INC,proposed sale $171K,171289,,https://www.sec.gov/Archives/edgar/data/1602315/000195004726010165/0001950047-26-010165-index.htm,LOW
+2026-10-13T12:26:46+00:00,FORM_144,CORZ,"Core Scientific, Inc.",proposed sale $2.16M,2157400,,https://www.sec.gov/Archives/edgar/data/1839341/000195004726010164/0001950047-26-010164-index.htm,LOW
+2026-10-13T12:26:47+00:00,FORM_144,VTEX,VTEX,proposed sale $229K,229053,,https://www.sec.gov/Archives/edgar/data/1910504/000195004726010163/0001950047-26-010163-index.htm,LOW
