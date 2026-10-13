@@ -4410,3 +4410,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-13T12:56:32+00:00,FORM_144,PCOR,"PROCORE TECHNOLOGIES, INC.",proposed sale $3.15M,3153635,,https://www.sec.gov/Archives/edgar/data/1805735/000195004726010189/0001950047-26-010189-index.htm,LOW
 2026-10-13T12:56:32+00:00,FORM_144,BLLN,"BillionToOne, Inc.",proposed sale $1.56M,1563124,,https://www.sec.gov/Archives/edgar/data/2088549/000195917326007346/0001959173-26-007346-index.htm,LOW
 2026-10-13T13:01:48+00:00,FORM_144,BLLN,"BillionToOne, Inc.",proposed sale $260K,260325,,https://www.sec.gov/Archives/edgar/data/2088549/000195917326007347/0001959173-26-007347-index.htm,LOW
+2026-10-13T13:11:38+00:00,FORM_144,ACN,Accenture plc,proposed sale $150K,149965,,https://www.sec.gov/Archives/edgar/data/2080406/000196922326001071/0001969223-26-001071-index.htm,LOW
+2026-10-13T13:11:38+00:00,FORM_144,XMTR,"Xometry, Inc.",proposed sale $163K,163201,,https://www.sec.gov/Archives/edgar/data/2051034/000196922326001070/0001969223-26-001070-index.htm,LOW
