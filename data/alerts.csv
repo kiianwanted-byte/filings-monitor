@@ -4404,3 +4404,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-13T12:51:37+00:00,FORM_144,AAOI,"APPLIED OPTOELECTRONICS, INC.",proposed sale $411K,411485,,https://www.sec.gov/Archives/edgar/data/1587599/000197407826000378/0001974078-26-000378-index.htm,LOW
 2026-10-13T12:51:37+00:00,FORM_144,NTAP,"NETAPP, INC.",proposed sale $237K,237420,,https://www.sec.gov/Archives/edgar/data/1911064/000195004726010186/0001950047-26-010186-index.htm,LOW
 2026-10-13T12:51:38+00:00,FORM_144,ZM,"Zoom Communications, Inc.",proposed sale $843K,842617,,https://www.sec.gov/Archives/edgar/data/2040959/000195004726010185/0001950047-26-010185-index.htm,LOW
+2026-10-13T12:56:31+00:00,FORM_144,NTNX,"NUTANIX, INC.",proposed sale $17.35M,17349331,,https://www.sec.gov/Archives/edgar/data/1924910/000195004726010190/0001950047-26-010190-index.htm,LOW
+2026-10-13T12:56:31+00:00,FORM_144,MRX,Marex Group Limited,proposed sale $4.82M,4819285,,https://www.sec.gov/Archives/edgar/data/2057942/000195824426000655/0001958244-26-000655-index.htm,LOW
+2026-10-13T12:56:32+00:00,FORM_144,CSTL,"Castle Biosciences, Inc.",proposed sale $431K,430925,,https://www.sec.gov/Archives/edgar/data/1856542/000195824426000654/0001958244-26-000654-index.htm,LOW
+2026-10-13T12:56:32+00:00,FORM_144,PCOR,"PROCORE TECHNOLOGIES, INC.",proposed sale $3.15M,3153635,,https://www.sec.gov/Archives/edgar/data/1805735/000195004726010189/0001950047-26-010189-index.htm,LOW
+2026-10-13T12:56:32+00:00,FORM_144,BLLN,"BillionToOne, Inc.",proposed sale $1.56M,1563124,,https://www.sec.gov/Archives/edgar/data/2088549/000195917326007346/0001959173-26-007346-index.htm,LOW
