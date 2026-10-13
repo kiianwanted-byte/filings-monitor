@@ -4360,3 +4360,12 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-13T12:11:29+00:00,FORM_144,PLUS,EPLUS INC,proposed sale $15K,15000,,https://www.sec.gov/Archives/edgar/data/1444430/000196530126000156/0001965301-26-000156-index.htm,LOW
 2026-10-13T12:11:30+00:00,FORM_144,FERG,Ferguson Enterprises Inc. /DE/,proposed sale $406K,405543,,https://www.sec.gov/Archives/edgar/data/2011641/000195917326007337/0001959173-26-007337-index.htm,LOW
 2026-10-13T12:16:32+00:00,FORM_144,APOG,"APOGEE ENTERPRISES, INC.",proposed sale $219K,218981,,https://www.sec.gov/Archives/edgar/data/1663507/000195917326007339/0001959173-26-007339-index.htm,LOW
+2026-10-13T12:21:31+00:00,FORM_144,TEAM,ATLASSIAN CORPORATION,proposed sale $302K,301706,,https://www.sec.gov/Archives/edgar/data/1968118/000195004726010162/0001950047-26-010162-index.htm,LOW
+2026-10-13T12:21:31+00:00,FORM_144,VTEX,VTEX,proposed sale $229K,229053,,https://www.sec.gov/Archives/edgar/data/1968696/000195004726010161/0001950047-26-010161-index.htm,LOW
+2026-10-13T12:21:31+00:00,FORM_144,GME,GameStop Corp.,proposed sale $411K,411148,,https://www.sec.gov/Archives/edgar/data/1990547/000195004726010160/0001950047-26-010160-index.htm,LOW
+2026-10-13T12:21:32+00:00,FORM_144,FERG,Ferguson Enterprises Inc. /DE/,proposed sale $2.44M,2440702,,https://www.sec.gov/Archives/edgar/data/2011641/000195917326007340/0001959173-26-007340-index.htm,LOW
+2026-10-13T12:21:32+00:00,FORM_144,HNGE,"Hinge Health, Inc.",proposed sale $20.58M,20580000,,https://www.sec.gov/Archives/edgar/data/2062781/000195004726010159/0001950047-26-010159-index.htm,LOW
+2026-10-13T12:21:33+00:00,FORM_144,HNGE,"Hinge Health, Inc.",proposed sale $4.91M,4910388,,https://www.sec.gov/Archives/edgar/data/1673743/000195004726010158/0001950047-26-010158-index.htm,LOW
+2026-10-13T12:21:33+00:00,FORM_144,CYTK,"CYTOKINETICS, INCORPORATED",proposed sale $1.42M,1415475,,https://www.sec.gov/Archives/edgar/data/1288859/000195004726010157/0001950047-26-010157-index.htm,LOW
+2026-10-13T12:21:33+00:00,FORM_144,PATH,UIPATH INC,proposed sale $369K,369405,,https://www.sec.gov/Archives/edgar/data/1734722/000195004726010156/0001950047-26-010156-index.htm,LOW
+2026-10-13T12:21:34+00:00,FORM_144,SIBN,"SI-BONE, INC.",proposed sale $736K,736176,,https://www.sec.gov/Archives/edgar/data/1459839/000195004726010155/0001950047-26-010155-index.htm,LOW
