@@ -4355,3 +4355,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-13T11:46:45+00:00,FORM_144,W,Wayfair Inc.,proposed sale $625K,625320,,https://www.sec.gov/Archives/edgar/data/1620093/000195917326007334/0001959173-26-007334-index.htm,LOW
 2026-10-13T11:46:46+00:00,FORM_144,FERG,Ferguson Enterprises Inc. /DE/,proposed sale $686K,686406,,https://www.sec.gov/Archives/edgar/data/2011641/000195917326007333/0001959173-26-007333-index.htm,LOW
 2026-10-13T12:01:32+00:00,FORM_144,FERG,Ferguson Enterprises Inc. /DE/,proposed sale $346K,345609,,https://www.sec.gov/Archives/edgar/data/2074304/000195917326007335/0001959173-26-007335-index.htm,LOW
+2026-10-13T12:06:35+00:00,FORM_144,ABNB,"Airbnb, Inc.",proposed sale $2.25M,2248980,,https://www.sec.gov/Archives/edgar/data/1834147/000195917326007336/0001959173-26-007336-index.htm,LOW
