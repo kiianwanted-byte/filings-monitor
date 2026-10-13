@@ -4450,3 +4450,13 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-13T20:16:49+00:00,FORM_144,VINP,Vinci Partners Investments Ltd.,proposed sale $2.10M,2100659,,https://www.sec.gov/Archives/edgar/data/2028300/000196858226001053/0001968582-26-001053-index.htm,LOW
 2026-10-13T20:21:42+00:00,FORM_144,RELL,"RICHARDSON ELECTRONICS, LTD.",proposed sale $744K,743986,,https://www.sec.gov/Archives/edgar/data/1291981/000195917326007358/0001959173-26-007358-index.htm,LOW
 2026-10-13T20:21:43+00:00,FORM_144,PLUS,EPLUS INC,proposed sale $466K,466439,,https://www.sec.gov/Archives/edgar/data/1444430/000196530126000157/0001965301-26-000157-index.htm,LOW
+2026-10-13T20:31:31+00:00,INSIDER_BUY,TRXB,"TRex Bio, Inc.","SVLSF VI, LLC $1.30M",1299998,5,https://www.sec.gov/Archives/edgar/data/2139097/000182912626011084/0001829126-26-011084-index.htm,MEDIUM
+2026-10-13T20:31:37+00:00,FORM_144,CRDO,Credo Technology Group Holding Ltd,proposed sale $38.66M,38661700,,https://www.sec.gov/Archives/edgar/data/1896170/000195004726010206/0001950047-26-010206-index.htm,MEDIUM
+2026-10-13T20:31:38+00:00,FORM_144,CRWV,"CoreWeave, Inc.",proposed sale $1.73M,1731127,,https://www.sec.gov/Archives/edgar/data/2092880/000195004726010205/0001950047-26-010205-index.htm,LOW
+2026-10-13T20:31:39+00:00,FORM_144,MDB,"MONGODB, INC.",proposed sale $381K,381290,,https://www.sec.gov/Archives/edgar/data/1785447/000195004726010204/0001950047-26-010204-index.htm,LOW
+2026-10-13T20:31:39+00:00,FORM_144,CHYM,CHIME FINANCIAL INC,proposed sale $2.28M,2283750,,https://www.sec.gov/Archives/edgar/data/2061219/000195004726010203/0001950047-26-010203-index.htm,LOW
+2026-10-13T20:31:40+00:00,FORM_144,P,"Everpure, Inc.",proposed sale $31.06M,31062000,,https://www.sec.gov/Archives/edgar/data/1651902/000195004726010202/0001950047-26-010202-index.htm,MEDIUM
+2026-10-13T20:31:41+00:00,FORM_144,ZM,"Zoom Communications, Inc.",proposed sale $851K,851294,,https://www.sec.gov/Archives/edgar/data/1585521/000195004726010201/0001950047-26-010201-index.htm,LOW
+2026-10-13T20:31:41+00:00,FORM_144,PL,Planet Labs PBC,proposed sale $104K,103644,,https://www.sec.gov/Archives/edgar/data/2058452/000195004726010200/0001950047-26-010200-index.htm,LOW
+2026-10-13T20:31:42+00:00,FORM_144,CDXS,"CODEXIS, INC.",proposed sale $9K,8619,,https://www.sec.gov/Archives/edgar/data/1754937/000175493726000001/0001754937-26-000001-index.htm,LOW
+2026-10-13T20:31:42+00:00,FORM_144,KSS,KOHLS Corp,proposed sale $55K,54934,,https://www.sec.gov/Archives/edgar/data/1942745/000195917326007359/0001959173-26-007359-index.htm,LOW
