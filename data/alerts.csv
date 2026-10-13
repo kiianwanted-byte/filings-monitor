@@ -4417,3 +4417,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-13T13:31:33+00:00,FORM_144,MYO,"MYOMO, INC.",proposed sale $4K,4292,,https://www.sec.gov/Archives/edgar/data/1369290/000119312526419828/0001193125-26-419828-index.htm,LOW
 2026-10-13T13:56:35+00:00,FORM_144,VZ,VERIZON COMMUNICATIONS INC,proposed sale $47K,47223,,https://www.sec.gov/Archives/edgar/data/1760581/000195917326007349/0001959173-26-007349-index.htm,LOW
 2026-10-13T13:56:35+00:00,FORM_144,LIF,"Life360, Inc.",proposed sale $343K,343289,,https://www.sec.gov/Archives/edgar/data/1696247/000195917326007348/0001959173-26-007348-index.htm,LOW
+2026-10-13T14:01:35+00:00,FORM_144,ESTC,Elastic N.V.,proposed sale $191.04M,191040000,,https://www.sec.gov/Archives/edgar/data/1754844/000195824426000656/0001958244-26-000656-index.htm,MEDIUM
