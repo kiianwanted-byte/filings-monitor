@@ -4424,3 +4424,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-13T15:06:33+00:00,FORM_144,BLND,"Blend Labs, Inc.",proposed sale $24K,24474,,https://www.sec.gov/Archives/edgar/data/1870974/000192109426001086/0001921094-26-001086-index.htm,LOW
 2026-10-13T15:51:30+00:00,INSIDER_CLUSTER,WVVI,WILLAMETTE VALLEY VINEYARDS INC,Hazlett John Walter $20K,20204,4,https://www.sec.gov/Archives/edgar/data/2138032/000119983526000373/0001199835-26-000373-index.htm,HIGH
 2026-10-13T17:37:04+00:00,FORM_144,BIOF,"BLUE BIOFUELS, INC.",proposed sale $91K,90835,,https://www.sec.gov/Archives/edgar/data/1926933/000149315226046781/0001493152-26-046781-index.htm,LOW
+2026-10-13T18:06:31+00:00,FORM_144,RELL,"RICHARDSON ELECTRONICS, LTD.",proposed sale $323K,323454,,https://www.sec.gov/Archives/edgar/data/1191362/000195917326007350/0001959173-26-007350-index.htm,LOW
