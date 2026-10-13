@@ -4421,3 +4421,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-13T14:26:37+00:00,FORM_144,META,"Meta Platforms, Inc.",proposed sale $1.15M,1146757,,https://www.sec.gov/Archives/edgar/data/1564475/000192109426001084/0001921094-26-001084-index.htm,LOW
 2026-10-13T14:31:33+00:00,INSIDER_BUY,IIPR,INNOVATIVE INDUSTRIAL PROPERTIES INC,Gold Alan D $1.00M,1000000,5,https://www.sec.gov/Archives/edgar/data/1677576/000089706926001838/0000897069-26-001838-index.htm,MEDIUM
 2026-10-13T14:31:36+00:00,FORM_144,MAX,"MediaAlpha, Inc.",proposed sale $235K,235472,,https://www.sec.gov/Archives/edgar/data/1830016/000192109426001085/0001921094-26-001085-index.htm,LOW
+2026-10-13T15:06:33+00:00,FORM_144,BLND,"Blend Labs, Inc.",proposed sale $24K,24474,,https://www.sec.gov/Archives/edgar/data/1870974/000192109426001086/0001921094-26-001086-index.htm,LOW
