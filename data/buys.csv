@@ -1356,3 +1356,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-10-10T01:21:32+00:00,2026-07-31,REF,Reformation Inc.,Coyle John Joseph,Director,200000,15.00,3000000,301.6,0001628280-26-065571
 2026-10-13T11:04:17+00:00,2026-10-12,DLPN,"Dolphin Entertainment, Inc.",O'Dowd William IV,"Director, Chief Executive Officer, 10% owner",4700,1.02,4784,0.8,0001400253-26-000010
 2026-10-13T11:11:29+00:00,2026-09-16,API,"Agora, Inc.",Zhao Bin,"Director, Chief Executive Officer",167385,4.16,695746,8.6,0001193125-26-419691
+2026-10-13T11:16:29+00:00,2026-10-05,EP,EMPIRE PETROLEUM CORP,Mulacek Phil E,"Director, 10% owner",25127,2.71,68068,2.7,0001072613-26-000825
