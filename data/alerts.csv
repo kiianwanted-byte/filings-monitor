@@ -4395,3 +4395,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-13T12:41:32+00:00,FORM_144,NDAQ,"NASDAQ, INC.",proposed sale $106K,105896,,https://www.sec.gov/Archives/edgar/data/1736565/000195004726010180/0001950047-26-010180-index.htm,LOW
 2026-10-13T12:41:32+00:00,FORM_144,W,Wayfair Inc.,proposed sale $7.30M,7296886,,https://www.sec.gov/Archives/edgar/data/1620052/000195917326007344/0001959173-26-007344-index.htm,LOW
 2026-10-13T12:41:33+00:00,FORM_144,INKT,"MiNK Therapeutics, Inc.",proposed sale $73K,73274,,https://www.sec.gov/Archives/edgar/data/1840229/000197337926000350/0001973379-26-000350-index.htm,LOW
+2026-10-13T12:46:36+00:00,FORM_144,ZS,"ZSCALER, INC.",proposed sale $246K,245859,,https://www.sec.gov/Archives/edgar/data/2040014/000195004726010184/0001950047-26-010184-index.htm,LOW
+2026-10-13T12:46:37+00:00,FORM_144,W,Wayfair Inc.,proposed sale $625K,625320,,https://www.sec.gov/Archives/edgar/data/1620052/000195917326007345/0001959173-26-007345-index.htm,LOW
+2026-10-13T12:46:37+00:00,FORM_144,GWRE,"GUIDEWIRE SOFTWARE, INC.",proposed sale $203K,202764,,https://www.sec.gov/Archives/edgar/data/1784996/000195004726010183/0001950047-26-010183-index.htm,LOW
+2026-10-13T12:46:38+00:00,FORM_144,ZM,"Zoom Communications, Inc.",proposed sale $759K,758875,,https://www.sec.gov/Archives/edgar/data/1814012/000195004726010182/0001950047-26-010182-index.htm,LOW
