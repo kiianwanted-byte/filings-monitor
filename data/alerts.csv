@@ -4359,3 +4359,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-13T12:11:29+00:00,FORM_144,KGS,"Kodiak Gas Services, Inc.",proposed sale $53K,53250,,https://www.sec.gov/Archives/edgar/data/1971854/000195917326007338/0001959173-26-007338-index.htm,LOW
 2026-10-13T12:11:29+00:00,FORM_144,PLUS,EPLUS INC,proposed sale $15K,15000,,https://www.sec.gov/Archives/edgar/data/1444430/000196530126000156/0001965301-26-000156-index.htm,LOW
 2026-10-13T12:11:30+00:00,FORM_144,FERG,Ferguson Enterprises Inc. /DE/,proposed sale $406K,405543,,https://www.sec.gov/Archives/edgar/data/2011641/000195917326007337/0001959173-26-007337-index.htm,LOW
+2026-10-13T12:16:32+00:00,FORM_144,APOG,"APOGEE ENTERPRISES, INC.",proposed sale $219K,218981,,https://www.sec.gov/Archives/edgar/data/1663507/000195917326007339/0001959173-26-007339-index.htm,LOW
