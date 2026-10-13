@@ -4409,3 +4409,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-13T12:56:32+00:00,FORM_144,CSTL,"Castle Biosciences, Inc.",proposed sale $431K,430925,,https://www.sec.gov/Archives/edgar/data/1856542/000195824426000654/0001958244-26-000654-index.htm,LOW
 2026-10-13T12:56:32+00:00,FORM_144,PCOR,"PROCORE TECHNOLOGIES, INC.",proposed sale $3.15M,3153635,,https://www.sec.gov/Archives/edgar/data/1805735/000195004726010189/0001950047-26-010189-index.htm,LOW
 2026-10-13T12:56:32+00:00,FORM_144,BLLN,"BillionToOne, Inc.",proposed sale $1.56M,1563124,,https://www.sec.gov/Archives/edgar/data/2088549/000195917326007346/0001959173-26-007346-index.htm,LOW
+2026-10-13T13:01:48+00:00,FORM_144,BLLN,"BillionToOne, Inc.",proposed sale $260K,260325,,https://www.sec.gov/Archives/edgar/data/2088549/000195917326007347/0001959173-26-007347-index.htm,LOW
