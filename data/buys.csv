@@ -1394,3 +1394,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-10-13T19:36:32+00:00,2026-10-08,"HEI, HEI.A",HEICO CORP,Hildebrandt Mark H,Director,795,220.30,175141,1.6,0001445233-26-000002
 2026-10-13T20:06:32+00:00,2026-10-08,SWZ,Total Return Securities Fund,GOLDSTEIN PHILLIP,"Director, Secretary",5000,5.73,28637,4.2,0001398344-26-018160
 2026-10-13T20:11:39+00:00,2026-10-13,GME,GameStop Corp.,Cohen Ryan,"Director, President, CEO and Chairman",844130,26.98,22774727,2.0,0000921895-26-002784
+2026-10-13T20:26:35+00:00,2026-10-09,AVO,"Mission Produce, Inc.",Gonzalez Luis A,Director,52022,11.43,594785,0.7,0001825885-26-000008
