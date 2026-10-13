@@ -4428,3 +4428,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-13T18:16:34+00:00,FORM_144,APOG,"APOGEE ENTERPRISES, INC.",proposed sale $1.03M,1030546,,https://www.sec.gov/Archives/edgar/data/1663507/000195917326007351/0001959173-26-007351-index.htm,LOW
 2026-10-13T19:01:31+00:00,FORM_144,AI,C3 AI INC,proposed sale $247K,247400,,https://www.sec.gov/Archives/edgar/data/2014154/000162828026065655/0001628280-26-065655-index.htm,LOW
 2026-10-13T19:06:30+00:00,INSIDER_CLUSTER,FEAM,"5E Advanced Materials, Inc.",vant Hoff Graham $215K,215400,5,https://www.sec.gov/Archives/edgar/data/1888654/000182934026000011/0001829340-26-000011-index.htm,HIGH
+2026-10-13T19:16:38+00:00,FORM_144,LTH,"Life Time Group Holdings, Inc.",proposed sale $230K,230146,,https://www.sec.gov/Archives/edgar/data/1923538/000195917326007352/0001959173-26-007352-index.htm,LOW
