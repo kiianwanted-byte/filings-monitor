@@ -4460,3 +4460,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-13T20:31:41+00:00,FORM_144,PL,Planet Labs PBC,proposed sale $104K,103644,,https://www.sec.gov/Archives/edgar/data/2058452/000195004726010200/0001950047-26-010200-index.htm,LOW
 2026-10-13T20:31:42+00:00,FORM_144,CDXS,"CODEXIS, INC.",proposed sale $9K,8619,,https://www.sec.gov/Archives/edgar/data/1754937/000175493726000001/0001754937-26-000001-index.htm,LOW
 2026-10-13T20:31:42+00:00,FORM_144,KSS,KOHLS Corp,proposed sale $55K,54934,,https://www.sec.gov/Archives/edgar/data/1942745/000195917326007359/0001959173-26-007359-index.htm,LOW
+2026-10-13T20:36:42+00:00,FORM_144,CDXS,"CODEXIS, INC.",proposed sale $9K,8619,,https://www.sec.gov/Archives/edgar/data/1557930/000155793026000001/0001557930-26-000001-index.htm,LOW
