@@ -4468,3 +4468,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-13T21:41:40+00:00,FORM_144,FRMI,Fermi Inc.,proposed sale $10.23M,10230000,,https://www.sec.gov/Archives/edgar/data/2071778/000195824426000657/0001958244-26-000657-index.htm,LOW
 2026-10-13T21:46:31+00:00,STAKE_13G,,"Surgery Partners, Inc.","Surgery Partners, Inc. 5.4%",,,https://www.sec.gov/Archives/edgar/data/1638833/000090514826004453/0000905148-26-004453-index.htm,HIGH
 2026-10-13T22:16:34+00:00,INSIDER_CLUSTER,RTSN,"Retension Pharmaceuticals, Inc.",Keller Eric L. $250K,249600,0,https://www.sec.gov/Archives/edgar/data/2156365/000121390026109160/0001213900-26-109160-index.htm,HIGH
+2026-10-13T22:21:34+00:00,FORM_144,PANW,Palo Alto Networks Inc,proposed sale $201.40M,201400000,,https://www.sec.gov/Archives/edgar/data/1468233/000119312526420726/0001193125-26-420726-index.htm,MEDIUM
