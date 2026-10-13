@@ -4462,3 +4462,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-13T20:31:42+00:00,FORM_144,KSS,KOHLS Corp,proposed sale $55K,54934,,https://www.sec.gov/Archives/edgar/data/1942745/000195917326007359/0001959173-26-007359-index.htm,LOW
 2026-10-13T20:36:42+00:00,FORM_144,CDXS,"CODEXIS, INC.",proposed sale $9K,8619,,https://www.sec.gov/Archives/edgar/data/1557930/000155793026000001/0001557930-26-000001-index.htm,LOW
 2026-10-13T20:41:39+00:00,FORM_144,RPAY,Repay Holdings Corp,proposed sale $34K,33578,,https://www.sec.gov/Archives/edgar/data/1787173/000196530126000158/0001965301-26-000158-index.htm,LOW
+2026-10-13T21:01:40+00:00,FORM_144,PVLA,"PALVELLA THERAPEUTICS, INC.",proposed sale $3.70M,3695450,,https://www.sec.gov/Archives/edgar/data/1583648/000196794026000053/0001967940-26-000053-index.htm,LOW
