@@ -4385,3 +4385,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-13T12:26:45+00:00,FORM_144,WDAY,WORKDAY INC,proposed sale $171K,171289,,https://www.sec.gov/Archives/edgar/data/1602315/000195004726010165/0001950047-26-010165-index.htm,LOW
 2026-10-13T12:26:46+00:00,FORM_144,CORZ,"Core Scientific, Inc.",proposed sale $2.16M,2157400,,https://www.sec.gov/Archives/edgar/data/1839341/000195004726010164/0001950047-26-010164-index.htm,LOW
 2026-10-13T12:26:47+00:00,FORM_144,VTEX,VTEX,proposed sale $229K,229053,,https://www.sec.gov/Archives/edgar/data/1910504/000195004726010163/0001950047-26-010163-index.htm,LOW
+2026-10-13T12:31:36+00:00,INSIDER_BUY,SAR,SARATOGA INVESTMENT CORP.,Oberbeck Christian L $446K,445800,5,https://www.sec.gov/Archives/edgar/data/1377936/000121390026108753/0001213900-26-108753-index.htm,MEDIUM
+2026-10-13T12:31:38+00:00,INSIDER_BUY,BORR,Borr Drilling Ltd,Troim Tor Olav $11.84M,11843500,4,https://www.sec.gov/Archives/edgar/data/1715497/000162828026065603/0001628280-26-065603-index.htm,HIGH
+2026-10-13T12:31:39+00:00,FORM_144,CRDO,CREDO TECHNOLOGY GROUP HOLDING LTD,proposed sale $765K,764954,,https://www.sec.gov/Archives/edgar/data/1896170/000195004726010178/0001950047-26-010178-index.htm,LOW
+2026-10-13T12:31:39+00:00,FORM_144,CRC,California Resources Corp,proposed sale $643K,642978,,https://www.sec.gov/Archives/edgar/data/1860787/000195917326007342/0001959173-26-007342-index.htm,LOW
