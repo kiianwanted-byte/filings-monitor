@@ -4389,3 +4389,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-13T12:31:38+00:00,INSIDER_BUY,BORR,Borr Drilling Ltd,Troim Tor Olav $11.84M,11843500,4,https://www.sec.gov/Archives/edgar/data/1715497/000162828026065603/0001628280-26-065603-index.htm,HIGH
 2026-10-13T12:31:39+00:00,FORM_144,CRDO,CREDO TECHNOLOGY GROUP HOLDING LTD,proposed sale $765K,764954,,https://www.sec.gov/Archives/edgar/data/1896170/000195004726010178/0001950047-26-010178-index.htm,LOW
 2026-10-13T12:31:39+00:00,FORM_144,CRC,California Resources Corp,proposed sale $643K,642978,,https://www.sec.gov/Archives/edgar/data/1860787/000195917326007342/0001959173-26-007342-index.htm,LOW
+2026-10-13T12:36:36+00:00,FORM_144,BETA,"BETA Technologies, Inc.",proposed sale $199K,199079,,https://www.sec.gov/Archives/edgar/data/2090083/000195917326007343/0001959173-26-007343-index.htm,LOW
+2026-10-13T12:36:37+00:00,FORM_144,CRWV,"COREWEAVE, INC.",proposed sale $1.27M,1270651,,https://www.sec.gov/Archives/edgar/data/2092880/000195004726010179/0001950047-26-010179-index.htm,LOW
