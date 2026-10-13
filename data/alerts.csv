@@ -4391,3 +4391,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-13T12:31:39+00:00,FORM_144,CRC,California Resources Corp,proposed sale $643K,642978,,https://www.sec.gov/Archives/edgar/data/1860787/000195917326007342/0001959173-26-007342-index.htm,LOW
 2026-10-13T12:36:36+00:00,FORM_144,BETA,"BETA Technologies, Inc.",proposed sale $199K,199079,,https://www.sec.gov/Archives/edgar/data/2090083/000195917326007343/0001959173-26-007343-index.htm,LOW
 2026-10-13T12:36:37+00:00,FORM_144,CRWV,"COREWEAVE, INC.",proposed sale $1.27M,1270651,,https://www.sec.gov/Archives/edgar/data/2092880/000195004726010179/0001950047-26-010179-index.htm,LOW
+2026-10-13T12:41:31+00:00,FORM_144,MSCI,MSCI INC.,proposed sale $256K,256500,,https://www.sec.gov/Archives/edgar/data/1769683/000195004726010181/0001950047-26-010181-index.htm,LOW
+2026-10-13T12:41:32+00:00,FORM_144,NDAQ,"NASDAQ, INC.",proposed sale $106K,105896,,https://www.sec.gov/Archives/edgar/data/1736565/000195004726010180/0001950047-26-010180-index.htm,LOW
+2026-10-13T12:41:32+00:00,FORM_144,W,Wayfair Inc.,proposed sale $7.30M,7296886,,https://www.sec.gov/Archives/edgar/data/1620052/000195917326007344/0001959173-26-007344-index.htm,LOW
+2026-10-13T12:41:33+00:00,FORM_144,INKT,"MiNK Therapeutics, Inc.",proposed sale $73K,73274,,https://www.sec.gov/Archives/edgar/data/1840229/000197337926000350/0001973379-26-000350-index.htm,LOW
