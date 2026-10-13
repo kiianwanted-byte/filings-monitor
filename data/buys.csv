@@ -1354,3 +1354,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-10-10T01:21:29+00:00,2026-07-31,REF,Reformation Inc.,Kleine Brigitte,Director,200,15.00,3000,2.1,0001628280-26-065573
 2026-10-10T01:21:30+00:00,2026-07-31,REF,Reformation Inc.,Allen Zipporah,Director,3500,15.00,52500,37.5,0001628280-26-065572
 2026-10-10T01:21:32+00:00,2026-07-31,REF,Reformation Inc.,Coyle John Joseph,Director,200000,15.00,3000000,301.6,0001628280-26-065571
+2026-10-13T11:04:17+00:00,2026-10-12,DLPN,"Dolphin Entertainment, Inc.",O'Dowd William IV,"Director, Chief Executive Officer, 10% owner",4700,1.02,4784,0.8,0001400253-26-000010
