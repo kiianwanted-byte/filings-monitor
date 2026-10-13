@@ -4431,3 +4431,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-13T19:16:38+00:00,FORM_144,LTH,"Life Time Group Holdings, Inc.",proposed sale $230K,230146,,https://www.sec.gov/Archives/edgar/data/1923538/000195917326007352/0001959173-26-007352-index.htm,LOW
 2026-10-13T19:21:40+00:00,FORM_144,ARQQ,Arqit Quantum Inc.,proposed sale $42K,42207,,https://www.sec.gov/Archives/edgar/data/2035890/000195917326007353/0001959173-26-007353-index.htm,LOW
 2026-10-13T19:26:31+00:00,FORM_144,KSS,KOHLS Corp,proposed sale $101K,100936,,https://www.sec.gov/Archives/edgar/data/1595040/000195917326007354/0001959173-26-007354-index.htm,LOW
+2026-10-13T19:31:32+00:00,INSIDER_CLUSTER,"HEI, HEI.A",HEICO CORP,Neitzel Julie $175K,174601,5,https://www.sec.gov/Archives/edgar/data/1620811/000162081126000006/0001620811-26-000006-index.htm,HIGH
+2026-10-13T19:31:34+00:00,INSIDER_CLUSTER,"HEI, HEI.A",HEICO CORP,HENRIQUES ADOLFO $175K,175141,5,https://www.sec.gov/Archives/edgar/data/1181803/000118180326000002/0001181803-26-000002-index.htm,HIGH
+2026-10-13T19:31:36+00:00,FORM_144,COST,COSTCO WHOLESALE CORP /NEW,proposed sale $1.05M,1054025,,https://www.sec.gov/Archives/edgar/data/2087546/000195917326007355/0001959173-26-007355-index.htm,LOW
