@@ -4464,3 +4464,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-13T20:41:39+00:00,FORM_144,RPAY,Repay Holdings Corp,proposed sale $34K,33578,,https://www.sec.gov/Archives/edgar/data/1787173/000196530126000158/0001965301-26-000158-index.htm,LOW
 2026-10-13T21:01:40+00:00,FORM_144,PVLA,"PALVELLA THERAPEUTICS, INC.",proposed sale $3.70M,3695450,,https://www.sec.gov/Archives/edgar/data/1583648/000196794026000053/0001967940-26-000053-index.htm,LOW
 2026-10-13T21:06:34+00:00,FORM_144,SERA,"Sera Prognostics, Inc.",proposed sale $16K,16294,,https://www.sec.gov/Archives/edgar/data/2091798/000209179826000009/0002091798-26-000009-index.htm,LOW
+2026-10-13T21:41:40+00:00,FORM_144,FSLY,"Fastly, Inc.",proposed sale $287K,286890,,https://www.sec.gov/Archives/edgar/data/2074428/000151741326000302/0001517413-26-000302-index.htm,LOW
+2026-10-13T21:41:40+00:00,FORM_144,FRMI,Fermi Inc.,proposed sale $10.23M,10230000,,https://www.sec.gov/Archives/edgar/data/2071778/000195824426000657/0001958244-26-000657-index.htm,LOW
