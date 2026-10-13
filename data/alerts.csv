@@ -4471,3 +4471,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-13T22:21:34+00:00,FORM_144,PANW,Palo Alto Networks Inc,proposed sale $201.40M,201400000,,https://www.sec.gov/Archives/edgar/data/1468233/000119312526420726/0001193125-26-420726-index.htm,MEDIUM
 2026-10-13T22:36:35+00:00,FORM_144,JOBY,"Joby Aviation, Inc.",proposed sale $42K,42146,,https://www.sec.gov/Archives/edgar/data/1877282/000181984826000517/0001819848-26-000517-index.htm,LOW
 2026-10-13T23:21:28+00:00,INSIDER_BUY,CTNT,CHEETAH NET SUPPLY CHAIN SERVICE INC.,Liu Huan $330K,330000,4,https://www.sec.gov/Archives/edgar/data/1991920/000110465926115608/0001104659-26-115608-index.htm,MEDIUM
+2026-10-13T23:36:31+00:00,FORM_144,LWAY,"Lifeway Foods, Inc.",proposed sale $679K,679080,,https://www.sec.gov/Archives/edgar/data/1227847/000122784726000021/0001227847-26-000021-index.htm,LOW
