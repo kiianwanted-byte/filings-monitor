@@ -1399,3 +1399,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-10-13T20:31:31+00:00,2026-10-08,TRXB,"TRex Bio, Inc.","SVLSF VI, LLC",10% owner,92857,14.00,1299998,NEW,0001829126-26-011084
 2026-10-13T21:26:33+00:00,2026-10-09,CINT,CI&T Inc,Martins Fernando Matt Borges,"Director, 10% owner",132,3.08,406,0.7,0001292814-26-004908
 2026-10-13T21:46:29+00:00,2026-10-08,GRCE,"Grace Therapeutics, Inc.",Opaleye Management Inc.,10% owner,14632,2.03,29682,0.5,0001493152-26-046899
+2026-10-13T22:11:33+00:00,2026-10-13,RTSN,"Retension Pharmaceuticals, Inc.",BERGER FRANKLIN M,Director,10000,12.00,120000,NEW,0001213900-26-109155
