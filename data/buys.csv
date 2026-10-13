@@ -1358,3 +1358,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-10-13T11:11:29+00:00,2026-09-16,API,"Agora, Inc.",Zhao Bin,"Director, Chief Executive Officer",167385,4.16,695746,8.6,0001193125-26-419691
 2026-10-13T11:16:29+00:00,2026-10-05,EP,EMPIRE PETROLEUM CORP,Mulacek Phil E,"Director, 10% owner",25127,2.71,68068,2.7,0001072613-26-000825
 2026-10-13T11:36:30+00:00,2026-10-07,ALP,Alpha Compute Corp,Villani Fiorenzo,"Director, See Remarks",5150,3.80,19570,10.5,0001171843-26-006594
+2026-10-13T12:01:30+00:00,2026-10-09,UXIN,Uxin Ltd,Dai Kun,"Director, Chief Executive Officer",18827,1.14,21445,29.6,0001493152-26-046736
