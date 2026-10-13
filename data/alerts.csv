@@ -4447,3 +4447,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-13T20:11:39+00:00,INSIDER_CLUSTER,GME,GameStop Corp.,Cohen Ryan $22.77M,22774727,0,https://www.sec.gov/Archives/edgar/data/1767470/000092189526002784/0000921895-26-002784-index.htm,HIGH
 2026-10-13T20:11:42+00:00,FORM_144,MLYS,"Mineralys Therapeutics, Inc.",proposed sale $78K,78065,,https://www.sec.gov/Archives/edgar/data/1933414/000196430626000466/0001964306-26-000466-index.htm,LOW
 2026-10-13T20:11:43+00:00,FORM_144,APLD,APPLIED DIGITAL CORPORATION,proposed sale $1.40M,1402500,,https://www.sec.gov/Archives/edgar/data/1166816/000195004726010199/0001950047-26-010199-index.htm,LOW
+2026-10-13T20:16:49+00:00,FORM_144,VINP,Vinci Partners Investments Ltd.,proposed sale $2.10M,2100659,,https://www.sec.gov/Archives/edgar/data/2028300/000196858226001053/0001968582-26-001053-index.htm,LOW
