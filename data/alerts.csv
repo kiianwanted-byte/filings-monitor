@@ -4477,3 +4477,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-14T01:01:35+00:00,FORM_144,CUE,"CUE BIOPHARMA, INC.",proposed sale $305K,305490,,https://www.sec.gov/Archives/edgar/data/1725092/000172509226000017/0001725092-26-000017-index.htm,LOW
 2026-10-14T01:21:31+00:00,FORM_144,DAIC,"CID Holdco, Inc.",proposed sale $4.53M,4532964,,https://www.sec.gov/Archives/edgar/data/2156811/000010362326000044/0000103623-26-000044-index.htm,LOW
 2026-10-14T01:36:29+00:00,FORM_144,KNTK,Kinetik Holdings Inc.,proposed sale $111.10M,111100000,,https://www.sec.gov/Archives/edgar/data/1904934/000090514826004457/0000905148-26-004457-index.htm,MEDIUM
+2026-10-14T12:01:30+00:00,FORM_144,CSAI,"CLOUDASTRUCTURE, INC.",proposed sale $38K,38250,,https://www.sec.gov/Archives/edgar/data/2044249/000168316826007831/0001683168-26-007831-index.htm,LOW
