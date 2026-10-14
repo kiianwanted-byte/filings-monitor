@@ -3068,3 +3068,27 @@ timestamp,chamber,member,ticker,asset,action,amount_low,amount_high,trade_date,f
 2026-10-13T21:30:02+00:00,House,Lisa McClain,OLN,Olin Corporation Common Stock,BUY,15001,50000,2026-09-14,2026-10-12,28,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035585.pdf
 2026-10-13T21:30:02+00:00,House,Lisa McClain,STX,Seagate Technology Holdings PLC,SELL (partial),15001,50000,2026-09-30,2026-10-12,12,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035585.pdf
 2026-10-13T21:30:02+00:00,House,Lisa McClain,RIG,Transocean Ltd,BUY,15001,50000,2026-09-14,2026-10-12,28,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035585.pdf
+2026-10-14T19:38:57+00:00,House,Daniel Meuser,NVDA,NVIDIA Corporation - Common Stock,SELL (partial),1001,15000,2026-08-31,2026-10-14,44,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035487.pdf
+2026-10-14T19:38:59+00:00,House,Kevin Hern,CVX,Chevron Corporation Common Stock,SELL (partial),15001,50000,2026-09-23,2026-10-13,20,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf
+2026-10-14T19:38:59+00:00,House,Kevin Hern,CB,Chubb Limited Common Stock,SELL,1001,15000,2026-09-23,2026-10-13,20,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf
+2026-10-14T19:38:59+00:00,House,Kevin Hern,DVN,Devon Energy Corporation Common,SELL,50001,100000,2026-09-23,2026-10-13,20,MEDIUM,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf
+2026-10-14T19:38:59+00:00,House,Kevin Hern,DVN,Devon Energy Corporation Common,SELL (partial),15001,50000,2026-09-23,2026-10-13,20,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf
+2026-10-14T19:38:59+00:00,House,Kevin Hern,EMR,Emerson Electric Company Common,SELL (partial),15001,50000,2026-09-17,2026-10-13,26,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf
+2026-10-14T19:38:59+00:00,House,Kevin Hern,,GRADY CNTY OKLA SCH FIN AUH,BUY,15001,50000,2026-09-18,2026-10-13,25,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf
+2026-10-14T19:38:59+00:00,House,Kevin Hern,HD,"Home Depot, Inc",SELL,1001,15000,2026-09-23,2026-10-13,20,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf
+2026-10-14T19:38:59+00:00,House,Kevin Hern,LIN,Linde plc - Ordinary Shares,SELL (partial),15001,50000,2026-09-17,2026-10-13,26,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf
+2026-10-14T19:38:59+00:00,House,Kevin Hern,LMT,Lockheed Martin Corporation,SELL (partial),15001,50000,2026-09-17,2026-10-13,26,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf
+2026-10-14T19:38:59+00:00,House,Kevin Hern,LMT,Lockheed Martin Corporation,SELL (partial),15001,50000,2026-09-23,2026-10-13,20,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf
+2026-10-14T19:38:59+00:00,House,Kevin Hern,LMT,Lockheed Martin Corporation,SELL,15001,50000,2026-09-23,2026-10-13,20,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf
+2026-10-14T19:38:59+00:00,House,Kevin Hern,LOW,"Lowe's Companies, Inc. Common",SELL (partial),1001,15000,2026-09-17,2026-10-13,26,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf
+2026-10-14T19:38:59+00:00,House,Kevin Hern,MRSH,Marsh Common Stock,SELL (partial),50001,100000,2026-09-17,2026-10-13,26,MEDIUM,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf
+2026-10-14T19:38:59+00:00,House,Kevin Hern,MRSH,Marsh Common Stock,SELL,50001,100000,2026-09-23,2026-10-13,20,MEDIUM,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf
+2026-10-14T19:38:59+00:00,House,Kevin Hern,,MAYES CNTY OKLA PUB FACS,BUY,15001,50000,2026-09-18,2026-10-13,25,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf
+2026-10-14T19:38:59+00:00,House,Kevin Hern,NEE,"NextEra Energy, Inc. Common Stock",SELL,15001,50000,2026-10-02,2026-10-13,11,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf
+2026-10-14T19:38:59+00:00,House,Kevin Hern,,OKLAHOMA DEPT TRANSN REV,BUY,15001,50000,2026-09-21,2026-10-13,22,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf
+2026-10-14T19:38:59+00:00,House,Kevin Hern,,PONTOTOC CNTY OKLA EDL FACS,BUY,50001,100000,2026-09-21,2026-10-13,22,MEDIUM,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf
+2026-10-14T19:38:59+00:00,House,Kevin Hern,ROK,"Rockwell Automation, Inc. Common",SELL (partial),15001,50000,2026-09-17,2026-10-13,26,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf
+2026-10-14T19:38:59+00:00,House,Kevin Hern,SBUX,Starbucks Corporation - Common,SELL,15001,50000,2026-09-23,2026-10-13,20,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf
+2026-10-14T19:38:59+00:00,House,Kevin Hern,,TULSA OKLA MET UTIL AUTH,BUY,15001,50000,2026-09-18,2026-10-13,25,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf
+2026-10-14T19:38:59+00:00,House,Kevin Hern,UNH,UnitedHealth Group Incorporated,SELL,15001,50000,2026-09-23,2026-10-13,20,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf
+2026-10-14T19:38:59+00:00,House,Kevin Hern,,Virtus Artificial Intelligence &,SELL,15001,50000,2026-09-23,2026-10-13,20,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf
