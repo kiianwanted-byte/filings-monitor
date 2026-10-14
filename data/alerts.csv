@@ -4487,3 +4487,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-14T14:01:46+00:00,FORM_144,FERG,Ferguson Enterprises Inc. /DE/,proposed sale $151K,151131,,https://www.sec.gov/Archives/edgar/data/2011641/000195917326007362/0001959173-26-007362-index.htm,LOW
 2026-10-14T14:06:43+00:00,FORM_144,FERG,Ferguson Enterprises Inc. /DE/,proposed sale $22K,21842,,https://www.sec.gov/Archives/edgar/data/2011641/000195917326007364/0001959173-26-007364-index.htm,LOW
 2026-10-14T14:11:39+00:00,FORM_144,FERG,Ferguson Enterprises Inc. /DE/,proposed sale $44K,44346,,https://www.sec.gov/Archives/edgar/data/2074304/000195917326007365/0001959173-26-007365-index.htm,LOW
+2026-10-14T14:26:33+00:00,FORM_144,PACS,"PACS Group, Inc.",proposed sale $5.00M,5004565,,https://www.sec.gov/Archives/edgar/data/2014275/000194984626000610/0001949846-26-000610-index.htm,LOW
