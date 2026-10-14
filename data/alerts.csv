@@ -4492,3 +4492,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-14T16:36:30+00:00,FORM_144,BLLN,"BillionToOne, Inc.",proposed sale $261K,261366,,https://www.sec.gov/Archives/edgar/data/2088549/000195917326007366/0001959173-26-007366-index.htm,LOW
 2026-10-14T17:11:31+00:00,FORM_144,NDSN,NORDSON CORP,proposed sale $83K,83436,,https://www.sec.gov/Archives/edgar/data/1454309/000100027526000115/0001000275-26-000115-index.htm,LOW
 2026-10-14T17:56:38+00:00,FORM_144,PGNY,"Progyny, Inc.",proposed sale $53K,52612,,https://www.sec.gov/Archives/edgar/data/2066495/000195917326007367/0001959173-26-007367-index.htm,LOW
+2026-10-14T18:01:31+00:00,FORM_144,WMT,Walmart Inc.,proposed sale $575K,575000,,https://www.sec.gov/Archives/edgar/data/1886367/000195917326007368/0001959173-26-007368-index.htm,LOW
