@@ -4489,3 +4489,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-14T14:11:39+00:00,FORM_144,FERG,Ferguson Enterprises Inc. /DE/,proposed sale $44K,44346,,https://www.sec.gov/Archives/edgar/data/2074304/000195917326007365/0001959173-26-007365-index.htm,LOW
 2026-10-14T14:26:33+00:00,FORM_144,PACS,"PACS Group, Inc.",proposed sale $5.00M,5004565,,https://www.sec.gov/Archives/edgar/data/2014275/000194984626000610/0001949846-26-000610-index.htm,LOW
 2026-10-14T15:01:45+00:00,INSIDER_BUY,TDIC,Dreamland Ltd,Seto Wai Yue $600K,600000,5,https://www.sec.gov/Archives/edgar/data/2125603/000149315226046945/0001493152-26-046945-index.htm,MEDIUM
+2026-10-14T16:36:30+00:00,FORM_144,BLLN,"BillionToOne, Inc.",proposed sale $261K,261366,,https://www.sec.gov/Archives/edgar/data/2088549/000195917326007366/0001959173-26-007366-index.htm,LOW
