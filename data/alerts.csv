@@ -4525,3 +4525,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-14T21:32:02+00:00,FORM_144,HNGE,"Hinge Health, Inc.",proposed sale $64.50M,64497510,,https://www.sec.gov/Archives/edgar/data/1710860/000197407826000379/0001974078-26-000379-index.htm,MEDIUM
 2026-10-14T21:56:29+00:00,FORM_144,HNGE,"Hinge Health, Inc.",proposed sale $78.65M,78654555,,https://www.sec.gov/Archives/edgar/data/1710959/000197407826000380/0001974078-26-000380-index.htm,MEDIUM
 2026-10-14T22:01:38+00:00,FORM_144,BETA,"BETA Technologies, Inc.",proposed sale $176K,175789,,https://www.sec.gov/Archives/edgar/data/2090083/000195917326007376/0001959173-26-007376-index.htm,LOW
+2026-10-14T22:21:30+00:00,FORM_144,HNGE,"Hinge Health, Inc.",proposed sale $12.48M,12476310,,https://www.sec.gov/Archives/edgar/data/1710835/000197407826000381/0001974078-26-000381-index.htm,LOW
