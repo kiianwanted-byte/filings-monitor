@@ -1415,3 +1415,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-10-14T15:01:45+00:00,2026-10-09,TDIC,Dreamland Ltd,Seto Wai Yue,"Director, Chief Executive Officer, 10% owner",300000,2.00,600000,28.0,0001493152-26-046945
 2026-10-14T16:16:32+00:00,2026-10-13,XAIR,"Beyond Air, Inc.",Lin Yi-Chien,10% owner,2607,2.21,5761,1.8,0002144385-26-000006
 2026-10-14T16:26:34+00:00,2026-10-13,BORR,Borr Drilling Ltd,Troim Tor Olav,Director,1500000,4.93,7401600,4.0,0001628280-26-065849
+2026-10-14T16:56:28+00:00,2026-10-12,LCU,Lion Copper Corp.,Alford Tony L,"Director, 10% owner",1000,3.84,3840,0.0,0001062993-26-005332
