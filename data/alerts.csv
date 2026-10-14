@@ -4511,3 +4511,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-14T20:11:44+00:00,FORM_144,VEEV,VEEVA SYSTEMS INC.,proposed sale $1.98M,1984498,,https://www.sec.gov/Archives/edgar/data/1788226/000195004726010213/0001950047-26-010213-index.htm,LOW
 2026-10-14T20:11:45+00:00,FORM_144,RAL,Ralliant Corp,proposed sale $913K,913063,,https://www.sec.gov/Archives/edgar/data/2041385/000195917326007373/0001959173-26-007373-index.htm,LOW
 2026-10-14T20:16:41+00:00,FORM_144,NRIX,"NURIX THERAPEUTICS, INC.",proposed sale $529K,528528,,https://www.sec.gov/Archives/edgar/data/1549595/000195004726010217/0001950047-26-010217-index.htm,LOW
+2026-10-14T20:21:46+00:00,FORM_144,FORM,"FORMFACTOR, INC.",proposed sale $1.39M,1389437,,https://www.sec.gov/Archives/edgar/data/1590177/000195004726010219/0001950047-26-010219-index.htm,LOW
+2026-10-14T20:21:47+00:00,FORM_144,BLLN,"BillionToOne, Inc.",proposed sale $313K,313019,,https://www.sec.gov/Archives/edgar/data/2088549/000195917326007375/0001959173-26-007375-index.htm,LOW
+2026-10-14T20:21:48+00:00,FORM_144,CRSP,CRISPR THERAPEUTICS AG,proposed sale $720K,720373,,https://www.sec.gov/Archives/edgar/data/1674416/000195004726010218/0001950047-26-010218-index.htm,LOW
