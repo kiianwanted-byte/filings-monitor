@@ -4485,3 +4485,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-14T14:01:45+00:00,FORM_144,VLN,Valens Semiconductor Ltd.,proposed sale $6K,6150,,https://www.sec.gov/Archives/edgar/data/2080139/000197640826000890/0001976408-26-000890-index.htm,LOW
 2026-10-14T14:01:46+00:00,FORM_144,MRNA,"Moderna, Inc.",proposed sale $8.37M,8373519,,https://www.sec.gov/Archives/edgar/data/1760669/000195917326007363/0001959173-26-007363-index.htm,LOW
 2026-10-14T14:01:46+00:00,FORM_144,FERG,Ferguson Enterprises Inc. /DE/,proposed sale $151K,151131,,https://www.sec.gov/Archives/edgar/data/2011641/000195917326007362/0001959173-26-007362-index.htm,LOW
+2026-10-14T14:06:43+00:00,FORM_144,FERG,Ferguson Enterprises Inc. /DE/,proposed sale $22K,21842,,https://www.sec.gov/Archives/edgar/data/2011641/000195917326007364/0001959173-26-007364-index.htm,LOW
