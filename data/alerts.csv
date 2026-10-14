@@ -4519,3 +4519,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-14T20:31:47+00:00,FORM_144,VG,"VENTURE GLOBAL, INC.",proposed sale $10.93M,10933004,,https://www.sec.gov/Archives/edgar/data/2050857/000195004726010221/0001950047-26-010221-index.htm,LOW
 2026-10-14T20:31:47+00:00,FORM_144,MU,"Micron Technology, Inc.",proposed sale $6.03M,6031786,,https://www.sec.gov/Archives/edgar/data/1593199/000195004726010220/0001950047-26-010220-index.htm,LOW
 2026-10-14T20:36:33+00:00,FORM_144,IDT,IDT CORPORATION,proposed sale $1.12M,1124445,,https://www.sec.gov/Archives/edgar/data/1383828/000195004726010223/0001950047-26-010223-index.htm,LOW
+2026-10-14T20:41:51+00:00,FORM_144,RPAY,Repay Holdings Corp,proposed sale $20K,19544,,https://www.sec.gov/Archives/edgar/data/1787173/000196530126000159/0001965301-26-000159-index.htm,LOW
