@@ -4496,3 +4496,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-14T18:06:43+00:00,FORM_144,FERG,Ferguson Enterprises Inc. /DE/,proposed sale $48K,47876,,https://www.sec.gov/Archives/edgar/data/2011641/000195917326007369/0001959173-26-007369-index.htm,LOW
 2026-10-14T18:36:35+00:00,FORM_144,BKE,BUCKLE INC,proposed sale $377K,376507,,https://www.sec.gov/Archives/edgar/data/1192952/000194984626000611/0001949846-26-000611-index.htm,LOW
 2026-10-14T19:16:32+00:00,FORM_144,PAYX,PAYCHEX INC,proposed sale $844K,844073,,https://www.sec.gov/Archives/edgar/data/1209494/000195917326007370/0001959173-26-007370-index.htm,LOW
+2026-10-14T19:31:35+00:00,FORM_144,OKLO,Oklo Inc.,proposed sale $21K,21155,,https://www.sec.gov/Archives/edgar/data/2147680/000195917326007371/0001959173-26-007371-index.htm,LOW
