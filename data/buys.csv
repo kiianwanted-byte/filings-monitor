@@ -1410,3 +1410,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-10-14T01:46:32+00:00,2026-10-08,PODC,"PodcastOne, Inc.",MERRIMAN D JONATHAN,Director,4700,2.08,9776,1.2,0001213900-26-109198
 2026-10-14T10:21:31+00:00,2026-10-12,BZUN,Baozun Inc.,Qiu Wenbin,"Director, Chief Executive Officer",11800,3.40,40166,0.7,0001104659-26-115702
 2026-10-14T12:31:32+00:00,2026-10-13,EDRY,EuroDry Ltd.,Pittas Aristeidis P,Director,700,51.18,35826,0.9,0002127484-26-000020
+2026-10-14T13:16:31+00:00,2026-10-13,IMSR,Terrestrial Energy Inc. /DE/,Irish Simon,"Director, Chief Executive Officer",16900,3.01,50818,0.7,0001193125-26-421089
