@@ -4482,3 +4482,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-14T13:16:31+00:00,INSIDER_CLUSTER,IMSR,Terrestrial Energy Inc. /DE/,Irish Simon $51K,50818,1,https://www.sec.gov/Archives/edgar/data/2091865/000119312526421089/0001193125-26-421089-index.htm,HIGH
 2026-10-14T13:46:33+00:00,FORM_144,HIMS,"Hims & Hers Health, Inc.",proposed sale $101K,100576,,https://www.sec.gov/Archives/edgar/data/1837817/000195917326007361/0001959173-26-007361-index.htm,LOW
 2026-10-14T13:46:33+00:00,FORM_144,FERG,Ferguson Enterprises Inc. /DE/,proposed sale $48K,47876,,https://www.sec.gov/Archives/edgar/data/2011641/000195917326007360/0001959173-26-007360-index.htm,LOW
+2026-10-14T14:01:45+00:00,FORM_144,VLN,Valens Semiconductor Ltd.,proposed sale $6K,6150,,https://www.sec.gov/Archives/edgar/data/2080139/000197640826000890/0001976408-26-000890-index.htm,LOW
+2026-10-14T14:01:46+00:00,FORM_144,MRNA,"Moderna, Inc.",proposed sale $8.37M,8373519,,https://www.sec.gov/Archives/edgar/data/1760669/000195917326007363/0001959173-26-007363-index.htm,LOW
+2026-10-14T14:01:46+00:00,FORM_144,FERG,Ferguson Enterprises Inc. /DE/,proposed sale $151K,151131,,https://www.sec.gov/Archives/edgar/data/2011641/000195917326007362/0001959173-26-007362-index.htm,LOW
