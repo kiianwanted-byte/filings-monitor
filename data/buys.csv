@@ -1406,3 +1406,5 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-10-14T00:26:43+00:00,2026-10-13,ZONE,Zone Frontier Inc.,Hassen Tyler Lewis,"Director, Chief Executive Officer",1250000,0.12,146075,62.5,0001213900-26-109187
 2026-10-14T00:36:59+00:00,2026-10-07,ONMD,OneMedNet Corp,Kosasa Thomas,"Director, 10% owner",129758,5.78,750001,7.0,0001493152-26-046909
 2026-10-14T00:36:59+00:00,2026-10-09,ONMD,OneMedNet Corp,Yu Jeffrey,"Director, Chief Medical Officer, 10% owner",45126,5.54,249998,5.3,0001493152-26-046908
+2026-10-14T01:46:32+00:00,2026-10-09,TEO,TELECOM ARGENTINA SA,Heine Martin Andres,See Remarks,7000,2.67,18662,20.3,0001104659-26-115671
+2026-10-14T01:46:32+00:00,2026-10-08,PODC,"PodcastOne, Inc.",MERRIMAN D JONATHAN,Director,4700,2.08,9776,1.2,0001213900-26-109198
