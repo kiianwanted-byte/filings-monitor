@@ -4504,3 +4504,9 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-14T20:06:45+00:00,FORM_144,VEEV,VEEVA SYSTEMS INC,proposed sale $1.56M,1557920,,https://www.sec.gov/Archives/edgar/data/1502670/000196430626000467/0001964306-26-000467-index.htm,LOW
 2026-10-14T20:06:45+00:00,FORM_144,LIFE,Ethos Technologies Inc.,proposed sale $1.56M,1562802,,https://www.sec.gov/Archives/edgar/data/2089362/000192109426001090/0001921094-26-001090-index.htm,LOW
 2026-10-14T20:06:46+00:00,FORM_144,GH,"Guardant Health, Inc.",proposed sale $11K,11032,,https://www.sec.gov/Archives/edgar/data/1576280/000192109426001089/0001921094-26-001089-index.htm,LOW
+2026-10-14T20:11:43+00:00,FORM_144,BETA,"BETA Technologies, Inc.",proposed sale $106K,105789,,https://www.sec.gov/Archives/edgar/data/2090083/000195917326007374/0001959173-26-007374-index.htm,LOW
+2026-10-14T20:11:43+00:00,FORM_144,XYZ,"BLOCK, INC.",proposed sale $454K,454200,,https://www.sec.gov/Archives/edgar/data/1933928/000195004726010216/0001950047-26-010216-index.htm,LOW
+2026-10-14T20:11:43+00:00,FORM_144,P,"EVERPURE, INC.",proposed sale $4.24M,4244814,,https://www.sec.gov/Archives/edgar/data/1651908/000195004726010215/0001950047-26-010215-index.htm,LOW
+2026-10-14T20:11:44+00:00,FORM_144,DOCS,"DOXIMITY, INC.",proposed sale $80K,80166,,https://www.sec.gov/Archives/edgar/data/2111348/000195004726010214/0001950047-26-010214-index.htm,LOW
+2026-10-14T20:11:44+00:00,FORM_144,VEEV,VEEVA SYSTEMS INC.,proposed sale $1.98M,1984498,,https://www.sec.gov/Archives/edgar/data/1788226/000195004726010213/0001950047-26-010213-index.htm,LOW
+2026-10-14T20:11:45+00:00,FORM_144,RAL,Ralliant Corp,proposed sale $913K,913063,,https://www.sec.gov/Archives/edgar/data/2041385/000195917326007373/0001959173-26-007373-index.htm,LOW
