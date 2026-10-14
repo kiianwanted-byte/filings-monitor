@@ -4522,3 +4522,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-14T20:41:51+00:00,FORM_144,RPAY,Repay Holdings Corp,proposed sale $20K,19544,,https://www.sec.gov/Archives/edgar/data/1787173/000196530126000159/0001965301-26-000159-index.htm,LOW
 2026-10-14T21:11:37+00:00,FORM_144,FRMI,Fermi Inc.,proposed sale $4.10M,4099152,,https://www.sec.gov/Archives/edgar/data/2071778/000195824426000658/0001958244-26-000658-index.htm,LOW
 2026-10-14T21:16:45+00:00,INSIDER_BUY,QVCG,"QVC Group, Inc.",GOLDENTREE ASSET MANAGEMENT LP $16.70M,16697200,5,https://www.sec.gov/Archives/edgar/data/1435627/000149315226047051/0001493152-26-047051-index.htm,HIGH
+2026-10-14T21:32:02+00:00,FORM_144,HNGE,"Hinge Health, Inc.",proposed sale $64.50M,64497510,,https://www.sec.gov/Archives/edgar/data/1710860/000197407826000379/0001974078-26-000379-index.htm,MEDIUM
