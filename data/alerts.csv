@@ -4474,3 +4474,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-13T23:36:31+00:00,FORM_144,LWAY,"Lifeway Foods, Inc.",proposed sale $679K,679080,,https://www.sec.gov/Archives/edgar/data/1227847/000122784726000021/0001227847-26-000021-index.htm,LOW
 2026-10-14T00:36:59+00:00,INSIDER_CLUSTER,ONMD,OneMedNet Corp,Yu Jeffrey $250K,249998,4,https://www.sec.gov/Archives/edgar/data/1991132/000149315226046908/0001493152-26-046908-index.htm,HIGH
 2026-10-14T00:56:54+00:00,FORM_144,CUE,"CUE BIOPHARMA, INC.",proposed sale $52K,51724,,https://www.sec.gov/Archives/edgar/data/1645460/000157962926000010/0001579629-26-000010-index.htm,LOW
+2026-10-14T01:01:35+00:00,FORM_144,CUE,"CUE BIOPHARMA, INC.",proposed sale $305K,305490,,https://www.sec.gov/Archives/edgar/data/1725092/000172509226000017/0001725092-26-000017-index.htm,LOW
