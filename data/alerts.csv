@@ -4499,3 +4499,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-14T19:31:35+00:00,FORM_144,OKLO,Oklo Inc.,proposed sale $21K,21155,,https://www.sec.gov/Archives/edgar/data/2147680/000195917326007371/0001959173-26-007371-index.htm,LOW
 2026-10-14T19:41:42+00:00,FORM_144,CARL,"CARLSMED, INC.",proposed sale $58K,57872,,https://www.sec.gov/Archives/edgar/data/1794546/000195917326007372/0001959173-26-007372-index.htm,LOW
 2026-10-14T20:01:37+00:00,FORM_144,PINS,"PINTEREST, INC.",proposed sale $1.03M,1032365,,https://www.sec.gov/Archives/edgar/data/1773914/000192109426001088/0001921094-26-001088-index.htm,LOW
+2026-10-14T20:06:44+00:00,FORM_144,P,"EVERPURE, INC.",proposed sale $4.25M,4251015,,https://www.sec.gov/Archives/edgar/data/1651908/000195004726010212/0001950047-26-010212-index.htm,LOW
+2026-10-14T20:06:44+00:00,FORM_144,REGN,"REGENERON PHARMACEUTICALS, INC.",proposed sale $3.20M,3204379,,https://www.sec.gov/Archives/edgar/data/1796226/000196922326001073/0001969223-26-001073-index.htm,LOW
+2026-10-14T20:06:45+00:00,FORM_144,VEEV,VEEVA SYSTEMS INC,proposed sale $1.56M,1557920,,https://www.sec.gov/Archives/edgar/data/1502670/000196430626000467/0001964306-26-000467-index.htm,LOW
+2026-10-14T20:06:45+00:00,FORM_144,LIFE,Ethos Technologies Inc.,proposed sale $1.56M,1562802,,https://www.sec.gov/Archives/edgar/data/2089362/000192109426001090/0001921094-26-001090-index.htm,LOW
+2026-10-14T20:06:46+00:00,FORM_144,GH,"Guardant Health, Inc.",proposed sale $11K,11032,,https://www.sec.gov/Archives/edgar/data/1576280/000192109426001089/0001921094-26-001089-index.htm,LOW
