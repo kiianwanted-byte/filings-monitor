@@ -4651,3 +4651,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-15T21:31:35+00:00,FORM_144,MPLT,"MapLight Therapeutics, Inc.",proposed sale $120K,119922,,https://www.sec.gov/Archives/edgar/data/2021233/000197415826000106/0001974158-26-000106-index.htm,LOW
 2026-10-15T21:31:35+00:00,FORM_144,MPLT,"MapLight Therapeutics, Inc.",proposed sale $576K,575526,,https://www.sec.gov/Archives/edgar/data/1770069/000197415826000105/0001974158-26-000105-index.htm,LOW
 2026-10-15T21:36:37+00:00,FORM_144,SRAD,Sportradar Group AG,proposed sale $43K,42798,,https://www.sec.gov/Archives/edgar/data/1836470/000196858226001059/0001968582-26-001059-index.htm,LOW
+2026-10-15T21:46:35+00:00,FORM_144,MPLT,"MapLight Therapeutics, Inc.",proposed sale $79K,79404,,https://www.sec.gov/Archives/edgar/data/1770069/000197415826000107/0001974158-26-000107-index.htm,LOW
