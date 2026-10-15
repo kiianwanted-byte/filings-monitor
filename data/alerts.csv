@@ -4551,3 +4551,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-15T14:36:34+00:00,FORM_144,MRNA,"Moderna, Inc.",proposed sale $8.64M,8640032,,https://www.sec.gov/Archives/edgar/data/1760669/000195917326007387/0001959173-26-007387-index.htm,LOW
 2026-10-15T14:41:36+00:00,FORM_144,FERG,Ferguson Enterprises Inc. /DE/,proposed sale $207K,207450,,https://www.sec.gov/Archives/edgar/data/2030386/000195917326007390/0001959173-26-007390-index.htm,LOW
 2026-10-15T14:41:37+00:00,FORM_144,FERG,Ferguson Enterprises Inc. /DE/,proposed sale $79K,79248,,https://www.sec.gov/Archives/edgar/data/2011641/000195917326007389/0001959173-26-007389-index.htm,LOW
+2026-10-15T14:46:34+00:00,INSIDER_BUY,BBD,BANK BRADESCO,de Oliveira Andre Luis Duarte $1.15M,1148220,27,https://www.sec.gov/Archives/edgar/data/2125973/000129281426004938/0001292814-26-004938-index.htm,MEDIUM
+2026-10-15T14:46:39+00:00,FORM_144,ODC,Oil-Dri Corporation of America,proposed sale $601K,600950,,https://www.sec.gov/Archives/edgar/data/1907830/000162828026065956/0001628280-26-065956-index.htm,LOW
+2026-10-15T14:46:39+00:00,FORM_144,FERG,Ferguson Enterprises Inc. /DE/,proposed sale $42K,41532,,https://www.sec.gov/Archives/edgar/data/2074304/000195917326007391/0001959173-26-007391-index.htm,LOW
