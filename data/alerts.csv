@@ -4595,3 +4595,10 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-15T20:16:36+00:00,FORM_144,VRSK,"Verisk Analytics, Inc.",proposed sale $74K,73940,,https://www.sec.gov/Archives/edgar/data/1946842/000196430626000469/0001964306-26-000469-index.htm,LOW
 2026-10-15T20:16:36+00:00,FORM_144,W,Wayfair Inc.,proposed sale $13.02M,13016169,,https://www.sec.gov/Archives/edgar/data/1620093/000195917326007401/0001959173-26-007401-index.htm,LOW
 2026-10-15T20:16:37+00:00,FORM_144,VRSK,"Verisk Analytics, Inc.",proposed sale $1.61M,1606460,,https://www.sec.gov/Archives/edgar/data/1803783/000196430626000468/0001964306-26-000468-index.htm,LOW
+2026-10-15T20:21:36+00:00,INSIDER_CLUSTER,DUOT,"DUOS TECHNOLOGIES GROUP, INC.",Recker Frank Douglas $85K,84557,23,https://www.sec.gov/Archives/edgar/data/2083730/000107997326001363/0001079973-26-001363-index.htm,HIGH
+2026-10-15T20:21:38+00:00,FORM_144,HOOD,"Robinhood Markets, Inc.",proposed sale $33.10M,33103700,,https://www.sec.gov/Archives/edgar/data/1966974/000195004726010242/0001950047-26-010242-index.htm,MEDIUM
+2026-10-15T20:21:39+00:00,FORM_144,NTRA,"NATERA, INC.",proposed sale $19.74M,19737500,,https://www.sec.gov/Archives/edgar/data/1646382/000195004726010241/0001950047-26-010241-index.htm,LOW
+2026-10-15T20:21:40+00:00,FORM_144,VEEV,VEEVA SYSTEMS INC.,proposed sale $746K,745500,,https://www.sec.gov/Archives/edgar/data/1788226/000195004726010240/0001950047-26-010240-index.htm,LOW
+2026-10-15T20:21:40+00:00,FORM_144,RSKD,Riskified Ltd.,proposed sale $526K,525850,,https://www.sec.gov/Archives/edgar/data/1956098/000195004726010239/0001950047-26-010239-index.htm,LOW
+2026-10-15T20:21:41+00:00,FORM_144,HOOD,"Robinhood Markets, Inc.",proposed sale $4.09M,4093740,,https://www.sec.gov/Archives/edgar/data/2035019/000195004726010238/0001950047-26-010238-index.htm,LOW
+2026-10-15T20:21:41+00:00,FORM_144,COHU,"COHU, INC.",proposed sale $55K,55310,,https://www.sec.gov/Archives/edgar/data/1701398/000195004726010237/0001950047-26-010237-index.htm,LOW
