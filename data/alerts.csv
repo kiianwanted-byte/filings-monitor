@@ -4539,3 +4539,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-15T13:56:33+00:00,FORM_144,TER,"TERADYNE, INC",proposed sale $273K,273024,,https://www.sec.gov/Archives/edgar/data/1618274/000195917326007381/0001959173-26-007381-index.htm,LOW
 2026-10-15T13:56:34+00:00,FORM_144,CARG,"CarGurus, Inc.",proposed sale $303K,303100,,https://www.sec.gov/Archives/edgar/data/1718790/000195917326007380/0001959173-26-007380-index.htm,LOW
 2026-10-15T13:56:34+00:00,FORM_144,FERG,Ferguson Enterprises Inc. /DE/,proposed sale $399K,398712,,https://www.sec.gov/Archives/edgar/data/2011641/000195917326007379/0001959173-26-007379-index.htm,LOW
+2026-10-15T14:01:35+00:00,FORM_144,FERG,Ferguson Enterprises Inc. /DE/,proposed sale $70K,70493,,https://www.sec.gov/Archives/edgar/data/2011641/000195917326007382/0001959173-26-007382-index.htm,LOW
