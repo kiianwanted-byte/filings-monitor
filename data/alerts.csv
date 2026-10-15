@@ -4549,3 +4549,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-15T14:36:33+00:00,FORM_144,MCK,MCKESSON CORP,proposed sale $797K,797128,,https://www.sec.gov/Archives/edgar/data/1990490/000195917326007388/0001959173-26-007388-index.htm,LOW
 2026-10-15T14:36:33+00:00,FORM_144,URBN,URBAN OUTFITTERS INC,proposed sale $3.89M,3891778,,https://www.sec.gov/Archives/edgar/data/1222395/000194984626000612/0001949846-26-000612-index.htm,LOW
 2026-10-15T14:36:34+00:00,FORM_144,MRNA,"Moderna, Inc.",proposed sale $8.64M,8640032,,https://www.sec.gov/Archives/edgar/data/1760669/000195917326007387/0001959173-26-007387-index.htm,LOW
+2026-10-15T14:41:36+00:00,FORM_144,FERG,Ferguson Enterprises Inc. /DE/,proposed sale $207K,207450,,https://www.sec.gov/Archives/edgar/data/2030386/000195917326007390/0001959173-26-007390-index.htm,LOW
+2026-10-15T14:41:37+00:00,FORM_144,FERG,Ferguson Enterprises Inc. /DE/,proposed sale $79K,79248,,https://www.sec.gov/Archives/edgar/data/2011641/000195917326007389/0001959173-26-007389-index.htm,LOW
