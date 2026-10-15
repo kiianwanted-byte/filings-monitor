@@ -4530,3 +4530,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-14T22:46:35+00:00,FORM_144,HNGE,"Hinge Health, Inc.",proposed sale $1.87M,1871625,,https://www.sec.gov/Archives/edgar/data/1710834/000197407826000382/0001974078-26-000382-index.htm,LOW
 2026-10-14T23:11:33+00:00,FORM_144,UGP,Ultrapar Holdings Inc.,proposed sale $1.01M,1012700,,https://www.sec.gov/Archives/edgar/data/1647047/000196858226001055/0001968582-26-001055-index.htm,LOW
 2026-10-15T00:16:31+00:00,FORM_144,ALMR,"Alamar Biosciences, Inc.",proposed sale $987K,987000,,https://www.sec.gov/Archives/edgar/data/2104204/000123191926001454/0001231919-26-001454-index.htm,LOW
+2026-10-15T00:21:32+00:00,FORM_144,ALMR,"Alamar Biosciences, Inc.",proposed sale $36.66M,36664000,,https://www.sec.gov/Archives/edgar/data/2104204/000123191926001455/0001231919-26-001455-index.htm,MEDIUM
