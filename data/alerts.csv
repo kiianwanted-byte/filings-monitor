@@ -4643,3 +4643,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-15T20:46:31+00:00,FORM_144,LIFE,Ethos Technologies Inc.,proposed sale $1.53M,1533811,,https://www.sec.gov/Archives/edgar/data/2089362/000192109426001092/0001921094-26-001092-index.htm,LOW
 2026-10-15T20:46:32+00:00,FORM_144,GRAL,GRAIL INC,proposed sale $698K,698500,,https://www.sec.gov/Archives/edgar/data/1822088/000195004726010275/0001950047-26-010275-index.htm,LOW
 2026-10-15T20:51:38+00:00,FORM_144,HMN,HORACE MANN EDUCATORS CORP /DE/,proposed sale $96K,96350,,https://www.sec.gov/Archives/edgar/data/1198960/000195917326007403/0001959173-26-007403-index.htm,LOW
+2026-10-15T21:01:35+00:00,FORM_144,IOT,Samsara Inc.,proposed sale $87K,87466,,https://www.sec.gov/Archives/edgar/data/2074298/000192109426001094/0001921094-26-001094-index.htm,LOW
+2026-10-15T21:01:36+00:00,FORM_144,MDT,Medtronic plc,proposed sale $1.00M,1000320,,https://www.sec.gov/Archives/edgar/data/1984186/000195917326007405/0001959173-26-007405-index.htm,LOW
+2026-10-15T21:01:36+00:00,FORM_144,SIG,SIGNET JEWELERS LTD,proposed sale $191K,191400,,https://www.sec.gov/Archives/edgar/data/1821314/000195917326007404/0001959173-26-007404-index.htm,LOW
