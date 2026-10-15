@@ -4555,3 +4555,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-15T14:46:39+00:00,FORM_144,ODC,Oil-Dri Corporation of America,proposed sale $601K,600950,,https://www.sec.gov/Archives/edgar/data/1907830/000162828026065956/0001628280-26-065956-index.htm,LOW
 2026-10-15T14:46:39+00:00,FORM_144,FERG,Ferguson Enterprises Inc. /DE/,proposed sale $42K,41532,,https://www.sec.gov/Archives/edgar/data/2074304/000195917326007391/0001959173-26-007391-index.htm,LOW
 2026-10-15T15:21:38+00:00,INSIDER_BUY,GOLD,"Gold.com, Inc.","Tether Global Investments Fund, S.I.C.A.F., S.A. $2.70M",2702483,2,https://www.sec.gov/Archives/edgar/data/2130094/000110465926116094/0001104659-26-116094-index.htm,MEDIUM
+2026-10-15T15:31:31+00:00,FORM_144,KSS,KOHLS Corp,proposed sale $404K,403744,,https://www.sec.gov/Archives/edgar/data/1595040/000195917326007392/0001959173-26-007392-index.htm,LOW
+2026-10-15T15:31:32+00:00,FORM_144,CPRT,COPART INC,proposed sale $551K,551290,,https://www.sec.gov/Archives/edgar/data/1487292/000194984626000613/0001949846-26-000613-index.htm,LOW
