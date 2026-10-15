@@ -4618,3 +4618,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-15T20:26:46+00:00,FORM_144,PATH,"UiPath, Inc.",proposed sale $32.65M,32650000,,https://www.sec.gov/Archives/edgar/data/1855767/000195004726010244/0001950047-26-010244-index.htm,MEDIUM
 2026-10-15T20:26:48+00:00,FORM_144,BRZE,BRAZE INC,proposed sale $282K,282500,,https://www.sec.gov/Archives/edgar/data/1888935/000195004726010243/0001950047-26-010243-index.htm,LOW
 2026-10-15T20:31:47+00:00,FORM_144,IDT,IDT CORPORATION,proposed sale $760K,759986,,https://www.sec.gov/Archives/edgar/data/1228166/000195004726010257/0001950047-26-010257-index.htm,LOW
+2026-10-15T20:36:31+00:00,INSIDER_CLUSTER,TRXB,"TRex Bio, Inc.","Alexandria Venture Investments, LLC $2.50M",2499994,2,https://www.sec.gov/Archives/edgar/data/2139097/000172202426000004/0001722024-26-000004-index.htm,HIGH
+2026-10-15T20:36:35+00:00,FORM_144,IDT,IDT CORPORATION,proposed sale $49K,48735,,https://www.sec.gov/Archives/edgar/data/1790176/000195004726010260/0001950047-26-010260-index.htm,LOW
+2026-10-15T20:36:35+00:00,FORM_144,IDT,IDT CORPORATION,proposed sale $189K,188555,,https://www.sec.gov/Archives/edgar/data/1365233/000195004726010259/0001950047-26-010259-index.htm,LOW
+2026-10-15T20:36:35+00:00,FORM_144,IDT,IDT CORPORATION,proposed sale $410K,410000,,https://www.sec.gov/Archives/edgar/data/1560958/000195004726010258/0001950047-26-010258-index.htm,LOW
+2026-10-15T20:36:36+00:00,FORM_144,BLLN,"BillionToOne, Inc.",proposed sale $516K,516188,,https://www.sec.gov/Archives/edgar/data/2088549/000195917326007402/0001959173-26-007402-index.htm,LOW
