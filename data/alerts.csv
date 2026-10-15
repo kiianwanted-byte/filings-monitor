@@ -4657,3 +4657,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-15T22:06:36+00:00,FORM_144,TTAN,"ServiceTitan, Inc.",proposed sale $11K,10503,,https://www.sec.gov/Archives/edgar/data/2045642/000195824426000660/0001958244-26-000660-index.htm,LOW
 2026-10-15T22:06:37+00:00,FORM_144,GLBE,Global-E Online Ltd.,proposed sale $2.93M,2933169,,https://www.sec.gov/Archives/edgar/data/1964141/000195824426000659/0001958244-26-000659-index.htm,LOW
 2026-10-15T22:21:29+00:00,FORM_144,CIEN,Ciena Corporation,proposed sale $5.26M,5262235,,https://www.sec.gov/Archives/edgar/data/1032553/000195824426000663/0001958244-26-000663-index.htm,LOW
+2026-10-15T22:31:31+00:00,INSIDER_CLUSTER,TEGO,"TEG OVERSEAS, INC.","Tourism & Entertainment Group, LLC $0",,2,https://www.sec.gov/Archives/edgar/data/2150798/000121390026109931/0001213900-26-109931-index.htm,HIGH
