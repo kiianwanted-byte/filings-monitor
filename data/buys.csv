@@ -1432,3 +1432,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-10-15T13:06:36+00:00,2026-10-14,BORR,Borr Drilling Ltd,Troim Tor Olav,Director,750000,4.72,3542550,1.9,0001628280-26-065947
 2026-10-15T14:26:29+00:00,2026-10-15,QTEX,QTREX Quantum Ltd.,Parnes Tal,Director,6666,1.50,9999,0.9,0001185185-26-004770
 2026-10-15T14:46:34+00:00,2026-09-18,BBD,BANK BRADESCO,de Oliveira Andre Luis Duarte,Executive Officer,63861,17.98,1148220,26.2,0001292814-26-004938
+2026-10-15T15:11:31+00:00,2026-10-13,VMO,Invesco Municipal Opportunity Trust,Setcavage Rebecca,,3000,8.64,25920,NEW,0001852367-26-000009
