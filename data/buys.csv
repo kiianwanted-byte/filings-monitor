@@ -1449,3 +1449,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-10-15T20:41:32+00:00,2026-10-15,FLSC,Frazier Life Sciences Acquisition Corp. II,Cha Albert,"Director, Chief Executive Officer, 10% owner",300000,10.00,3000000,NEW,0001193125-26-422957
 2026-10-15T20:41:34+00:00,2026-10-13,INM,InMed Pharmaceuticals Inc.,"ADAR1 Capital Management, LLC",10% owner,9569,1.33,12718,1.0,0001940272-26-000025
 2026-10-15T21:46:34+00:00,2026-10-14,IMSR,Terrestrial Energy Inc. /DE/,Pardee Charles G,Director,7500,2.95,22125,111.0,0001193125-26-423068
+2026-10-15T21:51:29+00:00,2026-10-14,BPRE,Bluerock Private Real Estate Fund,Ruddy Jordan B.,President,3520,12.59,44316,25.7,0001398344-26-018255
