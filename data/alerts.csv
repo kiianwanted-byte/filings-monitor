@@ -4572,3 +4572,16 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-15T20:01:33+00:00,FORM_144,INCY,INCYTE CORPORATION,proposed sale $298K,297779,,https://www.sec.gov/Archives/edgar/data/879169/000195004726010228/0001950047-26-010228-index.htm,LOW
 2026-10-15T20:01:33+00:00,FORM_144,RPAY,Repay Holdings Corp,proposed sale $2K,2467,,https://www.sec.gov/Archives/edgar/data/1787173/000196530126000161/0001965301-26-000161-index.htm,LOW
 2026-10-15T20:01:34+00:00,FORM_144,ARQT,"Arcutis Biotherapeutics, Inc.",proposed sale $127K,127325,,https://www.sec.gov/Archives/edgar/data/1801050/000162828026065989/0001628280-26-065989-index.htm,LOW
+2026-10-15T20:06:40+00:00,FORM_144,XYZ,"BLOCK, INC.",proposed sale $462K,461940,,https://www.sec.gov/Archives/edgar/data/1933928/000195004726010234/0001950047-26-010234-index.htm,LOW
+2026-10-15T20:06:41+00:00,FORM_144,ETSY,ETSY INC,proposed sale $35K,35223,,https://www.sec.gov/Archives/edgar/data/1525358/000196922326001077/0001969223-26-001077-index.htm,LOW
+2026-10-15T20:06:42+00:00,FORM_144,COF,CAPITAL ONE FINANCIAL CORPORATION,proposed sale $370K,369587,,https://www.sec.gov/Archives/edgar/data/1741273/000195004726010233/0001950047-26-010233-index.htm,LOW
+2026-10-15T20:06:42+00:00,FORM_144,BETA,"BETA Technologies, Inc.",proposed sale $184K,184021,,https://www.sec.gov/Archives/edgar/data/2090083/000195917326007399/0001959173-26-007399-index.htm,LOW
+2026-10-15T20:06:42+00:00,FORM_144,ETSY,ETSY INC,proposed sale $85K,84780,,https://www.sec.gov/Archives/edgar/data/1589723/000196922326001076/0001969223-26-001076-index.htm,LOW
+2026-10-15T20:06:43+00:00,FORM_144,ALH,Alliance Laundry Holdings Inc.,proposed sale $1.56M,1563866,,https://www.sec.gov/Archives/edgar/data/2086054/000197449426000314/0001974494-26-000314-index.htm,LOW
+2026-10-15T20:06:43+00:00,FORM_144,ETSY,ETSY INC,proposed sale $457K,456840,,https://www.sec.gov/Archives/edgar/data/1813761/000196922326001075/0001969223-26-001075-index.htm,LOW
+2026-10-15T20:06:44+00:00,FORM_144,SNPS,"SYNOPSYS, INC.",proposed sale $6.76M,6759359,,https://www.sec.gov/Archives/edgar/data/1822289/000195004726010232/0001950047-26-010232-index.htm,LOW
+2026-10-15T20:06:44+00:00,FORM_144,CART,Maplebear Inc.,proposed sale $150K,149533,,https://www.sec.gov/Archives/edgar/data/1651687/000192109426001091/0001921094-26-001091-index.htm,LOW
+2026-10-15T20:06:44+00:00,FORM_144,DXCM,"DEXCOM, INC.",proposed sale $145K,145316,,https://www.sec.gov/Archives/edgar/data/1899922/000195004726010231/0001950047-26-010231-index.htm,LOW
+2026-10-15T20:06:45+00:00,FORM_144,BJ,BJ's Wholesale Club Inc,proposed sale $887K,887037,,https://www.sec.gov/Archives/edgar/data/1743504/000162828026065991/0001628280-26-065991-index.htm,LOW
+2026-10-15T20:06:45+00:00,FORM_144,ELAN,Elanco Animal Health Inc,proposed sale $100K,100050,,https://www.sec.gov/Archives/edgar/data/1797894/000196922326001074/0001969223-26-001074-index.htm,LOW
+2026-10-15T20:06:46+00:00,FORM_144,ROKU,"ROKU, INC.",proposed sale $1.07M,1069880,,https://www.sec.gov/Archives/edgar/data/1834902/000195004726010230/0001950047-26-010230-index.htm,LOW
