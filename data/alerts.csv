@@ -4658,3 +4658,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-15T22:06:37+00:00,FORM_144,GLBE,Global-E Online Ltd.,proposed sale $2.93M,2933169,,https://www.sec.gov/Archives/edgar/data/1964141/000195824426000659/0001958244-26-000659-index.htm,LOW
 2026-10-15T22:21:29+00:00,FORM_144,CIEN,Ciena Corporation,proposed sale $5.26M,5262235,,https://www.sec.gov/Archives/edgar/data/1032553/000195824426000663/0001958244-26-000663-index.htm,LOW
 2026-10-15T22:31:31+00:00,INSIDER_CLUSTER,TEGO,"TEG OVERSEAS, INC.","Tourism & Entertainment Group, LLC $0",,2,https://www.sec.gov/Archives/edgar/data/2150798/000121390026109931/0001213900-26-109931-index.htm,HIGH
+2026-10-15T22:36:29+00:00,FORM_144,MPLT,"MapLight Therapeutics, Inc.",proposed sale $70K,70446,,https://www.sec.gov/Archives/edgar/data/1789970/000197415826000108/0001974158-26-000108-index.htm,LOW
