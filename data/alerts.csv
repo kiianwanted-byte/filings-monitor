@@ -4638,3 +4638,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-15T20:41:41+00:00,FORM_144,DBX,"Dropbox, Inc.",proposed sale $74K,74445,,https://www.sec.gov/Archives/edgar/data/2075704/000195004726010263/0001950047-26-010263-index.htm,LOW
 2026-10-15T20:41:42+00:00,FORM_144,MPLT,"MapLight Therapeutics, Inc.",proposed sale $116K,115658,,https://www.sec.gov/Archives/edgar/data/2021198/000195004726010262/0001950047-26-010262-index.htm,LOW
 2026-10-15T20:41:42+00:00,FORM_144,TEAM,ATLASSIAN CORPORATION,proposed sale $511K,511445,,https://www.sec.gov/Archives/edgar/data/1968118/000195004726010261/0001950047-26-010261-index.htm,LOW
+2026-10-15T20:46:31+00:00,FORM_144,LIFE,Ethos Technologies Inc.,proposed sale $4.54M,4538545,,https://www.sec.gov/Archives/edgar/data/2089263/000192109426001093/0001921094-26-001093-index.htm,LOW
+2026-10-15T20:46:31+00:00,FORM_144,SNEX,StoneX Group Inc.,proposed sale $2.68M,2676081,,https://www.sec.gov/Archives/edgar/data/1569789/000162828026066010/0001628280-26-066010-index.htm,LOW
+2026-10-15T20:46:31+00:00,FORM_144,LIFE,Ethos Technologies Inc.,proposed sale $1.53M,1533811,,https://www.sec.gov/Archives/edgar/data/2089362/000192109426001092/0001921094-26-001092-index.htm,LOW
+2026-10-15T20:46:32+00:00,FORM_144,GRAL,GRAIL INC,proposed sale $698K,698500,,https://www.sec.gov/Archives/edgar/data/1822088/000195004726010275/0001950047-26-010275-index.htm,LOW
