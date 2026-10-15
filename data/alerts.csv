@@ -4564,3 +4564,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-15T17:11:35+00:00,FORM_144,RCAT,"Red Cat Holdings, Inc.",proposed sale $2.03M,2031030,,https://www.sec.gov/Archives/edgar/data/1397565/000194984626000615/0001949846-26-000615-index.htm,LOW
 2026-10-15T17:11:35+00:00,FORM_144,KSS,KOHLS Corp,proposed sale $165K,165066,,https://www.sec.gov/Archives/edgar/data/1942745/000195917326007395/0001959173-26-007395-index.htm,LOW
 2026-10-15T17:16:31+00:00,FORM_144,TRU,TransUnion,proposed sale $35K,35000,,https://www.sec.gov/Archives/edgar/data/2058648/000195917326007396/0001959173-26-007396-index.htm,LOW
+2026-10-15T17:21:34+00:00,FORM_144,W,Wayfair Inc.,proposed sale $60K,60060,,https://www.sec.gov/Archives/edgar/data/1994593/000195917326007397/0001959173-26-007397-index.htm,LOW
