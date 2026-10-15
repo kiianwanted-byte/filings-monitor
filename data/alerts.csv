@@ -4533,3 +4533,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-15T00:21:32+00:00,FORM_144,ALMR,"Alamar Biosciences, Inc.",proposed sale $36.66M,36664000,,https://www.sec.gov/Archives/edgar/data/2104204/000123191926001455/0001231919-26-001455-index.htm,MEDIUM
 2026-10-15T00:26:28+00:00,FORM_144,ALMR,"Alamar Biosciences, Inc.",proposed sale $8.55M,8555000,,https://www.sec.gov/Archives/edgar/data/2129618/000123191926001456/0001231919-26-001456-index.htm,LOW
 2026-10-15T00:36:33+00:00,FORM_144,ALMR,"Alamar Biosciences, Inc.",proposed sale $10.24M,10242000,,https://www.sec.gov/Archives/edgar/data/2104204/000123191926001458/0001231919-26-001458-index.htm,LOW
+2026-10-15T01:51:38+00:00,FORM_144,ASPI,ASP Isotopes Inc.,proposed sale $47K,46575,,https://www.sec.gov/Archives/edgar/data/1951275/000147793226006223/0001477932-26-006223-index.htm,LOW
