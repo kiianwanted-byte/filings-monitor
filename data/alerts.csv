@@ -4558,3 +4558,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-15T15:31:31+00:00,FORM_144,KSS,KOHLS Corp,proposed sale $404K,403744,,https://www.sec.gov/Archives/edgar/data/1595040/000195917326007392/0001959173-26-007392-index.htm,LOW
 2026-10-15T15:31:32+00:00,FORM_144,CPRT,COPART INC,proposed sale $551K,551290,,https://www.sec.gov/Archives/edgar/data/1487292/000194984626000613/0001949846-26-000613-index.htm,LOW
 2026-10-15T15:41:32+00:00,FORM_144,NTWK,NETSOL TECHNOLOGIES INC,proposed sale $65K,64900,,https://www.sec.gov/Archives/edgar/data/1585901/000194984626000614/0001949846-26-000614-index.htm,LOW
+2026-10-15T15:56:30+00:00,FORM_144,TRU,TransUnion,proposed sale $70K,70000,,https://www.sec.gov/Archives/edgar/data/1776865/000195917326007393/0001959173-26-007393-index.htm,LOW
