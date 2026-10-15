@@ -4589,3 +4589,9 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-15T20:11:35+00:00,FORM_144,MPLT,"MapLight Therapeutics, Inc.",proposed sale $98K,97625,,https://www.sec.gov/Archives/edgar/data/2021238/000119312526422882/0001193125-26-422882-index.htm,LOW
 2026-10-15T20:11:35+00:00,FORM_144,CIEN,CIENA CORPORATION,proposed sale $309K,308865,,https://www.sec.gov/Archives/edgar/data/1998460/000195004726010235/0001950047-26-010235-index.htm,LOW
 2026-10-15T20:11:36+00:00,STAKE_13D,,"Strata Critical Medical, Inc.","Strata Critical Medical, Inc. 5.8%",,,https://www.sec.gov/Archives/edgar/data/1779128/000089914026001108/0000899140-26-001108-index.htm,HIGH
+2026-10-15T20:16:30+00:00,INSIDER_BUY,CXM,"Sprinklr, Inc.",WARD JR STEPHEN M $850K,850500,2,https://www.sec.gov/Archives/edgar/data/1569345/000116464426000008/0001164644-26-000008-index.htm,MEDIUM
+2026-10-15T20:16:35+00:00,FORM_144,WH,"WYNDHAM HOTELS & RESORTS, INC.",proposed sale $1.42M,1421824,,https://www.sec.gov/Archives/edgar/data/1722684/000196430626000470/0001964306-26-000470-index.htm,LOW
+2026-10-15T20:16:36+00:00,FORM_144,CIEN,CIENA CORPORATION,proposed sale $413K,412896,,https://www.sec.gov/Archives/edgar/data/1998826/000195004726010236/0001950047-26-010236-index.htm,LOW
+2026-10-15T20:16:36+00:00,FORM_144,VRSK,"Verisk Analytics, Inc.",proposed sale $74K,73940,,https://www.sec.gov/Archives/edgar/data/1946842/000196430626000469/0001964306-26-000469-index.htm,LOW
+2026-10-15T20:16:36+00:00,FORM_144,W,Wayfair Inc.,proposed sale $13.02M,13016169,,https://www.sec.gov/Archives/edgar/data/1620093/000195917326007401/0001959173-26-007401-index.htm,LOW
+2026-10-15T20:16:37+00:00,FORM_144,VRSK,"Verisk Analytics, Inc.",proposed sale $1.61M,1606460,,https://www.sec.gov/Archives/edgar/data/1803783/000196430626000468/0001964306-26-000468-index.htm,LOW
