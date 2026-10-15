@@ -4532,3 +4532,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-15T00:16:31+00:00,FORM_144,ALMR,"Alamar Biosciences, Inc.",proposed sale $987K,987000,,https://www.sec.gov/Archives/edgar/data/2104204/000123191926001454/0001231919-26-001454-index.htm,LOW
 2026-10-15T00:21:32+00:00,FORM_144,ALMR,"Alamar Biosciences, Inc.",proposed sale $36.66M,36664000,,https://www.sec.gov/Archives/edgar/data/2104204/000123191926001455/0001231919-26-001455-index.htm,MEDIUM
 2026-10-15T00:26:28+00:00,FORM_144,ALMR,"Alamar Biosciences, Inc.",proposed sale $8.55M,8555000,,https://www.sec.gov/Archives/edgar/data/2129618/000123191926001456/0001231919-26-001456-index.htm,LOW
+2026-10-15T00:36:33+00:00,FORM_144,ALMR,"Alamar Biosciences, Inc.",proposed sale $10.24M,10242000,,https://www.sec.gov/Archives/edgar/data/2104204/000123191926001458/0001231919-26-001458-index.htm,LOW
