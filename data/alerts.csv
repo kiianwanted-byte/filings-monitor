@@ -4536,3 +4536,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-15T01:51:38+00:00,FORM_144,ASPI,ASP Isotopes Inc.,proposed sale $47K,46575,,https://www.sec.gov/Archives/edgar/data/1951275/000147793226006223/0001477932-26-006223-index.htm,LOW
 2026-10-15T13:46:33+00:00,FORM_144,HAYW,"Hayward Holdings, Inc.",proposed sale $41K,40950,,https://www.sec.gov/Archives/edgar/data/1834622/000195917326007378/0001959173-26-007378-index.htm,LOW
 2026-10-15T13:46:34+00:00,FORM_144,MDT,Medtronic plc,proposed sale $4.75M,4750000,,https://www.sec.gov/Archives/edgar/data/1613103/000195917326007377/0001959173-26-007377-index.htm,LOW
+2026-10-15T13:56:33+00:00,FORM_144,TER,"TERADYNE, INC",proposed sale $273K,273024,,https://www.sec.gov/Archives/edgar/data/1618274/000195917326007381/0001959173-26-007381-index.htm,LOW
+2026-10-15T13:56:34+00:00,FORM_144,CARG,"CarGurus, Inc.",proposed sale $303K,303100,,https://www.sec.gov/Archives/edgar/data/1718790/000195917326007380/0001959173-26-007380-index.htm,LOW
+2026-10-15T13:56:34+00:00,FORM_144,FERG,Ferguson Enterprises Inc. /DE/,proposed sale $399K,398712,,https://www.sec.gov/Archives/edgar/data/2011641/000195917326007379/0001959173-26-007379-index.htm,LOW
