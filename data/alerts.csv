@@ -4617,3 +4617,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-15T20:26:46+00:00,FORM_144,PL,Planet Labs PBC,proposed sale $565K,565200,,https://www.sec.gov/Archives/edgar/data/1836833/000195004726010245/0001950047-26-010245-index.htm,LOW
 2026-10-15T20:26:46+00:00,FORM_144,PATH,"UiPath, Inc.",proposed sale $32.65M,32650000,,https://www.sec.gov/Archives/edgar/data/1855767/000195004726010244/0001950047-26-010244-index.htm,MEDIUM
 2026-10-15T20:26:48+00:00,FORM_144,BRZE,BRAZE INC,proposed sale $282K,282500,,https://www.sec.gov/Archives/edgar/data/1888935/000195004726010243/0001950047-26-010243-index.htm,LOW
+2026-10-15T20:31:47+00:00,FORM_144,IDT,IDT CORPORATION,proposed sale $760K,759986,,https://www.sec.gov/Archives/edgar/data/1228166/000195004726010257/0001950047-26-010257-index.htm,LOW
