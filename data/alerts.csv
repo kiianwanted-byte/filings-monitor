@@ -4652,3 +4652,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-15T21:31:35+00:00,FORM_144,MPLT,"MapLight Therapeutics, Inc.",proposed sale $576K,575526,,https://www.sec.gov/Archives/edgar/data/1770069/000197415826000105/0001974158-26-000105-index.htm,LOW
 2026-10-15T21:36:37+00:00,FORM_144,SRAD,Sportradar Group AG,proposed sale $43K,42798,,https://www.sec.gov/Archives/edgar/data/1836470/000196858226001059/0001968582-26-001059-index.htm,LOW
 2026-10-15T21:46:35+00:00,FORM_144,MPLT,"MapLight Therapeutics, Inc.",proposed sale $79K,79404,,https://www.sec.gov/Archives/edgar/data/1770069/000197415826000107/0001974158-26-000107-index.htm,LOW
+2026-10-15T22:06:35+00:00,FORM_144,CEG,Constellation Energy Corporation,proposed sale $8.17M,8174925,,https://www.sec.gov/Archives/edgar/data/1868275/000195824426000662/0001958244-26-000662-index.htm,LOW
+2026-10-15T22:06:36+00:00,FORM_144,ZM,"Zoom Communications, Inc.",proposed sale $71K,70631,,https://www.sec.gov/Archives/edgar/data/1773806/000195824426000661/0001958244-26-000661-index.htm,LOW
+2026-10-15T22:06:36+00:00,FORM_144,TTAN,"ServiceTitan, Inc.",proposed sale $11K,10503,,https://www.sec.gov/Archives/edgar/data/2045642/000195824426000660/0001958244-26-000660-index.htm,LOW
+2026-10-15T22:06:37+00:00,FORM_144,GLBE,Global-E Online Ltd.,proposed sale $2.93M,2933169,,https://www.sec.gov/Archives/edgar/data/1964141/000195824426000659/0001958244-26-000659-index.htm,LOW
