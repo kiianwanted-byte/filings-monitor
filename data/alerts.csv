@@ -4560,3 +4560,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-15T15:41:32+00:00,FORM_144,NTWK,NETSOL TECHNOLOGIES INC,proposed sale $65K,64900,,https://www.sec.gov/Archives/edgar/data/1585901/000194984626000614/0001949846-26-000614-index.htm,LOW
 2026-10-15T15:56:30+00:00,FORM_144,TRU,TransUnion,proposed sale $70K,70000,,https://www.sec.gov/Archives/edgar/data/1776865/000195917326007393/0001959173-26-007393-index.htm,LOW
 2026-10-15T16:21:36+00:00,FORM_144,ERAS,"Erasca, Inc.",proposed sale $122K,122353,,https://www.sec.gov/Archives/edgar/data/1973524/000162828026065966/0001628280-26-065966-index.htm,LOW
+2026-10-15T16:56:42+00:00,FORM_144,CHWY,"Chewy, Inc.",proposed sale $363K,362943,,https://www.sec.gov/Archives/edgar/data/1879000/000195917326007394/0001959173-26-007394-index.htm,LOW
