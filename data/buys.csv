@@ -1435,3 +1435,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-10-15T15:11:31+00:00,2026-10-13,VMO,Invesco Municipal Opportunity Trust,Setcavage Rebecca,,3000,8.64,25920,NEW,0001852367-26-000009
 2026-10-15T15:21:38+00:00,2026-10-13,GOLD,"Gold.com, Inc.","Tether Global Investments Fund, S.I.C.A.F., S.A.",10% owner,67882,39.81,2702483,20.4,0001104659-26-116094
 2026-10-15T15:31:30+00:00,2026-10-15,CRESY,CRESUD INC,Elsztain Alejandro Gustavo,Director,8295,11.18,92738,0.7,0002119764-26-000032
+2026-10-15T18:16:32+00:00,2026-10-13,MDBH,"MDB Capital Holdings, LLC",MARLETT CHRISTOPHER A,"Director, Co-Founder, 10% owner",10000,1.99,19900,5.9,0001493152-26-047198
