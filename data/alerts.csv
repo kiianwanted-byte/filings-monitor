@@ -4545,3 +4545,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-15T14:16:32+00:00,FORM_144,TER,"TERADYNE, INC",proposed sale $1.37M,1365120,,https://www.sec.gov/Archives/edgar/data/1666934/000195917326007384/0001959173-26-007384-index.htm,LOW
 2026-10-15T14:26:29+00:00,INSIDER_CLUSTER,QTEX,QTREX Quantum Ltd.,Parnes Tal $10K,9999,0,https://www.sec.gov/Archives/edgar/data/2121639/000118518526004770/0001185185-26-004770-index.htm,HIGH
 2026-10-15T14:26:34+00:00,FORM_144,LASR,"NLIGHT, INC.",proposed sale $154K,153905,,https://www.sec.gov/Archives/edgar/data/1247627/000195917326007385/0001959173-26-007385-index.htm,LOW
+2026-10-15T14:31:32+00:00,FORM_144,ABNB,"Airbnb, Inc.",proposed sale $230K,230005,,https://www.sec.gov/Archives/edgar/data/1559720/000195917326007386/0001959173-26-007386-index.htm,LOW
