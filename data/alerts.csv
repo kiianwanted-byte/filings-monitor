@@ -4648,3 +4648,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-15T21:01:36+00:00,FORM_144,SIG,SIGNET JEWELERS LTD,proposed sale $191K,191400,,https://www.sec.gov/Archives/edgar/data/1821314/000195917326007404/0001959173-26-007404-index.htm,LOW
 2026-10-15T21:16:33+00:00,FORM_144,MPLT,"MapLight Therapeutics, Inc.",proposed sale $90K,89916,,https://www.sec.gov/Archives/edgar/data/1770069/000197415826000104/0001974158-26-000104-index.htm,LOW
 2026-10-15T21:21:30+00:00,FORM_144,PLTR,"Palantir Technologies, Inc.",proposed sale $9.65M,9646560,,https://www.sec.gov/Archives/edgar/data/1823952/000196858226001057/0001968582-26-001057-index.htm,LOW
+2026-10-15T21:31:35+00:00,FORM_144,MPLT,"MapLight Therapeutics, Inc.",proposed sale $120K,119922,,https://www.sec.gov/Archives/edgar/data/2021233/000197415826000106/0001974158-26-000106-index.htm,LOW
+2026-10-15T21:31:35+00:00,FORM_144,MPLT,"MapLight Therapeutics, Inc.",proposed sale $576K,575526,,https://www.sec.gov/Archives/edgar/data/1770069/000197415826000105/0001974158-26-000105-index.htm,LOW
