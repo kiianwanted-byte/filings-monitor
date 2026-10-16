@@ -4705,3 +4705,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-16T20:36:37+00:00,INSIDER_BUY,SAFX,"XCF Global, Inc.","EEME Energy SPV I, LLC $142.08M",142083450,0,https://www.sec.gov/Archives/edgar/data/2106572/000210657226000003/0002106572-26-000003-index.htm,HIGH
 2026-10-16T20:36:45+00:00,FORM_144,MRVL,"MARVELL TECHNOLOGY, INC.",proposed sale $866K,865864,,https://www.sec.gov/Archives/edgar/data/1975808/000195004726010292/0001950047-26-010292-index.htm,LOW
 2026-10-16T20:36:45+00:00,FORM_144,CRWD,"CrowdStrike Holdings, Inc.",proposed sale $2.42M,2420265,,https://www.sec.gov/Archives/edgar/data/1872303/000196858226001060/0001968582-26-001060-index.htm,LOW
+2026-10-16T20:56:32+00:00,FORM_144,ZETA,Zeta Global Holdings Corp,proposed sale $12.54M,12539279,,https://www.sec.gov/Archives/edgar/data/1989510/000162828026066154/0001628280-26-066154-index.htm,LOW
