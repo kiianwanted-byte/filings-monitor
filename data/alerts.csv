@@ -4711,3 +4711,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-16T21:21:38+00:00,FORM_144,IONS,IONIS PHARMACEUTICALS INC,proposed sale $60K,59708,,https://www.sec.gov/Archives/edgar/data/2037721/000087401526000263/0000874015-26-000263-index.htm,LOW
 2026-10-16T21:26:37+00:00,INSIDER_CLUSTER,KWY,KINGSWAY Corp,Hansen Kent A $2K,1558,0,https://www.sec.gov/Archives/edgar/data/1686017/000107262726000057/0001072627-26-000057-index.htm,HIGH
 2026-10-16T21:26:40+00:00,FORM_144,ASPI,"ASP Isotopes, Inc.",proposed sale $48K,47975,,https://www.sec.gov/Archives/edgar/data/2026548/000197449426000318/0001974494-26-000318-index.htm,LOW
+2026-10-16T22:01:34+00:00,STAKE_13D,,"JANA Partners Management, LP", 0.0%,,,https://www.sec.gov/Archives/edgar/data/1998597/000090266426004202/0000902664-26-004202-index.htm,HIGH
