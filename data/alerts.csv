@@ -4702,3 +4702,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-16T20:31:43+00:00,FORM_144,AAPL,Apple Inc.,proposed sale $476K,476064,,https://www.sec.gov/Archives/edgar/data/2050912/000195004726010286/0001950047-26-010286-index.htm,LOW
 2026-10-16T20:31:43+00:00,FORM_144,NXDR,"Nextdoor Holdings, Inc.",proposed sale $125K,125112,,https://www.sec.gov/Archives/edgar/data/2022306/000195004726010285/0001950047-26-010285-index.htm,LOW
 2026-10-16T20:31:44+00:00,FORM_144,HMN,HORACE MANN EDUCATORS CORP /DE/,proposed sale $220K,220384,,https://www.sec.gov/Archives/edgar/data/1198960/000195917326007413/0001959173-26-007413-index.htm,LOW
+2026-10-16T20:36:37+00:00,INSIDER_BUY,SAFX,"XCF Global, Inc.","EEME Energy SPV I, LLC $142.08M",142083450,0,https://www.sec.gov/Archives/edgar/data/2106572/000210657226000003/0002106572-26-000003-index.htm,HIGH
+2026-10-16T20:36:45+00:00,FORM_144,MRVL,"MARVELL TECHNOLOGY, INC.",proposed sale $866K,865864,,https://www.sec.gov/Archives/edgar/data/1975808/000195004726010292/0001950047-26-010292-index.htm,LOW
+2026-10-16T20:36:45+00:00,FORM_144,CRWD,"CrowdStrike Holdings, Inc.",proposed sale $2.42M,2420265,,https://www.sec.gov/Archives/edgar/data/1872303/000196858226001060/0001968582-26-001060-index.htm,LOW
