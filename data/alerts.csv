@@ -4671,3 +4671,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-16T13:56:39+00:00,FORM_144,WSM,"William Sonoma, Inc.",proposed sale $200K,200195,,https://www.sec.gov/Archives/edgar/data/1511491/000162828026066058/0001628280-26-066058-index.htm,LOW
 2026-10-16T14:01:37+00:00,FORM_144,ENSG,"ENSIGN GROUP, INC",proposed sale $18K,17962,,https://www.sec.gov/Archives/edgar/data/2045482/000195917326007407/0001959173-26-007407-index.htm,LOW
 2026-10-16T14:21:34+00:00,FORM_144,TRU,TransUnion,proposed sale $30K,29775,,https://www.sec.gov/Archives/edgar/data/2058648/000195917326007408/0001959173-26-007408-index.htm,LOW
+2026-10-16T14:26:34+00:00,INSIDER_CLUSTER,BORR,Borr Drilling Ltd,Snowling Harvey Edward $1.47M,1473000,2,https://www.sec.gov/Archives/edgar/data/2116137/000162828026066061/0001628280-26-066061-index.htm,HIGH
