@@ -4672,3 +4672,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-16T14:01:37+00:00,FORM_144,ENSG,"ENSIGN GROUP, INC",proposed sale $18K,17962,,https://www.sec.gov/Archives/edgar/data/2045482/000195917326007407/0001959173-26-007407-index.htm,LOW
 2026-10-16T14:21:34+00:00,FORM_144,TRU,TransUnion,proposed sale $30K,29775,,https://www.sec.gov/Archives/edgar/data/2058648/000195917326007408/0001959173-26-007408-index.htm,LOW
 2026-10-16T14:26:34+00:00,INSIDER_CLUSTER,BORR,Borr Drilling Ltd,Snowling Harvey Edward $1.47M,1473000,2,https://www.sec.gov/Archives/edgar/data/2116137/000162828026066061/0001628280-26-066061-index.htm,HIGH
+2026-10-16T14:31:39+00:00,FORM_144,SIG,SIGNET JEWELERS LTD,proposed sale $49K,48600,,https://www.sec.gov/Archives/edgar/data/1821314/000195917326007410/0001959173-26-007410-index.htm,LOW
+2026-10-16T14:31:39+00:00,FORM_144,FERG,Ferguson Enterprises Inc. /DE/,proposed sale $252K,252310,,https://www.sec.gov/Archives/edgar/data/2011641/000195917326007409/0001959173-26-007409-index.htm,LOW
