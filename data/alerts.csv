@@ -4676,3 +4676,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-16T14:31:39+00:00,FORM_144,FERG,Ferguson Enterprises Inc. /DE/,proposed sale $252K,252310,,https://www.sec.gov/Archives/edgar/data/2011641/000195917326007409/0001959173-26-007409-index.htm,LOW
 2026-10-16T14:36:34+00:00,FORM_144,MTB,M&T BANK CORP,proposed sale $442K,441500,,https://www.sec.gov/Archives/edgar/data/1245781/000195917326007411/0001959173-26-007411-index.htm,LOW
 2026-10-16T16:51:33+00:00,INSIDER_CLUSTER,UMH,"UMH PROPERTIES, INC.",Mitchell William Edward $1K,1000,1,https://www.sec.gov/Archives/edgar/data/1782938/000075264226000132/0000752642-26-000132-index.htm,HIGH
+2026-10-16T18:36:32+00:00,INSIDER_CLUSTER,GABC,"GERMAN AMERICAN BANCORP, INC.",Ryan Christina M $100,100,1,https://www.sec.gov/Archives/edgar/data/1791771/000179177126000007/0001791771-26-000007-index.htm,HIGH
