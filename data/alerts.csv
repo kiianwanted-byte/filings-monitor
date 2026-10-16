@@ -4688,3 +4688,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-16T20:06:43+00:00,FORM_144,PACS,"PACS Group, Inc.",proposed sale $18.52M,18517482,,https://www.sec.gov/Archives/edgar/data/2014386/000196922326001078/0001969223-26-001078-index.htm,LOW
 2026-10-16T20:06:44+00:00,FORM_144,MAX,"MediaAlpha, Inc.",proposed sale $177K,176550,,https://www.sec.gov/Archives/edgar/data/1829969/000192109426001096/0001921094-26-001096-index.htm,LOW
 2026-10-16T20:11:43+00:00,FORM_144,LIFE,Ethos Technologies Inc.,proposed sale $1.51M,1510821,,https://www.sec.gov/Archives/edgar/data/2089362/000192109426001099/0001921094-26-001099-index.htm,LOW
+2026-10-16T20:16:44+00:00,FORM_144,MS,MORGAN STANLEY,proposed sale $534K,534447,,https://www.sec.gov/Archives/edgar/data/1466170/000195004726010284/0001950047-26-010284-index.htm,LOW
+2026-10-16T20:16:44+00:00,FORM_144,OPEN,Opendoor Technologies Inc.,proposed sale $21K,20682,,https://www.sec.gov/Archives/edgar/data/2096999/000209699926000012/0002096999-26-000012-index.htm,LOW
+2026-10-16T20:16:44+00:00,FORM_144,XYZ,"BLOCK, INC.",proposed sale $483K,482580,,https://www.sec.gov/Archives/edgar/data/1933928/000195004726010283/0001950047-26-010283-index.htm,LOW
+2026-10-16T20:16:45+00:00,FORM_144,BEAM,BEAM THERAPEUTICS INC.,proposed sale $600K,599595,,https://www.sec.gov/Archives/edgar/data/1786304/000195004726010282/0001950047-26-010282-index.htm,LOW
