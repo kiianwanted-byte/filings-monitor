@@ -4680,3 +4680,10 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-16T19:21:28+00:00,INSIDER_BUY,PAM,Pampa Energy Inc.,Mindlin Marcos Marcelo $35.14M,35139300,1,https://www.sec.gov/Archives/edgar/data/2022936/000202293626000017/0002022936-26-000017-index.htm,HIGH
 2026-10-16T20:01:36+00:00,FORM_144,GH,"Guardant Health, Inc.",proposed sale $19K,19242,,https://www.sec.gov/Archives/edgar/data/1968281/000192109426001095/0001921094-26-001095-index.htm,LOW
 2026-10-16T20:01:36+00:00,FORM_144,AVPT,"AvePoint, Inc.",proposed sale $53K,53214,,https://www.sec.gov/Archives/edgar/data/1865783/000196530126000162/0001965301-26-000162-index.htm,LOW
+2026-10-16T20:06:38+00:00,INSIDER_BUY,PEP,PEPSICO INC,POHLAD ROBERT C $23.69M,23686388,2,https://www.sec.gov/Archives/edgar/data/1061272/000106127226000004/0001061272-26-000004-index.htm,HIGH
+2026-10-16T20:06:42+00:00,FORM_144,QCOM,QUALCOMM INCORPORATED,proposed sale $319K,319268,,https://www.sec.gov/Archives/edgar/data/1888491/000195004726010281/0001950047-26-010281-index.htm,LOW
+2026-10-16T20:06:42+00:00,FORM_144,SNAP,Snap Inc,proposed sale $43K,42706,,https://www.sec.gov/Archives/edgar/data/2062182/000192109426001098/0001921094-26-001098-index.htm,LOW
+2026-10-16T20:06:43+00:00,FORM_144,SNAP,Snap Inc,proposed sale $266K,266261,,https://www.sec.gov/Archives/edgar/data/2156232/000192109426001097/0001921094-26-001097-index.htm,LOW
+2026-10-16T20:06:43+00:00,FORM_144,BETA,"BETA Technologies, Inc.",proposed sale $185K,185055,,https://www.sec.gov/Archives/edgar/data/2090083/000195917326007412/0001959173-26-007412-index.htm,LOW
+2026-10-16T20:06:43+00:00,FORM_144,PACS,"PACS Group, Inc.",proposed sale $18.52M,18517482,,https://www.sec.gov/Archives/edgar/data/2014386/000196922326001078/0001969223-26-001078-index.htm,LOW
+2026-10-16T20:06:44+00:00,FORM_144,MAX,"MediaAlpha, Inc.",proposed sale $177K,176550,,https://www.sec.gov/Archives/edgar/data/1829969/000192109426001096/0001921094-26-001096-index.htm,LOW
