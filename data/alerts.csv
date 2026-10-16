@@ -4678,3 +4678,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-16T16:51:33+00:00,INSIDER_CLUSTER,UMH,"UMH PROPERTIES, INC.",Mitchell William Edward $1K,1000,1,https://www.sec.gov/Archives/edgar/data/1782938/000075264226000132/0000752642-26-000132-index.htm,HIGH
 2026-10-16T18:36:32+00:00,INSIDER_CLUSTER,GABC,"GERMAN AMERICAN BANCORP, INC.",Ryan Christina M $100,100,1,https://www.sec.gov/Archives/edgar/data/1791771/000179177126000007/0001791771-26-000007-index.htm,HIGH
 2026-10-16T19:21:28+00:00,INSIDER_BUY,PAM,Pampa Energy Inc.,Mindlin Marcos Marcelo $35.14M,35139300,1,https://www.sec.gov/Archives/edgar/data/2022936/000202293626000017/0002022936-26-000017-index.htm,HIGH
+2026-10-16T20:01:36+00:00,FORM_144,GH,"Guardant Health, Inc.",proposed sale $19K,19242,,https://www.sec.gov/Archives/edgar/data/1968281/000192109426001095/0001921094-26-001095-index.htm,LOW
+2026-10-16T20:01:36+00:00,FORM_144,AVPT,"AvePoint, Inc.",proposed sale $53K,53214,,https://www.sec.gov/Archives/edgar/data/1865783/000196530126000162/0001965301-26-000162-index.htm,LOW
