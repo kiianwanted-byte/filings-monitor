@@ -1473,3 +1473,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-10-16T20:06:34+00:00,2026-10-15,NBIS,Nebius Group N.V.,Grimme Arne,Director,296,169.99,50317,5.0,0001513845-26-000130
 2026-10-16T20:06:38+00:00,2026-10-14,PEP,PEPSICO INC,POHLAD ROBERT C,Director,184646,128.28,23686388,74.3,0001061272-26-000004
 2026-10-16T20:06:41+00:00,2026-10-14,BYRN,Byrna Technologies Inc.,Roth Adam L.,Director,15000,4.69,70375,342.5,0001437749-26-032801
+2026-10-16T20:11:42+00:00,2026-10-15,FIS,"Fidelity National Information Services, Inc.",Goldstein Jeffrey A,Director,1585,36.40,57694,9.3,0001628280-26-066127
