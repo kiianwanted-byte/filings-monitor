@@ -4715,3 +4715,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-16T22:11:31+00:00,FORM_144,LOCO,"El Pollo Loco Holdings, Inc.",proposed sale $6.22M,6217756,,https://www.sec.gov/Archives/edgar/data/1726173/000092189526002810/0000921895-26-002810-index.htm,LOW
 2026-10-16T22:11:32+00:00,FORM_144,LOCO,"El Pollo Loco Holdings, Inc.",proposed sale $10.51M,10508904,,https://www.sec.gov/Archives/edgar/data/1606366/000092189526002808/0000921895-26-002808-index.htm,LOW
 2026-10-16T23:01:30+00:00,FORM_144,SARO,"StandardAero, Inc.",proposed sale $17K,16567,,https://www.sec.gov/Archives/edgar/data/2025410/000119312526424366/0001193125-26-424366-index.htm,LOW
+2026-10-16T23:51:28+00:00,FORM_144,BAND,Bandwidth Inc.,proposed sale $223K,223200,,https://www.sec.gov/Archives/edgar/data/1758209/000175820926000016/0001758209-26-000016-index.htm,LOW
