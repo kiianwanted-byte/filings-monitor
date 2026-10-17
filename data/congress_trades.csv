@@ -3101,3 +3101,10 @@ timestamp,chamber,member,ticker,asset,action,amount_low,amount_high,trade_date,f
 2026-10-15T17:43:24+00:00,House,Mike Kelly,,Black Belt Energy Gas Dist AL 1 Rev,BUY,15001,50000,2026-09-18,2026-10-14,26,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035652.pdf
 2026-10-15T17:43:24+00:00,House,Mike Kelly,,California Cmnty Choice Fing A,BUY,50001,100000,2026-09-16,2026-10-14,28,MEDIUM,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035652.pdf
 2026-10-15T17:43:24+00:00,House,Richard Dean Dr McCormick,BRK.B,Berkshire Hathaway Inc. New,BUY,1001,15000,2026-09-18,2026-10-14,26,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035651.pdf
+2026-10-17T00:20:40+00:00,House,Scott H. Peters,,CA ST GO UTX,BUY,250001,500000,2026-09-03,2026-10-15,42,MEDIUM,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035637.pdf
+2026-10-17T00:20:40+00:00,House,Scott H. Peters,,Charlotte-Meckle HLTH,BUY,250001,500000,2026-09-25,2026-10-15,20,MEDIUM,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035637.pdf
+2026-10-17T00:20:40+00:00,House,Scott H. Peters,,U.S. Treasury Bill,SELL,250001,500000,2026-09-24,2026-10-15,21,MEDIUM,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035637.pdf
+2026-10-17T00:20:40+00:00,House,David J. Taylor,T,AT&T Inc,BUY,1001,15000,2026-10-09,2026-10-15,6,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035660.pdf
+2026-10-17T00:20:40+00:00,House,David J. Taylor,FITB,Fifth Third Bancorp - Common Stock,BUY,1001,15000,2026-10-09,2026-10-15,6,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035660.pdf
+2026-10-17T00:20:40+00:00,House,David J. Taylor,PG,Procter & Gamble Company,SELL,1001,15000,2026-10-12,2026-10-15,3,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035660.pdf
+2026-10-17T00:20:40+00:00,House,David J. Taylor,RPM,RPM International Inc. Common,BUY,1001,15000,2026-10-09,2026-10-15,6,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035660.pdf
