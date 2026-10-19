@@ -4731,3 +4731,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-19T18:46:30+00:00,FORM_144,BETR,Better Home & Finance Holding Company,proposed sale $14K,13798,,https://www.sec.gov/Archives/edgar/data/1835856/000196922326001079/0001969223-26-001079-index.htm,LOW
 2026-10-19T18:56:33+00:00,FORM_144,BETR,Better Home & Finance,proposed sale $13K,12736,,https://www.sec.gov/Archives/edgar/data/1989210/000196922326001080/0001969223-26-001080-index.htm,LOW
 2026-10-19T19:16:32+00:00,FORM_144,SNOW,Snowflake Inc.,proposed sale $94.93M,94930165,,https://www.sec.gov/Archives/edgar/data/1640147/000195917326007416/0001959173-26-007416-index.htm,MEDIUM
+2026-10-19T19:21:34+00:00,FORM_144,OKLO,Oklo Inc.,proposed sale $65K,65181,,https://www.sec.gov/Archives/edgar/data/2146790/000195917326007417/0001959173-26-007417-index.htm,LOW
