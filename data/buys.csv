@@ -1495,3 +1495,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-10-19T12:41:35+00:00,2026-10-15,API,"Agora, Inc.",Zhao Bin,"Director, Chief Executive Officer",17345,4.44,76930,0.8,0001193125-26-424723
 2026-10-19T13:41:31+00:00,2026-10-16,FUL,FULLER H B CO,Malik Muhammad Shahbaz,"Senior VP, BAS",478,52.23,24999,3.5,0001225208-26-008441
 2026-10-19T15:51:13+00:00,2026-10-15,,Sterling Real Estate Trust,Carlson Michael Paul,GENERAL COUNSEL & SECRETARY,78,25.50,1999,14.4,0001959506-26-000008
+2026-10-19T16:01:35+00:00,2026-10-15,,Sterling Real Estate Trust,Wieland James,10% owner,980,25.50,24999,0.5,0001519822-26-000011
