@@ -1502,3 +1502,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-10-19T20:11:49+00:00,2026-10-16,XFOR,"X4 Pharmaceuticals, Inc",Craig Adam R,"Director, Executive Chairman",4600,2.58,11883,1.4,0001339498-26-000005
 2026-10-19T20:31:37+00:00,2026-10-15,CRBG,"Corebridge Financial, Inc.",NIPPON LIFE INSURANCE CO,10% owner,510873,33.43,17076201,0.4,0001193125-26-425300
 2026-10-19T20:51:39+00:00,2026-10-15,CNXU,Conexeu Sciences Inc.,Purcell Lynn Sebastian,"Director, 10% owner",166666,3.00,499998,5.6,0002128469-26-000009
+2026-10-19T21:06:38+00:00,2026-10-15,BPRE,Bluerock Private Real Estate Fund,KAMFAR RAMIN,Director,194228,12.47,2422335,8.6,0001398344-26-018404

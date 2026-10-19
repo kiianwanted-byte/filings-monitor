@@ -4766,3 +4766,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-19T20:46:44+00:00,FORM_144,IRON,"Disc Medicine, Inc.",proposed sale $7K,6536,,https://www.sec.gov/Archives/edgar/data/1816736/000162828026066324/0001628280-26-066324-index.htm,LOW
 2026-10-19T20:46:45+00:00,FORM_144,UPWK,UPWORK INC.,proposed sale $5K,4712,,https://www.sec.gov/Archives/edgar/data/1860481/000195004726010310/0001950047-26-010310-index.htm,LOW
 2026-10-19T20:51:40+00:00,FORM_144,BRCC,BRC Inc.,proposed sale $1.01M,1008000,,https://www.sec.gov/Archives/edgar/data/1908407/000197407826000383/0001974078-26-000383-index.htm,LOW
+2026-10-19T21:06:38+00:00,INSIDER_CLUSTER,BPRE,Bluerock Private Real Estate Fund,KAMFAR RAMIN $2.42M,2422335,4,https://www.sec.gov/Archives/edgar/data/1551047/000139834426018404/0001398344-26-018404-index.htm,HIGH
