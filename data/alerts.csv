@@ -4743,3 +4743,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-19T20:06:50+00:00,FORM_144,MAX,"MediaAlpha, Inc.",proposed sale $315K,314750,,https://www.sec.gov/Archives/edgar/data/1830016/000192109426001102/0001921094-26-001102-index.htm,LOW
 2026-10-19T20:06:50+00:00,FORM_144,IOT,Samsara Inc.,proposed sale $31K,30638,,https://www.sec.gov/Archives/edgar/data/2074298/000192109426001101/0001921094-26-001101-index.htm,LOW
 2026-10-19T20:06:51+00:00,FORM_144,BLND,"Blend Labs, Inc.",proposed sale $26K,25676,,https://www.sec.gov/Archives/edgar/data/1870974/000192109426001100/0001921094-26-001100-index.htm,LOW
+2026-10-19T20:21:42+00:00,FORM_144,CRWD,"Crowdstrike Holdings, Inc.",proposed sale $140.98M,140981800,,https://www.sec.gov/Archives/edgar/data/1778564/000196858226001062/0001968582-26-001062-index.htm,MEDIUM
+2026-10-19T20:21:43+00:00,FORM_144,FLOC,Flowco Holdings Inc.,proposed sale $148K,147651,,https://www.sec.gov/Archives/edgar/data/2049797/000195779926000183/0001957799-26-000183-index.htm,LOW
+2026-10-19T20:21:44+00:00,FORM_144,ELVN,"Enliven Therapeutics, Inc.",proposed sale $560K,559800,,https://www.sec.gov/Archives/edgar/data/1701247/000197415826000109/0001974158-26-000109-index.htm,LOW
