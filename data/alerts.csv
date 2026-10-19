@@ -4726,3 +4726,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-19T13:41:31+00:00,INSIDER_CLUSTER,FUL,FULLER H B CO,Malik Muhammad Shahbaz $25K,24999,3,https://www.sec.gov/Archives/edgar/data/1621150/000122520826008441/0001225208-26-008441-index.htm,HIGH
 2026-10-19T13:41:33+00:00,FORM_144,MARA,"MARA Holdings, Inc.",proposed sale $126K,126080,,https://www.sec.gov/Archives/edgar/data/1907413/000195917326007414/0001959173-26-007414-index.htm,LOW
 2026-10-19T14:11:31+00:00,FORM_144,DNA,"Ginkgo Bioworks Holdings, Inc.",proposed sale $23K,22836,,https://www.sec.gov/Archives/edgar/data/1882820/000195917326007415/0001959173-26-007415-index.htm,LOW
+2026-10-19T14:16:35+00:00,FORM_144,NWN,Northwest Natural Holding Co,proposed sale $1.09M,1088790,,https://www.sec.gov/Archives/edgar/data/1733998/000194984626000616/0001949846-26-000616-index.htm,LOW
