@@ -3108,3 +3108,5 @@ timestamp,chamber,member,ticker,asset,action,amount_low,amount_high,trade_date,f
 2026-10-17T00:20:40+00:00,House,David J. Taylor,FITB,Fifth Third Bancorp - Common Stock,BUY,1001,15000,2026-10-09,2026-10-15,6,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035660.pdf
 2026-10-17T00:20:40+00:00,House,David J. Taylor,PG,Procter & Gamble Company,SELL,1001,15000,2026-10-12,2026-10-15,3,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035660.pdf
 2026-10-17T00:20:40+00:00,House,David J. Taylor,RPM,RPM International Inc. Common,BUY,1001,15000,2026-10-09,2026-10-15,6,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035660.pdf
+2026-10-19T22:16:46+00:00,House,Laurel Lee,BAC,Bank of America Corporation,SELL,50001,100000,2026-08-24,2026-10-16,53,MEDIUM,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035490.pdf
+2026-10-19T22:16:46+00:00,House,Laurel Lee,NOKBF,NOKIA A SHS,BUY,15001,50000,2026-09-18,2026-10-16,28,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035490.pdf
