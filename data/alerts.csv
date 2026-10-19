@@ -4721,3 +4721,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-19T10:06:34+00:00,INSIDER_CLUSTER,FNGR,"FingerMotion, Inc.",Polimeni Christopher Vincent $2K,2469,3,https://www.sec.gov/Archives/edgar/data/1974906/000149315226047479/0001493152-26-047479-index.htm,HIGH
 2026-10-19T11:16:41+00:00,INSIDER_CLUSTER,APLD,Applied Digital Corp.,Cummins Wes $1.01M,1006686,3,https://www.sec.gov/Archives/edgar/data/1391935/000139193526000009/0001391935-26-000009-index.htm,HIGH
 2026-10-19T11:21:29+00:00,FORM_144,KRNT,Kornit Digital Ltd.,proposed sale $114K,113871,,https://www.sec.gov/Archives/edgar/data/2125959/000197640826000895/0001976408-26-000895-index.htm,LOW
+2026-10-19T11:26:28+00:00,FORM_144,VLN,Valens Semiconductor Ltd.,proposed sale $13K,12653,,https://www.sec.gov/Archives/edgar/data/1991398/000197640826000896/0001976408-26-000896-index.htm,LOW
