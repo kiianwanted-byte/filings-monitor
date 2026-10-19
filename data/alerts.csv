@@ -4718,3 +4718,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-16T23:51:28+00:00,FORM_144,BAND,Bandwidth Inc.,proposed sale $223K,223200,,https://www.sec.gov/Archives/edgar/data/1758209/000175820926000016/0001758209-26-000016-index.htm,LOW
 2026-10-17T00:11:34+00:00,FORM_144,PEW,GrabAGun Digital Holdings Inc.,proposed sale $4K,3805,,https://www.sec.gov/Archives/edgar/data/2060636/000206063626000002/0002060636-26-000002-index.htm,LOW
 2026-10-17T00:11:34+00:00,FORM_144,PEW,GrabAGun Digital Holdings Inc.,proposed sale $8K,7600,,https://www.sec.gov/Archives/edgar/data/2060619/000206061926000002/0002060619-26-000002-index.htm,LOW
+2026-10-19T10:06:34+00:00,INSIDER_CLUSTER,FNGR,"FingerMotion, Inc.",Polimeni Christopher Vincent $2K,2469,3,https://www.sec.gov/Archives/edgar/data/1974906/000149315226047479/0001493152-26-047479-index.htm,HIGH
