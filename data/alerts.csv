@@ -4728,3 +4728,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-19T14:11:31+00:00,FORM_144,DNA,"Ginkgo Bioworks Holdings, Inc.",proposed sale $23K,22836,,https://www.sec.gov/Archives/edgar/data/1882820/000195917326007415/0001959173-26-007415-index.htm,LOW
 2026-10-19T14:16:35+00:00,FORM_144,NWN,Northwest Natural Holding Co,proposed sale $1.09M,1088790,,https://www.sec.gov/Archives/edgar/data/1733998/000194984626000616/0001949846-26-000616-index.htm,LOW
 2026-10-19T17:31:32+00:00,INSIDER_BUY,LNBIX,Lincoln Bain Capital Total Credit Fund,Lincoln Financial Investments Corp $25.00M,24999999,4,https://www.sec.gov/Archives/edgar/data/2054992/000119312526425009/0001193125-26-425009-index.htm,HIGH
+2026-10-19T18:46:30+00:00,FORM_144,BETR,Better Home & Finance Holding Company,proposed sale $14K,13798,,https://www.sec.gov/Archives/edgar/data/1835856/000196922326001079/0001969223-26-001079-index.htm,LOW
