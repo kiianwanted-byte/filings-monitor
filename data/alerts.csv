@@ -4760,3 +4760,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-19T20:26:48+00:00,FORM_144,SOTK,SONO TEK CORP,proposed sale $64K,63720,,https://www.sec.gov/Archives/edgar/data/1215582/000195917326007423/0001959173-26-007423-index.htm,LOW
 2026-10-19T20:31:37+00:00,INSIDER_BUY,CRBG,"Corebridge Financial, Inc.",NIPPON LIFE INSURANCE CO $17.08M,17076201,4,https://www.sec.gov/Archives/edgar/data/1889539/000119312526425300/0001193125-26-425300-index.htm,LOW
 2026-10-19T20:31:49+00:00,FORM_144,CLOV,"Clover Health Investments, Corp.",proposed sale $18K,18215,,https://www.sec.gov/Archives/edgar/data/1839066/000195004726010309/0001950047-26-010309-index.htm,LOW
+2026-10-19T20:46:41+00:00,FORM_144,IRON,"Disc Medicine, Inc.",proposed sale $281K,280903,,https://www.sec.gov/Archives/edgar/data/1885327/000162828026066327/0001628280-26-066327-index.htm,LOW
+2026-10-19T20:46:42+00:00,FORM_144,IRON,"Disc Medicine, Inc.",proposed sale $337K,337459,,https://www.sec.gov/Archives/edgar/data/1816736/000162828026066326/0001628280-26-066326-index.htm,LOW
+2026-10-19T20:46:43+00:00,FORM_144,IRON,"Disc Medicine, Inc.",proposed sale $819K,819291,,https://www.sec.gov/Archives/edgar/data/1816736/000162828026066325/0001628280-26-066325-index.htm,LOW
+2026-10-19T20:46:44+00:00,FORM_144,IRON,"Disc Medicine, Inc.",proposed sale $7K,6536,,https://www.sec.gov/Archives/edgar/data/1816736/000162828026066324/0001628280-26-066324-index.htm,LOW
+2026-10-19T20:46:45+00:00,FORM_144,UPWK,UPWORK INC.,proposed sale $5K,4712,,https://www.sec.gov/Archives/edgar/data/1860481/000195004726010310/0001950047-26-010310-index.htm,LOW
