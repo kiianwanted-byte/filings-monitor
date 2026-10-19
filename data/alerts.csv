@@ -4746,3 +4746,15 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-19T20:21:42+00:00,FORM_144,CRWD,"Crowdstrike Holdings, Inc.",proposed sale $140.98M,140981800,,https://www.sec.gov/Archives/edgar/data/1778564/000196858226001062/0001968582-26-001062-index.htm,MEDIUM
 2026-10-19T20:21:43+00:00,FORM_144,FLOC,Flowco Holdings Inc.,proposed sale $148K,147651,,https://www.sec.gov/Archives/edgar/data/2049797/000195779926000183/0001957799-26-000183-index.htm,LOW
 2026-10-19T20:21:44+00:00,FORM_144,ELVN,"Enliven Therapeutics, Inc.",proposed sale $560K,559800,,https://www.sec.gov/Archives/edgar/data/1701247/000197415826000109/0001974158-26-000109-index.htm,LOW
+2026-10-19T20:26:42+00:00,FORM_144,CVX,Chevron Corporation,proposed sale $9.70M,9697069,,https://www.sec.gov/Archives/edgar/data/1469419/000195004726010308/0001950047-26-010308-index.htm,LOW
+2026-10-19T20:26:43+00:00,FORM_144,GTLB,GITLAB INC.,proposed sale $18.39M,18392136,,https://www.sec.gov/Archives/edgar/data/1886022/000195004726010307/0001950047-26-010307-index.htm,LOW
+2026-10-19T20:26:43+00:00,FORM_144,NET,"Cloudflare, Inc.",proposed sale $3.70M,3703750,,https://www.sec.gov/Archives/edgar/data/1477333/000195004726010306/0001950047-26-010306-index.htm,LOW
+2026-10-19T20:26:44+00:00,FORM_144,GLBE,Global-E Online Ltd.,proposed sale $8K,7764,,https://www.sec.gov/Archives/edgar/data/2073864/000195004726010305/0001950047-26-010305-index.htm,LOW
+2026-10-19T20:26:44+00:00,FORM_144,VG,"VENTURE GLOBAL, INC.",proposed sale $2.83M,2826663,,https://www.sec.gov/Archives/edgar/data/2007855/000195004726010304/0001950047-26-010304-index.htm,LOW
+2026-10-19T20:26:45+00:00,FORM_144,HRTG,"Heritage Insurance Holdings, Inc.",proposed sale $125K,125195,,https://www.sec.gov/Archives/edgar/data/1598665/000195004726010303/0001950047-26-010303-index.htm,LOW
+2026-10-19T20:26:45+00:00,FORM_144,FSLY,"FASTLY, INC.",proposed sale $203K,202589,,https://www.sec.gov/Archives/edgar/data/2074428/000195004726010302/0001950047-26-010302-index.htm,LOW
+2026-10-19T20:26:46+00:00,FORM_144,SPRY,"ARS PHARMACEUTICALS, INC.",proposed sale $410K,410240,,https://www.sec.gov/Archives/edgar/data/1951287/000195004726010301/0001950047-26-010301-index.htm,LOW
+2026-10-19T20:26:46+00:00,FORM_144,XYZ,"BLOCK, INC.",proposed sale $471K,471480,,https://www.sec.gov/Archives/edgar/data/1933928/000195004726010300/0001950047-26-010300-index.htm,LOW
+2026-10-19T20:26:47+00:00,FORM_144,GWRE,"GUIDEWIRE SOFTWARE, INC.",proposed sale $201K,201480,,https://www.sec.gov/Archives/edgar/data/1784996/000195004726010299/0001950047-26-010299-index.htm,LOW
+2026-10-19T20:26:47+00:00,FORM_144,BETA,"BETA Technologies, Inc.",proposed sale $181K,181114,,https://www.sec.gov/Archives/edgar/data/2090083/000195917326007424/0001959173-26-007424-index.htm,LOW
+2026-10-19T20:26:48+00:00,FORM_144,SOTK,SONO TEK CORP,proposed sale $64K,63720,,https://www.sec.gov/Archives/edgar/data/1215582/000195917326007423/0001959173-26-007423-index.htm,LOW
