@@ -4738,3 +4738,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-19T19:51:38+00:00,FORM_144,DNA,"Ginkgo Bioworks Holdings, Inc.",proposed sale $163K,162869,,https://www.sec.gov/Archives/edgar/data/1882820/000195917326007420/0001959173-26-007420-index.htm,LOW
 2026-10-19T19:51:38+00:00,FORM_144,DNA,"Ginkgo Bioworks Holdings, Inc.",proposed sale $227K,226879,,https://www.sec.gov/Archives/edgar/data/1873523/000195917326007419/0001959173-26-007419-index.htm,LOW
 2026-10-19T20:01:35+00:00,FORM_144,DNA,"Ginkgo Bioworks Holdings, Inc.",proposed sale $8K,7769,,https://www.sec.gov/Archives/edgar/data/1977441/000195917326007422/0001959173-26-007422-index.htm,LOW
+2026-10-19T20:06:48+00:00,FORM_144,META,"Meta Platforms, Inc.",proposed sale $1.11M,1113840,,https://www.sec.gov/Archives/edgar/data/1564475/000192109426001104/0001921094-26-001104-index.htm,LOW
+2026-10-19T20:06:49+00:00,FORM_144,MAX,"MediaAlpha, Inc.",proposed sale $410K,409935,,https://www.sec.gov/Archives/edgar/data/1829989/000192109426001103/0001921094-26-001103-index.htm,LOW
+2026-10-19T20:06:50+00:00,FORM_144,MAX,"MediaAlpha, Inc.",proposed sale $315K,314750,,https://www.sec.gov/Archives/edgar/data/1830016/000192109426001102/0001921094-26-001102-index.htm,LOW
+2026-10-19T20:06:50+00:00,FORM_144,IOT,Samsara Inc.,proposed sale $31K,30638,,https://www.sec.gov/Archives/edgar/data/2074298/000192109426001101/0001921094-26-001101-index.htm,LOW
+2026-10-19T20:06:51+00:00,FORM_144,BLND,"Blend Labs, Inc.",proposed sale $26K,25676,,https://www.sec.gov/Archives/edgar/data/1870974/000192109426001100/0001921094-26-001100-index.htm,LOW
