@@ -1492,3 +1492,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-10-19T11:11:32+00:00,2026-10-16,APLD,Applied Digital Corp.,Zhang Jason Gechen,President,300000,18.86,5658000,11.8,0001900445-26-000006
 2026-10-19T11:16:41+00:00,2026-10-16,APLD,Applied Digital Corp.,Cummins Wes,"Director, CEO; Chairman",55803,18.04,1006686,1.0,0001391935-26-000009
 2026-10-19T12:01:28+00:00,2026-10-16,UXIN,Uxin Ltd,Dai Kun,"Director, Chief Executive Officer",2548,1.03,2615,2.8,0001493152-26-047506
+2026-10-19T12:41:35+00:00,2026-10-15,API,"Agora, Inc.",Zhao Bin,"Director, Chief Executive Officer",17345,4.44,76930,0.8,0001193125-26-424723
