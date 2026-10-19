@@ -4758,3 +4758,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-19T20:26:47+00:00,FORM_144,GWRE,"GUIDEWIRE SOFTWARE, INC.",proposed sale $201K,201480,,https://www.sec.gov/Archives/edgar/data/1784996/000195004726010299/0001950047-26-010299-index.htm,LOW
 2026-10-19T20:26:47+00:00,FORM_144,BETA,"BETA Technologies, Inc.",proposed sale $181K,181114,,https://www.sec.gov/Archives/edgar/data/2090083/000195917326007424/0001959173-26-007424-index.htm,LOW
 2026-10-19T20:26:48+00:00,FORM_144,SOTK,SONO TEK CORP,proposed sale $64K,63720,,https://www.sec.gov/Archives/edgar/data/1215582/000195917326007423/0001959173-26-007423-index.htm,LOW
+2026-10-19T20:31:37+00:00,INSIDER_BUY,CRBG,"Corebridge Financial, Inc.",NIPPON LIFE INSURANCE CO $17.08M,17076201,4,https://www.sec.gov/Archives/edgar/data/1889539/000119312526425300/0001193125-26-425300-index.htm,LOW
+2026-10-19T20:31:49+00:00,FORM_144,CLOV,"Clover Health Investments, Corp.",proposed sale $18K,18215,,https://www.sec.gov/Archives/edgar/data/1839066/000195004726010309/0001950047-26-010309-index.htm,LOW

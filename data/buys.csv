@@ -1500,3 +1500,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-10-19T17:31:32+00:00,2026-10-15,LNBIX,Lincoln Bain Capital Total Credit Fund,Lincoln Financial Investments Corp,10% owner,2477700,10.09,24999999,8.8,0001193125-26-425009
 2026-10-19T19:46:53+00:00,2026-10-19,EQBK,EQUITY BANCSHARES INC,Borck Leon,Director,380,48.78,18536,0.4,0001886793-26-000004
 2026-10-19T20:11:49+00:00,2026-10-16,XFOR,"X4 Pharmaceuticals, Inc",Craig Adam R,"Director, Executive Chairman",4600,2.58,11883,1.4,0001339498-26-000005
+2026-10-19T20:31:37+00:00,2026-10-15,CRBG,"Corebridge Financial, Inc.",NIPPON LIFE INSURANCE CO,10% owner,510873,33.43,17076201,0.4,0001193125-26-425300
