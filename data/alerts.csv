@@ -4783,3 +4783,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-20T16:56:13+00:00,FORM_144,W,Wayfair Inc.,proposed sale $920K,920000,,https://www.sec.gov/Archives/edgar/data/1867558/000195917326007431/0001959173-26-007431-index.htm,LOW
 2026-10-20T17:09:52+00:00,FORM_144,HUBS,HUBSPOT INC,proposed sale $2.04M,2036345,,https://www.sec.gov/Archives/edgar/data/1603527/000195917326007432/0001959173-26-007432-index.htm,LOW
 2026-10-20T19:56:38+00:00,FORM_144,TILE,Interface Inc.,proposed sale $142K,141544,,https://www.sec.gov/Archives/edgar/data/1094629/000162828026066481/0001628280-26-066481-index.htm,LOW
+2026-10-20T20:06:44+00:00,FORM_144,JBL,JABIL INC,proposed sale $288K,287570,,https://www.sec.gov/Archives/edgar/data/2011807/000196922326001082/0001969223-26-001082-index.htm,LOW
+2026-10-20T20:06:45+00:00,FORM_144,KMTS,"KESTRA MEDICAL TECHNOLOGIES, LTD.",proposed sale $443K,443388,,https://www.sec.gov/Archives/edgar/data/1877188/000196430626000472/0001964306-26-000472-index.htm,LOW
+2026-10-20T20:06:45+00:00,FORM_144,VRSK,"Verisk Analytics, Inc.",proposed sale $3.25M,3249748,,https://www.sec.gov/Archives/edgar/data/1803783/000196430626000471/0001964306-26-000471-index.htm,LOW
