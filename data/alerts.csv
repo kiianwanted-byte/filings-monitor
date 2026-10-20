@@ -4781,3 +4781,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-20T16:36:33+00:00,FORM_144,ADI,ANALOG DEVICES INC,proposed sale $584K,584190,,https://www.sec.gov/Archives/edgar/data/2009110/000195917326007429/0001959173-26-007429-index.htm,LOW
 2026-10-20T16:51:36+00:00,FORM_144,TRV,"TRAVELERS COMPANIES, INC.",proposed sale $2.95M,2945932,,https://www.sec.gov/Archives/edgar/data/1689571/000195917326007430/0001959173-26-007430-index.htm,LOW
 2026-10-20T16:56:13+00:00,FORM_144,W,Wayfair Inc.,proposed sale $920K,920000,,https://www.sec.gov/Archives/edgar/data/1867558/000195917326007431/0001959173-26-007431-index.htm,LOW
+2026-10-20T17:09:52+00:00,FORM_144,HUBS,HUBSPOT INC,proposed sale $2.04M,2036345,,https://www.sec.gov/Archives/edgar/data/1603527/000195917326007432/0001959173-26-007432-index.htm,LOW
