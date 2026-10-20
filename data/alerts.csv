@@ -4786,3 +4786,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-20T20:06:44+00:00,FORM_144,JBL,JABIL INC,proposed sale $288K,287570,,https://www.sec.gov/Archives/edgar/data/2011807/000196922326001082/0001969223-26-001082-index.htm,LOW
 2026-10-20T20:06:45+00:00,FORM_144,KMTS,"KESTRA MEDICAL TECHNOLOGIES, LTD.",proposed sale $443K,443388,,https://www.sec.gov/Archives/edgar/data/1877188/000196430626000472/0001964306-26-000472-index.htm,LOW
 2026-10-20T20:06:45+00:00,FORM_144,VRSK,"Verisk Analytics, Inc.",proposed sale $3.25M,3249748,,https://www.sec.gov/Archives/edgar/data/1803783/000196430626000471/0001964306-26-000471-index.htm,LOW
+2026-10-20T20:11:41+00:00,FORM_144,CNVS,Cineverse Corp.,proposed sale $38K,38108,,https://www.sec.gov/Archives/edgar/data/1977756/000195917326007433/0001959173-26-007433-index.htm,LOW
+2026-10-20T20:11:41+00:00,FORM_144,SFIX,"Stitch Fix, Inc.",proposed sale $189K,189183,,https://www.sec.gov/Archives/edgar/data/2004694/000192109426001106/0001921094-26-001106-index.htm,LOW
+2026-10-20T20:11:42+00:00,FORM_144,PINS,"PINTEREST, INC.",proposed sale $1.06M,1057482,,https://www.sec.gov/Archives/edgar/data/1773914/000192109426001105/0001921094-26-001105-index.htm,LOW
+2026-10-20T20:11:42+00:00,FORM_144,BSVN,Bank7 Corp.,proposed sale $101K,100826,,https://www.sec.gov/Archives/edgar/data/2124542/000197248126000294/0001972481-26-000294-index.htm,LOW
