@@ -4773,3 +4773,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-19T21:41:34+00:00,INSIDER_CLUSTER,CTY,"CITY THERAPEUTICS, INC.",NELSEN ROBERT $3.06M,3060000,0,https://www.sec.gov/Archives/edgar/data/2143850/000110465926116965/0001104659-26-116965-index.htm,HIGH
 2026-10-19T22:41:33+00:00,FORM_144,IBTA,"IBOTTA, INC.",proposed sale $1.65M,1653400,,https://www.sec.gov/Archives/edgar/data/1875168/000195824426000665/0001958244-26-000665-index.htm,LOW
 2026-10-19T23:51:34+00:00,INSIDER_BUY,IAM,"Iambic Therapeutics, Inc.",Rachlin Evan Lockwood $11.50M,11500000,3,https://www.sec.gov/Archives/edgar/data/2151678/000215167826000007/0002151678-26-000007-index.htm,HIGH
+2026-10-20T01:26:33+00:00,FORM_144,ZJK,"ZJK Industrial Co., Ltd.",proposed sale $1.23M,1234282,,https://www.sec.gov/Archives/edgar/data/2085989/000208598926000002/0002085989-26-000002-index.htm,LOW
