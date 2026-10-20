@@ -4778,3 +4778,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-20T13:56:31+00:00,FORM_144,STT,STATE STREET CORP,proposed sale $2.40M,2395588,,https://www.sec.gov/Archives/edgar/data/1180495/000195917326007426/0001959173-26-007426-index.htm,LOW
 2026-10-20T15:16:36+00:00,FORM_144,VZ,VERIZON COMMUNICATIONS INC,proposed sale $49K,48928,,https://www.sec.gov/Archives/edgar/data/1760581/000195917326007427/0001959173-26-007427-index.htm,LOW
 2026-10-20T15:41:35+00:00,FORM_144,SBUX,STARBUCKS CORP,proposed sale $59K,58800,,https://www.sec.gov/Archives/edgar/data/2018223/000195917326007428/0001959173-26-007428-index.htm,LOW
+2026-10-20T16:36:33+00:00,FORM_144,ADI,ANALOG DEVICES INC,proposed sale $584K,584190,,https://www.sec.gov/Archives/edgar/data/2009110/000195917326007429/0001959173-26-007429-index.htm,LOW
