@@ -4821,3 +4821,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-20T21:01:38+00:00,FORM_144,AVPT,"AvePoint, Inc.",proposed sale $1.11M,1108064,,https://www.sec.gov/Archives/edgar/data/1865783/000196530126000164/0001965301-26-000164-index.htm,LOW
 2026-10-20T21:16:38+00:00,FORM_144,IRON,"Disc Medicine, Inc.",proposed sale $550K,549747,,https://www.sec.gov/Archives/edgar/data/1816736/000162828026066535/0001628280-26-066535-index.htm,LOW
 2026-10-20T21:16:39+00:00,FORM_144,IRON,"Disc Medicine, Inc.",proposed sale $4K,4341,,https://www.sec.gov/Archives/edgar/data/1816736/000162828026066534/0001628280-26-066534-index.htm,LOW
+2026-10-20T21:21:35+00:00,FORM_144,IRON,"Disc Medicine, Inc.",proposed sale $188K,188484,,https://www.sec.gov/Archives/edgar/data/1885327/000162828026066537/0001628280-26-066537-index.htm,LOW
+2026-10-20T21:21:35+00:00,FORM_144,IRON,"Disc Medicine, Inc.",proposed sale $226K,226450,,https://www.sec.gov/Archives/edgar/data/1816736/000162828026066536/0001628280-26-066536-index.htm,LOW
