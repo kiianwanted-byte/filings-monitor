@@ -4774,3 +4774,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-19T22:41:33+00:00,FORM_144,IBTA,"IBOTTA, INC.",proposed sale $1.65M,1653400,,https://www.sec.gov/Archives/edgar/data/1875168/000195824426000665/0001958244-26-000665-index.htm,LOW
 2026-10-19T23:51:34+00:00,INSIDER_BUY,IAM,"Iambic Therapeutics, Inc.",Rachlin Evan Lockwood $11.50M,11500000,3,https://www.sec.gov/Archives/edgar/data/2151678/000215167826000007/0002151678-26-000007-index.htm,HIGH
 2026-10-20T01:26:33+00:00,FORM_144,ZJK,"ZJK Industrial Co., Ltd.",proposed sale $1.23M,1234282,,https://www.sec.gov/Archives/edgar/data/2085989/000208598926000002/0002085989-26-000002-index.htm,LOW
+2026-10-20T13:46:31+00:00,FORM_144,OKLO,Oklo Inc.,proposed sale $27K,27056,,https://www.sec.gov/Archives/edgar/data/2146790/000195917326007425/0001959173-26-007425-index.htm,LOW
