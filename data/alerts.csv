@@ -4823,3 +4823,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-20T21:16:39+00:00,FORM_144,IRON,"Disc Medicine, Inc.",proposed sale $4K,4341,,https://www.sec.gov/Archives/edgar/data/1816736/000162828026066534/0001628280-26-066534-index.htm,LOW
 2026-10-20T21:21:35+00:00,FORM_144,IRON,"Disc Medicine, Inc.",proposed sale $188K,188484,,https://www.sec.gov/Archives/edgar/data/1885327/000162828026066537/0001628280-26-066537-index.htm,LOW
 2026-10-20T21:21:35+00:00,FORM_144,IRON,"Disc Medicine, Inc.",proposed sale $226K,226450,,https://www.sec.gov/Archives/edgar/data/1816736/000162828026066536/0001628280-26-066536-index.htm,LOW
+2026-10-20T21:26:33+00:00,INSIDER_BUY,CRBG,"Corebridge Financial, Inc.",NIPPON LIFE INSURANCE CO $12.05M,12052561,4,https://www.sec.gov/Archives/edgar/data/1889539/000119312526426865/0001193125-26-426865-index.htm,LOW
