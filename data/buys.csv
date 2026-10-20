@@ -1533,3 +1533,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-10-20T20:06:34+00:00,2026-10-16,AYI,ACUITY INC. (DE),O'Shaughnessy Laura,Director,73,302.32,22069,2.3,0001813477-26-000008
 2026-10-20T20:36:39+00:00,2026-10-16,NVA,Nova Minerals Corp,Geller Avi,Director,1600,3.13,5000,NEW,0001225208-26-008475
 2026-10-20T20:36:40+00:00,2026-10-16,NVA,Nova Minerals Corp,Gerteisen Christopher,"Director, Chief Executive Officer",6737,3.26,21932,4.7,0001225208-26-008474
+2026-10-20T20:51:38+00:00,2026-10-20,AHNRF,ATHENA GOLD CORP,POWER JOHN C /CA/,"Director, Secretary",10000,0.12,1150,0.8,0001683168-26-007994
