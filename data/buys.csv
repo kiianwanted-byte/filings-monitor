@@ -1518,3 +1518,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-10-19T22:06:34+00:00,2026-10-09,EP,EMPIRE PETROLEUM CORP,Mulacek Phil E,"Director, 10% owner",97981,3.19,312810,10.2,0001072613-26-000827
 2026-10-19T23:51:34+00:00,2026-10-16,IAM,"Iambic Therapeutics, Inc.",Rachlin Evan Lockwood,Director,718750,16.00,11500000,38.4,0002151678-26-000007
 2026-10-20T00:36:29+00:00,2026-10-19,DLPN,"Dolphin Entertainment, Inc.",O'Dowd William IV,"Director, Chief Executive Officer, 10% owner",4700,1.05,4916,0.8,0001079973-26-001373
+2026-10-20T10:06:28+00:00,2026-10-19,NNOX,Nano-X Imaging Ltd.,Meltzer Erez,"Director, Chief Executive Officer",25000,0.45,11250,38.2,0001213900-26-110808
