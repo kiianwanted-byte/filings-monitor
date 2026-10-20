@@ -1524,3 +1524,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-10-20T12:02:18+00:00,2026-10-19,XGN,EXAGEN INC.,Chernett Jorey,10% owner,14000,7.46,104440,0.5,0001193805-26-001382
 2026-10-20T12:36:30+00:00,2026-10-16,ISBA,ISABELLA BANK CORP,Bourland Jill,Director,8,36.71,300,0.1,0000842517-26-000229
 2026-10-20T13:51:30+00:00,2026-10-16,SCISX,MA Specialty Credit Income Fund,MA Eagle II Holdings Fund,10% owner,96930,24.76,2399999,2.7,0000945621-26-001274
+2026-10-20T14:46:32+00:00,2026-10-19,NXG,NXG NextGen Infrastructure Income Fund,Sunderland Todd,,1000,46.50,46500,30.5,0001957908-26-000003
