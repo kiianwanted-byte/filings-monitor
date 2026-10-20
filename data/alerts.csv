@@ -4826,3 +4826,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-20T21:26:33+00:00,INSIDER_BUY,CRBG,"Corebridge Financial, Inc.",NIPPON LIFE INSURANCE CO $12.05M,12052561,4,https://www.sec.gov/Archives/edgar/data/1889539/000119312526426865/0001193125-26-426865-index.htm,LOW
 2026-10-20T21:46:34+00:00,FORM_144,FRMI,Fermi Inc.,proposed sale $1.24M,1237002,,https://www.sec.gov/Archives/edgar/data/2071778/000195824426000667/0001958244-26-000667-index.htm,LOW
 2026-10-20T21:46:35+00:00,FORM_144,QCOM,QUALCOMM Incorporated,proposed sale $439K,439275,,https://www.sec.gov/Archives/edgar/data/1786420/000195824426000666/0001958244-26-000666-index.htm,LOW
+2026-10-20T21:51:31+00:00,INSIDER_CLUSTER,DX,DYNEX CAPITAL INC,Sartori Michael Andrew $11K,10700,0,https://www.sec.gov/Archives/edgar/data/2119118/000082667526000120/0000826675-26-000120-index.htm,HIGH
