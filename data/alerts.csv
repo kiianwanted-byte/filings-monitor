@@ -4799,3 +4799,17 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-20T20:21:42+00:00,FORM_144,XYZ,"BLOCK, INC.",proposed sale $464K,463500,,https://www.sec.gov/Archives/edgar/data/1933928/000195004726010319/0001950047-26-010319-index.htm,LOW
 2026-10-20T20:21:42+00:00,FORM_144,VSAT,"VIASAT, INC.",proposed sale $235K,235429,,https://www.sec.gov/Archives/edgar/data/1832377/000195004726010318/0001950047-26-010318-index.htm,LOW
 2026-10-20T20:21:43+00:00,FORM_144,NDAQ,"NASDAQ, INC.",proposed sale $107K,106875,,https://www.sec.gov/Archives/edgar/data/1736565/000195004726010317/0001950047-26-010317-index.htm,LOW
+2026-10-20T20:26:35+00:00,FORM_144,CYTK,"CYTOKINETICS, INCORPORATED",proposed sale $1.03M,1026582,,https://www.sec.gov/Archives/edgar/data/1551778/000195004726010332/0001950047-26-010332-index.htm,LOW
+2026-10-20T20:26:35+00:00,FORM_144,SNX,TD SYNNEX CORPORATION,proposed sale $605K,604770,,https://www.sec.gov/Archives/edgar/data/2051704/000195004726010331/0001950047-26-010331-index.htm,LOW
+2026-10-20T20:26:36+00:00,FORM_144,ZIP,"ZIPRECRUITER, INC.",proposed sale $35K,35140,,https://www.sec.gov/Archives/edgar/data/1861460/000195004726010330/0001950047-26-010330-index.htm,LOW
+2026-10-20T20:26:36+00:00,FORM_144,CLOV,"Clover Health Investments, Corp.",proposed sale $86K,85581,,https://www.sec.gov/Archives/edgar/data/1999086/000195004726010329/0001950047-26-010329-index.htm,LOW
+2026-10-20T20:26:37+00:00,FORM_144,GLBE,GLOBAL-E ONLINE LTD,proposed sale $798K,797853,,https://www.sec.gov/Archives/edgar/data/2073864/000195004726010328/0001950047-26-010328-index.htm,LOW
+2026-10-20T20:26:37+00:00,FORM_144,FLOC,Flowco Holdings Inc.,proposed sale $712K,711915,,https://www.sec.gov/Archives/edgar/data/2049797/000195779926000184/0001957799-26-000184-index.htm,LOW
+2026-10-20T20:26:38+00:00,FORM_144,SLDE,"Slide Insurance Holdings, Inc.",proposed sale $71K,70525,,https://www.sec.gov/Archives/edgar/data/2114934/000195004726010327/0001950047-26-010327-index.htm,LOW
+2026-10-20T20:26:38+00:00,FORM_144,INTA,INTAPP INC,proposed sale $1.78M,1784178,,https://www.sec.gov/Archives/edgar/data/2028388/000195004726010326/0001950047-26-010326-index.htm,LOW
+2026-10-20T20:26:38+00:00,FORM_144,BRZE,"Braze, Inc.",proposed sale $8.56M,8561400,,https://www.sec.gov/Archives/edgar/data/1888935/000195004726010325/0001950047-26-010325-index.htm,LOW
+2026-10-20T20:26:39+00:00,FORM_144,CHH,"CHOICE HOTELS INTERNATIONAL, INC.",proposed sale $135K,134528,,https://www.sec.gov/Archives/edgar/data/1700110/000195004726010324/0001950047-26-010324-index.htm,LOW
+2026-10-20T20:26:39+00:00,FORM_144,SYNA,SYNAPTICS INCORPORATED,proposed sale $504K,503549,,https://www.sec.gov/Archives/edgar/data/1785783/000195004726010323/0001950047-26-010323-index.htm,LOW
+2026-10-20T20:26:40+00:00,FORM_144,BROS,"DUTCH BROS, INC.",proposed sale $2.17M,2173387,,https://www.sec.gov/Archives/edgar/data/1883096/000195004726010322/0001950047-26-010322-index.htm,LOW
+2026-10-20T20:26:40+00:00,FORM_144,BROS,"DUTCH BROS, INC.",proposed sale $4.07M,4070757,,https://www.sec.gov/Archives/edgar/data/1883105/000195004726010321/0001950047-26-010321-index.htm,LOW
+2026-10-20T20:26:41+00:00,FORM_144,ANET,"Arista Networks, Inc.",proposed sale $4.39M,4390800,,https://www.sec.gov/Archives/edgar/data/1605808/000196858226001070/0001968582-26-001070-index.htm,LOW
