@@ -1538,3 +1538,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-10-20T21:26:33+00:00,2026-10-16,CRBG,"Corebridge Financial, Inc.",NIPPON LIFE INSURANCE CO,10% owner,347195,34.71,12052561,0.3,0001193125-26-426865
 2026-10-20T21:36:32+00:00,2026-10-16,INM,InMed Pharmaceuticals Inc.,"ADAR1 Capital Management, LLC",10% owner,1087,1.32,1434,0.1,0001940272-26-000026
 2026-10-20T21:41:32+00:00,2026-10-16,JCTC,JEWETT CAMERON TRADING CO LTD,"AJB Investment Fund II, LP",10% owner,7305,2.90,21221,1.4,0001536588-26-000043
+2026-10-20T21:46:33+00:00,2026-10-15,BCDA,"BioCardia, Inc.",Altman Peter,"Director, President and CEO",500,0.95,475,0.1,0001437749-26-033030
