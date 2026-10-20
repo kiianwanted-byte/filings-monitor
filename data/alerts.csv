@@ -4815,3 +4815,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-20T20:26:41+00:00,FORM_144,ANET,"Arista Networks, Inc.",proposed sale $4.39M,4390800,,https://www.sec.gov/Archives/edgar/data/1605808/000196858226001070/0001968582-26-001070-index.htm,LOW
 2026-10-20T20:36:40+00:00,INSIDER_CLUSTER,NVA,Nova Minerals Corp,Gerteisen Christopher $22K,21932,4,https://www.sec.gov/Archives/edgar/data/2117811/000122520826008474/0001225208-26-008474-index.htm,HIGH
 2026-10-20T20:36:43+00:00,FORM_144,FROG,JFROG LTD.,proposed sale $113K,112625,,https://www.sec.gov/Archives/edgar/data/1800667/000195004726010333/0001950047-26-010333-index.htm,LOW
+2026-10-20T20:46:34+00:00,FORM_144,ROIV,Roivant Sciences Ltd.,proposed sale $7.02M,7023513,,https://www.sec.gov/Archives/edgar/data/1801917/000196530126000163/0001965301-26-000163-index.htm,LOW
