@@ -4818,3 +4818,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-20T20:46:34+00:00,FORM_144,ROIV,Roivant Sciences Ltd.,proposed sale $7.02M,7023513,,https://www.sec.gov/Archives/edgar/data/1801917/000196530126000163/0001965301-26-000163-index.htm,LOW
 2026-10-20T20:51:45+00:00,FORM_144,GWRE,"GUIDEWIRE SOFTWARE, INC.",proposed sale $999K,999000,,https://www.sec.gov/Archives/edgar/data/1917389/000195004726010334/0001950047-26-010334-index.htm,LOW
 2026-10-20T20:56:40+00:00,FORM_144,ARQT,"Arcutis Biotherapeutics, Inc.",proposed sale $1.99M,1992408,,https://www.sec.gov/Archives/edgar/data/1994805/000162828026066520/0001628280-26-066520-index.htm,LOW
+2026-10-20T21:01:38+00:00,FORM_144,AVPT,"AvePoint, Inc.",proposed sale $1.11M,1108064,,https://www.sec.gov/Archives/edgar/data/1865783/000196530126000164/0001965301-26-000164-index.htm,LOW
