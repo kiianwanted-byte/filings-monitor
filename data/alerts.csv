@@ -4867,3 +4867,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-21T20:47:31+00:00,FORM_144,IBTA,"Ibotta, Inc.",proposed sale $453K,452963,,https://www.sec.gov/Archives/edgar/data/1873513/000195917326007446/0001959173-26-007446-index.htm,LOW
 2026-10-21T20:51:45+00:00,FORM_144,STOK,"STOKE THERAPEUTICS, INC.",proposed sale $38.42M,38418358,,https://www.sec.gov/Archives/edgar/data/1623526/000195004726010349/0001950047-26-010349-index.htm,MEDIUM
 2026-10-21T21:01:35+00:00,FORM_144,BCAX,BICARA THERAPEUTICS INC.,proposed sale $449K,449026,,https://www.sec.gov/Archives/edgar/data/2034679/000195004726010350/0001950047-26-010350-index.htm,LOW
+2026-10-21T21:16:31+00:00,FORM_144,IRLA,IRULYA THERAPEUTICS INC,proposed sale $133K,133328,,https://www.sec.gov/Archives/edgar/data/1662774/000162828026066751/0001628280-26-066751-index.htm,LOW
+2026-10-21T21:16:31+00:00,FORM_144,IRON,"Disc Medicine, Inc.",proposed sale $912K,911635,,https://www.sec.gov/Archives/edgar/data/1885327/000162828026066749/0001628280-26-066749-index.htm,LOW
+2026-10-21T21:16:32+00:00,FORM_144,IRON,"Disc Medicine, Inc.",proposed sale $1.10M,1095472,,https://www.sec.gov/Archives/edgar/data/1816736/000162828026066748/0001628280-26-066748-index.htm,LOW
+2026-10-21T21:16:32+00:00,FORM_144,IRON,"Disc Medicine, Inc.",proposed sale $2.66M,2659480,,https://www.sec.gov/Archives/edgar/data/1816736/000162828026066747/0001628280-26-066747-index.htm,LOW
+2026-10-21T21:16:33+00:00,FORM_144,IRON,"Disc Medicine, Inc.",proposed sale $21K,21141,,https://www.sec.gov/Archives/edgar/data/1816736/000162828026066745/0001628280-26-066745-index.htm,LOW
