@@ -4837,3 +4837,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-21T16:41:32+00:00,FORM_144,PAYX,"Paychex, Inc.",proposed sale $32.67M,32674447,,https://www.sec.gov/Archives/edgar/data/903201/000162828026066645/0001628280-26-066645-index.htm,MEDIUM
 2026-10-21T17:01:31+00:00,FORM_144,CRCL,"Circle Internet Group, Inc.",proposed sale $1.35M,1350000,,https://www.sec.gov/Archives/edgar/data/1876042/000195917326007438/0001959173-26-007438-index.htm,LOW
 2026-10-21T17:11:32+00:00,FORM_144,NTRA,"Natera, Inc.",proposed sale $3.88M,3879737,,https://www.sec.gov/Archives/edgar/data/1646649/000194984626000618/0001949846-26-000618-index.htm,LOW
+2026-10-21T17:21:31+00:00,FORM_144,PAYX,"Paychex, Inc.",proposed sale $1.66M,1661839,,https://www.sec.gov/Archives/edgar/data/903201/000162828026066664/0001628280-26-066664-index.htm,LOW
