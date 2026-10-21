@@ -3118,3 +3118,5 @@ timestamp,chamber,member,ticker,asset,action,amount_low,amount_high,trade_date,f
 2026-10-20T20:28:47+00:00,House,Jonathan Jackson,WMT,Walmart Inc. - Common Stock,SELL,50001,100000,2026-09-28,2026-10-19,21,MEDIUM,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035551.pdf
 2026-10-20T20:28:48+00:00,House,Michael Rulli,GOOG,Alphabet Inc. - Class C Capital Stock,SELL,50001,100000,2026-10-16,2026-10-19,3,MEDIUM,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035671.pdf
 2026-10-20T20:28:48+00:00,House,Michael Rulli,WSBC,"WesBanco, Inc. - Common Stock",SELL,1001,15000,2026-10-16,2026-10-19,3,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035671.pdf
+2026-10-21T18:14:02+00:00,House,James A. Himes,,So Fine Foods LLC,BUY,50001,100000,2026-09-29,2026-10-20,21,MEDIUM,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035687.pdf
+2026-10-21T18:14:02+00:00,House,Rudy C. Yakym III,,"Treasury Bill (6-Week, Matures",BUY,15001,50000,2026-10-20,2026-10-20,0,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035691.pdf
