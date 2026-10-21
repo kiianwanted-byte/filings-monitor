@@ -4865,3 +4865,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-21T20:47:30+00:00,FORM_144,YELP,YELP INC.,proposed sale $150K,150000,,https://www.sec.gov/Archives/edgar/data/1349334/000195004726010348/0001950047-26-010348-index.htm,LOW
 2026-10-21T20:47:31+00:00,FORM_144,WDC,WESTERN DIGITAL CORPORATION,proposed sale $307K,306660,,https://www.sec.gov/Archives/edgar/data/2057088/000195004726010347/0001950047-26-010347-index.htm,LOW
 2026-10-21T20:47:31+00:00,FORM_144,IBTA,"Ibotta, Inc.",proposed sale $453K,452963,,https://www.sec.gov/Archives/edgar/data/1873513/000195917326007446/0001959173-26-007446-index.htm,LOW
+2026-10-21T20:51:45+00:00,FORM_144,STOK,"STOKE THERAPEUTICS, INC.",proposed sale $38.42M,38418358,,https://www.sec.gov/Archives/edgar/data/1623526/000195004726010349/0001950047-26-010349-index.htm,MEDIUM
