@@ -4841,3 +4841,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-21T17:26:30+00:00,FORM_144,TER,"TERADYNE, INC",proposed sale $140K,140000,,https://www.sec.gov/Archives/edgar/data/1618274/000195917326007439/0001959173-26-007439-index.htm,LOW
 2026-10-21T19:16:38+00:00,FORM_144,WTFC,Wintrust Financial Corporation,proposed sale $1.04M,1043854,,https://www.sec.gov/Archives/edgar/data/1267655/000126765526000017/0001267655-26-000017-index.htm,LOW
 2026-10-21T19:26:34+00:00,FORM_144,NEXT,NextDecade Corp,proposed sale $26K,25866,,https://www.sec.gov/Archives/edgar/data/2091576/000195917326007440/0001959173-26-007440-index.htm,LOW
+2026-10-21T20:07:12+00:00,INSIDER_BUY,GXVIX,Global X Venture & Innovation Fund,"GLOBAL X MANAGEMENT COMPANY, INC. $25.00M",25000000,2,https://www.sec.gov/Archives/edgar/data/1997641/000121390026111339/0001213900-26-111339-index.htm,HIGH
