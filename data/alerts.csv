@@ -4853,3 +4853,12 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-21T20:18:20+00:00,FORM_144,BETA,"BETA Technologies, Inc.",proposed sale $191K,190638,,https://www.sec.gov/Archives/edgar/data/2090083/000195917326007442/0001959173-26-007442-index.htm,LOW
 2026-10-21T20:18:20+00:00,FORM_144,KMTS,"KESTRA MEDICAL TECHNOLOGIES, LTD.",proposed sale $2.72M,2718316,,https://www.sec.gov/Archives/edgar/data/1877198/000196430626000473/0001964306-26-000473-index.htm,LOW
 2026-10-21T20:18:21+00:00,FORM_144,TRV,"TRAVELERS COMPANIES, INC.",proposed sale $35.27M,35273173,,https://www.sec.gov/Archives/edgar/data/1397350/000195917326007441/0001959173-26-007441-index.htm,MEDIUM
+2026-10-21T20:32:05+00:00,FORM_144,BB,BLACKBERRY LIMITED,proposed sale $1.42M,1419792,,https://www.sec.gov/Archives/edgar/data/1234080/000195004726010346/0001950047-26-010346-index.htm,LOW
+2026-10-21T20:32:05+00:00,FORM_144,TRV,"TRAVELERS COMPANIES, INC.",proposed sale $6.02M,6016506,,https://www.sec.gov/Archives/edgar/data/1224083/000195917326007445/0001959173-26-007445-index.htm,LOW
+2026-10-21T20:32:06+00:00,FORM_144,ZM,"Zoom Communications, Inc.",proposed sale $990K,989803,,https://www.sec.gov/Archives/edgar/data/2040959/000195004726010345/0001950047-26-010345-index.htm,LOW
+2026-10-21T20:32:06+00:00,FORM_144,HOOD,"Robinhood Markets, Inc.",proposed sale $5.00M,5000067,,https://www.sec.gov/Archives/edgar/data/1966647/000195004726010344/0001950047-26-010344-index.htm,LOW
+2026-10-21T20:32:06+00:00,FORM_144,PLMR,"Palomar Holdings, Inc.",proposed sale $492K,491855,,https://www.sec.gov/Archives/edgar/data/1772383/000195004726010343/0001950047-26-010343-index.htm,LOW
+2026-10-21T20:32:18+00:00,FORM_144,PVLA,"PALVELLA THERAPEUTICS, INC.",proposed sale $534K,534466,,https://www.sec.gov/Archives/edgar/data/1912570/000196794026000055/0001967940-26-000055-index.htm,LOW
+2026-10-21T20:32:19+00:00,FORM_144,KOD,KODIAK SCIENCES INC.,proposed sale $2.79M,2789100,,https://www.sec.gov/Archives/edgar/data/1754045/000195004726010342/0001950047-26-010342-index.htm,LOW
+2026-10-21T20:32:19+00:00,FORM_144,IBTA,"Ibotta, Inc.",proposed sale $438K,437502,,https://www.sec.gov/Archives/edgar/data/1873513/000195917326007444/0001959173-26-007444-index.htm,LOW
+2026-10-21T20:32:20+00:00,FORM_144,IBTA,"Ibotta, Inc.",proposed sale $12K,12350,,https://www.sec.gov/Archives/edgar/data/2017890/000195917326007443/0001959173-26-007443-index.htm,LOW
