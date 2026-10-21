@@ -4862,3 +4862,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-21T20:32:19+00:00,FORM_144,KOD,KODIAK SCIENCES INC.,proposed sale $2.79M,2789100,,https://www.sec.gov/Archives/edgar/data/1754045/000195004726010342/0001950047-26-010342-index.htm,LOW
 2026-10-21T20:32:19+00:00,FORM_144,IBTA,"Ibotta, Inc.",proposed sale $438K,437502,,https://www.sec.gov/Archives/edgar/data/1873513/000195917326007444/0001959173-26-007444-index.htm,LOW
 2026-10-21T20:32:20+00:00,FORM_144,IBTA,"Ibotta, Inc.",proposed sale $12K,12350,,https://www.sec.gov/Archives/edgar/data/2017890/000195917326007443/0001959173-26-007443-index.htm,LOW
+2026-10-21T20:47:30+00:00,FORM_144,YELP,YELP INC.,proposed sale $150K,150000,,https://www.sec.gov/Archives/edgar/data/1349334/000195004726010348/0001950047-26-010348-index.htm,LOW
+2026-10-21T20:47:31+00:00,FORM_144,WDC,WESTERN DIGITAL CORPORATION,proposed sale $307K,306660,,https://www.sec.gov/Archives/edgar/data/2057088/000195004726010347/0001950047-26-010347-index.htm,LOW
+2026-10-21T20:47:31+00:00,FORM_144,IBTA,"Ibotta, Inc.",proposed sale $453K,452963,,https://www.sec.gov/Archives/edgar/data/1873513/000195917326007446/0001959173-26-007446-index.htm,LOW
