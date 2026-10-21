@@ -1563,3 +1563,5 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-10-21T20:27:05+00:00,2026-10-13,PETV,"PetVivo Holdings, Inc.","A.L. Sarroff Fund, LLC",10% owner,78855,0.71,56126,0.8,0001099910-26-000286
 2026-10-21T20:56:47+00:00,2026-10-19,CRBG,"Corebridge Financial, Inc.",NIPPON LIFE INSURANCE CO,10% owner,162024,34.51,5591237,0.1,0001193125-26-427950
 2026-10-21T20:56:48+00:00,2026-10-19,TENX,"TENAX THERAPEUTICS, INC.","ADAR1 Capital Management, LLC",10% owner,922849,1.59,1463426,14.1,0001940272-26-000027
+2026-10-21T21:01:33+00:00,2026-10-20,CRF,CORNERSTONE TOTAL RETURN FUND INC,Bradshaw Joshua,"Director, Vice Chairman and President",20000,5.88,117600,4132.2,0001398344-26-018542
+2026-10-21T21:01:34+00:00,2026-10-20,CLM,"Cornerstone Strategic Investment Fund, Inc.",Bradshaw Joshua,"Director, Vice Chairman and President",16000,6.08,97280,367.3,0001398344-26-018541
