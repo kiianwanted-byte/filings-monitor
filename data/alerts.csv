@@ -4872,3 +4872,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-21T21:16:32+00:00,FORM_144,IRON,"Disc Medicine, Inc.",proposed sale $1.10M,1095472,,https://www.sec.gov/Archives/edgar/data/1816736/000162828026066748/0001628280-26-066748-index.htm,LOW
 2026-10-21T21:16:32+00:00,FORM_144,IRON,"Disc Medicine, Inc.",proposed sale $2.66M,2659480,,https://www.sec.gov/Archives/edgar/data/1816736/000162828026066747/0001628280-26-066747-index.htm,LOW
 2026-10-21T21:16:33+00:00,FORM_144,IRON,"Disc Medicine, Inc.",proposed sale $21K,21141,,https://www.sec.gov/Archives/edgar/data/1816736/000162828026066745/0001628280-26-066745-index.htm,LOW
+2026-10-21T21:21:32+00:00,FORM_144,SNX,TD SYNNEX CORPORATION,proposed sale $994K,993763,,https://www.sec.gov/Archives/edgar/data/1270710/000195004726010352/0001950047-26-010352-index.htm,LOW
