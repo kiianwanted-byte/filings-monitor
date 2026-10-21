@@ -4878,3 +4878,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-21T21:36:39+00:00,FORM_144,CRCT,"Cricut, Inc.",proposed sale $1.14M,1139400,,https://www.sec.gov/Archives/edgar/data/1851564/000195824426000669/0001958244-26-000669-index.htm,LOW
 2026-10-21T21:36:39+00:00,FORM_144,AGIO,"AGIOS PHARMACEUTICALS, INC.",proposed sale $56K,55881,,https://www.sec.gov/Archives/edgar/data/1881190/000195004726010353/0001950047-26-010353-index.htm,LOW
 2026-10-21T21:41:32+00:00,FORM_144,ALLY,ALLY FINANCIAL INC.,proposed sale $496K,495883,,https://www.sec.gov/Archives/edgar/data/2047749/000195004726010354/0001950047-26-010354-index.htm,LOW
+2026-10-21T23:26:30+00:00,INSIDER_BUY,FBK,FB Financial Corp,INGRAM ORRIN H II $1.54M,1537787,1,https://www.sec.gov/Archives/edgar/data/1649749/000119147326000008/0001191473-26-000008-index.htm,MEDIUM
