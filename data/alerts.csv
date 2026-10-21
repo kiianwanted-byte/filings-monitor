@@ -4831,3 +4831,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-21T01:01:33+00:00,FORM_144,MGTX,MEIRAGTX HOLDINGS PLC,proposed sale $557K,557200,,https://www.sec.gov/Archives/edgar/data/1742734/000174273426000021/0001742734-26-000021-index.htm,LOW
 2026-10-21T12:31:29+00:00,STAKE_13D,,Ionic Digital Inc.,Ionic Digital Inc. 10.0%,,,https://www.sec.gov/Archives/edgar/data/2007691/000090266426004229/0000902664-26-004229-index.htm,HIGH
 2026-10-21T14:36:31+00:00,INSIDER_CLUSTER,YORW,YORK WATER CO,Velazquez David M $40K,40000,1,https://www.sec.gov/Archives/edgar/data/1367846/000010898526000091/0000108985-26-000091-index.htm,HIGH
+2026-10-21T15:26:35+00:00,FORM_144,SMTC,SEMTECH CORP,proposed sale $209K,209160,,https://www.sec.gov/Archives/edgar/data/1362672/000194984626000617/0001949846-26-000617-index.htm,LOW
