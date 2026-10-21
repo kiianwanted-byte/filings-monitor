@@ -4828,3 +4828,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-20T21:46:35+00:00,FORM_144,QCOM,QUALCOMM Incorporated,proposed sale $439K,439275,,https://www.sec.gov/Archives/edgar/data/1786420/000195824426000666/0001958244-26-000666-index.htm,LOW
 2026-10-20T21:51:31+00:00,INSIDER_CLUSTER,DX,DYNEX CAPITAL INC,Sartori Michael Andrew $11K,10700,0,https://www.sec.gov/Archives/edgar/data/2119118/000082667526000120/0000826675-26-000120-index.htm,HIGH
 2026-10-20T22:01:30+00:00,FORM_144,IBTA,"IBOTTA, INC.",proposed sale $4.71M,4709664,,https://www.sec.gov/Archives/edgar/data/1875168/000195824426000668/0001958244-26-000668-index.htm,LOW
+2026-10-21T01:01:33+00:00,FORM_144,MGTX,MEIRAGTX HOLDINGS PLC,proposed sale $557K,557200,,https://www.sec.gov/Archives/edgar/data/1742734/000174273426000021/0001742734-26-000021-index.htm,LOW
