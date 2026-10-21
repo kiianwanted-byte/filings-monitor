@@ -4834,3 +4834,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-21T15:26:35+00:00,FORM_144,SMTC,SEMTECH CORP,proposed sale $209K,209160,,https://www.sec.gov/Archives/edgar/data/1362672/000194984626000617/0001949846-26-000617-index.htm,LOW
 2026-10-21T16:31:37+00:00,FORM_144,MRCY,MERCURY SYSTEMS INC,proposed sale $76K,76000,,https://www.sec.gov/Archives/edgar/data/1289593/000195917326007436/0001959173-26-007436-index.htm,LOW
 2026-10-21T16:36:36+00:00,FORM_144,SNOW,Snowflake Inc.,proposed sale $16.09M,16087000,,https://www.sec.gov/Archives/edgar/data/1821737/000195917326007437/0001959173-26-007437-index.htm,LOW
+2026-10-21T16:41:32+00:00,FORM_144,PAYX,"Paychex, Inc.",proposed sale $32.67M,32674447,,https://www.sec.gov/Archives/edgar/data/903201/000162828026066645/0001628280-26-066645-index.htm,MEDIUM
