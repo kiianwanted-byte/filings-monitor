@@ -4884,3 +4884,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-22T14:11:35+00:00,FORM_144,DELL,Dell Technologies Inc.,proposed sale $930K,930120,,https://www.sec.gov/Archives/edgar/data/1662205/000195917326007448/0001959173-26-007448-index.htm,LOW
 2026-10-22T14:36:33+00:00,INSIDER_CLUSTER,GROW,U S GLOBAL INVESTORS INC,"Gator Capital Management, LLC $7K",7417,2,https://www.sec.gov/Archives/edgar/data/1570284/000106299326005480/0001062993-26-005480-index.htm,HIGH
 2026-10-22T14:36:34+00:00,FORM_144,HTFL,"Heartflow, Inc.",proposed sale $311K,311026,,https://www.sec.gov/Archives/edgar/data/1585724/000195917326007449/0001959173-26-007449-index.htm,LOW
+2026-10-22T14:51:49+00:00,FORM_144,TRV,"TRAVELERS COMPANIES, INC.",proposed sale $14.04M,14043791,,https://www.sec.gov/Archives/edgar/data/1689378/000195917326007450/0001959173-26-007450-index.htm,LOW
