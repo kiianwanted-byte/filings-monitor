@@ -4915,3 +4915,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-22T20:12:10+00:00,FORM_144,KRSA,"KORSANA BIOSCIENCES, INC.",proposed sale $35K,35424,,https://www.sec.gov/Archives/edgar/data/1755237/000195004726010364/0001950047-26-010364-index.htm,LOW
 2026-10-22T20:12:10+00:00,FORM_144,XYZ,"BLOCK, INC.",proposed sale $468K,468360,,https://www.sec.gov/Archives/edgar/data/1933928/000195004726010363/0001950047-26-010363-index.htm,LOW
 2026-10-22T20:16:36+00:00,FORM_144,IBTA,"Ibotta, Inc.",proposed sale $174K,174056,,https://www.sec.gov/Archives/edgar/data/1873513/000195917326007462/0001959173-26-007462-index.htm,LOW
+2026-10-22T20:21:35+00:00,FORM_144,MGNX,MACROGENICS INC.,proposed sale $79K,79204,,https://www.sec.gov/Archives/edgar/data/1598502/000162828026066897/0001628280-26-066897-index.htm,LOW
