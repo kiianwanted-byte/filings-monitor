@@ -4890,3 +4890,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-22T15:11:40+00:00,FORM_144,TRV,"TRAVELERS COMPANIES, INC.",proposed sale $3.66M,3656620,,https://www.sec.gov/Archives/edgar/data/1879574/000195917326007453/0001959173-26-007453-index.htm,LOW
 2026-10-22T15:11:40+00:00,FORM_144,APEI,AMERICAN PUBLIC EDUCATION INC,proposed sale $60K,59898,,https://www.sec.gov/Archives/edgar/data/1603516/000195917326007452/0001959173-26-007452-index.htm,LOW
 2026-10-22T15:11:40+00:00,FORM_144,HTFL,"Heartflow, Inc.",proposed sale $1.32M,1316554,,https://www.sec.gov/Archives/edgar/data/1585724/000195917326007451/0001959173-26-007451-index.htm,LOW
+2026-10-22T15:21:42+00:00,FORM_144,CBU,"COMMUNITY FINANCIAL SYSTEMS, INC.",proposed sale $155K,155000,,https://www.sec.gov/Archives/edgar/data/1264816/000165495426009107/0001654954-26-009107-index.htm,LOW
+2026-10-22T15:21:43+00:00,FORM_144,PEBO,PEOPLES BANCORP INC,proposed sale $101K,101013,,https://www.sec.gov/Archives/edgar/data/1622494/000195917326007454/0001959173-26-007454-index.htm,LOW
