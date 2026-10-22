@@ -4931,3 +4931,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-22T21:01:45+00:00,INSIDER_BUY,RAPP,"Rapport Therapeutics, Inc.",PAUL STEVEN M $974K,974277,0,https://www.sec.gov/Archives/edgar/data/2012593/000119312526429073/0001193125-26-429073-index.htm,MEDIUM
 2026-10-22T21:01:46+00:00,INSIDER_CLUSTER,RAPP,"Rapport Therapeutics, Inc.",MARAGANORE JOHN $249K,248891,0,https://www.sec.gov/Archives/edgar/data/2012593/000119312526429071/0001193125-26-429071-index.htm,HIGH
 2026-10-22T21:01:48+00:00,FORM_144,CME,CME GROUP INC.,proposed sale $121K,121000,,https://www.sec.gov/Archives/edgar/data/1212813/000195004726010372/0001950047-26-010372-index.htm,LOW
+2026-10-22T21:06:39+00:00,FORM_144,AUB,ATLANTIC UNION BANKSHARES CORPORATION,proposed sale $310K,309878,,https://www.sec.gov/Archives/edgar/data/1966032/000195004726010374/0001950047-26-010374-index.htm,LOW
+2026-10-22T21:06:39+00:00,FORM_144,PG,PROCTER & GAMBLE Co,proposed sale $2.31M,2306558,,https://www.sec.gov/Archives/edgar/data/2110932/000008042426000259/0000080424-26-000259-index.htm,LOW
