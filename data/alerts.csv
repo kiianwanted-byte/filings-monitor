@@ -4896,3 +4896,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-22T17:46:37+00:00,FORM_144,BURL,"Burlington Stores, Inc.",proposed sale $72K,71550,,https://www.sec.gov/Archives/edgar/data/1998017/000195917326007455/0001959173-26-007455-index.htm,LOW
 2026-10-22T17:56:37+00:00,FORM_144,KSS,KOHLS Corp,proposed sale $551K,550560,,https://www.sec.gov/Archives/edgar/data/1595040/000195917326007456/0001959173-26-007456-index.htm,LOW
 2026-10-22T18:01:31+00:00,FORM_144,TRV,"TRAVELERS COMPANIES, INC.",proposed sale $2.03M,2028102,,https://www.sec.gov/Archives/edgar/data/1865043/000195917326007457/0001959173-26-007457-index.htm,LOW
+2026-10-22T18:21:35+00:00,FORM_144,KSS,KOHLS Corp,proposed sale $250K,250000,,https://www.sec.gov/Archives/edgar/data/1942745/000195917326007458/0001959173-26-007458-index.htm,LOW
