@@ -4916,3 +4916,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-22T20:12:10+00:00,FORM_144,XYZ,"BLOCK, INC.",proposed sale $468K,468360,,https://www.sec.gov/Archives/edgar/data/1933928/000195004726010363/0001950047-26-010363-index.htm,LOW
 2026-10-22T20:16:36+00:00,FORM_144,IBTA,"Ibotta, Inc.",proposed sale $174K,174056,,https://www.sec.gov/Archives/edgar/data/1873513/000195917326007462/0001959173-26-007462-index.htm,LOW
 2026-10-22T20:21:35+00:00,FORM_144,MGNX,MACROGENICS INC.,proposed sale $79K,79204,,https://www.sec.gov/Archives/edgar/data/1598502/000162828026066897/0001628280-26-066897-index.htm,LOW
+2026-10-22T20:26:33+00:00,FORM_144,PENG,"PENGUIN SOLUTIONS, INC.",proposed sale $510K,510124,,https://www.sec.gov/Archives/edgar/data/1855880/000195004726010370/0001950047-26-010370-index.htm,LOW
+2026-10-22T20:26:34+00:00,FORM_144,ASAN,ASANA INC,proposed sale $218K,217813,,https://www.sec.gov/Archives/edgar/data/2075006/000195004726010369/0001950047-26-010369-index.htm,LOW
+2026-10-22T20:26:34+00:00,FORM_144,PATH,"UiPath, Inc.",proposed sale $405K,405336,,https://www.sec.gov/Archives/edgar/data/2127293/000195004726010368/0001950047-26-010368-index.htm,LOW
+2026-10-22T20:26:34+00:00,FORM_144,SLDE,SLIDE INSURANCE HOLDINGS INC,proposed sale $302K,302276,,https://www.sec.gov/Archives/edgar/data/2114934/000195004726010367/0001950047-26-010367-index.htm,LOW
+2026-10-22T20:26:35+00:00,FORM_144,PUBM,"PUBMATIC, INC.",proposed sale $873K,873366,,https://www.sec.gov/Archives/edgar/data/1833511/000195004726010366/0001950047-26-010366-index.htm,LOW
