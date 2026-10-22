@@ -4887,3 +4887,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-22T14:51:49+00:00,FORM_144,TRV,"TRAVELERS COMPANIES, INC.",proposed sale $14.04M,14043791,,https://www.sec.gov/Archives/edgar/data/1689378/000195917326007450/0001959173-26-007450-index.htm,LOW
 2026-10-22T15:06:32+00:00,FORM_144,PG,PROCTER & GAMBLE Co,proposed sale $6.03M,6033836,,https://www.sec.gov/Archives/edgar/data/1882672/000008042426000253/0000080424-26-000253-index.htm,LOW
 2026-10-22T15:06:33+00:00,FORM_144,BKE,BUCKLE INC,proposed sale $116K,116400,,https://www.sec.gov/Archives/edgar/data/2128771/000216009926000003/0002160099-26-000003-index.htm,LOW
+2026-10-22T15:11:40+00:00,FORM_144,TRV,"TRAVELERS COMPANIES, INC.",proposed sale $3.66M,3656620,,https://www.sec.gov/Archives/edgar/data/1879574/000195917326007453/0001959173-26-007453-index.htm,LOW
+2026-10-22T15:11:40+00:00,FORM_144,APEI,AMERICAN PUBLIC EDUCATION INC,proposed sale $60K,59898,,https://www.sec.gov/Archives/edgar/data/1603516/000195917326007452/0001959173-26-007452-index.htm,LOW
+2026-10-22T15:11:40+00:00,FORM_144,HTFL,"Heartflow, Inc.",proposed sale $1.32M,1316554,,https://www.sec.gov/Archives/edgar/data/1585724/000195917326007451/0001959173-26-007451-index.htm,LOW
