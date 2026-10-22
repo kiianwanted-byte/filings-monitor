@@ -4881,3 +4881,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-21T23:26:30+00:00,INSIDER_BUY,FBK,FB Financial Corp,INGRAM ORRIN H II $1.54M,1537787,1,https://www.sec.gov/Archives/edgar/data/1649749/000119147326000008/0001191473-26-000008-index.htm,MEDIUM
 2026-10-21T23:51:31+00:00,FORM_144,ALLO,"Allogene Therapeutics, Inc.",proposed sale $49K,48698,,https://www.sec.gov/Archives/edgar/data/1737287/000149187426000003/0001491874-26-000003-index.htm,LOW
 2026-10-22T13:51:32+00:00,FORM_144,PGR,PROGRESSIVE CORP/OH/,proposed sale $274K,273567,,https://www.sec.gov/Archives/edgar/data/1665574/000195917326007447/0001959173-26-007447-index.htm,LOW
+2026-10-22T14:11:35+00:00,FORM_144,DELL,Dell Technologies Inc.,proposed sale $930K,930120,,https://www.sec.gov/Archives/edgar/data/1662205/000195917326007448/0001959173-26-007448-index.htm,LOW
