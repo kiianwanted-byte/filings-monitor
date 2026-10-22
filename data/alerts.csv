@@ -4923,3 +4923,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-22T20:26:35+00:00,FORM_144,PUBM,"PUBMATIC, INC.",proposed sale $873K,873366,,https://www.sec.gov/Archives/edgar/data/1833511/000195004726010366/0001950047-26-010366-index.htm,LOW
 2026-10-22T20:31:41+00:00,FORM_144,PG,PROCTER & GAMBLE Co,proposed sale $659K,659490,,https://www.sec.gov/Archives/edgar/data/1957262/000008042426000257/0000080424-26-000257-index.htm,LOW
 2026-10-22T20:36:39+00:00,FORM_144,PG,PROCTER & GAMBLE Co,proposed sale $5.52M,5520725,,https://www.sec.gov/Archives/edgar/data/1746310/000008042426000258/0000080424-26-000258-index.htm,LOW
+2026-10-22T20:41:35+00:00,FORM_144,FLD,"Fold Holdings, Inc.",proposed sale $1K,1197,,https://www.sec.gov/Archives/edgar/data/2067206/000195917326007463/0001959173-26-007463-index.htm,LOW
