@@ -4894,3 +4894,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-22T15:21:43+00:00,FORM_144,PEBO,PEOPLES BANCORP INC,proposed sale $101K,101013,,https://www.sec.gov/Archives/edgar/data/1622494/000195917326007454/0001959173-26-007454-index.htm,LOW
 2026-10-22T16:41:45+00:00,FORM_144,CHKP,CHECK POINT SOFTWARE TECHNOLOGIES LTD,proposed sale $457K,456824,,https://www.sec.gov/Archives/edgar/data/1978684/000197640826000899/0001976408-26-000899-index.htm,LOW
 2026-10-22T17:46:37+00:00,FORM_144,BURL,"Burlington Stores, Inc.",proposed sale $72K,71550,,https://www.sec.gov/Archives/edgar/data/1998017/000195917326007455/0001959173-26-007455-index.htm,LOW
+2026-10-22T17:56:37+00:00,FORM_144,KSS,KOHLS Corp,proposed sale $551K,550560,,https://www.sec.gov/Archives/edgar/data/1595040/000195917326007456/0001959173-26-007456-index.htm,LOW
