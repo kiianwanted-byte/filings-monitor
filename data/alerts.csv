@@ -4885,3 +4885,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-22T14:36:33+00:00,INSIDER_CLUSTER,GROW,U S GLOBAL INVESTORS INC,"Gator Capital Management, LLC $7K",7417,2,https://www.sec.gov/Archives/edgar/data/1570284/000106299326005480/0001062993-26-005480-index.htm,HIGH
 2026-10-22T14:36:34+00:00,FORM_144,HTFL,"Heartflow, Inc.",proposed sale $311K,311026,,https://www.sec.gov/Archives/edgar/data/1585724/000195917326007449/0001959173-26-007449-index.htm,LOW
 2026-10-22T14:51:49+00:00,FORM_144,TRV,"TRAVELERS COMPANIES, INC.",proposed sale $14.04M,14043791,,https://www.sec.gov/Archives/edgar/data/1689378/000195917326007450/0001959173-26-007450-index.htm,LOW
+2026-10-22T15:06:32+00:00,FORM_144,PG,PROCTER & GAMBLE Co,proposed sale $6.03M,6033836,,https://www.sec.gov/Archives/edgar/data/1882672/000008042426000253/0000080424-26-000253-index.htm,LOW
+2026-10-22T15:06:33+00:00,FORM_144,BKE,BUCKLE INC,proposed sale $116K,116400,,https://www.sec.gov/Archives/edgar/data/2128771/000216009926000003/0002160099-26-000003-index.htm,LOW
