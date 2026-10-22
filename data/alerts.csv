@@ -4934,3 +4934,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-22T21:06:39+00:00,FORM_144,AUB,ATLANTIC UNION BANKSHARES CORPORATION,proposed sale $310K,309878,,https://www.sec.gov/Archives/edgar/data/1966032/000195004726010374/0001950047-26-010374-index.htm,LOW
 2026-10-22T21:06:39+00:00,FORM_144,PG,PROCTER & GAMBLE Co,proposed sale $2.31M,2306558,,https://www.sec.gov/Archives/edgar/data/2110932/000008042426000259/0000080424-26-000259-index.htm,LOW
 2026-10-22T21:16:37+00:00,FORM_144,WINA,WINMARK CORP,proposed sale $526K,526443,,https://www.sec.gov/Archives/edgar/data/1761880/000196794026000056/0001967940-26-000056-index.htm,LOW
+2026-10-22T23:01:34+00:00,FORM_144,COP,ConocoPhillips,proposed sale $576K,575675,,https://www.sec.gov/Archives/edgar/data/1752517/000195824426000672/0001958244-26-000672-index.htm,LOW
+2026-10-22T23:01:34+00:00,FORM_144,FIBK,"First Interstate BancSystem, Inc.",proposed sale $369K,368800,,https://www.sec.gov/Archives/edgar/data/1908962/000195824426000671/0001958244-26-000671-index.htm,LOW
