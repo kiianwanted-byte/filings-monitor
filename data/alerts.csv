@@ -4995,3 +4995,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-23T21:16:31+00:00,INSIDER_BUY,NXG,NXG NextGen Infrastructure Income Fund,Swank Jerry V $439K,439493,0,https://www.sec.gov/Archives/edgar/data/1506488/000135471926000001/0001354719-26-000001-index.htm,MEDIUM
 2026-10-23T21:21:34+00:00,FORM_144,DCOM,"Dime Community Bancshares, Inc. /NY/",proposed sale $30K,30232,,https://www.sec.gov/Archives/edgar/data/947724/000089914026001131/0000899140-26-001131-index.htm,LOW
 2026-10-23T21:21:35+00:00,FORM_144,DCOM,"Dime Community Bancshares, Inc. /NY/",proposed sale $1.42M,1416766,,https://www.sec.gov/Archives/edgar/data/1085393/000089914026001130/0000899140-26-001130-index.htm,LOW
+2026-10-23T21:26:38+00:00,FORM_144,DCOM,"Dime Community Bancshares, Inc. /NY/",proposed sale $1.56M,1563673,,https://www.sec.gov/Archives/edgar/data/1085394/000089914026001133/0000899140-26-001133-index.htm,LOW
+2026-10-23T21:26:38+00:00,FORM_144,CART,Maplebear Inc.,proposed sale $1.32M,1324227,,https://www.sec.gov/Archives/edgar/data/2082930/000192109426001113/0001921094-26-001113-index.htm,LOW
+2026-10-23T21:26:39+00:00,FORM_144,CART,Maplebear Inc.,proposed sale $2.75M,2750000,,https://www.sec.gov/Archives/edgar/data/2022050/000192109426001112/0001921094-26-001112-index.htm,LOW
+2026-10-23T21:26:39+00:00,FORM_144,DCOM,"Dime Community Bancshares, Inc. /NY/",proposed sale $617K,617178,,https://www.sec.gov/Archives/edgar/data/1519641/000089914026001132/0000899140-26-001132-index.htm,LOW
