@@ -4953,3 +4953,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-23T19:31:39+00:00,FORM_144,BSY,BENTLEY SYSTEMS INC,proposed sale $67.50M,67500000,,https://www.sec.gov/Archives/edgar/data/1825229/000194984626000619/0001949846-26-000619-index.htm,MEDIUM
 2026-10-23T19:36:33+00:00,FORM_144,COSO,"CoastalSouth Bancshares, Inc.",proposed sale $167K,167340,,https://www.sec.gov/Archives/edgar/data/2067397/000197407826000386/0001974078-26-000386-index.htm,LOW
 2026-10-23T19:36:34+00:00,FORM_144,PCTY,Paylocity Holding Corporation,proposed sale $66.04M,66038700,,https://www.sec.gov/Archives/edgar/data/1597870/000196858226001072/0001968582-26-001072-index.htm,MEDIUM
+2026-10-23T20:06:36+00:00,FORM_144,IRD,"Opus Genetics, Inc.",proposed sale $56K,56140,,https://www.sec.gov/Archives/edgar/data/1504983/000197415826000110/0001974158-26-000110-index.htm,LOW
+2026-10-23T20:06:37+00:00,FORM_144,XYZ,"BLOCK, INC.",proposed sale $467K,467040,,https://www.sec.gov/Archives/edgar/data/1933928/000195004726010380/0001950047-26-010380-index.htm,LOW
+2026-10-23T20:06:37+00:00,FORM_144,UCB,UNITED COMMUNITY BANKS INC,proposed sale $775K,775450,,https://www.sec.gov/Archives/edgar/data/1704315/000197248126000295/0001972481-26-000295-index.htm,LOW
+2026-10-23T20:06:38+00:00,FORM_144,NDAQ,"NASDAQ, INC.",proposed sale $414K,413520,,https://www.sec.gov/Archives/edgar/data/1568592/000195004726010379/0001950047-26-010379-index.htm,LOW
+2026-10-23T20:06:39+00:00,FORM_144,BETA,"BETA Technologies, Inc.",proposed sale $192K,191896,,https://www.sec.gov/Archives/edgar/data/2090083/000195917326007475/0001959173-26-007475-index.htm,LOW
