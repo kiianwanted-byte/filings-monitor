@@ -4945,3 +4945,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-23T16:06:31+00:00,INSIDER_BUY,CRAFX,Cascade Real Assets Fund,Worley Matthew Eugene $431K,431249,2,https://www.sec.gov/Archives/edgar/data/2114459/000121390026111971/0001213900-26-111971-index.htm,MEDIUM
 2026-10-23T16:21:30+00:00,FORM_144,MRSH,"MARSH & MCLENNAN COMPANIES, INC.",proposed sale $243K,243000,,https://www.sec.gov/Archives/edgar/data/1726937/000195917326007470/0001959173-26-007470-index.htm,LOW
 2026-10-23T16:31:32+00:00,FORM_144,RMD,RESMED INC,proposed sale $102K,102000,,https://www.sec.gov/Archives/edgar/data/1982205/000195917326007471/0001959173-26-007471-index.htm,LOW
+2026-10-23T16:36:33+00:00,FORM_144,NIC,NICOLET BANKSHARES INC,proposed sale $609K,608861,,https://www.sec.gov/Archives/edgar/data/1253903/000195917326007472/0001959173-26-007472-index.htm,LOW
