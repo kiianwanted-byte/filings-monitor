@@ -4978,3 +4978,15 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-23T20:23:36+00:00,FORM_144,AVPT,"AvePoint, Inc.",proposed sale $575K,574558,,https://www.sec.gov/Archives/edgar/data/1865783/000196530126000165/0001965301-26-000165-index.htm,LOW
 2026-10-23T20:26:34+00:00,FORM_144,KSPI,Joint Stock Company Kaspi.kz,proposed sale $49.34M,49338850,,https://www.sec.gov/Archives/edgar/data/2035126/000195004726010390/0001950047-26-010390-index.htm,MEDIUM
 2026-10-23T20:31:42+00:00,FORM_144,NTRS,NORTHERN TRUST CORP,proposed sale $2.86M,2855912,,https://www.sec.gov/Archives/edgar/data/1607570/000195917326007480/0001959173-26-007480-index.htm,LOW
+2026-10-23T21:01:36+00:00,INSIDER_CLUSTER,NXG,NXG NextGen Infrastructure Income Fund,Nelson Blake $40K,39582,0,https://www.sec.gov/Archives/edgar/data/1899813/000189981326000003/0001899813-26-000003-index.htm,HIGH
+2026-10-23T21:01:42+00:00,FORM_144,HZEN,GRAYSCALE HORIZEN TRUST (ZEN),proposed sale $4K,3744,,https://www.sec.gov/Archives/edgar/data/1748945/000165253626000042/0001652536-26-000042-index.htm,LOW
+2026-10-23T21:01:42+00:00,FORM_144,GAVA,Grayscale Avalanche Staking ETF (Ticker: GAVA),proposed sale $9K,9386,,https://www.sec.gov/Archives/edgar/data/2035053/000197745426000255/0001977454-26-000255-index.htm,LOW
+2026-10-23T21:01:42+00:00,FORM_144,GTAO,Grayscale Bittensor Trust (TAO),proposed sale $16K,16384,,https://www.sec.gov/Archives/edgar/data/2029297/000197745426000258/0001977454-26-000258-index.htm,LOW
+2026-10-23T21:01:43+00:00,FORM_144,GSNR,Grayscale Near Trust (NEAR),proposed sale $2K,1575,,https://www.sec.gov/Archives/edgar/data/2025000/000197745426000256/0001977454-26-000256-index.htm,LOW
+2026-10-23T21:01:43+00:00,FORM_144,STCK,Grayscale Stacks Trust (STX),proposed sale $859,859,,https://www.sec.gov/Archives/edgar/data/2024996/000197745426000260/0001977454-26-000260-index.htm,LOW
+2026-10-23T21:01:44+00:00,FORM_144,GLIV,GRAYSCALE LIVEPEER TRUST (LPT),proposed sale $1K,1025,,https://www.sec.gov/Archives/edgar/data/1977454/000197745426000259/0001977454-26-000259-index.htm,LOW
+2026-10-23T21:01:44+00:00,FORM_144,GDLC,Grayscale CoinDesk Crypto 5 ETF,proposed sale $147K,146886,,https://www.sec.gov/Archives/edgar/data/1977454/000197745426000257/0001977454-26-000257-index.htm,LOW
+2026-10-23T21:01:45+00:00,FORM_144,DEFG,GRAYSCALE DECENTRALIZED FINANCE (DEFI) FUND LLC,proposed sale $5K,5193,,https://www.sec.gov/Archives/edgar/data/1977454/000197745426000254/0001977454-26-000254-index.htm,LOW
+2026-10-23T21:01:45+00:00,FORM_144,FILG,GRAYSCALE FILECOIN TRUST (FIL),proposed sale $5K,4537,,https://www.sec.gov/Archives/edgar/data/1977454/000197745426000253/0001977454-26-000253-index.htm,LOW
+2026-10-23T21:01:46+00:00,FORM_144,BCHG,GRAYSCALE BITCOIN CASH TRUST (BCH),proposed sale $43K,43376,,https://www.sec.gov/Archives/edgar/data/1977454/000197745426000252/0001977454-26-000252-index.htm,LOW
+2026-10-23T21:01:46+00:00,FORM_144,IRD,"Opus Genetics, Inc.",proposed sale $117K,117364,,https://www.sec.gov/Archives/edgar/data/1228627/000197407826000387/0001974078-26-000387-index.htm,LOW
