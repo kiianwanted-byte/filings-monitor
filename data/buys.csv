@@ -1606,3 +1606,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-10-23T01:01:32+00:00,2026-10-19,API,"Agora, Inc.",Zhao Bin,"Director, Chief Executive Officer",38267,4.40,168304,1.8,0001193125-26-429245
 2026-10-23T10:36:55+00:00,2026-10-21,BZUN,Baozun Inc.,Qiu Wenbin,"Director, Chief Executive Officer",11400,3.50,39900,0.7,0001104659-26-118281
 2026-10-23T12:26:33+00:00,2026-10-22,UXIN,Uxin Ltd,Dai Kun,"Director, Chief Executive Officer",7000,0.89,6230,6.4,0001493152-26-048181
+2026-10-23T13:31:34+00:00,2026-10-22,CLF,CLEVELAND-CLIFFS INC.,Camara Edilson,Director,7400,13.49,99826,12.9,0000764065-26-000117
