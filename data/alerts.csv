@@ -4942,3 +4942,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-23T14:36:33+00:00,FORM_144,VLTO,Veralto Corp,proposed sale $745K,745290,,https://www.sec.gov/Archives/edgar/data/1967680/000195917326007466/0001959173-26-007466-index.htm,LOW
 2026-10-23T15:01:43+00:00,FORM_144,MRSH,"MARSH & MCLENNAN COMPANIES, INC.",proposed sale $839K,838800,,https://www.sec.gov/Archives/edgar/data/1901304/000195917326007468/0001959173-26-007468-index.htm,LOW
 2026-10-23T15:11:32+00:00,FORM_144,TCBI,TEXAS CAPITAL BANCSHARES INC/TX,proposed sale $312K,311969,,https://www.sec.gov/Archives/edgar/data/2026535/000195917326007469/0001959173-26-007469-index.htm,LOW
+2026-10-23T16:06:31+00:00,INSIDER_BUY,CRAFX,Cascade Real Assets Fund,Worley Matthew Eugene $431K,431249,2,https://www.sec.gov/Archives/edgar/data/2114459/000121390026111971/0001213900-26-111971-index.htm,MEDIUM
