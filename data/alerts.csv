@@ -4947,3 +4947,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-23T16:31:32+00:00,FORM_144,RMD,RESMED INC,proposed sale $102K,102000,,https://www.sec.gov/Archives/edgar/data/1982205/000195917326007471/0001959173-26-007471-index.htm,LOW
 2026-10-23T16:36:33+00:00,FORM_144,NIC,NICOLET BANKSHARES INC,proposed sale $609K,608861,,https://www.sec.gov/Archives/edgar/data/1253903/000195917326007472/0001959173-26-007472-index.htm,LOW
 2026-10-23T17:06:35+00:00,FORM_144,PAYX,"Paychex, Inc.",proposed sale $2.55M,2547339,,https://www.sec.gov/Archives/edgar/data/903201/000162828026067009/0001628280-26-067009-index.htm,LOW
+2026-10-23T17:41:36+00:00,FORM_144,ROP,ROPER TECHNOLOGIES INC,proposed sale $5.23M,5226685,,https://www.sec.gov/Archives/edgar/data/1699418/000195917326007473/0001959173-26-007473-index.htm,LOW
