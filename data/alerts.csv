@@ -4958,3 +4958,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-23T20:06:37+00:00,FORM_144,UCB,UNITED COMMUNITY BANKS INC,proposed sale $775K,775450,,https://www.sec.gov/Archives/edgar/data/1704315/000197248126000295/0001972481-26-000295-index.htm,LOW
 2026-10-23T20:06:38+00:00,FORM_144,NDAQ,"NASDAQ, INC.",proposed sale $414K,413520,,https://www.sec.gov/Archives/edgar/data/1568592/000195004726010379/0001950047-26-010379-index.htm,LOW
 2026-10-23T20:06:39+00:00,FORM_144,BETA,"BETA Technologies, Inc.",proposed sale $192K,191896,,https://www.sec.gov/Archives/edgar/data/2090083/000195917326007475/0001959173-26-007475-index.htm,LOW
+2026-10-23T20:11:35+00:00,INSIDER_CLUSTER,RENT,"Rent the Runway, Inc.",CHS US Investments LLC $1.63M,1626769,2,https://www.sec.gov/Archives/edgar/data/2094454/000101297526000980/0001012975-26-000980-index.htm,HIGH
+2026-10-23T20:11:39+00:00,FORM_144,SMBK,"SmartFinancial, Inc.",proposed sale $173K,173250,,https://www.sec.gov/Archives/edgar/data/1721614/000195004726010381/0001950047-26-010381-index.htm,LOW
+2026-10-23T20:11:39+00:00,FORM_144,CB,Chubb Ltd,proposed sale $4.72M,4715190,,https://www.sec.gov/Archives/edgar/data/1162125/000195917326007476/0001959173-26-007476-index.htm,LOW
