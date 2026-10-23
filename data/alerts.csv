@@ -4976,3 +4976,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-23T20:21:51+00:00,FORM_144,PENG,PENGUIN SOLUTIONS INC,proposed sale $45K,45109,,https://www.sec.gov/Archives/edgar/data/1944970/000195004726010384/0001950047-26-010384-index.htm,LOW
 2026-10-23T20:21:52+00:00,FORM_144,ISRG,"Intuitive Surgical, Inc.",proposed sale $478K,478470,,https://www.sec.gov/Archives/edgar/data/1274559/000195004726010383/0001950047-26-010383-index.htm,LOW
 2026-10-23T20:23:36+00:00,FORM_144,AVPT,"AvePoint, Inc.",proposed sale $575K,574558,,https://www.sec.gov/Archives/edgar/data/1865783/000196530126000165/0001965301-26-000165-index.htm,LOW
+2026-10-23T20:26:34+00:00,FORM_144,KSPI,Joint Stock Company Kaspi.kz,proposed sale $49.34M,49338850,,https://www.sec.gov/Archives/edgar/data/2035126/000195004726010390/0001950047-26-010390-index.htm,MEDIUM
