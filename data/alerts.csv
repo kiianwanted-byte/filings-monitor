@@ -4992,3 +4992,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-23T21:01:46+00:00,FORM_144,IRD,"Opus Genetics, Inc.",proposed sale $117K,117364,,https://www.sec.gov/Archives/edgar/data/1228627/000197407826000387/0001974078-26-000387-index.htm,LOW
 2026-10-23T21:11:46+00:00,INSIDER_CLUSTER,AHNRF,ATHENA GOLD CORP,Kushner Koby Solomon $4K,3534,24,https://www.sec.gov/Archives/edgar/data/2040866/000168316826008055/0001683168-26-008055-index.htm,HIGH
 2026-10-23T21:11:50+00:00,FORM_144,WABC,WESTAMERICA BANCORPORATION,proposed sale $454K,454405,,https://www.sec.gov/Archives/edgar/data/1738156/000192109426001111/0001921094-26-001111-index.htm,LOW
+2026-10-23T21:16:31+00:00,INSIDER_BUY,NXG,NXG NextGen Infrastructure Income Fund,Swank Jerry V $439K,439493,0,https://www.sec.gov/Archives/edgar/data/1506488/000135471926000001/0001354719-26-000001-index.htm,MEDIUM
