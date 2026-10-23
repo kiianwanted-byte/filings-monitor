@@ -4940,3 +4940,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-23T14:31:30+00:00,FORM_144,LRCX,LAM RESEARCH CORP,proposed sale $7.13M,7128428,,https://www.sec.gov/Archives/edgar/data/1343600/000195917326007465/0001959173-26-007465-index.htm,LOW
 2026-10-23T14:36:32+00:00,FORM_144,PEBO,PEOPLES BANCORP INC,proposed sale $76K,75760,,https://www.sec.gov/Archives/edgar/data/1823146/000195917326007467/0001959173-26-007467-index.htm,LOW
 2026-10-23T14:36:33+00:00,FORM_144,VLTO,Veralto Corp,proposed sale $745K,745290,,https://www.sec.gov/Archives/edgar/data/1967680/000195917326007466/0001959173-26-007466-index.htm,LOW
+2026-10-23T15:01:43+00:00,FORM_144,MRSH,"MARSH & MCLENNAN COMPANIES, INC.",proposed sale $839K,838800,,https://www.sec.gov/Archives/edgar/data/1901304/000195917326007468/0001959173-26-007468-index.htm,LOW
