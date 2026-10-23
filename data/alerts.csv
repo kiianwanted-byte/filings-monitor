@@ -4937,3 +4937,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-22T23:01:34+00:00,FORM_144,COP,ConocoPhillips,proposed sale $576K,575675,,https://www.sec.gov/Archives/edgar/data/1752517/000195824426000672/0001958244-26-000672-index.htm,LOW
 2026-10-22T23:01:34+00:00,FORM_144,FIBK,"First Interstate BancSystem, Inc.",proposed sale $369K,368800,,https://www.sec.gov/Archives/edgar/data/1908962/000195824426000671/0001958244-26-000671-index.htm,LOW
 2026-10-23T14:26:32+00:00,FORM_144,AGNC,AGNC Investment Corp.,proposed sale $603K,602688,,https://www.sec.gov/Archives/edgar/data/1464523/000195917326007464/0001959173-26-007464-index.htm,LOW
+2026-10-23T14:31:30+00:00,FORM_144,LRCX,LAM RESEARCH CORP,proposed sale $7.13M,7128428,,https://www.sec.gov/Archives/edgar/data/1343600/000195917326007465/0001959173-26-007465-index.htm,LOW
