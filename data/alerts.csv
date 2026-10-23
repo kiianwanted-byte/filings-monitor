@@ -4951,3 +4951,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-23T19:01:32+00:00,FORM_144,IRD,"Opus Genetics, Inc.",proposed sale $34K,34383,,https://www.sec.gov/Archives/edgar/data/1999390/000197407826000385/0001974078-26-000385-index.htm,LOW
 2026-10-23T19:16:35+00:00,FORM_144,TWST,Twist Bioscience Corp,proposed sale $302K,302153,,https://www.sec.gov/Archives/edgar/data/1755970/000195917326007474/0001959173-26-007474-index.htm,LOW
 2026-10-23T19:31:39+00:00,FORM_144,BSY,BENTLEY SYSTEMS INC,proposed sale $67.50M,67500000,,https://www.sec.gov/Archives/edgar/data/1825229/000194984626000619/0001949846-26-000619-index.htm,MEDIUM
+2026-10-23T19:36:33+00:00,FORM_144,COSO,"CoastalSouth Bancshares, Inc.",proposed sale $167K,167340,,https://www.sec.gov/Archives/edgar/data/2067397/000197407826000386/0001974078-26-000386-index.htm,LOW
+2026-10-23T19:36:34+00:00,FORM_144,PCTY,Paylocity Holding Corporation,proposed sale $66.04M,66038700,,https://www.sec.gov/Archives/edgar/data/1597870/000196858226001072/0001968582-26-001072-index.htm,MEDIUM
