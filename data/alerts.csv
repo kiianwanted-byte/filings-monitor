@@ -4968,3 +4968,10 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-23T20:16:38+00:00,FORM_144,HSTM,HEALTHSTREAM INC,proposed sale $420K,420000,,https://www.sec.gov/Archives/edgar/data/1217283/000196922326001087/0001969223-26-001087-index.htm,LOW
 2026-10-23T20:16:38+00:00,FORM_144,EFX,EQUIFAX INC,proposed sale $6.91M,6908341,,https://www.sec.gov/Archives/edgar/data/1335111/000195917326007478/0001959173-26-007478-index.htm,LOW
 2026-10-23T20:16:39+00:00,FORM_144,AMPL,"Amplitude, Inc.",proposed sale $1.88M,1876822,,https://www.sec.gov/Archives/edgar/data/1882913/000195917326007477/0001959173-26-007477-index.htm,LOW
+2026-10-23T20:21:49+00:00,FORM_144,ISRG,"Intuitive Surgical, Inc.",proposed sale $2.28M,2279613,,https://www.sec.gov/Archives/edgar/data/1897970/000195004726010389/0001950047-26-010389-index.htm,LOW
+2026-10-23T20:21:50+00:00,FORM_144,NDAQ,"NASDAQ, INC.",proposed sale $1.07M,1073754,,https://www.sec.gov/Archives/edgar/data/1781714/000195004726010388/0001950047-26-010388-index.htm,LOW
+2026-10-23T20:21:50+00:00,FORM_144,CMRC,COMMERCE.COM INC,proposed sale $3K,2924,,https://www.sec.gov/Archives/edgar/data/1981372/000195004726010387/0001950047-26-010387-index.htm,LOW
+2026-10-23T20:21:50+00:00,FORM_144,ISRG,"Intuitive Surgical, Inc.",proposed sale $12.05M,12045645,,https://www.sec.gov/Archives/edgar/data/1280628/000195004726010386/0001950047-26-010386-index.htm,LOW
+2026-10-23T20:21:51+00:00,FORM_144,ISRG,"Intuitive Surgical, Inc.",proposed sale $510K,510427,,https://www.sec.gov/Archives/edgar/data/1277620/000195004726010385/0001950047-26-010385-index.htm,LOW
+2026-10-23T20:21:51+00:00,FORM_144,PENG,PENGUIN SOLUTIONS INC,proposed sale $45K,45109,,https://www.sec.gov/Archives/edgar/data/1944970/000195004726010384/0001950047-26-010384-index.htm,LOW
+2026-10-23T20:21:52+00:00,FORM_144,ISRG,"Intuitive Surgical, Inc.",proposed sale $478K,478470,,https://www.sec.gov/Archives/edgar/data/1274559/000195004726010383/0001950047-26-010383-index.htm,LOW
