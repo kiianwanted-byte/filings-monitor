@@ -1605,3 +1605,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-10-22T23:41:30+00:00,2026-06-05,LIQT,LIQTECH INTERNATIONAL INC,Boswell Peyton,Director,50000,1.00,50000,41.2,0001437749-26-033305
 2026-10-23T01:01:32+00:00,2026-10-19,API,"Agora, Inc.",Zhao Bin,"Director, Chief Executive Officer",38267,4.40,168304,1.8,0001193125-26-429245
 2026-10-23T10:36:55+00:00,2026-10-21,BZUN,Baozun Inc.,Qiu Wenbin,"Director, Chief Executive Officer",11400,3.50,39900,0.7,0001104659-26-118281
+2026-10-23T12:26:33+00:00,2026-10-22,UXIN,Uxin Ltd,Dai Kun,"Director, Chief Executive Officer",7000,0.89,6230,6.4,0001493152-26-048181
