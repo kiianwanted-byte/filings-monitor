@@ -5003,3 +5003,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-23T21:36:39+00:00,FORM_144,DCOM,"Dime Community Bancshares, Inc.",proposed sale $387K,387357,,https://www.sec.gov/Archives/edgar/data/1538637/000089914026001134/0000899140-26-001134-index.htm,LOW
 2026-10-23T22:57:48+00:00,FORM_144,MANA,Grayscale Decentraland Trust (MANA),proposed sale $3K,2964,,https://www.sec.gov/Archives/edgar/data/1979086/000197908626000007/0001979086-26-000007-index.htm,LOW
 2026-10-23T22:57:48+00:00,FORM_144,STX,Seagate Technology Holdings plc,proposed sale $380K,379785,,https://www.sec.gov/Archives/edgar/data/1773423/000177342326000006/0001773423-26-000006-index.htm,LOW
+2026-10-23T23:11:28+00:00,FORM_144,HZEN,Grayscale Horizen Trust (ZEN),proposed sale $2K,1536,,https://www.sec.gov/Archives/edgar/data/1979086/000197908626000008/0001979086-26-000008-index.htm,LOW
