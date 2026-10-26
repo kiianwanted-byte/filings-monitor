@@ -5006,3 +5006,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-23T23:11:28+00:00,FORM_144,HZEN,Grayscale Horizen Trust (ZEN),proposed sale $2K,1536,,https://www.sec.gov/Archives/edgar/data/1979086/000197908626000008/0001979086-26-000008-index.htm,LOW
 2026-10-23T23:31:31+00:00,FORM_144,HZEN,Grayscale Horizen Trust (ZEN),proposed sale $20K,20104,,https://www.sec.gov/Archives/edgar/data/1976415/000197641526000034/0001976415-26-000034-index.htm,LOW
 2026-10-26T13:51:33+00:00,FORM_144,DGX,QUEST DIAGNOSTICS INC,proposed sale $292K,292329,,https://www.sec.gov/Archives/edgar/data/1127304/000195917326007482/0001959173-26-007482-index.htm,LOW
+2026-10-26T14:01:36+00:00,FORM_144,STT,STATE STREET CORP,proposed sale $1.20M,1197104,,https://www.sec.gov/Archives/edgar/data/1629737/000195917326007485/0001959173-26-007485-index.htm,LOW
+2026-10-26T14:01:37+00:00,FORM_144,TILE,INTERFACE INC,proposed sale $255K,254940,,https://www.sec.gov/Archives/edgar/data/1768695/000195917326007484/0001959173-26-007484-index.htm,LOW
+2026-10-26T14:01:37+00:00,FORM_144,NTRS,NORTHERN TRUST CORP,proposed sale $662K,661602,,https://www.sec.gov/Archives/edgar/data/1607570/000195917326007483/0001959173-26-007483-index.htm,LOW
