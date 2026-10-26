@@ -5013,3 +5013,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-26T14:26:43+00:00,FORM_144,OVLY,Oak Valley Bancorp,proposed sale $13K,12750,,https://www.sec.gov/Archives/edgar/data/1442259/000195917326007487/0001959173-26-007487-index.htm,LOW
 2026-10-26T14:36:32+00:00,FORM_144,AGNC,AGNC Investment Corp.,proposed sale $601K,601357,,https://www.sec.gov/Archives/edgar/data/1464523/000195917326007488/0001959173-26-007488-index.htm,LOW
 2026-10-26T14:41:31+00:00,FORM_144,UHAL,U-Haul Holding Co /NV/,proposed sale $21.01M,21006808,,https://www.sec.gov/Archives/edgar/data/2154168/000194984626000620/0001949846-26-000620-index.htm,LOW
+2026-10-26T14:51:32+00:00,FORM_144,ALLE,Allegion plc,proposed sale $1.14M,1136738,,https://www.sec.gov/Archives/edgar/data/1589039/000195917326007489/0001959173-26-007489-index.htm,LOW
