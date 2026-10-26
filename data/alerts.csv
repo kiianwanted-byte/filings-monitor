@@ -5024,3 +5024,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-26T19:36:32+00:00,FORM_144,ESEA,EUROSEAS LTD.,proposed sale $93K,93240,,https://www.sec.gov/Archives/edgar/data/2122308/000212230826000005/0002122308-26-000005-index.htm,LOW
 2026-10-26T19:46:34+00:00,FORM_144,EDRY,EuroDry Ltd.,proposed sale $93K,93015,,https://www.sec.gov/Archives/edgar/data/2122308/000212230826000006/0002122308-26-000006-index.htm,LOW
 2026-10-26T20:01:35+00:00,FORM_144,CRTO,Criteo S.A.,proposed sale $2K,2189,,https://www.sec.gov/Archives/edgar/data/2148390/000197337926000351/0001973379-26-000351-index.htm,LOW
+2026-10-26T20:06:45+00:00,FORM_144,SIGI,SELECTIVE INSURANCE GROUP INC,proposed sale $364K,364342,,https://www.sec.gov/Archives/edgar/data/1470648/000196430626000475/0001964306-26-000475-index.htm,LOW
+2026-10-26T20:06:45+00:00,FORM_144,BETA,"BETA Technologies, Inc.",proposed sale $198K,197643,,https://www.sec.gov/Archives/edgar/data/2090083/000195917326007494/0001959173-26-007494-index.htm,LOW
+2026-10-26T20:06:46+00:00,FORM_144,CCI,CROWN CASTLE INC,proposed sale $222K,222000,,https://www.sec.gov/Archives/edgar/data/1879491/000196922326001088/0001969223-26-001088-index.htm,LOW
