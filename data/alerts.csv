@@ -5077,3 +5077,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-26T20:46:36+00:00,FORM_144,R,RYDER SYSTEM INC,proposed sale $1.87M,1874691,,https://www.sec.gov/Archives/edgar/data/1216931/000195917326007500/0001959173-26-007500-index.htm,LOW
 2026-10-26T21:01:37+00:00,FORM_144,CART,Maplebear Inc.,proposed sale $1.48M,1479900,,https://www.sec.gov/Archives/edgar/data/2082930/000192109426001118/0001921094-26-001118-index.htm,LOW
 2026-10-26T21:01:38+00:00,FORM_144,FSLY,"FASTLY, INC.",proposed sale $977K,977425,,https://www.sec.gov/Archives/edgar/data/1769490/000195004726010417/0001950047-26-010417-index.htm,LOW
+2026-10-26T21:06:34+00:00,FORM_144,MAX,"MediaAlpha, Inc.",proposed sale $371K,370648,,https://www.sec.gov/Archives/edgar/data/1830016/000192109426001119/0001921094-26-001119-index.htm,LOW

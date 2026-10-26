@@ -1651,3 +1651,5 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-10-26T20:51:33+00:00,2026-10-21,PEBK,PEOPLES BANCORP OF NORTH CAROLINA INC,PRICE BILLY L JR DR,Director,200,42.28,8457,1.3,0001654954-26-009146
 2026-10-26T20:56:33+00:00,2026-10-22,ACOG,Alpha Cognition Inc.,Opaleye Management Inc.,10% owner,32090,8.28,265820,1.0,0001493152-26-048562
 2026-10-26T21:01:34+00:00,2026-10-26,DLPN,"Dolphin Entertainment, Inc.",O'Dowd William IV,"Director, Chief Executive Officer, 10% owner",4900,1.00,4895,0.8,0001079973-26-001402
+2026-10-26T21:06:30+00:00,2026-09-18,OIG,Orion180 Insurance Group Inc.,Darling Craig,10% owner,10990,10.54,115797,0.2,0001493152-26-048577
+2026-10-26T21:06:32+00:00,2026-10-22,NBIS,Nebius Group N.V.,Grimme Arne,Director,770,159.01,122437,11.6,0001513845-26-000141
