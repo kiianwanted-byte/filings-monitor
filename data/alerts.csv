@@ -5074,3 +5074,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-26T20:36:38+00:00,FORM_144,DCOM,"Dime Community Bancshares, Inc. /NY/",proposed sale $4K,4316,,https://www.sec.gov/Archives/edgar/data/947724/000089914026001147/0000899140-26-001147-index.htm,LOW
 2026-10-26T20:41:34+00:00,FORM_144,HON,HONEYWELL INTERNATIONAL INC.,proposed sale $651K,650933,,https://www.sec.gov/Archives/edgar/data/1748614/000195004726010416/0001950047-26-010416-index.htm,LOW
 2026-10-26T20:41:34+00:00,FORM_144,HON,HONEYWELL INTERNATIONAL INC.,proposed sale $1.43M,1427374,,https://www.sec.gov/Archives/edgar/data/1742938/000195004726010415/0001950047-26-010415-index.htm,LOW
+2026-10-26T20:46:36+00:00,FORM_144,R,RYDER SYSTEM INC,proposed sale $1.87M,1874691,,https://www.sec.gov/Archives/edgar/data/1216931/000195917326007500/0001959173-26-007500-index.htm,LOW
