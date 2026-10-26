@@ -5040,3 +5040,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-26T20:21:37+00:00,FORM_144,IRDM,IRIDIUM COMMUNICATIONS INC,proposed sale $473K,473368,,https://www.sec.gov/Archives/edgar/data/1418819/000196858226001074/0001968582-26-001074-index.htm,LOW
 2026-10-26T20:21:37+00:00,FORM_144,LOB,"Live Oak Bancshares, Inc.",proposed sale $177K,176550,,https://www.sec.gov/Archives/edgar/data/1656656/000195917326007498/0001959173-26-007498-index.htm,LOW
 2026-10-26T20:21:37+00:00,FORM_144,SYM,Symbotic Inc.,proposed sale $353K,352916,,https://www.sec.gov/Archives/edgar/data/1837240/000195004726010402/0001950047-26-010402-index.htm,LOW
+2026-10-26T20:26:35+00:00,FORM_144,CATY,CATHAY GENERAL BANCORP,proposed sale $62K,62352,,https://www.sec.gov/Archives/edgar/data/1668213/000192109426001114/0001921094-26-001114-index.htm,LOW
+2026-10-26T20:26:35+00:00,FORM_144,DCOM,"Dime Community Bancshares, Inc. /NY/",proposed sale $232K,232366,,https://www.sec.gov/Archives/edgar/data/1085394/000089914026001143/0000899140-26-001143-index.htm,LOW
+2026-10-26T20:26:36+00:00,FORM_144,MEDP,"Medpace Holdings, Inc.",proposed sale $10.87M,10872620,,https://www.sec.gov/Archives/edgar/data/1677418/000195917326007499/0001959173-26-007499-index.htm,LOW
+2026-10-26T20:26:36+00:00,FORM_144,SYM,Symbotic Inc.,proposed sale $87K,86636,,https://www.sec.gov/Archives/edgar/data/1837240/000195004726010404/0001950047-26-010404-index.htm,LOW
+2026-10-26T20:26:37+00:00,FORM_144,SYM,Symbotic Inc.,proposed sale $76K,75797,,https://www.sec.gov/Archives/edgar/data/1933434/000195004726010403/0001950047-26-010403-index.htm,LOW
