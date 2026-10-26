@@ -5045,3 +5045,28 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-26T20:26:36+00:00,FORM_144,MEDP,"Medpace Holdings, Inc.",proposed sale $10.87M,10872620,,https://www.sec.gov/Archives/edgar/data/1677418/000195917326007499/0001959173-26-007499-index.htm,LOW
 2026-10-26T20:26:36+00:00,FORM_144,SYM,Symbotic Inc.,proposed sale $87K,86636,,https://www.sec.gov/Archives/edgar/data/1837240/000195004726010404/0001950047-26-010404-index.htm,LOW
 2026-10-26T20:26:37+00:00,FORM_144,SYM,Symbotic Inc.,proposed sale $76K,75797,,https://www.sec.gov/Archives/edgar/data/1933434/000195004726010403/0001950047-26-010403-index.htm,LOW
+2026-10-26T20:31:49+00:00,FORM_144,SYM,Symbotic Inc.,proposed sale $152K,152119,,https://www.sec.gov/Archives/edgar/data/2002913/000195004726010414/0001950047-26-010414-index.htm,LOW
+2026-10-26T20:31:50+00:00,FORM_144,DCOM,"Dime Community Bancshares, Inc.",proposed sale $34K,34483,,https://www.sec.gov/Archives/edgar/data/1538637/000089914026001146/0000899140-26-001146-index.htm,LOW
+2026-10-26T20:31:50+00:00,FORM_144,HZEN,GRAYSCALE HORIZEN TRUST (ZEN),proposed sale $4K,3979,,https://www.sec.gov/Archives/edgar/data/1748945/000165253626000043/0001652536-26-000043-index.htm,LOW
+2026-10-26T20:31:50+00:00,FORM_144,GAVA,Grayscale Avalanche Staking ETF (Ticker: GAVA),proposed sale $9K,9118,,https://www.sec.gov/Archives/edgar/data/2035053/000197745426000263/0001977454-26-000263-index.htm,LOW
+2026-10-26T20:31:51+00:00,FORM_144,GTAO,Grayscale Bittensor Trust (TAO),proposed sale $8K,8401,,https://www.sec.gov/Archives/edgar/data/2029297/000197745426000261/0001977454-26-000261-index.htm,LOW
+2026-10-26T20:31:51+00:00,FORM_144,GSNR,Grayscale Near Trust (NEAR),proposed sale $1K,1240,,https://www.sec.gov/Archives/edgar/data/2025000/000197745426000266/0001977454-26-000266-index.htm,LOW
+2026-10-26T20:31:52+00:00,FORM_144,STCK,Grayscale Stacks Trust (STX),proposed sale $1K,1049,,https://www.sec.gov/Archives/edgar/data/2024996/000197745426000262/0001977454-26-000262-index.htm,LOW
+2026-10-26T20:31:52+00:00,FORM_144,BCHG,GRAYSCALE BITCOIN CASH TRUST (BCH),proposed sale $42K,41504,,https://www.sec.gov/Archives/edgar/data/1977454/000197745426000269/0001977454-26-000269-index.htm,LOW
+2026-10-26T20:31:53+00:00,FORM_144,DEFG,GRAYSCALE DECENTRALIZED FINANCE (DEFI) FUND LLC,proposed sale $3K,2680,,https://www.sec.gov/Archives/edgar/data/1977454/000197745426000268/0001977454-26-000268-index.htm,LOW
+2026-10-26T20:31:54+00:00,FORM_144,FILG,GRAYSCALE FILECOIN TRUST (FIL),proposed sale $4K,4183,,https://www.sec.gov/Archives/edgar/data/1977454/000197745426000267/0001977454-26-000267-index.htm,LOW
+2026-10-26T20:31:54+00:00,FORM_144,GLIV,GRAYSCALE LIVEPEER TRUST (LPT),proposed sale $1K,1115,,https://www.sec.gov/Archives/edgar/data/1977454/000197745426000265/0001977454-26-000265-index.htm,LOW
+2026-10-26T20:31:55+00:00,FORM_144,GDLC,Grayscale CoinDesk Crypto 5 ETF,proposed sale $144K,144075,,https://www.sec.gov/Archives/edgar/data/1977454/000197745426000264/0001977454-26-000264-index.htm,LOW
+2026-10-26T20:31:56+00:00,FORM_144,ZIP,"ZIPRECRUITER, INC.",proposed sale $28K,27695,,https://www.sec.gov/Archives/edgar/data/1859442/000195004726010413/0001950047-26-010413-index.htm,LOW
+2026-10-26T20:31:56+00:00,FORM_144,MTSI,"MACOM Technology Solutions Holdings, Inc.",proposed sale $243K,242618,,https://www.sec.gov/Archives/edgar/data/1493594/000195004726010412/0001950047-26-010412-index.htm,LOW
+2026-10-26T20:31:57+00:00,FORM_144,META,"Meta Platforms, Inc.",proposed sale $1.01M,1008000,,https://www.sec.gov/Archives/edgar/data/1564475/000192109426001116/0001921094-26-001116-index.htm,LOW
+2026-10-26T20:31:58+00:00,FORM_144,FSLY,"FASTLY, INC.",proposed sale $218K,218249,,https://www.sec.gov/Archives/edgar/data/2074428/000195004726010411/0001950047-26-010411-index.htm,LOW
+2026-10-26T20:31:58+00:00,FORM_144,DCOM,"Dime Community Bancshares, Inc. /NY/",proposed sale $327K,326799,,https://www.sec.gov/Archives/edgar/data/1085393/000089914026001145/0000899140-26-001145-index.htm,LOW
+2026-10-26T20:31:59+00:00,FORM_144,NFLX,"Netflix, Inc.",proposed sale $1.18M,1183983,,https://www.sec.gov/Archives/edgar/data/1193119/000195004726010410/0001950047-26-010410-index.htm,LOW
+2026-10-26T20:31:59+00:00,FORM_144,SYM,Symbotic Inc.,proposed sale $734K,734309,,https://www.sec.gov/Archives/edgar/data/1877346/000195004726010409/0001950047-26-010409-index.htm,LOW
+2026-10-26T20:32:00+00:00,FORM_144,BDX,"Becton, Dickinson and Company",proposed sale $15K,15117,,https://www.sec.gov/Archives/edgar/data/2034349/000195004726010408/0001950047-26-010408-index.htm,LOW
+2026-10-26T20:32:00+00:00,FORM_144,DCOM,"DIME COMMUNITY BANCSHARES, INC.",proposed sale $76K,75662,,https://www.sec.gov/Archives/edgar/data/1194348/000195004726010407/0001950047-26-010407-index.htm,LOW
+2026-10-26T20:32:01+00:00,FORM_144,BLND,"Blend Labs, Inc.",proposed sale $24K,23903,,https://www.sec.gov/Archives/edgar/data/1870974/000192109426001115/0001921094-26-001115-index.htm,LOW
+2026-10-26T20:32:01+00:00,FORM_144,VRSN,"VERISIGN, INC.",proposed sale $989K,989482,,https://www.sec.gov/Archives/edgar/data/1940987/000195004726010406/0001950047-26-010406-index.htm,LOW
+2026-10-26T20:32:02+00:00,FORM_144,DCOM,"Dime Community Bancshares, Inc. /NY/",proposed sale $93K,92510,,https://www.sec.gov/Archives/edgar/data/1519641/000089914026001144/0000899140-26-001144-index.htm,LOW
+2026-10-26T20:32:02+00:00,FORM_144,GWRE,"GUIDEWIRE SOFTWARE, INC.",proposed sale $225K,224628,,https://www.sec.gov/Archives/edgar/data/1784996/000195004726010405/0001950047-26-010405-index.htm,LOW
