@@ -1636,3 +1636,5 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-10-24T01:36:31+00:00,2026-10-21,BPRE,Bluerock Private Real Estate Fund,Ruddy Jordan B.,President,2040,12.25,24986,11.9,0001398344-26-018733
 2026-10-26T12:01:33+00:00,2026-10-23,UXIN,Uxin Ltd,Dai Kun,"Director, Chief Executive Officer",6000,0.85,5083,5.1,0001493152-26-048422
 2026-10-26T12:46:31+00:00,2026-10-22,BPRE,Bluerock Private Real Estate Fund,KAMFAR RAMIN,Director,170320,12.48,2126091,6.3,0001398344-26-018736
+2026-10-26T16:16:37+00:00,2026-10-23,XFLT,XAI Floating Rate & Alternative Income Trust,Spence John Yogi,Vice President,1000,16.50,16500,0.9,0001718133-26-000006
+2026-10-26T16:16:40+00:00,2026-10-23,AIM,AIM ImmunoTech Inc.,Equels Thomas K,"Director, CEO & President",31675,0.16,5068,20.0,0001493152-26-048460
