@@ -5083,3 +5083,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-26T21:46:33+00:00,INSIDER_CLUSTER,THRM,Gentherm Inc,MASCARENAS PAUL ANTHONY $533K,532600,3,https://www.sec.gov/Archives/edgar/data/1625756/000119312526432218/0001193125-26-432218-index.htm,HIGH
 2026-10-26T22:21:34+00:00,INSIDER_BUY,,Blackstone Multi-Strategy Hedge Fund L.P.,Collins Philip Daniel $2.00M,2000000,34,https://www.sec.gov/Archives/edgar/data/2108709/000119312526432250/0001193125-26-432250-index.htm,LOW
 2026-10-26T22:21:36+00:00,FORM_144,BNY,The Bank of New York Mellon Corporation,proposed sale $7.36M,7359000,,https://www.sec.gov/Archives/edgar/data/1825740/000195824426000673/0001958244-26-000673-index.htm,LOW
+2026-10-26T22:26:32+00:00,INSIDER_BUY,,Blackstone Multi-Strategy Hedge Fund L.P.,Querrey Kimberly K. $7.00M,7000000,34,https://www.sec.gov/Archives/edgar/data/2095486/000119312526432259/0001193125-26-432259-index.htm,LOW
+2026-10-26T22:26:33+00:00,INSIDER_BUY,,Blackstone Multi-Strategy Hedge Fund L.P.,Desai Ravi Rajendra $400K,399999,34,https://www.sec.gov/Archives/edgar/data/2105123/000119312526432257/0001193125-26-432257-index.htm,LOW
