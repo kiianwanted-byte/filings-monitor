@@ -417,7 +417,15 @@ def esc(s):
                   .replace(">", "&gt;"))
 
 
-def box(title, rows, link="", footer=""):
+# Telegram guesses a programming language for any code block with no
+# language set, then colours it as code: numbers turn red, and words like
+# ACTION, DATE and NOT turn red when it guesses SQL. The colour meant
+# nothing and changed from alert to alert. Declaring the block as plain
+# text stops the guessing. Found 26 Oct 2026.
+BOX_LANG = "plaintext"
+
+
+def box(title, rows, link="", footer="", lang=None):
     """
     Renders a monospace block so labels line up:
 
@@ -429,7 +437,12 @@ def box(title, rows, link="", footer=""):
     rows = [(k, v) for k, v in rows if v not in ("", None)]
     width = max((len(k) for k, _ in rows), default=0)
     body = "\n".join(f"{k.ljust(width)}  {v}" for k, v in rows)
-    out = f"{esc(title)}\n<pre>{esc(body)}</pre>"
+    lang = BOX_LANG if lang is None else lang
+    if lang:
+        out = (f'{esc(title)}\n<pre><code class="language-{lang}">'
+               f"{esc(body)}</code></pre>")
+    else:
+        out = f"{esc(title)}\n<pre>{esc(body)}</pre>"
     if footer:
         out += f"\n{esc(footer)}"
     if link:
@@ -1760,6 +1773,26 @@ def main():
         sys.exit(1)
 
     ensure_files()
+
+    if len(sys.argv) > 1 and sys.argv[1] == "fmtest":
+        # Posts one real alert three ways so the colouring can be compared
+        # in SCOUT. Run from Diagnostics. Safe to leave in.
+        sample = [
+            ("PRIORITY", "MEDIUM"),
+            ("TICKER", "BSY"),
+            ("COMPANY", "BENTLEY SYSTEMS INC"),
+            ("ACTION", "SELL (proposed, not yet executed)"),
+            ("VALUE", "$67.50M"),
+            ("SALE DATE", "10/23/2026"),
+            ("FILED", "23 Oct"),
+        ]
+        for tag, lang in (("A - old style", ""),
+                          ("B - plaintext", "plaintext"),
+                          ("C - text", "text")):
+            telegram(box(f"FORMAT TEST {tag}", sample, lang=lang,
+                         footer="Test only. Ignore."))
+        log("fmtest: sent 3 messages")
+        sys.exit(0)
 
     if len(sys.argv) > 1 and sys.argv[1] == "heartbeat":
         heartbeat()
