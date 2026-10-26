@@ -5086,3 +5086,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-26T22:26:32+00:00,INSIDER_BUY,,Blackstone Multi-Strategy Hedge Fund L.P.,Querrey Kimberly K. $7.00M,7000000,34,https://www.sec.gov/Archives/edgar/data/2095486/000119312526432259/0001193125-26-432259-index.htm,LOW
 2026-10-26T22:26:33+00:00,INSIDER_BUY,,Blackstone Multi-Strategy Hedge Fund L.P.,Desai Ravi Rajendra $400K,399999,34,https://www.sec.gov/Archives/edgar/data/2105123/000119312526432257/0001193125-26-432257-index.htm,LOW
 2026-10-26T22:36:30+00:00,INSIDER_BUY,,Blackstone Multi-Strategy Hedge Fund L.P.,Abrahams Riad M $795K,794999,4,https://www.sec.gov/Archives/edgar/data/2095486/000119312526432266/0001193125-26-432266-index.htm,LOW
+2026-10-26T22:51:32+00:00,INSIDER_CLUSTER,STC,STEWART INFORMATION SERVICES CORP,BRADLEY C ALLEN JR $95K,94600,3,https://www.sec.gov/Archives/edgar/data/1341775/000162828026067360/0001628280-26-067360-index.htm,HIGH
