@@ -5009,3 +5009,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-26T14:01:36+00:00,FORM_144,STT,STATE STREET CORP,proposed sale $1.20M,1197104,,https://www.sec.gov/Archives/edgar/data/1629737/000195917326007485/0001959173-26-007485-index.htm,LOW
 2026-10-26T14:01:37+00:00,FORM_144,TILE,INTERFACE INC,proposed sale $255K,254940,,https://www.sec.gov/Archives/edgar/data/1768695/000195917326007484/0001959173-26-007484-index.htm,LOW
 2026-10-26T14:01:37+00:00,FORM_144,NTRS,NORTHERN TRUST CORP,proposed sale $662K,661602,,https://www.sec.gov/Archives/edgar/data/1607570/000195917326007483/0001959173-26-007483-index.htm,LOW
+2026-10-26T14:11:33+00:00,FORM_144,WASH,WASHINGTON TRUST BANCORP INC,proposed sale $47K,47100,,https://www.sec.gov/Archives/edgar/data/1548238/000195917326007486/0001959173-26-007486-index.htm,LOW
