@@ -5022,3 +5022,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-26T19:11:36+00:00,FORM_144,PG,PROCTER & GAMBLE Co,proposed sale $873K,873000,,https://www.sec.gov/Archives/edgar/data/2132273/000008042426000262/0000080424-26-000262-index.htm,LOW
 2026-10-26T19:21:38+00:00,FORM_144,EDRY,EuroDry Ltd.,proposed sale $9K,9015,,https://www.sec.gov/Archives/edgar/data/2122308/000212230826000004/0002122308-26-000004-index.htm,LOW
 2026-10-26T19:36:32+00:00,FORM_144,ESEA,EUROSEAS LTD.,proposed sale $93K,93240,,https://www.sec.gov/Archives/edgar/data/2122308/000212230826000005/0002122308-26-000005-index.htm,LOW
+2026-10-26T19:46:34+00:00,FORM_144,EDRY,EuroDry Ltd.,proposed sale $93K,93015,,https://www.sec.gov/Archives/edgar/data/2122308/000212230826000006/0002122308-26-000006-index.htm,LOW
