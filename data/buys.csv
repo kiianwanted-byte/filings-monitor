@@ -1659,3 +1659,6 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-10-26T21:46:33+00:00,2025-07-22,LITS,"Lite Strategy, Inc.",Glover Nicholas,Director,2000,6.28,12550,NEW,0001193125-26-432220
 2026-10-26T21:46:33+00:00,2026-10-23,THRM,Gentherm Inc,MASCARENAS PAUL ANTHONY,Director,20000,26.63,532600,747.1,0001193125-26-432218
 2026-10-26T22:11:32+00:00,2026-10-22,GRCE,"Grace Therapeutics, Inc.",Opaleye Management Inc.,10% owner,87801,1.81,158600,3.0,0001493152-26-048591
+2026-10-26T22:21:34+00:00,2026-09-22,,Blackstone Multi-Strategy Hedge Fund L.P.,Gardiner William Simpson,Chief Compliance Officer,1957,25.54,49999,NEW,0001193125-26-432249
+2026-10-26T22:21:34+00:00,2026-09-22,,Blackstone Multi-Strategy Hedge Fund L.P.,Collins Philip Daniel,Director,78308,25.54,2000000,NEW,0001193125-26-432250
+2026-10-26T22:21:35+00:00,2026-09-22,,Blackstone Multi-Strategy Hedge Fund L.P.,Knopp Paul James,Director,3915,25.54,100000,NEW,0001193125-26-432248
