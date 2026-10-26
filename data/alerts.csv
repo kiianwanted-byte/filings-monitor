@@ -5037,3 +5037,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-26T20:16:55+00:00,FORM_144,AIR,AAR CORP.,proposed sale $3.41M,3409178,,https://www.sec.gov/Archives/edgar/data/1554880/000195004726010398/0001950047-26-010398-index.htm,LOW
 2026-10-26T20:16:55+00:00,FORM_144,FET,"FORUM ENERGY TECHNOLOGIES, INC.",proposed sale $63K,63060,,https://www.sec.gov/Archives/edgar/data/1765836/000195917326007497/0001959173-26-007497-index.htm,LOW
 2026-10-26T20:16:56+00:00,FORM_144,AMPL,"Amplitude, Inc.",proposed sale $5K,5239,,https://www.sec.gov/Archives/edgar/data/1882913/000195917326007496/0001959173-26-007496-index.htm,LOW
+2026-10-26T20:21:37+00:00,FORM_144,IRDM,IRIDIUM COMMUNICATIONS INC,proposed sale $473K,473368,,https://www.sec.gov/Archives/edgar/data/1418819/000196858226001074/0001968582-26-001074-index.htm,LOW
+2026-10-26T20:21:37+00:00,FORM_144,LOB,"Live Oak Bancshares, Inc.",proposed sale $177K,176550,,https://www.sec.gov/Archives/edgar/data/1656656/000195917326007498/0001959173-26-007498-index.htm,LOW
+2026-10-26T20:21:37+00:00,FORM_144,SYM,Symbotic Inc.,proposed sale $353K,352916,,https://www.sec.gov/Archives/edgar/data/1837240/000195004726010402/0001950047-26-010402-index.htm,LOW
