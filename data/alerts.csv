@@ -5080,3 +5080,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-26T21:06:34+00:00,FORM_144,MAX,"MediaAlpha, Inc.",proposed sale $371K,370648,,https://www.sec.gov/Archives/edgar/data/1830016/000192109426001119/0001921094-26-001119-index.htm,LOW
 2026-10-26T21:11:34+00:00,FORM_144,SSB,SouthState Bank Corp,proposed sale $210K,210165,,https://www.sec.gov/Archives/edgar/data/1511998/000151199826000006/0001511998-26-000006-index.htm,LOW
 2026-10-26T21:26:37+00:00,FORM_144,CRWD,"CrowdStrike Holdings, Inc.",proposed sale $2.42M,2420265,,https://www.sec.gov/Archives/edgar/data/1872303/000196858226001075/0001968582-26-001075-index.htm,LOW
+2026-10-26T21:46:33+00:00,INSIDER_CLUSTER,THRM,Gentherm Inc,MASCARENAS PAUL ANTHONY $533K,532600,3,https://www.sec.gov/Archives/edgar/data/1625756/000119312526432218/0001193125-26-432218-index.htm,HIGH
