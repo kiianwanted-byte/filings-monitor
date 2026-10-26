@@ -5005,3 +5005,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-23T22:57:48+00:00,FORM_144,STX,Seagate Technology Holdings plc,proposed sale $380K,379785,,https://www.sec.gov/Archives/edgar/data/1773423/000177342326000006/0001773423-26-000006-index.htm,LOW
 2026-10-23T23:11:28+00:00,FORM_144,HZEN,Grayscale Horizen Trust (ZEN),proposed sale $2K,1536,,https://www.sec.gov/Archives/edgar/data/1979086/000197908626000008/0001979086-26-000008-index.htm,LOW
 2026-10-23T23:31:31+00:00,FORM_144,HZEN,Grayscale Horizen Trust (ZEN),proposed sale $20K,20104,,https://www.sec.gov/Archives/edgar/data/1976415/000197641526000034/0001976415-26-000034-index.htm,LOW
+2026-10-26T13:51:33+00:00,FORM_144,DGX,QUEST DIAGNOSTICS INC,proposed sale $292K,292329,,https://www.sec.gov/Archives/edgar/data/1127304/000195917326007482/0001959173-26-007482-index.htm,LOW
