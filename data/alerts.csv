@@ -5014,3 +5014,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-26T14:36:32+00:00,FORM_144,AGNC,AGNC Investment Corp.,proposed sale $601K,601357,,https://www.sec.gov/Archives/edgar/data/1464523/000195917326007488/0001959173-26-007488-index.htm,LOW
 2026-10-26T14:41:31+00:00,FORM_144,UHAL,U-Haul Holding Co /NV/,proposed sale $21.01M,21006808,,https://www.sec.gov/Archives/edgar/data/2154168/000194984626000620/0001949846-26-000620-index.htm,LOW
 2026-10-26T14:51:32+00:00,FORM_144,ALLE,Allegion plc,proposed sale $1.14M,1136738,,https://www.sec.gov/Archives/edgar/data/1589039/000195917326007489/0001959173-26-007489-index.htm,LOW
+2026-10-26T15:06:39+00:00,FORM_144,ABNB,"Airbnb, Inc.",proposed sale $2.33M,2325621,,https://www.sec.gov/Archives/edgar/data/1834147/000195917326007490/0001959173-26-007490-index.htm,LOW
