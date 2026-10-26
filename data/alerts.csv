@@ -5017,3 +5017,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-26T15:06:39+00:00,FORM_144,ABNB,"Airbnb, Inc.",proposed sale $2.33M,2325621,,https://www.sec.gov/Archives/edgar/data/1834147/000195917326007490/0001959173-26-007490-index.htm,LOW
 2026-10-26T15:21:32+00:00,FORM_144,CB,Chubb Ltd,proposed sale $4.85M,4850703,,https://www.sec.gov/Archives/edgar/data/1577594/000195917326007491/0001959173-26-007491-index.htm,LOW
 2026-10-26T15:51:30+00:00,FORM_144,ROP,ROPER TECHNOLOGIES INC,proposed sale $1.57M,1571651,,https://www.sec.gov/Archives/edgar/data/1479933/000195917326007492/0001959173-26-007492-index.htm,LOW
+2026-10-26T16:06:31+00:00,FORM_144,ALLE,Allegion plc,proposed sale $799K,799079,,https://www.sec.gov/Archives/edgar/data/1634144/000195917326007493/0001959173-26-007493-index.htm,LOW
