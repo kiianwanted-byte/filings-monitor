@@ -1681,3 +1681,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-10-27T10:11:30+00:00,2026-10-23,PLUR,Pluri Inc.,Manieu Alexandre Weinstein,"Director, 10% owner",833334,1.50,1250001,66.7,0001213900-26-112641
 2026-10-27T11:36:30+00:00,2026-10-23,API,"Agora, Inc.",Zhao Bin,"Director, Chief Executive Officer",17598,4.44,78083,0.8,0001193125-26-432685
 2026-10-27T12:01:29+00:00,2026-10-26,UXIN,Uxin Ltd,Dai Kun,"Director, Chief Executive Officer",3117,0.88,2732,2.5,0001493152-26-048634
+2026-10-27T12:06:31+00:00,2026-10-26,OWLS,OBOOK HOLDINGS INC.,WANG CHUN KAI,"Director, Chief Executive Officer",11105,2.01,22283,0.4,0002109337-26-000013
