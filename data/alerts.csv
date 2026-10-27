@@ -5168,3 +5168,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-27T23:31:33+00:00,FORM_144,DCOM,"Dime Community Bancshares, Inc. /NY/",proposed sale $244K,244100,,https://www.sec.gov/Archives/edgar/data/1519641/000089914026001157/0000899140-26-001157-index.htm,LOW
 2026-10-27T23:31:33+00:00,FORM_144,DCOM,"Dime Community Bancshares, Inc. /NY/",proposed sale $11K,11462,,https://www.sec.gov/Archives/edgar/data/947724/000089914026001156/0000899140-26-001156-index.htm,LOW
 2026-10-27T23:36:35+00:00,FORM_144,DCOM,"Dime Community Bancshares, Inc. /NY/",proposed sale $614K,613641,,https://www.sec.gov/Archives/edgar/data/1085394/000089914026001159/0000899140-26-001159-index.htm,LOW
+2026-10-27T23:51:29+00:00,INSIDER_BUY,LRN,"Stride, Inc.",Haggart Dylan G. $12.18M,12178122,4,https://www.sec.gov/Archives/edgar/data/2040262/000121390026113031/0001213900-26-113031-index.htm,HIGH
+2026-10-27T23:51:30+00:00,INSIDER_BUY,SRRK,Scholar Rock Holding Corp,AKKARAJU SRINIVAS $12.00M,11999922,4,https://www.sec.gov/Archives/edgar/data/1727196/000125317026000014/0001253170-26-000014-index.htm,HIGH
