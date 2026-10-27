@@ -5090,3 +5090,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-27T01:01:28+00:00,INSIDER_BUY,GPI,GROUP 1 AUTOMOTIVE INC,"Conifer Management, L.L.C. $24.23M",24232208,4,https://www.sec.gov/Archives/edgar/data/1773994/000090514826004561/0000905148-26-004561-index.htm,HIGH
 2026-10-27T10:11:30+00:00,INSIDER_BUY,PLUR,Pluri Inc.,Manieu Alexandre Weinstein $1.25M,1250001,4,https://www.sec.gov/Archives/edgar/data/1833124/000121390026112641/0001213900-26-112641-index.htm,MEDIUM
 2026-10-27T11:36:30+00:00,FORM_144,RDWR,RADWARE LTD,proposed sale $388K,388375,,https://www.sec.gov/Archives/edgar/data/2077793/000197640826000908/0001976408-26-000908-index.htm,LOW
+2026-10-27T13:16:30+00:00,FORM_144,CSX,CSX CORP,proposed sale $999K,999206,,https://www.sec.gov/Archives/edgar/data/1188262/000197407826000388/0001974078-26-000388-index.htm,LOW
