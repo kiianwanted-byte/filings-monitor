@@ -5158,3 +5158,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-27T20:36:39+00:00,FORM_144,PAYX,"Paychex, Inc.",proposed sale $1.03M,1026866,,https://www.sec.gov/Archives/edgar/data/903201/000162828026067612/0001628280-26-067612-index.htm,LOW
 2026-10-27T20:56:40+00:00,FORM_144,COF,CAPITAL ONE FINANCIAL CORPORATION,proposed sale $18.41M,18407809,,https://www.sec.gov/Archives/edgar/data/1238032/000195004726010442/0001950047-26-010442-index.htm,LOW
 2026-10-27T21:06:37+00:00,FORM_144,GS,GOLDMAN SACHS GROUP INC,proposed sale $10.72M,10719360,,https://www.sec.gov/Archives/edgar/data/1693709/000089183626000067/0000891836-26-000067-index.htm,LOW
+2026-10-27T21:11:38+00:00,FORM_144,ENVA,Enova International,proposed sale $6.11M,6108633,,https://www.sec.gov/Archives/edgar/data/1529864/000162828026067647/0001628280-26-067647-index.htm,LOW
