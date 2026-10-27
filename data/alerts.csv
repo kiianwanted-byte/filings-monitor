@@ -5143,3 +5143,9 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-27T20:26:41+00:00,FORM_144,FILG,GRAYSCALE FILECOIN TRUST (FIL),proposed sale $4K,3586,,https://www.sec.gov/Archives/edgar/data/1977454/000197745426000273/0001977454-26-000273-index.htm,LOW
 2026-10-27T20:26:42+00:00,FORM_144,GDLC,Grayscale CoinDesk Crypto 5 ETF,proposed sale $145K,144824,,https://www.sec.gov/Archives/edgar/data/1977454/000197745426000272/0001977454-26-000272-index.htm,LOW
 2026-10-27T20:26:42+00:00,FORM_144,WCN,"WASTE CONNECTIONS, INC.",proposed sale $370K,370440,,https://www.sec.gov/Archives/edgar/data/1318220/000195004726010435/0001950047-26-010435-index.htm,LOW
+2026-10-27T20:31:40+00:00,INSIDER_BUY,CRBG,"Corebridge Financial, Inc.",NIPPON LIFE INSURANCE CO $20.23M,20230672,4,https://www.sec.gov/Archives/edgar/data/1889539/000119312526434287/0001193125-26-434287-index.htm,LOW
+2026-10-27T20:31:54+00:00,FORM_144,SYM,SYMBOTIC INC.,proposed sale $348K,348452,,https://www.sec.gov/Archives/edgar/data/1932973/000195004726010440/0001950047-26-010440-index.htm,LOW
+2026-10-27T20:31:55+00:00,FORM_144,VCYT,"VERACYTE, INC.",proposed sale $716K,715770,,https://www.sec.gov/Archives/edgar/data/1384101/000195004726010439/0001950047-26-010439-index.htm,LOW
+2026-10-27T20:31:55+00:00,FORM_144,CBRS,Cerebras Systems Inc.,proposed sale $6.50M,6502200,,https://www.sec.gov/Archives/edgar/data/2132472/000195004726010438/0001950047-26-010438-index.htm,LOW
+2026-10-27T20:31:56+00:00,FORM_144,TNDM,"Tandem Diabetes Care, Inc.",proposed sale $32K,32130,,https://www.sec.gov/Archives/edgar/data/1438133/000195004726010437/0001950047-26-010437-index.htm,LOW
+2026-10-27T20:31:56+00:00,FORM_144,SAIL,"SailPoint, Inc.",proposed sale $91K,91458,,https://www.sec.gov/Archives/edgar/data/2030781/000195004726010436/0001950047-26-010436-index.htm,LOW
