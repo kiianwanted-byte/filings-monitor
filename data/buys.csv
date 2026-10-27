@@ -1683,3 +1683,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-10-27T12:01:29+00:00,2026-10-26,UXIN,Uxin Ltd,Dai Kun,"Director, Chief Executive Officer",3117,0.88,2732,2.5,0001493152-26-048634
 2026-10-27T12:06:31+00:00,2026-10-26,OWLS,OBOOK HOLDINGS INC.,WANG CHUN KAI,"Director, Chief Executive Officer",11105,2.01,22283,0.4,0002109337-26-000013
 2026-10-27T13:26:37+00:00,2026-10-26,ASIC,Ategrity Specialty Insurance Co Holdings,Schenk Chris,See Remarks,1000,24.29,24290,40.0,0002040491-26-000054
+2026-10-27T13:31:30+00:00,2026-10-26,,"Fundrise Real Estate Interval Fund, LLC",Staloch Alison,Treasurer,41,11.94,499,1.0,0001435109-26-000161
