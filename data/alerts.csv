@@ -5094,3 +5094,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-27T13:36:35+00:00,FORM_144,ZGN,Ermenegildo Zegna N.V.,proposed sale $107K,107280,,https://www.sec.gov/Archives/edgar/data/2116289/000211628926000009/0002116289-26-000009-index.htm,LOW
 2026-10-27T13:56:32+00:00,FORM_144,VZ,VERIZON COMMUNICATIONS INC,proposed sale $47K,47300,,https://www.sec.gov/Archives/edgar/data/1760581/000195917326007501/0001959173-26-007501-index.htm,LOW
 2026-10-27T14:01:39+00:00,FORM_144,AGNC,AGNC Investment Corp.,proposed sale $594K,594334,,https://www.sec.gov/Archives/edgar/data/1464523/000195917326007502/0001959173-26-007502-index.htm,LOW
+2026-10-27T14:26:38+00:00,FORM_144,MEDP,"Medpace Holdings, Inc.",proposed sale $2.67M,2667380,,https://www.sec.gov/Archives/edgar/data/1677418/000195917326007503/0001959173-26-007503-index.htm,LOW
