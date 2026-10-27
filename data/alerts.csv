@@ -5135,3 +5135,11 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-27T20:21:48+00:00,FORM_144,RS,"RELIANCE, INC.",proposed sale $3.59M,3590875,,https://www.sec.gov/Archives/edgar/data/1488432/000192109426001120/0001921094-26-001120-index.htm,LOW
 2026-10-27T20:21:49+00:00,FORM_144,R,RYDER SYSTEM INC,proposed sale $7.41M,7412082,,https://www.sec.gov/Archives/edgar/data/1216931/000195917326007511/0001959173-26-007511-index.htm,LOW
 2026-10-27T20:21:49+00:00,FORM_144,ABG,"ASBURY AUTOMOTIVE GROUP, INC.",proposed sale $190K,189665,,https://www.sec.gov/Archives/edgar/data/1695355/000195004726010434/0001950047-26-010434-index.htm,LOW
+2026-10-27T20:26:39+00:00,FORM_144,HZEN,GRAYSCALE HORIZEN TRUST (ZEN),proposed sale $4K,4076,,https://www.sec.gov/Archives/edgar/data/1748945/000165253626000044/0001652536-26-000044-index.htm,LOW
+2026-10-27T20:26:39+00:00,FORM_144,GAVA,Grayscale Avalanche Staking ETF (Ticker: GAVA),proposed sale $7K,7318,,https://www.sec.gov/Archives/edgar/data/2035053/000197745426000274/0001977454-26-000274-index.htm,LOW
+2026-10-27T20:26:40+00:00,FORM_144,GTAO,Grayscale Bittensor Trust (TAO),proposed sale $8K,8499,,https://www.sec.gov/Archives/edgar/data/2029297/000197745426000270/0001977454-26-000270-index.htm,LOW
+2026-10-27T20:26:40+00:00,FORM_144,STCK,Grayscale Stacks Trust (STX),proposed sale $978,977,,https://www.sec.gov/Archives/edgar/data/2024996/000197745426000271/0001977454-26-000271-index.htm,LOW
+2026-10-27T20:26:41+00:00,FORM_144,BCHG,GRAYSCALE BITCOIN CASH TRUST (BCH),proposed sale $43K,43282,,https://www.sec.gov/Archives/edgar/data/1977454/000197745426000275/0001977454-26-000275-index.htm,LOW
+2026-10-27T20:26:41+00:00,FORM_144,FILG,GRAYSCALE FILECOIN TRUST (FIL),proposed sale $4K,3586,,https://www.sec.gov/Archives/edgar/data/1977454/000197745426000273/0001977454-26-000273-index.htm,LOW
+2026-10-27T20:26:42+00:00,FORM_144,GDLC,Grayscale CoinDesk Crypto 5 ETF,proposed sale $145K,144824,,https://www.sec.gov/Archives/edgar/data/1977454/000197745426000272/0001977454-26-000272-index.htm,LOW
+2026-10-27T20:26:42+00:00,FORM_144,WCN,"WASTE CONNECTIONS, INC.",proposed sale $370K,370440,,https://www.sec.gov/Archives/edgar/data/1318220/000195004726010435/0001950047-26-010435-index.htm,LOW
