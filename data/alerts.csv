@@ -5103,3 +5103,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-27T18:21:41+00:00,FORM_144,TXN,TEXAS INSTRUMENTS INCORPORATED,proposed sale $1.37M,1366590,,https://www.sec.gov/Archives/edgar/data/1182591/000196922326001092/0001969223-26-001092-index.htm,LOW
 2026-10-27T18:27:47+00:00,FORM_144,KRC,KRC,proposed sale $334K,333533,,https://www.sec.gov/Archives/edgar/data/1600298/000162828026067523/0001628280-26-067523-index.htm,LOW
 2026-10-27T18:51:42+00:00,FORM_144,TRV,"TRAVELERS COMPANIES, INC.",proposed sale $4.33M,4332284,,https://www.sec.gov/Archives/edgar/data/1753788/000195917326007505/0001959173-26-007505-index.htm,LOW
+2026-10-27T19:06:38+00:00,FORM_144,ENVA,"Enova International, Inc.",proposed sale $4.80M,4795388,,https://www.sec.gov/Archives/edgar/data/1529864/000162828026067535/0001628280-26-067535-index.htm,LOW
