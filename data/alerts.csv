@@ -5088,3 +5088,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-26T22:36:30+00:00,INSIDER_BUY,,Blackstone Multi-Strategy Hedge Fund L.P.,Abrahams Riad M $795K,794999,4,https://www.sec.gov/Archives/edgar/data/2095486/000119312526432266/0001193125-26-432266-index.htm,LOW
 2026-10-26T22:51:32+00:00,INSIDER_CLUSTER,STC,STEWART INFORMATION SERVICES CORP,BRADLEY C ALLEN JR $95K,94600,3,https://www.sec.gov/Archives/edgar/data/1341775/000162828026067360/0001628280-26-067360-index.htm,HIGH
 2026-10-27T01:01:28+00:00,INSIDER_BUY,GPI,GROUP 1 AUTOMOTIVE INC,"Conifer Management, L.L.C. $24.23M",24232208,4,https://www.sec.gov/Archives/edgar/data/1773994/000090514826004561/0000905148-26-004561-index.htm,HIGH
+2026-10-27T10:11:30+00:00,INSIDER_BUY,PLUR,Pluri Inc.,Manieu Alexandre Weinstein $1.25M,1250001,4,https://www.sec.gov/Archives/edgar/data/1833124/000121390026112641/0001213900-26-112641-index.htm,MEDIUM
