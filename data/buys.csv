@@ -1712,3 +1712,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-10-27T21:36:29+00:00,2026-10-20,DAIO,DATA I/O CORP,"Red Oak Partners, LLC",10% owner,373133,2.68,999996,NEW,0001325533-26-000012
 2026-10-27T22:01:33+00:00,2026-10-26,LEO,"BNY MELLON STRATEGIC MUNICIPALS, INC.","Saba Capital Management, L.P.",10% owner,12583,5.76,72478,0.2,0001510281-26-000382
 2026-10-27T22:31:30+00:00,2026-10-23,AIOK,AI OKTO Corp.,Panagiotidis Petros Panagiotis,"Director, Chief Executive Officer",130000,8.15,1059603,4.1,0001140361-26-040923
+2026-10-27T22:41:30+00:00,2026-10-23,LYCA,"Lycia Therapeutics, Inc.","Venrock Healthcare Capital Partners III, L.P.",10% owner,2045440,18.41,37653863,42.8,0001231919-26-001503
