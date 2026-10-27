@@ -5097,3 +5097,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-27T14:26:38+00:00,FORM_144,MEDP,"Medpace Holdings, Inc.",proposed sale $2.67M,2667380,,https://www.sec.gov/Archives/edgar/data/1677418/000195917326007503/0001959173-26-007503-index.htm,LOW
 2026-10-27T15:26:37+00:00,FORM_144,CLGN,CollPlant Biotechnologies Ltd,proposed sale $59K,58934,,https://www.sec.gov/Archives/edgar/data/1788316/000194984626000621/0001949846-26-000621-index.htm,LOW
 2026-10-27T17:26:34+00:00,FORM_144,CCI,CROWN CASTLE INC.,proposed sale $646K,645500,,https://www.sec.gov/Archives/edgar/data/1879491/000196922326001089/0001969223-26-001089-index.htm,LOW
+2026-10-27T18:21:39+00:00,FORM_144,FITB,FIFTH THIRD BANCORP,proposed sale $1.06M,1062847,,https://www.sec.gov/Archives/edgar/data/1736276/000195917326007504/0001959173-26-007504-index.htm,LOW
+2026-10-27T18:21:40+00:00,FORM_144,TXN,TEXAS INSTRUMENTS INCORPORATED,proposed sale $1.83M,1832828,,https://www.sec.gov/Archives/edgar/data/1216931/000196922326001091/0001969223-26-001091-index.htm,LOW
+2026-10-27T18:21:40+00:00,FORM_144,TXN,TEXAS INSTRUMENTS INCORPORATED,proposed sale $1.30M,1302318,,https://www.sec.gov/Archives/edgar/data/1216484/000196922326001090/0001969223-26-001090-index.htm,LOW
+2026-10-27T18:21:41+00:00,FORM_144,TXN,TEXAS INSTRUMENTS INCORPORATED,proposed sale $1.37M,1366590,,https://www.sec.gov/Archives/edgar/data/1182591/000196922326001092/0001969223-26-001092-index.htm,LOW
