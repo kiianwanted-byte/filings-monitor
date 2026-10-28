@@ -5229,3 +5229,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-28T21:11:38+00:00,FORM_144,PACS,"PACS Group, Inc.",proposed sale $718K,717750,,https://www.sec.gov/Archives/edgar/data/2014293/000196858226001079/0001968582-26-001079-index.htm,LOW
 2026-10-28T21:41:30+00:00,INSIDER_BUY,GOLD,"Gold.com, Inc.","Tether Global Investments Fund, S.I.C.A.F., S.A. $3.93M",3927258,2,https://www.sec.gov/Archives/edgar/data/2130094/000110465926119719/0001104659-26-119719-index.htm,MEDIUM
 2026-10-28T21:51:32+00:00,INSIDER_CLUSTER,BPRE,Bluerock Private Real Estate Fund,KAMFAR RAMIN $2.23M,2229725,2,https://www.sec.gov/Archives/edgar/data/1551047/000139834426019008/0001398344-26-019008-index.htm,HIGH
+2026-10-28T22:01:35+00:00,FORM_144,NTRA,NATERA INC. COM,proposed sale $484K,483945,,https://www.sec.gov/Archives/edgar/data/1697362/000195004726010460/0001950047-26-010460-index.htm,LOW
