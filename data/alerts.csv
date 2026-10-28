@@ -5219,3 +5219,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-28T20:26:42+00:00,FORM_144,FILG,GRAYSCALE FILECOIN TRUST (FIL),proposed sale $4K,3592,,https://www.sec.gov/Archives/edgar/data/1977454/000197745426000279/0001977454-26-000279-index.htm,LOW
 2026-10-28T20:26:42+00:00,FORM_144,GDLC,Grayscale CoinDesk Crypto 5 ETF,proposed sale $145K,145408,,https://www.sec.gov/Archives/edgar/data/1977454/000197745426000278/0001977454-26-000278-index.htm,LOW
 2026-10-28T20:26:43+00:00,FORM_144,MANA,GRAYSCALE DECENTRALAND TRUST (MANA),proposed sale $433,433,,https://www.sec.gov/Archives/edgar/data/1977454/000197745426000277/0001977454-26-000277-index.htm,LOW
+2026-10-28T20:36:52+00:00,FORM_144,ROIV,Roivant Sciences Ltd.,proposed sale $7.32M,7317764,,https://www.sec.gov/Archives/edgar/data/1801917/000196530126000167/0001965301-26-000167-index.htm,LOW
