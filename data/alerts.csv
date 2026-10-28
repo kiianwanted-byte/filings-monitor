@@ -5181,3 +5181,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-28T14:51:34+00:00,FORM_144,NVS,NOVARTIS AG,proposed sale $933K,933180,,https://www.sec.gov/Archives/edgar/data/2098937/000195917326007516/0001959173-26-007516-index.htm,LOW
 2026-10-28T14:51:35+00:00,FORM_144,BAH,Booz Allen Hamilton Holding Corp,proposed sale $174K,174493,,https://www.sec.gov/Archives/edgar/data/2132897/000195917326007515/0001959173-26-007515-index.htm,LOW
 2026-10-28T15:01:34+00:00,FORM_144,DCOM,"Dime Commercial Bancshares, Inc. /NY/",proposed sale $51K,51240,,https://www.sec.gov/Archives/edgar/data/1338943/000196530126000166/0001965301-26-000166-index.htm,LOW
+2026-10-28T15:36:36+00:00,FORM_144,BLLN,"BillionToOne, Inc.",proposed sale $983K,983294,,https://www.sec.gov/Archives/edgar/data/2088549/000195917326007517/0001959173-26-007517-index.htm,LOW
