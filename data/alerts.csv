@@ -5170,3 +5170,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-27T23:36:35+00:00,FORM_144,DCOM,"Dime Community Bancshares, Inc. /NY/",proposed sale $614K,613641,,https://www.sec.gov/Archives/edgar/data/1085394/000089914026001159/0000899140-26-001159-index.htm,LOW
 2026-10-27T23:51:29+00:00,INSIDER_BUY,LRN,"Stride, Inc.",Haggart Dylan G. $12.18M,12178122,4,https://www.sec.gov/Archives/edgar/data/2040262/000121390026113031/0001213900-26-113031-index.htm,HIGH
 2026-10-27T23:51:30+00:00,INSIDER_BUY,SRRK,Scholar Rock Holding Corp,AKKARAJU SRINIVAS $12.00M,11999922,4,https://www.sec.gov/Archives/edgar/data/1727196/000125317026000014/0001253170-26-000014-index.htm,HIGH
+2026-10-28T10:46:36+00:00,INSIDER_BUY,ACN,Accenture plc,Sweet Julie Spellman $3.00M,3001041,2,https://www.sec.gov/Archives/edgar/data/1487630/000148763026000022/0001487630-26-000022-index.htm,MEDIUM
+2026-10-28T10:46:38+00:00,INSIDER_CLUSTER,ACN,Accenture plc,Price Paula A $200K,199847,2,https://www.sec.gov/Archives/edgar/data/1467373/000136924026000014/0001369240-26-000014-index.htm,HIGH
