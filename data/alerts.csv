@@ -5204,3 +5204,12 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-28T20:16:39+00:00,FORM_144,SYM,Symbotic Inc.,proposed sale $281K,281224,,https://www.sec.gov/Archives/edgar/data/1837240/000195004726010454/0001950047-26-010454-index.htm,LOW
 2026-10-28T20:16:39+00:00,FORM_144,KEY,KEYCORP /NEW/,proposed sale $830K,829738,,https://www.sec.gov/Archives/edgar/data/1669883/000195917326007526/0001959173-26-007526-index.htm,LOW
 2026-10-28T20:16:40+00:00,FORM_144,ESQ,"ESQUIRE FINANCIAL HOLDINGS, INC.",proposed sale $2.56M,2563036,,https://www.sec.gov/Archives/edgar/data/1709859/000195004726010453/0001950047-26-010453-index.htm,LOW
+2026-10-28T20:21:37+00:00,FORM_144,NTRA,"NATERA, INC.",proposed sale $78K,78466,,https://www.sec.gov/Archives/edgar/data/1646649/000164664926000039/0001646649-26-000039-index.htm,LOW
+2026-10-28T20:21:37+00:00,FORM_144,NTRA,"NATERA, INC.",proposed sale $406K,405890,,https://www.sec.gov/Archives/edgar/data/1857843/000185784326000029/0001857843-26-000029-index.htm,LOW
+2026-10-28T20:21:38+00:00,FORM_144,NTRA,"NATERA, INC.",proposed sale $487K,486821,,https://www.sec.gov/Archives/edgar/data/2010019/000201001926000034/0002010019-26-000034-index.htm,LOW
+2026-10-28T20:21:39+00:00,FORM_144,AMT,AMERICAN TOWER CORPORATION,proposed sale $290K,290083,,https://www.sec.gov/Archives/edgar/data/1960785/000195004726010458/0001950047-26-010458-index.htm,LOW
+2026-10-28T20:21:39+00:00,FORM_144,NTRA,"NATERA, INC.",proposed sale $377K,376721,,https://www.sec.gov/Archives/edgar/data/2010135/000201013526000024/0002010135-26-000024-index.htm,LOW
+2026-10-28T20:21:40+00:00,FORM_144,SYM,SYMBOTIC INC.,proposed sale $358K,358382,,https://www.sec.gov/Archives/edgar/data/1984779/000195004726010457/0001950047-26-010457-index.htm,LOW
+2026-10-28T20:21:40+00:00,FORM_144,DDOG,"Datadog, Inc.",proposed sale $12.14M,12138163,,https://www.sec.gov/Archives/edgar/data/1783984/000195004726010456/0001950047-26-010456-index.htm,LOW
+2026-10-28T20:21:41+00:00,FORM_144,NTRA,"NATERA, INC.",proposed sale $1.44M,1437459,,https://www.sec.gov/Archives/edgar/data/1711968/000171196826000026/0001711968-26-000026-index.htm,LOW
+2026-10-28T20:21:41+00:00,FORM_144,PYPL,"PayPal Holdings, Inc",proposed sale $41K,41057,,https://www.sec.gov/Archives/edgar/data/2006416/000195004726010455/0001950047-26-010455-index.htm,LOW
