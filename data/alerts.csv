@@ -5185,3 +5185,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-28T16:06:32+00:00,FORM_144,BLLN,"BillionToOne, Inc.",proposed sale $315K,314706,,https://www.sec.gov/Archives/edgar/data/2088549/000195917326007518/0001959173-26-007518-index.htm,LOW
 2026-10-28T16:16:37+00:00,FORM_144,BAH,Booz Allen Hamilton Holding Corp,proposed sale $124K,124380,,https://www.sec.gov/Archives/edgar/data/2115826/000195917326007519/0001959173-26-007519-index.htm,LOW
 2026-10-28T16:31:40+00:00,FORM_144,DHR,DANAHER CORP /DE/,proposed sale $7.01M,7014244,,https://www.sec.gov/Archives/edgar/data/1754423/000195917326007520/0001959173-26-007520-index.htm,LOW
+2026-10-28T16:46:33+00:00,FORM_144,PEBK,PEOPLES BANCORP OF NORTH CAROLINA INC,proposed sale $43K,43130,,https://www.sec.gov/Archives/edgar/data/1244172/000124417226000011/0001244172-26-000011-index.htm,LOW
