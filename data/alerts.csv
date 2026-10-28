@@ -5174,3 +5174,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-28T10:46:38+00:00,INSIDER_CLUSTER,ACN,Accenture plc,Price Paula A $200K,199847,2,https://www.sec.gov/Archives/edgar/data/1467373/000136924026000014/0001369240-26-000014-index.htm,HIGH
 2026-10-28T11:16:28+00:00,FORM_144,RDWR,RADWARE LTD,proposed sale $784K,784147,,https://www.sec.gov/Archives/edgar/data/2045516/000197640826000910/0001976408-26-000910-index.htm,LOW
 2026-10-28T11:16:28+00:00,FORM_144,RDWR,RADWARE LTD,proposed sale $565K,565250,,https://www.sec.gov/Archives/edgar/data/2077793/000197640826000909/0001976408-26-000909-index.htm,LOW
+2026-10-28T12:36:30+00:00,INSIDER_CLUSTER,BBT,Beacon Financial Corp,Fitzgerald Margaret Boles $10K,10123,1,https://www.sec.gov/Archives/edgar/data/1589930/000162828026067740/0001628280-26-067740-index.htm,HIGH
+2026-10-28T12:36:31+00:00,STAKE_13D,,"TRIAN FUND MANAGEMENT, L.P.", 16.3%,,,https://www.sec.gov/Archives/edgar/data/1345471/000093041326003164/0000930413-26-003164-index.htm,HIGH
