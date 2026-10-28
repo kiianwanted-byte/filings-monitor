@@ -5178,3 +5178,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-28T12:36:31+00:00,STAKE_13D,,"TRIAN FUND MANAGEMENT, L.P.", 16.3%,,,https://www.sec.gov/Archives/edgar/data/1345471/000093041326003164/0000930413-26-003164-index.htm,HIGH
 2026-10-28T13:51:35+00:00,FORM_144,HIMS,"Hims & Hers Health, Inc.",proposed sale $96K,95551,,https://www.sec.gov/Archives/edgar/data/1837817/000195917326007514/0001959173-26-007514-index.htm,LOW
 2026-10-28T14:21:33+00:00,FORM_144,CCL,Carnival Corp Ltd.,proposed sale $653K,652750,,https://www.sec.gov/Archives/edgar/data/1677805/000197337926000352/0001973379-26-000352-index.htm,LOW
+2026-10-28T14:51:34+00:00,FORM_144,NVS,NOVARTIS AG,proposed sale $933K,933180,,https://www.sec.gov/Archives/edgar/data/2098937/000195917326007516/0001959173-26-007516-index.htm,LOW
+2026-10-28T14:51:35+00:00,FORM_144,BAH,Booz Allen Hamilton Holding Corp,proposed sale $174K,174493,,https://www.sec.gov/Archives/edgar/data/2132897/000195917326007515/0001959173-26-007515-index.htm,LOW
