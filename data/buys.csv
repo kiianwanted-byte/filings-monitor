@@ -1742,3 +1742,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-10-28T21:41:30+00:00,2026-10-26,GOLD,"Gold.com, Inc.","Tether Global Investments Fund, S.I.C.A.F., S.A.",10% owner,100000,39.27,3927258,25.0,0001104659-26-119719
 2026-10-28T21:41:31+00:00,2026-10-27,GRX,Gabelli Healthcare & WellnessRx Trust,"Saba Capital Management, L.P.",10% owner,300,9.99,2997,0.0,0001510281-26-000387
 2026-10-28T21:46:34+00:00,2026-10-27,DSM,"BNY MELLON STRATEGIC MUNICIPAL BOND FUND, INC.","Saba Capital Management, L.P.",10% owner,13695,5.63,77102,0.3,0001510281-26-000388
+2026-10-28T21:51:32+00:00,2026-10-26,BPRE,Bluerock Private Real Estate Fund,KAMFAR RAMIN,Director,178677,12.48,2229725,6.2,0001398344-26-019008
