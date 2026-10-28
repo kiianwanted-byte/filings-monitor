@@ -5201,3 +5201,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-28T20:06:46+00:00,FORM_144,BETA,"BETA Technologies, Inc.",proposed sale $202K,202352,,https://www.sec.gov/Archives/edgar/data/2090083/000195917326007524/0001959173-26-007524-index.htm,LOW
 2026-10-28T20:11:40+00:00,FORM_144,FLOC,Flowco Holdings Inc.,proposed sale $204K,204240,,https://www.sec.gov/Archives/edgar/data/2049797/000195779926000185/0001957799-26-000185-index.htm,LOW
 2026-10-28T20:11:41+00:00,FORM_144,AMPL,"Amplitude, Inc.",proposed sale $288K,288472,,https://www.sec.gov/Archives/edgar/data/1882913/000195917326007525/0001959173-26-007525-index.htm,LOW
+2026-10-28T20:16:39+00:00,FORM_144,SYM,Symbotic Inc.,proposed sale $281K,281224,,https://www.sec.gov/Archives/edgar/data/1837240/000195004726010454/0001950047-26-010454-index.htm,LOW
+2026-10-28T20:16:39+00:00,FORM_144,KEY,KEYCORP /NEW/,proposed sale $830K,829738,,https://www.sec.gov/Archives/edgar/data/1669883/000195917326007526/0001959173-26-007526-index.htm,LOW
+2026-10-28T20:16:40+00:00,FORM_144,ESQ,"ESQUIRE FINANCIAL HOLDINGS, INC.",proposed sale $2.56M,2563036,,https://www.sec.gov/Archives/edgar/data/1709859/000195004726010453/0001950047-26-010453-index.htm,LOW
