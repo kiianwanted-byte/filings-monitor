@@ -5213,3 +5213,9 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-28T20:21:40+00:00,FORM_144,DDOG,"Datadog, Inc.",proposed sale $12.14M,12138163,,https://www.sec.gov/Archives/edgar/data/1783984/000195004726010456/0001950047-26-010456-index.htm,LOW
 2026-10-28T20:21:41+00:00,FORM_144,NTRA,"NATERA, INC.",proposed sale $1.44M,1437459,,https://www.sec.gov/Archives/edgar/data/1711968/000171196826000026/0001711968-26-000026-index.htm,LOW
 2026-10-28T20:21:41+00:00,FORM_144,PYPL,"PayPal Holdings, Inc",proposed sale $41K,41057,,https://www.sec.gov/Archives/edgar/data/2006416/000195004726010455/0001950047-26-010455-index.htm,LOW
+2026-10-28T20:26:40+00:00,FORM_144,HZEN,GRAYSCALE HORIZEN TRUST (ZEN),proposed sale $4K,4070,,https://www.sec.gov/Archives/edgar/data/1748945/000165253626000045/0001652536-26-000045-index.htm,LOW
+2026-10-28T20:26:41+00:00,FORM_144,GTAO,Grayscale Bittensor Trust (TAO),proposed sale $8K,8348,,https://www.sec.gov/Archives/edgar/data/2029297/000197745426000276/0001977454-26-000276-index.htm,LOW
+2026-10-28T20:26:41+00:00,FORM_144,BCHG,GRAYSCALE BITCOIN CASH TRUST (BCH),proposed sale $44K,43616,,https://www.sec.gov/Archives/edgar/data/1977454/000197745426000280/0001977454-26-000280-index.htm,LOW
+2026-10-28T20:26:42+00:00,FORM_144,FILG,GRAYSCALE FILECOIN TRUST (FIL),proposed sale $4K,3592,,https://www.sec.gov/Archives/edgar/data/1977454/000197745426000279/0001977454-26-000279-index.htm,LOW
+2026-10-28T20:26:42+00:00,FORM_144,GDLC,Grayscale CoinDesk Crypto 5 ETF,proposed sale $145K,145408,,https://www.sec.gov/Archives/edgar/data/1977454/000197745426000278/0001977454-26-000278-index.htm,LOW
+2026-10-28T20:26:43+00:00,FORM_144,MANA,GRAYSCALE DECENTRALAND TRUST (MANA),proposed sale $433,433,,https://www.sec.gov/Archives/edgar/data/1977454/000197745426000277/0001977454-26-000277-index.htm,LOW
