@@ -5227,3 +5227,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-28T21:01:38+00:00,INSIDER_CLUSTER,CBKM,CONSUMERS BANCORP INC /OH/,WILLIAMS DEREK G $3K,3171,0,https://www.sec.gov/Archives/edgar/data/1341113/000143774926033807/0001437749-26-033807-index.htm,HIGH
 2026-10-28T21:01:40+00:00,FORM_144,RCL,ROYAL CARIBBEAN GROUP,proposed sale $298K,298345,,https://www.sec.gov/Archives/edgar/data/1697820/000162828026067931/0001628280-26-067931-index.htm,LOW
 2026-10-28T21:11:38+00:00,FORM_144,PACS,"PACS Group, Inc.",proposed sale $718K,717750,,https://www.sec.gov/Archives/edgar/data/2014293/000196858226001079/0001968582-26-001079-index.htm,LOW
+2026-10-28T21:41:30+00:00,INSIDER_BUY,GOLD,"Gold.com, Inc.","Tether Global Investments Fund, S.I.C.A.F., S.A. $3.93M",3927258,2,https://www.sec.gov/Archives/edgar/data/2130094/000110465926119719/0001104659-26-119719-index.htm,MEDIUM
