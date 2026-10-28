@@ -1733,3 +1733,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-10-28T20:26:32+00:00,2026-10-26,LBRT,Liberty Energy Inc.,Babcock Ken,Director,14500,15.40,223300,21.1,0001628280-26-067906
 2026-10-28T20:26:34+00:00,2026-10-28,BBT,Beacon Financial Corp,Rosengren Eric S,Director,700,30.24,21168,9.4,0001628280-26-067904
 2026-10-28T20:41:31+00:00,2026-10-15,WS,"Worthington Steel, Inc.",Ganem George John III,CEO Americas Kloeckner Metals,800,39.37,31492,NEW,0001193125-26-436256
+2026-10-28T20:46:34+00:00,2026-10-26,BBT,Beacon Financial Corp,Polito Karyn,Director,1000,30.68,30680,NEW,0001628280-26-067923

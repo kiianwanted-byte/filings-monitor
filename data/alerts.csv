@@ -5222,3 +5222,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-28T20:36:52+00:00,FORM_144,ROIV,Roivant Sciences Ltd.,proposed sale $7.32M,7317764,,https://www.sec.gov/Archives/edgar/data/1801917/000196530126000167/0001965301-26-000167-index.htm,LOW
 2026-10-28T20:41:36+00:00,FORM_144,AYI,ACUITY INC. (DE),proposed sale $7.00M,7000217,,https://www.sec.gov/Archives/edgar/data/1193485/000196430626000480/0001964306-26-000480-index.htm,LOW
 2026-10-28T20:41:36+00:00,FORM_144,KMTS,"KESTRA MEDICAL TECHNOLOGIES, LTD.",proposed sale $1.22M,1216393,,https://www.sec.gov/Archives/edgar/data/1877184/000196430626000479/0001964306-26-000479-index.htm,LOW
+2026-10-28T20:46:39+00:00,FORM_144,TMO,THERMO FISHER SCIENTIFIC INC.,proposed sale $2.00M,1999959,,https://www.sec.gov/Archives/edgar/data/1676320/000195917326007528/0001959173-26-007528-index.htm,LOW
+2026-10-28T20:46:39+00:00,FORM_144,CASH,"PATHWARD FINANCIAL, INC.",proposed sale $1.56M,1563000,,https://www.sec.gov/Archives/edgar/data/1789109/000195917326007527/0001959173-26-007527-index.htm,LOW
