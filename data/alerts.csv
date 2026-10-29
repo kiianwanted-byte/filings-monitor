@@ -5330,3 +5330,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-29T20:41:40+00:00,FORM_144,PRCH,"Porch Group, Inc.",proposed sale $629K,628918,,https://www.sec.gov/Archives/edgar/data/1954327/000195779926000189/0001957799-26-000189-index.htm,LOW
 2026-10-29T20:56:43+00:00,INSIDER_CLUSTER,VRXA,Veraxa Biotech AG - Post de-SPAC,Gruninger Marc $10K,9982,2,https://www.sec.gov/Archives/edgar/data/2128575/000182912626011778/0001829126-26-011778-index.htm,HIGH
 2026-10-29T20:56:48+00:00,FORM_144,EOSE,"Eos Energy Enterprises, Inc.",proposed sale $290K,290267,,https://www.sec.gov/Archives/edgar/data/1805077/000196922326001104/0001969223-26-001104-index.htm,LOW
+2026-10-29T21:06:43+00:00,FORM_144,BSRR,SIERRA BANCORP,proposed sale $170K,170044,,https://www.sec.gov/Archives/edgar/data/1325532/000195004726010488/0001950047-26-010488-index.htm,LOW
