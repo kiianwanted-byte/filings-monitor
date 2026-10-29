@@ -5270,3 +5270,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-29T19:26:35+00:00,FORM_144,TRMB,TRIMBLE INC.,proposed sale $161K,160940,,https://www.sec.gov/Archives/edgar/data/1640371/000195917326007546/0001959173-26-007546-index.htm,LOW
 2026-10-29T19:30:27+00:00,FORM_144,CB,Chubb Limited,proposed sale $5.00M,5000322,,https://www.sec.gov/Archives/edgar/data/1162125/000196922326001100/0001969223-26-001100-index.htm,LOW
 2026-10-29T19:41:34+00:00,FORM_144,MEDP,"Medpace Holdings, Inc.",proposed sale $859K,859050,,https://www.sec.gov/Archives/edgar/data/1677297/000195917326007547/0001959173-26-007547-index.htm,LOW
+2026-10-29T19:51:38+00:00,FORM_144,CB,Chubb Ltd,proposed sale $16.37M,16374262,,https://www.sec.gov/Archives/edgar/data/1162125/000195917326007550/0001959173-26-007550-index.htm,LOW
+2026-10-29T19:51:38+00:00,FORM_144,HLT,Hilton Worldwide Holdings Inc.,proposed sale $53.80M,53802516,,https://www.sec.gov/Archives/edgar/data/1593156/000195917326007549/0001959173-26-007549-index.htm,MEDIUM
+2026-10-29T19:51:39+00:00,FORM_144,NUE,NUCOR CORP,proposed sale $1.43M,1427406,,https://www.sec.gov/Archives/edgar/data/1960914/000195917326007548/0001959173-26-007548-index.htm,LOW
