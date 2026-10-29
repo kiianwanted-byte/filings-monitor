@@ -5246,3 +5246,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-29T14:06:33+00:00,FORM_144,DAL,"DELTA AIR LINES, INC.",proposed sale $4.10M,4100000,,https://www.sec.gov/Archives/edgar/data/1289878/000195917326007532/0001959173-26-007532-index.htm,LOW
 2026-10-29T15:21:38+00:00,FORM_144,RELL,"RICHARDSON ELECTRONICS, LTD.",proposed sale $21K,20640,,https://www.sec.gov/Archives/edgar/data/1588888/000195917326007533/0001959173-26-007533-index.htm,LOW
 2026-10-29T15:26:35+00:00,FORM_144,WFRD,Weatherford International plc,proposed sale $973K,972948,,https://www.sec.gov/Archives/edgar/data/1861969/000195917326007534/0001959173-26-007534-index.htm,LOW
+2026-10-29T15:31:32+00:00,FORM_144,RBCAA,Republic Bancorp,proposed sale $75K,75000,,https://www.sec.gov/Archives/edgar/data/1874016/000196922326001095/0001969223-26-001095-index.htm,LOW
