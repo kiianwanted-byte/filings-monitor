@@ -5305,3 +5305,9 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-29T20:21:46+00:00,FORM_144,BROS,"DUTCH BROS, INC.",proposed sale $6.10M,6097047,,https://www.sec.gov/Archives/edgar/data/1883096/000195004726010476/0001950047-26-010476-index.htm,LOW
 2026-10-29T20:21:46+00:00,FORM_144,GOOGL,Alphabet Inc.,proposed sale $23K,23288,,https://www.sec.gov/Archives/edgar/data/1665419/000192109426001121/0001921094-26-001121-index.htm,LOW
 2026-10-29T20:21:47+00:00,FORM_144,BROS,"DUTCH BROS, INC.",proposed sale $11.42M,11419380,,https://www.sec.gov/Archives/edgar/data/1883105/000195004726010475/0001950047-26-010475-index.htm,LOW
+2026-10-29T20:26:36+00:00,FORM_144,BLCO,Bausch & Lomb Corp,proposed sale $2.29M,2294349,,https://www.sec.gov/Archives/edgar/data/1864367/000195917326007556/0001959173-26-007556-index.htm,LOW
+2026-10-29T20:26:37+00:00,FORM_144,CUBI,"Customers Bancorp, Inc.",proposed sale $8.74M,8740387,,https://www.sec.gov/Archives/edgar/data/1488813/000196922326001103/0001969223-26-001103-index.htm,LOW
+2026-10-29T20:26:37+00:00,FORM_144,BRZE,"Braze, Inc.",proposed sale $916K,915600,,https://www.sec.gov/Archives/edgar/data/1888935/000195004726010486/0001950047-26-010486-index.htm,LOW
+2026-10-29T20:26:38+00:00,FORM_144,MAZE,"MAZE THERAPEUTICS, INC.",proposed sale $476K,475950,,https://www.sec.gov/Archives/edgar/data/2050167/000195004726010485/0001950047-26-010485-index.htm,LOW
+2026-10-29T20:26:38+00:00,FORM_144,PRCH,"Porch Group, Inc.",proposed sale $339K,338779,,https://www.sec.gov/Archives/edgar/data/1916515/000195004726010484/0001950047-26-010484-index.htm,LOW
+2026-10-29T20:26:38+00:00,FORM_144,SIBN,"SI-BONE, INC.",proposed sale $648K,647586,,https://www.sec.gov/Archives/edgar/data/1754765/000195004726010483/0001950047-26-010483-index.htm,LOW
