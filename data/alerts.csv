@@ -5243,3 +5243,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-29T13:41:37+00:00,FORM_144,SLB,SLB LIMITED/NV,proposed sale $539K,539021,,https://www.sec.gov/Archives/edgar/data/1334072/000195917326007529/0001959173-26-007529-index.htm,LOW
 2026-10-29T13:46:32+00:00,FORM_144,R,RYDER SYSTEM INC,proposed sale $343K,342740,,https://www.sec.gov/Archives/edgar/data/1501227/000195917326007530/0001959173-26-007530-index.htm,LOW
 2026-10-29T13:51:34+00:00,FORM_144,EFX,EQUIFAX INC,proposed sale $711K,710720,,https://www.sec.gov/Archives/edgar/data/1222712/000195917326007531/0001959173-26-007531-index.htm,LOW
+2026-10-29T14:06:33+00:00,FORM_144,DAL,"DELTA AIR LINES, INC.",proposed sale $4.10M,4100000,,https://www.sec.gov/Archives/edgar/data/1289878/000195917326007532/0001959173-26-007532-index.htm,LOW
