@@ -5242,3 +5242,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-29T13:41:30+00:00,INSIDER_BUY,TFC,TRUIST FINANCIAL CORP,Lyons Michael P. $1.21M,1209050,1,https://www.sec.gov/Archives/edgar/data/1534574/000153457426000018/0001534574-26-000018-index.htm,MEDIUM
 2026-10-29T13:41:37+00:00,FORM_144,SLB,SLB LIMITED/NV,proposed sale $539K,539021,,https://www.sec.gov/Archives/edgar/data/1334072/000195917326007529/0001959173-26-007529-index.htm,LOW
 2026-10-29T13:46:32+00:00,FORM_144,R,RYDER SYSTEM INC,proposed sale $343K,342740,,https://www.sec.gov/Archives/edgar/data/1501227/000195917326007530/0001959173-26-007530-index.htm,LOW
+2026-10-29T13:51:34+00:00,FORM_144,EFX,EQUIFAX INC,proposed sale $711K,710720,,https://www.sec.gov/Archives/edgar/data/1222712/000195917326007531/0001959173-26-007531-index.htm,LOW
