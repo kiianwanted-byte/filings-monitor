@@ -5311,3 +5311,11 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-29T20:26:38+00:00,FORM_144,MAZE,"MAZE THERAPEUTICS, INC.",proposed sale $476K,475950,,https://www.sec.gov/Archives/edgar/data/2050167/000195004726010485/0001950047-26-010485-index.htm,LOW
 2026-10-29T20:26:38+00:00,FORM_144,PRCH,"Porch Group, Inc.",proposed sale $339K,338779,,https://www.sec.gov/Archives/edgar/data/1916515/000195004726010484/0001950047-26-010484-index.htm,LOW
 2026-10-29T20:26:38+00:00,FORM_144,SIBN,"SI-BONE, INC.",proposed sale $648K,647586,,https://www.sec.gov/Archives/edgar/data/1754765/000195004726010483/0001950047-26-010483-index.htm,LOW
+2026-10-29T20:31:47+00:00,FORM_144,HPQ,HP INC,proposed sale $619K,618558,,https://www.sec.gov/Archives/edgar/data/2043764/000196430626000481/0001964306-26-000481-index.htm,LOW
+2026-10-29T20:31:48+00:00,FORM_144,HZEN,GRAYSCALE HORIZEN TRUST (ZEN),proposed sale $4K,4052,,https://www.sec.gov/Archives/edgar/data/1748945/000165253626000046/0001652536-26-000046-index.htm,LOW
+2026-10-29T20:31:48+00:00,FORM_144,AER,AerCap Holdings N.V.,proposed sale $311K,310960,,https://www.sec.gov/Archives/edgar/data/2024820/000095015726001135/0000950157-26-001135-index.htm,LOW
+2026-10-29T20:31:49+00:00,FORM_144,GTAO,Grayscale Bittensor Trust (TAO),proposed sale $8K,8370,,https://www.sec.gov/Archives/edgar/data/2029297/000197745426000282/0001977454-26-000282-index.htm,LOW
+2026-10-29T20:31:49+00:00,FORM_144,BCHG,GRAYSCALE BITCOIN CASH TRUST (BCH),proposed sale $43K,42750,,https://www.sec.gov/Archives/edgar/data/1977454/000197745426000285/0001977454-26-000285-index.htm,LOW
+2026-10-29T20:31:50+00:00,FORM_144,GDLC,Grayscale CoinDesk Crypto 5 ETF,proposed sale $120K,120021,,https://www.sec.gov/Archives/edgar/data/1977454/000197745426000284/0001977454-26-000284-index.htm,LOW
+2026-10-29T20:31:50+00:00,FORM_144,MANA,GRAYSCALE DECENTRALAND TRUST (MANA),proposed sale $422,422,,https://www.sec.gov/Archives/edgar/data/1977454/000197745426000283/0001977454-26-000283-index.htm,LOW
+2026-10-29T20:31:50+00:00,FORM_144,GLIV,GRAYSCALE LIVEPEER TRUST (LPT),proposed sale $1K,1098,,https://www.sec.gov/Archives/edgar/data/1977454/000197745426000281/0001977454-26-000281-index.htm,LOW
