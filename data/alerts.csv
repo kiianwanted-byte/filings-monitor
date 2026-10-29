@@ -5236,3 +5236,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-29T00:56:31+00:00,INSIDER_CLUSTER,TTMI,TTM TECHNOLOGIES INC,Ali Wajid $902K,902460,0,https://www.sec.gov/Archives/edgar/data/1561100/000119312526436557/0001193125-26-436557-index.htm,HIGH
 2026-10-29T01:01:34+00:00,FORM_144,MANA,Grayscale Decentraland Trust (MANA),proposed sale $10K,10133,,https://www.sec.gov/Archives/edgar/data/1976415/000197641526000035/0001976415-26-000035-index.htm,LOW
 2026-10-29T10:41:37+00:00,FORM_144,KLTR,KALTURA INC,proposed sale $9,8,,https://www.sec.gov/Archives/edgar/data/2011545/000197640826000915/0001976408-26-000915-index.htm,LOW
+2026-10-29T12:21:33+00:00,FORM_144,RDWR,RADWARE LTD,proposed sale $146K,146437,,https://www.sec.gov/Archives/edgar/data/2045516/000197640826000917/0001976408-26-000917-index.htm,LOW
+2026-10-29T12:21:33+00:00,FORM_144,RDWR,RADWARE LTD,proposed sale $266K,266250,,https://www.sec.gov/Archives/edgar/data/2077793/000197640826000916/0001976408-26-000916-index.htm,LOW
