@@ -5249,3 +5249,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-29T15:31:32+00:00,FORM_144,RBCAA,Republic Bancorp,proposed sale $75K,75000,,https://www.sec.gov/Archives/edgar/data/1874016/000196922326001095/0001969223-26-001095-index.htm,LOW
 2026-10-29T15:56:34+00:00,FORM_144,PEBK,PEOPLES BANCORP OF NORTH CAROLINA INC,proposed sale $26K,25958,,https://www.sec.gov/Archives/edgar/data/1244172/000195779926000186/0001957799-26-000186-index.htm,LOW
 2026-10-29T16:11:38+00:00,FORM_144,ACU,ACME UNITED CORP,proposed sale $1.18M,1178996,,https://www.sec.gov/Archives/edgar/data/1213244/000195917326007535/0001959173-26-007535-index.htm,LOW
+2026-10-29T16:16:36+00:00,FORM_144,EAT,"BRINKER INTERNATIONAL, INC",proposed sale $108K,108460,,https://www.sec.gov/Archives/edgar/data/1497561/000195917326007537/0001959173-26-007537-index.htm,LOW
+2026-10-29T16:16:37+00:00,FORM_144,FITB,FIFTH THIRD BANCORP,proposed sale $450K,450007,,https://www.sec.gov/Archives/edgar/data/1653466/000195917326007536/0001959173-26-007536-index.htm,LOW
