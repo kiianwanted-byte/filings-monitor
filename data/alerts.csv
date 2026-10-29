@@ -5258,3 +5258,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-29T17:26:49+00:00,FORM_144,ETSY,"ETSY, Inc.",proposed sale $2.61M,2607204,,https://www.sec.gov/Archives/edgar/data/1370637/000196922326001096/0001969223-26-001096-index.htm,LOW
 2026-10-29T17:36:37+00:00,FORM_144,GPI,GROUP 1 AUTOMOTIVE INC,proposed sale $307K,306845,,https://www.sec.gov/Archives/edgar/data/1959640/000195917326007541/0001959173-26-007541-index.htm,LOW
 2026-10-29T17:46:36+00:00,FORM_144,NUE,NUCOR CORP,proposed sale $3.23M,3232795,,https://www.sec.gov/Archives/edgar/data/1812083/000195917326007542/0001959173-26-007542-index.htm,LOW
+2026-10-29T17:51:41+00:00,FORM_144,TXN,TEXAS INSTRUMENTS INCORPORATED,proposed sale $1.88M,1882464,,https://www.sec.gov/Archives/edgar/data/1186342/000196922326001097/0001969223-26-001097-index.htm,LOW
