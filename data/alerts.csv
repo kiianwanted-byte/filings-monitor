@@ -5267,3 +5267,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-29T19:16:35+00:00,FORM_144,OKLO,Oklo Inc.,proposed sale $29K,28524,,https://www.sec.gov/Archives/edgar/data/2147680/000195917326007544/0001959173-26-007544-index.htm,LOW
 2026-10-29T19:16:35+00:00,FORM_144,PG,PROCTER & GAMBLE Co,proposed sale $2.98M,2981419,,https://www.sec.gov/Archives/edgar/data/1825382/000008042426000264/0000080424-26-000264-index.htm,LOW
 2026-10-29T19:21:36+00:00,FORM_144,CAKE,CHEESECAKE FACTORY INC,proposed sale $48K,47593,,https://www.sec.gov/Archives/edgar/data/1193532/000195779926000187/0001957799-26-000187-index.htm,LOW
+2026-10-29T19:26:35+00:00,FORM_144,TRMB,TRIMBLE INC.,proposed sale $161K,160940,,https://www.sec.gov/Archives/edgar/data/1640371/000195917326007546/0001959173-26-007546-index.htm,LOW
