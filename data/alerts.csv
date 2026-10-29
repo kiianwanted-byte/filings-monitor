@@ -5292,3 +5292,16 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-29T20:16:49+00:00,FORM_144,AIR,AAR CORP.,proposed sale $454K,454238,,https://www.sec.gov/Archives/edgar/data/1857165/000195004726010474/0001950047-26-010474-index.htm,LOW
 2026-10-29T20:16:49+00:00,FORM_144,GENB,"Generate Biomedicines, Inc.",proposed sale $185K,184732,,https://www.sec.gov/Archives/edgar/data/2100782/000195917326007553/0001959173-26-007553-index.htm,LOW
 2026-10-29T20:16:50+00:00,FORM_144,WRLD,WORLD ACCEPTANCE CORPORATION,proposed sale $672K,671870,,https://www.sec.gov/Archives/edgar/data/1255007/000195004726010473/0001950047-26-010473-index.htm,LOW
+2026-10-29T20:21:41+00:00,FORM_144,PENG,"PENGUIN SOLUTIONS, INC.",proposed sale $282K,281564,,https://www.sec.gov/Archives/edgar/data/2083595/000195004726010482/0001950047-26-010482-index.htm,LOW
+2026-10-29T20:21:42+00:00,FORM_144,LFUS,LITTELFUSE INC,proposed sale $604K,604032,,https://www.sec.gov/Archives/edgar/data/2055015/000162828026068267/0001628280-26-068267-index.htm,LOW
+2026-10-29T20:21:42+00:00,FORM_144,ICE,"INTERCONTINENTAL EXCHANGE, INC.",proposed sale $379K,378982,,https://www.sec.gov/Archives/edgar/data/1729468/000195004726010481/0001950047-26-010481-index.htm,LOW
+2026-10-29T20:21:43+00:00,FORM_144,SNDX,"Syndax Pharmaceuticals, Inc.",proposed sale $115K,114560,,https://www.sec.gov/Archives/edgar/data/1395937/000195004726010480/0001950047-26-010480-index.htm,LOW
+2026-10-29T20:21:43+00:00,FORM_144,ANIP,"ANI PHARMACEUTICALS, INC.",proposed sale $613K,613120,,https://www.sec.gov/Archives/edgar/data/1674236/000195004726010479/0001950047-26-010479-index.htm,LOW
+2026-10-29T20:21:44+00:00,FORM_144,NBIS,NEBIUS GROUP N.V.,proposed sale $61K,60719,,https://www.sec.gov/Archives/edgar/data/2096831/000195004726010478/0001950047-26-010478-index.htm,LOW
+2026-10-29T20:21:44+00:00,FORM_144,BY,Byline Bancorp Inc.,proposed sale $627K,626619,,https://www.sec.gov/Archives/edgar/data/1702750/000196922326001102/0001969223-26-001102-index.htm,LOW
+2026-10-29T20:21:45+00:00,FORM_144,HCA,"HCA Healthcare, Inc",proposed sale $5.63M,5628600,,https://www.sec.gov/Archives/edgar/data/1632835/000162828026068261/0001628280-26-068261-index.htm,LOW
+2026-10-29T20:21:45+00:00,FORM_144,PI,IMPINJ INC,proposed sale $349K,348566,,https://www.sec.gov/Archives/edgar/data/1480603/000192109426001122/0001921094-26-001122-index.htm,LOW
+2026-10-29T20:21:45+00:00,FORM_144,SIBN,"SI-BONE, INC.",proposed sale $82K,81600,,https://www.sec.gov/Archives/edgar/data/1853089/000195004726010477/0001950047-26-010477-index.htm,LOW
+2026-10-29T20:21:46+00:00,FORM_144,BROS,"DUTCH BROS, INC.",proposed sale $6.10M,6097047,,https://www.sec.gov/Archives/edgar/data/1883096/000195004726010476/0001950047-26-010476-index.htm,LOW
+2026-10-29T20:21:46+00:00,FORM_144,GOOGL,Alphabet Inc.,proposed sale $23K,23288,,https://www.sec.gov/Archives/edgar/data/1665419/000192109426001121/0001921094-26-001121-index.htm,LOW
+2026-10-29T20:21:47+00:00,FORM_144,BROS,"DUTCH BROS, INC.",proposed sale $11.42M,11419380,,https://www.sec.gov/Archives/edgar/data/1883105/000195004726010475/0001950047-26-010475-index.htm,LOW
