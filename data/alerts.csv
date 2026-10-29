@@ -5253,3 +5253,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-29T16:16:37+00:00,FORM_144,FITB,FIFTH THIRD BANCORP,proposed sale $450K,450007,,https://www.sec.gov/Archives/edgar/data/1653466/000195917326007536/0001959173-26-007536-index.htm,LOW
 2026-10-29T16:21:36+00:00,FORM_144,SCHW,SCHWAB CHARLES CORP,proposed sale $6.23M,6234565,,https://www.sec.gov/Archives/edgar/data/923738/000194984626000623/0001949846-26-000623-index.htm,LOW
 2026-10-29T16:51:57+00:00,FORM_144,W,Wayfair Inc.,proposed sale $60K,60000,,https://www.sec.gov/Archives/edgar/data/1994593/000195917326007538/0001959173-26-007538-index.htm,LOW
+2026-10-29T16:56:36+00:00,FORM_144,HAYW,"Hayward Holdings, Inc.",proposed sale $31K,31000,,https://www.sec.gov/Archives/edgar/data/1834622/000195917326007539/0001959173-26-007539-index.htm,LOW
