@@ -5324,3 +5324,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-29T20:36:50+00:00,FORM_144,EAT,"BRINKER INTERNATIONAL, INC",proposed sale $8.82M,8815358,,https://www.sec.gov/Archives/edgar/data/1933011/000195917326007557/0001959173-26-007557-index.htm,LOW
 2026-10-29T20:36:51+00:00,FORM_144,AYI,ACUITY INC. (DE),proposed sale $2.66M,2656199,,https://www.sec.gov/Archives/edgar/data/1193485/000196430626000482/0001964306-26-000482-index.htm,LOW
 2026-10-29T20:36:51+00:00,FORM_144,WDC,Western Digital Corporation,proposed sale $1.59M,1585680,,https://www.sec.gov/Archives/edgar/data/1302874/000196858226001081/0001968582-26-001081-index.htm,LOW
+2026-10-29T20:41:38+00:00,FORM_144,BSRR,SIERRA BANCORP,proposed sale $171K,171413,,https://www.sec.gov/Archives/edgar/data/1349140/000197248126000297/0001972481-26-000297-index.htm,LOW
+2026-10-29T20:41:39+00:00,FORM_144,KMTS,"KESTRA MEDICAL TECHNOLOGIES, LTD.",proposed sale $147K,146502,,https://www.sec.gov/Archives/edgar/data/1877184/000196430626000483/0001964306-26-000483-index.htm,LOW
+2026-10-29T20:41:39+00:00,FORM_144,BFST,"Business First Bancshares, Inc.",proposed sale $584K,583710,,https://www.sec.gov/Archives/edgar/data/2106698/000195824426000674/0001958244-26-000674-index.htm,LOW
+2026-10-29T20:41:40+00:00,FORM_144,PRCH,"Porch Group, Inc.",proposed sale $629K,628918,,https://www.sec.gov/Archives/edgar/data/1954327/000195779926000189/0001957799-26-000189-index.htm,LOW
