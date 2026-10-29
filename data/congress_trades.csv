@@ -3124,3 +3124,39 @@ timestamp,chamber,member,ticker,asset,action,amount_low,amount_high,trade_date,f
 2026-10-24T01:55:04+00:00,House,Cleo Fields,TSM,Taiwan Semiconductor,BUY,1001,15000,2026-10-09,2026-10-22,13,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035669.pdf
 2026-10-24T01:55:05+00:00,House,Darrell E. Issa,,US Treasury Note 3.375% due,BUY,5000001,25000000,2026-10-08,2026-10-22,14,HIGH,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035700.pdf
 2026-10-24T01:55:05+00:00,House,Darrell E. Issa,,US Treasury Note 3.375% due,SELL,5000001,25000000,2026-10-14,2026-10-22,8,HIGH,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035700.pdf
+2026-10-29T01:44:24+00:00,House,Suzan K. DelBene,,Black Belt Energy Gas Dist Ala Gas,BUY,250001,500000,2026-10-14,2026-10-28,14,MEDIUM,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035689.pdf
+2026-10-29T01:44:24+00:00,House,Suzan K. DelBene,,Tennessee Energy Ac 5% Edr Idr Due,SELL,250001,500000,2026-10-14,2026-10-28,14,MEDIUM,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035689.pdf
+2026-10-29T01:44:24+00:00,House,Jodey Arrington,,Montego,SELL,15001,50000,2025-07-10,2026-10-27,474,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035714.pdf
+2026-10-29T01:44:25+00:00,House,Sheri Biggs,,Oaktree Strategic Credit Fund Class S,BUY,1001,15000,2026-09-30,2026-10-27,27,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035525.pdf
+2026-10-29T01:44:25+00:00,House,Max Miller,,"AIX Ventures Fund II, LP (GLAS",SELL (partial),1001,15000,2026-10-01,2026-10-27,26,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035715.pdf
+2026-10-29T01:44:25+00:00,House,Max Miller,,"Mercato Partners Traverse IV QP, LP",SELL (partial),1001,15000,2026-09-30,2026-10-27,27,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035715.pdf
+2026-10-29T01:44:26+00:00,House,Pete Sessions,ABT,Abbott Laboratories Common Stock,SELL,50001,100000,2026-10-02,2026-10-27,25,MEDIUM,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf
+2026-10-29T01:44:26+00:00,House,Pete Sessions,GOOG,Alphabet Inc. - Class C Capital Stock,SELL,100001,250000,2026-10-02,2026-10-27,25,MEDIUM,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf
+2026-10-29T01:44:26+00:00,House,Pete Sessions,AMZN,"Amazon.com, Inc. - Common Stock",SELL,100001,250000,2026-10-02,2026-10-27,25,MEDIUM,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf
+2026-10-29T01:44:26+00:00,House,Pete Sessions,AMZN,"Amazon.com, Inc. - Common Stock",SELL,15001,50000,2026-10-27,2026-10-27,0,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf
+2026-10-29T01:44:26+00:00,House,Pete Sessions,AAPL,Apple Inc. - Common Stock,SELL,250001,500000,2026-10-02,2026-10-27,25,MEDIUM,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf
+2026-10-29T01:44:26+00:00,House,Pete Sessions,BRK.B,Berkshire Hathaway Inc. New,SELL,15001,50000,2026-10-15,2026-10-27,12,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf
+2026-10-29T01:44:26+00:00,House,Pete Sessions,CVX,Chevron Corporation Common Stock,SELL,15001,50000,2026-10-14,2026-10-27,13,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf
+2026-10-29T01:44:26+00:00,House,Pete Sessions,CMG,"Chipotle Mexican Grill, Inc. Common",SELL,15001,50000,2026-10-02,2026-10-27,25,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf
+2026-10-29T01:44:26+00:00,House,Pete Sessions,COST,Costco Wholesale Corporation,SELL,250001,500000,2026-10-02,2026-10-27,25,MEDIUM,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf
+2026-10-29T01:44:26+00:00,House,Pete Sessions,COST,Costco Wholesale Corporation,SELL,100001,250000,2026-10-13,2026-10-27,14,MEDIUM,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf
+2026-10-29T01:44:26+00:00,House,Pete Sessions,XOM,ExxonMobil Holdings Corporation,SELL,1001,15000,2026-10-14,2026-10-27,13,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf
+2026-10-29T01:44:26+00:00,House,Pete Sessions,HD,"Home Depot, Inc",SELL,1001,15000,2026-10-22,2026-10-27,5,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf
+2026-10-29T01:44:26+00:00,House,Pete Sessions,HON,Honeywell International Inc,SELL,1001,15000,2026-10-01,2026-10-27,26,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf
+2026-10-29T01:44:26+00:00,House,Pete Sessions,IBM,International Business Machines,SELL,1001,15000,2026-10-20,2026-10-27,7,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf
+2026-10-29T01:44:26+00:00,House,Pete Sessions,LOW,"Lowe's Companies, Inc. Common",SELL,15001,50000,2026-10-22,2026-10-27,5,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf
+2026-10-29T01:44:26+00:00,House,Pete Sessions,MA,Mastercard Incorporated Common,SELL,15001,50000,2026-10-02,2026-10-27,25,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf
+2026-10-29T01:44:26+00:00,House,Pete Sessions,MCD,McDonald's Corporation Common,SELL,15001,50000,2026-10-02,2026-10-27,25,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf
+2026-10-29T01:44:26+00:00,House,Pete Sessions,MCD,McDonald's Corporation Common,SELL,1001,15000,2026-10-27,2026-10-27,0,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf
+2026-10-29T01:44:26+00:00,House,Pete Sessions,MSFT,Microsoft Corporation - Common,SELL,250001,500000,2026-10-02,2026-10-27,25,MEDIUM,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf
+2026-10-29T01:44:26+00:00,House,Pete Sessions,NVDA,NVIDIA Corporation - Common Stock,SELL,15001,50000,2026-10-02,2026-10-27,25,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf
+2026-10-29T01:44:26+00:00,House,Pete Sessions,PEP,"Pepsico, Inc",SELL,1001,15000,2026-10-21,2026-10-27,6,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf
+2026-10-29T01:44:26+00:00,House,Pete Sessions,PG,Procter & Gamble Company,SELL,1001,15000,2026-10-08,2026-10-27,19,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf
+2026-10-29T01:44:26+00:00,House,Pete Sessions,SOLS,Solstice Advanced Materials Inc,SELL,1001,15000,2026-10-21,2026-10-27,6,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf
+2026-10-29T01:44:26+00:00,House,Pete Sessions,SBUX,Starbucks Corporation - Common,SELL,15001,50000,2026-10-02,2026-10-27,25,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf
+2026-10-29T01:44:26+00:00,House,Pete Sessions,TSLA,"Tesla, Inc. - Common Stock",SELL,15001,50000,2026-10-02,2026-10-27,25,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf
+2026-10-29T01:44:26+00:00,House,Pete Sessions,TJX,"TJX Companies, Inc",SELL,15001,50000,2026-10-02,2026-10-27,25,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf
+2026-10-29T01:44:26+00:00,House,Pete Sessions,VZ,Verizon Communications Inc,SELL,15001,50000,2026-10-02,2026-10-27,25,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf
+2026-10-29T01:44:26+00:00,House,Pete Sessions,V,Visa Inc,SELL,15001,50000,2026-10-02,2026-10-27,25,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf
+2026-10-29T01:44:26+00:00,House,Pete Sessions,WMT,Walmart Inc. - Common Stock,SELL,50001,100000,2026-10-02,2026-10-27,25,MEDIUM,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf
+2026-10-29T01:44:26+00:00,House,Pete Sessions,DIS,Walt Disney Company,SELL,1001,15000,2026-10-28,2026-10-27,-1,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf
