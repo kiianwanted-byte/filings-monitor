@@ -1749,3 +1749,5 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-10-29T00:56:31+00:00,2026-10-28,TTMI,TTM TECHNOLOGIES INC,Ali Wajid,Director,10000,90.25,902460,38.7,0001193125-26-436557
 2026-10-29T12:01:29+00:00,2026-10-28,UXIN,Uxin Ltd,Dai Kun,"Director, Chief Executive Officer",3500,0.97,3399,2.6,0001493152-26-049183
 2026-10-29T12:21:33+00:00,2026-10-27,API,"Agora, Inc.",Zhao Bin,"Director, Chief Executive Officer",12549,4.47,56080,0.6,0001193125-26-437062
+2026-10-29T13:11:30+00:00,2026-10-28,BBT,Beacon Financial Corp,Callahan Mary Anne,Director,3200,30.21,96672,18.4,0001628280-26-068056
+2026-10-29T13:11:31+00:00,2026-10-27,NBIS,Nebius Group N.V.,Grimme Arne,Director,353,163.57,57739,4.8,0001513845-26-000143
