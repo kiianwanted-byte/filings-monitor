@@ -5362,3 +5362,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-30T17:06:35+00:00,FORM_144,GKOS,GLAUKOS Corp,proposed sale $10.62M,10618941,,https://www.sec.gov/Archives/edgar/data/1920053/000195917326007569/0001959173-26-007569-index.htm,LOW
 2026-10-30T17:22:14+00:00,FORM_144,CROX,"Crocs, Inc.",proposed sale $2.30M,2301855,,https://www.sec.gov/Archives/edgar/data/1334036/000196922326001105/0001969223-26-001105-index.htm,LOW
 2026-10-30T17:26:35+00:00,FORM_144,RDWR,RADWARE LTD,proposed sale $176K,175800,,https://www.sec.gov/Archives/edgar/data/2029762/000194984626000626/0001949846-26-000626-index.htm,LOW
+2026-10-30T17:46:36+00:00,FORM_144,UVE,"UNIVERSAL INSURANCE HOLDINGS, INC.",proposed sale $965K,965000,,https://www.sec.gov/Archives/edgar/data/1287040/000197407826000389/0001974078-26-000389-index.htm,LOW
