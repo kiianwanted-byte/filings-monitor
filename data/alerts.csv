@@ -5357,3 +5357,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-30T16:16:33+00:00,FORM_144,UMBF,UMB FINANCIAL CORP,proposed sale $50K,50379,,https://www.sec.gov/Archives/edgar/data/1417351/000197636326000035/0001976363-26-000035-index.htm,LOW
 2026-10-30T16:31:50+00:00,FORM_144,CUBI,"Customers Bancorp, Inc.",proposed sale $806K,805511,,https://www.sec.gov/Archives/edgar/data/1527821/000197249026000021/0001972490-26-000021-index.htm,LOW
 2026-10-30T16:31:50+00:00,FORM_144,NI,NISOURCE INC.,proposed sale $1.78M,1782400,,https://www.sec.gov/Archives/edgar/data/1935312/000195917326007567/0001959173-26-007567-index.htm,LOW
+2026-10-30T16:36:38+00:00,FORM_144,AER,AerCap Holdings N.V.,proposed sale $9.58M,9582600,,https://www.sec.gov/Archives/edgar/data/1450289/000095015726001137/0000950157-26-001137-index.htm,LOW
