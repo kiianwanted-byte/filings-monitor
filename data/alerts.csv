@@ -5361,3 +5361,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-30T16:41:35+00:00,FORM_144,GLXY,Galaxy Digital Inc.,proposed sale $197K,197424,,https://www.sec.gov/Archives/edgar/data/1906218/000195917326007568/0001959173-26-007568-index.htm,LOW
 2026-10-30T17:06:35+00:00,FORM_144,GKOS,GLAUKOS Corp,proposed sale $10.62M,10618941,,https://www.sec.gov/Archives/edgar/data/1920053/000195917326007569/0001959173-26-007569-index.htm,LOW
 2026-10-30T17:22:14+00:00,FORM_144,CROX,"Crocs, Inc.",proposed sale $2.30M,2301855,,https://www.sec.gov/Archives/edgar/data/1334036/000196922326001105/0001969223-26-001105-index.htm,LOW
+2026-10-30T17:26:35+00:00,FORM_144,RDWR,RADWARE LTD,proposed sale $176K,175800,,https://www.sec.gov/Archives/edgar/data/2029762/000194984626000626/0001949846-26-000626-index.htm,LOW
