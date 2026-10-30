@@ -5438,3 +5438,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-30T22:16:39+00:00,FORM_144,KNSA,"Kiniksa Pharmaceuticals International, plc",proposed sale $4.56M,4559561,,https://www.sec.gov/Archives/edgar/data/1730430/000192109426001126/0001921094-26-001126-index.htm,LOW
 2026-10-30T22:16:39+00:00,FORM_144,KNSA,"Kiniksa Pharmaceuticals International, plc",proposed sale $8.93M,8930275,,https://www.sec.gov/Archives/edgar/data/1741533/000192109426001125/0001921094-26-001125-index.htm,LOW
 2026-10-30T22:21:34+00:00,FORM_144,KNSA,"Kiniksa Pharmaceuticals International, plc",proposed sale $51.57M,51571367,,https://www.sec.gov/Archives/edgar/data/1730430/000192109426001129/0001921094-26-001129-index.htm,MEDIUM
+2026-10-30T22:41:32+00:00,FORM_144,TAK,TAKEDA PHARMACEUTICAL CO LTD,proposed sale $1.12M,1121794,,https://www.sec.gov/Archives/edgar/data/1977620/000149315226049487/0001493152-26-049487-index.htm,LOW
+2026-10-30T22:41:33+00:00,FORM_144,TAK,Takeda Pharmaceutical Company Limited,proposed sale $940K,940103,,https://www.sec.gov/Archives/edgar/data/1977608/000149315226049485/0001493152-26-049485-index.htm,LOW
