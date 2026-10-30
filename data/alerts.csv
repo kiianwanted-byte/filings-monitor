@@ -5349,3 +5349,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-30T14:31:45+00:00,FORM_144,VLTO,Veralto Corp,proposed sale $3.97M,3966536,,https://www.sec.gov/Archives/edgar/data/1991958/000195917326007562/0001959173-26-007562-index.htm,LOW
 2026-10-30T14:31:46+00:00,FORM_144,WMT,Walmart Inc.,proposed sale $20.49M,20494997,,https://www.sec.gov/Archives/edgar/data/1781198/000195917326007561/0001959173-26-007561-index.htm,LOW
 2026-10-30T14:41:38+00:00,FORM_144,CFR,"CULLEN/FROST BANKERS, INC.",proposed sale $378K,378178,,https://www.sec.gov/Archives/edgar/data/1388767/000195917326007563/0001959173-26-007563-index.htm,LOW
+2026-10-30T15:16:40+00:00,FORM_144,UAL,"United Airlines Holdings, Inc.",proposed sale $4.00M,4004656,,https://www.sec.gov/Archives/edgar/data/1466338/000195917326007564/0001959173-26-007564-index.htm,LOW
