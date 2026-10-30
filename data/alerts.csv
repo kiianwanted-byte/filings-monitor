@@ -5409,3 +5409,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-30T20:26:48+00:00,FORM_144,DBX,DROPBOX INC,proposed sale $75K,74596,,https://www.sec.gov/Archives/edgar/data/2075704/000195004726010509/0001950047-26-010509-index.htm,LOW
 2026-10-30T20:26:49+00:00,FORM_144,BFLY,"Butterfly Network, Inc.",proposed sale $634K,634200,,https://www.sec.gov/Archives/edgar/data/1804176/000162828026068586/0001628280-26-068586-index.htm,LOW
 2026-10-30T20:26:51+00:00,FORM_144,NTRA,"NATERA, INC.",proposed sale $831K,831016,,https://www.sec.gov/Archives/edgar/data/1697362/000195004726010508/0001950047-26-010508-index.htm,LOW
+2026-10-30T20:31:39+00:00,FORM_144,SPRY,"ARS PHARMACEUTICALS, INC.",proposed sale $270K,270272,,https://www.sec.gov/Archives/edgar/data/1951287/000195004726010513/0001950047-26-010513-index.htm,LOW
+2026-10-30T20:31:39+00:00,FORM_144,IBTA,"Ibotta, Inc.",proposed sale $5K,5108,,https://www.sec.gov/Archives/edgar/data/2017890/000195917326007579/0001959173-26-007579-index.htm,LOW
+2026-10-30T20:31:40+00:00,FORM_144,GILD,"GILEAD SCIENCES, INC",proposed sale $7.60M,7598352,,https://www.sec.gov/Archives/edgar/data/1638643/000195004726010512/0001950047-26-010512-index.htm,LOW
