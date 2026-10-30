@@ -1782,3 +1782,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-10-30T00:56:32+00:00,2026-10-27,LRN,"Stride, Inc.",Haggart Dylan G.,Director,792,78.52,62187,0.0,0001213900-26-113987
 2026-10-30T12:01:34+00:00,2026-10-29,UXIN,Uxin Ltd,Dai Kun,"Director, Chief Executive Officer",7732,0.97,7496,5.7,0001493152-26-049356
 2026-10-30T13:01:37+00:00,2026-10-28,OTLC,"Oncotelic Therapeutics, Inc.",Trieu Vuong,"Director, CHAIRMAN AND CEO, 10% owner",1356990,0.02,23536,1.5,0001493152-26-049370
+2026-10-30T14:31:42+00:00,2026-10-30,USCB,"USCB FINANCIAL HOLDINGS, INC.",Rodriguez Ramon M.,Director,1000,20.00,20000,NEW,0001437749-26-034087

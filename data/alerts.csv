@@ -5346,3 +5346,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-30T13:41:33+00:00,FORM_144,CARL,"CARLSMED, INC.",proposed sale $4K,3839,,https://www.sec.gov/Archives/edgar/data/2147819/000195917326007558/0001959173-26-007558-index.htm,LOW
 2026-10-30T13:51:45+00:00,FORM_144,JBLU,JETBLUE AIRWAYS CORP,proposed sale $6K,5920,,https://www.sec.gov/Archives/edgar/data/1858380/000195917326007559/0001959173-26-007559-index.htm,LOW
 2026-10-30T14:16:40+00:00,FORM_144,ADP,AUTOMATIC DATA PROCESSING INC,proposed sale $860K,859659,,https://www.sec.gov/Archives/edgar/data/1884374/000195917326007560/0001959173-26-007560-index.htm,LOW
+2026-10-30T14:31:45+00:00,FORM_144,VLTO,Veralto Corp,proposed sale $3.97M,3966536,,https://www.sec.gov/Archives/edgar/data/1991958/000195917326007562/0001959173-26-007562-index.htm,LOW
+2026-10-30T14:31:46+00:00,FORM_144,WMT,Walmart Inc.,proposed sale $20.49M,20494997,,https://www.sec.gov/Archives/edgar/data/1781198/000195917326007561/0001959173-26-007561-index.htm,LOW
