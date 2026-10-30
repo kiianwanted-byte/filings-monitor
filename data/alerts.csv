@@ -5370,3 +5370,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-30T18:41:34+00:00,FORM_144,RTX,RTX Corp,proposed sale $981K,981294,,https://www.sec.gov/Archives/edgar/data/1815109/000196922326001106/0001969223-26-001106-index.htm,LOW
 2026-10-30T18:46:38+00:00,FORM_144,,NBH Bank,proposed sale $150K,149700,,https://www.sec.gov/Archives/edgar/data/2148930/000197407826000390/0001974078-26-000390-index.htm,LOW
 2026-10-30T18:56:34+00:00,FORM_144,LLY,ELI LILLY AND COMPANY,proposed sale $405.24M,405241500,,https://www.sec.gov/Archives/edgar/data/316011/000031601126000040/0000316011-26-000040-index.htm,MEDIUM
+2026-10-30T19:11:33+00:00,FORM_144,LTH,"Life Time Group Holdings, Inc.",proposed sale $301K,300951,,https://www.sec.gov/Archives/edgar/data/1923538/000195917326007571/0001959173-26-007571-index.htm,LOW
