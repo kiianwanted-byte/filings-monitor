@@ -5355,3 +5355,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-30T15:46:39+00:00,FORM_144,STNG,Scorpio Tankers Inc.,proposed sale $12.54M,12537280,,https://www.sec.gov/Archives/edgar/data/1978589/000197858926000006/0001978589-26-000006-index.htm,LOW
 2026-10-30T15:51:39+00:00,FORM_144,LH,LABCORP HOLDINGS INC.,proposed sale $389K,389395,,https://www.sec.gov/Archives/edgar/data/1550078/000195917326007566/0001959173-26-007566-index.htm,LOW
 2026-10-30T16:16:33+00:00,FORM_144,UMBF,UMB FINANCIAL CORP,proposed sale $50K,50379,,https://www.sec.gov/Archives/edgar/data/1417351/000197636326000035/0001976363-26-000035-index.htm,LOW
+2026-10-30T16:31:50+00:00,FORM_144,CUBI,"Customers Bancorp, Inc.",proposed sale $806K,805511,,https://www.sec.gov/Archives/edgar/data/1527821/000197249026000021/0001972490-26-000021-index.htm,LOW
+2026-10-30T16:31:50+00:00,FORM_144,NI,NISOURCE INC.,proposed sale $1.78M,1782400,,https://www.sec.gov/Archives/edgar/data/1935312/000195917326007567/0001959173-26-007567-index.htm,LOW
