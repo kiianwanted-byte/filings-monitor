@@ -3160,3 +3160,6 @@ timestamp,chamber,member,ticker,asset,action,amount_low,amount_high,trade_date,f
 2026-10-29T01:44:26+00:00,House,Pete Sessions,V,Visa Inc,SELL,15001,50000,2026-10-02,2026-10-27,25,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf
 2026-10-29T01:44:26+00:00,House,Pete Sessions,WMT,Walmart Inc. - Common Stock,SELL,50001,100000,2026-10-02,2026-10-27,25,MEDIUM,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf
 2026-10-29T01:44:26+00:00,House,Pete Sessions,DIS,Walt Disney Company,SELL,1001,15000,2026-10-28,2026-10-27,-1,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf
+2026-10-30T00:15:23+00:00,House,Kevin Hern,ASML,ASML Holding N.V. - New York,SELL (partial),15001,50000,2026-10-23,2026-10-28,5,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035710.pdf
+2026-10-30T00:15:23+00:00,House,Kevin Hern,STX,Seagate Technology Holdings PLC,SELL (partial),15001,50000,2026-10-23,2026-10-28,5,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035710.pdf
+2026-10-30T00:15:23+00:00,House,Kevin Hern,TXN,Texas Instruments Incorporated,SELL (partial),15001,50000,2026-10-14,2026-10-28,14,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035710.pdf
