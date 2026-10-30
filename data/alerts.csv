@@ -5352,3 +5352,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-30T15:16:40+00:00,FORM_144,UAL,"United Airlines Holdings, Inc.",proposed sale $4.00M,4004656,,https://www.sec.gov/Archives/edgar/data/1466338/000195917326007564/0001959173-26-007564-index.htm,LOW
 2026-10-30T15:36:31+00:00,INSIDER_CLUSTER,BHRB,Burke & Herbert Financial Services Corp.,McLaughlin Shawn Patrick $36K,35500,1,https://www.sec.gov/Archives/edgar/data/1964493/000196449326000010/0001964493-26-000010-index.htm,HIGH
 2026-10-30T15:36:33+00:00,FORM_144,DUK,Duke Energy CORP,proposed sale $371K,371200,,https://www.sec.gov/Archives/edgar/data/2017923/000195917326007565/0001959173-26-007565-index.htm,LOW
+2026-10-30T15:46:39+00:00,FORM_144,STNG,Scorpio Tankers Inc.,proposed sale $12.54M,12537280,,https://www.sec.gov/Archives/edgar/data/1978589/000197858926000006/0001978589-26-000006-index.htm,LOW
