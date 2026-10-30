@@ -5434,3 +5434,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-30T21:56:33+00:00,FORM_144,LTH,"Life Time Group Holdings, Inc.",proposed sale $11.91M,11906400,,https://www.sec.gov/Archives/edgar/data/1869198/000195824426000676/0001958244-26-000676-index.htm,LOW
 2026-10-30T21:56:34+00:00,FORM_144,ANET,"Arista Networks, Inc.",proposed sale $45.24M,45236243,,https://www.sec.gov/Archives/edgar/data/1596532/000195824426000675/0001958244-26-000675-index.htm,MEDIUM
 2026-10-30T22:06:40+00:00,FORM_144,AEYE,"AudioEye, Inc.",proposed sale $2.61M,2606000,,https://www.sec.gov/Archives/edgar/data/1658843/000195824426000680/0001958244-26-000680-index.htm,LOW
+2026-10-30T22:16:38+00:00,FORM_144,KNSA,"Kiniksa Pharmaceuticals International, plc",proposed sale $9.75M,9753812,,https://www.sec.gov/Archives/edgar/data/1857177/000192109426001127/0001921094-26-001127-index.htm,LOW
+2026-10-30T22:16:39+00:00,FORM_144,KNSA,"Kiniksa Pharmaceuticals International, plc",proposed sale $4.56M,4559561,,https://www.sec.gov/Archives/edgar/data/1730430/000192109426001126/0001921094-26-001126-index.htm,LOW
+2026-10-30T22:16:39+00:00,FORM_144,KNSA,"Kiniksa Pharmaceuticals International, plc",proposed sale $8.93M,8930275,,https://www.sec.gov/Archives/edgar/data/1741533/000192109426001125/0001921094-26-001125-index.htm,LOW
