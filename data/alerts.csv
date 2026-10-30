@@ -5367,3 +5367,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-30T18:26:35+00:00,FORM_144,MAS,MASCO CORP /DE/,proposed sale $2.78M,2779766,,https://www.sec.gov/Archives/edgar/data/1582303/000195917326007570/0001959173-26-007570-index.htm,LOW
 2026-10-30T18:26:36+00:00,FORM_144,HOMB,HOME BANCSHARES INC,proposed sale $406K,406000,,https://www.sec.gov/Archives/edgar/data/2106640/000210664026000012/0002106640-26-000012-index.htm,LOW
 2026-10-30T18:31:38+00:00,FORM_144,ACNT,ASCENT INDUSTRIES CO.,proposed sale $456K,455910,,https://www.sec.gov/Archives/edgar/data/2157067/000215706726000001/0002157067-26-000001-index.htm,LOW
+2026-10-30T18:41:34+00:00,FORM_144,RTX,RTX Corp,proposed sale $981K,981294,,https://www.sec.gov/Archives/edgar/data/1815109/000196922326001106/0001969223-26-001106-index.htm,LOW
