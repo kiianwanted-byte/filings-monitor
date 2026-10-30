@@ -5377,3 +5377,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-30T19:41:36+00:00,FORM_144,LGND,LIGAND PHARMACEUTICALS INC,proposed sale $65K,64738,,https://www.sec.gov/Archives/edgar/data/1376960/000194984626000627/0001949846-26-000627-index.htm,LOW
 2026-10-30T19:41:36+00:00,FORM_144,YUM,"YUM! Brands, Inc.",proposed sale $2.51M,2507630,,https://www.sec.gov/Archives/edgar/data/1735780/000162828026068555/0001628280-26-068555-index.htm,LOW
 2026-10-30T19:56:40+00:00,FORM_144,FTV,Fortive Corp,proposed sale $3.13M,3129463,,https://www.sec.gov/Archives/edgar/data/1659166/000195917326007573/0001959173-26-007573-index.htm,LOW
+2026-10-30T20:01:35+00:00,FORM_144,FIBK,FIRST INTERSTATE BANCSYSTEM INC,proposed sale $2K,1912,,https://www.sec.gov/Archives/edgar/data/1198533/000195917326007574/0001959173-26-007574-index.htm,LOW
+2026-10-30T20:01:36+00:00,FORM_144,WING,WINGSTOP INC.,proposed sale $221K,220567,,https://www.sec.gov/Archives/edgar/data/1636222/000195004726010494/0001950047-26-010494-index.htm,LOW
+2026-10-30T20:01:36+00:00,FORM_144,RCL,ROYAL CARIBBEAN CRUISES LTD.,proposed sale $123K,122884,,https://www.sec.gov/Archives/edgar/data/1640081/000195004726010493/0001950047-26-010493-index.htm,LOW
