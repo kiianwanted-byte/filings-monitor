@@ -5343,3 +5343,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-29T22:26:33+00:00,FORM_144,H,Hyatt Hotels Corporation,proposed sale $6.07M,6067250,,https://www.sec.gov/Archives/edgar/data/1980093/000196858226001085/0001968582-26-001085-index.htm,LOW
 2026-10-29T22:51:31+00:00,FORM_144,GPI,Group 1 Automotive,proposed sale $210K,209612,,https://www.sec.gov/Archives/edgar/data/1959640/000162828026068342/0001628280-26-068342-index.htm,LOW
 2026-10-30T11:41:29+00:00,FORM_144,STNG,Scorpio Tankers Inc.,proposed sale $22.31M,22306939,,https://www.sec.gov/Archives/edgar/data/1978586/000197858626000008/0001978586-26-000008-index.htm,LOW
+2026-10-30T13:41:33+00:00,FORM_144,CARL,"CARLSMED, INC.",proposed sale $4K,3839,,https://www.sec.gov/Archives/edgar/data/2147819/000195917326007558/0001959173-26-007558-index.htm,LOW
