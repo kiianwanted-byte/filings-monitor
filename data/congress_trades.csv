@@ -3163,3 +3163,9 @@ timestamp,chamber,member,ticker,asset,action,amount_low,amount_high,trade_date,f
 2026-10-30T00:15:23+00:00,House,Kevin Hern,ASML,ASML Holding N.V. - New York,SELL (partial),15001,50000,2026-10-23,2026-10-28,5,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035710.pdf
 2026-10-30T00:15:23+00:00,House,Kevin Hern,STX,Seagate Technology Holdings PLC,SELL (partial),15001,50000,2026-10-23,2026-10-28,5,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035710.pdf
 2026-10-30T00:15:23+00:00,House,Kevin Hern,TXN,Texas Instruments Incorporated,SELL (partial),15001,50000,2026-10-14,2026-10-28,14,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035710.pdf
+2026-10-30T18:48:11+00:00,House,David J. Taylor,T,AT&T Inc,BUY,1001,15000,2026-10-15,2026-10-29,14,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035727.pdf
+2026-10-30T18:48:11+00:00,House,David J. Taylor,LRCX,Lam Research Corporation - Common,BUY,1001,15000,2026-10-15,2026-10-29,14,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035727.pdf
+2026-10-30T18:48:11+00:00,House,David J. Taylor,MPC,Marathon Petroleum Corporation,SELL,1001,15000,2026-10-15,2026-10-29,14,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035727.pdf
+2026-10-30T18:48:11+00:00,House,David J. Taylor,PLD,"Prologis, Inc. Common Stock",BUY,1001,15000,2026-10-15,2026-10-29,14,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035727.pdf
+2026-10-30T18:48:11+00:00,House,David J. Taylor,RPM,RPM International Inc. Common,BUY,1001,15000,2026-10-15,2026-10-29,14,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035727.pdf
+2026-10-30T18:48:11+00:00,House,David J. Taylor,V,Visa Inc,SELL,1001,15000,2026-10-15,2026-10-29,14,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035727.pdf
