@@ -5424,3 +5424,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-30T20:51:34+00:00,FORM_144,MANA,GRAYSCALE DECENTRALAND TRUST (MANA),proposed sale $903,903,,https://www.sec.gov/Archives/edgar/data/1977454/000197745426000288/0001977454-26-000288-index.htm,LOW
 2026-10-30T20:51:34+00:00,FORM_144,GDLC,Grayscale CoinDesk Crypto 5 ETF,proposed sale $604K,604427,,https://www.sec.gov/Archives/edgar/data/1977454/000197745426000286/0001977454-26-000286-index.htm,LOW
 2026-10-30T21:06:37+00:00,FORM_144,ISRG,"Intuitive Surgical, Inc.",proposed sale $1.96M,1956144,,https://www.sec.gov/Archives/edgar/data/1897970/000195004726010517/0001950047-26-010517-index.htm,LOW
+2026-10-30T21:11:39+00:00,FORM_144,MAX,"MediaAlpha, Inc.",proposed sale $724K,723620,,https://www.sec.gov/Archives/edgar/data/1829969/000192109426001123/0001921094-26-001123-index.htm,LOW
