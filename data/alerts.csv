@@ -5417,3 +5417,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-30T20:36:54+00:00,FORM_144,TYL,TYLER TECHNOLOGIES INC,proposed sale $3.93M,3931689,,https://www.sec.gov/Archives/edgar/data/1250902/000195917326007580/0001959173-26-007580-index.htm,LOW
 2026-10-30T20:41:49+00:00,FORM_144,LGND,LIGAND PHARMACEUTICALS INCORPORATED,proposed sale $385K,385185,,https://www.sec.gov/Archives/edgar/data/1376960/000195004726010515/0001950047-26-010515-index.htm,LOW
 2026-10-30T20:41:50+00:00,FORM_144,ROP,ROPER TECHNOLOGIES INC,proposed sale $1.97M,1965978,,https://www.sec.gov/Archives/edgar/data/1479933/000195917326007581/0001959173-26-007581-index.htm,LOW
+2026-10-30T20:46:35+00:00,FORM_144,ETSY,"ETSY, Inc.",proposed sale $107K,107010,,https://www.sec.gov/Archives/edgar/data/1525358/000196922326001110/0001969223-26-001110-index.htm,LOW
