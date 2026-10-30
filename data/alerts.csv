@@ -5428,3 +5428,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-30T21:16:38+00:00,FORM_144,KNTK,Kinetik Holdings Inc.,proposed sale $1.17M,1173374,,https://www.sec.gov/Archives/edgar/data/1904934/000090514826004596/0000905148-26-004596-index.htm,LOW
 2026-10-30T21:31:34+00:00,FORM_144,MAX,"MediaAlpha, Inc.",proposed sale $4.13M,4134609,,https://www.sec.gov/Archives/edgar/data/1897386/000192109426001124/0001921094-26-001124-index.htm,LOW
 2026-10-30T21:51:30+00:00,FORM_144,NBHC,National Bank Holdings Corp,proposed sale $150K,149700,,https://www.sec.gov/Archives/edgar/data/1475841/000197407826000391/0001974078-26-000391-index.htm,LOW
+2026-10-30T21:56:32+00:00,FORM_144,NP,NEPTUNE INSURANCE HOLDINGS INC.,proposed sale $11.85M,11851515,,https://www.sec.gov/Archives/edgar/data/2067129/000195824426000679/0001958244-26-000679-index.htm,LOW
+2026-10-30T21:56:32+00:00,FORM_144,LHX,"L3Harris Technologies, Inc.",proposed sale $4.16M,4164150,,https://www.sec.gov/Archives/edgar/data/1194001/000195824426000678/0001958244-26-000678-index.htm,LOW
+2026-10-30T21:56:33+00:00,FORM_144,NBHC,National Bank Holdings Corporation,proposed sale $11.97M,11974942,,https://www.sec.gov/Archives/edgar/data/2102774/000195824426000677/0001958244-26-000677-index.htm,LOW
+2026-10-30T21:56:33+00:00,FORM_144,LTH,"Life Time Group Holdings, Inc.",proposed sale $11.91M,11906400,,https://www.sec.gov/Archives/edgar/data/1869198/000195824426000676/0001958244-26-000676-index.htm,LOW
+2026-10-30T21:56:34+00:00,FORM_144,ANET,"Arista Networks, Inc.",proposed sale $45.24M,45236243,,https://www.sec.gov/Archives/edgar/data/1596532/000195824426000675/0001958244-26-000675-index.htm,MEDIUM
