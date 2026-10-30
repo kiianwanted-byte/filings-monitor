@@ -5404,3 +5404,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-30T20:22:05+00:00,FORM_144,NBIX,"NEUROCRINE BIOSCIENCES, INC.",proposed sale $44K,43914,,https://www.sec.gov/Archives/edgar/data/1068754/000195004726010505/0001950047-26-010505-index.htm,LOW
 2026-10-30T20:22:07+00:00,FORM_144,BROS,"DUTCH BROS, INC.",proposed sale $880K,879951,,https://www.sec.gov/Archives/edgar/data/1883096/000195004726010504/0001950047-26-010504-index.htm,LOW
 2026-10-30T20:22:08+00:00,FORM_144,BROS,"DUTCH BROS, INC.",proposed sale $1.65M,1647930,,https://www.sec.gov/Archives/edgar/data/1883105/000195004726010503/0001950047-26-010503-index.htm,LOW
+2026-10-30T20:26:45+00:00,FORM_144,GDYN,"GRID DYNAMICS HOLDINGS, INC.",proposed sale $120K,120198,,https://www.sec.gov/Archives/edgar/data/1805657/000195004726010511/0001950047-26-010511-index.htm,LOW
+2026-10-30T20:26:46+00:00,FORM_144,AMT,AMERICAN TOWER CORPORATION,proposed sale $112K,112260,,https://www.sec.gov/Archives/edgar/data/1733553/000195004726010510/0001950047-26-010510-index.htm,LOW
+2026-10-30T20:26:48+00:00,FORM_144,DBX,DROPBOX INC,proposed sale $75K,74596,,https://www.sec.gov/Archives/edgar/data/2075704/000195004726010509/0001950047-26-010509-index.htm,LOW
+2026-10-30T20:26:49+00:00,FORM_144,BFLY,"Butterfly Network, Inc.",proposed sale $634K,634200,,https://www.sec.gov/Archives/edgar/data/1804176/000162828026068586/0001628280-26-068586-index.htm,LOW
+2026-10-30T20:26:51+00:00,FORM_144,NTRA,"NATERA, INC.",proposed sale $831K,831016,,https://www.sec.gov/Archives/edgar/data/1697362/000195004726010508/0001950047-26-010508-index.htm,LOW
