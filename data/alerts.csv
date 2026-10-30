@@ -5412,3 +5412,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-30T20:31:39+00:00,FORM_144,SPRY,"ARS PHARMACEUTICALS, INC.",proposed sale $270K,270272,,https://www.sec.gov/Archives/edgar/data/1951287/000195004726010513/0001950047-26-010513-index.htm,LOW
 2026-10-30T20:31:39+00:00,FORM_144,IBTA,"Ibotta, Inc.",proposed sale $5K,5108,,https://www.sec.gov/Archives/edgar/data/2017890/000195917326007579/0001959173-26-007579-index.htm,LOW
 2026-10-30T20:31:40+00:00,FORM_144,GILD,"GILEAD SCIENCES, INC",proposed sale $7.60M,7598352,,https://www.sec.gov/Archives/edgar/data/1638643/000195004726010512/0001950047-26-010512-index.htm,LOW
+2026-10-30T20:36:52+00:00,FORM_144,FDX,FEDEX CORP,proposed sale $8.19M,8191398,,https://www.sec.gov/Archives/edgar/data/1981585/000198158526000004/0001981585-26-000004-index.htm,LOW
+2026-10-30T20:36:52+00:00,FORM_144,REPL,"REPLIMUNE GROUP, INC.",proposed sale $167K,167232,,https://www.sec.gov/Archives/edgar/data/1978705/000195004726010514/0001950047-26-010514-index.htm,LOW
+2026-10-30T20:36:54+00:00,FORM_144,TYL,TYLER TECHNOLOGIES INC,proposed sale $3.93M,3931689,,https://www.sec.gov/Archives/edgar/data/1250902/000195917326007580/0001959173-26-007580-index.htm,LOW
