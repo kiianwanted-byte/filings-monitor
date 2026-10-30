@@ -5398,3 +5398,9 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-30T20:16:45+00:00,FORM_144,NI,NISOURCE INC.,proposed sale $292K,292500,,https://www.sec.gov/Archives/edgar/data/1813738/000195917326007578/0001959173-26-007578-index.htm,LOW
 2026-10-30T20:16:46+00:00,FORM_144,UMBF,UMB FINANCIAL CORP,proposed sale $78K,78428,,https://www.sec.gov/Archives/edgar/data/1975226/000197636326000036/0001976363-26-000036-index.htm,LOW
 2026-10-30T20:16:46+00:00,FORM_144,HAYW,"Hayward Holdings, Inc.",proposed sale $40K,40000,,https://www.sec.gov/Archives/edgar/data/1834622/000195917326007577/0001959173-26-007577-index.htm,LOW
+2026-10-30T20:22:02+00:00,FORM_144,REGN,REGENERON PHARMACEUTICALS INC,proposed sale $1.58M,1579407,,https://www.sec.gov/Archives/edgar/data/1174475/000195004726010507/0001950047-26-010507-index.htm,LOW
+2026-10-30T20:22:03+00:00,FORM_144,MA,Mastercard Incorporated,proposed sale $2.74M,2744952,,https://www.sec.gov/Archives/edgar/data/1923565/000195004726010506/0001950047-26-010506-index.htm,LOW
+2026-10-30T20:22:04+00:00,FORM_144,V,VISA INC.,proposed sale $251K,251244,,https://www.sec.gov/Archives/edgar/data/1403161/000196430626000485/0001964306-26-000485-index.htm,LOW
+2026-10-30T20:22:05+00:00,FORM_144,NBIX,"NEUROCRINE BIOSCIENCES, INC.",proposed sale $44K,43914,,https://www.sec.gov/Archives/edgar/data/1068754/000195004726010505/0001950047-26-010505-index.htm,LOW
+2026-10-30T20:22:07+00:00,FORM_144,BROS,"DUTCH BROS, INC.",proposed sale $880K,879951,,https://www.sec.gov/Archives/edgar/data/1883096/000195004726010504/0001950047-26-010504-index.htm,LOW
+2026-10-30T20:22:08+00:00,FORM_144,BROS,"DUTCH BROS, INC.",proposed sale $1.65M,1647930,,https://www.sec.gov/Archives/edgar/data/1883105/000195004726010503/0001950047-26-010503-index.htm,LOW
