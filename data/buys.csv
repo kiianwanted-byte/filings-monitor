@@ -1786,3 +1786,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-10-30T15:36:31+00:00,2026-10-29,BHRB,Burke & Herbert Financial Services Corp.,McLaughlin Shawn Patrick,Director,500,71.00,35500,0.7,0001964493-26-000010
 2026-10-30T17:01:37+00:00,2026-10-28,MED,MEDIFAST INC,Kiai Parsa,Director,5557,12.24,68027,37.4,0001213900-26-114242
 2026-10-30T18:01:42+00:00,2026-10-29,BMRC,Bank of Marin Bancorp,Anderson Nicolas C,Director,40,28.44,1137,0.3,0001736209-26-000011
+2026-10-30T18:06:33+00:00,2026-10-30,BBT,Beacon Financial Corp,Charnley Nina A,Director,350,30.57,10699,NEW,0001628280-26-068526
