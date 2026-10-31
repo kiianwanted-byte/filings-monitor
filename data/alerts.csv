@@ -5442,3 +5442,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-30T22:41:33+00:00,FORM_144,TAK,Takeda Pharmaceutical Company Limited,proposed sale $940K,940103,,https://www.sec.gov/Archives/edgar/data/1977608/000149315226049485/0001493152-26-049485-index.htm,LOW
 2026-10-30T23:36:33+00:00,INSIDER_CLUSTER,RAPP,"Rapport Therapeutics, Inc.",HEALY JAMES $20.36M,20359080,2,https://www.sec.gov/Archives/edgar/data/2012593/000110465926120789/0001104659-26-120789-index.htm,HIGH
 2026-10-31T00:06:31+00:00,FORM_144,CVNA,CARVANA CO.,proposed sale $682.90M,682900000,,https://www.sec.gov/Archives/edgar/data/1690820/000101760826000004/0001017608-26-000004-index.htm,MEDIUM
+2026-10-31T00:26:36+00:00,FORM_144,AMAL,Amalgamated Financial Corp.,proposed sale $8.41M,8411760,,https://www.sec.gov/Archives/edgar/data/2008869/000090266426004337/0000902664-26-004337-index.htm,LOW
