@@ -5449,3 +5449,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-02T12:41:31+00:00,FORM_144,ATR,"APTARGROUP, INC.",proposed sale $274K,274000,,https://www.sec.gov/Archives/edgar/data/1744506/000174450626000004/0001744506-26-000004-index.htm,LOW
 2026-11-02T12:56:44+00:00,INSIDER_BUY,LSTR,LANDSTAR SYSTEM INC,Lonegro Frank A $715K,714619,3,https://www.sec.gov/Archives/edgar/data/1653042/000085381626000069/0000853816-26-000069-index.htm,MEDIUM
 2026-11-02T13:31:34+00:00,FORM_144,CROX,"Crocs, Inc.",proposed sale $2.22M,2220300,,https://www.sec.gov/Archives/edgar/data/1334036/000196530126000168/0001965301-26-000168-index.htm,LOW
+2026-11-02T13:46:29+00:00,FORM_144,PG,PROCTER & GAMBLE Co,proposed sale $10.49M,10493601,,https://www.sec.gov/Archives/edgar/data/1844763/000008042426000265/0000080424-26-000265-index.htm,LOW
