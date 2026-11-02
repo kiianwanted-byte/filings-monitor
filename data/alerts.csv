@@ -5518,3 +5518,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-02T20:16:38+00:00,FORM_144,CHD,"Church & Dwight, Inc.",proposed sale $471K,471022,,https://www.sec.gov/Archives/edgar/data/1379399/000196922326001111/0001969223-26-001111-index.htm,LOW
 2026-11-02T20:21:56+00:00,FORM_144,VLTO,Veralto Corp,proposed sale $170K,170446,,https://www.sec.gov/Archives/edgar/data/1967680/000195917326007632/0001959173-26-007632-index.htm,LOW
 2026-11-02T20:21:56+00:00,FORM_144,SEV,Aptera Motors Corp,proposed sale $11K,10811,,https://www.sec.gov/Archives/edgar/data/2093241/000195917326007631/0001959173-26-007631-index.htm,LOW
+2026-11-02T20:31:32+00:00,FORM_144,JELD,"JELD-WEN Holding, Inc.",proposed sale $21K,20643,,https://www.sec.gov/Archives/edgar/data/2053463/000195917326007633/0001959173-26-007633-index.htm,LOW
