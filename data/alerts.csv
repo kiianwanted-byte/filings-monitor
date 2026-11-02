@@ -5711,3 +5711,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-02T23:01:36+00:00,FORM_144,FDX,FEDEX CORP,proposed sale $944K,944226,,https://www.sec.gov/Archives/edgar/data/1967230/000196723026000004/0001967230-26-000004-index.htm,LOW
 2026-11-02T23:01:36+00:00,FORM_144,OSW,ONESPAWORLD HOLDINGS LIMITED,proposed sale $242K,241760,,https://www.sec.gov/Archives/edgar/data/1758488/000119312526443968/0001193125-26-443968-index.htm,LOW
 2026-11-02T23:01:37+00:00,FORM_144,OSW,ONESPAWORLD HOLDINGS LIMITED,proposed sale $604K,604400,,https://www.sec.gov/Archives/edgar/data/1758488/000119312526443967/0001193125-26-443967-index.htm,LOW
+2026-11-02T23:06:33+00:00,FORM_144,CRWD,"Crowdstrike Holdings, Inc.",proposed sale $7.11M,7110960,,https://www.sec.gov/Archives/edgar/data/1778564/000196858226001095/0001968582-26-001095-index.htm,LOW
