@@ -1816,3 +1816,7 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-11-02T19:16:33+00:00,2026-10-29,BBT,Beacon Financial Corp,Hughes William H III,Director,200,30.73,6146,1.2,0001628280-26-068788
 2026-11-02T21:11:36+00:00,2026-11-02,BBTX,"Bambusa Therapeutics, Inc.",Salvia Investment GmbH,10% owner,375000,16.00,6000000,4.2,0002162499-26-000004
 2026-11-02T21:11:38+00:00,2026-11-02,BBTX,"Bambusa Therapeutics, Inc.",Jeggle Helmut Wolfgang,"Director, 10% owner",375000,16.00,6000000,4.2,0001982614-26-000004
+2026-11-02T21:16:33+00:00,2026-10-29,CRBG,"Corebridge Financial, Inc.",NIPPON LIFE INSURANCE CO,10% owner,246521,35.50,8750953,0.2,0001193125-26-443677
+2026-11-02T21:16:36+00:00,2026-10-30,SEVN,Seven Hills Realty Trust,Lorenzini Thomas J.,President and CIO,5000,6.59,32950,8.8,0001104659-26-121335
+2026-11-02T21:16:38+00:00,2026-10-30,SEVN,Seven Hills Realty Trust,Jordan Matthew P.,Director,10000,6.56,65600,8.5,0001104659-26-121333
+2026-11-02T21:16:40+00:00,2026-10-30,ATLO,AMES NATIONAL CORP,Cassabaum Michelle R,Director,48,33.66,1615,0.5,0001773399-26-000008
