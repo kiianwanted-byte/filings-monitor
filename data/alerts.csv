@@ -5507,3 +5507,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-02T19:26:40+00:00,FORM_144,BLLN,"BillionToOne, Inc.",proposed sale $321K,320723,,https://www.sec.gov/Archives/edgar/data/2087126/000195917326007622/0001959173-26-007622-index.htm,LOW
 2026-11-02T19:31:46+00:00,FORM_144,SHW,SHERWIN WILLIAMS CO,proposed sale $1.36M,1363502,,https://www.sec.gov/Archives/edgar/data/1368800/000195917326007623/0001959173-26-007623-index.htm,LOW
 2026-11-02T19:46:33+00:00,FORM_144,SNOW,Snowflake Inc.,proposed sale $3.06M,3060100,,https://www.sec.gov/Archives/edgar/data/1979088/000195917326007624/0001959173-26-007624-index.htm,LOW
+2026-11-02T19:56:44+00:00,FORM_144,CME,CME GROUP INC.,proposed sale $606K,606004,,https://www.sec.gov/Archives/edgar/data/1212853/000195917326007626/0001959173-26-007626-index.htm,LOW
+2026-11-02T19:56:45+00:00,FORM_144,ADP,AUTOMATIC DATA PROCESSING INC,proposed sale $2.25M,2246100,,https://www.sec.gov/Archives/edgar/data/1487699/000195917326007625/0001959173-26-007625-index.htm,LOW
+2026-11-02T19:56:45+00:00,FORM_144,TENB,"Tenable Holdings, Inc.",proposed sale $731K,730961,,https://www.sec.gov/Archives/edgar/data/1660280/000196530126000169/0001965301-26-000169-index.htm,LOW
