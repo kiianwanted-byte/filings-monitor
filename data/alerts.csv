@@ -5464,3 +5464,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-02T16:01:33+00:00,FORM_144,PBF,PBF Energy Inc.,proposed sale $193K,193412,,https://www.sec.gov/Archives/edgar/data/2090605/000195917326007590/0001959173-26-007590-index.htm,LOW
 2026-11-02T16:06:39+00:00,FORM_144,TRU,TransUnion,proposed sale $78K,77740,,https://www.sec.gov/Archives/edgar/data/1879101/000195917326007591/0001959173-26-007591-index.htm,LOW
 2026-11-02T16:11:39+00:00,FORM_144,EXLS,"ExlService Holdings, Inc.",proposed sale $453K,453420,,https://www.sec.gov/Archives/edgar/data/1373633/000195917326007592/0001959173-26-007592-index.htm,LOW
+2026-11-02T16:16:44+00:00,FORM_144,GNRC,GENERAC HOLDINGS INC.,proposed sale $1.00M,1003050,,https://www.sec.gov/Archives/edgar/data/1483001/000195917326007594/0001959173-26-007594-index.htm,LOW
+2026-11-02T16:16:45+00:00,FORM_144,CBLL,"Ceribell, Inc.",proposed sale $132K,131753,,https://www.sec.gov/Archives/edgar/data/2036112/000195917326007593/0001959173-26-007593-index.htm,LOW
+2026-11-02T16:16:45+00:00,FORM_144,ACEL,Accel Entertainment Inc.,proposed sale $300K,300000,,https://www.sec.gov/Archives/edgar/data/1794567/000162828026068710/0001628280-26-068710-index.htm,LOW
