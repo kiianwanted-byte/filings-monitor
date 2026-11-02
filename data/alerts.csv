@@ -5667,3 +5667,9 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-02T21:46:38+00:00,FORM_144,HZEN,GRAYSCALE HORIZEN TRUST (ZEN),proposed sale $4K,3810,,https://www.sec.gov/Archives/edgar/data/1748945/000165253626000048/0001652536-26-000048-index.htm,LOW
 2026-11-02T21:46:39+00:00,FORM_144,HAS,"HASBRO, INC.",proposed sale $2.56M,2555552,,https://www.sec.gov/Archives/edgar/data/1828057/000195004726010591/0001950047-26-010591-index.htm,LOW
 2026-11-02T21:46:40+00:00,STAKE_13D,,"GREENLIGHT CAPITAL RE, LTD.","GREENLIGHT CAPITAL RE, LTD. 0.0%",,,https://www.sec.gov/Archives/edgar/data/1385613/000092963826004184/0000929638-26-004184-index.htm,HIGH
+2026-11-02T21:51:43+00:00,FORM_144,CUBI,"Customers Bancorp, Inc.",proposed sale $473K,473440,,https://www.sec.gov/Archives/edgar/data/1749928/000196922326001118/0001969223-26-001118-index.htm,LOW
+2026-11-02T21:51:44+00:00,FORM_144,CRWD,"CrowdStrike Holdings, Inc.",proposed sale $1.94M,1943442,,https://www.sec.gov/Archives/edgar/data/1778610/000195917326007656/0001959173-26-007656-index.htm,LOW
+2026-11-02T21:51:44+00:00,FORM_144,CME,CME GROUP INC.,proposed sale $3.08M,3075614,,https://www.sec.gov/Archives/edgar/data/1692514/000195004726010593/0001950047-26-010593-index.htm,LOW
+2026-11-02T21:51:45+00:00,FORM_144,VRSK,"Verisk Analytics, Inc.",proposed sale $1.68M,1676753,,https://www.sec.gov/Archives/edgar/data/1803783/000196430626000492/0001964306-26-000492-index.htm,LOW
+2026-11-02T21:51:45+00:00,FORM_144,KEX,Kirby Corporation,proposed sale $2.59M,2587493,,https://www.sec.gov/Archives/edgar/data/1483620/000162828026068928/0001628280-26-068928-index.htm,LOW
+2026-11-02T21:51:46+00:00,FORM_144,ADP,AUTOMATIC DATA PROCESSING INC,proposed sale $3.39M,3392101,,https://www.sec.gov/Archives/edgar/data/1378514/000195917326007654/0001959173-26-007654-index.htm,LOW
