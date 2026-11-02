@@ -5683,3 +5683,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-02T22:01:48+00:00,FORM_144,HIG,"HARTFORD INSURANCE GROUP, INC.",proposed sale $4.29M,4289292,,https://www.sec.gov/Archives/edgar/data/1399852/000195917326007660/0001959173-26-007660-index.htm,LOW
 2026-11-02T22:01:48+00:00,FORM_144,MHK,MOHAWK INDUSTRIES INC,proposed sale $450K,450043,,https://www.sec.gov/Archives/edgar/data/1271373/000001179026000039/0000011790-26-000039-index.htm,LOW
 2026-11-02T22:06:41+00:00,FORM_144,PBF,PBF Energy Inc,proposed sale $1.34M,1339073,,https://www.sec.gov/Archives/edgar/data/1534504/000196922326001119/0001969223-26-001119-index.htm,LOW
+2026-11-02T22:11:53+00:00,FORM_144,MHK,MOHAWK INDUSTRIES INC,proposed sale $1.48M,1483444,,https://www.sec.gov/Archives/edgar/data/925177/000001179026000040/0000011790-26-000040-index.htm,LOW
+2026-11-02T22:11:54+00:00,FORM_144,MUSA,Murphy USA Inc.,proposed sale $753K,752850,,https://www.sec.gov/Archives/edgar/data/1583749/000195917326007663/0001959173-26-007663-index.htm,LOW
+2026-11-02T22:11:55+00:00,FORM_144,ACU,ACME UNITED CORP,proposed sale $200K,200305,,https://www.sec.gov/Archives/edgar/data/1223199/000195917326007662/0001959173-26-007662-index.htm,LOW
