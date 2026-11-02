@@ -5686,3 +5686,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-02T22:11:53+00:00,FORM_144,MHK,MOHAWK INDUSTRIES INC,proposed sale $1.48M,1483444,,https://www.sec.gov/Archives/edgar/data/925177/000001179026000040/0000011790-26-000040-index.htm,LOW
 2026-11-02T22:11:54+00:00,FORM_144,MUSA,Murphy USA Inc.,proposed sale $753K,752850,,https://www.sec.gov/Archives/edgar/data/1583749/000195917326007663/0001959173-26-007663-index.htm,LOW
 2026-11-02T22:11:55+00:00,FORM_144,ACU,ACME UNITED CORP,proposed sale $200K,200305,,https://www.sec.gov/Archives/edgar/data/1223199/000195917326007662/0001959173-26-007662-index.htm,LOW
+2026-11-02T22:16:34+00:00,INSIDER_CLUSTER,JCTC,JEWETT CAMERON TRADING CO LTD,Bradley Melinda Hodges $17K,17389,4,https://www.sec.gov/Archives/edgar/data/2141919/000153658826000044/0001536588-26-000044-index.htm,HIGH
+2026-11-02T22:16:35+00:00,FORM_144,KNSA,"Kiniksa Pharmaceuticals International, plc",proposed sale $3.39M,3390075,,https://www.sec.gov/Archives/edgar/data/1835458/000192109426001138/0001921094-26-001138-index.htm,LOW
