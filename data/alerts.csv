@@ -5485,3 +5485,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-02T17:56:36+00:00,FORM_144,CBK,"Commercial Bancgroup, Inc.",proposed sale $33K,32760,,https://www.sec.gov/Archives/edgar/data/2087888/000195917326007602/0001959173-26-007602-index.htm,LOW
 2026-11-02T18:01:52+00:00,FORM_144,MTG,MGIC INVESTMENT CORP,proposed sale $855K,855000,,https://www.sec.gov/Archives/edgar/data/1687897/000195917326007605/0001959173-26-007605-index.htm,LOW
 2026-11-02T18:01:52+00:00,FORM_144,TENB,"Tenable Holdings, Inc.",proposed sale $755K,754931,,https://www.sec.gov/Archives/edgar/data/1660280/000195917326007604/0001959173-26-007604-index.htm,LOW
+2026-11-02T18:06:52+00:00,FORM_144,AJG,Arthur J. Gallagher & Co.,proposed sale $7.70M,7702773,,https://www.sec.gov/Archives/edgar/data/1222374/000195917326007607/0001959173-26-007607-index.htm,LOW
+2026-11-02T18:06:54+00:00,FORM_144,EPAC,ENERPAC TOOL GROUP CORP,proposed sale $198K,198240,,https://www.sec.gov/Archives/edgar/data/1912161/000195917326007606/0001959173-26-007606-index.htm,LOW
