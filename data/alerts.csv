@@ -5462,3 +5462,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-02T15:51:50+00:00,FORM_144,FOA,Finance of America Companies Inc.,proposed sale $8K,7890,,https://www.sec.gov/Archives/edgar/data/1971552/000195779926000190/0001957799-26-000190-index.htm,LOW
 2026-11-02T15:56:33+00:00,FORM_144,MARA,"MARA Holdings, Inc.",proposed sale $187K,186758,,https://www.sec.gov/Archives/edgar/data/1567383/000195917326007589/0001959173-26-007589-index.htm,LOW
 2026-11-02T16:01:33+00:00,FORM_144,PBF,PBF Energy Inc.,proposed sale $193K,193412,,https://www.sec.gov/Archives/edgar/data/2090605/000195917326007590/0001959173-26-007590-index.htm,LOW
+2026-11-02T16:06:39+00:00,FORM_144,TRU,TransUnion,proposed sale $78K,77740,,https://www.sec.gov/Archives/edgar/data/1879101/000195917326007591/0001959173-26-007591-index.htm,LOW
