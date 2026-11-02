@@ -5549,3 +5549,22 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-02T21:07:16+00:00,FORM_144,BETA,"BETA Technologies, Inc.",proposed sale $207K,206860,,https://www.sec.gov/Archives/edgar/data/2090083/000195917326007643/0001959173-26-007643-index.htm,LOW
 2026-11-02T21:07:17+00:00,FORM_144,GWRE,"GUIDEWIRE SOFTWARE, INC.",proposed sale $192K,192192,,https://www.sec.gov/Archives/edgar/data/1784996/000195004726010522/0001950047-26-010522-index.htm,LOW
 2026-11-02T21:07:18+00:00,FORM_144,DOV,Dover Corporation,proposed sale $19.00M,19000000,,https://www.sec.gov/Archives/edgar/data/1681915/000162828026068860/0001628280-26-068860-index.htm,LOW
+2026-11-02T21:11:38+00:00,INSIDER_CLUSTER,BBTX,"Bambusa Therapeutics, Inc.",Jeggle Helmut Wolfgang $6.00M,6000000,0,https://www.sec.gov/Archives/edgar/data/2044950/000198261426000004/0001982614-26-000004-index.htm,HIGH
+2026-11-02T21:11:41+00:00,FORM_144,META,"Meta Platforms, Inc.",proposed sale $967K,967286,,https://www.sec.gov/Archives/edgar/data/1564475/000192109426001133/0001921094-26-001133-index.htm,LOW
+2026-11-02T21:11:41+00:00,FORM_144,ICLR,ICON PUBLIC LIMITED COMPANY,proposed sale $710K,709955,,https://www.sec.gov/Archives/edgar/data/1973437/000195004726010537/0001950047-26-010537-index.htm,LOW
+2026-11-02T21:11:42+00:00,FORM_144,GDDY,GODADDY INC.,proposed sale $530K,530100,,https://www.sec.gov/Archives/edgar/data/1753365/000195004726010536/0001950047-26-010536-index.htm,LOW
+2026-11-02T21:11:42+00:00,FORM_144,LBRT,Liberty Energy Inc.,proposed sale $56K,55794,,https://www.sec.gov/Archives/edgar/data/1705066/000192109426001132/0001921094-26-001132-index.htm,LOW
+2026-11-02T21:11:43+00:00,FORM_144,ROKU,"ROKU, INC.",proposed sale $87K,86906,,https://www.sec.gov/Archives/edgar/data/1959033/000195004726010535/0001950047-26-010535-index.htm,LOW
+2026-11-02T21:11:43+00:00,FORM_144,VSAT,"VIASAT, INC.",proposed sale $154K,154040,,https://www.sec.gov/Archives/edgar/data/1992819/000195004726010534/0001950047-26-010534-index.htm,LOW
+2026-11-02T21:11:44+00:00,FORM_144,IOT,Samsara Inc.,proposed sale $1.23M,1228167,,https://www.sec.gov/Archives/edgar/data/1895148/000192109426001131/0001921094-26-001131-index.htm,LOW
+2026-11-02T21:11:44+00:00,FORM_144,REPL,Replimune Group Inc.,proposed sale $293K,292875,,https://www.sec.gov/Archives/edgar/data/1737953/000196858226001089/0001968582-26-001089-index.htm,LOW
+2026-11-02T21:11:45+00:00,FORM_144,AXS,AXIS CAPITAL HOLDINGS LIMITED,proposed sale $519K,519367,,https://www.sec.gov/Archives/edgar/data/1285737/000195004726010533/0001950047-26-010533-index.htm,LOW
+2026-11-02T21:11:45+00:00,FORM_144,CVX,CHEVRON CORPORATION,proposed sale $5.64M,5638275,,https://www.sec.gov/Archives/edgar/data/1960732/000195004726010532/0001950047-26-010532-index.htm,LOW
+2026-11-02T21:11:46+00:00,FORM_144,DOW,DOW INC.,proposed sale $135K,135319,,https://www.sec.gov/Archives/edgar/data/2017014/000195004726010531/0001950047-26-010531-index.htm,LOW
+2026-11-02T21:11:46+00:00,FORM_144,WING,WINGSTOP INC.,proposed sale $409K,409025,,https://www.sec.gov/Archives/edgar/data/1973855/000195004726010530/0001950047-26-010530-index.htm,LOW
+2026-11-02T21:11:47+00:00,FORM_144,BLND,"Blend Labs, Inc.",proposed sale $26K,25784,,https://www.sec.gov/Archives/edgar/data/1870974/000192109426001130/0001921094-26-001130-index.htm,LOW
+2026-11-02T21:11:47+00:00,FORM_144,PCVX,"Vaxcyte, Inc.",proposed sale $186K,185640,,https://www.sec.gov/Archives/edgar/data/1960048/000196922326001113/0001969223-26-001113-index.htm,LOW
+2026-11-02T21:11:48+00:00,FORM_144,NTRA,"NATERA, INC.",proposed sale $45K,44744,,https://www.sec.gov/Archives/edgar/data/1646649/000164664926000042/0001646649-26-000042-index.htm,LOW
+2026-11-02T21:11:48+00:00,FORM_144,NTRA,"NATERA, INC.",proposed sale $299K,299124,,https://www.sec.gov/Archives/edgar/data/1646382/000164638226000028/0001646382-26-000028-index.htm,LOW
+2026-11-02T21:11:49+00:00,FORM_144,CRML,Critical Metals Corp.,proposed sale $452K,452002,,https://www.sec.gov/Archives/edgar/data/2088934/000010362326000046/0000103623-26-000046-index.htm,LOW
+2026-11-02T21:11:49+00:00,FORM_144,ICLR,ICON PUBLIC LIMITED COMPANY,proposed sale $1.07M,1069434,,https://www.sec.gov/Archives/edgar/data/2058614/000195004726010529/0001950047-26-010529-index.htm,LOW
