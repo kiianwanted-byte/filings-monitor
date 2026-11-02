@@ -5607,3 +5607,17 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-02T21:26:44+00:00,FORM_144,ATOM,ATOMERA INCORPORATED,proposed sale $3K,3400,,https://www.sec.gov/Archives/edgar/data/1680617/000195004726010556/0001950047-26-010556-index.htm,LOW
 2026-11-02T21:26:45+00:00,FORM_144,V,VISA INC.,proposed sale $14.64M,14642402,,https://www.sec.gov/Archives/edgar/data/1532601/000196430626000486/0001964306-26-000486-index.htm,LOW
 2026-11-02T21:26:45+00:00,FORM_144,COLM,COLUMBIA SPORTSWEAR COMPANY,proposed sale $470K,469533,,https://www.sec.gov/Archives/edgar/data/1818109/000195004726010555/0001950047-26-010555-index.htm,LOW
+2026-11-02T21:31:52+00:00,FORM_144,TENB,"Tenable Holdings, Inc.",proposed sale $510K,510000,,https://www.sec.gov/Archives/edgar/data/1660280/000195917326007650/0001959173-26-007650-index.htm,LOW
+2026-11-02T21:31:53+00:00,FORM_144,FLYW,Flywire Corp,proposed sale $391K,390501,,https://www.sec.gov/Archives/edgar/data/2013285/000195917326007649/0001959173-26-007649-index.htm,LOW
+2026-11-02T21:31:53+00:00,FORM_144,CXM,SPRINKLR INC,proposed sale $112K,111731,,https://www.sec.gov/Archives/edgar/data/1967575/000195004726010563/0001950047-26-010563-index.htm,LOW
+2026-11-02T21:31:54+00:00,FORM_144,FTNT,"FORTINET, INC.",proposed sale $425K,424705,,https://www.sec.gov/Archives/edgar/data/1475586/000195004726010562/0001950047-26-010562-index.htm,LOW
+2026-11-02T21:31:54+00:00,FORM_144,BROS,"DUTCH BROS, INC.",proposed sale $14.37M,14367280,,https://www.sec.gov/Archives/edgar/data/1883096/000195004726010561/0001950047-26-010561-index.htm,LOW
+2026-11-02T21:31:55+00:00,FORM_144,PSMT,"PRICESMART, INC.",proposed sale $1.99M,1990852,,https://www.sec.gov/Archives/edgar/data/1235793/000195004726010560/0001950047-26-010560-index.htm,LOW
+2026-11-02T21:31:55+00:00,FORM_144,BROS,"DUTCH BROS, INC.",proposed sale $26.91M,26909156,,https://www.sec.gov/Archives/edgar/data/1883105/000195004726010559/0001950047-26-010559-index.htm,MEDIUM
+2026-11-02T21:31:56+00:00,FORM_144,QLYS,QUALYS INC,proposed sale $596K,595935,,https://www.sec.gov/Archives/edgar/data/1814777/000195004726010558/0001950047-26-010558-index.htm,LOW
+2026-11-02T21:31:57+00:00,FORM_144,LARK,LANDMARK BANCORP INC,proposed sale $32K,32500,,https://www.sec.gov/Archives/edgar/data/1141688/000100027526000117/0001000275-26-000117-index.htm,LOW
+2026-11-02T21:31:57+00:00,FORM_144,PEGA,Pegasystems Inc.,proposed sale $34K,34029,,https://www.sec.gov/Archives/edgar/data/1684701/000162828026068902/0001628280-26-068902-index.htm,LOW
+2026-11-02T21:31:58+00:00,FORM_144,VRSK,"Verisk Analytics, Inc.",proposed sale $688K,688405,,https://www.sec.gov/Archives/edgar/data/1521495/000196430626000489/0001964306-26-000489-index.htm,LOW
+2026-11-02T21:31:58+00:00,FORM_144,FLD,"Fold Holdings, Inc.",proposed sale $3K,2524,,https://www.sec.gov/Archives/edgar/data/2057455/000195917326007648/0001959173-26-007648-index.htm,LOW
+2026-11-02T21:31:59+00:00,FORM_144,JAZZ,Jazz Pharmaceuticals Plc,proposed sale $1.30M,1295040,,https://www.sec.gov/Archives/edgar/data/1232524/000162828026068899/0001628280-26-068899-index.htm,LOW
+2026-11-02T21:31:59+00:00,FORM_144,PMT,PennyMac Mortgage Investment Trust,proposed sale $19K,18884,,https://www.sec.gov/Archives/edgar/data/1486334/000196430626000488/0001964306-26-000488-index.htm,LOW
