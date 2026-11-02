@@ -1809,3 +1809,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-11-02T13:51:33+00:00,2026-10-30,STIM,"Neuronetics, Inc.",Chernett Jorey,10% owner,18000,2.27,40860,0.2,0000921895-26-002891
 2026-11-02T13:56:36+00:00,2026-10-30,ANIX,Anixa Biosciences Inc,KUMAR AMIT,"Director, Chief Executive Officer",5000,3.17,15850,0.7,0001493152-26-049574
 2026-11-02T14:01:31+00:00,2026-10-30,UXIN,Uxin Ltd,Dai Kun,"Director, Chief Executive Officer",4800,0.91,4382,3.3,0001493152-26-049576
+2026-11-02T15:26:36+00:00,2026-10-30,BLX,"BLADEX, INC.",Diaz Adriana Lizzeth,Chief Audit Officer,1792,52.39,93882,13.5,0000890541-26-000014
