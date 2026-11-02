@@ -5497,3 +5497,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-02T18:51:44+00:00,FORM_144,CARG,"CarGurus, Inc.",proposed sale $323K,323300,,https://www.sec.gov/Archives/edgar/data/1718790/000195917326007615/0001959173-26-007615-index.htm,LOW
 2026-11-02T18:51:44+00:00,FORM_144,ADI,ANALOG DEVICES INC,proposed sale $4.25M,4254600,,https://www.sec.gov/Archives/edgar/data/1201872/000195917326007614/0001959173-26-007614-index.htm,LOW
 2026-11-02T18:56:38+00:00,FORM_144,LIN,LINDE PLC,proposed sale $4.85M,4851825,,https://www.sec.gov/Archives/edgar/data/1707925/000195917326007616/0001959173-26-007616-index.htm,LOW
+2026-11-02T19:01:39+00:00,FORM_144,PG,PROCTER & GAMBLE Co,proposed sale $1.55M,1546925,,https://www.sec.gov/Archives/edgar/data/1910008/000008042426000266/0000080424-26-000266-index.htm,LOW
+2026-11-02T19:01:40+00:00,FORM_144,NEGG,"Newegg Commerce, Inc.",proposed sale $575,575,,https://www.sec.gov/Archives/edgar/data/1966016/000195917326007618/0001959173-26-007618-index.htm,LOW
+2026-11-02T19:01:40+00:00,FORM_144,WRLD,WORLD ACCEPTANCE CORP,proposed sale $15K,14878,,https://www.sec.gov/Archives/edgar/data/1674621/000195917326007617/0001959173-26-007617-index.htm,LOW
