@@ -5445,3 +5445,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-10-31T00:26:36+00:00,FORM_144,AMAL,Amalgamated Financial Corp.,proposed sale $8.41M,8411760,,https://www.sec.gov/Archives/edgar/data/2008869/000090266426004337/0000902664-26-004337-index.htm,LOW
 2026-10-31T01:31:31+00:00,STAKE_13D,,"JANA Partners Management, LP", 0.0%,,,https://www.sec.gov/Archives/edgar/data/1998597/000090266426004338/0000902664-26-004338-index.htm,HIGH
 2026-11-02T11:11:29+00:00,FORM_144,RDWR,RADWARE LTD,proposed sale $70K,70312,,https://www.sec.gov/Archives/edgar/data/2029762/000197640826000922/0001976408-26-000922-index.htm,LOW
+2026-11-02T12:31:29+00:00,INSIDER_CLUSTER,STKH,Steakholder Foods Ltd.,Kaiser Yaron $23K,23190,4,https://www.sec.gov/Archives/edgar/data/1969335/000121390026114660/0001213900-26-114660-index.htm,HIGH
