@@ -5706,3 +5706,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-02T22:31:54+00:00,FORM_144,LHX,"L3Harris Technologies, Inc.",proposed sale $4.18M,4175895,,https://www.sec.gov/Archives/edgar/data/1194001/000195824426000683/0001958244-26-000683-index.htm,LOW
 2026-11-02T22:41:37+00:00,FORM_144,MAX,"MediaAlpha, Inc.",proposed sale $5.88M,5883366,,https://www.sec.gov/Archives/edgar/data/1829946/000192109426001141/0001921094-26-001141-index.htm,LOW
 2026-11-02T22:41:38+00:00,FORM_144,MAX,"MediaAlpha, Inc.",proposed sale $9.34M,9336763,,https://www.sec.gov/Archives/edgar/data/1830016/000192109426001140/0001921094-26-001140-index.htm,LOW
+2026-11-02T22:46:30+00:00,INSIDER_BUY,ROL,ROLLINS INC,LOR INC $49.96M,49956665,4,https://www.sec.gov/Archives/edgar/data/1212243/000110465926121502/0001104659-26-121502-index.htm,HIGH
