@@ -5493,3 +5493,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-02T18:31:46+00:00,FORM_144,HAYW,"Hayward Holdings, Inc.",proposed sale $42K,41800,,https://www.sec.gov/Archives/edgar/data/1834622/000195917326007611/0001959173-26-007611-index.htm,LOW
 2026-11-02T18:36:33+00:00,FORM_144,NEM,NEWMONT Corp /DE/,proposed sale $419K,419411,,https://www.sec.gov/Archives/edgar/data/1994131/000195917326007612/0001959173-26-007612-index.htm,LOW
 2026-11-02T18:36:33+00:00,FORM_144,MDB,"MongoDB, Inc.",proposed sale $3.49M,3487942,,https://www.sec.gov/Archives/edgar/data/1441816/000195779926000191/0001957799-26-000191-index.htm,LOW
+2026-11-02T18:40:43+00:00,FORM_144,COUR,"Coursera, Inc.",proposed sale $37K,36994,,https://www.sec.gov/Archives/edgar/data/1847374/000195917326007613/0001959173-26-007613-index.htm,LOW
