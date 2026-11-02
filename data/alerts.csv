@@ -5471,3 +5471,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-02T16:52:17+00:00,FORM_144,OBIO,"Orchestra BioMed Holdings, Inc.",proposed sale $89K,88800,,https://www.sec.gov/Archives/edgar/data/1814114/000195917326007595/0001959173-26-007595-index.htm,LOW
 2026-11-02T16:52:18+00:00,FORM_144,FSBC,FIVE STAR BANCORP,proposed sale $185K,184733,,https://www.sec.gov/Archives/edgar/data/1857830/000185783026000002/0001857830-26-000002-index.htm,LOW
 2026-11-02T16:52:18+00:00,FORM_144,CUBE,CubeSmart,proposed sale $1.60M,1599663,,https://www.sec.gov/Archives/edgar/data/1298675/000194984626000628/0001949846-26-000628-index.htm,LOW
+2026-11-02T16:56:33+00:00,FORM_144,LRCX,LAM RESEARCH CORP,proposed sale $174K,174422,,https://www.sec.gov/Archives/edgar/data/1405693/000195917326007596/0001959173-26-007596-index.htm,LOW
