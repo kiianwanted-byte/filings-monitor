@@ -5502,3 +5502,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-02T19:01:40+00:00,FORM_144,WRLD,WORLD ACCEPTANCE CORP,proposed sale $15K,14878,,https://www.sec.gov/Archives/edgar/data/1674621/000195917326007617/0001959173-26-007617-index.htm,LOW
 2026-11-02T19:11:37+00:00,FORM_144,CARG,"CarGurus, Inc.",proposed sale $63K,63496,,https://www.sec.gov/Archives/edgar/data/2010096/000195917326007620/0001959173-26-007620-index.htm,LOW
 2026-11-02T19:11:38+00:00,FORM_144,CHWY,"Chewy, Inc.",proposed sale $492K,492242,,https://www.sec.gov/Archives/edgar/data/1777164/000195917326007619/0001959173-26-007619-index.htm,LOW
+2026-11-02T19:16:36+00:00,FORM_144,LKFN,Lakeland Financial Corp,proposed sale $1.37M,1369577,,https://www.sec.gov/Archives/edgar/data/2070264/000207026426000011/0002070264-26-000011-index.htm,LOW
+2026-11-02T19:16:37+00:00,FORM_144,CHWY,"Chewy, Inc.",proposed sale $69K,69079,,https://www.sec.gov/Archives/edgar/data/1777164/000195917326007621/0001959173-26-007621-index.htm,LOW
