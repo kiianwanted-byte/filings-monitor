@@ -1801,3 +1801,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-10-30T23:26:35+00:00,2026-10-28,LYCA,"Lycia Therapeutics, Inc.","Venrock Healthcare Capital Partners III, L.P.",10% owner,25004,25.78,644711,0.4,0001231919-26-001519
 2026-10-30T23:36:33+00:00,2026-10-28,RAPP,"Rapport Therapeutics, Inc.",HEALY JAMES,Director,969480,21.00,20359080,NEW,0001104659-26-120789
 2026-10-31T01:11:32+00:00,2026-10-28,SNES,"SenesTech, Inc.",GLENBROOK CAPITAL MANAGEMENT,10% owner,30000,0.97,29056,1.4,0001731122-26-001386
+2026-11-02T11:21:31+00:00,2026-10-29,API,"Agora, Inc.",Zhao Bin,"Director, Chief Executive Officer",18524,4.41,81722,0.8,0001193125-26-442557
