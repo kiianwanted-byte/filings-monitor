@@ -5659,3 +5659,11 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-02T21:41:59+00:00,FORM_144,RBRK,RUBRIK INC,proposed sale $621K,620750,,https://www.sec.gov/Archives/edgar/data/1943896/000195004726010575/0001950047-26-010575-index.htm,LOW
 2026-11-02T21:42:00+00:00,FORM_144,MA,Mastercard Incorporated,proposed sale $2.75M,2754289,,https://www.sec.gov/Archives/edgar/data/1923565/000195004726010574/0001950047-26-010574-index.htm,LOW
 2026-11-02T21:42:00+00:00,FORM_144,PLTR,Palantir Technologies Inc.,proposed sale $250K,250021,,https://www.sec.gov/Archives/edgar/data/1840244/000195004726010573/0001950047-26-010573-index.htm,LOW
+2026-11-02T21:46:36+00:00,FORM_144,CVEO,Civeo Corp,proposed sale $866K,865623,,https://www.sec.gov/Archives/edgar/data/1590584/000197407826000394/0001974078-26-000394-index.htm,LOW
+2026-11-02T21:46:37+00:00,FORM_144,KNTK,Kinetik Holdings Inc.,proposed sale $175K,174915,,https://www.sec.gov/Archives/edgar/data/1904934/000090514826004611/0000905148-26-004611-index.htm,LOW
+2026-11-02T21:46:37+00:00,FORM_144,MORN,"Morningstar, Inc.",proposed sale $23.31M,23305820,,https://www.sec.gov/Archives/edgar/data/1324069/000192109426001137/0001921094-26-001137-index.htm,LOW
+2026-11-02T21:46:38+00:00,FORM_144,IBTA,"Ibotta, Inc.",proposed sale $36K,36007,,https://www.sec.gov/Archives/edgar/data/2017890/000195917326007652/0001959173-26-007652-index.htm,LOW
+2026-11-02T21:46:38+00:00,FORM_144,RKLB,Rocket Lab Corporation,proposed sale $598K,597979,,https://www.sec.gov/Archives/edgar/data/1991365/000195004726010592/0001950047-26-010592-index.htm,LOW
+2026-11-02T21:46:38+00:00,FORM_144,HZEN,GRAYSCALE HORIZEN TRUST (ZEN),proposed sale $4K,3810,,https://www.sec.gov/Archives/edgar/data/1748945/000165253626000048/0001652536-26-000048-index.htm,LOW
+2026-11-02T21:46:39+00:00,FORM_144,HAS,"HASBRO, INC.",proposed sale $2.56M,2555552,,https://www.sec.gov/Archives/edgar/data/1828057/000195004726010591/0001950047-26-010591-index.htm,LOW
+2026-11-02T21:46:40+00:00,STAKE_13D,,"GREENLIGHT CAPITAL RE, LTD.","GREENLIGHT CAPITAL RE, LTD. 0.0%",,,https://www.sec.gov/Archives/edgar/data/1385613/000092963826004184/0000929638-26-004184-index.htm,HIGH
