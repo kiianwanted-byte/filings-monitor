@@ -5519,3 +5519,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-02T20:21:56+00:00,FORM_144,VLTO,Veralto Corp,proposed sale $170K,170446,,https://www.sec.gov/Archives/edgar/data/1967680/000195917326007632/0001959173-26-007632-index.htm,LOW
 2026-11-02T20:21:56+00:00,FORM_144,SEV,Aptera Motors Corp,proposed sale $11K,10811,,https://www.sec.gov/Archives/edgar/data/2093241/000195917326007631/0001959173-26-007631-index.htm,LOW
 2026-11-02T20:31:32+00:00,FORM_144,JELD,"JELD-WEN Holding, Inc.",proposed sale $21K,20643,,https://www.sec.gov/Archives/edgar/data/2053463/000195917326007633/0001959173-26-007633-index.htm,LOW
+2026-11-02T20:36:36+00:00,FORM_144,SEV,Aptera Motors Corp,proposed sale $11K,10811,,https://www.sec.gov/Archives/edgar/data/1786471/000195917326007635/0001959173-26-007635-index.htm,LOW
+2026-11-02T20:36:36+00:00,FORM_144,VIR,"Vir Biotechnology, Inc.",proposed sale $15K,15221,,https://www.sec.gov/Archives/edgar/data/2036234/000195917326007634/0001959173-26-007634-index.htm,LOW
