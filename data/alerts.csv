@@ -5688,3 +5688,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-02T22:11:55+00:00,FORM_144,ACU,ACME UNITED CORP,proposed sale $200K,200305,,https://www.sec.gov/Archives/edgar/data/1223199/000195917326007662/0001959173-26-007662-index.htm,LOW
 2026-11-02T22:16:34+00:00,INSIDER_CLUSTER,JCTC,JEWETT CAMERON TRADING CO LTD,Bradley Melinda Hodges $17K,17389,4,https://www.sec.gov/Archives/edgar/data/2141919/000153658826000044/0001536588-26-000044-index.htm,HIGH
 2026-11-02T22:16:35+00:00,FORM_144,KNSA,"Kiniksa Pharmaceuticals International, plc",proposed sale $3.39M,3390075,,https://www.sec.gov/Archives/edgar/data/1835458/000192109426001138/0001921094-26-001138-index.htm,LOW
+2026-11-02T22:21:37+00:00,FORM_144,NOC,Northrop Grumman Corporation,proposed sale $109K,109277,,https://www.sec.gov/Archives/edgar/data/1692554/000196858226001092/0001968582-26-001092-index.htm,LOW
+2026-11-02T22:21:37+00:00,FORM_144,REGN,"Regeneron Pharmaceuticals, Inc.",proposed sale $7.53M,7526665,,https://www.sec.gov/Archives/edgar/data/1189014/000195824426000681/0001958244-26-000681-index.htm,LOW
+2026-11-02T22:21:38+00:00,FORM_144,HMN,HORACE MANN EDUCATORS CORP /DE/,proposed sale $354K,353973,,https://www.sec.gov/Archives/edgar/data/1198960/000195917326007664/0001959173-26-007664-index.htm,LOW
