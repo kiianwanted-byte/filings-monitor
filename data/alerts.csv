@@ -5491,3 +5491,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-02T18:21:37+00:00,FORM_144,OKLO,Oklo Inc.,proposed sale $427K,427374,,https://www.sec.gov/Archives/edgar/data/1855623/000195917326007610/0001959173-26-007610-index.htm,LOW
 2026-11-02T18:21:37+00:00,FORM_144,NEM,NEWMONT Corp /DE/,proposed sale $324K,324120,,https://www.sec.gov/Archives/edgar/data/1936354/000195917326007609/0001959173-26-007609-index.htm,LOW
 2026-11-02T18:31:46+00:00,FORM_144,HAYW,"Hayward Holdings, Inc.",proposed sale $42K,41800,,https://www.sec.gov/Archives/edgar/data/1834622/000195917326007611/0001959173-26-007611-index.htm,LOW
+2026-11-02T18:36:33+00:00,FORM_144,NEM,NEWMONT Corp /DE/,proposed sale $419K,419411,,https://www.sec.gov/Archives/edgar/data/1994131/000195917326007612/0001959173-26-007612-index.htm,LOW
+2026-11-02T18:36:33+00:00,FORM_144,MDB,"MongoDB, Inc.",proposed sale $3.49M,3487942,,https://www.sec.gov/Archives/edgar/data/1441816/000195779926000191/0001957799-26-000191-index.htm,LOW
