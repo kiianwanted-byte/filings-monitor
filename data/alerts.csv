@@ -5522,3 +5522,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-02T20:36:36+00:00,FORM_144,SEV,Aptera Motors Corp,proposed sale $11K,10811,,https://www.sec.gov/Archives/edgar/data/1786471/000195917326007635/0001959173-26-007635-index.htm,LOW
 2026-11-02T20:36:36+00:00,FORM_144,VIR,"Vir Biotechnology, Inc.",proposed sale $15K,15221,,https://www.sec.gov/Archives/edgar/data/2036234/000195917326007634/0001959173-26-007634-index.htm,LOW
 2026-11-02T20:46:36+00:00,FORM_144,DRS,"Leonardo DRS, Inc.",proposed sale $543K,542757,,https://www.sec.gov/Archives/edgar/data/1849658/000195917326007636/0001959173-26-007636-index.htm,LOW
+2026-11-02T20:51:35+00:00,FORM_144,NUE,NUCOR CORP,proposed sale $317K,317322,,https://www.sec.gov/Archives/edgar/data/1491394/000195917326007637/0001959173-26-007637-index.htm,LOW
+2026-11-02T20:51:36+00:00,FORM_144,TILE,Interface Inc.,proposed sale $313K,312510,,https://www.sec.gov/Archives/edgar/data/1094629/000162828026068840/0001628280-26-068840-index.htm,LOW
+2026-11-02T20:51:36+00:00,FORM_144,GEN,Gen Digital Inc.,proposed sale $892K,892422,,https://www.sec.gov/Archives/edgar/data/2141333/000214133326000002/0002141333-26-000002-index.htm,LOW
