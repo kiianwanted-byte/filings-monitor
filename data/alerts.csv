@@ -5528,3 +5528,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-02T20:56:34+00:00,FORM_144,FLD,"Fold Holdings, Inc.",proposed sale $639,638,,https://www.sec.gov/Archives/edgar/data/2057456/000195917326007639/0001959173-26-007639-index.htm,LOW
 2026-11-02T20:56:34+00:00,FORM_144,NEE,NEXTERA ENERGY INC,proposed sale $585K,585480,,https://www.sec.gov/Archives/edgar/data/1960457/000195917326007638/0001959173-26-007638-index.htm,LOW
 2026-11-02T20:56:34+00:00,FORM_144,KFRC,Kforce Inc.,proposed sale $704K,704200,,https://www.sec.gov/Archives/edgar/data/1034045/000103404526000009/0001034045-26-000009-index.htm,LOW
+2026-11-02T21:01:39+00:00,FORM_144,JOE,ST JOE Co,proposed sale $56K,55646,,https://www.sec.gov/Archives/edgar/data/1056831/000105683126000005/0001056831-26-000005-index.htm,LOW
+2026-11-02T21:01:40+00:00,FORM_144,PNFP,"Pinnacle Financial Partners, Inc.",proposed sale $523K,523093,,https://www.sec.gov/Archives/edgar/data/2082866/000195917326007642/0001959173-26-007642-index.htm,LOW
+2026-11-02T21:01:41+00:00,FORM_144,MCO,MOODYS CORP /DE/,proposed sale $99K,99300,,https://www.sec.gov/Archives/edgar/data/2062050/000195917326007641/0001959173-26-007641-index.htm,LOW
+2026-11-02T21:01:41+00:00,FORM_144,AJG,Arthur J. Gallagher & Co.,proposed sale $2.12M,2123074,,https://www.sec.gov/Archives/edgar/data/1737644/000195917326007640/0001959173-26-007640-index.htm,LOW
