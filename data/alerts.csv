@@ -5481,3 +5481,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-02T17:31:33+00:00,FORM_144,AGYS,AGILYSYS INC,proposed sale $111K,111476,,https://www.sec.gov/Archives/edgar/data/1820468/000195917326007599/0001959173-26-007599-index.htm,LOW
 2026-11-02T17:36:38+00:00,FORM_144,IRM,IRON MOUNTAIN INC,proposed sale $585K,584800,,https://www.sec.gov/Archives/edgar/data/1769841/000195917326007600/0001959173-26-007600-index.htm,LOW
 2026-11-02T17:41:37+00:00,FORM_144,FIBK,FIRST INTERSTATE BANCSYSTEM INC,proposed sale $118K,118104,,https://www.sec.gov/Archives/edgar/data/1198533/000195917326007601/0001959173-26-007601-index.htm,LOW
+2026-11-02T17:56:36+00:00,FORM_144,BLLN,"BillionToOne, Inc.",proposed sale $2.83M,2829363,,https://www.sec.gov/Archives/edgar/data/2088549/000195917326007603/0001959173-26-007603-index.htm,LOW
+2026-11-02T17:56:36+00:00,FORM_144,CBK,"Commercial Bancgroup, Inc.",proposed sale $33K,32760,,https://www.sec.gov/Archives/edgar/data/2087888/000195917326007602/0001959173-26-007602-index.htm,LOW
