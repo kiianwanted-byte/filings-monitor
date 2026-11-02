@@ -5511,3 +5511,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-02T19:56:45+00:00,FORM_144,ADP,AUTOMATIC DATA PROCESSING INC,proposed sale $2.25M,2246100,,https://www.sec.gov/Archives/edgar/data/1487699/000195917326007625/0001959173-26-007625-index.htm,LOW
 2026-11-02T19:56:45+00:00,FORM_144,TENB,"Tenable Holdings, Inc.",proposed sale $731K,730961,,https://www.sec.gov/Archives/edgar/data/1660280/000196530126000169/0001965301-26-000169-index.htm,LOW
 2026-11-02T20:01:36+00:00,FORM_144,CFR,"CULLEN/FROST BANKERS, INC.",proposed sale $85K,85290,,https://www.sec.gov/Archives/edgar/data/2050987/000195917326007627/0001959173-26-007627-index.htm,LOW
+2026-11-02T20:11:34+00:00,FORM_144,RVSB,RIVERVIEW BANCORP INC,proposed sale $430K,429800,,https://www.sec.gov/Archives/edgar/data/1474005/000194984626000629/0001949846-26-000629-index.htm,LOW
+2026-11-02T20:11:34+00:00,FORM_144,TMUS,"T-Mobile US, Inc.",proposed sale $17K,17422,,https://www.sec.gov/Archives/edgar/data/2066499/000195917326007629/0001959173-26-007629-index.htm,LOW
+2026-11-02T20:11:35+00:00,FORM_144,TYL,TYLER TECHNOLOGIES INC,proposed sale $277K,277140,,https://www.sec.gov/Archives/edgar/data/1673912/000195917326007628/0001959173-26-007628-index.htm,LOW
