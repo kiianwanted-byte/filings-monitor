@@ -5621,3 +5621,15 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-02T21:31:58+00:00,FORM_144,FLD,"Fold Holdings, Inc.",proposed sale $3K,2524,,https://www.sec.gov/Archives/edgar/data/2057455/000195917326007648/0001959173-26-007648-index.htm,LOW
 2026-11-02T21:31:59+00:00,FORM_144,JAZZ,Jazz Pharmaceuticals Plc,proposed sale $1.30M,1295040,,https://www.sec.gov/Archives/edgar/data/1232524/000162828026068899/0001628280-26-068899-index.htm,LOW
 2026-11-02T21:31:59+00:00,FORM_144,PMT,PennyMac Mortgage Investment Trust,proposed sale $19K,18884,,https://www.sec.gov/Archives/edgar/data/1486334/000196430626000488/0001964306-26-000488-index.htm,LOW
+2026-11-02T21:36:52+00:00,FORM_144,MDLZ,Mondelez International Inc,proposed sale $8.40M,8395767,,https://www.sec.gov/Archives/edgar/data/1536137/000195004726010572/0001950047-26-010572-index.htm,LOW
+2026-11-02T21:36:53+00:00,FORM_144,PANW,"Palo Alto Networks, Inc.",proposed sale $6.67M,6666883,,https://www.sec.gov/Archives/edgar/data/1590423/000195004726010571/0001950047-26-010571-index.htm,LOW
+2026-11-02T21:36:53+00:00,FORM_144,BC,BRUNSWICK CORP,proposed sale $16K,16273,,https://www.sec.gov/Archives/edgar/data/1193882/000195004726010570/0001950047-26-010570-index.htm,LOW
+2026-11-02T21:36:53+00:00,FORM_144,ITRI,"ITRON, INC.",proposed sale $41K,40948,,https://www.sec.gov/Archives/edgar/data/1672443/000195917326007651/0001959173-26-007651-index.htm,LOW
+2026-11-02T21:36:54+00:00,FORM_144,COLM,COLUMBIA SPORTSWEAR COMPANY,proposed sale $1.35M,1347936,,https://www.sec.gov/Archives/edgar/data/1649637/000195004726010569/0001950047-26-010569-index.htm,LOW
+2026-11-02T21:36:55+00:00,FORM_144,INDI,"INDIE SEMICONDUCTOR, INC",proposed sale $10K,10312,,https://www.sec.gov/Archives/edgar/data/2095553/000195004726010568/0001950047-26-010568-index.htm,LOW
+2026-11-02T21:36:55+00:00,FORM_144,TEM,TEMPUS AI INC,proposed sale $6K,5777,,https://www.sec.gov/Archives/edgar/data/2024250/000195004726010567/0001950047-26-010567-index.htm,LOW
+2026-11-02T21:36:56+00:00,FORM_144,V,VISA INC.,proposed sale $2.45M,2445292,,https://www.sec.gov/Archives/edgar/data/1578261/000196430626000491/0001964306-26-000491-index.htm,LOW
+2026-11-02T21:36:56+00:00,FORM_144,RKLB,Rocket Lab Corporation,proposed sale $7.67M,7670792,,https://www.sec.gov/Archives/edgar/data/1819994/000195004726010566/0001950047-26-010566-index.htm,LOW
+2026-11-02T21:36:57+00:00,FORM_144,NX,QUANEX BUILDING PRODUCTS CORPORATION,proposed sale $114K,113685,,https://www.sec.gov/Archives/edgar/data/1793319/000195004726010565/0001950047-26-010565-index.htm,LOW
+2026-11-02T21:36:57+00:00,FORM_144,NRIX,NURIX THERAPEUTICS INC,proposed sale $284K,284133,,https://www.sec.gov/Archives/edgar/data/1817199/000195004726010564/0001950047-26-010564-index.htm,LOW
+2026-11-02T21:36:58+00:00,FORM_144,AYI,ACUITY INC. (DE),proposed sale $1.30M,1295350,,https://www.sec.gov/Archives/edgar/data/1193485/000196430626000490/0001964306-26-000490-index.htm,LOW
