@@ -5453,3 +5453,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-02T14:06:35+00:00,FORM_144,NECB,"NorthEast Community Bancorp, Inc./MD/",proposed sale $281K,281000,,https://www.sec.gov/Archives/edgar/data/1847398/000197249026000022/0001972490-26-000022-index.htm,LOW
 2026-11-02T14:16:32+00:00,FORM_144,BWB,Bridgewater Bancshares Inc,proposed sale $1.31M,1313650,,https://www.sec.gov/Archives/edgar/data/1733126/000196856426000007/0001968564-26-000007-index.htm,LOW
 2026-11-02T15:01:36+00:00,FORM_144,BLLN,"BillionToOne, Inc.",proposed sale $2.27M,2266400,,https://www.sec.gov/Archives/edgar/data/2087127/000195917326007582/0001959173-26-007582-index.htm,LOW
+2026-11-02T15:11:44+00:00,FORM_144,BLLN,"BillionToOne, Inc.",proposed sale $198K,198310,,https://www.sec.gov/Archives/edgar/data/2087127/000195917326007583/0001959173-26-007583-index.htm,LOW
