@@ -5714,3 +5714,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-02T23:06:33+00:00,FORM_144,CRWD,"Crowdstrike Holdings, Inc.",proposed sale $7.11M,7110960,,https://www.sec.gov/Archives/edgar/data/1778564/000196858226001095/0001968582-26-001095-index.htm,LOW
 2026-11-02T23:21:31+00:00,FORM_144,ETSY,"Etsy, Inc.",proposed sale $3.69M,3691840,,https://www.sec.gov/Archives/edgar/data/1525358/000196858226001096/0001968582-26-001096-index.htm,LOW
 2026-11-02T23:31:33+00:00,FORM_144,ASMB,"Assembly Biosciences, Inc.",proposed sale $122K,121657,,https://www.sec.gov/Archives/edgar/data/1807214/000119312526444000/0001193125-26-444000-index.htm,LOW
+2026-11-02T23:36:28+00:00,FORM_144,ASMB,"Assembly Biosciences, Inc.",proposed sale $51K,50864,,https://www.sec.gov/Archives/edgar/data/1999576/000119312526444003/0001193125-26-444003-index.htm,LOW
