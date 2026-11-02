@@ -5458,3 +5458,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-02T15:36:47+00:00,FORM_144,WMB,"WILLIAMS COMPANIES, INC.",proposed sale $148K,148340,,https://www.sec.gov/Archives/edgar/data/1703388/000195917326007585/0001959173-26-007585-index.htm,LOW
 2026-11-02T15:46:36+00:00,FORM_144,TRU,TransUnion,proposed sale $78K,77740,,https://www.sec.gov/Archives/edgar/data/1776865/000195917326007587/0001959173-26-007587-index.htm,LOW
 2026-11-02T15:46:37+00:00,FORM_144,TER,"TERADYNE, INC",proposed sale $46K,45723,,https://www.sec.gov/Archives/edgar/data/1225110/000195917326007586/0001959173-26-007586-index.htm,LOW
+2026-11-02T15:51:49+00:00,FORM_144,DPZ,DOMINOS PIZZA INC,proposed sale $1.54M,1541355,,https://www.sec.gov/Archives/edgar/data/1804695/000195917326007588/0001959173-26-007588-index.htm,LOW
+2026-11-02T15:51:50+00:00,FORM_144,FOA,Finance of America Companies Inc.,proposed sale $8K,7890,,https://www.sec.gov/Archives/edgar/data/1971552/000195779926000190/0001957799-26-000190-index.htm,LOW
