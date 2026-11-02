@@ -5467,3 +5467,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-02T16:16:44+00:00,FORM_144,GNRC,GENERAC HOLDINGS INC.,proposed sale $1.00M,1003050,,https://www.sec.gov/Archives/edgar/data/1483001/000195917326007594/0001959173-26-007594-index.htm,LOW
 2026-11-02T16:16:45+00:00,FORM_144,CBLL,"Ceribell, Inc.",proposed sale $132K,131753,,https://www.sec.gov/Archives/edgar/data/2036112/000195917326007593/0001959173-26-007593-index.htm,LOW
 2026-11-02T16:16:45+00:00,FORM_144,ACEL,Accel Entertainment Inc.,proposed sale $300K,300000,,https://www.sec.gov/Archives/edgar/data/1794567/000162828026068710/0001628280-26-068710-index.htm,LOW
+2026-11-02T16:51:59+00:00,INSIDER_CLUSTER,OCFC,OCEANFIRST FINANCIAL CORP,Katsoulis Nicos $178K,178277,3,https://www.sec.gov/Archives/edgar/data/1408329/000140832926000004/0001408329-26-000004-index.htm,HIGH
+2026-11-02T16:52:17+00:00,FORM_144,OBIO,"Orchestra BioMed Holdings, Inc.",proposed sale $89K,88800,,https://www.sec.gov/Archives/edgar/data/1814114/000195917326007595/0001959173-26-007595-index.htm,LOW
+2026-11-02T16:52:18+00:00,FORM_144,FSBC,FIVE STAR BANCORP,proposed sale $185K,184733,,https://www.sec.gov/Archives/edgar/data/1857830/000185783026000002/0001857830-26-000002-index.htm,LOW
+2026-11-02T16:52:18+00:00,FORM_144,CUBE,CubeSmart,proposed sale $1.60M,1599663,,https://www.sec.gov/Archives/edgar/data/1298675/000194984626000628/0001949846-26-000628-index.htm,LOW
