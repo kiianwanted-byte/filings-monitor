@@ -5514,3 +5514,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-02T20:11:34+00:00,FORM_144,RVSB,RIVERVIEW BANCORP INC,proposed sale $430K,429800,,https://www.sec.gov/Archives/edgar/data/1474005/000194984626000629/0001949846-26-000629-index.htm,LOW
 2026-11-02T20:11:34+00:00,FORM_144,TMUS,"T-Mobile US, Inc.",proposed sale $17K,17422,,https://www.sec.gov/Archives/edgar/data/2066499/000195917326007629/0001959173-26-007629-index.htm,LOW
 2026-11-02T20:11:35+00:00,FORM_144,TYL,TYLER TECHNOLOGIES INC,proposed sale $277K,277140,,https://www.sec.gov/Archives/edgar/data/1673912/000195917326007628/0001959173-26-007628-index.htm,LOW
+2026-11-02T20:16:37+00:00,FORM_144,MCO,MOODYS CORP /DE/,proposed sale $94K,93773,,https://www.sec.gov/Archives/edgar/data/1791243/000195917326007630/0001959173-26-007630-index.htm,LOW
+2026-11-02T20:16:38+00:00,FORM_144,CHD,"Church & Dwight, Inc.",proposed sale $471K,471022,,https://www.sec.gov/Archives/edgar/data/1379399/000196922326001111/0001969223-26-001111-index.htm,LOW
