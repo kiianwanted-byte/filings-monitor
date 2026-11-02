@@ -5473,3 +5473,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-02T16:52:18+00:00,FORM_144,CUBE,CubeSmart,proposed sale $1.60M,1599663,,https://www.sec.gov/Archives/edgar/data/1298675/000194984626000628/0001949846-26-000628-index.htm,LOW
 2026-11-02T16:56:33+00:00,FORM_144,LRCX,LAM RESEARCH CORP,proposed sale $174K,174422,,https://www.sec.gov/Archives/edgar/data/1405693/000195917326007596/0001959173-26-007596-index.htm,LOW
 2026-11-02T17:01:36+00:00,FORM_144,WHD,Cactus Inc,proposed sale $6.00M,6000000,,https://www.sec.gov/Archives/edgar/data/1992549/000162828026068725/0001628280-26-068725-index.htm,LOW
+2026-11-02T17:06:44+00:00,FORM_144,UVE,"UNIVERSAL INSURANCE HOLDINGS, INC.",proposed sale $965K,965000,,https://www.sec.gov/Archives/edgar/data/1287040/000197407826000392/0001974078-26-000392-index.htm,LOW
