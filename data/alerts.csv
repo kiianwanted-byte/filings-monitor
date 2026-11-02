@@ -5673,3 +5673,9 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-02T21:51:45+00:00,FORM_144,VRSK,"Verisk Analytics, Inc.",proposed sale $1.68M,1676753,,https://www.sec.gov/Archives/edgar/data/1803783/000196430626000492/0001964306-26-000492-index.htm,LOW
 2026-11-02T21:51:45+00:00,FORM_144,KEX,Kirby Corporation,proposed sale $2.59M,2587493,,https://www.sec.gov/Archives/edgar/data/1483620/000162828026068928/0001628280-26-068928-index.htm,LOW
 2026-11-02T21:51:46+00:00,FORM_144,ADP,AUTOMATIC DATA PROCESSING INC,proposed sale $3.39M,3392101,,https://www.sec.gov/Archives/edgar/data/1378514/000195917326007654/0001959173-26-007654-index.htm,LOW
+2026-11-02T21:56:46+00:00,FORM_144,SLB,SLB LIMITED/NV,proposed sale $1.32M,1322500,,https://www.sec.gov/Archives/edgar/data/1497824/000195917326007659/0001959173-26-007659-index.htm,LOW
+2026-11-02T21:56:46+00:00,FORM_144,FLYW,Flywire Corporation,proposed sale $1.09M,1089349,,https://www.sec.gov/Archives/edgar/data/1862946/000196858226001090/0001968582-26-001090-index.htm,LOW
+2026-11-02T21:56:47+00:00,FORM_144,RCL,ROYAL CARIBBEAN GROUP,proposed sale $315K,314918,,https://www.sec.gov/Archives/edgar/data/1697820/000162828026068936/0001628280-26-068936-index.htm,LOW
+2026-11-02T21:56:47+00:00,FORM_144,RSG,"REPUBLIC SERVICES, INC.",proposed sale $830K,829600,,https://www.sec.gov/Archives/edgar/data/1748289/000197249026000023/0001972490-26-000023-index.htm,LOW
+2026-11-02T21:56:48+00:00,FORM_144,IBTA,"Ibotta, Inc.",proposed sale $497K,496985,,https://www.sec.gov/Archives/edgar/data/1873513/000195917326007658/0001959173-26-007658-index.htm,LOW
+2026-11-02T21:56:48+00:00,FORM_144,R,RYDER SYSTEM INC,proposed sale $873K,873367,,https://www.sec.gov/Archives/edgar/data/2085531/000195917326007657/0001959173-26-007657-index.htm,LOW
