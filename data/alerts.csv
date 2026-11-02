@@ -5532,3 +5532,20 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-02T21:01:40+00:00,FORM_144,PNFP,"Pinnacle Financial Partners, Inc.",proposed sale $523K,523093,,https://www.sec.gov/Archives/edgar/data/2082866/000195917326007642/0001959173-26-007642-index.htm,LOW
 2026-11-02T21:01:41+00:00,FORM_144,MCO,MOODYS CORP /DE/,proposed sale $99K,99300,,https://www.sec.gov/Archives/edgar/data/2062050/000195917326007641/0001959173-26-007641-index.htm,LOW
 2026-11-02T21:01:41+00:00,FORM_144,AJG,Arthur J. Gallagher & Co.,proposed sale $2.12M,2123074,,https://www.sec.gov/Archives/edgar/data/1737644/000195917326007640/0001959173-26-007640-index.htm,LOW
+2026-11-02T21:07:00+00:00,FORM_144,NTRA,"NATERA, INC.",proposed sale $137K,136719,,https://www.sec.gov/Archives/edgar/data/1857843/000185784326000032/0001857843-26-000032-index.htm,LOW
+2026-11-02T21:07:01+00:00,FORM_144,FLD,"Fold Holdings, Inc.",proposed sale $3,3,,https://www.sec.gov/Archives/edgar/data/2057497/000195917326007644/0001959173-26-007644-index.htm,LOW
+2026-11-02T21:07:03+00:00,FORM_144,NTRA,"NATERA, INC.",proposed sale $168K,167791,,https://www.sec.gov/Archives/edgar/data/2010019/000201001926000037/0002010019-26-000037-index.htm,LOW
+2026-11-02T21:07:04+00:00,FORM_144,NTRA,"NATERA, INC.",proposed sale $121K,120561,,https://www.sec.gov/Archives/edgar/data/2010135/000201013526000027/0002010135-26-000027-index.htm,LOW
+2026-11-02T21:07:05+00:00,FORM_144,NTRA,"NATERA, INC.",proposed sale $374K,374112,,https://www.sec.gov/Archives/edgar/data/1711968/000171196826000029/0001711968-26-000029-index.htm,LOW
+2026-11-02T21:07:05+00:00,FORM_144,MAZE,"Maze Therapeutics, Inc.",proposed sale $1.09M,1093681,,https://www.sec.gov/Archives/edgar/data/1842295/000196922326001112/0001969223-26-001112-index.htm,LOW
+2026-11-02T21:07:06+00:00,FORM_144,NTRA,"NATERA, INC.",proposed sale $130K,129675,,https://www.sec.gov/Archives/edgar/data/1697362/000169736226000023/0001697362-26-000023-index.htm,LOW
+2026-11-02T21:07:08+00:00,FORM_144,EGAN,EGAIN CORPORATION,proposed sale $35K,35421,,https://www.sec.gov/Archives/edgar/data/2040340/000195004726010528/0001950047-26-010528-index.htm,LOW
+2026-11-02T21:07:09+00:00,FORM_144,OSW,ONESPAWORLD HOLDINGS LIMITED,proposed sale $307K,306896,,https://www.sec.gov/Archives/edgar/data/1758488/000195004726010527/0001950047-26-010527-index.htm,LOW
+2026-11-02T21:07:10+00:00,FORM_144,NTRA,"NATERA, INC.",proposed sale $1.23M,1233379,,https://www.sec.gov/Archives/edgar/data/2010019/000195004726010526/0001950047-26-010526-index.htm,LOW
+2026-11-02T21:07:11+00:00,FORM_144,SO,SOUTHERN COMPANY,proposed sale $9K,9339,,https://www.sec.gov/Archives/edgar/data/2082705/000162828026068864/0001628280-26-068864-index.htm,LOW
+2026-11-02T21:07:12+00:00,FORM_144,APH,AMPHENOL CORPORATION,proposed sale $65.95M,65945990,,https://www.sec.gov/Archives/edgar/data/1276461/000195004726010525/0001950047-26-010525-index.htm,MEDIUM
+2026-11-02T21:07:14+00:00,FORM_144,DOCU,"DOCUSIGN, INC.",proposed sale $270K,270001,,https://www.sec.gov/Archives/edgar/data/1842656/000195004726010524/0001950047-26-010524-index.htm,LOW
+2026-11-02T21:07:15+00:00,FORM_144,OSW,ONESPAWORLD HOLDINGS LIMITED,proposed sale $612K,611908,,https://www.sec.gov/Archives/edgar/data/1758488/000195004726010523/0001950047-26-010523-index.htm,LOW
+2026-11-02T21:07:16+00:00,FORM_144,BETA,"BETA Technologies, Inc.",proposed sale $207K,206860,,https://www.sec.gov/Archives/edgar/data/2090083/000195917326007643/0001959173-26-007643-index.htm,LOW
+2026-11-02T21:07:17+00:00,FORM_144,GWRE,"GUIDEWIRE SOFTWARE, INC.",proposed sale $192K,192192,,https://www.sec.gov/Archives/edgar/data/1784996/000195004726010522/0001950047-26-010522-index.htm,LOW
+2026-11-02T21:07:18+00:00,FORM_144,DOV,Dover Corporation,proposed sale $19.00M,19000000,,https://www.sec.gov/Archives/edgar/data/1681915/000162828026068860/0001628280-26-068860-index.htm,LOW
