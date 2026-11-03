@@ -5845,3 +5845,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-03T21:36:34+00:00,FORM_144,BROS,"DUTCH BROS, INC.",proposed sale $6.01M,6012822,,https://www.sec.gov/Archives/edgar/data/1883096/000195004726010632/0001950047-26-010632-index.htm,LOW
 2026-11-03T21:36:35+00:00,FORM_144,NTRA,"NATERA, INC.",proposed sale $178K,178092,,https://www.sec.gov/Archives/edgar/data/1697362/000195004726010631/0001950047-26-010631-index.htm,LOW
 2026-11-03T21:36:35+00:00,FORM_144,CVNA,Carvana Co,proposed sale $18.12M,18123901,,https://www.sec.gov/Archives/edgar/data/1700538/000195004726010630/0001950047-26-010630-index.htm,LOW
+2026-11-03T21:42:12+00:00,FORM_144,CROX,"CROCS, INC.",proposed sale $1.53M,1528066,,https://www.sec.gov/Archives/edgar/data/1609901/000195004726010637/0001950047-26-010637-index.htm,LOW
+2026-11-03T21:42:12+00:00,FORM_144,BE,Bloom Energy Corporation,proposed sale $1.83M,1831601,,https://www.sec.gov/Archives/edgar/data/1944715/000196858226001098/0001968582-26-001098-index.htm,LOW
+2026-11-03T21:42:13+00:00,FORM_144,GD,GENERAL DYNAMICS CORPORATION,proposed sale $4.84M,4842334,,https://www.sec.gov/Archives/edgar/data/1477746/000195004726010636/0001950047-26-010636-index.htm,LOW
