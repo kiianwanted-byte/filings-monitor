@@ -5754,3 +5754,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-03T16:36:36+00:00,FORM_144,SHW,SHERWIN WILLIAMS CO,proposed sale $454K,454268,,https://www.sec.gov/Archives/edgar/data/1849050/000195917326007681/0001959173-26-007681-index.htm,LOW
 2026-11-03T16:46:47+00:00,INSIDER_BUY,CAT,CATERPILLAR INC,Fish James C Jr $620K,620390,1,https://www.sec.gov/Archives/edgar/data/1523568/000110465926121809/0001104659-26-121809-index.htm,MEDIUM
 2026-11-03T16:46:50+00:00,FORM_144,GNRC,GENERAC HOLDINGS INC.,proposed sale $126K,125580,,https://www.sec.gov/Archives/edgar/data/1851000/000195917326007683/0001959173-26-007683-index.htm,LOW
+2026-11-03T17:11:34+00:00,INSIDER_BUY,,John Hancock GA Senior Loan Trust,Manufacturers Life Insurance Co (Bermuda Branch) $12.20M,12199880,4,https://www.sec.gov/Archives/edgar/data/1833683/000183368326000020/0001833683-26-000020-index.htm,LOW

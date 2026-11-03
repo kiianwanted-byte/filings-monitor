@@ -1856,3 +1856,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-11-03T14:46:36+00:00,2026-10-30,FFIN,FIRST FINANCIAL BANKSHARES INC,Edwards Murray Hamilton,Director,800,30.53,24423,1.8,0001193125-26-444528
 2026-11-03T16:06:33+00:00,2026-11-03,CMTV,COMMUNITY BANCORP /VT,Caldwell Christopher L.,"Director, Pres/CEO/Dir of Company & Bank",500,42.98,21492,4.2,0001654954-26-009444
 2026-11-03T16:46:47+00:00,2026-11-02,CAT,CATERPILLAR INC,Fish James C Jr,Director,1000,620.39,620390,26.9,0001104659-26-121809
+2026-11-03T17:11:34+00:00,2026-10-30,,John Hancock GA Senior Loan Trust,Manufacturers Life Insurance Co (Bermuda Branch),10% owner,756628,16.12,12199880,3.6,0001833683-26-000020
