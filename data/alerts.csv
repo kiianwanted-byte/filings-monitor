@@ -5765,3 +5765,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-03T18:46:42+00:00,FORM_144,ORLY,O REILLY AUTOMOTIVE INC,proposed sale $699K,699243,,https://www.sec.gov/Archives/edgar/data/1982981/000195917326007687/0001959173-26-007687-index.htm,LOW
 2026-11-03T18:51:50+00:00,FORM_144,TCMD,TACTILE SYSTEMS TECHNOLOGY INC,proposed sale $120K,120000,,https://www.sec.gov/Archives/edgar/data/2049487/000195917326007688/0001959173-26-007688-index.htm,LOW
 2026-11-03T18:56:53+00:00,FORM_144,OTIS,Otis Worldwide,proposed sale $45K,44860,,https://www.sec.gov/Archives/edgar/data/2067209/000196922326001121/0001969223-26-001121-index.htm,LOW
+2026-11-03T19:11:59+00:00,FORM_144,MUSA,Murphy USA Inc.,proposed sale $511K,511359,,https://www.sec.gov/Archives/edgar/data/1573516/000195917326007689/0001959173-26-007689-index.htm,LOW
