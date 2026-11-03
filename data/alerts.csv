@@ -5727,3 +5727,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-03T01:41:37+00:00,FORM_144,DCOM,"Dime Community Bancshares, Inc. /NY/",proposed sale $16K,15576,,https://www.sec.gov/Archives/edgar/data/947724/000089914026001177/0000899140-26-001177-index.htm,LOW
 2026-11-03T01:46:32+00:00,INSIDER_BUY,,Hamilton Lane Venture Capital & Growth Fund,HAMILTON LANE ADVISORS LLC $36.52M,36524689,462,https://www.sec.gov/Archives/edgar/data/2047692/000121390026115107/0001213900-26-115107-index.htm,LOW
 2026-11-03T01:46:33+00:00,FORM_144,DCOM,"Dime Community Bancshares, Inc. /NY/",proposed sale $53K,53035,,https://www.sec.gov/Archives/edgar/data/1538637/000089914026001182/0000899140-26-001182-index.htm,LOW
+2026-11-03T02:51:44+00:00,INSIDER_BUY,ASPE,"Aspen Neuroscience, Inc.","ARCH Venture Fund X, L.P. $20.00M",19999995,0,https://www.sec.gov/Archives/edgar/data/2124080/000119312526444147/0001193125-26-444147-index.htm,HIGH
+2026-11-03T02:51:45+00:00,INSIDER_CLUSTER,ASPE,"Aspen Neuroscience, Inc.","ARCH Venture Partners XIV, L.P. $18.00M",18000000,0,https://www.sec.gov/Archives/edgar/data/2148927/000119312526444141/0001193125-26-444141-index.htm,HIGH
