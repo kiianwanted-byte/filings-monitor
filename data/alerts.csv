@@ -5876,3 +5876,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-03T23:16:34+00:00,FORM_144,OTIS,Otis Worldwide Corporation,proposed sale $20K,19973,,https://www.sec.gov/Archives/edgar/data/2067209/000195824426000688/0001958244-26-000688-index.htm,LOW
 2026-11-03T23:16:35+00:00,FORM_144,SPFI,"South Plains Financial, Inc.",proposed sale $7.10M,7097600,,https://www.sec.gov/Archives/edgar/data/1774463/000196858226001099/0001968582-26-001099-index.htm,LOW
 2026-11-03T23:36:36+00:00,FORM_144,RM,Regional Management Corp.,proposed sale $189K,189345,,https://www.sec.gov/Archives/edgar/data/1519401/000089914026001187/0000899140-26-001187-index.htm,LOW
+2026-11-03T23:41:33+00:00,FORM_144,RM,Regional Management Corp.,proposed sale $4K,3529,,https://www.sec.gov/Archives/edgar/data/1519401/000089914026001190/0000899140-26-001190-index.htm,LOW
+2026-11-03T23:41:34+00:00,FORM_144,RM,Regional Management Corp.,proposed sale $76K,75518,,https://www.sec.gov/Archives/edgar/data/1519641/000089914026001189/0000899140-26-001189-index.htm,LOW
+2026-11-03T23:41:34+00:00,FORM_144,PRCH,"Porch Group, Inc.",proposed sale $11.81M,11805259,,https://www.sec.gov/Archives/edgar/data/1784535/000196858226001100/0001968582-26-001100-index.htm,LOW
+2026-11-03T23:41:35+00:00,FORM_144,RM,Regional Management Corp.,proposed sale $152K,151900,,https://www.sec.gov/Archives/edgar/data/1538637/000089914026001188/0000899140-26-001188-index.htm,LOW
