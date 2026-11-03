@@ -5759,3 +5759,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-03T17:31:37+00:00,FORM_144,ITRI,"ITRON, INC.",proposed sale $41K,40503,,https://www.sec.gov/Archives/edgar/data/1672443/000195917326007684/0001959173-26-007684-index.htm,LOW
 2026-11-03T17:46:38+00:00,FORM_144,CRCL,"Circle Internet Group, Inc.",proposed sale $318K,317850,,https://www.sec.gov/Archives/edgar/data/1876042/000195917326007685/0001959173-26-007685-index.htm,LOW
 2026-11-03T17:46:38+00:00,FORM_144,SCHW,SCHWAB CHARLES CORP,proposed sale $1.04M,1039075,,https://www.sec.gov/Archives/edgar/data/923738/000194984626000630/0001949846-26-000630-index.htm,LOW
+2026-11-03T18:21:47+00:00,FORM_144,CHD,"Church & Dwight, Inc.",proposed sale $9.19M,9189068,,https://www.sec.gov/Archives/edgar/data/1661038/000196922326001120/0001969223-26-001120-index.htm,LOW
