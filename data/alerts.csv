@@ -5720,3 +5720,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-03T00:01:33+00:00,FORM_144,SEV,Aptera Motors Corp,proposed sale $1K,1284,,https://www.sec.gov/Archives/edgar/data/2093241/000195917326007665/0001959173-26-007665-index.htm,LOW
 2026-11-03T00:26:32+00:00,FORM_144,BWB,Bridgewater Bancshares Inc,proposed sale $195K,195046,,https://www.sec.gov/Archives/edgar/data/1732715/000196856426000008/0001968564-26-000008-index.htm,LOW
 2026-11-03T00:41:35+00:00,FORM_144,H,Hyatt Hotels Corporation,proposed sale $46.49M,46490000,,https://www.sec.gov/Archives/edgar/data/1498929/000119312526444072/0001193125-26-444072-index.htm,MEDIUM
+2026-11-03T01:41:34+00:00,FORM_144,DCOM,"Dime Community Bancshares, Inc. /NY/",proposed sale $1.44M,1435834,,https://www.sec.gov/Archives/edgar/data/1085393/000089914026001181/0000899140-26-001181-index.htm,LOW
+2026-11-03T01:41:35+00:00,FORM_144,DCOM,"Dime Community Bancshares, Inc. /NY/",proposed sale $837K,836787,,https://www.sec.gov/Archives/edgar/data/1085394/000089914026001180/0000899140-26-001180-index.htm,LOW
+2026-11-03T01:41:35+00:00,FORM_144,DCOM,"Dime Community Bancshares, Inc. /NY/",proposed sale $334K,333537,,https://www.sec.gov/Archives/edgar/data/1519641/000089914026001179/0000899140-26-001179-index.htm,LOW
+2026-11-03T01:41:36+00:00,FORM_144,DCOM,"Dime Community Bancshares, Inc. /NY/",proposed sale $585,585,,https://www.sec.gov/Archives/edgar/data/1878244/000089914026001178/0000899140-26-001178-index.htm,LOW
+2026-11-03T01:41:37+00:00,FORM_144,DCOM,"Dime Community Bancshares, Inc. /NY/",proposed sale $16K,15576,,https://www.sec.gov/Archives/edgar/data/947724/000089914026001177/0000899140-26-001177-index.htm,LOW
