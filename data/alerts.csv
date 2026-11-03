@@ -5808,3 +5808,12 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-03T21:22:04+00:00,FORM_144,FCN,"FTI CONSULTING, INC.",proposed sale $832K,831820,,https://www.sec.gov/Archives/edgar/data/1617579/000195004726010605/0001950047-26-010605-index.htm,LOW
 2026-11-03T21:22:05+00:00,FORM_144,CLVT,CLARIVATE PLC,proposed sale $165K,165351,,https://www.sec.gov/Archives/edgar/data/1764046/000195004726010604/0001950047-26-010604-index.htm,LOW
 2026-11-03T21:22:06+00:00,FORM_144,IBTA,"Ibotta, Inc.",proposed sale $1.88M,1878717,,https://www.sec.gov/Archives/edgar/data/1873513/000195917326007706/0001959173-26-007706-index.htm,LOW
+2026-11-03T21:26:56+00:00,FORM_144,FFIV,"F5, INC.",proposed sale $2.26M,2255622,,https://www.sec.gov/Archives/edgar/data/1746640/000195004726010617/0001950047-26-010617-index.htm,LOW
+2026-11-03T21:26:56+00:00,FORM_144,PANW,"Palo Alto Networks, Inc.",proposed sale $6.67M,6666852,,https://www.sec.gov/Archives/edgar/data/1590423/000195004726010616/0001950047-26-010616-index.htm,LOW
+2026-11-03T21:26:57+00:00,FORM_144,FIG,"FIGMA, INC.",proposed sale $257K,257497,,https://www.sec.gov/Archives/edgar/data/2073801/000195004726010615/0001950047-26-010615-index.htm,LOW
+2026-11-03T21:26:57+00:00,FORM_144,INCY,INCYTE CORPORATION,proposed sale $73K,73224,,https://www.sec.gov/Archives/edgar/data/1912317/000195004726010614/0001950047-26-010614-index.htm,LOW
+2026-11-03T21:26:58+00:00,FORM_144,TW,TRADEWEB MARKETS INC.,proposed sale $2.34M,2335758,,https://www.sec.gov/Archives/edgar/data/1771187/000195004726010613/0001950047-26-010613-index.htm,LOW
+2026-11-03T21:26:58+00:00,FORM_144,DFIN,"Donnelley Financial Solutions, Inc.",proposed sale $1.02M,1016250,,https://www.sec.gov/Archives/edgar/data/1669811/000195004726010612/0001950047-26-010612-index.htm,LOW
+2026-11-03T21:26:58+00:00,FORM_144,JAZZ,JAZZ PHARMACEUTICALS PUBLIC LIMITED COMPANY,proposed sale $225K,225370,,https://www.sec.gov/Archives/edgar/data/1607737/000195004726010611/0001950047-26-010611-index.htm,LOW
+2026-11-03T21:26:59+00:00,FORM_144,FFIV,"F5, INC.",proposed sale $327K,326821,,https://www.sec.gov/Archives/edgar/data/2060650/000195004726010610/0001950047-26-010610-index.htm,LOW
+2026-11-03T21:26:59+00:00,FORM_144,GDYN,"GRID DYNAMICS HOLDINGS, INC.",proposed sale $64K,63820,,https://www.sec.gov/Archives/edgar/data/1805673/000195004726010609/0001950047-26-010609-index.htm,LOW
