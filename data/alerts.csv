@@ -5865,3 +5865,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-03T22:11:44+00:00,FORM_144,KNTK,Kinetik Holdings Inc.,proposed sale $808K,807579,,https://www.sec.gov/Archives/edgar/data/1904934/000090514826004637/0000905148-26-004637-index.htm,LOW
 2026-11-03T22:21:35+00:00,INSIDER_CLUSTER,KWY,KINGSWAY Corp,Fitzgerald John Taylor Maloney $2K,2498,4,https://www.sec.gov/Archives/edgar/data/1584349/000107262726000059/0001072627-26-000059-index.htm,HIGH
 2026-11-03T22:21:46+00:00,FORM_144,ILMN,"ILLUMINA, INC.",proposed sale $87.20M,87198540,,https://www.sec.gov/Archives/edgar/data/1535472/000101143826000644/0001011438-26-000644-index.htm,MEDIUM
+2026-11-03T22:26:46+00:00,FORM_144,EXPE,Expedia,proposed sale $4.77M,4772000,,https://www.sec.gov/Archives/edgar/data/1549041/000162828026069650/0001628280-26-069650-index.htm,LOW
