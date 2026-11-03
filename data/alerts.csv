@@ -5768,3 +5768,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-03T19:11:59+00:00,FORM_144,MUSA,Murphy USA Inc.,proposed sale $511K,511359,,https://www.sec.gov/Archives/edgar/data/1573516/000195917326007689/0001959173-26-007689-index.htm,LOW
 2026-11-03T19:21:52+00:00,FORM_144,CACI,CACI International Inc.,proposed sale $142K,142459,,https://www.sec.gov/Archives/edgar/data/1712360/000196922326001122/0001969223-26-001122-index.htm,LOW
 2026-11-03T20:06:38+00:00,FORM_144,CHE,Chemed Corporation,proposed sale $1.08M,1084360,,https://www.sec.gov/Archives/edgar/data/1207137/000162828026069375/0001628280-26-069375-index.htm,LOW
+2026-11-03T20:16:59+00:00,FORM_144,MUSA,"Murphy USA, Inc.",proposed sale $1.21M,1213271,,https://www.sec.gov/Archives/edgar/data/1573516/000196858226001097/0001968582-26-001097-index.htm,LOW
