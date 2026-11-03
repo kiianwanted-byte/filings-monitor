@@ -5784,3 +5784,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-03T20:51:51+00:00,FORM_144,IRD,"Opus Genetics, Inc.",proposed sale $110K,110183,,https://www.sec.gov/Archives/edgar/data/1999390/000197407826000396/0001974078-26-000396-index.htm,LOW
 2026-11-03T20:56:40+00:00,FORM_144,MHK,MOHAWK INDUSTRIES INC,proposed sale $1.46M,1457534,,https://www.sec.gov/Archives/edgar/data/925177/000001179026000042/0000011790-26-000042-index.htm,LOW
 2026-11-03T20:56:41+00:00,FORM_144,NCNO,"nCino, Inc.",proposed sale $665K,664775,,https://www.sec.gov/Archives/edgar/data/1902733/000195917326007701/0001959173-26-007701-index.htm,LOW
+2026-11-03T21:01:39+00:00,FORM_144,NCNO,"nCino, Inc.",proposed sale $108K,108420,,https://www.sec.gov/Archives/edgar/data/1902733/000195917326007702/0001959173-26-007702-index.htm,LOW
