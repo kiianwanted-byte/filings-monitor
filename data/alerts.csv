@@ -5737,3 +5737,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-03T14:51:38+00:00,FORM_144,CARL,"CARLSMED, INC.",proposed sale $11K,11317,,https://www.sec.gov/Archives/edgar/data/2147819/000195917326007666/0001959173-26-007666-index.htm,LOW
 2026-11-03T15:06:48+00:00,FORM_144,HUBS,HUBSPOT INC,proposed sale $160K,159859,,https://www.sec.gov/Archives/edgar/data/1946051/000195917326007667/0001959173-26-007667-index.htm,LOW
 2026-11-03T15:11:35+00:00,FORM_144,DGX,QUEST DIAGNOSTICS INC,proposed sale $5.58M,5584607,,https://www.sec.gov/Archives/edgar/data/1520897/000195917326007668/0001959173-26-007668-index.htm,LOW
+2026-11-03T15:16:43+00:00,FORM_144,VIR,"Vir Biotechnology, Inc.",proposed sale $27K,26717,,https://www.sec.gov/Archives/edgar/data/2036234/000195917326007669/0001959173-26-007669-index.htm,LOW
