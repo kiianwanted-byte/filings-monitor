@@ -5785,3 +5785,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-03T20:56:40+00:00,FORM_144,MHK,MOHAWK INDUSTRIES INC,proposed sale $1.46M,1457534,,https://www.sec.gov/Archives/edgar/data/925177/000001179026000042/0000011790-26-000042-index.htm,LOW
 2026-11-03T20:56:41+00:00,FORM_144,NCNO,"nCino, Inc.",proposed sale $665K,664775,,https://www.sec.gov/Archives/edgar/data/1902733/000195917326007701/0001959173-26-007701-index.htm,LOW
 2026-11-03T21:01:39+00:00,FORM_144,NCNO,"nCino, Inc.",proposed sale $108K,108420,,https://www.sec.gov/Archives/edgar/data/1902733/000195917326007702/0001959173-26-007702-index.htm,LOW
+2026-11-03T21:06:54+00:00,FORM_144,ONB,OLD NATIONAL BANCORP,proposed sale $492K,492496,,https://www.sec.gov/Archives/edgar/data/1794246/000195004726010600/0001950047-26-010600-index.htm,LOW
+2026-11-03T21:06:55+00:00,FORM_144,COLM,COLUMBIA SPORTSWEAR COMPANY,proposed sale $276K,275800,,https://www.sec.gov/Archives/edgar/data/1711274/000195004726010599/0001950047-26-010599-index.htm,LOW
+2026-11-03T21:06:55+00:00,FORM_144,PINS,"PINTEREST, INC.",proposed sale $934K,933933,,https://www.sec.gov/Archives/edgar/data/1773914/000192109426001142/0001921094-26-001142-index.htm,LOW
+2026-11-03T21:06:56+00:00,FORM_144,BETA,"BETA Technologies, Inc.",proposed sale $233K,233229,,https://www.sec.gov/Archives/edgar/data/2090083/000195917326007703/0001959173-26-007703-index.htm,LOW
