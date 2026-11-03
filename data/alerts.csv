@@ -5857,3 +5857,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-03T21:47:09+00:00,FORM_144,MANA,GRAYSCALE DECENTRALAND TRUST (MANA),proposed sale $880,880,,https://www.sec.gov/Archives/edgar/data/1977454/000197745426000299/0001977454-26-000299-index.htm,LOW
 2026-11-03T21:47:10+00:00,FORM_144,GLIV,GRAYSCALE LIVEPEER TRUST (LPT),proposed sale $766,765,,https://www.sec.gov/Archives/edgar/data/1977454/000197745426000298/0001977454-26-000298-index.htm,LOW
 2026-11-03T21:47:10+00:00,FORM_144,LARK,LANDMARK BANCORP INC,proposed sale $32K,32500,,https://www.sec.gov/Archives/edgar/data/1141688/000100027526000118/0001000275-26-000118-index.htm,LOW
+2026-11-03T21:56:58+00:00,FORM_144,NDAQ,"NASDAQ, INC.",proposed sale $247K,247326,,https://www.sec.gov/Archives/edgar/data/1781714/000195004726010640/0001950047-26-010640-index.htm,LOW
+2026-11-03T21:56:58+00:00,FORM_144,SEV,Aptera Motors Corp,proposed sale $11K,10684,,https://www.sec.gov/Archives/edgar/data/2093241/000195917326007710/0001959173-26-007710-index.htm,LOW
+2026-11-03T21:56:59+00:00,FORM_144,EXPO,"EXPONENT, INC.",proposed sale $111K,110643,,https://www.sec.gov/Archives/edgar/data/1633078/000195004726010639/0001950047-26-010639-index.htm,LOW
