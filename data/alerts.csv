@@ -5757,3 +5757,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-03T17:11:34+00:00,INSIDER_BUY,,John Hancock GA Senior Loan Trust,Manufacturers Life Insurance Co (Bermuda Branch) $12.20M,12199880,4,https://www.sec.gov/Archives/edgar/data/1833683/000183368326000020/0001833683-26-000020-index.htm,LOW
 2026-11-03T17:16:47+00:00,INSIDER_BUY,,John Hancock GA Senior Loan Trust,Manufacturers Life Reinsurance Ltd $31.00M,30999696,4,https://www.sec.gov/Archives/edgar/data/1765496/000176549626000020/0001765496-26-000020-index.htm,LOW
 2026-11-03T17:31:37+00:00,FORM_144,ITRI,"ITRON, INC.",proposed sale $41K,40503,,https://www.sec.gov/Archives/edgar/data/1672443/000195917326007684/0001959173-26-007684-index.htm,LOW
+2026-11-03T17:46:38+00:00,FORM_144,CRCL,"Circle Internet Group, Inc.",proposed sale $318K,317850,,https://www.sec.gov/Archives/edgar/data/1876042/000195917326007685/0001959173-26-007685-index.htm,LOW
+2026-11-03T17:46:38+00:00,FORM_144,SCHW,SCHWAB CHARLES CORP,proposed sale $1.04M,1039075,,https://www.sec.gov/Archives/edgar/data/923738/000194984626000630/0001949846-26-000630-index.htm,LOW
