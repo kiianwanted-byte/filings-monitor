@@ -5731,3 +5731,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-03T02:51:45+00:00,INSIDER_CLUSTER,ASPE,"Aspen Neuroscience, Inc.","ARCH Venture Partners XIV, L.P. $18.00M",18000000,0,https://www.sec.gov/Archives/edgar/data/2148927/000119312526444141/0001193125-26-444141-index.htm,HIGH
 2026-11-03T13:11:34+00:00,FORM_144,NNDM,Nano Dimension Ltd.,proposed sale $15K,15410,,https://www.sec.gov/Archives/edgar/data/2103000/000197640826000926/0001976408-26-000926-index.htm,LOW
 2026-11-03T13:11:35+00:00,FORM_144,RDWR,RADWARE LTD,proposed sale $569K,569221,,https://www.sec.gov/Archives/edgar/data/2057319/000197640826000925/0001976408-26-000925-index.htm,LOW
+2026-11-03T13:31:33+00:00,INSIDER_CLUSTER,PMN,ProMIS Neurosciences Inc.,Cashman Neil $39K,38600,1,https://www.sec.gov/Archives/edgar/data/1927064/000137433926000009/0001374339-26-000009-index.htm,HIGH
