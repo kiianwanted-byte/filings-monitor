@@ -5749,3 +5749,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-03T15:58:27+00:00,FORM_144,SHW,SHERWIN WILLIAMS CO,proposed sale $795K,795131,,https://www.sec.gov/Archives/edgar/data/1777298/000195917326007677/0001959173-26-007677-index.htm,LOW
 2026-11-03T16:21:41+00:00,FORM_144,IBTA,"Ibotta, Inc.",proposed sale $185K,185330,,https://www.sec.gov/Archives/edgar/data/1873513/000195917326007678/0001959173-26-007678-index.htm,LOW
 2026-11-03T16:26:41+00:00,FORM_144,RXRX,"RECURSION PHARMACEUTICALS, INC.",proposed sale $155K,155200,,https://www.sec.gov/Archives/edgar/data/1856094/000195917326007679/0001959173-26-007679-index.htm,LOW
+2026-11-03T16:31:37+00:00,FORM_144,BLCO,Bausch & Lomb Corp,proposed sale $796K,795734,,https://www.sec.gov/Archives/edgar/data/1903043/000195917326007680/0001959173-26-007680-index.htm,LOW
