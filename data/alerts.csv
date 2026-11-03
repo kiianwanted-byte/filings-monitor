@@ -5772,3 +5772,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-03T20:21:47+00:00,FORM_144,TWST,Twist Bioscience Corp,proposed sale $619K,619191,,https://www.sec.gov/Archives/edgar/data/1753655/000195917326007692/0001959173-26-007692-index.htm,LOW
 2026-11-03T20:21:47+00:00,FORM_144,TWST,Twist Bioscience Corp,proposed sale $136K,136349,,https://www.sec.gov/Archives/edgar/data/1753672/000195917326007691/0001959173-26-007691-index.htm,LOW
 2026-11-03T20:21:47+00:00,FORM_144,LEA,LEAR CORP,proposed sale $589K,588736,,https://www.sec.gov/Archives/edgar/data/1529005/000195917326007690/0001959173-26-007690-index.htm,LOW
+2026-11-03T20:26:48+00:00,FORM_144,TWST,Twist Bioscience Corp,proposed sale $20K,20039,,https://www.sec.gov/Archives/edgar/data/1590947/000195917326007695/0001959173-26-007695-index.htm,LOW
+2026-11-03T20:26:48+00:00,FORM_144,TWST,Twist Bioscience Corp,proposed sale $128K,128496,,https://www.sec.gov/Archives/edgar/data/1883451/000195917326007693/0001959173-26-007693-index.htm,LOW
+2026-11-03T20:26:48+00:00,FORM_144,TWST,Twist Bioscience Corp,proposed sale $347K,347305,,https://www.sec.gov/Archives/edgar/data/1755970/000195917326007694/0001959173-26-007694-index.htm,LOW
