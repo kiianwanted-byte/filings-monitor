@@ -5861,3 +5861,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-03T21:56:58+00:00,FORM_144,SEV,Aptera Motors Corp,proposed sale $11K,10684,,https://www.sec.gov/Archives/edgar/data/2093241/000195917326007710/0001959173-26-007710-index.htm,LOW
 2026-11-03T21:56:59+00:00,FORM_144,EXPO,"EXPONENT, INC.",proposed sale $111K,110643,,https://www.sec.gov/Archives/edgar/data/1633078/000195004726010639/0001950047-26-010639-index.htm,LOW
 2026-11-03T22:01:51+00:00,FORM_144,SEV,Aptera Motors Corp,proposed sale $1K,1269,,https://www.sec.gov/Archives/edgar/data/2093241/000195917326007711/0001959173-26-007711-index.htm,LOW
+2026-11-03T22:06:40+00:00,INSIDER_CLUSTER,ENPH,"Enphase Energy, Inc.",Trivedi Shanker $31K,30590,0,https://www.sec.gov/Archives/edgar/data/1463101/000133788726000007/0001337887-26-000007-index.htm,HIGH
