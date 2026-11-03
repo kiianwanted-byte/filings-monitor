@@ -5746,3 +5746,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-03T15:46:36+00:00,FORM_144,LH,LABCORP HOLDINGS INC.,proposed sale $108K,108232,,https://www.sec.gov/Archives/edgar/data/2103999/000195917326007675/0001959173-26-007675-index.htm,LOW
 2026-11-03T15:56:48+00:00,FORM_144,HNI,HNI,proposed sale $1.13M,1129419,,https://www.sec.gov/Archives/edgar/data/1378763/000162828026069199/0001628280-26-069199-index.htm,LOW
 2026-11-03T15:56:49+00:00,FORM_144,RSI,"Rush Street Interactive, Inc.",proposed sale $276K,276000,,https://www.sec.gov/Archives/edgar/data/1793659/000195917326007676/0001959173-26-007676-index.htm,LOW
+2026-11-03T15:58:27+00:00,FORM_144,SHW,SHERWIN WILLIAMS CO,proposed sale $795K,795131,,https://www.sec.gov/Archives/edgar/data/1777298/000195917326007677/0001959173-26-007677-index.htm,LOW
