@@ -5880,3 +5880,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-03T23:41:34+00:00,FORM_144,RM,Regional Management Corp.,proposed sale $76K,75518,,https://www.sec.gov/Archives/edgar/data/1519641/000089914026001189/0000899140-26-001189-index.htm,LOW
 2026-11-03T23:41:34+00:00,FORM_144,PRCH,"Porch Group, Inc.",proposed sale $11.81M,11805259,,https://www.sec.gov/Archives/edgar/data/1784535/000196858226001100/0001968582-26-001100-index.htm,LOW
 2026-11-03T23:41:35+00:00,FORM_144,RM,Regional Management Corp.,proposed sale $152K,151900,,https://www.sec.gov/Archives/edgar/data/1538637/000089914026001188/0000899140-26-001188-index.htm,LOW
+2026-11-03T23:46:31+00:00,FORM_144,FRMI,Fermi Inc.,proposed sale $5.22M,5217333,,https://www.sec.gov/Archives/edgar/data/2071778/000195824426000689/0001958244-26-000689-index.htm,LOW
