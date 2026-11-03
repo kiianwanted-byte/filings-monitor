@@ -5775,3 +5775,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-03T20:26:48+00:00,FORM_144,TWST,Twist Bioscience Corp,proposed sale $20K,20039,,https://www.sec.gov/Archives/edgar/data/1590947/000195917326007695/0001959173-26-007695-index.htm,LOW
 2026-11-03T20:26:48+00:00,FORM_144,TWST,Twist Bioscience Corp,proposed sale $128K,128496,,https://www.sec.gov/Archives/edgar/data/1883451/000195917326007693/0001959173-26-007693-index.htm,LOW
 2026-11-03T20:26:48+00:00,FORM_144,TWST,Twist Bioscience Corp,proposed sale $347K,347305,,https://www.sec.gov/Archives/edgar/data/1755970/000195917326007694/0001959173-26-007694-index.htm,LOW
+2026-11-03T20:32:04+00:00,FORM_144,MHK,MOHAWK INDUSTRIES INC,proposed sale $241K,241295,,https://www.sec.gov/Archives/edgar/data/925177/000001179026000041/0000011790-26-000041-index.htm,LOW
+2026-11-03T20:32:05+00:00,FORM_144,NCNO,"nCino, Inc.",proposed sale $182K,182019,,https://www.sec.gov/Archives/edgar/data/1928630/000195917326007697/0001959173-26-007697-index.htm,LOW
+2026-11-03T20:32:06+00:00,FORM_144,FATE,FATE THERAPEUTICS INC,proposed sale $14K,13524,,https://www.sec.gov/Archives/edgar/data/1788393/000195917326007696/0001959173-26-007696-index.htm,LOW
