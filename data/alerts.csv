@@ -5756,3 +5756,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-03T16:46:50+00:00,FORM_144,GNRC,GENERAC HOLDINGS INC.,proposed sale $126K,125580,,https://www.sec.gov/Archives/edgar/data/1851000/000195917326007683/0001959173-26-007683-index.htm,LOW
 2026-11-03T17:11:34+00:00,INSIDER_BUY,,John Hancock GA Senior Loan Trust,Manufacturers Life Insurance Co (Bermuda Branch) $12.20M,12199880,4,https://www.sec.gov/Archives/edgar/data/1833683/000183368326000020/0001833683-26-000020-index.htm,LOW
 2026-11-03T17:16:47+00:00,INSIDER_BUY,,John Hancock GA Senior Loan Trust,Manufacturers Life Reinsurance Ltd $31.00M,30999696,4,https://www.sec.gov/Archives/edgar/data/1765496/000176549626000020/0001765496-26-000020-index.htm,LOW
+2026-11-03T17:31:37+00:00,FORM_144,ITRI,"ITRON, INC.",proposed sale $41K,40503,,https://www.sec.gov/Archives/edgar/data/1672443/000195917326007684/0001959173-26-007684-index.htm,LOW
