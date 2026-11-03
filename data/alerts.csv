@@ -5762,3 +5762,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-03T18:21:47+00:00,FORM_144,CHD,"Church & Dwight, Inc.",proposed sale $9.19M,9189068,,https://www.sec.gov/Archives/edgar/data/1661038/000196922326001120/0001969223-26-001120-index.htm,LOW
 2026-11-03T18:27:06+00:00,FORM_144,UBSI,UNITED BANKSHARES INC/WV,proposed sale $2.03M,2030768,,https://www.sec.gov/Archives/edgar/data/1929455/000197337926000353/0001973379-26-000353-index.htm,LOW
 2026-11-03T18:36:34+00:00,FORM_144,COCO,"Vita Coco Company, Inc.",proposed sale $60K,60000,,https://www.sec.gov/Archives/edgar/data/1969153/000195917326007686/0001959173-26-007686-index.htm,LOW
+2026-11-03T18:46:42+00:00,FORM_144,ORLY,O REILLY AUTOMOTIVE INC,proposed sale $699K,699243,,https://www.sec.gov/Archives/edgar/data/1982981/000195917326007687/0001959173-26-007687-index.htm,LOW
