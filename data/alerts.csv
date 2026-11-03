@@ -5779,3 +5779,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-03T20:32:05+00:00,FORM_144,NCNO,"nCino, Inc.",proposed sale $182K,182019,,https://www.sec.gov/Archives/edgar/data/1928630/000195917326007697/0001959173-26-007697-index.htm,LOW
 2026-11-03T20:32:06+00:00,FORM_144,FATE,FATE THERAPEUTICS INC,proposed sale $14K,13524,,https://www.sec.gov/Archives/edgar/data/1788393/000195917326007696/0001959173-26-007696-index.htm,LOW
 2026-11-03T20:36:38+00:00,FORM_144,IPSC,"Century Therapeutics, Inc.",proposed sale $404,403,,https://www.sec.gov/Archives/edgar/data/1867173/000195917326007698/0001959173-26-007698-index.htm,LOW
+2026-11-03T20:46:35+00:00,FORM_144,NCNO,"nCino, Inc.",proposed sale $21K,20570,,https://www.sec.gov/Archives/edgar/data/1902733/000195917326007700/0001959173-26-007700-index.htm,LOW
+2026-11-03T20:46:35+00:00,FORM_144,NCNO,"nCino, Inc.",proposed sale $273K,273097,,https://www.sec.gov/Archives/edgar/data/1902733/000195917326007699/0001959173-26-007699-index.htm,LOW
