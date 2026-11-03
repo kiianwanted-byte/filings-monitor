@@ -5741,3 +5741,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-03T15:21:48+00:00,FORM_144,VZ,VERIZON COMMUNICATIONS INC,proposed sale $49K,49269,,https://www.sec.gov/Archives/edgar/data/1760581/000195917326007670/0001959173-26-007670-index.htm,LOW
 2026-11-03T15:26:41+00:00,FORM_144,CRCL,"Circle Internet Group, Inc.",proposed sale $87K,87233,,https://www.sec.gov/Archives/edgar/data/1876042/000195917326007671/0001959173-26-007671-index.htm,LOW
 2026-11-03T15:31:46+00:00,FORM_144,CRCL,"Circle Internet Group, Inc.",proposed sale $134K,133772,,https://www.sec.gov/Archives/edgar/data/2083179/000195917326007672/0001959173-26-007672-index.htm,LOW
+2026-11-03T15:41:44+00:00,FORM_144,AEE,AMEREN CORP,proposed sale $720K,719680,,https://www.sec.gov/Archives/edgar/data/1190105/000195917326007674/0001959173-26-007674-index.htm,LOW
+2026-11-03T15:41:45+00:00,FORM_144,FMC,FMC CORP,proposed sale $32K,32291,,https://www.sec.gov/Archives/edgar/data/1713517/000195917326007673/0001959173-26-007673-index.htm,LOW
