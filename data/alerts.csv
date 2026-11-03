@@ -5875,3 +5875,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-03T23:16:34+00:00,FORM_144,RDDT,"REDDIT, INC.",proposed sale $288K,288000,,https://www.sec.gov/Archives/edgar/data/1924581/000195004726010642/0001950047-26-010642-index.htm,LOW
 2026-11-03T23:16:34+00:00,FORM_144,OTIS,Otis Worldwide Corporation,proposed sale $20K,19973,,https://www.sec.gov/Archives/edgar/data/2067209/000195824426000688/0001958244-26-000688-index.htm,LOW
 2026-11-03T23:16:35+00:00,FORM_144,SPFI,"South Plains Financial, Inc.",proposed sale $7.10M,7097600,,https://www.sec.gov/Archives/edgar/data/1774463/000196858226001099/0001968582-26-001099-index.htm,LOW
+2026-11-03T23:36:36+00:00,FORM_144,RM,Regional Management Corp.,proposed sale $189K,189345,,https://www.sec.gov/Archives/edgar/data/1519401/000089914026001187/0000899140-26-001187-index.htm,LOW
