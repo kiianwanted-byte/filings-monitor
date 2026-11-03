@@ -5795,3 +5795,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-03T21:12:30+00:00,FORM_144,ALKS,Alkermes plc.,proposed sale $94K,93955,,https://www.sec.gov/Archives/edgar/data/1675905/000196430626000493/0001964306-26-000493-index.htm,LOW
 2026-11-03T21:12:31+00:00,FORM_144,HBAN,HUNTINGTON BANCSHARES INC /MD/,proposed sale $48K,47595,,https://www.sec.gov/Archives/edgar/data/1802620/000195917326007704/0001959173-26-007704-index.htm,LOW
 2026-11-03T21:12:32+00:00,FORM_144,ETSY,ETSY INC,proposed sale $130K,129669,,https://www.sec.gov/Archives/edgar/data/1370637/000196922326001123/0001969223-26-001123-index.htm,LOW
+2026-11-03T21:17:03+00:00,FORM_144,STLD,"STEEL DYNAMICS, INC.",proposed sale $12.45M,12445405,,https://www.sec.gov/Archives/edgar/data/1397059/000195004726010603/0001950047-26-010603-index.htm,LOW
+2026-11-03T21:17:04+00:00,FORM_144,REGN,"Regeneron Pharmaceuticals, Inc.",proposed sale $7.22M,7219262,,https://www.sec.gov/Archives/edgar/data/1681643/000196922326001124/0001969223-26-001124-index.htm,LOW
+2026-11-03T21:17:04+00:00,FORM_144,CNA,CNA FINANCIAL CORPORATION,proposed sale $1.12M,1123230,,https://www.sec.gov/Archives/edgar/data/1222410/000195004726010602/0001950047-26-010602-index.htm,LOW
+2026-11-03T21:17:05+00:00,FORM_144,MHK,MOHAWK INDUSTRIES INC,proposed sale $2.16M,2160750,,https://www.sec.gov/Archives/edgar/data/1452859/000110465926121996/0001104659-26-121996-index.htm,LOW
+2026-11-03T21:17:05+00:00,FORM_144,KMTS,"KESTRA MEDICAL TECHNOLOGIES, LTD.",proposed sale $94K,94351,,https://www.sec.gov/Archives/edgar/data/1877184/000196430626000494/0001964306-26-000494-index.htm,LOW
