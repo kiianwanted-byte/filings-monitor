@@ -1841,3 +1841,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-11-02T23:31:33+00:00,2026-11-02,RSI,"Rush Street Interactive, Inc.",Winter Thomas,Director,10000,11.83,118310,48.8,0001836156-26-000008
 2026-11-03T00:01:32+00:00,2026-10-30,BHAI,BHAV Acquisition Corp II,BHAV Partners II LLC,10% owner,225000,,0,NEW,0001213900-26-115071
 2026-11-03T01:46:32+00:00,2025-07-28,,Hamilton Lane Venture Capital & Growth Fund,HAMILTON LANE ADVISORS LLC,10% owner,1824686,20.02,36524689,319.3,0001213900-26-115107
+2026-11-03T01:56:41+00:00,2026-11-02,DLPN,"Dolphin Entertainment, Inc.",O'Dowd William IV,"Director, Chief Executive Officer, 10% owner",5000,0.99,4965,0.9,0001079973-26-001421
