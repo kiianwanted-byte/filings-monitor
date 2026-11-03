@@ -5872,3 +5872,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-03T23:02:03+00:00,FORM_144,KGS,"Kodiak Gas Services, Inc.",proposed sale $124K,124075,,https://www.sec.gov/Archives/edgar/data/1971122/000195824426000686/0001958244-26-000686-index.htm,LOW
 2026-11-03T23:02:03+00:00,FORM_144,ZM,"Zoom Communications, Inc.",proposed sale $2.22M,2222528,,https://www.sec.gov/Archives/edgar/data/1773298/000195824426000685/0001958244-26-000685-index.htm,LOW
 2026-11-03T23:11:33+00:00,INSIDER_BUY,BBTX,"Bambusa Therapeutics, Inc.","RA CAPITAL MANAGEMENT, L.P. $46.64M",46639957,4,https://www.sec.gov/Archives/edgar/data/2044950/000123191926001533/0001231919-26-001533-index.htm,HIGH
+2026-11-03T23:16:34+00:00,FORM_144,RDDT,"REDDIT, INC.",proposed sale $288K,288000,,https://www.sec.gov/Archives/edgar/data/1924581/000195004726010642/0001950047-26-010642-index.htm,LOW
+2026-11-03T23:16:34+00:00,FORM_144,OTIS,Otis Worldwide Corporation,proposed sale $20K,19973,,https://www.sec.gov/Archives/edgar/data/2067209/000195824426000688/0001958244-26-000688-index.htm,LOW
+2026-11-03T23:16:35+00:00,FORM_144,SPFI,"South Plains Financial, Inc.",proposed sale $7.10M,7097600,,https://www.sec.gov/Archives/edgar/data/1774463/000196858226001099/0001968582-26-001099-index.htm,LOW
