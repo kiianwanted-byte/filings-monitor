@@ -6066,3 +6066,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-04T21:56:38+00:00,FORM_144,RITM,Rithm Capital Corp.,proposed sale $922K,922000,,https://www.sec.gov/Archives/edgar/data/1571610/000196858226001105/0001968582-26-001105-index.htm,LOW
 2026-11-04T21:56:39+00:00,FORM_144,CARG,"CarGurus, Inc",proposed sale $3.38M,3377000,,https://www.sec.gov/Archives/edgar/data/1719249/000196858226001103/0001968582-26-001103-index.htm,LOW
 2026-11-04T21:56:39+00:00,FORM_144,ICE,"INTERCONTINENTAL EXCHANGE, INC.",proposed sale $328K,328014,,https://www.sec.gov/Archives/edgar/data/2006961/000195004726010711/0001950047-26-010711-index.htm,LOW
+2026-11-04T22:01:39+00:00,INSIDER_CLUSTER,JBLU,JETBLUE AIRWAYS CORP,Mittal Nik $324K,323843,1,https://www.sec.gov/Archives/edgar/data/1942734/000115846326000098/0001158463-26-000098-index.htm,HIGH
+2026-11-04T22:01:42+00:00,FORM_144,TRI,Thomson Reuters Corporation,proposed sale $237K,236887,,https://www.sec.gov/Archives/edgar/data/1969219/000196922326001129/0001969223-26-001129-index.htm,LOW
