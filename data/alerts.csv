@@ -5915,3 +5915,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-04T17:31:32+00:00,FORM_144,AVNT,AVIENT CORP,proposed sale $457K,456602,,https://www.sec.gov/Archives/edgar/data/1614139/000195917326007726/0001959173-26-007726-index.htm,LOW
 2026-11-04T17:36:37+00:00,INSIDER_CLUSTER,ATLO,AMES NATIONAL CORP,Snodgrass Adam $7K,6826,1,https://www.sec.gov/Archives/edgar/data/1805277/000180527726000002/0001805277-26-000002-index.htm,HIGH
 2026-11-04T17:41:34+00:00,FORM_144,AJG,Arthur J. Gallagher & Co.,proposed sale $1.44M,1438675,,https://www.sec.gov/Archives/edgar/data/1185998/000195917326007727/0001959173-26-007727-index.htm,LOW
+2026-11-04T17:56:32+00:00,FORM_144,THG,"HANOVER INSURANCE GROUP, INC.",proposed sale $2.48M,2478027,,https://www.sec.gov/Archives/edgar/data/1843620/000195917326007728/0001959173-26-007728-index.htm,LOW
