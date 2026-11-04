@@ -5918,3 +5918,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-04T17:56:32+00:00,FORM_144,THG,"HANOVER INSURANCE GROUP, INC.",proposed sale $2.48M,2478027,,https://www.sec.gov/Archives/edgar/data/1843620/000195917326007728/0001959173-26-007728-index.htm,LOW
 2026-11-04T18:01:34+00:00,FORM_144,NWFL,NORWOOD FINANCIAL CORP,proposed sale $93K,93125,,https://www.sec.gov/Archives/edgar/data/2156904/000143774926034833/0001437749-26-034833-index.htm,LOW
 2026-11-04T18:06:35+00:00,FORM_144,ITW,ILLINOIS TOOL WORKS INC,proposed sale $17.57M,17572114,,https://www.sec.gov/Archives/edgar/data/1307581/000195917326007729/0001959173-26-007729-index.htm,LOW
+2026-11-04T18:16:34+00:00,FORM_144,PPG,PPG INDUSTRIES INC,proposed sale $318K,317862,,https://www.sec.gov/Archives/edgar/data/1975442/000195917326007730/0001959173-26-007730-index.htm,LOW
