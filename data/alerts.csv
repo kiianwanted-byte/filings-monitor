@@ -5929,3 +5929,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-04T19:06:39+00:00,FORM_144,CHCO,CITY HOLDING CO,proposed sale $74K,74393,,https://www.sec.gov/Archives/edgar/data/1601955/000100027526000120/0001000275-26-000120-index.htm,LOW
 2026-11-04T19:16:32+00:00,INSIDER_CLUSTER,RGCO,RGC RESOURCES INC,Oliver Lawrence T. $200,200,2,https://www.sec.gov/Archives/edgar/data/1801438/000143774926034861/0001437749-26-034861-index.htm,HIGH
 2026-11-04T19:16:35+00:00,FORM_144,W,Wayfair Inc.,proposed sale $1.25M,1250000,,https://www.sec.gov/Archives/edgar/data/1620052/000195917326007738/0001959173-26-007738-index.htm,LOW
+2026-11-04T19:31:35+00:00,FORM_144,GKOS,GLAUKOS Corp,proposed sale $632K,632500,,https://www.sec.gov/Archives/edgar/data/1293171/000195917326007740/0001959173-26-007740-index.htm,LOW
+2026-11-04T19:31:35+00:00,FORM_144,AII,"American Integrity Insurance Group, Inc.",proposed sale $2.17M,2166750,,https://www.sec.gov/Archives/edgar/data/2063843/000208554126000006/0002085541-26-000006-index.htm,LOW
+2026-11-04T19:31:36+00:00,FORM_144,AZO,AUTOZONE INC,proposed sale $22.91M,22905987,,https://www.sec.gov/Archives/edgar/data/1601813/000195917326007739/0001959173-26-007739-index.htm,LOW
