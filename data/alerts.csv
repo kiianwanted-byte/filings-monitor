@@ -6068,3 +6068,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-04T21:56:39+00:00,FORM_144,ICE,"INTERCONTINENTAL EXCHANGE, INC.",proposed sale $328K,328014,,https://www.sec.gov/Archives/edgar/data/2006961/000195004726010711/0001950047-26-010711-index.htm,LOW
 2026-11-04T22:01:39+00:00,INSIDER_CLUSTER,JBLU,JETBLUE AIRWAYS CORP,Mittal Nik $324K,323843,1,https://www.sec.gov/Archives/edgar/data/1942734/000115846326000098/0001158463-26-000098-index.htm,HIGH
 2026-11-04T22:01:42+00:00,FORM_144,TRI,Thomson Reuters Corporation,proposed sale $237K,236887,,https://www.sec.gov/Archives/edgar/data/1969219/000196922326001129/0001969223-26-001129-index.htm,LOW
+2026-11-04T22:06:35+00:00,INSIDER_CLUSTER,HGV,Hilton Grand Vacations Inc.,Wang Mark D $499K,499224,2,https://www.sec.gov/Archives/edgar/data/1674168/000167416826000111/0001674168-26-000111-index.htm,HIGH
+2026-11-04T22:06:47+00:00,FORM_144,SWKS,"SKYWORKS SOLUTIONS, INC.",proposed sale $828K,827540,,https://www.sec.gov/Archives/edgar/data/1689676/000195004726010713/0001950047-26-010713-index.htm,LOW
+2026-11-04T22:06:47+00:00,FORM_144,HZEN,Grayscale Horizen Trust (ZEN),proposed sale $6K,6468,,https://www.sec.gov/Archives/edgar/data/1976415/000197641526000038/0001976415-26-000038-index.htm,LOW
