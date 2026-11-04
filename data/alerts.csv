@@ -5906,3 +5906,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-04T16:26:40+00:00,FORM_144,CBRE,"CBRE GROUP, INC.",proposed sale $316K,315967,,https://www.sec.gov/Archives/edgar/data/1190868/000195917326007717/0001959173-26-007717-index.htm,LOW
 2026-11-04T16:36:34+00:00,FORM_144,LH,LABCORP HOLDINGS INC.,proposed sale $1.10M,1096120,,https://www.sec.gov/Archives/edgar/data/1975682/000195917326007719/0001959173-26-007719-index.htm,LOW
 2026-11-04T16:46:34+00:00,FORM_144,WKC,WORLD KINECT CORP,proposed sale $190K,189901,,https://www.sec.gov/Archives/edgar/data/1628995/000195917326007720/0001959173-26-007720-index.htm,LOW
+2026-11-04T16:52:06+00:00,FORM_144,SNOW,Snowflake Inc.,proposed sale $14.62M,14617500,,https://www.sec.gov/Archives/edgar/data/1821737/000195917326007721/0001959173-26-007721-index.htm,LOW
