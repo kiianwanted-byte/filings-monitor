@@ -6092,3 +6092,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-04T23:31:32+00:00,FORM_144,FRMI,Fermi Inc.,proposed sale $171K,171080,,https://www.sec.gov/Archives/edgar/data/2071778/000195824426000694/0001958244-26-000694-index.htm,LOW
 2026-11-04T23:36:35+00:00,FORM_144,BULL,Webull Corporation,proposed sale $580K,580459,,https://www.sec.gov/Archives/edgar/data/2093121/000195824426000697/0001958244-26-000697-index.htm,LOW
 2026-11-04T23:36:35+00:00,FORM_144,ARHS,"Arhaus, Inc.",proposed sale $2.35M,2354113,,https://www.sec.gov/Archives/edgar/data/1888118/000195824426000696/0001958244-26-000696-index.htm,LOW
+2026-11-04T23:47:32+00:00,INSIDER_BUY,ASPE,"Aspen Neuroscience, Inc.",ORBIMED ADVISORS LLC $15.00M,15000000,2,https://www.sec.gov/Archives/edgar/data/2124080/000094787126000980/0000947871-26-000980-index.htm,HIGH
