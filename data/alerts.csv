@@ -5896,3 +5896,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-04T14:41:33+00:00,FORM_144,CFFI,C & F FINANCIAL CORP CFFI,proposed sale $111K,110980,,https://www.sec.gov/Archives/edgar/data/2047617/000204761726000006/0002047617-26-000006-index.htm,LOW
 2026-11-04T15:16:48+00:00,FORM_144,MAR,MARRIOTT INTERNATIONAL INC /MD/,proposed sale $1.06M,1058300,,https://www.sec.gov/Archives/edgar/data/1891273/000195917326007712/0001959173-26-007712-index.htm,LOW
 2026-11-04T15:21:33+00:00,FORM_144,AMZN,AMAZON COM INC,proposed sale $238K,238473,,https://www.sec.gov/Archives/edgar/data/1659719/000100027526000119/0001000275-26-000119-index.htm,LOW
+2026-11-04T15:36:40+00:00,FORM_144,CCEP,COCA-COLA EUROPACIFIC PARTNERS plc,proposed sale $156K,156078,,https://www.sec.gov/Archives/edgar/data/1976137/000197337926000354/0001973379-26-000354-index.htm,LOW
