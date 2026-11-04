@@ -5944,3 +5944,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-04T20:26:37+00:00,FORM_144,PACK,Ranpak Holdings Corp.,proposed sale $18K,18417,,https://www.sec.gov/Archives/edgar/data/1775482/000195917326007745/0001959173-26-007745-index.htm,LOW
 2026-11-04T20:31:40+00:00,FORM_144,LEVI,LEVI STRAUSS & CO,proposed sale $83K,83367,,https://www.sec.gov/Archives/edgar/data/2111371/000195917326007747/0001959173-26-007747-index.htm,LOW
 2026-11-04T20:31:41+00:00,FORM_144,CCL,Carnival Corp Ltd.,proposed sale $779K,779085,,https://www.sec.gov/Archives/edgar/data/1406203/000197337926000355/0001973379-26-000355-index.htm,LOW
+2026-11-04T20:51:41+00:00,FORM_144,CROX,"Crocs, Inc.",proposed sale $1.71M,1714240,,https://www.sec.gov/Archives/edgar/data/1334036/000196530126000171/0001965301-26-000171-index.htm,LOW
