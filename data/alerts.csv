@@ -5883,3 +5883,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-03T23:46:31+00:00,FORM_144,FRMI,Fermi Inc.,proposed sale $5.22M,5217333,,https://www.sec.gov/Archives/edgar/data/2071778/000195824426000689/0001958244-26-000689-index.htm,LOW
 2026-11-03T23:51:30+00:00,INSIDER_CLUSTER,FUNC,FIRST UNITED CORP/MD/,Rush Jason Barry $3K,3161,1,https://www.sec.gov/Archives/edgar/data/1354841/000101410026000032/0001014100-26-000032-index.htm,HIGH
 2026-11-03T23:51:31+00:00,INSIDER_BUY,SITE,"SiteOne Landscape Supply, Inc.",BLACK DOUG $1.00M,1003684,4,https://www.sec.gov/Archives/edgar/data/1672083/000110465926122247/0001104659-26-122247-index.htm,MEDIUM
+2026-11-04T00:01:35+00:00,FORM_144,SPOK,"Spok Holdings, Inc",proposed sale $196K,195589,,https://www.sec.gov/Archives/edgar/data/1289945/000119312526445785/0001193125-26-445785-index.htm,LOW
+2026-11-04T00:01:35+00:00,FORM_144,ARHS,"Arhaus, Inc.",proposed sale $1.40M,1397042,,https://www.sec.gov/Archives/edgar/data/1888118/000195824426000690/0001958244-26-000690-index.htm,LOW
