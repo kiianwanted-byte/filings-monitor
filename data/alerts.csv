@@ -5911,3 +5911,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-04T17:11:34+00:00,FORM_144,NCNO,"nCino, Inc.",proposed sale $268K,268177,,https://www.sec.gov/Archives/edgar/data/1902733/000195917326007722/0001959173-26-007722-index.htm,LOW
 2026-11-04T17:16:35+00:00,FORM_144,CHWY,"Chewy, Inc.",proposed sale $111K,110745,,https://www.sec.gov/Archives/edgar/data/1879000/000195917326007723/0001959173-26-007723-index.htm,LOW
 2026-11-04T17:21:34+00:00,FORM_144,LIN,LINDE PLC,proposed sale $45.26M,45258063,,https://www.sec.gov/Archives/edgar/data/1707925/000195917326007724/0001959173-26-007724-index.htm,MEDIUM
+2026-11-04T17:26:36+00:00,FORM_144,PGNY,"Progyny, Inc.",proposed sale $64K,64170,,https://www.sec.gov/Archives/edgar/data/1824161/000195917326007725/0001959173-26-007725-index.htm,LOW
