@@ -1932,3 +1932,5 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-11-04T22:06:34+00:00,2026-11-03,HGV,Hilton Grand Vacations Inc.,Potter Leonard,Director,2500,41.55,103875,2.4,0001674168-26-000112
 2026-11-04T22:06:35+00:00,2026-11-02,HGV,Hilton Grand Vacations Inc.,Wang Mark D,"Director, See Remarks",12200,40.92,499224,1.3,0001674168-26-000111
 2026-11-04T22:11:43+00:00,2026-11-02,DOLE,Dole plc,Pale Fire Capital SE,10% owner,986557,13.10,12921443,9.6,0000921895-26-002932
+2026-11-04T22:16:35+00:00,2026-11-02,LRN,"Stride, Inc.",Shepherd Brian A.,Director,22000,75.90,1669736,2011.0,0001567675-26-000007
+2026-11-04T22:16:37+00:00,2026-11-02,LYCA,"Lycia Therapeutics, Inc.","Venrock Healthcare Capital Partners III, L.P.",10% owner,8305,26.95,223819,0.1,0001231919-26-001536

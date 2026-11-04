@@ -6072,3 +6072,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-04T22:06:47+00:00,FORM_144,SWKS,"SKYWORKS SOLUTIONS, INC.",proposed sale $828K,827540,,https://www.sec.gov/Archives/edgar/data/1689676/000195004726010713/0001950047-26-010713-index.htm,LOW
 2026-11-04T22:06:47+00:00,FORM_144,HZEN,Grayscale Horizen Trust (ZEN),proposed sale $6K,6468,,https://www.sec.gov/Archives/edgar/data/1976415/000197641526000038/0001976415-26-000038-index.htm,LOW
 2026-11-04T22:11:43+00:00,INSIDER_BUY,DOLE,Dole plc,Pale Fire Capital SE $12.92M,12921443,2,https://www.sec.gov/Archives/edgar/data/2055254/000092189526002932/0000921895-26-002932-index.htm,HIGH
+2026-11-04T22:16:35+00:00,INSIDER_CLUSTER,LRN,"Stride, Inc.",Shepherd Brian A. $1.67M,1669736,2,https://www.sec.gov/Archives/edgar/data/1567675/000156767526000007/0001567675-26-000007-index.htm,HIGH
+2026-11-04T22:16:39+00:00,FORM_144,YUM,YUM BRANDS INC,proposed sale $106K,106410,,https://www.sec.gov/Archives/edgar/data/2037991/000162828026070281/0001628280-26-070281-index.htm,LOW
+2026-11-04T22:16:40+00:00,FORM_144,EVTC,"EVERTEC, INC.",proposed sale $5.04M,5041360,,https://www.sec.gov/Archives/edgar/data/1559865/000195004726010715/0001950047-26-010715-index.htm,LOW
+2026-11-04T22:16:40+00:00,FORM_144,CWT,CALIFORNIA WATER SERVICE GROUP,proposed sale $133K,132650,,https://www.sec.gov/Archives/edgar/data/1715865/000195004726010714/0001950047-26-010714-index.htm,LOW
+2026-11-04T22:16:41+00:00,FORM_144,GDLC,Grayscale CoinDesk Crypto 5 ETF,proposed sale $85K,84945,,https://www.sec.gov/Archives/edgar/data/1976415/000197641526000039/0001976415-26-000039-index.htm,LOW
