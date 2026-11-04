@@ -5901,3 +5901,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-04T16:01:39+00:00,FORM_144,SXI,STANDEX INTERNATIONAL CORP/DE/,proposed sale $235K,235199,,https://www.sec.gov/Archives/edgar/data/1051324/000195917326007713/0001959173-26-007713-index.htm,LOW
 2026-11-04T16:11:33+00:00,FORM_144,ADP,AUTOMATIC DATA PROCESSING INC,proposed sale $231K,231269,,https://www.sec.gov/Archives/edgar/data/2026933/000195917326007715/0001959173-26-007715-index.htm,LOW
 2026-11-04T16:11:34+00:00,FORM_144,MSTR,Strategy Inc,proposed sale $670K,669750,,https://www.sec.gov/Archives/edgar/data/1309191/000195917326007714/0001959173-26-007714-index.htm,LOW
+2026-11-04T16:21:39+00:00,FORM_144,FLYW,Flywire Corp,proposed sale $127K,126507,,https://www.sec.gov/Archives/edgar/data/2116833/000195917326007716/0001959173-26-007716-index.htm,LOW
