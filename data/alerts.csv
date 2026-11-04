@@ -5891,3 +5891,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-04T01:36:30+00:00,INSIDER_BUY,LRN,"Stride, Inc.",Haggart Dylan G. $17.57M,17573121,4,https://www.sec.gov/Archives/edgar/data/2162829/000121390026115698/0001213900-26-115698-index.htm,HIGH
 2026-11-04T01:51:32+00:00,FORM_144,PFGC,Performance Food Group Co,proposed sale $151.26M,151260000,,https://www.sec.gov/Archives/edgar/data/1618673/000110465926122289/0001104659-26-122289-index.htm,MEDIUM
 2026-11-04T02:31:31+00:00,INSIDER_BUY,SIRI,SIRIUS XM HOLDINGS INC.,BERKSHIRE HATHAWAY INC $26.89M,26894245,4,https://www.sec.gov/Archives/edgar/data/1067983/000119312526445930/0001193125-26-445930-index.htm,HIGH
+2026-11-04T12:11:32+00:00,FORM_144,LKNCY,Luckin Coffee Inc.,proposed sale $2.18M,2184000,,https://www.sec.gov/Archives/edgar/data/1988804/000197337226000024/0001973372-26-000024-index.htm,LOW
