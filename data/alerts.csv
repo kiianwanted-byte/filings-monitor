@@ -5909,3 +5909,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-04T16:52:06+00:00,FORM_144,SNOW,Snowflake Inc.,proposed sale $14.62M,14617500,,https://www.sec.gov/Archives/edgar/data/1821737/000195917326007721/0001959173-26-007721-index.htm,LOW
 2026-11-04T17:11:32+00:00,INSIDER_CLUSTER,UMH,"UMH PROPERTIES, INC.",Carus Jeffrey A $8K,7610,0,https://www.sec.gov/Archives/edgar/data/1517513/000075264226000134/0000752642-26-000134-index.htm,HIGH
 2026-11-04T17:11:34+00:00,FORM_144,NCNO,"nCino, Inc.",proposed sale $268K,268177,,https://www.sec.gov/Archives/edgar/data/1902733/000195917326007722/0001959173-26-007722-index.htm,LOW
+2026-11-04T17:16:35+00:00,FORM_144,CHWY,"Chewy, Inc.",proposed sale $111K,110745,,https://www.sec.gov/Archives/edgar/data/1879000/000195917326007723/0001959173-26-007723-index.htm,LOW
