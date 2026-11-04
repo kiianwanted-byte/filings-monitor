@@ -6090,3 +6090,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-04T23:21:40+00:00,INSIDER_BUY,SCQCU,SPACCircle Acquisition Corp.,Das Soumen $2.67M,2665900,7,https://www.sec.gov/Archives/edgar/data/2158277/000118518526005179/0001185185-26-005179-index.htm,MEDIUM
 2026-11-04T23:31:32+00:00,FORM_144,TTAN,"ServiceTitan, Inc.",proposed sale $9.21M,9214800,,https://www.sec.gov/Archives/edgar/data/1908788/000195824426000695/0001958244-26-000695-index.htm,LOW
 2026-11-04T23:31:32+00:00,FORM_144,FRMI,Fermi Inc.,proposed sale $171K,171080,,https://www.sec.gov/Archives/edgar/data/2071778/000195824426000694/0001958244-26-000694-index.htm,LOW
+2026-11-04T23:36:35+00:00,FORM_144,BULL,Webull Corporation,proposed sale $580K,580459,,https://www.sec.gov/Archives/edgar/data/2093121/000195824426000697/0001958244-26-000697-index.htm,LOW
+2026-11-04T23:36:35+00:00,FORM_144,ARHS,"Arhaus, Inc.",proposed sale $2.35M,2354113,,https://www.sec.gov/Archives/edgar/data/1888118/000195824426000696/0001958244-26-000696-index.htm,LOW
