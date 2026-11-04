@@ -6087,3 +6087,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-04T23:11:32+00:00,FORM_144,LWAY,"Lifeway Foods, Inc.",proposed sale $1.58M,1583442,,https://www.sec.gov/Archives/edgar/data/1227847/000122784726000022/0001227847-26-000022-index.htm,LOW
 2026-11-04T23:16:32+00:00,FORM_144,CHD,"Church & Dwight Co., Inc.",proposed sale $560K,560150,,https://www.sec.gov/Archives/edgar/data/1307991/000195824426000693/0001958244-26-000693-index.htm,LOW
 2026-11-04T23:16:33+00:00,FORM_144,GLBE,Global-E Online Ltd.,proposed sale $4.49M,4493000,,https://www.sec.gov/Archives/edgar/data/1964141/000195824426000692/0001958244-26-000692-index.htm,LOW
+2026-11-04T23:21:40+00:00,INSIDER_BUY,SCQCU,SPACCircle Acquisition Corp.,Das Soumen $2.67M,2665900,7,https://www.sec.gov/Archives/edgar/data/2158277/000118518526005179/0001185185-26-005179-index.htm,MEDIUM
