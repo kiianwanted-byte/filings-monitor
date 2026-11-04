@@ -5923,3 +5923,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-04T18:26:33+00:00,FORM_144,COCO,"Vita Coco Company, Inc.",proposed sale $325K,325000,,https://www.sec.gov/Archives/edgar/data/1969153/000195917326007732/0001959173-26-007732-index.htm,LOW
 2026-11-04T18:41:36+00:00,FORM_144,W,Wayfair Inc.,proposed sale $1.00M,1000000,,https://www.sec.gov/Archives/edgar/data/1867558/000195917326007733/0001959173-26-007733-index.htm,LOW
 2026-11-04T18:46:35+00:00,FORM_144,MCO,MOODYS CORP /DE/,proposed sale $103K,103200,,https://www.sec.gov/Archives/edgar/data/1791243/000195917326007734/0001959173-26-007734-index.htm,LOW
+2026-11-04T18:56:32+00:00,FORM_144,TYL,TYLER TECHNOLOGIES INC,proposed sale $4.20M,4196927,,https://www.sec.gov/Archives/edgar/data/1863648/000195917326007736/0001959173-26-007736-index.htm,LOW
+2026-11-04T18:56:33+00:00,FORM_144,MAR,MARRIOTT INTERNATIONAL INC /MD/,proposed sale $2.10M,2100819,,https://www.sec.gov/Archives/edgar/data/1497635/000195917326007735/0001959173-26-007735-index.htm,LOW
