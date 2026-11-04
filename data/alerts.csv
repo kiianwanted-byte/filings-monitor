@@ -6062,3 +6062,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-04T21:50:13+00:00,FORM_144,LARK,LANDMARK BANCORP INC,proposed sale $66K,65650,,https://www.sec.gov/Archives/edgar/data/1141688/000100027526000121/0001000275-26-000121-index.htm,LOW
 2026-11-04T21:50:13+00:00,FORM_144,ORLY,O REILLY AUTOMOTIVE INC,proposed sale $12.73M,12726399,,https://www.sec.gov/Archives/edgar/data/1095228/000195917326007764/0001959173-26-007764-index.htm,LOW
 2026-11-04T21:50:13+00:00,FORM_144,GEHC,GE HealthCare Technologies Inc.,proposed sale $6.73M,6731613,,https://www.sec.gov/Archives/edgar/data/1932393/000196922326001128/0001969223-26-001128-index.htm,LOW
+2026-11-04T21:56:38+00:00,FORM_144,FILG,Grayscale Filecoin Trust (FIL),proposed sale $30K,30324,,https://www.sec.gov/Archives/edgar/data/1976415/000197641526000037/0001976415-26-000037-index.htm,LOW
+2026-11-04T21:56:38+00:00,FORM_144,RITM,Rithm Capital Corp.,proposed sale $922K,922000,,https://www.sec.gov/Archives/edgar/data/1571610/000196858226001105/0001968582-26-001105-index.htm,LOW
+2026-11-04T21:56:39+00:00,FORM_144,CARG,"CarGurus, Inc",proposed sale $3.38M,3377000,,https://www.sec.gov/Archives/edgar/data/1719249/000196858226001103/0001968582-26-001103-index.htm,LOW
+2026-11-04T21:56:39+00:00,FORM_144,ICE,"INTERCONTINENTAL EXCHANGE, INC.",proposed sale $328K,328014,,https://www.sec.gov/Archives/edgar/data/2006961/000195004726010711/0001950047-26-010711-index.htm,LOW
