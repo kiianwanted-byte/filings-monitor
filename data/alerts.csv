@@ -5932,3 +5932,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-04T19:31:35+00:00,FORM_144,GKOS,GLAUKOS Corp,proposed sale $632K,632500,,https://www.sec.gov/Archives/edgar/data/1293171/000195917326007740/0001959173-26-007740-index.htm,LOW
 2026-11-04T19:31:35+00:00,FORM_144,AII,"American Integrity Insurance Group, Inc.",proposed sale $2.17M,2166750,,https://www.sec.gov/Archives/edgar/data/2063843/000208554126000006/0002085541-26-000006-index.htm,LOW
 2026-11-04T19:31:36+00:00,FORM_144,AZO,AUTOZONE INC,proposed sale $22.91M,22905987,,https://www.sec.gov/Archives/edgar/data/1601813/000195917326007739/0001959173-26-007739-index.htm,LOW
+2026-11-04T19:36:31+00:00,INSIDER_BUY,LSCC,LATTICE SEMICONDUCTOR CORP,Tamer Ford $1.00M,1003689,0,https://www.sec.gov/Archives/edgar/data/1541375/000143774926034881/0001437749-26-034881-index.htm,MEDIUM
+2026-11-04T19:36:35+00:00,FORM_144,MAR,MARRIOTT INTERNATIONAL INC /MD/,proposed sale $2.38M,2376745,,https://www.sec.gov/Archives/edgar/data/1461996/000195917326007741/0001959173-26-007741-index.htm,LOW
