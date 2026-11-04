@@ -1895,3 +1895,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-11-04T02:31:31+00:00,2026-10-30,SIRI,SIRIUS XM HOLDINGS INC.,BERKSHIRE HATHAWAY INC,10% owner,924281,29.10,26894245,0.7,0001193125-26-445930
 2026-11-04T12:31:31+00:00,2026-11-03,SPTX,"Seaport Therapeutics, Inc.",Torres Denice,Director,5000,19.86,99324,NEW,0001193125-26-446216
 2026-11-04T14:02:01+00:00,2026-11-02,API,"Agora, Inc.",Zhao Bin,"Director, Chief Executive Officer",19478,4.26,83005,0.9,0001193125-26-446310
+2026-11-04T15:41:38+00:00,2026-11-04,RMBI,"Richmond Mutual Bancorporation, Inc.",Cook Christopher D,Director,1500,15.54,23317,5.7,0001628280-26-069865
