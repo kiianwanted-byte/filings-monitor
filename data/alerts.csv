@@ -5939,3 +5939,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-04T20:01:40+00:00,FORM_144,GMED,GLOBUS MEDICAL INC,proposed sale $425K,425000,,https://www.sec.gov/Archives/edgar/data/1250252/000197407826000400/0001974078-26-000400-index.htm,LOW
 2026-11-04T20:11:38+00:00,FORM_144,NEXT,NextDecade Corp,proposed sale $79K,79167,,https://www.sec.gov/Archives/edgar/data/1843865/000195917326007743/0001959173-26-007743-index.htm,LOW
 2026-11-04T20:11:38+00:00,FORM_144,TILE,Interface Inc.,proposed sale $313K,312510,,https://www.sec.gov/Archives/edgar/data/1094629/000162828026070034/0001628280-26-070034-index.htm,LOW
+2026-11-04T20:16:33+00:00,FORM_144,MBX,"MBX Biosciences, Inc.",proposed sale $20K,20126,,https://www.sec.gov/Archives/edgar/data/2030246/000195917326007744/0001959173-26-007744-index.htm,LOW
