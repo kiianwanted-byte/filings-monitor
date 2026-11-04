@@ -5886,3 +5886,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-04T00:01:35+00:00,FORM_144,SPOK,"Spok Holdings, Inc",proposed sale $196K,195589,,https://www.sec.gov/Archives/edgar/data/1289945/000119312526445785/0001193125-26-445785-index.htm,LOW
 2026-11-04T00:01:35+00:00,FORM_144,ARHS,"Arhaus, Inc.",proposed sale $1.40M,1397042,,https://www.sec.gov/Archives/edgar/data/1888118/000195824426000690/0001958244-26-000690-index.htm,LOW
 2026-11-04T00:21:35+00:00,FORM_144,AUGO,Aura Minerals Inc.,proposed sale $533K,533016,,https://www.sec.gov/Archives/edgar/data/2126752/000212675226000026/0002126752-26-000026-index.htm,LOW
+2026-11-04T00:41:53+00:00,INSIDER_BUY,BA,BOEING CO,Buckley Mortimer J $998K,998421,4,https://www.sec.gov/Archives/edgar/data/2041310/000122520826008642/0001225208-26-008642-index.htm,MEDIUM
+2026-11-04T00:41:54+00:00,INSIDER_CLUSTER,BA,BOEING CO,MOLLENKOPF STEVEN M $510K,510426,4,https://www.sec.gov/Archives/edgar/data/1434806/000122520826008641/0001225208-26-008641-index.htm,HIGH
