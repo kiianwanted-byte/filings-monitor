@@ -5937,3 +5937,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-04T19:41:35+00:00,FORM_144,IDXX,IDEXX LABORATORIES INC /DE,proposed sale $346K,345835,,https://www.sec.gov/Archives/edgar/data/1094159/000195917326007742/0001959173-26-007742-index.htm,LOW
 2026-11-04T19:46:36+00:00,INSIDER_BUY,,"Partners Group Growth, LLC",Partners Group Finance (USD) AG $19.98M,19978119,3,https://www.sec.gov/Archives/edgar/data/2089261/000208926126000008/0002089261-26-000008-index.htm,LOW
 2026-11-04T20:01:40+00:00,FORM_144,GMED,GLOBUS MEDICAL INC,proposed sale $425K,425000,,https://www.sec.gov/Archives/edgar/data/1250252/000197407826000400/0001974078-26-000400-index.htm,LOW
+2026-11-04T20:11:38+00:00,FORM_144,NEXT,NextDecade Corp,proposed sale $79K,79167,,https://www.sec.gov/Archives/edgar/data/1843865/000195917326007743/0001959173-26-007743-index.htm,LOW
+2026-11-04T20:11:38+00:00,FORM_144,TILE,Interface Inc.,proposed sale $313K,312510,,https://www.sec.gov/Archives/edgar/data/1094629/000162828026070034/0001628280-26-070034-index.htm,LOW
