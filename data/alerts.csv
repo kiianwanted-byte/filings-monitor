@@ -5927,3 +5927,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-04T18:56:33+00:00,FORM_144,MAR,MARRIOTT INTERNATIONAL INC /MD/,proposed sale $2.10M,2100819,,https://www.sec.gov/Archives/edgar/data/1497635/000195917326007735/0001959173-26-007735-index.htm,LOW
 2026-11-04T19:06:38+00:00,FORM_144,W,Wayfair Inc.,proposed sale $1.25M,1250000,,https://www.sec.gov/Archives/edgar/data/1620093/000195917326007737/0001959173-26-007737-index.htm,LOW
 2026-11-04T19:06:39+00:00,FORM_144,CHCO,CITY HOLDING CO,proposed sale $74K,74393,,https://www.sec.gov/Archives/edgar/data/1601955/000100027526000120/0001000275-26-000120-index.htm,LOW
+2026-11-04T19:16:32+00:00,INSIDER_CLUSTER,RGCO,RGC RESOURCES INC,Oliver Lawrence T. $200,200,2,https://www.sec.gov/Archives/edgar/data/1801438/000143774926034861/0001437749-26-034861-index.htm,HIGH
+2026-11-04T19:16:35+00:00,FORM_144,W,Wayfair Inc.,proposed sale $1.25M,1250000,,https://www.sec.gov/Archives/edgar/data/1620052/000195917326007738/0001959173-26-007738-index.htm,LOW
