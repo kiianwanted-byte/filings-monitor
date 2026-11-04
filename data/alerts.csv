@@ -5936,3 +5936,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-04T19:36:35+00:00,FORM_144,MAR,MARRIOTT INTERNATIONAL INC /MD/,proposed sale $2.38M,2376745,,https://www.sec.gov/Archives/edgar/data/1461996/000195917326007741/0001959173-26-007741-index.htm,LOW
 2026-11-04T19:41:35+00:00,FORM_144,IDXX,IDEXX LABORATORIES INC /DE,proposed sale $346K,345835,,https://www.sec.gov/Archives/edgar/data/1094159/000195917326007742/0001959173-26-007742-index.htm,LOW
 2026-11-04T19:46:36+00:00,INSIDER_BUY,,"Partners Group Growth, LLC",Partners Group Finance (USD) AG $19.98M,19978119,3,https://www.sec.gov/Archives/edgar/data/2089261/000208926126000008/0002089261-26-000008-index.htm,LOW
+2026-11-04T20:01:40+00:00,FORM_144,GMED,GLOBUS MEDICAL INC,proposed sale $425K,425000,,https://www.sec.gov/Archives/edgar/data/1250252/000197407826000400/0001974078-26-000400-index.htm,LOW
