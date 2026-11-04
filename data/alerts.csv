@@ -6053,3 +6053,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-04T21:42:02+00:00,FORM_144,RYZ,Ryerson Holding Corp,proposed sale $96K,96300,,https://www.sec.gov/Archives/edgar/data/1682850/000195917326007761/0001959173-26-007761-index.htm,LOW
 2026-11-04T21:42:03+00:00,FORM_144,FFIV,"F5, INC.",proposed sale $3.11M,3108505,,https://www.sec.gov/Archives/edgar/data/1728330/000195004726010708/0001950047-26-010708-index.htm,LOW
 2026-11-04T21:42:03+00:00,FORM_144,ZIP,ZIPRECRUITER INC,proposed sale $126K,126000,,https://www.sec.gov/Archives/edgar/data/1859446/000195004726010707/0001950047-26-010707-index.htm,LOW
+2026-11-04T21:46:54+00:00,FORM_144,MCK,MCKESSON CORP,proposed sale $630K,630000,,https://www.sec.gov/Archives/edgar/data/1990490/000195917326007763/0001959173-26-007763-index.htm,LOW
+2026-11-04T21:46:55+00:00,FORM_144,REGN,"Regeneron Pharmaceuticals, Inc.",proposed sale $175K,175204,,https://www.sec.gov/Archives/edgar/data/2009236/000196858226001101/0001968582-26-001101-index.htm,LOW
+2026-11-04T21:46:55+00:00,FORM_144,MDLZ,MONDELEZ INTERNATIONAL INC,proposed sale $8.42M,8419039,,https://www.sec.gov/Archives/edgar/data/1536137/000195004726010710/0001950047-26-010710-index.htm,LOW
+2026-11-04T21:46:56+00:00,FORM_144,LGND,LIGAND PHARMACEUTICALS INC,proposed sale $90K,90225,,https://www.sec.gov/Archives/edgar/data/1376960/000195779926000193/0001957799-26-000193-index.htm,LOW
+2026-11-04T21:46:56+00:00,FORM_144,ICE,"INTERCONTINENTAL EXCHANGE, INC.",proposed sale $646K,645602,,https://www.sec.gov/Archives/edgar/data/1729468/000195004726010709/0001950047-26-010709-index.htm,LOW
