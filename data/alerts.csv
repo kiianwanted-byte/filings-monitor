@@ -6094,3 +6094,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-04T23:36:35+00:00,FORM_144,ARHS,"Arhaus, Inc.",proposed sale $2.35M,2354113,,https://www.sec.gov/Archives/edgar/data/1888118/000195824426000696/0001958244-26-000696-index.htm,LOW
 2026-11-04T23:47:32+00:00,INSIDER_BUY,ASPE,"Aspen Neuroscience, Inc.",ORBIMED ADVISORS LLC $15.00M,15000000,2,https://www.sec.gov/Archives/edgar/data/2124080/000094787126000980/0000947871-26-000980-index.htm,HIGH
 2026-11-04T23:53:04+00:00,INSIDER_BUY,ASPE,"Aspen Neuroscience, Inc.",Thompson Peter A. $15.00M,15000000,2,https://www.sec.gov/Archives/edgar/data/2124080/000094787126000981/0000947871-26-000981-index.htm,HIGH
+2026-11-05T00:21:31+00:00,FORM_144,DAL,"DELTA AIR LINES, INC.",proposed sale $4.01M,4011556,,https://www.sec.gov/Archives/edgar/data/1647706/000198681026000003/0001986810-26-000003-index.htm,LOW
