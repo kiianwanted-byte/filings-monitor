@@ -6162,3 +6162,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-05T20:56:35+00:00,FORM_144,IDXX,IDEXX LABORATORIES INC /DE,proposed sale $494K,494043,,https://www.sec.gov/Archives/edgar/data/1094159/000197235926000004/0001972359-26-000004-index.htm,LOW
 2026-11-05T20:56:36+00:00,FORM_144,FSV,FirstService Corp,proposed sale $915K,914580,,https://www.sec.gov/Archives/edgar/data/1637810/000195917326007793/0001959173-26-007793-index.htm,LOW
 2026-11-05T20:56:36+00:00,FORM_144,ESCA,Escalade Inc,proposed sale $42K,42000,,https://www.sec.gov/Archives/edgar/data/1356214/000162828026070968/0001628280-26-070968-index.htm,LOW
+2026-11-05T21:01:30+00:00,FORM_144,BETA,"BETA Technologies, Inc.",proposed sale $240K,239793,,https://www.sec.gov/Archives/edgar/data/2090083/000195917326007794/0001959173-26-007794-index.htm,LOW
+2026-11-05T21:01:31+00:00,FORM_144,TEVA,TEVA PHARMACEUTICAL INDUSTRIES LTD,proposed sale $1.93M,1928728,,https://www.sec.gov/Archives/edgar/data/1721442/000197337926000362/0001973379-26-000362-index.htm,LOW
+2026-11-05T21:01:32+00:00,FORM_144,FOR,Forestar Group Inc.,proposed sale $74K,74310,,https://www.sec.gov/Archives/edgar/data/1784817/000192109426001146/0001921094-26-001146-index.htm,LOW
