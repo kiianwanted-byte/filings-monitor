@@ -6239,3 +6239,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-05T21:41:40+00:00,FORM_144,BC,BRUNSWICK CORPORATION,proposed sale $3.80M,3801796,,https://www.sec.gov/Archives/edgar/data/1741006/000195004726010755/0001950047-26-010755-index.htm,LOW
 2026-11-05T21:46:44+00:00,FORM_144,GIC,GLOBAL INDUSTRIAL COMPANY,proposed sale $176K,175860,,https://www.sec.gov/Archives/edgar/data/1140170/000195004726010756/0001950047-26-010756-index.htm,LOW
 2026-11-05T21:46:45+00:00,FORM_144,SYK,STRYKER CORP,proposed sale $186.81M,186807500,,https://www.sec.gov/Archives/edgar/data/1242914/000124291426000011/0001242914-26-000011-index.htm,MEDIUM
+2026-11-05T21:51:37+00:00,INSIDER_BUY,GLXY,Galaxy Digital Inc.,Novogratz Michael $9.86M,9864345,0,https://www.sec.gov/Archives/edgar/data/1912562/000138061526000013/0001380615-26-000013-index.htm,MEDIUM
+2026-11-05T21:51:38+00:00,FORM_144,TFIN,"Triumph Financial, Inc.",proposed sale $1.78M,1777156,,https://www.sec.gov/Archives/edgar/data/1621666/000196858226001111/0001968582-26-001111-index.htm,LOW
