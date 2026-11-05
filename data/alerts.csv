@@ -6107,3 +6107,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-05T14:51:39+00:00,FORM_144,AGCO,AGCO CORP /DE,proposed sale $3.09M,3086917,,https://www.sec.gov/Archives/edgar/data/1797545/000179754526000010/0001797545-26-000010-index.htm,LOW
 2026-11-05T14:56:40+00:00,FORM_144,CFFI,C & F FINANCIAL CORP CFFI,proposed sale $175K,175078,,https://www.sec.gov/Archives/edgar/data/1200512/000120051226000018/0001200512-26-000018-index.htm,LOW
 2026-11-05T14:56:40+00:00,FORM_144,ESAB,ESAB Corp,proposed sale $294K,294390,,https://www.sec.gov/Archives/edgar/data/1877322/000195917326007765/0001959173-26-007765-index.htm,LOW
+2026-11-05T15:01:39+00:00,FORM_144,PROV,PROVIDENT FINANCIAL HOLDINGS INC,proposed sale $104K,104000,,https://www.sec.gov/Archives/edgar/data/1180894/000093905726000289/0000939057-26-000289-index.htm,LOW
