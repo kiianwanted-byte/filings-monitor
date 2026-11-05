@@ -6145,3 +6145,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-05T19:01:34+00:00,INSIDER_CLUSTER,TTMI,TTM TECHNOLOGIES INC,Ali Wajid $632K,631541,0,https://www.sec.gov/Archives/edgar/data/1561100/000119312526449379/0001193125-26-449379-index.htm,HIGH
 2026-11-05T19:01:36+00:00,FORM_144,NEXN,Nexxen International Ltd.,proposed sale $13.68M,13680000,,https://www.sec.gov/Archives/edgar/data/1849396/000183460026000027/0001834600-26-000027-index.htm,LOW
 2026-11-05T19:01:36+00:00,FORM_144,WM,WASTE MANAGEMENT INC,proposed sale $121K,121000,,https://www.sec.gov/Archives/edgar/data/2005460/000195917326007787/0001959173-26-007787-index.htm,LOW
+2026-11-05T19:21:32+00:00,FORM_144,AIG,American International Group Inc.,proposed sale $38.00M,38002400,,https://www.sec.gov/Archives/edgar/data/1428849/000196922326001130/0001969223-26-001130-index.htm,MEDIUM
+2026-11-05T19:21:33+00:00,FORM_144,TREX,TREX CO INC,proposed sale $70K,70400,,https://www.sec.gov/Archives/edgar/data/1987902/000197337926000359/0001973379-26-000359-index.htm,LOW
