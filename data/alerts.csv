@@ -6099,3 +6099,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-05T01:26:34+00:00,FORM_144,RM,Regional Management Corp.,proposed sale $198K,198011,,https://www.sec.gov/Archives/edgar/data/1519641/000089914026001206/0000899140-26-001206-index.htm,LOW
 2026-11-05T01:26:34+00:00,FORM_144,RM,Regional Management Corp.,proposed sale $518K,518450,,https://www.sec.gov/Archives/edgar/data/1519401/000089914026001205/0000899140-26-001205-index.htm,LOW
 2026-11-05T01:26:35+00:00,FORM_144,RM,Regional Management Corp.,proposed sale $208K,207589,,https://www.sec.gov/Archives/edgar/data/1519401/000089914026001204/0000899140-26-001204-index.htm,LOW
+2026-11-05T01:31:38+00:00,FORM_144,HCA,HCA Healthcare Inc.,proposed sale $16.32M,16317602,,https://www.sec.gov/Archives/edgar/data/1513235/000162828026070445/0001628280-26-070445-index.htm,LOW
+2026-11-05T01:31:38+00:00,FORM_144,RM,Regional Management Corp.,proposed sale $10K,10277,,https://www.sec.gov/Archives/edgar/data/1519401/000089914026001208/0000899140-26-001208-index.htm,LOW
