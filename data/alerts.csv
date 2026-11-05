@@ -6110,3 +6110,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-05T15:01:39+00:00,FORM_144,PROV,PROVIDENT FINANCIAL HOLDINGS INC,proposed sale $104K,104000,,https://www.sec.gov/Archives/edgar/data/1180894/000093905726000289/0000939057-26-000289-index.htm,LOW
 2026-11-05T15:06:38+00:00,FORM_144,RM,Regional Management Corp.,proposed sale $323K,322907,,https://www.sec.gov/Archives/edgar/data/1809898/000194984626000632/0001949846-26-000632-index.htm,LOW
 2026-11-05T15:21:35+00:00,FORM_144,SNEX,StoneX Group Inc,proposed sale $89K,89493,,https://www.sec.gov/Archives/edgar/data/1318349/000162828026070706/0001628280-26-070706-index.htm,LOW
+2026-11-05T15:26:33+00:00,FORM_144,GNRC,GENERAC HOLDINGS INC.,proposed sale $55K,54603,,https://www.sec.gov/Archives/edgar/data/1474735/000195917326007766/0001959173-26-007766-index.htm,LOW
+2026-11-05T15:26:34+00:00,FORM_144,BXC,BlueLinx Holdings Inc.,proposed sale $367K,367161,,https://www.sec.gov/Archives/edgar/data/1361379/000194984626000633/0001949846-26-000633-index.htm,LOW
