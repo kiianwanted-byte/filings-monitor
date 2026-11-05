@@ -6139,3 +6139,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-05T18:01:32+00:00,FORM_144,BWB,Bridgewater Bancshares Inc,proposed sale $405K,405000,,https://www.sec.gov/Archives/edgar/data/1733123/000195917326007785/0001959173-26-007785-index.htm,LOW
 2026-11-05T18:06:30+00:00,FORM_144,GLRE,"GREENLIGHT CAPITAL RE, LTD.",proposed sale $411K,411000,,https://www.sec.gov/Archives/edgar/data/1963517/000194984626000635/0001949846-26-000635-index.htm,LOW
 2026-11-05T18:11:40+00:00,INSIDER_CLUSTER,PAM,Pampa Energy Inc.,Mindlin Damian Miguel $2.62M,2616097,2,https://www.sec.gov/Archives/edgar/data/2028916/000202891626000012/0002028916-26-000012-index.htm,HIGH
+2026-11-05T18:16:33+00:00,FORM_144,CFR,"CULLEN/FROST BANKERS, INC.",proposed sale $459K,458896,,https://www.sec.gov/Archives/edgar/data/1388772/000195917326007786/0001959173-26-007786-index.htm,LOW
+2026-11-05T18:16:34+00:00,FORM_144,TSBK,TIMBERLAND BANCORP INC,proposed sale $96K,95520,,https://www.sec.gov/Archives/edgar/data/1511246/000197407826000402/0001974078-26-000402-index.htm,LOW
