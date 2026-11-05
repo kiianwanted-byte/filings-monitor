@@ -6171,3 +6171,9 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-05T21:07:13+00:00,FORM_144,KFRC,Kforce Inc.,proposed sale $29K,29491,,https://www.sec.gov/Archives/edgar/data/1034045/000103404526000015/0001034045-26-000015-index.htm,LOW
 2026-11-05T21:07:15+00:00,FORM_144,ACN,Accenture plc,proposed sale $2.70M,2700000,,https://www.sec.gov/Archives/edgar/data/2030841/000196922326001131/0001969223-26-001131-index.htm,LOW
 2026-11-05T21:07:15+00:00,FORM_144,AMPL,"Amplitude, Inc.",proposed sale $1K,1105,,https://www.sec.gov/Archives/edgar/data/1882913/000195917326007795/0001959173-26-007795-index.htm,LOW
+2026-11-05T21:11:57+00:00,FORM_144,DIS,Walt Disney Co,proposed sale $2.47M,2466240,,https://www.sec.gov/Archives/edgar/data/1905613/000196430626000499/0001964306-26-000499-index.htm,LOW
+2026-11-05T21:11:57+00:00,FORM_144,VCEL,Vericel Corp,proposed sale $157K,156682,,https://www.sec.gov/Archives/edgar/data/1220363/000195917326007797/0001959173-26-007797-index.htm,LOW
+2026-11-05T21:11:58+00:00,FORM_144,EBC,"EASTERN BANKSHARES, INC.",proposed sale $755K,754980,,https://www.sec.gov/Archives/edgar/data/1825603/000195004726010721/0001950047-26-010721-index.htm,LOW
+2026-11-05T21:11:58+00:00,FORM_144,DD,"DuPont de Nemours, Inc.",proposed sale $13.15M,13154896,,https://www.sec.gov/Archives/edgar/data/1666700/000196430626000498/0001964306-26-000498-index.htm,LOW
+2026-11-05T21:11:59+00:00,FORM_144,WGO,"WINNEBAGO INDUSTRIES, INC.",proposed sale $477K,477213,,https://www.sec.gov/Archives/edgar/data/1476342/000195004726010720/0001950047-26-010720-index.htm,LOW
+2026-11-05T21:11:59+00:00,FORM_144,BBNX,"Beta Bionics, Inc",proposed sale $7K,6508,,https://www.sec.gov/Archives/edgar/data/2048588/000162828026071026/0001628280-26-071026-index.htm,LOW
