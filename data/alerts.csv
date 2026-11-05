@@ -6243,3 +6243,9 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-05T21:51:38+00:00,FORM_144,TFIN,"Triumph Financial, Inc.",proposed sale $1.78M,1777156,,https://www.sec.gov/Archives/edgar/data/1621666/000196858226001111/0001968582-26-001111-index.htm,LOW
 2026-11-05T21:56:37+00:00,FORM_144,LARK,LANDMARK BANCORP INC,proposed sale $14K,14000,,https://www.sec.gov/Archives/edgar/data/1141688/000100027526000123/0001000275-26-000123-index.htm,LOW
 2026-11-05T21:56:38+00:00,FORM_144,HSTM,"HealthStream, Inc.",proposed sale $106K,106000,,https://www.sec.gov/Archives/edgar/data/1500801/000143774926035319/0001437749-26-035319-index.htm,LOW
+2026-11-05T22:06:41+00:00,FORM_144,HSTM,"HealthStream, Inc.",proposed sale $306K,306000,,https://www.sec.gov/Archives/edgar/data/1769058/000143774926035329/0001437749-26-035329-index.htm,LOW
+2026-11-05T22:06:41+00:00,FORM_144,ULCC,Frontier Group Holdings Inc,proposed sale $39K,39302,,https://www.sec.gov/Archives/edgar/data/2007448/000196922326001137/0001969223-26-001137-index.htm,LOW
+2026-11-05T22:06:42+00:00,FORM_144,ULCC,Frontier Group Holdings Inc,proposed sale $90K,90000,,https://www.sec.gov/Archives/edgar/data/1911236/000196922326001136/0001969223-26-001136-index.htm,LOW
+2026-11-05T22:06:43+00:00,FORM_144,ULCC,Frontier Group Holdings Inc,proposed sale $262K,262430,,https://www.sec.gov/Archives/edgar/data/1677476/000196922326001135/0001969223-26-001135-index.htm,LOW
+2026-11-05T22:06:43+00:00,FORM_144,HSTM,"HealthStream, Inc.",proposed sale $640K,640000,,https://www.sec.gov/Archives/edgar/data/1715401/000143774926035325/0001437749-26-035325-index.htm,LOW
+2026-11-05T22:06:44+00:00,FORM_144,WEX,WEX Inc.,proposed sale $36.02M,36022000,,https://www.sec.gov/Archives/edgar/data/1786767/000092189526002939/0000921895-26-002939-index.htm,MEDIUM
