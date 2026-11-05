@@ -6151,3 +6151,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-05T19:47:04+00:00,FORM_144,DGICA,DONEGAL GROUP INC,proposed sale $87K,87120,,https://www.sec.gov/Archives/edgar/data/1360841/000197337926000361/0001973379-26-000361-index.htm,LOW
 2026-11-05T19:47:04+00:00,FORM_144,VCEL,Vericel Corp,proposed sale $79K,79350,,https://www.sec.gov/Archives/edgar/data/1916145/000195917326007788/0001959173-26-007788-index.htm,LOW
 2026-11-05T20:01:33+00:00,FORM_144,ALAB,"Astera Labs, Inc.",proposed sale $37.41M,37414702,,https://www.sec.gov/Archives/edgar/data/1736297/000197325126000041/0001973251-26-000041-index.htm,MEDIUM
+2026-11-05T20:11:39+00:00,FORM_144,RCKT,"ROCKET PHARMACEUTICALS, INC.",proposed sale $128K,127807,,https://www.sec.gov/Archives/edgar/data/1704342/000195917326007789/0001959173-26-007789-index.htm,LOW
