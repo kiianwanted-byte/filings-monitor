@@ -6258,3 +6258,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-05T22:46:31+00:00,INSIDER_CLUSTER,BXMT,"BLACKSTONE MORTGAGE TRUST, INC.",Johnson Timothy Steven $1.04M,1035351,1,https://www.sec.gov/Archives/edgar/data/1978300/000106163026000102/0001061630-26-000102-index.htm,HIGH
 2026-11-05T22:51:36+00:00,INSIDER_CLUSTER,ETRA,"Electra Therapeutics, Inc.",GORDON CARL L $3.61M,3605116,2,https://www.sec.gov/Archives/edgar/data/2088082/000094787126000986/0000947871-26-000986-index.htm,HIGH
 2026-11-05T23:11:31+00:00,FORM_144,ZM,"Zoom Communications, Inc.",proposed sale $1.87M,1873746,,https://www.sec.gov/Archives/edgar/data/1773806/000195824426000699/0001958244-26-000699-index.htm,LOW
+2026-11-05T23:16:37+00:00,FORM_144,EBAY,eBay Inc.,proposed sale $2.74M,2740837,,https://www.sec.gov/Archives/edgar/data/1495849/000195824426000700/0001958244-26-000700-index.htm,LOW
