@@ -6104,3 +6104,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-05T01:46:59+00:00,FORM_144,MIRM,"MIRUM PHARMACEUTICALS, INC.",proposed sale $1.42M,1423907,,https://www.sec.gov/Archives/edgar/data/1759425/000167013826000007/0001670138-26-000007-index.htm,LOW
 2026-11-05T14:22:00+00:00,INSIDER_BUY,LBTY,Liberty Global Ltd.,Rodriguez Enrique $2.00M,1995978,1,https://www.sec.gov/Archives/edgar/data/1570585/000157058526000156/0001570585-26-000156-index.htm,MEDIUM
 2026-11-05T14:22:02+00:00,INSIDER_CLUSTER,LBTY,Liberty Global Ltd.,FRIES MICHAEL T $1.03M,1030172,1,https://www.sec.gov/Archives/edgar/data/1570585/000105872526000011/0001058725-26-000011-index.htm,HIGH
+2026-11-05T14:51:39+00:00,FORM_144,AGCO,AGCO CORP /DE,proposed sale $3.09M,3086917,,https://www.sec.gov/Archives/edgar/data/1797545/000179754526000010/0001797545-26-000010-index.htm,LOW
