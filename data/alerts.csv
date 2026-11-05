@@ -6095,3 +6095,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-04T23:47:32+00:00,INSIDER_BUY,ASPE,"Aspen Neuroscience, Inc.",ORBIMED ADVISORS LLC $15.00M,15000000,2,https://www.sec.gov/Archives/edgar/data/2124080/000094787126000980/0000947871-26-000980-index.htm,HIGH
 2026-11-04T23:53:04+00:00,INSIDER_BUY,ASPE,"Aspen Neuroscience, Inc.",Thompson Peter A. $15.00M,15000000,2,https://www.sec.gov/Archives/edgar/data/2124080/000094787126000981/0000947871-26-000981-index.htm,HIGH
 2026-11-05T00:21:31+00:00,FORM_144,DAL,"DELTA AIR LINES, INC.",proposed sale $4.01M,4011556,,https://www.sec.gov/Archives/edgar/data/1647706/000198681026000003/0001986810-26-000003-index.htm,LOW
+2026-11-05T01:26:34+00:00,FORM_144,RM,Regional Management Corp.,proposed sale $26K,25634,,https://www.sec.gov/Archives/edgar/data/1538637/000089914026001207/0000899140-26-001207-index.htm,LOW
+2026-11-05T01:26:34+00:00,FORM_144,RM,Regional Management Corp.,proposed sale $198K,198011,,https://www.sec.gov/Archives/edgar/data/1519641/000089914026001206/0000899140-26-001206-index.htm,LOW
+2026-11-05T01:26:34+00:00,FORM_144,RM,Regional Management Corp.,proposed sale $518K,518450,,https://www.sec.gov/Archives/edgar/data/1519401/000089914026001205/0000899140-26-001205-index.htm,LOW
+2026-11-05T01:26:35+00:00,FORM_144,RM,Regional Management Corp.,proposed sale $208K,207589,,https://www.sec.gov/Archives/edgar/data/1519401/000089914026001204/0000899140-26-001204-index.htm,LOW
