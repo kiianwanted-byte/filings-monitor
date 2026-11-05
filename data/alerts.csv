@@ -6190,3 +6190,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-05T21:16:45+00:00,FORM_144,EXR,EXTRA SPACE STORAGE INC.,proposed sale $809K,809200,,https://www.sec.gov/Archives/edgar/data/1596298/000195004726010722/0001950047-26-010722-index.htm,LOW
 2026-11-05T21:16:46+00:00,FORM_144,MCBS,"MetroCity Bankshares, Inc.",proposed sale $212K,212263,,https://www.sec.gov/Archives/edgar/data/1754359/000195779926000194/0001957799-26-000194-index.htm,LOW
 2026-11-05T21:16:46+00:00,FORM_144,CL,COLGATE PALMOLIVE CO,proposed sale $2.01M,2005162,,https://www.sec.gov/Archives/edgar/data/1464265/000196430626000500/0001964306-26-000500-index.htm,LOW
+2026-11-05T21:21:46+00:00,INSIDER_BUY,CLX,CLOROX CO /DE/,Breber Pierre R $400K,400250,1,https://www.sec.gov/Archives/edgar/data/1594960/000122520826008735/0001225208-26-008735-index.htm,MEDIUM
+2026-11-05T21:21:48+00:00,FORM_144,JXN,Jackson Financial Inc.,proposed sale $1.53M,1528746,,https://www.sec.gov/Archives/edgar/data/1856349/000195917326007801/0001959173-26-007801-index.htm,LOW
+2026-11-05T21:21:49+00:00,FORM_144,VCEL,Vericel Corp,proposed sale $1.14M,1144078,,https://www.sec.gov/Archives/edgar/data/1841148/000195917326007800/0001959173-26-007800-index.htm,LOW
+2026-11-05T21:21:50+00:00,FORM_144,WKC,WORLD KINECT CORPORATION,proposed sale $475K,475339,,https://www.sec.gov/Archives/edgar/data/1628995/000195004726010729/0001950047-26-010729-index.htm,LOW
+2026-11-05T21:21:52+00:00,FORM_144,CAR,"AVIS BUDGET GROUP, INC.",proposed sale $2.17M,2167897,,https://www.sec.gov/Archives/edgar/data/1934960/000162828026071084/0001628280-26-071084-index.htm,LOW
