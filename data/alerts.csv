@@ -6165,3 +6165,9 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-05T21:01:30+00:00,FORM_144,BETA,"BETA Technologies, Inc.",proposed sale $240K,239793,,https://www.sec.gov/Archives/edgar/data/2090083/000195917326007794/0001959173-26-007794-index.htm,LOW
 2026-11-05T21:01:31+00:00,FORM_144,TEVA,TEVA PHARMACEUTICAL INDUSTRIES LTD,proposed sale $1.93M,1928728,,https://www.sec.gov/Archives/edgar/data/1721442/000197337926000362/0001973379-26-000362-index.htm,LOW
 2026-11-05T21:01:32+00:00,FORM_144,FOR,Forestar Group Inc.,proposed sale $74K,74310,,https://www.sec.gov/Archives/edgar/data/1784817/000192109426001146/0001921094-26-001146-index.htm,LOW
+2026-11-05T21:07:09+00:00,FORM_144,AMPH,"Amphastar Pharmaceuticals, Inc.",proposed sale $366K,366189,,https://www.sec.gov/Archives/edgar/data/1297184/000196922326001133/0001969223-26-001133-index.htm,LOW
+2026-11-05T21:07:10+00:00,FORM_144,XMTR,"Xometry, Inc.",proposed sale $1.13M,1134500,,https://www.sec.gov/Archives/edgar/data/1869814/000196922326001132/0001969223-26-001132-index.htm,LOW
+2026-11-05T21:07:11+00:00,FORM_144,OPLN,"OPENLANE, Inc.",proposed sale $14K,14496,,https://www.sec.gov/Archives/edgar/data/1791222/000195917326007796/0001959173-26-007796-index.htm,LOW
+2026-11-05T21:07:13+00:00,FORM_144,KFRC,Kforce Inc.,proposed sale $29K,29491,,https://www.sec.gov/Archives/edgar/data/1034045/000103404526000015/0001034045-26-000015-index.htm,LOW
+2026-11-05T21:07:15+00:00,FORM_144,ACN,Accenture plc,proposed sale $2.70M,2700000,,https://www.sec.gov/Archives/edgar/data/2030841/000196922326001131/0001969223-26-001131-index.htm,LOW
+2026-11-05T21:07:15+00:00,FORM_144,AMPL,"Amplitude, Inc.",proposed sale $1K,1105,,https://www.sec.gov/Archives/edgar/data/1882913/000195917326007795/0001959173-26-007795-index.htm,LOW
