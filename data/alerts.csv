@@ -6235,3 +6235,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-05T21:36:48+00:00,FORM_144,APPF,"AppFolio, Inc.",proposed sale $4.78M,4782712,,https://www.sec.gov/Archives/edgar/data/1433195/000195004726010754/0001950047-26-010754-index.htm,LOW
 2026-11-05T21:36:48+00:00,FORM_144,APPF,"AppFolio, Inc.",proposed sale $6.82M,6821280,,https://www.sec.gov/Archives/edgar/data/1433195/000195004726010753/0001950047-26-010753-index.htm,LOW
 2026-11-05T21:36:53+00:00,FORM_144,XERS,"XERIS BIOPHARMA HOLDINGS, INC.",proposed sale $262K,261500,,https://www.sec.gov/Archives/edgar/data/2031695/000195004726010752/0001950047-26-010752-index.htm,LOW
+2026-11-05T21:41:39+00:00,FORM_144,BETR,Better Home & Finance,proposed sale $42K,41737,,https://www.sec.gov/Archives/edgar/data/1835856/000196922326001134/0001969223-26-001134-index.htm,LOW
+2026-11-05T21:41:40+00:00,FORM_144,BC,BRUNSWICK CORPORATION,proposed sale $3.80M,3801796,,https://www.sec.gov/Archives/edgar/data/1741006/000195004726010755/0001950047-26-010755-index.htm,LOW
