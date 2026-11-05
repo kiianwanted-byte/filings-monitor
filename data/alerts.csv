@@ -6117,3 +6117,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-05T15:36:45+00:00,FORM_144,AEIS,ADVANCED ENERGY INDUSTRIES INC,proposed sale $53K,53005,,https://www.sec.gov/Archives/edgar/data/1770310/000195917326007767/0001959173-26-007767-index.htm,LOW
 2026-11-05T15:36:46+00:00,FORM_144,BALL,BALL Corp,proposed sale $417K,417000,,https://www.sec.gov/Archives/edgar/data/1948384/000197407826000401/0001974078-26-000401-index.htm,LOW
 2026-11-05T15:46:37+00:00,INSIDER_CLUSTER,BCBP,BCB BANCORP INC,Gallotta Steven E. $502,502,3,https://www.sec.gov/Archives/edgar/data/1826510/000119312526448980/0001193125-26-448980-index.htm,HIGH
+2026-11-05T16:16:42+00:00,FORM_144,MRSH,"MARSH & MCLENNAN COMPANIES, INC.",proposed sale $152K,151705,,https://www.sec.gov/Archives/edgar/data/1836104/000195917326007772/0001959173-26-007772-index.htm,LOW
+2026-11-05T16:16:42+00:00,FORM_144,IR,Ingersoll Rand Inc.,proposed sale $831K,831470,,https://www.sec.gov/Archives/edgar/data/1699150/000195917326007771/0001959173-26-007771-index.htm,LOW
+2026-11-05T16:16:43+00:00,FORM_144,SBUX,STARBUCKS CORP,proposed sale $245K,245190,,https://www.sec.gov/Archives/edgar/data/2018223/000195917326007770/0001959173-26-007770-index.htm,LOW
+2026-11-05T16:16:43+00:00,FORM_144,KVYO,"Klaviyo, Inc.",proposed sale $2.01M,2005274,,https://www.sec.gov/Archives/edgar/data/1991125/000195917326007769/0001959173-26-007769-index.htm,LOW
+2026-11-05T16:16:44+00:00,FORM_144,W,Wayfair Inc.,proposed sale $859K,859110,,https://www.sec.gov/Archives/edgar/data/1867558/000195917326007768/0001959173-26-007768-index.htm,LOW
