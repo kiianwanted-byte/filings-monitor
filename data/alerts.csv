@@ -6131,3 +6131,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-05T16:36:40+00:00,FORM_144,RDN,RADIAN GROUP INC,proposed sale $309K,308600,,https://www.sec.gov/Archives/edgar/data/2113057/000195917326007777/0001959173-26-007777-index.htm,LOW
 2026-11-05T16:56:51+00:00,FORM_144,AVY,Avery Dennison Corp,proposed sale $775K,775209,,https://www.sec.gov/Archives/edgar/data/1568244/000195917326007780/0001959173-26-007780-index.htm,LOW
 2026-11-05T17:16:36+00:00,FORM_144,WSBC,WESBANCO INC,proposed sale $120K,120375,,https://www.sec.gov/Archives/edgar/data/1963082/000195917326007781/0001959173-26-007781-index.htm,LOW
+2026-11-05T17:26:39+00:00,FORM_144,ADP,AUTOMATIC DATA PROCESSING INC,proposed sale $2.11M,2111720,,https://www.sec.gov/Archives/edgar/data/1487699/000195917326007782/0001959173-26-007782-index.htm,LOW
