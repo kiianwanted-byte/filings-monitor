@@ -6263,3 +6263,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-05T23:32:09+00:00,INSIDER_BUY,,Third Point Private Capital Income Fund,Loeb Daniel S $4.00M,4000000,2,https://www.sec.gov/Archives/edgar/data/2122354/000089914026001214/0000899140-26-001214-index.htm,LOW
 2026-11-05T23:32:11+00:00,FORM_144,FRMI,Fermi Inc.,proposed sale $7.65M,7650000,,https://www.sec.gov/Archives/edgar/data/2071778/000195824426000701/0001958244-26-000701-index.htm,LOW
 2026-11-05T23:32:12+00:00,STAKE_13D,,Third Point Private Capital Partners,Third Point Private Capital Partners 0.0%,,,https://www.sec.gov/Archives/edgar/data/2025369/000089914026001213/0000899140-26-001213-index.htm,HIGH
+2026-11-05T23:41:32+00:00,STAKE_13D,,Third Point Private Capital Income Fund,Third Point Private Capital Income Fund 0.0%,,,https://www.sec.gov/Archives/edgar/data/2122354/000089914026001217/0000899140-26-001217-index.htm,HIGH
