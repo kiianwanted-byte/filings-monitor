@@ -6112,3 +6112,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-05T15:21:35+00:00,FORM_144,SNEX,StoneX Group Inc,proposed sale $89K,89493,,https://www.sec.gov/Archives/edgar/data/1318349/000162828026070706/0001628280-26-070706-index.htm,LOW
 2026-11-05T15:26:33+00:00,FORM_144,GNRC,GENERAC HOLDINGS INC.,proposed sale $55K,54603,,https://www.sec.gov/Archives/edgar/data/1474735/000195917326007766/0001959173-26-007766-index.htm,LOW
 2026-11-05T15:26:34+00:00,FORM_144,BXC,BlueLinx Holdings Inc.,proposed sale $367K,367161,,https://www.sec.gov/Archives/edgar/data/1361379/000194984626000633/0001949846-26-000633-index.htm,LOW
+2026-11-05T15:36:44+00:00,FORM_144,PFIS,PEOPLES FINANCIAL SERVICES CORP.,proposed sale $182K,182250,,https://www.sec.gov/Archives/edgar/data/1951740/000165495426009551/0001654954-26-009551-index.htm,LOW
+2026-11-05T15:36:45+00:00,FORM_144,DY,DYCOM INDUSTRIES INC,proposed sale $212K,212330,,https://www.sec.gov/Archives/edgar/data/1829962/000194984626000634/0001949846-26-000634-index.htm,LOW
+2026-11-05T15:36:45+00:00,FORM_144,AEIS,ADVANCED ENERGY INDUSTRIES INC,proposed sale $53K,53005,,https://www.sec.gov/Archives/edgar/data/1770310/000195917326007767/0001959173-26-007767-index.htm,LOW
+2026-11-05T15:36:46+00:00,FORM_144,BALL,BALL Corp,proposed sale $417K,417000,,https://www.sec.gov/Archives/edgar/data/1948384/000197407826000401/0001974078-26-000401-index.htm,LOW
