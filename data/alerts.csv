@@ -6158,3 +6158,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-05T20:41:33+00:00,FORM_144,SGHT,"Sight Sciences, Inc.",proposed sale $261K,260521,,https://www.sec.gov/Archives/edgar/data/1650737/000195917326007791/0001959173-26-007791-index.htm,LOW
 2026-11-05T20:46:32+00:00,FORM_144,SLDE,"Slide Insurance Holdings, Inc",proposed sale $1.33M,1331000,,https://www.sec.gov/Archives/edgar/data/2057333/000162828026070964/0001628280-26-070964-index.htm,LOW
 2026-11-05T20:46:33+00:00,FORM_144,IRLA,"IRulya Therapeutics, Inc.",proposed sale $104K,103534,,https://www.sec.gov/Archives/edgar/data/1770790/000162828026070962/0001628280-26-070962-index.htm,LOW
+2026-11-05T20:51:48+00:00,INSIDER_BUY,OACOX,OneAscent Capital Opportunities Fund,Siverling John $288K,288250,1,https://www.sec.gov/Archives/edgar/data/2051482/000158064226007549/0001580642-26-007549-index.htm,MEDIUM
