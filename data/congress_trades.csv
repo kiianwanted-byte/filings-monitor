@@ -3182,3 +3182,9 @@ timestamp,chamber,member,ticker,asset,action,amount_low,amount_high,trade_date,f
 2026-11-02T23:50:54+00:00,House,Thomas H. Kean Jr,TXN,Texas Instruments Incorporated,BUY,1001,15000,2026-09-17,2026-10-30,43,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035591.pdf
 2026-11-04T01:14:19+00:00,House,Ann Wagner,,American Expr Natl Bank CD,SELL (partial),100001,250000,2026-10-20,2026-11-02,13,MEDIUM,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035751.pdf
 2026-11-04T22:07:57+00:00,House,Robert E. Latta,FMAO,"Farmers & Merchants Bancorp, Inc",BUY,1001,15000,2026-10-20,2026-11-03,14,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035763.pdf
+2026-11-05T18:40:25+00:00,House,Daniel Meuser,NVDA,NVIDIA Corporation - Common Stock,SELL (partial),1001,15000,2026-09-25,2026-11-05,41,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035662.pdf
+2026-11-05T18:40:26+00:00,House,Maria Elvira Salazar,CSCO,"Cisco Systems, Inc. - Common Stock",SELL,1001,15000,2026-10-23,2026-11-05,13,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035778.pdf
+2026-11-05T18:40:26+00:00,House,Maria Elvira Salazar,NVDA,NVIDIA Corporation - Common Stock,BUY,1001,15000,2026-10-23,2026-11-05,13,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035778.pdf
+2026-11-05T18:40:26+00:00,House,Maria Elvira Salazar,PG,Procter & Gamble Company,BUY,1001,15000,2026-10-23,2026-11-05,13,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035778.pdf
+2026-11-05T18:40:27+00:00,House,Mike Kelly,,Fairfax Cnty VA Ser A Go,SELL,50001,100000,2026-10-15,2026-11-04,20,MEDIUM,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035765.pdf
+2026-11-05T18:40:27+00:00,House,Mike Kelly,,North Carolina Hsg Fin Agy Hom S,BUY,50001,100000,2026-10-01,2026-11-04,34,MEDIUM,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035765.pdf
