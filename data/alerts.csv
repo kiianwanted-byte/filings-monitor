@@ -6148,3 +6148,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-05T19:21:32+00:00,FORM_144,AIG,American International Group Inc.,proposed sale $38.00M,38002400,,https://www.sec.gov/Archives/edgar/data/1428849/000196922326001130/0001969223-26-001130-index.htm,MEDIUM
 2026-11-05T19:21:33+00:00,FORM_144,TREX,TREX CO INC,proposed sale $70K,70400,,https://www.sec.gov/Archives/edgar/data/1987902/000197337926000359/0001973379-26-000359-index.htm,LOW
 2026-11-05T19:31:35+00:00,FORM_144,DGICA,DONEGAL GROUP INC,proposed sale $351K,351000,,https://www.sec.gov/Archives/edgar/data/1590558/000197337926000360/0001973379-26-000360-index.htm,LOW
+2026-11-05T19:47:04+00:00,FORM_144,DGICA,DONEGAL GROUP INC,proposed sale $87K,87120,,https://www.sec.gov/Archives/edgar/data/1360841/000197337926000361/0001973379-26-000361-index.htm,LOW
+2026-11-05T19:47:04+00:00,FORM_144,VCEL,Vericel Corp,proposed sale $79K,79350,,https://www.sec.gov/Archives/edgar/data/1916145/000195917326007788/0001959173-26-007788-index.htm,LOW
