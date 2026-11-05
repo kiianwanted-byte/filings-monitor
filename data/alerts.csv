@@ -6126,3 +6126,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-05T16:26:41+00:00,FORM_144,ORLY,O REILLY AUTOMOTIVE INC,proposed sale $988K,987623,,https://www.sec.gov/Archives/edgar/data/1697324/000195917326007774/0001959173-26-007774-index.htm,LOW
 2026-11-05T16:31:34+00:00,FORM_144,NI,NISOURCE INC.,proposed sale $296K,296270,,https://www.sec.gov/Archives/edgar/data/1813738/000195917326007776/0001959173-26-007776-index.htm,LOW
 2026-11-05T16:31:35+00:00,FORM_144,MCK,MCKESSON CORP,proposed sale $717K,716924,,https://www.sec.gov/Archives/edgar/data/1990490/000195917326007775/0001959173-26-007775-index.htm,LOW
+2026-11-05T16:36:39+00:00,FORM_144,IBTA,"Ibotta, Inc.",proposed sale $736K,735540,,https://www.sec.gov/Archives/edgar/data/2052469/000195917326007779/0001959173-26-007779-index.htm,LOW
+2026-11-05T16:36:40+00:00,FORM_144,MSFT,MICROSOFT CORP,proposed sale $8.73M,8732311,,https://www.sec.gov/Archives/edgar/data/1899931/000195917326007778/0001959173-26-007778-index.htm,LOW
+2026-11-05T16:36:40+00:00,FORM_144,RDN,RADIAN GROUP INC,proposed sale $309K,308600,,https://www.sec.gov/Archives/edgar/data/2113057/000195917326007777/0001959173-26-007777-index.htm,LOW
