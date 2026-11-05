@@ -6136,3 +6136,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-05T17:52:28+00:00,FORM_144,MCO,MOODYS CORP /DE/,proposed sale $49K,49335,,https://www.sec.gov/Archives/edgar/data/2062050/000195917326007784/0001959173-26-007784-index.htm,LOW
 2026-11-05T17:56:49+00:00,FORM_144,FLUT,Flutter Entertainment plc,proposed sale $82K,81600,,https://www.sec.gov/Archives/edgar/data/2028515/000197337926000358/0001973379-26-000358-index.htm,LOW
 2026-11-05T17:56:49+00:00,FORM_144,FLUT,Flutter Entertainment plc,proposed sale $307K,306887,,https://www.sec.gov/Archives/edgar/data/2012952/000197337926000357/0001973379-26-000357-index.htm,LOW
+2026-11-05T18:01:32+00:00,FORM_144,BWB,Bridgewater Bancshares Inc,proposed sale $405K,405000,,https://www.sec.gov/Archives/edgar/data/1733123/000195917326007785/0001959173-26-007785-index.htm,LOW
