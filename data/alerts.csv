@@ -6124,3 +6124,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-05T16:16:44+00:00,FORM_144,W,Wayfair Inc.,proposed sale $859K,859110,,https://www.sec.gov/Archives/edgar/data/1867558/000195917326007768/0001959173-26-007768-index.htm,LOW
 2026-11-05T16:21:31+00:00,FORM_144,VMRK,VIVMARK RESIDENTIAL,proposed sale $1.93M,1930045,,https://www.sec.gov/Archives/edgar/data/1414146/000195917326007773/0001959173-26-007773-index.htm,LOW
 2026-11-05T16:26:41+00:00,FORM_144,ORLY,O REILLY AUTOMOTIVE INC,proposed sale $988K,987623,,https://www.sec.gov/Archives/edgar/data/1697324/000195917326007774/0001959173-26-007774-index.htm,LOW
+2026-11-05T16:31:34+00:00,FORM_144,NI,NISOURCE INC.,proposed sale $296K,296270,,https://www.sec.gov/Archives/edgar/data/1813738/000195917326007776/0001959173-26-007776-index.htm,LOW
+2026-11-05T16:31:35+00:00,FORM_144,MCK,MCKESSON CORP,proposed sale $717K,716924,,https://www.sec.gov/Archives/edgar/data/1990490/000195917326007775/0001959173-26-007775-index.htm,LOW
