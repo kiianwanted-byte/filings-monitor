@@ -6116,3 +6116,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-05T15:36:45+00:00,FORM_144,DY,DYCOM INDUSTRIES INC,proposed sale $212K,212330,,https://www.sec.gov/Archives/edgar/data/1829962/000194984626000634/0001949846-26-000634-index.htm,LOW
 2026-11-05T15:36:45+00:00,FORM_144,AEIS,ADVANCED ENERGY INDUSTRIES INC,proposed sale $53K,53005,,https://www.sec.gov/Archives/edgar/data/1770310/000195917326007767/0001959173-26-007767-index.htm,LOW
 2026-11-05T15:36:46+00:00,FORM_144,BALL,BALL Corp,proposed sale $417K,417000,,https://www.sec.gov/Archives/edgar/data/1948384/000197407826000401/0001974078-26-000401-index.htm,LOW
+2026-11-05T15:46:37+00:00,INSIDER_CLUSTER,BCBP,BCB BANCORP INC,Gallotta Steven E. $502,502,3,https://www.sec.gov/Archives/edgar/data/1826510/000119312526448980/0001193125-26-448980-index.htm,HIGH
