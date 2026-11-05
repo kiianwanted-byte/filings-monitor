@@ -6133,3 +6133,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-05T17:16:36+00:00,FORM_144,WSBC,WESBANCO INC,proposed sale $120K,120375,,https://www.sec.gov/Archives/edgar/data/1963082/000195917326007781/0001959173-26-007781-index.htm,LOW
 2026-11-05T17:26:39+00:00,FORM_144,ADP,AUTOMATIC DATA PROCESSING INC,proposed sale $2.11M,2111720,,https://www.sec.gov/Archives/edgar/data/1487699/000195917326007782/0001959173-26-007782-index.htm,LOW
 2026-11-05T17:41:42+00:00,FORM_144,ADP,AUTOMATIC DATA PROCESSING INC,proposed sale $264K,264125,,https://www.sec.gov/Archives/edgar/data/1884374/000195917326007783/0001959173-26-007783-index.htm,LOW
+2026-11-05T17:52:28+00:00,FORM_144,MCO,MOODYS CORP /DE/,proposed sale $49K,49335,,https://www.sec.gov/Archives/edgar/data/2062050/000195917326007784/0001959173-26-007784-index.htm,LOW
