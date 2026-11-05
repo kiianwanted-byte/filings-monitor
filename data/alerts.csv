@@ -6154,3 +6154,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-05T20:11:39+00:00,FORM_144,RCKT,"ROCKET PHARMACEUTICALS, INC.",proposed sale $128K,127807,,https://www.sec.gov/Archives/edgar/data/1704342/000195917326007789/0001959173-26-007789-index.htm,LOW
 2026-11-05T20:26:37+00:00,FORM_144,AMAL,Amalgamated Financial Corp.,proposed sale $154K,154098,,https://www.sec.gov/Archives/edgar/data/1823608/000197407826000403/0001974078-26-000403-index.htm,LOW
 2026-11-05T20:26:37+00:00,FORM_144,GD,GENERAL DYNAMICS CORP,proposed sale $16.39M,16391415,,https://www.sec.gov/Archives/edgar/data/1222195/000195917326007790/0001959173-26-007790-index.htm,LOW
+2026-11-05T20:41:32+00:00,FORM_144,OPLN,"OPENLANE, Inc.",proposed sale $2.84M,2843362,,https://www.sec.gov/Archives/edgar/data/1891323/000195917326007792/0001959173-26-007792-index.htm,LOW
+2026-11-05T20:41:33+00:00,FORM_144,SGHT,"Sight Sciences, Inc.",proposed sale $261K,260521,,https://www.sec.gov/Archives/edgar/data/1650737/000195917326007791/0001959173-26-007791-index.htm,LOW
