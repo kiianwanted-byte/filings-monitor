@@ -6251,3 +6251,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-05T22:06:44+00:00,FORM_144,WEX,WEX Inc.,proposed sale $36.02M,36022000,,https://www.sec.gov/Archives/edgar/data/1786767/000092189526002939/0000921895-26-002939-index.htm,MEDIUM
 2026-11-05T22:26:30+00:00,INSIDER_CLUSTER,LBRT,Liberty Energy Inc.,Gosney Ryan T $45K,45000,2,https://www.sec.gov/Archives/edgar/data/1694028/000162828026071187/0001628280-26-071187-index.htm,HIGH
 2026-11-05T22:31:37+00:00,INSIDER_BUY,COUR,"Coursera, Inc.",Pale Fire Capital SE $31.45M,31450844,2,https://www.sec.gov/Archives/edgar/data/2055254/000092189526002941/0000921895-26-002941-index.htm,HIGH
+2026-11-05T22:36:31+00:00,INSIDER_BUY,LYEL,"Lyell Immunopharma, Inc.","ARCH Venture Partners IX, LLC $25.00M",24999991,1,https://www.sec.gov/Archives/edgar/data/1806952/000101297526001014/0001012975-26-001014-index.htm,HIGH
+2026-11-05T22:36:32+00:00,INSIDER_CLUSTER,LYEL,"Lyell Immunopharma, Inc.","ARCH Venture Fund XIII, L.P. $25.00M",24999991,1,https://www.sec.gov/Archives/edgar/data/2016083/000101297526001013/0001012975-26-001013-index.htm,HIGH
+2026-11-05T22:36:34+00:00,FORM_144,ANET,"Arista Networks, Inc.",proposed sale $41.38M,41381600,,https://www.sec.gov/Archives/edgar/data/1596532/000195824426000698/0001958244-26-000698-index.htm,MEDIUM
