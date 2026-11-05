@@ -6241,3 +6241,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-05T21:46:45+00:00,FORM_144,SYK,STRYKER CORP,proposed sale $186.81M,186807500,,https://www.sec.gov/Archives/edgar/data/1242914/000124291426000011/0001242914-26-000011-index.htm,MEDIUM
 2026-11-05T21:51:37+00:00,INSIDER_BUY,GLXY,Galaxy Digital Inc.,Novogratz Michael $9.86M,9864345,0,https://www.sec.gov/Archives/edgar/data/1912562/000138061526000013/0001380615-26-000013-index.htm,MEDIUM
 2026-11-05T21:51:38+00:00,FORM_144,TFIN,"Triumph Financial, Inc.",proposed sale $1.78M,1777156,,https://www.sec.gov/Archives/edgar/data/1621666/000196858226001111/0001968582-26-001111-index.htm,LOW
+2026-11-05T21:56:37+00:00,FORM_144,LARK,LANDMARK BANCORP INC,proposed sale $14K,14000,,https://www.sec.gov/Archives/edgar/data/1141688/000100027526000123/0001000275-26-000123-index.htm,LOW
+2026-11-05T21:56:38+00:00,FORM_144,HSTM,"HealthStream, Inc.",proposed sale $106K,106000,,https://www.sec.gov/Archives/edgar/data/1500801/000143774926035319/0001437749-26-035319-index.htm,LOW
