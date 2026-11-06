@@ -2004,3 +2004,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-11-06T11:21:34+00:00,2026-04-03,VISM,"VISIUM TECHNOLOGIES, INC.",Adler Bo Niclas,10% owner,500000000,0.00,350000,NEW,0001493152-26-050346
 2026-11-06T11:21:35+00:00,2026-11-03,SYNX,Silynxcom Ltd.,Klein Gal Nir,"Director, VP Marketing & Israel Sales",19940,0.99,19707,39.8,0001213900-26-116554
 2026-11-06T11:21:36+00:00,2026-11-03,SYNX,Silynxcom Ltd.,Klein Nir,"Director, Chief Executive Officer",19940,0.99,19707,0.7,0001213900-26-116552
+2026-11-06T11:41:28+00:00,2026-11-05,AGMB,AgomAb Therapeutics NV,Epstein David R,Director,15000,6.90,103500,60.0,0001445826-26-000018
