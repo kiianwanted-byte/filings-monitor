@@ -6306,3 +6306,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-06T17:21:32+00:00,FORM_144,TRU,TransUnion,proposed sale $2.36M,2364929,,https://www.sec.gov/Archives/edgar/data/1687957/000195917326007817/0001959173-26-007817-index.htm,LOW
 2026-11-06T17:36:36+00:00,FORM_144,CASK,"SEMPREON, INC",proposed sale $1.02M,1018800,,https://www.sec.gov/Archives/edgar/data/1854819/000114036126042372/0001140361-26-042372-index.htm,LOW
 2026-11-06T17:46:37+00:00,FORM_144,ALGT,Allegiant Travel CO,proposed sale $562K,561510,,https://www.sec.gov/Archives/edgar/data/1467050/000194984626000642/0001949846-26-000642-index.htm,LOW
+2026-11-06T17:56:33+00:00,FORM_144,LNC,Lincoln National Corp,proposed sale $2.05M,2054421,,https://www.sec.gov/Archives/edgar/data/59558/000196922326001138/0001969223-26-001138-index.htm,LOW
+2026-11-06T17:56:33+00:00,FORM_144,AEP,AMERICAN ELECTRIC POWER CO INC,proposed sale $142K,141908,,https://www.sec.gov/Archives/edgar/data/2036339/000195917326007818/0001959173-26-007818-index.htm,LOW
