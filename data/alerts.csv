@@ -6285,3 +6285,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-06T15:06:38+00:00,INSIDER_BUY,YPF,YPF SOCIEDAD ANONIMA,Francos Guillermo Alberto $356K,356340,103,https://www.sec.gov/Archives/edgar/data/2120097/000129281426005166/0001292814-26-005166-index.htm,MEDIUM
 2026-11-06T15:11:38+00:00,FORM_144,DAL,"DELTA AIR LINES, INC.",proposed sale $2.41M,2406127,,https://www.sec.gov/Archives/edgar/data/1449365/000195917326007806/0001959173-26-007806-index.htm,LOW
 2026-11-06T15:11:39+00:00,FORM_144,SMTC,SEMTECH CORP,proposed sale $202K,202000,,https://www.sec.gov/Archives/edgar/data/1156899/000195917326007805/0001959173-26-007805-index.htm,LOW
+2026-11-06T15:16:35+00:00,FORM_144,PFIS,PEOPLES FINANCIAL SERVICES CORP,proposed sale $178K,177697,,https://www.sec.gov/Archives/edgar/data/1261966/000162828026071441/0001628280-26-071441-index.htm,LOW
