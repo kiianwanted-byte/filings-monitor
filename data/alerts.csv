@@ -6384,3 +6384,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-06T21:51:35+00:00,FORM_144,SN,"SharkNinja, Inc.",proposed sale $4.47M,4466019,,https://www.sec.gov/Archives/edgar/data/1987603/000195917326007837/0001959173-26-007837-index.htm,LOW
 2026-11-06T21:51:35+00:00,FORM_144,ONON,On Holding AG,proposed sale $14.83M,14828300,,https://www.sec.gov/Archives/edgar/data/1860218/000195824426000703/0001958244-26-000703-index.htm,LOW
 2026-11-06T21:51:36+00:00,STAKE_13D,,CVR ENERGY INC,CVR ENERGY INC 0.0%,,,https://www.sec.gov/Archives/edgar/data/1376139/000119312526451979/0001193125-26-451979-index.htm,HIGH
+2026-11-06T21:56:31+00:00,INSIDER_BUY,KOD,Kodiak Sciences Inc.,BAKER BROS. ADVISORS LP $24.34M,24340835,2,https://www.sec.gov/Archives/edgar/data/1580575/000119312526451994/0001193125-26-451994-index.htm,HIGH
+2026-11-06T21:56:39+00:00,FORM_144,MS,MORGAN STANLEY,proposed sale $454K,454348,,https://www.sec.gov/Archives/edgar/data/1555318/000195004726010790/0001950047-26-010790-index.htm,LOW
