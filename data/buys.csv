@@ -2007,3 +2007,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-11-06T11:41:28+00:00,2026-11-05,AGMB,AgomAb Therapeutics NV,Epstein David R,Director,15000,6.90,103500,60.0,0001445826-26-000018
 2026-11-06T12:06:33+00:00,2026-11-05,OWLS,OBOOK HOLDINGS INC.,WANG CHUN KAI,"Director, Chief Executive Officer",400,2.35,942,0.0,0002109337-26-000014
 2026-11-06T12:31:31+00:00,2026-11-05,MTDR,Matador Resources Co,Erman Bryan A,President,915,50.79,46472,21.5,0002015754-26-000003
+2026-11-06T12:36:37+00:00,2026-11-05,MTDR,Matador Resources Co,Elsener William Thomas,"EVP, Reservoir Engineering",900,51.48,46332,0.8,0001934692-26-000008
