@@ -6333,3 +6333,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-06T21:06:46+00:00,FORM_144,ATRC,"ATRICURE, INC.",proposed sale $143K,143397,,https://www.sec.gov/Archives/edgar/data/1323885/000195004726010764/0001950047-26-010764-index.htm,LOW
 2026-11-06T21:06:46+00:00,FORM_144,U,Unity Software Inc.,proposed sale $5.13M,5130000,,https://www.sec.gov/Archives/edgar/data/1810806/000192109426001147/0001921094-26-001147-index.htm,LOW
 2026-11-06T21:06:46+00:00,FORM_144,APPN,Appian Corporation,proposed sale $1.62M,1620900,,https://www.sec.gov/Archives/edgar/data/1441683/000196858226001114/0001968582-26-001114-index.htm,LOW
+2026-11-06T21:13:34+00:00,FORM_144,GDYN,"GRID DYNAMICS HOLDINGS, INC.",proposed sale $20K,19890,,https://www.sec.gov/Archives/edgar/data/1743725/000195004726010766/0001950047-26-010766-index.htm,LOW
+2026-11-06T21:13:35+00:00,FORM_144,SO,Southern Company,proposed sale $306K,306002,,https://www.sec.gov/Archives/edgar/data/1849295/000162828026071674/0001628280-26-071674-index.htm,LOW
+2026-11-06T21:13:35+00:00,FORM_144,COF,CAPITAL ONE FINANCIAL CORPORATION,proposed sale $339K,339208,,https://www.sec.gov/Archives/edgar/data/1181669/000195004726010765/0001950047-26-010765-index.htm,LOW
+2026-11-06T21:13:36+00:00,FORM_144,XMTR,"Xometry, Inc.",proposed sale $449K,448920,,https://www.sec.gov/Archives/edgar/data/1786790/000196922326001140/0001969223-26-001140-index.htm,LOW
