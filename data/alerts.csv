@@ -6320,3 +6320,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-06T19:41:40+00:00,FORM_144,CALX,"CALIX, INC",proposed sale $2.33M,2326354,,https://www.sec.gov/Archives/edgar/data/1483757/000195779926000195/0001957799-26-000195-index.htm,LOW
 2026-11-06T19:51:33+00:00,FORM_144,NIC,NICOLET BANKSHARES INC,proposed sale $616K,616222,,https://www.sec.gov/Archives/edgar/data/1253903/000195917326007824/0001959173-26-007824-index.htm,LOW
 2026-11-06T20:01:35+00:00,FORM_144,AFG,"American Financial Group, Inc.",proposed sale $47K,47061,,https://www.sec.gov/Archives/edgar/data/1816887/000119312526451651/0001193125-26-451651-index.htm,LOW
+2026-11-06T20:11:34+00:00,FORM_144,UL,UNILEVER PLC,proposed sale $2.12M,2119136,,https://www.sec.gov/Archives/edgar/data/1219440/000195917326007825/0001959173-26-007825-index.htm,LOW
