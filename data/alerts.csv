@@ -6268,3 +6268,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-06T01:06:30+00:00,FORM_144,YUMC,"Yum! China Holding, Inc.",proposed sale $54K,53784,,https://www.sec.gov/Archives/edgar/data/2013881/000162828026071253/0001628280-26-071253-index.htm,LOW
 2026-11-06T01:26:37+00:00,FORM_144,FNRN,FIRST NORTHERN COMMUNITY BANCORP,proposed sale $41K,40995,,https://www.sec.gov/Archives/edgar/data/1700166/000143774926035377/0001437749-26-035377-index.htm,LOW
 2026-11-06T01:31:36+00:00,INSIDER_BUY,FLOC,Flowco Holdings Inc.,Fairbanks Jonathan B. $293K,292924,1,https://www.sec.gov/Archives/edgar/data/2048763/000119312526450429/0001193125-26-450429-index.htm,MEDIUM
+2026-11-06T01:46:32+00:00,FORM_144,RM,Regional Management Corp.,proposed sale $2K,1620,,https://www.sec.gov/Archives/edgar/data/1519401/000089914026001226/0000899140-26-001226-index.htm,LOW
+2026-11-06T01:46:32+00:00,FORM_144,RM,Regional Management Corp.,proposed sale $672,672,,https://www.sec.gov/Archives/edgar/data/1519401/000089914026001225/0000899140-26-001225-index.htm,LOW
