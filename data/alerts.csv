@@ -6264,3 +6264,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-05T23:32:11+00:00,FORM_144,FRMI,Fermi Inc.,proposed sale $7.65M,7650000,,https://www.sec.gov/Archives/edgar/data/2071778/000195824426000701/0001958244-26-000701-index.htm,LOW
 2026-11-05T23:32:12+00:00,STAKE_13D,,Third Point Private Capital Partners,Third Point Private Capital Partners 0.0%,,,https://www.sec.gov/Archives/edgar/data/2025369/000089914026001213/0000899140-26-001213-index.htm,HIGH
 2026-11-05T23:41:32+00:00,STAKE_13D,,Third Point Private Capital Income Fund,Third Point Private Capital Income Fund 0.0%,,,https://www.sec.gov/Archives/edgar/data/2122354/000089914026001217/0000899140-26-001217-index.htm,HIGH
+2026-11-06T00:01:33+00:00,INSIDER_CLUSTER,MTDR,Matador Resources Co,Calvert Christopher P $105K,105140,0,https://www.sec.gov/Archives/edgar/data/2020286/000202028626000011/0002020286-26-000011-index.htm,HIGH

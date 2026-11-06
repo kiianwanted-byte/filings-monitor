@@ -1992,3 +1992,5 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-11-05T23:16:33+00:00,2026-11-03,BOLD,"Boundless Bio, Inc.",TANG KEVIN,10% owner,11162,2.40,26788,0.4,0001178579-26-000023
 2026-11-05T23:27:00+00:00,2026-05-15,,Third Point Private Capital Partners,Loeb Daniel S,10% owner,332159,29.18,9691163,20.7,0000899140-26-001212
 2026-11-05T23:32:09+00:00,2026-11-03,,Third Point Private Capital Income Fund,Loeb Daniel S,10% owner,160000,25.00,4000000,16000.0,0000899140-26-001214
+2026-11-06T00:01:31+00:00,2026-11-05,MTDR,Matador Resources Co,Colodney Benjamin T,SVP & Chief Accounting Officer,500,51.52,25760,3.8,0002074755-26-000008
+2026-11-06T00:01:33+00:00,2026-11-05,MTDR,Matador Resources Co,Calvert Christopher P,EVP and CFO,2000,52.57,105140,4.5,0002020286-26-000011
