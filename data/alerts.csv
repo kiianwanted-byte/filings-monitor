@@ -6386,3 +6386,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-06T21:51:36+00:00,STAKE_13D,,CVR ENERGY INC,CVR ENERGY INC 0.0%,,,https://www.sec.gov/Archives/edgar/data/1376139/000119312526451979/0001193125-26-451979-index.htm,HIGH
 2026-11-06T21:56:31+00:00,INSIDER_BUY,KOD,Kodiak Sciences Inc.,BAKER BROS. ADVISORS LP $24.34M,24340835,2,https://www.sec.gov/Archives/edgar/data/1580575/000119312526451994/0001193125-26-451994-index.htm,HIGH
 2026-11-06T21:56:39+00:00,FORM_144,MS,MORGAN STANLEY,proposed sale $454K,454348,,https://www.sec.gov/Archives/edgar/data/1555318/000195004726010790/0001950047-26-010790-index.htm,LOW
+2026-11-06T22:01:42+00:00,FORM_144,EGBN,"EAGLE BANCORP, INC.",proposed sale $67K,67264,,https://www.sec.gov/Archives/edgar/data/1783608/000195004726010791/0001950047-26-010791-index.htm,LOW
+2026-11-06T22:01:42+00:00,STAKE_13D,,Triple Flag Precious Metals Corp.,Triple Flag Precious Metals Corp. 0.0%,,,https://www.sec.gov/Archives/edgar/data/1829726/000091957426007484/0000919574-26-007484-index.htm,HIGH
