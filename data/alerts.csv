@@ -6302,3 +6302,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-06T16:36:37+00:00,FORM_144,GDYN,GRID DYNAMICS HOLDINGS INC.,proposed sale $697K,696909,,https://www.sec.gov/Archives/edgar/data/1743725/000195917326007815/0001959173-26-007815-index.htm,LOW
 2026-11-06T16:56:34+00:00,FORM_144,SNOW,Snowflake Inc.,proposed sale $14.00M,14000816,,https://www.sec.gov/Archives/edgar/data/1640147/000197325126000042/0001973251-26-000042-index.htm,LOW
 2026-11-06T17:16:31+00:00,FORM_144,HLT,Hilton Worldwide Holdings Inc.,proposed sale $5.79M,5788748,,https://www.sec.gov/Archives/edgar/data/1653153/000195917326007816/0001959173-26-007816-index.htm,LOW
+2026-11-06T17:21:32+00:00,FORM_144,WEYS,WEYCO GROUP INC,proposed sale $58K,57521,,https://www.sec.gov/Archives/edgar/data/1691675/000194984626000641/0001949846-26-000641-index.htm,LOW
+2026-11-06T17:21:32+00:00,FORM_144,TRU,TransUnion,proposed sale $2.36M,2364929,,https://www.sec.gov/Archives/edgar/data/1687957/000195917326007817/0001959173-26-007817-index.htm,LOW
