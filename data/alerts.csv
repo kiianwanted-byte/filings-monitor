@@ -6278,3 +6278,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-06T11:21:34+00:00,INSIDER_BUY,VISM,"VISIUM TECHNOLOGIES, INC.",Adler Bo Niclas $350K,350000,217,https://www.sec.gov/Archives/edgar/data/2064570/000149315226050346/0001493152-26-050346-index.htm,MEDIUM
 2026-11-06T12:11:32+00:00,FORM_144,GCBC,GREENE COUNTY BANCORP INC,proposed sale $368K,368000,,https://www.sec.gov/Archives/edgar/data/1247575/000143774926035403/0001437749-26-035403-index.htm,LOW
 2026-11-06T14:31:40+00:00,FORM_144,SBGI,"Sinclair, Inc.",proposed sale $9.92M,9919000,,https://www.sec.gov/Archives/edgar/data/1971213/000194984626000637/0001949846-26-000637-index.htm,LOW
+2026-11-06T14:46:36+00:00,FORM_144,TDOC,"Teladoc Health, Inc.",proposed sale $271K,270774,,https://www.sec.gov/Archives/edgar/data/2037711/000195917326007802/0001959173-26-007802-index.htm,LOW
