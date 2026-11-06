@@ -6337,3 +6337,9 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-06T21:13:35+00:00,FORM_144,SO,Southern Company,proposed sale $306K,306002,,https://www.sec.gov/Archives/edgar/data/1849295/000162828026071674/0001628280-26-071674-index.htm,LOW
 2026-11-06T21:13:35+00:00,FORM_144,COF,CAPITAL ONE FINANCIAL CORPORATION,proposed sale $339K,339208,,https://www.sec.gov/Archives/edgar/data/1181669/000195004726010765/0001950047-26-010765-index.htm,LOW
 2026-11-06T21:13:36+00:00,FORM_144,XMTR,"Xometry, Inc.",proposed sale $449K,448920,,https://www.sec.gov/Archives/edgar/data/1786790/000196922326001140/0001969223-26-001140-index.htm,LOW
+2026-11-06T21:17:02+00:00,FORM_144,HST,"HOST HOTELS & RESORTS, INC.",proposed sale $342K,341978,,https://www.sec.gov/Archives/edgar/data/1403594/000195004726010768/0001950047-26-010768-index.htm,LOW
+2026-11-06T21:17:02+00:00,FORM_144,TBBK,"Bancorp, Inc.",proposed sale $217K,217035,,https://www.sec.gov/Archives/edgar/data/1765318/000197407826000404/0001974078-26-000404-index.htm,LOW
+2026-11-06T21:17:03+00:00,FORM_144,QCOM,QUALCOMM INC/DE,proposed sale $10K,10068,,https://www.sec.gov/Archives/edgar/data/1829225/000194984626000643/0001949846-26-000643-index.htm,LOW
+2026-11-06T21:17:03+00:00,FORM_144,MSI,"MOTOROLA SOLUTIONS, INC.",proposed sale $21.08M,21083013,,https://www.sec.gov/Archives/edgar/data/1656592/000195004726010767/0001950047-26-010767-index.htm,LOW
+2026-11-06T21:17:04+00:00,FORM_144,OPLN,"OPENLANE, Inc.",proposed sale $1.36M,1357891,,https://www.sec.gov/Archives/edgar/data/1791222/000195917326007832/0001959173-26-007832-index.htm,LOW
+2026-11-06T21:17:04+00:00,FORM_144,SN,"SharkNinja, Inc.",proposed sale $26.06M,26055600,,https://www.sec.gov/Archives/edgar/data/1987144/000196858226001116/0001968582-26-001116-index.htm,MEDIUM
