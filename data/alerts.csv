@@ -6291,3 +6291,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-06T15:21:32+00:00,FORM_144,KTB,"Kontoor Brands, Inc.",proposed sale $719K,719114,,https://www.sec.gov/Archives/edgar/data/1873985/000195917326007807/0001959173-26-007807-index.htm,LOW
 2026-11-06T15:26:31+00:00,FORM_144,KMI,"KINDER MORGAN, INC.",proposed sale $562K,561534,,https://www.sec.gov/Archives/edgar/data/1570469/000196530126000174/0001965301-26-000174-index.htm,LOW
 2026-11-06T15:31:38+00:00,FORM_144,VRTX,VERTEX PHARMACEUTICALS INC / MA,proposed sale $6.31M,6307134,,https://www.sec.gov/Archives/edgar/data/1735944/000195917326007810/0001959173-26-007810-index.htm,LOW
+2026-11-06T15:41:30+00:00,FORM_144,DFIN,"Donnelley Financial Solutions, Inc.",proposed sale $999K,999206,,https://www.sec.gov/Archives/edgar/data/1847839/000195917326007811/0001959173-26-007811-index.htm,LOW
