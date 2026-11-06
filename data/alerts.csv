@@ -6400,3 +6400,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-06T22:36:34+00:00,FORM_144,SWKS,"SKYWORKS SOLUTIONS, INC.",proposed sale $3.58M,3576639,,https://www.sec.gov/Archives/edgar/data/1689676/000195004726010797/0001950047-26-010797-index.htm,LOW
 2026-11-06T22:36:35+00:00,FORM_144,ANET,"Arista Networks, Inc.",proposed sale $44.41M,44408000,,https://www.sec.gov/Archives/edgar/data/1596532/000195824426000704/0001958244-26-000704-index.htm,MEDIUM
 2026-11-06T22:41:35+00:00,FORM_144,CRSP,CRISPR THERAPEUTICS AG,proposed sale $3.96M,3960183,,https://www.sec.gov/Archives/edgar/data/1968317/000195004726010798/0001950047-26-010798-index.htm,LOW
+2026-11-06T22:46:30+00:00,FORM_144,BC,BRUNSWICK CORPORATION,proposed sale $335K,334601,,https://www.sec.gov/Archives/edgar/data/1667218/000195004726010801/0001950047-26-010801-index.htm,LOW
+2026-11-06T22:46:31+00:00,FORM_144,MSI,"MOTOROLA SOLUTIONS, INC.",proposed sale $94K,94276,,https://www.sec.gov/Archives/edgar/data/1963630/000195004726010800/0001950047-26-010800-index.htm,LOW
+2026-11-06T22:46:31+00:00,FORM_144,HST,"HOST HOTELS & RESORTS, INC.",proposed sale $2.32M,2323597,,https://www.sec.gov/Archives/edgar/data/1780487/000195004726010799/0001950047-26-010799-index.htm,LOW
