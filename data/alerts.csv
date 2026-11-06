@@ -6273,3 +6273,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-06T01:51:28+00:00,FORM_144,RM,Regional Management Corp.,proposed sale $40,40,,https://www.sec.gov/Archives/edgar/data/1519401/000089914026001229/0000899140-26-001229-index.htm,LOW
 2026-11-06T01:51:29+00:00,FORM_144,RM,Regional Management Corp.,proposed sale $632,632,,https://www.sec.gov/Archives/edgar/data/1519641/000089914026001228/0000899140-26-001228-index.htm,LOW
 2026-11-06T01:51:29+00:00,FORM_144,RM,Regional Management Corp.,proposed sale $79,79,,https://www.sec.gov/Archives/edgar/data/1538637/000089914026001227/0000899140-26-001227-index.htm,LOW
+2026-11-06T02:01:33+00:00,FORM_144,ADMA,"ADMA BIOLOGICS, INC.",proposed sale $1.98M,1980720,,https://www.sec.gov/Archives/edgar/data/1542517/000114036126042164/0001140361-26-042164-index.htm,LOW

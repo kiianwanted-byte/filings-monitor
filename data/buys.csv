@@ -1997,3 +1997,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-11-06T01:31:36+00:00,2026-11-04,FLOC,Flowco Holdings Inc.,Fairbanks Jonathan B.,"Director, 10% owner",15140,19.35,292924,96.9,0001193125-26-450429
 2026-11-06T01:41:33+00:00,2026-04-15-05:00,TRAD,APEX Tech Acquisition Inc.,Liu Shaoren,"Director, CEO and CFO, 10% owner",3029,10.00,30290,0.1,0001477932-26-006732
 2026-11-06T01:41:33+00:00,2026-02-27-05:00,TRAD,APEX Tech Acquisition Inc.,Liu Shaoren,"Director, CEO and CFO, 10% owner",208971,10.00,2089710,7.3,0001477932-26-006731
+2026-11-06T02:01:33+00:00,2026-11-05,MTUS,Metallus Inc.,RICE RONALD A,Director,10000,16.61,166100,6.6,0001193125-26-450443
