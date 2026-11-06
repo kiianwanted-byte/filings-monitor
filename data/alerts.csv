@@ -6316,3 +6316,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-06T18:31:37+00:00,FORM_144,BMY,BRISTOL MYERS SQUIBB CO,proposed sale $250K,250000,,https://www.sec.gov/Archives/edgar/data/1656082/000162828026071514/0001628280-26-071514-index.htm,LOW
 2026-11-06T18:36:31+00:00,FORM_144,KTB,"Kontoor Brands, Inc.",proposed sale $512K,511803,,https://www.sec.gov/Archives/edgar/data/2016010/000195917326007821/0001959173-26-007821-index.htm,LOW
 2026-11-06T19:06:32+00:00,FORM_144,UAL,"United Airlines Holdings, Inc.",proposed sale $1.64M,1638511,,https://www.sec.gov/Archives/edgar/data/1994659/000195917326007822/0001959173-26-007822-index.htm,LOW
+2026-11-06T19:21:34+00:00,FORM_144,VMRK,VIVMARK RESIDENTIAL,proposed sale $1.97M,1971540,,https://www.sec.gov/Archives/edgar/data/1750568/000195917326007823/0001959173-26-007823-index.htm,LOW
