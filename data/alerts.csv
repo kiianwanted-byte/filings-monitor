@@ -6324,3 +6324,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-06T20:26:36+00:00,FORM_144,PRCT,PROCEPT BioRobotics Corp,proposed sale $93K,92853,,https://www.sec.gov/Archives/edgar/data/2131636/000195917326007827/0001959173-26-007827-index.htm,LOW
 2026-11-06T20:36:34+00:00,FORM_144,KVYO,"Klaviyo, Inc.",proposed sale $285K,284825,,https://www.sec.gov/Archives/edgar/data/1835830/000195917326007828/0001959173-26-007828-index.htm,LOW
 2026-11-06T20:41:34+00:00,FORM_144,CRVL,CORVEL CORP,proposed sale $606K,606329,,https://www.sec.gov/Archives/edgar/data/1204612/000195917326007829/0001959173-26-007829-index.htm,LOW
+2026-11-06T21:01:33+00:00,FORM_144,SNAP,Snap Inc,proposed sale $9.86M,9862853,,https://www.sec.gov/Archives/edgar/data/1699322/000169932226000014/0001699322-26-000014-index.htm,LOW
+2026-11-06T21:01:34+00:00,FORM_144,QURE,uniQure N.V.,proposed sale $193K,192950,,https://www.sec.gov/Archives/edgar/data/1590560/000197337926000363/0001973379-26-000363-index.htm,LOW
+2026-11-06T21:01:34+00:00,FORM_144,ALL,ALLSTATE CORP,proposed sale $11.21M,11207051,,https://www.sec.gov/Archives/edgar/data/1190466/000195917326007830/0001959173-26-007830-index.htm,LOW
+2026-11-06T21:01:35+00:00,FORM_144,SN,"SharkNinja, Inc.",proposed sale $10.86M,10856500,,https://www.sec.gov/Archives/edgar/data/1987603/000196858226001113/0001968582-26-001113-index.htm,LOW
