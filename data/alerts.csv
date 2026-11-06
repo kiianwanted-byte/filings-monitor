@@ -6388,3 +6388,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-06T21:56:39+00:00,FORM_144,MS,MORGAN STANLEY,proposed sale $454K,454348,,https://www.sec.gov/Archives/edgar/data/1555318/000195004726010790/0001950047-26-010790-index.htm,LOW
 2026-11-06T22:01:42+00:00,FORM_144,EGBN,"EAGLE BANCORP, INC.",proposed sale $67K,67264,,https://www.sec.gov/Archives/edgar/data/1783608/000195004726010791/0001950047-26-010791-index.htm,LOW
 2026-11-06T22:01:42+00:00,STAKE_13D,,Triple Flag Precious Metals Corp.,Triple Flag Precious Metals Corp. 0.0%,,,https://www.sec.gov/Archives/edgar/data/1829726/000091957426007484/0000919574-26-007484-index.htm,HIGH
+2026-11-06T22:06:39+00:00,FORM_144,OSW,OneSpaWorld Holdings Ltd.,proposed sale $4.65M,4652373,,https://www.sec.gov/Archives/edgar/data/1758488/000196922326001141/0001969223-26-001141-index.htm,LOW
