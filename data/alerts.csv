@@ -6399,3 +6399,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-06T22:31:43+00:00,FORM_144,LNC,Lincoln National Corporation,proposed sale $685K,685300,,https://www.sec.gov/Archives/edgar/data/1976057/000196858226001122/0001968582-26-001122-index.htm,LOW
 2026-11-06T22:36:34+00:00,FORM_144,SWKS,"SKYWORKS SOLUTIONS, INC.",proposed sale $3.58M,3576639,,https://www.sec.gov/Archives/edgar/data/1689676/000195004726010797/0001950047-26-010797-index.htm,LOW
 2026-11-06T22:36:35+00:00,FORM_144,ANET,"Arista Networks, Inc.",proposed sale $44.41M,44408000,,https://www.sec.gov/Archives/edgar/data/1596532/000195824426000704/0001958244-26-000704-index.htm,MEDIUM
+2026-11-06T22:41:35+00:00,FORM_144,CRSP,CRISPR THERAPEUTICS AG,proposed sale $3.96M,3960183,,https://www.sec.gov/Archives/edgar/data/1968317/000195004726010798/0001950047-26-010798-index.htm,LOW
