@@ -6371,3 +6371,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-06T21:36:44+00:00,FORM_144,BILL,BILL HOLDINGS INC,proposed sale $509K,508900,,https://www.sec.gov/Archives/edgar/data/1795497/000195004726010783/0001950047-26-010783-index.htm,LOW
 2026-11-06T21:36:44+00:00,FORM_144,GILD,GILEAD SCIENCES INC,proposed sale $570K,569570,,https://www.sec.gov/Archives/edgar/data/2110603/000195004726010782/0001950047-26-010782-index.htm,LOW
 2026-11-06T21:36:45+00:00,FORM_144,DTIL,PRECISION BIOSCIENCES INC,proposed sale $9K,8955,,https://www.sec.gov/Archives/edgar/data/1770169/000195917326007836/0001959173-26-007836-index.htm,LOW
+2026-11-06T21:41:40+00:00,FORM_144,GDYN,"GRID DYNAMICS HOLDINGS, INC.",proposed sale $666K,665553,,https://www.sec.gov/Archives/edgar/data/1747063/000195004726010786/0001950047-26-010786-index.htm,LOW
+2026-11-06T21:41:40+00:00,FORM_144,TV,"Grupo Televisa, S.A.B.",proposed sale $109K,108578,,https://www.sec.gov/Archives/edgar/data/1318285/000196858226001118/0001968582-26-001118-index.htm,LOW
+2026-11-06T21:41:41+00:00,FORM_144,EG,"Everest Group, LTD",proposed sale $3.13M,3133425,,https://www.sec.gov/Archives/edgar/data/1139501/000196858226001117/0001968582-26-001117-index.htm,LOW
