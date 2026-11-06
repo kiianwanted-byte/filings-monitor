@@ -6308,3 +6308,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-06T17:46:37+00:00,FORM_144,ALGT,Allegiant Travel CO,proposed sale $562K,561510,,https://www.sec.gov/Archives/edgar/data/1467050/000194984626000642/0001949846-26-000642-index.htm,LOW
 2026-11-06T17:56:33+00:00,FORM_144,LNC,Lincoln National Corp,proposed sale $2.05M,2054421,,https://www.sec.gov/Archives/edgar/data/59558/000196922326001138/0001969223-26-001138-index.htm,LOW
 2026-11-06T17:56:33+00:00,FORM_144,AEP,AMERICAN ELECTRIC POWER CO INC,proposed sale $142K,141908,,https://www.sec.gov/Archives/edgar/data/2036339/000195917326007818/0001959173-26-007818-index.htm,LOW
+2026-11-06T18:06:34+00:00,FORM_144,ALGT,Allegiant Travel CO,proposed sale $372K,372393,,https://www.sec.gov/Archives/edgar/data/1467050/000195917326007820/0001959173-26-007820-index.htm,LOW
+2026-11-06T18:06:35+00:00,FORM_144,VNT,Vontier Corp,proposed sale $2.29M,2287438,,https://www.sec.gov/Archives/edgar/data/1820903/000195917326007819/0001959173-26-007819-index.htm,LOW
