@@ -6407,3 +6407,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-06T22:56:29+00:00,FORM_144,MSI,"MOTOROLA SOLUTIONS, INC.",proposed sale $5.13M,5127409,,https://www.sec.gov/Archives/edgar/data/1750714/000195004726010802/0001950047-26-010802-index.htm,LOW
 2026-11-06T23:01:30+00:00,FORM_144,FLXS,FLEXSTEEL INDUSTRIES INC,proposed sale $542K,541875,,https://www.sec.gov/Archives/edgar/data/2152375/000215237526000003/0002152375-26-000003-index.htm,LOW
 2026-11-06T23:01:30+00:00,FORM_144,UP,WHEELS UP EXPERIENCE INC.,proposed sale $14K,14074,,https://www.sec.gov/Archives/edgar/data/1967906/000195004726010803/0001950047-26-010803-index.htm,LOW
+2026-11-06T23:06:34+00:00,FORM_144,OUST,"OUSTER, INC.",proposed sale $170K,170000,,https://www.sec.gov/Archives/edgar/data/1816581/000195004726010805/0001950047-26-010805-index.htm,LOW
+2026-11-06T23:06:35+00:00,FORM_144,MSI,"MOTOROLA SOLUTIONS, INC.",proposed sale $4.93M,4931044,,https://www.sec.gov/Archives/edgar/data/1816511/000195004726010804/0001950047-26-010804-index.htm,LOW
