@@ -6313,3 +6313,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-06T18:11:31+00:00,FORM_144,NEXN,Nexxen International Ltd.,proposed sale $13.68M,13680000,,https://www.sec.gov/Archives/edgar/data/1849396/000183460026000029/0001834600-26-000029-index.htm,LOW
 2026-11-06T18:16:41+00:00,INSIDER_CLUSTER,KYN,"Kayne Anderson Energy Infrastructure Fund, Inc.",Little Harrison James $52K,51538,1,https://www.sec.gov/Archives/edgar/data/2025837/000202583726000003/0002025837-26-000003-index.htm,HIGH
 2026-11-06T18:26:33+00:00,FORM_144,WEYS,"WEYCO GROUP, INC.",proposed sale $79K,78745,,https://www.sec.gov/Archives/edgar/data/1312596/000131259626000018/0001312596-26-000018-index.htm,LOW
+2026-11-06T18:31:37+00:00,FORM_144,BMY,BRISTOL MYERS SQUIBB CO,proposed sale $250K,250000,,https://www.sec.gov/Archives/edgar/data/1656082/000162828026071514/0001628280-26-071514-index.htm,LOW
