@@ -6328,3 +6328,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-06T21:01:34+00:00,FORM_144,QURE,uniQure N.V.,proposed sale $193K,192950,,https://www.sec.gov/Archives/edgar/data/1590560/000197337926000363/0001973379-26-000363-index.htm,LOW
 2026-11-06T21:01:34+00:00,FORM_144,ALL,ALLSTATE CORP,proposed sale $11.21M,11207051,,https://www.sec.gov/Archives/edgar/data/1190466/000195917326007830/0001959173-26-007830-index.htm,LOW
 2026-11-06T21:01:35+00:00,FORM_144,SN,"SharkNinja, Inc.",proposed sale $10.86M,10856500,,https://www.sec.gov/Archives/edgar/data/1987603/000196858226001113/0001968582-26-001113-index.htm,LOW
+2026-11-06T21:06:45+00:00,FORM_144,ABNB,"Airbnb, Inc.",proposed sale $19.25M,19252516,,https://www.sec.gov/Archives/edgar/data/1834147/000195917326007831/0001959173-26-007831-index.htm,LOW
+2026-11-06T21:06:45+00:00,FORM_144,ULCC,"Frontier Group Holdings, Inc.",proposed sale $251K,250710,,https://www.sec.gov/Archives/edgar/data/1853409/000196922326001139/0001969223-26-001139-index.htm,LOW
+2026-11-06T21:06:46+00:00,FORM_144,ATRC,"ATRICURE, INC.",proposed sale $143K,143397,,https://www.sec.gov/Archives/edgar/data/1323885/000195004726010764/0001950047-26-010764-index.htm,LOW
+2026-11-06T21:06:46+00:00,FORM_144,U,Unity Software Inc.,proposed sale $5.13M,5130000,,https://www.sec.gov/Archives/edgar/data/1810806/000192109426001147/0001921094-26-001147-index.htm,LOW
+2026-11-06T21:06:46+00:00,FORM_144,APPN,Appian Corporation,proposed sale $1.62M,1620900,,https://www.sec.gov/Archives/edgar/data/1441683/000196858226001114/0001968582-26-001114-index.htm,LOW
