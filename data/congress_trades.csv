@@ -3188,3 +3188,6 @@ timestamp,chamber,member,ticker,asset,action,amount_low,amount_high,trade_date,f
 2026-11-05T18:40:26+00:00,House,Maria Elvira Salazar,PG,Procter & Gamble Company,BUY,1001,15000,2026-10-23,2026-11-05,13,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035778.pdf
 2026-11-05T18:40:27+00:00,House,Mike Kelly,,Fairfax Cnty VA Ser A Go,SELL,50001,100000,2026-10-15,2026-11-04,20,MEDIUM,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035765.pdf
 2026-11-05T18:40:27+00:00,House,Mike Kelly,,North Carolina Hsg Fin Agy Hom S,BUY,50001,100000,2026-10-01,2026-11-04,34,MEDIUM,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035765.pdf
+2026-11-06T20:31:57+00:00,House,Josh Gottheimer,AMAT,"Applied Materials, Inc. - Common",BUY,1001,15000,2026-10-26,2026-11-05,10,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035770.pdf
+2026-11-06T20:31:57+00:00,House,Josh Gottheimer,BHE,"Benchmark Electronics, Inc. Common",BUY,1001,15000,2026-10-12,2026-11-05,24,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035770.pdf
+2026-11-06T20:31:57+00:00,House,Josh Gottheimer,TLK,"PT Telekomunikasi Indonesia, Tbk",SELL,1001,15000,2026-10-15,2026-11-05,21,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035770.pdf
