@@ -6392,3 +6392,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-06T22:11:37+00:00,FORM_144,VITL,"Vital Farms, Inc.",proposed sale $3.54M,3541440,,https://www.sec.gov/Archives/edgar/data/1579733/000196858226001121/0001968582-26-001121-index.htm,LOW
 2026-11-06T22:16:36+00:00,FORM_144,ADUS,ADDUS HOMECARE CORPORATION,proposed sale $257K,257216,,https://www.sec.gov/Archives/edgar/data/1914767/000195004726010794/0001950047-26-010794-index.htm,LOW
 2026-11-06T22:16:37+00:00,FORM_144,ONC,BeOne Medicines Ltd.,proposed sale $632K,632277,,https://www.sec.gov/Archives/edgar/data/1675628/000195004726010793/0001950047-26-010793-index.htm,LOW
+2026-11-06T22:21:35+00:00,FORM_144,ADUS,ADDUS HOMECARE CORPORATION,proposed sale $248K,248353,,https://www.sec.gov/Archives/edgar/data/1923477/000195004726010795/0001950047-26-010795-index.htm,LOW
