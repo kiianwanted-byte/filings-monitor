@@ -6318,3 +6318,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-06T19:06:32+00:00,FORM_144,UAL,"United Airlines Holdings, Inc.",proposed sale $1.64M,1638511,,https://www.sec.gov/Archives/edgar/data/1994659/000195917326007822/0001959173-26-007822-index.htm,LOW
 2026-11-06T19:21:34+00:00,FORM_144,VMRK,VIVMARK RESIDENTIAL,proposed sale $1.97M,1971540,,https://www.sec.gov/Archives/edgar/data/1750568/000195917326007823/0001959173-26-007823-index.htm,LOW
 2026-11-06T19:41:40+00:00,FORM_144,CALX,"CALIX, INC",proposed sale $2.33M,2326354,,https://www.sec.gov/Archives/edgar/data/1483757/000195779926000195/0001957799-26-000195-index.htm,LOW
+2026-11-06T19:51:33+00:00,FORM_144,NIC,NICOLET BANKSHARES INC,proposed sale $616K,616222,,https://www.sec.gov/Archives/edgar/data/1253903/000195917326007824/0001959173-26-007824-index.htm,LOW
