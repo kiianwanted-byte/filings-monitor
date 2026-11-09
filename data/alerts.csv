@@ -6422,3 +6422,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-09T14:51:38+00:00,FORM_144,AFL,AFLAC INC,proposed sale $75K,74994,,https://www.sec.gov/Archives/edgar/data/1639880/000195917326007842/0001959173-26-007842-index.htm,LOW
 2026-11-09T14:51:38+00:00,FORM_144,NOW,"ServiceNow, Inc.",proposed sale $131K,131091,,https://www.sec.gov/Archives/edgar/data/1649609/000195917326007841/0001959173-26-007841-index.htm,LOW
 2026-11-09T15:11:34+00:00,FORM_144,HTFL,"Heartflow, Inc.",proposed sale $191K,190649,,https://www.sec.gov/Archives/edgar/data/2079946/000195917326007843/0001959173-26-007843-index.htm,LOW
+2026-11-09T15:16:35+00:00,FORM_144,DGX,QUEST DIAGNOSTICS INC,proposed sale $3.02M,3015252,,https://www.sec.gov/Archives/edgar/data/1497368/000195917326007844/0001959173-26-007844-index.htm,LOW
