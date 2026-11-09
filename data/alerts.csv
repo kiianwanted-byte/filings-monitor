@@ -6435,3 +6435,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-09T16:41:33+00:00,FORM_144,VPLM,Voip-pal.com Inc,proposed sale $49K,49290,,https://www.sec.gov/Archives/edgar/data/1966381/000194984626000646/0001949846-26-000646-index.htm,LOW
 2026-11-09T16:41:34+00:00,FORM_144,IBEX,IBEX Ltd,proposed sale $250K,250031,,https://www.sec.gov/Archives/edgar/data/1720420/000100027526000124/0001000275-26-000124-index.htm,LOW
 2026-11-09T16:46:35+00:00,FORM_144,TPR,"TAPESTRY, INC.",proposed sale $2.19M,2194856,,https://www.sec.gov/Archives/edgar/data/1808278/000195917326007851/0001959173-26-007851-index.htm,LOW
+2026-11-09T17:06:33+00:00,FORM_144,IBTA,"Ibotta, Inc.",proposed sale $1.42M,1421725,,https://www.sec.gov/Archives/edgar/data/1881476/000195917326007852/0001959173-26-007852-index.htm,LOW
