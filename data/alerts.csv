@@ -6636,3 +6636,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-09T23:41:37+00:00,FORM_144,XMTR,"XOMETRY, INC.",proposed sale $651K,651186,,https://www.sec.gov/Archives/edgar/data/1869994/000195824426000708/0001958244-26-000708-index.htm,LOW
 2026-11-09T23:41:38+00:00,FORM_144,ARXS,"ARXIS, INC.",proposed sale $1.26M,1256500,,https://www.sec.gov/Archives/edgar/data/2126584/000195824426000707/0001958244-26-000707-index.htm,LOW
 2026-11-09T23:41:38+00:00,FORM_144,CSTL,"Castle Biosciences, Inc.",proposed sale $452K,452234,,https://www.sec.gov/Archives/edgar/data/1856542/000195824426000706/0001958244-26-000706-index.htm,LOW
+2026-11-09T23:51:36+00:00,FORM_144,RM,Regional Management Corp.,proposed sale $1K,1378,,https://www.sec.gov/Archives/edgar/data/1538637/000089914026001249/0000899140-26-001249-index.htm,LOW
+2026-11-09T23:51:37+00:00,FORM_144,RM,Regional Management Corp.,proposed sale $544,544,,https://www.sec.gov/Archives/edgar/data/1519401/000089914026001248/0000899140-26-001248-index.htm,LOW
+2026-11-09T23:51:37+00:00,FORM_144,RM,Regional Management Corp.,proposed sale $11K,10694,,https://www.sec.gov/Archives/edgar/data/1519641/000089914026001247/0000899140-26-001247-index.htm,LOW
+2026-11-09T23:51:37+00:00,FORM_144,RM,Regional Management Corp.,proposed sale $11K,11201,,https://www.sec.gov/Archives/edgar/data/1519401/000089914026001246/0000899140-26-001246-index.htm,LOW
