@@ -6631,3 +6631,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-09T23:01:35+00:00,FORM_144,ALHC,"Alignment Healthcare, Inc.",proposed sale $40K,39985,,https://www.sec.gov/Archives/edgar/data/1832466/000162828026072366/0001628280-26-072366-index.htm,LOW
 2026-11-09T23:11:35+00:00,FORM_144,L,LOEWS CORP,proposed sale $27.93M,27932166,,https://www.sec.gov/Archives/edgar/data/1010178/000101017826000015/0001010178-26-000015-index.htm,MEDIUM
 2026-11-09T23:16:29+00:00,FORM_144,FIBK,"First Interstate BancSystem, Inc.",proposed sale $384K,384200,,https://www.sec.gov/Archives/edgar/data/1908962/000195824426000705/0001958244-26-000705-index.htm,LOW
+2026-11-09T23:41:36+00:00,FORM_144,TPR,"Tapestry, Inc.",proposed sale $4.08M,4082100,,https://www.sec.gov/Archives/edgar/data/1424688/000195824426000710/0001958244-26-000710-index.htm,LOW
+2026-11-09T23:41:37+00:00,FORM_144,LHX,"L3Harris Technologies, Inc.",proposed sale $4.07M,4071300,,https://www.sec.gov/Archives/edgar/data/1194001/000195824426000709/0001958244-26-000709-index.htm,LOW
+2026-11-09T23:41:37+00:00,FORM_144,XMTR,"XOMETRY, INC.",proposed sale $651K,651186,,https://www.sec.gov/Archives/edgar/data/1869994/000195824426000708/0001958244-26-000708-index.htm,LOW
+2026-11-09T23:41:38+00:00,FORM_144,ARXS,"ARXIS, INC.",proposed sale $1.26M,1256500,,https://www.sec.gov/Archives/edgar/data/2126584/000195824426000707/0001958244-26-000707-index.htm,LOW
+2026-11-09T23:41:38+00:00,FORM_144,CSTL,"Castle Biosciences, Inc.",proposed sale $452K,452234,,https://www.sec.gov/Archives/edgar/data/1856542/000195824426000706/0001958244-26-000706-index.htm,LOW
