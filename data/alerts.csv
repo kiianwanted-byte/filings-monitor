@@ -6591,3 +6591,9 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-09T21:46:40+00:00,FORM_144,LII,LENNOX INTERNATIONAL INC,proposed sale $86K,85814,,https://www.sec.gov/Archives/edgar/data/1926668/000195917326007881/0001959173-26-007881-index.htm,LOW
 2026-11-09T21:46:40+00:00,FORM_144,ALGT,Allegiant Travel CO,proposed sale $8.77M,8767326,,https://www.sec.gov/Archives/edgar/data/1548610/000195917326007880/0001959173-26-007880-index.htm,LOW
 2026-11-09T21:51:41+00:00,FORM_144,LAMR,Lamar Advertising Company,proposed sale $1.19M,1185524,,https://www.sec.gov/Archives/edgar/data/1736249/000196858226001126/0001968582-26-001126-index.htm,LOW
+2026-11-09T21:56:37+00:00,FORM_144,RSI,"RUSH STREET INTERACTIVE, INC.",proposed sale $682K,682215,,https://www.sec.gov/Archives/edgar/data/1834345/000195004726010881/0001950047-26-010881-index.htm,LOW
+2026-11-09T21:56:38+00:00,FORM_144,DOC,"HEALTHPEAK PROPERTIES, INC.",proposed sale $127K,127041,,https://www.sec.gov/Archives/edgar/data/1963756/000192109426001152/0001921094-26-001152-index.htm,LOW
+2026-11-09T21:56:39+00:00,FORM_144,OPLN,"OPENLANE, Inc.",proposed sale $42K,42254,,https://www.sec.gov/Archives/edgar/data/1791222/000195917326007884/0001959173-26-007884-index.htm,LOW
+2026-11-09T21:56:39+00:00,FORM_144,LASR,"NLIGHT, INC.",proposed sale $8.41M,8414124,,https://www.sec.gov/Archives/edgar/data/1738235/000195917326007883/0001959173-26-007883-index.htm,LOW
+2026-11-09T21:56:40+00:00,FORM_144,BBNX,"Beta Bionics, Inc.",proposed sale $13K,12649,,https://www.sec.gov/Archives/edgar/data/2048588/000162828026072292/0001628280-26-072292-index.htm,LOW
+2026-11-09T21:56:40+00:00,FORM_144,GDYN,"GRID DYNAMICS HOLDINGS, INC.",proposed sale $5K,5173,,https://www.sec.gov/Archives/edgar/data/1743725/000195004726010880/0001950047-26-010880-index.htm,LOW
