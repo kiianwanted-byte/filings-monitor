@@ -6629,3 +6629,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-09T22:46:34+00:00,FORM_144,XYZ,"BLOCK, INC.",proposed sale $8.90M,8900000,,https://www.sec.gov/Archives/edgar/data/1933928/000195004726010902/0001950047-26-010902-index.htm,LOW
 2026-11-09T22:46:34+00:00,FORM_144,AJG,Arthur J. Gallagher & Co.,proposed sale $4.24M,4240166,,https://www.sec.gov/Archives/edgar/data/1386997/000195917326007887/0001959173-26-007887-index.htm,LOW
 2026-11-09T23:01:35+00:00,FORM_144,ALHC,"Alignment Healthcare, Inc.",proposed sale $40K,39985,,https://www.sec.gov/Archives/edgar/data/1832466/000162828026072366/0001628280-26-072366-index.htm,LOW
+2026-11-09T23:11:35+00:00,FORM_144,L,LOEWS CORP,proposed sale $27.93M,27932166,,https://www.sec.gov/Archives/edgar/data/1010178/000101017826000015/0001010178-26-000015-index.htm,MEDIUM
