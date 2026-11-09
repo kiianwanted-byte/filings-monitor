@@ -6590,3 +6590,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-09T21:46:38+00:00,FORM_144,FWONA,Liberty Media Corporation,proposed sale $30.90M,30900000,,https://www.sec.gov/Archives/edgar/data/1560385/000196922326001149/0001969223-26-001149-index.htm,MEDIUM
 2026-11-09T21:46:40+00:00,FORM_144,LII,LENNOX INTERNATIONAL INC,proposed sale $86K,85814,,https://www.sec.gov/Archives/edgar/data/1926668/000195917326007881/0001959173-26-007881-index.htm,LOW
 2026-11-09T21:46:40+00:00,FORM_144,ALGT,Allegiant Travel CO,proposed sale $8.77M,8767326,,https://www.sec.gov/Archives/edgar/data/1548610/000195917326007880/0001959173-26-007880-index.htm,LOW
+2026-11-09T21:51:41+00:00,FORM_144,LAMR,Lamar Advertising Company,proposed sale $1.19M,1185524,,https://www.sec.gov/Archives/edgar/data/1736249/000196858226001126/0001968582-26-001126-index.htm,LOW
