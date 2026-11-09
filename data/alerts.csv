@@ -6417,3 +6417,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-09T12:46:31+00:00,INSIDER_CLUSTER,MTDR,Matador Resources Co,Harvey Paul W $26K,26360,4,https://www.sec.gov/Archives/edgar/data/2054635/000205463526000006/0002054635-26-000006-index.htm,HIGH
 2026-11-09T12:46:32+00:00,INSIDER_BUY,MTDR,Matador Resources Co,Foran Joseph Wm $257K,256800,4,https://www.sec.gov/Archives/edgar/data/1540655/000154065526000027/0001540655-26-000027-index.htm,MEDIUM
 2026-11-09T14:36:35+00:00,FORM_144,HUM,Humana Inc.,proposed sale $2.35M,2350637,,https://www.sec.gov/Archives/edgar/data/1768291/000176829126000006/0001768291-26-000006-index.htm,LOW
+2026-11-09T14:41:30+00:00,FORM_144,QCOM,QUALCOMM INC/DE,proposed sale $529K,529344,,https://www.sec.gov/Archives/edgar/data/1610762/000195917326007839/0001959173-26-007839-index.htm,LOW
