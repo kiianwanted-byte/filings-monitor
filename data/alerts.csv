@@ -6429,3 +6429,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-09T15:36:35+00:00,FORM_144,REPX,"Riley Exploration Permian, Inc.",proposed sale $141K,141365,,https://www.sec.gov/Archives/edgar/data/1847375/000194984626000645/0001949846-26-000645-index.htm,LOW
 2026-11-09T15:41:37+00:00,FORM_144,JXN,Jackson Financial Inc.,proposed sale $11.65M,11647027,,https://www.sec.gov/Archives/edgar/data/1856349/000195917326007846/0001959173-26-007846-index.htm,LOW
 2026-11-09T15:51:32+00:00,FORM_144,ABNB,"Airbnb, Inc.",proposed sale $2.65M,2648268,,https://www.sec.gov/Archives/edgar/data/1834147/000195917326007847/0001959173-26-007847-index.htm,LOW
+2026-11-09T15:56:33+00:00,FORM_144,FERG,Ferguson Enterprises Inc. /DE/,proposed sale $284K,284180,,https://www.sec.gov/Archives/edgar/data/2011641/000195917326007848/0001959173-26-007848-index.htm,LOW
