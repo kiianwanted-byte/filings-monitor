@@ -6432,3 +6432,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-09T15:56:33+00:00,FORM_144,FERG,Ferguson Enterprises Inc. /DE/,proposed sale $284K,284180,,https://www.sec.gov/Archives/edgar/data/2011641/000195917326007848/0001959173-26-007848-index.htm,LOW
 2026-11-09T16:21:35+00:00,FORM_144,VECO,VEECO INSTRUMENTS INC,proposed sale $80K,80000,,https://www.sec.gov/Archives/edgar/data/1192758/000195917326007849/0001959173-26-007849-index.htm,LOW
 2026-11-09T16:31:35+00:00,FORM_144,DHR,DANAHER CORP /DE/,proposed sale $484K,484302,,https://www.sec.gov/Archives/edgar/data/2067692/000195917326007850/0001959173-26-007850-index.htm,LOW
+2026-11-09T16:41:33+00:00,FORM_144,VPLM,Voip-pal.com Inc,proposed sale $49K,49290,,https://www.sec.gov/Archives/edgar/data/1966381/000194984626000646/0001949846-26-000646-index.htm,LOW
+2026-11-09T16:41:34+00:00,FORM_144,IBEX,IBEX Ltd,proposed sale $250K,250031,,https://www.sec.gov/Archives/edgar/data/1720420/000100027526000124/0001000275-26-000124-index.htm,LOW
