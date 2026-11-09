@@ -6616,3 +6616,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-09T22:16:38+00:00,FORM_144,ECPG,"ENCORE CAPITAL GROUP, INC.",proposed sale $1.19M,1185000,,https://www.sec.gov/Archives/edgar/data/1601513/000195004726010894/0001950047-26-010894-index.htm,LOW
 2026-11-09T22:16:38+00:00,FORM_144,SPRY,"ARS PHARMACEUTICALS, INC.",proposed sale $402K,402362,,https://www.sec.gov/Archives/edgar/data/1951287/000195004726010893/0001950047-26-010893-index.htm,LOW
 2026-11-09T22:16:38+00:00,FORM_144,MSI,"MOTOROLA SOLUTIONS, INC.",proposed sale $21.01M,21006424,,https://www.sec.gov/Archives/edgar/data/1201232/000195004726010892/0001950047-26-010892-index.htm,LOW
+2026-11-09T22:21:36+00:00,FORM_144,PLTK,PLAYTIKA HOLDING CORP.,proposed sale $554K,553652,,https://www.sec.gov/Archives/edgar/data/2022718/000195004726010895/0001950047-26-010895-index.htm,LOW
+2026-11-09T22:21:36+00:00,FORM_144,HIPO,Hippo Holdings Inc.,proposed sale $176K,176250,,https://www.sec.gov/Archives/edgar/data/1828105/000162828026072335/0001628280-26-072335-index.htm,LOW
