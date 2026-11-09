@@ -6443,3 +6443,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-09T17:21:33+00:00,FORM_144,BA,BOEING CO,proposed sale $524K,523647,,https://www.sec.gov/Archives/edgar/data/2005679/000195779926000197/0001957799-26-000197-index.htm,LOW
 2026-11-09T17:21:34+00:00,FORM_144,RPM,RPM INTERNATIONAL INC/DE/,proposed sale $196K,196129,,https://www.sec.gov/Archives/edgar/data/1388816/000195779926000196/0001957799-26-000196-index.htm,LOW
 2026-11-09T17:26:39+00:00,FORM_144,TPR,"TAPESTRY, INC.",proposed sale $7.42M,7420098,,https://www.sec.gov/Archives/edgar/data/1821332/000195917326007854/0001959173-26-007854-index.htm,LOW
+2026-11-09T17:41:31+00:00,FORM_144,FHN,FIRST HORIZON CORP,proposed sale $2.38M,2379571,,https://www.sec.gov/Archives/edgar/data/1189987/000195917326007855/0001959173-26-007855-index.htm,LOW
