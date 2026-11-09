@@ -6458,3 +6458,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-09T19:36:38+00:00,FORM_144,TRUP,"TRUPANION, INC.",proposed sale $1.76M,1760000,,https://www.sec.gov/Archives/edgar/data/1613034/000100027526000125/0001000275-26-000125-index.htm,LOW
 2026-11-09T19:51:33+00:00,FORM_144,LFST,"LifeStance Health Group, Inc.",proposed sale $960K,959715,,https://www.sec.gov/Archives/edgar/data/1845257/000195917326007862/0001959173-26-007862-index.htm,LOW
 2026-11-09T20:01:34+00:00,FORM_144,SEV,Aptera Motors Corp,proposed sale $13K,12928,,https://www.sec.gov/Archives/edgar/data/2093241/000195917326007863/0001959173-26-007863-index.htm,LOW
+2026-11-09T20:06:38+00:00,FORM_144,SEV,Aptera Motors Corp,proposed sale $13K,12915,,https://www.sec.gov/Archives/edgar/data/2093241/000195917326007864/0001959173-26-007864-index.htm,LOW
