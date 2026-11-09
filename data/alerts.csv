@@ -6456,3 +6456,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-09T19:11:36+00:00,FORM_144,PG,PROCTER & GAMBLE Co,proposed sale $370K,370080,,https://www.sec.gov/Archives/edgar/data/2134647/000008042426000274/0000080424-26-000274-index.htm,LOW
 2026-11-09T19:21:33+00:00,FORM_144,SITC,SITE Centers Corp.,proposed sale $111K,110928,,https://www.sec.gov/Archives/edgar/data/1542878/000195917326007861/0001959173-26-007861-index.htm,LOW
 2026-11-09T19:36:38+00:00,FORM_144,TRUP,"TRUPANION, INC.",proposed sale $1.76M,1760000,,https://www.sec.gov/Archives/edgar/data/1613034/000100027526000125/0001000275-26-000125-index.htm,LOW
+2026-11-09T19:51:33+00:00,FORM_144,LFST,"LifeStance Health Group, Inc.",proposed sale $960K,959715,,https://www.sec.gov/Archives/edgar/data/1845257/000195917326007862/0001959173-26-007862-index.htm,LOW
