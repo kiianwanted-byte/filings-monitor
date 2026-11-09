@@ -6468,3 +6468,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-09T20:31:34+00:00,FORM_144,CWST,CASELLA WASTE SYSTEMS INC,proposed sale $19K,19205,,https://www.sec.gov/Archives/edgar/data/1593745/000197407826000406/0001974078-26-000406-index.htm,LOW
 2026-11-09T20:36:35+00:00,FORM_144,EGBN,EAGLE BANCORP INC,proposed sale $275K,275033,,https://www.sec.gov/Archives/edgar/data/1783612/000195779926000198/0001957799-26-000198-index.htm,LOW
 2026-11-09T20:41:37+00:00,FORM_144,LII,LENNOX INTERNATIONAL INC,proposed sale $293K,292773,,https://www.sec.gov/Archives/edgar/data/1403680/000195917326007869/0001959173-26-007869-index.htm,LOW
+2026-11-09T20:51:34+00:00,FORM_144,FULT,FULTON FINANCIAL CORP,proposed sale $118K,118450,,https://www.sec.gov/Archives/edgar/data/1347709/000197407826000407/0001974078-26-000407-index.htm,LOW
