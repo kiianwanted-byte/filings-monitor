@@ -6452,3 +6452,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-09T18:41:34+00:00,FORM_144,LNC,Lincoln National,proposed sale $764K,764150,,https://www.sec.gov/Archives/edgar/data/1799551/000196922326001143/0001969223-26-001143-index.htm,LOW
 2026-11-09T18:51:33+00:00,FORM_144,LIN,LINDE PLC,proposed sale $1.30M,1301033,,https://www.sec.gov/Archives/edgar/data/2043501/000195917326007859/0001959173-26-007859-index.htm,LOW
 2026-11-09T18:56:33+00:00,STAKE_13G,,"GREENLIGHT CAPITAL RE, LTD.","GREENLIGHT CAPITAL RE, LTD. 0.0%",,,https://www.sec.gov/Archives/edgar/data/1385613/000114203126000029/0001142031-26-000029-index.htm,HIGH
+2026-11-09T19:06:38+00:00,FORM_144,UAL,"United Airlines Holdings, Inc.",proposed sale $896K,895575,,https://www.sec.gov/Archives/edgar/data/1314824/000195917326007860/0001959173-26-007860-index.htm,LOW
