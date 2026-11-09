@@ -6439,3 +6439,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-09T17:11:37+00:00,FORM_144,SCHW,SCHWAB CHARLES CORP,proposed sale $6.58M,6579382,,https://www.sec.gov/Archives/edgar/data/923738/000194984626000647/0001949846-26-000647-index.htm,LOW
 2026-11-09T17:16:33+00:00,FORM_144,FLUT,Flutter Entertainment plc,proposed sale $1.08M,1077841,,https://www.sec.gov/Archives/edgar/data/2012862/000197337926000364/0001973379-26-000364-index.htm,LOW
 2026-11-09T17:16:34+00:00,FORM_144,CRCL,"Circle Internet Group, Inc.",proposed sale $1.76M,1762488,,https://www.sec.gov/Archives/edgar/data/2060495/000195917326007853/0001959173-26-007853-index.htm,LOW
+2026-11-09T17:21:31+00:00,INSIDER_BUY,ADM,Archer-Daniels-Midland Co,McAtee David R II $487K,486720,277,https://www.sec.gov/Archives/edgar/data/1649256/000122520826008771/0001225208-26-008771-index.htm,MEDIUM
+2026-11-09T17:21:33+00:00,FORM_144,BA,BOEING CO,proposed sale $524K,523647,,https://www.sec.gov/Archives/edgar/data/2005679/000195779926000197/0001957799-26-000197-index.htm,LOW
+2026-11-09T17:21:34+00:00,FORM_144,RPM,RPM INTERNATIONAL INC/DE/,proposed sale $196K,196129,,https://www.sec.gov/Archives/edgar/data/1388816/000195779926000196/0001957799-26-000196-index.htm,LOW
