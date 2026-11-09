@@ -6460,3 +6460,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-09T20:01:34+00:00,FORM_144,SEV,Aptera Motors Corp,proposed sale $13K,12928,,https://www.sec.gov/Archives/edgar/data/2093241/000195917326007863/0001959173-26-007863-index.htm,LOW
 2026-11-09T20:06:38+00:00,FORM_144,SEV,Aptera Motors Corp,proposed sale $13K,12915,,https://www.sec.gov/Archives/edgar/data/2093241/000195917326007864/0001959173-26-007864-index.htm,LOW
 2026-11-09T20:11:42+00:00,FORM_144,UAL,"United Airlines Holdings, Inc.",proposed sale $1.40M,1400125,,https://www.sec.gov/Archives/edgar/data/1724931/000195917326007865/0001959173-26-007865-index.htm,LOW
+2026-11-09T20:21:33+00:00,INSIDER_BUY,NFRX,2023 ETF Series Trust,Harrison Street Real Assets Fund LLC $45.20M,45199994,4,https://www.sec.gov/Archives/edgar/data/1969674/000168789826000010/0001687898-26-000010-index.htm,HIGH
+2026-11-09T20:21:35+00:00,FORM_144,ALAB,"Astera Labs, Inc.",proposed sale $2.64M,2642413,,https://www.sec.gov/Archives/edgar/data/1736297/000197325126000043/0001973251-26-000043-index.htm,LOW
+2026-11-09T20:21:36+00:00,FORM_144,RCKT,"ROCKET PHARMACEUTICALS, INC.",proposed sale $11K,11335,,https://www.sec.gov/Archives/edgar/data/2064940/000195917326007867/0001959173-26-007867-index.htm,LOW
+2026-11-09T20:21:36+00:00,FORM_144,UAL,"United Airlines Holdings, Inc.",proposed sale $3.38M,3382474,,https://www.sec.gov/Archives/edgar/data/1724931/000195917326007866/0001959173-26-007866-index.htm,LOW
