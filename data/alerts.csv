@@ -6607,3 +6607,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-09T22:06:39+00:00,FORM_144,CARS,CARS.COM,proposed sale $302K,302115,,https://www.sec.gov/Archives/edgar/data/2059039/000162828026072317/0001628280-26-072317-index.htm,LOW
 2026-11-09T22:06:39+00:00,FORM_144,ULCC,Frontier Group Holdings Inc,proposed sale $297K,297368,,https://www.sec.gov/Archives/edgar/data/1671358/000196922326001150/0001969223-26-001150-index.htm,LOW
 2026-11-09T22:06:39+00:00,FORM_144,MGNI,"MAGNITE, INC.",proposed sale $276K,275915,,https://www.sec.gov/Archives/edgar/data/1807986/000195004726010887/0001950047-26-010887-index.htm,LOW
+2026-11-09T22:11:41+00:00,INSIDER_CLUSTER,WCC,WESCO INTERNATIONAL INC,Marino Anthony S $100K,99902,3,https://www.sec.gov/Archives/edgar/data/1654616/000119312526453825/0001193125-26-453825-index.htm,HIGH
+2026-11-09T22:11:45+00:00,FORM_144,MSI,"MOTOROLA SOLUTIONS, INC.",proposed sale $1.09M,1089611,,https://www.sec.gov/Archives/edgar/data/1963630/000195004726010891/0001950047-26-010891-index.htm,LOW
+2026-11-09T22:11:45+00:00,FORM_144,VTEX,VTEX,proposed sale $775K,775341,,https://www.sec.gov/Archives/edgar/data/2104075/000195004726010890/0001950047-26-010890-index.htm,LOW
+2026-11-09T22:11:45+00:00,FORM_144,MSI,"MOTOROLA SOLUTIONS, INC.",proposed sale $4.00M,3995914,,https://www.sec.gov/Archives/edgar/data/1816511/000195004726010889/0001950047-26-010889-index.htm,LOW
+2026-11-09T22:11:46+00:00,FORM_144,MGNI,"MAGNITE, INC.",proposed sale $758K,758216,,https://www.sec.gov/Archives/edgar/data/1700262/000195004726010888/0001950047-26-010888-index.htm,LOW
