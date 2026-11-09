@@ -6535,3 +6535,15 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-09T21:26:40+00:00,FORM_144,EWBC,"East West Bancorp, Inc.",proposed sale $4.62M,4621237,,https://www.sec.gov/Archives/edgar/data/1201236/000162828026072234/0001628280-26-072234-index.htm,LOW
 2026-11-09T21:26:41+00:00,FORM_144,WH,"WYNDHAM HOTELS & RESORTS, INC.",proposed sale $957K,957226,,https://www.sec.gov/Archives/edgar/data/1738507/000196430626000502/0001964306-26-000502-index.htm,LOW
 2026-11-09T21:26:41+00:00,FORM_144,EW,Edwards Lifesciences Corp,proposed sale $4.76M,4759559,,https://www.sec.gov/Archives/edgar/data/1665141/000192109426001150/0001921094-26-001150-index.htm,LOW
+2026-11-09T21:31:39+00:00,INSIDER_CLUSTER,FLOC,Flowco Holdings Inc.,Chmelev Alexander $13K,13205,4,https://www.sec.gov/Archives/edgar/data/2050063/000119312526453693/0001193125-26-453693-index.htm,HIGH
+2026-11-09T21:31:40+00:00,INSIDER_BUY,FLOC,Flowco Holdings Inc.,EDWARDS JOSEPH R $798K,798213,4,https://www.sec.gov/Archives/edgar/data/2035149/000119312526453692/0001193125-26-453692-index.htm,MEDIUM
+2026-11-09T21:32:02+00:00,FORM_144,CYRX,CRYOPORT INC,proposed sale $1.42M,1420638,,https://www.sec.gov/Archives/edgar/data/1764017/000195004726010850/0001950047-26-010850-index.htm,LOW
+2026-11-09T21:32:02+00:00,FORM_144,DDOG,"Datadog, Inc.",proposed sale $8.95M,8945017,,https://www.sec.gov/Archives/edgar/data/1783984/000195004726010849/0001950047-26-010849-index.htm,LOW
+2026-11-09T21:32:03+00:00,FORM_144,WRBY,"WARBY PARKER, INC.",proposed sale $764K,764400,,https://www.sec.gov/Archives/edgar/data/1883369/000195004726010848/0001950047-26-010848-index.htm,LOW
+2026-11-09T21:32:03+00:00,FORM_144,RBLX,Roblox Corporation,proposed sale $250K,250000,,https://www.sec.gov/Archives/edgar/data/1835037/000195004726010847/0001950047-26-010847-index.htm,LOW
+2026-11-09T21:32:04+00:00,FORM_144,GIC,GLOBAL INDUSTRIAL COMPANY,proposed sale $95K,95000,,https://www.sec.gov/Archives/edgar/data/1615469/000195004726010846/0001950047-26-010846-index.htm,LOW
+2026-11-09T21:32:04+00:00,FORM_144,CDNS,"CADENCE DESIGN SYSTEMS, INC.",proposed sale $768K,768127,,https://www.sec.gov/Archives/edgar/data/2031609/000195004726010845/0001950047-26-010845-index.htm,LOW
+2026-11-09T21:32:05+00:00,FORM_144,VCEL,Vericel Corp,proposed sale $116K,115753,,https://www.sec.gov/Archives/edgar/data/1220363/000195917326007876/0001959173-26-007876-index.htm,LOW
+2026-11-09T21:32:06+00:00,FORM_144,AMPL,"Amplitude, Inc.",proposed sale $839,838,,https://www.sec.gov/Archives/edgar/data/1882913/000195917326007875/0001959173-26-007875-index.htm,LOW
+2026-11-09T21:32:06+00:00,FORM_144,ZVIA,Zevia PBC,proposed sale $15K,14897,,https://www.sec.gov/Archives/edgar/data/1854139/000196430626000503/0001964306-26-000503-index.htm,LOW
+2026-11-09T21:32:07+00:00,FORM_144,BSM,"BLACK STONE MINERALS, L.P.",proposed sale $338K,337557,,https://www.sec.gov/Archives/edgar/data/1987724/000195004726010844/0001950047-26-010844-index.htm,LOW
