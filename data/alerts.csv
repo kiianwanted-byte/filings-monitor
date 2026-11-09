@@ -6604,3 +6604,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-09T22:01:41+00:00,FORM_144,DHR,DANAHER CORP /DE/,proposed sale $16.85M,16854419,,https://www.sec.gov/Archives/edgar/data/1692177/000195917326007885/0001959173-26-007885-index.htm,LOW
 2026-11-09T22:01:41+00:00,FORM_144,RSI,RUSH STREET INTERACTIVE INC,proposed sale $682K,682215,,https://www.sec.gov/Archives/edgar/data/1834345/000195004726010883/0001950047-26-010883-index.htm,LOW
 2026-11-09T22:01:42+00:00,FORM_144,RSI,RUSH STREET INTERACTIVE INC,proposed sale $580K,579886,,https://www.sec.gov/Archives/edgar/data/1834345/000195004726010882/0001950047-26-010882-index.htm,LOW
+2026-11-09T22:06:39+00:00,FORM_144,CARS,CARS.COM,proposed sale $302K,302115,,https://www.sec.gov/Archives/edgar/data/2059039/000162828026072317/0001628280-26-072317-index.htm,LOW
+2026-11-09T22:06:39+00:00,FORM_144,ULCC,Frontier Group Holdings Inc,proposed sale $297K,297368,,https://www.sec.gov/Archives/edgar/data/1671358/000196922326001150/0001969223-26-001150-index.htm,LOW
+2026-11-09T22:06:39+00:00,FORM_144,MGNI,"MAGNITE, INC.",proposed sale $276K,275915,,https://www.sec.gov/Archives/edgar/data/1807986/000195004726010887/0001950047-26-010887-index.htm,LOW

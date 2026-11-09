@@ -2098,3 +2098,6 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-11-09T21:36:39+00:00,2026-11-09,OBIO,"Orchestra BioMed Holdings, Inc.",Pacitti David,Director,20000,5.00,100000,36.5,0001104659-26-124537
 2026-11-09T21:36:41+00:00,2026-11-09,OBIO,"Orchestra BioMed Holdings, Inc.",Hochman David P,"Director, See Remarks",5000,5.00,25000,1.2,0001104659-26-124536
 2026-11-09T21:51:38+00:00,2026-11-06,SBMW,"Security Midwest Bancorp, Inc.",Stone Erin M,Director,500,18.10,9050,3.3,0001437749-26-035924
+2026-11-09T22:06:32+00:00,2026-11-05,ADM,Archer-Daniels-Midland Co,McAtee David R II,Director,2800,70.27,196756,NEW,0001225208-26-008783
+2026-11-09T22:06:36+00:00,2026-11-05,WCC,WESCO INTERNATIONAL INC,Dev Indraneel,EVP & CFO,1725,291.90,503527,10.2,0001193125-26-453812
+2026-11-09T22:06:38+00:00,2026-11-05,MTCH,"Match Group, Inc.",Schiffman Glenn,Director,2500,38.83,97084,3.6,0000891103-26-000164
