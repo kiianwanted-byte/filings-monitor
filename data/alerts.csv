@@ -6448,3 +6448,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-09T17:51:31+00:00,FORM_144,TPC,TUTOR PERINI CORP,proposed sale $379K,379425,,https://www.sec.gov/Archives/edgar/data/1438802/000195917326007856/0001959173-26-007856-index.htm,LOW
 2026-11-09T17:56:32+00:00,FORM_144,GNRC,GENERAC HOLDINGS INC.,proposed sale $19K,19000,,https://www.sec.gov/Archives/edgar/data/1474735/000195917326007857/0001959173-26-007857-index.htm,LOW
 2026-11-09T18:31:40+00:00,INSIDER_CLUSTER,KMT,KENNAMETAL INC,Watson Patrick S $47K,47000,3,https://www.sec.gov/Archives/edgar/data/1700266/000170026626000004/0001700266-26-000004-index.htm,HIGH
+2026-11-09T18:36:32+00:00,FORM_144,VERX,"Vertex, Inc.",proposed sale $121K,121051,,https://www.sec.gov/Archives/edgar/data/1806837/000195917326007858/0001959173-26-007858-index.htm,LOW
