@@ -6766,3 +6766,9 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-10T21:16:52+00:00,FORM_144,V,VISA INC.,proposed sale $1.44M,1438929,,https://www.sec.gov/Archives/edgar/data/1646987/000196430626000509/0001964306-26-000509-index.htm,LOW
 2026-11-10T21:16:53+00:00,FORM_144,ALRM,"ALARM.COM HOLDINGS, INC.",proposed sale $300K,300268,,https://www.sec.gov/Archives/edgar/data/1459200/000195004726010926/0001950047-26-010926-index.htm,LOW
 2026-11-10T21:16:53+00:00,FORM_144,BOX,BOX INC,proposed sale $219K,219395,,https://www.sec.gov/Archives/edgar/data/1801732/000192109426001155/0001921094-26-001155-index.htm,LOW
+2026-11-10T21:21:51+00:00,FORM_144,LTH,"Life Time Group Holdings, Inc.",proposed sale $617K,617166,,https://www.sec.gov/Archives/edgar/data/1972831/000199937126025074/0001999371-26-025074-index.htm,LOW
+2026-11-10T21:21:51+00:00,FORM_144,AI,"C3.ai, Inc.",proposed sale $10.14M,10137324,,https://www.sec.gov/Archives/edgar/data/1577526/000196858226001128/0001968582-26-001128-index.htm,LOW
+2026-11-10T21:21:52+00:00,FORM_144,G,GENPACT LIMITED,proposed sale $8.61M,8609000,,https://www.sec.gov/Archives/edgar/data/1408238/000195004726010931/0001950047-26-010931-index.htm,LOW
+2026-11-10T21:21:52+00:00,FORM_144,WEC,"WEC ENERGY GROUP, INC.",proposed sale $2.16M,2157319,,https://www.sec.gov/Archives/edgar/data/1185603/000195004726010930/0001950047-26-010930-index.htm,LOW
+2026-11-10T21:21:53+00:00,FORM_144,GSAT,"Globalstar, Inc.",proposed sale $2.00M,2002496,,https://www.sec.gov/Archives/edgar/data/1571391/000157139126000013/0001571391-26-000013-index.htm,LOW
+2026-11-10T21:21:53+00:00,FORM_144,TEVA,Teva Pharmaceutical Industries Limited,proposed sale $10.74M,10742500,,https://www.sec.gov/Archives/edgar/data/1673277/000119312526455498/0001193125-26-455498-index.htm,LOW

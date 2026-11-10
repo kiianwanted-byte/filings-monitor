@@ -2183,3 +2183,5 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-11-10T21:11:32+00:00,2026-11-09,CNXN,PC CONNECTION INC,Zafirovski Matthew David,President & COO,2490,80.20,199698,NEW,0002160413-26-000005
 2026-11-10T21:11:39+00:00,2026-11-10,CTM,"Castellum, Inc.",Merriman Andrew,Chief Operating Officer,50000,0.44,21855,8.5,0001877939-26-000102
 2026-11-10T21:16:38+00:00,2026-11-06,SPXC,"SPX Technologies, Inc.",Deck Brian A,Director,1000,140.75,140750,26.7,0001490816-26-000004
+2026-11-10T21:21:44+00:00,2026-11-06,LILA,Liberty Latin America Ltd.,MALONE JOHN C,10% owner,11017,20.08,221215,NEW,0000937797-26-000039
+2026-11-10T21:21:46+00:00,2026-11-09,KEEL,Keel Infrastructure Corp.,Hofmeister Edith,Director,15000,1.89,28350,6.2,0001812477-26-000046
