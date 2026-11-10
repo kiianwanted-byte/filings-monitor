@@ -6679,3 +6679,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-10T16:21:36+00:00,INSIDER_CLUSTER,PHIO,Phio Pharmaceuticals Corp.,Bitterman Robert J $20K,20500,1,https://www.sec.gov/Archives/edgar/data/1533040/000168316826008469/0001683168-26-008469-index.htm,HIGH
 2026-11-10T16:46:29+00:00,INSIDER_CLUSTER,BOTJ,BANK OF THE JAMES FINANCIAL GROUP INC,ADDISON LEWIS C $2K,1943,1,https://www.sec.gov/Archives/edgar/data/1354040/000143774926036049/0001437749-26-036049-index.htm,HIGH
 2026-11-10T16:46:31+00:00,FORM_144,FERG,Ferguson Enterprises Inc. /DE/,proposed sale $595K,594757,,https://www.sec.gov/Archives/edgar/data/2011641/000195917326007895/0001959173-26-007895-index.htm,LOW
+2026-11-10T16:51:35+00:00,FORM_144,LFST,"LIFESTANCE HEALTH GROUP, INC",proposed sale $31.92M,31918824,,https://www.sec.gov/Archives/edgar/data/1865531/000162828026072583/0001628280-26-072583-index.htm,MEDIUM
