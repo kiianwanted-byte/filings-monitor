@@ -6858,3 +6858,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-10T22:46:37+00:00,INSIDER_BUY,FUN,Six Flags Entertainment Corporation/NEW,JAFFER REHAN $14.93M,14929000,4,https://www.sec.gov/Archives/edgar/data/1999001/000199900126000113/0001999001-26-000113-index.htm,HIGH
 2026-11-10T22:51:31+00:00,FORM_144,REAL,"THE REALREAL, INC.",proposed sale $299K,299043,,https://www.sec.gov/Archives/edgar/data/1780940/000195004726010974/0001950047-26-010974-index.htm,LOW
 2026-11-10T23:01:33+00:00,INSIDER_CLUSTER,WW,"WW INTERNATIONAL, INC.",Gavales Lisa A $55K,55125,0,https://www.sec.gov/Archives/edgar/data/1489980/000119312526455831/0001193125-26-455831-index.htm,HIGH
+2026-11-10T23:06:32+00:00,FORM_144,LTH,"Life Time Group Holdings, Inc.",proposed sale $2.35M,2352653,,https://www.sec.gov/Archives/edgar/data/1869198/000119312526455842/0001193125-26-455842-index.htm,LOW
+2026-11-10T23:06:33+00:00,FORM_144,LTH,"Life Time Group Holdings, Inc.",proposed sale $236K,236033,,https://www.sec.gov/Archives/edgar/data/1869198/000119312526455839/0001193125-26-455839-index.htm,LOW
+2026-11-10T23:06:33+00:00,FORM_144,LTH,"Life Time Group Holdings, Inc.",proposed sale $76.31M,76307198,,https://www.sec.gov/Archives/edgar/data/1886438/000119312526455838/0001193125-26-455838-index.htm,MEDIUM
