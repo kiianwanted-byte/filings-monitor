@@ -6821,3 +6821,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-10T21:41:42+00:00,FORM_144,FDX,FEDEX CORP,proposed sale $5.34M,5344396,,https://www.sec.gov/Archives/edgar/data/2136242/000213624226000002/0002136242-26-000002-index.htm,LOW
 2026-11-10T21:41:43+00:00,FORM_144,MSI,"MOTOROLA SOLUTIONS, INC.",proposed sale $13.15M,13153502,,https://www.sec.gov/Archives/edgar/data/1201232/000195004726010962/0001950047-26-010962-index.htm,LOW
 2026-11-10T21:41:43+00:00,FORM_144,ROIV,Roivant Sciences Ltd.,proposed sale $7.62M,7617816,,https://www.sec.gov/Archives/edgar/data/1801917/000196530126000177/0001965301-26-000177-index.htm,LOW
+2026-11-10T21:46:34+00:00,INSIDER_CLUSTER,FUN,Six Flags Entertainment Corporation/NEW,HADDRILL RICHARD M $91K,90720,4,https://www.sec.gov/Archives/edgar/data/1999001/000199900126000111/0001999001-26-000111-index.htm,HIGH
+2026-11-10T21:46:36+00:00,INSIDER_CLUSTER,SLQT,"SelectQuote, Inc.",Grant William Thomas III $40K,40198,4,https://www.sec.gov/Archives/edgar/data/1804642/000179478326000093/0001794783-26-000093-index.htm,HIGH
+2026-11-10T21:46:39+00:00,INSIDER_CLUSTER,SLQT,"SelectQuote, Inc.",Grant Robert Clay $40K,40299,4,https://www.sec.gov/Archives/edgar/data/1804765/000179478326000090/0001794783-26-000090-index.htm,HIGH
+2026-11-10T21:46:41+00:00,FORM_144,VMRK,VIVMARK RESIDENTIAL,proposed sale $3.28M,3279262,,https://www.sec.gov/Archives/edgar/data/1633670/000195917326007928/0001959173-26-007928-index.htm,LOW
+2026-11-10T21:46:42+00:00,FORM_144,ICFI,"ICF INTERNATIONAL, INC.",proposed sale $253K,252964,,https://www.sec.gov/Archives/edgar/data/1554231/000195004726010963/0001950047-26-010963-index.htm,LOW
