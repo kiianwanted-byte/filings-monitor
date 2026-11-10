@@ -6834,3 +6834,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-10T21:56:38+00:00,FORM_144,CCNE,CNB FINANCIAL CORP/PA,proposed sale $905K,904750,,https://www.sec.gov/Archives/edgar/data/1392628/000100027526000129/0001000275-26-000129-index.htm,LOW
 2026-11-10T22:01:39+00:00,FORM_144,OPLN,"OPENLANE, Inc.",proposed sale $123K,122558,,https://www.sec.gov/Archives/edgar/data/2012179/000195917326007929/0001959173-26-007929-index.htm,LOW
 2026-11-10T22:01:39+00:00,FORM_144,CXW,"CoreCivic, Inc.",proposed sale $787K,787227,,https://www.sec.gov/Archives/edgar/data/1410524/000192109426001160/0001921094-26-001160-index.htm,LOW
+2026-11-10T22:06:38+00:00,FORM_144,GDYN,"GRID DYNAMICS HOLDINGS, INC.",proposed sale $1.82M,1816794,,https://www.sec.gov/Archives/edgar/data/1747063/000195004726010966/0001950047-26-010966-index.htm,LOW
+2026-11-10T22:06:38+00:00,FORM_144,ETON,"Eton Pharmaceuticals, Inc.",proposed sale $236K,235937,,https://www.sec.gov/Archives/edgar/data/2047026/000197407826000413/0001974078-26-000413-index.htm,LOW
+2026-11-10T22:06:39+00:00,FORM_144,SEIC,SEI Investments,proposed sale $885K,885360,,https://www.sec.gov/Archives/edgar/data/1191719/000196922326001162/0001969223-26-001162-index.htm,LOW
