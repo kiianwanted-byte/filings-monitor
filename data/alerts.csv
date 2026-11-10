@@ -6826,3 +6826,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-10T21:46:39+00:00,INSIDER_CLUSTER,SLQT,"SelectQuote, Inc.",Grant Robert Clay $40K,40299,4,https://www.sec.gov/Archives/edgar/data/1804765/000179478326000090/0001794783-26-000090-index.htm,HIGH
 2026-11-10T21:46:41+00:00,FORM_144,VMRK,VIVMARK RESIDENTIAL,proposed sale $3.28M,3279262,,https://www.sec.gov/Archives/edgar/data/1633670/000195917326007928/0001959173-26-007928-index.htm,LOW
 2026-11-10T21:46:42+00:00,FORM_144,ICFI,"ICF INTERNATIONAL, INC.",proposed sale $253K,252964,,https://www.sec.gov/Archives/edgar/data/1554231/000195004726010963/0001950047-26-010963-index.htm,LOW
+2026-11-10T21:51:38+00:00,FORM_144,XMTR,Xometry Inc,proposed sale $600K,600000,,https://www.sec.gov/Archives/edgar/data/2056024/000196922326001161/0001969223-26-001161-index.htm,LOW
+2026-11-10T21:51:41+00:00,FORM_144,ULCC,FRONTIER GROUP HOLDINGS INC,proposed sale $42K,41750,,https://www.sec.gov/Archives/edgar/data/2011128/000196922326001160/0001969223-26-001160-index.htm,LOW
+2026-11-10T21:51:41+00:00,FORM_144,NBIX,"NEUROCRINE BIOSCIENCES, INC.",proposed sale $8.97M,8973487,,https://www.sec.gov/Archives/edgar/data/1818524/000195004726010964/0001950047-26-010964-index.htm,LOW
