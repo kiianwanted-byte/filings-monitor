@@ -6696,3 +6696,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-10T18:16:32+00:00,INSIDER_CLUSTER,STRA,"Strategic Education, Inc.",Thawley Michael $98K,98368,4,https://www.sec.gov/Archives/edgar/data/1945821/000194582126000004/0001945821-26-000004-index.htm,HIGH
 2026-11-10T18:21:34+00:00,FORM_144,DPZ,DOMINOS PIZZA INC,proposed sale $122K,122064,,https://www.sec.gov/Archives/edgar/data/2042181/000195917326007902/0001959173-26-007902-index.htm,LOW
 2026-11-10T18:36:31+00:00,INSIDER_BUY,NFRX,2023 ETF Series Trust,Harrison Street Real Assets Fund LLC $24.46M,24462563,4,https://www.sec.gov/Archives/edgar/data/1969674/000168789826000011/0001687898-26-000011-index.htm,HIGH
+2026-11-10T18:41:31+00:00,FORM_144,OPCH,"Option Care Health, Inc.",proposed sale $208K,207750,,https://www.sec.gov/Archives/edgar/data/1641406/000162828026072615/0001628280-26-072615-index.htm,LOW
+2026-11-10T18:41:32+00:00,FORM_144,PFIS,Peoples Financial Services Corp,proposed sale $861K,860904,,https://www.sec.gov/Archives/edgar/data/1261966/000162828026072614/0001628280-26-072614-index.htm,LOW
