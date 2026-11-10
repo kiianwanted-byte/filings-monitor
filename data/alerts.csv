@@ -6842,3 +6842,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-10T22:11:39+00:00,FORM_144,ROIV,ROIVANT SCIENCES LTD.,proposed sale $6.73M,6729576,,https://www.sec.gov/Archives/edgar/data/1750094/000195004726010968/0001950047-26-010968-index.htm,LOW
 2026-11-10T22:11:39+00:00,FORM_144,ROIV,ROIVANT SCIENCES LTD.,proposed sale $7.12M,7122725,,https://www.sec.gov/Archives/edgar/data/1750050/000195004726010967/0001950047-26-010967-index.htm,LOW
 2026-11-10T22:11:40+00:00,FORM_144,VRNO,Verano Holdings Corp.,proposed sale $516K,515722,,https://www.sec.gov/Archives/edgar/data/1935774/000193577426000003/0001935774-26-000003-index.htm,LOW
+2026-11-10T22:16:47+00:00,INSIDER_CLUSTER,DTI,Drilling Tools International Corp,Green Ira Harris Jr $41K,40636,1,https://www.sec.gov/Archives/edgar/data/2109606/000119312526455731/0001193125-26-455731-index.htm,HIGH
+2026-11-10T22:16:52+00:00,FORM_144,ILMN,"ILLUMINA, INC.",proposed sale $82.79M,82792500,,https://www.sec.gov/Archives/edgar/data/1535472/000101143826000674/0001011438-26-000674-index.htm,MEDIUM
+2026-11-10T22:16:53+00:00,FORM_144,OPLN,OPENLANE Inc,proposed sale $281K,281120,,https://www.sec.gov/Archives/edgar/data/1594577/000196922326001163/0001969223-26-001163-index.htm,LOW
+2026-11-10T22:16:54+00:00,FORM_144,CYRX,"CRYOPORT, INC.",proposed sale $199K,199261,,https://www.sec.gov/Archives/edgar/data/1848218/000195004726010972/0001950047-26-010972-index.htm,LOW
+2026-11-10T22:16:54+00:00,FORM_144,EVCM,EVERCOMMERCE INC.,proposed sale $550K,549854,,https://www.sec.gov/Archives/edgar/data/1853145/000195004726010971/0001950047-26-010971-index.htm,LOW

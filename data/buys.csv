@@ -2204,3 +2204,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-11-10T22:11:31+00:00,2026-11-06,BOLD,"Boundless Bio, Inc.",TANG KEVIN,10% owner,1949,2.40,4677,0.1,0001178579-26-000024
 2026-11-10T22:11:32+00:00,2026-11-10,EGBN,EAGLE BANCORP INC,Newell Eric R,"Senior EVP, CFO",1470,33.91,49847,18.8,0001523145-26-000009
 2026-11-10T22:11:36+00:00,2026-11-09,DTI,Drilling Tools International Corp,Prejean Robert Wayne,"Director, Chief Executive Officer",100000,1.64,164300,20.4,0001193125-26-455713
+2026-11-10T22:16:47+00:00,2026-11-09,DTI,Drilling Tools International Corp,Green Ira Harris Jr,Director,25000,1.63,40636,145.3,0001193125-26-455731
