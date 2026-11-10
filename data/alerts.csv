@@ -6664,3 +6664,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-10T13:31:33+00:00,FORM_144,NVMI,NOVA LTD.,proposed sale $1.04M,1040042,,https://www.sec.gov/Archives/edgar/data/1960005/000197640826000936/0001976408-26-000936-index.htm,LOW
 2026-11-10T14:26:42+00:00,FORM_144,HYMC,HYCROFT MINING HOLDING CORP,proposed sale $206K,206102,,https://www.sec.gov/Archives/edgar/data/1952129/000197407826000409/0001974078-26-000409-index.htm,LOW
 2026-11-10T14:46:30+00:00,FORM_144,LFST,"LIFESTANCE HEALTH GROUP, INC",proposed sale $8.47M,8466048,,https://www.sec.gov/Archives/edgar/data/1865531/000162828026072540/0001628280-26-072540-index.htm,LOW
+2026-11-10T14:51:30+00:00,INSIDER_CLUSTER,GOOD,GLADSTONE COMMERCIAL CORP,Gerson Gary $86K,86264,1,https://www.sec.gov/Archives/edgar/data/1359579/000135957926000006/0001359579-26-000006-index.htm,HIGH
+2026-11-10T14:51:33+00:00,FORM_144,MOH,"Molina Healthcare, Inc",proposed sale $159K,159020,,https://www.sec.gov/Archives/edgar/data/1649773/000162828026072544/0001628280-26-072544-index.htm,LOW
+2026-11-10T14:51:34+00:00,FORM_144,HTFL,"Heartflow, Inc.",proposed sale $2.17M,2168286,,https://www.sec.gov/Archives/edgar/data/1900415/000195917326007888/0001959173-26-007888-index.htm,LOW
