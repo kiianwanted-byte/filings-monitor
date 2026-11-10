@@ -6711,3 +6711,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-10T20:26:43+00:00,FORM_144,OSPN,Onespan Inc,proposed sale $176K,176000,,https://www.sec.gov/Archives/edgar/data/1943565/000196922326001157/0001969223-26-001157-index.htm,LOW
 2026-11-10T20:26:43+00:00,FORM_144,MAR,MARRIOTT INTERNATIONAL INC /MD/,proposed sale $313K,313428,,https://www.sec.gov/Archives/edgar/data/1818268/000195917326007910/0001959173-26-007910-index.htm,LOW
 2026-11-10T20:26:44+00:00,FORM_144,SMP,"STANDARD MOTOR PRODUCTS, INC.",proposed sale $89K,89165,,https://www.sec.gov/Archives/edgar/data/1266691/000195917326007909/0001959173-26-007909-index.htm,LOW
+2026-11-10T20:36:39+00:00,FORM_144,MET,METLIFE INC,proposed sale $19.13M,19134218,,https://www.sec.gov/Archives/edgar/data/1535491/000195917326007912/0001959173-26-007912-index.htm,LOW
