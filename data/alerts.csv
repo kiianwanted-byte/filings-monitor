@@ -6702,3 +6702,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-10T19:06:34+00:00,FORM_144,VLTO,Veralto Corp,proposed sale $608K,607563,,https://www.sec.gov/Archives/edgar/data/1967680/000195917326007904/0001959173-26-007904-index.htm,LOW
 2026-11-10T19:16:33+00:00,FORM_144,TBI,Trueblue Inc,proposed sale $30K,29748,,https://www.sec.gov/Archives/edgar/data/1816171/000162828026072631/0001628280-26-072631-index.htm,LOW
 2026-11-10T19:26:37+00:00,FORM_144,LGND,LIGAND PHARMACEUTICALS INC,proposed sale $960K,960084,,https://www.sec.gov/Archives/edgar/data/1376960/000195779926000200/0001957799-26-000200-index.htm,LOW
+2026-11-10T19:46:36+00:00,FORM_144,ALL,ALLSTATE CORP,proposed sale $34.04M,34039236,,https://www.sec.gov/Archives/edgar/data/1190466/000195917326007906/0001959173-26-007906-index.htm,MEDIUM
+2026-11-10T19:46:38+00:00,FORM_144,DUK,Duke Energy CORP,proposed sale $101K,101386,,https://www.sec.gov/Archives/edgar/data/1861032/000195917326007905/0001959173-26-007905-index.htm,LOW
