@@ -6850,3 +6850,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-10T22:21:35+00:00,INSIDER_CLUSTER,GLXY,Galaxy Digital Inc.,DEASON DOUGLAS R $70K,69900,4,https://www.sec.gov/Archives/edgar/data/1859392/000107950026000011/0001079500-26-000011-index.htm,HIGH
 2026-11-10T22:21:39+00:00,FORM_144,BIO,"BIO-RAD LABORATORIES, INC.",proposed sale $348K,348320,,https://www.sec.gov/Archives/edgar/data/2019843/000195004726010973/0001950047-26-010973-index.htm,LOW
 2026-11-10T22:21:40+00:00,FORM_144,TRUP,"TRUPANION, INC.",proposed sale $224K,223630,,https://www.sec.gov/Archives/edgar/data/1371285/000100027526000130/0001000275-26-000130-index.htm,LOW
+2026-11-10T22:26:41+00:00,FORM_144,SNAP,Snap Inc,proposed sale $494K,493620,,https://www.sec.gov/Archives/edgar/data/2156232/000192109426001161/0001921094-26-001161-index.htm,LOW
