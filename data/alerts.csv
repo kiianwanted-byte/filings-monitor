@@ -6854,3 +6854,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-10T22:36:35+00:00,FORM_144,IEP,Cadence Design Systems Inc,proposed sale $124K,124207,,https://www.sec.gov/Archives/edgar/data/1224994/000162828026072854/0001628280-26-072854-index.htm,LOW
 2026-11-10T22:36:35+00:00,FORM_144,IBTA,"Ibotta, Inc.",proposed sale $988K,987916,,https://www.sec.gov/Archives/edgar/data/1881476/000196858226001130/0001968582-26-001130-index.htm,LOW
 2026-11-10T22:36:36+00:00,FORM_144,IBTA,"Ibotta, Inc.",proposed sale $1.53M,1531899,,https://www.sec.gov/Archives/edgar/data/1881476/000196858226001129/0001968582-26-001129-index.htm,LOW
+2026-11-10T22:41:36+00:00,FORM_144,BDX,"Becton, Dickinson and Company",proposed sale $397K,396868,,https://www.sec.gov/Archives/edgar/data/1708067/000162828026072857/0001628280-26-072857-index.htm,LOW
