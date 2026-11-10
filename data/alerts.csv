@@ -6694,3 +6694,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-10T18:11:36+00:00,FORM_144,FND,"Floor and Decor Holdings, Inc.",proposed sale $1.11M,1114256,,https://www.sec.gov/Archives/edgar/data/1913962/000196922326001155/0001969223-26-001155-index.htm,LOW
 2026-11-10T18:11:36+00:00,FORM_144,ITT,ITT Inc.,proposed sale $107K,107006,,https://www.sec.gov/Archives/edgar/data/1899192/000196922326001156/0001969223-26-001156-index.htm,LOW
 2026-11-10T18:16:32+00:00,INSIDER_CLUSTER,STRA,"Strategic Education, Inc.",Thawley Michael $98K,98368,4,https://www.sec.gov/Archives/edgar/data/1945821/000194582126000004/0001945821-26-000004-index.htm,HIGH
+2026-11-10T18:21:34+00:00,FORM_144,DPZ,DOMINOS PIZZA INC,proposed sale $122K,122064,,https://www.sec.gov/Archives/edgar/data/2042181/000195917326007902/0001959173-26-007902-index.htm,LOW
