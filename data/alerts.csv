@@ -6816,3 +6816,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-10T21:36:47+00:00,FORM_144,PAYX,Paychex Inc.,proposed sale $51.01M,51005722,,https://www.sec.gov/Archives/edgar/data/903201/000162828026072785/0001628280-26-072785-index.htm,MEDIUM
 2026-11-10T21:36:48+00:00,FORM_144,CVNA,Carvana Co.,proposed sale $2.02M,2019368,,https://www.sec.gov/Archives/edgar/data/1690820/000195824426000712/0001958244-26-000712-index.htm,LOW
 2026-11-10T21:36:49+00:00,FORM_144,FSV,FirstService Corp,proposed sale $1.13M,1130760,,https://www.sec.gov/Archives/edgar/data/1637810/000195917326007926/0001959173-26-007926-index.htm,LOW
+2026-11-10T21:41:42+00:00,FORM_144,OPLN,"OPENLANE, Inc.",proposed sale $1.37M,1365002,,https://www.sec.gov/Archives/edgar/data/1791222/000195917326007927/0001959173-26-007927-index.htm,LOW
+2026-11-10T21:41:42+00:00,FORM_144,AAOI,"APPLIED OPTOELECTRONICS, INC.",proposed sale $195K,195102,,https://www.sec.gov/Archives/edgar/data/1587599/000197407826000411/0001974078-26-000411-index.htm,LOW
+2026-11-10T21:41:42+00:00,FORM_144,FDX,FEDEX CORP,proposed sale $5.34M,5344396,,https://www.sec.gov/Archives/edgar/data/2136242/000213624226000002/0002136242-26-000002-index.htm,LOW
+2026-11-10T21:41:43+00:00,FORM_144,MSI,"MOTOROLA SOLUTIONS, INC.",proposed sale $13.15M,13153502,,https://www.sec.gov/Archives/edgar/data/1201232/000195004726010962/0001950047-26-010962-index.htm,LOW
+2026-11-10T21:41:43+00:00,FORM_144,ROIV,Roivant Sciences Ltd.,proposed sale $7.62M,7617816,,https://www.sec.gov/Archives/edgar/data/1801917/000196530126000177/0001965301-26-000177-index.htm,LOW
