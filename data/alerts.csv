@@ -6691,3 +6691,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-10T18:01:45+00:00,FORM_144,BETR,Better Home & Finance Holding Company,proposed sale $14K,13751,,https://www.sec.gov/Archives/edgar/data/1835856/000196922326001153/0001969223-26-001153-index.htm,LOW
 2026-11-10T18:01:46+00:00,FORM_144,KLXE,KLX Energy Services Holdings Inc,proposed sale $138K,138000,,https://www.sec.gov/Archives/edgar/data/1738827/000196922326001152/0001969223-26-001152-index.htm,LOW
 2026-11-10T18:06:34+00:00,FORM_144,RGA,REINSURANCE GROUP OF AMERICA INC,proposed sale $1.05M,1045936,,https://www.sec.gov/Archives/edgar/data/1684118/000195917326007901/0001959173-26-007901-index.htm,LOW
+2026-11-10T18:11:36+00:00,FORM_144,FND,"Floor and Decor Holdings, Inc.",proposed sale $1.11M,1114256,,https://www.sec.gov/Archives/edgar/data/1913962/000196922326001155/0001969223-26-001155-index.htm,LOW
+2026-11-10T18:11:36+00:00,FORM_144,ITT,ITT Inc.,proposed sale $107K,107006,,https://www.sec.gov/Archives/edgar/data/1899192/000196922326001156/0001969223-26-001156-index.htm,LOW
