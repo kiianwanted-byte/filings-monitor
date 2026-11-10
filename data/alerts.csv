@@ -6837,3 +6837,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-10T22:06:38+00:00,FORM_144,GDYN,"GRID DYNAMICS HOLDINGS, INC.",proposed sale $1.82M,1816794,,https://www.sec.gov/Archives/edgar/data/1747063/000195004726010966/0001950047-26-010966-index.htm,LOW
 2026-11-10T22:06:38+00:00,FORM_144,ETON,"Eton Pharmaceuticals, Inc.",proposed sale $236K,235937,,https://www.sec.gov/Archives/edgar/data/2047026/000197407826000413/0001974078-26-000413-index.htm,LOW
 2026-11-10T22:06:39+00:00,FORM_144,SEIC,SEI Investments,proposed sale $885K,885360,,https://www.sec.gov/Archives/edgar/data/1191719/000196922326001162/0001969223-26-001162-index.htm,LOW
+2026-11-10T22:11:37+00:00,FORM_144,GDYN,"GRID DYNAMICS HOLDINGS, INC.",proposed sale $740K,740407,,https://www.sec.gov/Archives/edgar/data/1743725/000195004726010970/0001950047-26-010970-index.htm,LOW
+2026-11-10T22:11:37+00:00,FORM_144,ROIV,ROIVANT SCIENCES LTD.,proposed sale $50.73M,50732321,,https://www.sec.gov/Archives/edgar/data/1647805/000195004726010969/0001950047-26-010969-index.htm,MEDIUM
+2026-11-10T22:11:39+00:00,FORM_144,ROIV,ROIVANT SCIENCES LTD.,proposed sale $6.73M,6729576,,https://www.sec.gov/Archives/edgar/data/1750094/000195004726010968/0001950047-26-010968-index.htm,LOW
+2026-11-10T22:11:39+00:00,FORM_144,ROIV,ROIVANT SCIENCES LTD.,proposed sale $7.12M,7122725,,https://www.sec.gov/Archives/edgar/data/1750050/000195004726010967/0001950047-26-010967-index.htm,LOW
+2026-11-10T22:11:40+00:00,FORM_144,VRNO,Verano Holdings Corp.,proposed sale $516K,515722,,https://www.sec.gov/Archives/edgar/data/1935774/000193577426000003/0001935774-26-000003-index.htm,LOW
