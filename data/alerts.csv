@@ -6812,3 +6812,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-10T21:32:09+00:00,FORM_144,BETA,"BETA Technologies, Inc.",proposed sale $470K,470095,,https://www.sec.gov/Archives/edgar/data/2089950/000195004726010949/0001950047-26-010949-index.htm,LOW
 2026-11-10T21:32:09+00:00,FORM_144,PLTR,Palantir Technologies Inc.,proposed sale $50.76M,50760000,,https://www.sec.gov/Archives/edgar/data/1824159/000195004726010948/0001950047-26-010948-index.htm,MEDIUM
 2026-11-10T21:32:10+00:00,FORM_144,CORT,CORCEPT THERAPEUTICS INCORPORATED,proposed sale $113K,112537,,https://www.sec.gov/Archives/edgar/data/1323113/000195004726010947/0001950047-26-010947-index.htm,LOW
+2026-11-10T21:36:46+00:00,FORM_144,DGICA,DONEGAL GROUP INC,proposed sale $114K,114043,,https://www.sec.gov/Archives/edgar/data/1810662/000197337926000368/0001973379-26-000368-index.htm,LOW
+2026-11-10T21:36:47+00:00,FORM_144,PAYX,Paychex Inc.,proposed sale $51.01M,51005722,,https://www.sec.gov/Archives/edgar/data/903201/000162828026072785/0001628280-26-072785-index.htm,MEDIUM
+2026-11-10T21:36:48+00:00,FORM_144,CVNA,Carvana Co.,proposed sale $2.02M,2019368,,https://www.sec.gov/Archives/edgar/data/1690820/000195824426000712/0001958244-26-000712-index.htm,LOW
+2026-11-10T21:36:49+00:00,FORM_144,FSV,FirstService Corp,proposed sale $1.13M,1130760,,https://www.sec.gov/Archives/edgar/data/1637810/000195917326007926/0001959173-26-007926-index.htm,LOW
