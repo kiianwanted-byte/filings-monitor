@@ -6669,3 +6669,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-10T14:51:34+00:00,FORM_144,HTFL,"Heartflow, Inc.",proposed sale $2.17M,2168286,,https://www.sec.gov/Archives/edgar/data/1900415/000195917326007888/0001959173-26-007888-index.htm,LOW
 2026-11-10T15:06:31+00:00,FORM_144,LEVI,LEVI STRAUSS & CO,proposed sale $74K,74184,,https://www.sec.gov/Archives/edgar/data/1977617/000195917326007890/0001959173-26-007890-index.htm,LOW
 2026-11-10T15:06:32+00:00,FORM_144,W,Wayfair Inc.,proposed sale $685K,685200,,https://www.sec.gov/Archives/edgar/data/1620093/000195917326007889/0001959173-26-007889-index.htm,LOW
+2026-11-10T15:11:32+00:00,FORM_144,KLAC,KLA CORP,proposed sale $10.73M,10731526,,https://www.sec.gov/Archives/edgar/data/1196898/000195917326007891/0001959173-26-007891-index.htm,LOW
