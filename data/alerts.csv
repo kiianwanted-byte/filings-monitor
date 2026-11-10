@@ -6645,3 +6645,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-10T00:56:33+00:00,FORM_144,FIGS,"FIGS, Inc.",proposed sale $79.67M,79672395,,https://www.sec.gov/Archives/edgar/data/1846576/000162828026072447/0001628280-26-072447-index.htm,MEDIUM
 2026-11-10T02:11:33+00:00,FORM_144,AER,AerCap Holdings N.V.,proposed sale $3.39M,3392800,,https://www.sec.gov/Archives/edgar/data/1704423/000095015726001232/0000950157-26-001232-index.htm,LOW
 2026-11-10T02:16:36+00:00,FORM_144,AER,AerCap Holdings N.V.,proposed sale $221K,220532,,https://www.sec.gov/Archives/edgar/data/1715240/000095015726001233/0000950157-26-001233-index.htm,LOW
+2026-11-10T02:21:33+00:00,INSIDER_CLUSTER,NXRT,"NexPoint Residential Trust, Inc.",Richards Paul $103K,103053,4,https://www.sec.gov/Archives/edgar/data/2034963/000143774926035984/0001437749-26-035984-index.htm,HIGH

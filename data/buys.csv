@@ -2121,3 +2121,5 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-11-10T00:01:37+00:00,2026-11-09,NTHI,"NEONC TECHNOLOGIES HOLDINGS, INC.",Heshmatpour Amir F,"Director, CEO, President, 10% owner",10000,3.86,38600,0.3,0001213900-26-117660
 2026-11-10T01:21:31+00:00,2026-11-05,MTRI,InMed Pharmaceuticals Inc.,"ADAR1 Capital Management, LLC",10% owner,2640,13.10,34571,2.8,0001940272-26-000031
 2026-11-10T01:26:31+00:00,2026-11-09,KRT,Karat Packaging Inc.,Guo Jian,"Director, Chief Financial Officer",162,37.06,6003,NEW,0001213900-26-117672
+2026-11-10T02:21:33+00:00,2026-11-05,NXRT,"NexPoint Residential Trust, Inc.",McGraner Matt,See Remarks,11992,16.62,199265,3.3,0001437749-26-035985
+2026-11-10T02:21:33+00:00,2026-11-05,NXRT,"NexPoint Residential Trust, Inc.",Richards Paul,See Remarks,6300,16.36,103053,19.6,0001437749-26-035984
