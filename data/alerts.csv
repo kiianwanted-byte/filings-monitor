@@ -6646,3 +6646,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-10T02:11:33+00:00,FORM_144,AER,AerCap Holdings N.V.,proposed sale $3.39M,3392800,,https://www.sec.gov/Archives/edgar/data/1704423/000095015726001232/0000950157-26-001232-index.htm,LOW
 2026-11-10T02:16:36+00:00,FORM_144,AER,AerCap Holdings N.V.,proposed sale $221K,220532,,https://www.sec.gov/Archives/edgar/data/1715240/000095015726001233/0000950157-26-001233-index.htm,LOW
 2026-11-10T02:21:33+00:00,INSIDER_CLUSTER,NXRT,"NexPoint Residential Trust, Inc.",Richards Paul $103K,103053,4,https://www.sec.gov/Archives/edgar/data/2034963/000143774926035984/0001437749-26-035984-index.htm,HIGH
+2026-11-10T02:56:32+00:00,FORM_144,KVYO,"Klaviyo, Inc.",proposed sale $3.79M,3793612,,https://www.sec.gov/Archives/edgar/data/1835830/000119312526454188/0001193125-26-454188-index.htm,LOW
+2026-11-10T02:56:33+00:00,FORM_144,KVYO,"Klaviyo, Inc.",proposed sale $323K,323355,,https://www.sec.gov/Archives/edgar/data/1835830/000119312526454187/0001193125-26-454187-index.htm,LOW
+2026-11-10T02:56:33+00:00,FORM_144,KVYO,"Klaviyo, Inc.",proposed sale $35.65M,35648878,,https://www.sec.gov/Archives/edgar/data/1835830/000119312526454185/0001193125-26-454185-index.htm,MEDIUM
+2026-11-10T02:56:34+00:00,FORM_144,KVYO,"Klaviyo, Inc.",proposed sale $57.09M,57094290,,https://www.sec.gov/Archives/edgar/data/1835830/000119312526454183/0001193125-26-454183-index.htm,MEDIUM
+2026-11-10T02:56:36+00:00,FORM_144,KVYO,"Klaviyo, Inc.",proposed sale $42K,41973,,https://www.sec.gov/Archives/edgar/data/1846709/000119312526454181/0001193125-26-454181-index.htm,LOW
