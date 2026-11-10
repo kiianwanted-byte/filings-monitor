@@ -6863,3 +6863,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-10T23:06:33+00:00,FORM_144,LTH,"Life Time Group Holdings, Inc.",proposed sale $76.31M,76307198,,https://www.sec.gov/Archives/edgar/data/1886438/000119312526455838/0001193125-26-455838-index.htm,MEDIUM
 2026-11-10T23:21:36+00:00,FORM_144,UEIC,UNIVERSAL ELECTRONICS INC,proposed sale $2.05M,2046120,,https://www.sec.gov/Archives/edgar/data/1970265/000092189526003017/0000921895-26-003017-index.htm,LOW
 2026-11-10T23:31:38+00:00,FORM_144,CDNS,Cadence Design Systems Inc,proposed sale $124K,124207,,https://www.sec.gov/Archives/edgar/data/1224994/000162828026072906/0001628280-26-072906-index.htm,LOW
+2026-11-10T23:56:32+00:00,FORM_144,FTDR,"Frontdoor, Inc.",proposed sale $20.73M,20734839,,https://www.sec.gov/Archives/edgar/data/1727263/000162828026072927/0001628280-26-072927-index.htm,LOW
