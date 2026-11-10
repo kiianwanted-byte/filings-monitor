@@ -6642,3 +6642,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-09T23:51:37+00:00,FORM_144,RM,Regional Management Corp.,proposed sale $11K,11201,,https://www.sec.gov/Archives/edgar/data/1519401/000089914026001246/0000899140-26-001246-index.htm,LOW
 2026-11-09T23:56:32+00:00,INSIDER_CLUSTER,ADTN,"ADTRAN Holdings, Inc.",STANTON THOMAS R $601K,600900,3,https://www.sec.gov/Archives/edgar/data/1191219/000119312526454019/0001193125-26-454019-index.htm,HIGH
 2026-11-09T23:56:34+00:00,FORM_144,RM,Regional Management Corp.,proposed sale $28K,27949,,https://www.sec.gov/Archives/edgar/data/1519401/000089914026001250/0000899140-26-001250-index.htm,LOW
+2026-11-10T00:56:33+00:00,FORM_144,FIGS,"FIGS, Inc.",proposed sale $79.67M,79672395,,https://www.sec.gov/Archives/edgar/data/1846576/000162828026072447/0001628280-26-072447-index.htm,MEDIUM
