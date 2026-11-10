@@ -6685,3 +6685,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-10T17:06:38+00:00,FORM_144,LFST,"LifeStance Health Group, Inc.",proposed sale $1.10M,1095081,,https://www.sec.gov/Archives/edgar/data/1845257/000195917326007896/0001959173-26-007896-index.htm,LOW
 2026-11-10T17:36:34+00:00,FORM_144,BOX,BOX INC,proposed sale $711K,710940,,https://www.sec.gov/Archives/edgar/data/1606410/000195917326007897/0001959173-26-007897-index.htm,LOW
 2026-11-10T17:41:37+00:00,FORM_144,BLMN,"Bloomin' Brands, Inc.",proposed sale $508K,507928,,https://www.sec.gov/Archives/edgar/data/1780396/000195917326007898/0001959173-26-007898-index.htm,LOW
+2026-11-10T17:46:40+00:00,FORM_144,GMAB,GENMAB A/S,proposed sale $704K,704326,,https://www.sec.gov/Archives/edgar/data/1762247/000195917326007899/0001959173-26-007899-index.htm,LOW
