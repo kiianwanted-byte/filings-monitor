@@ -6672,3 +6672,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-10T15:11:32+00:00,FORM_144,KLAC,KLA CORP,proposed sale $10.73M,10731526,,https://www.sec.gov/Archives/edgar/data/1196898/000195917326007891/0001959173-26-007891-index.htm,LOW
 2026-11-10T15:26:34+00:00,FORM_144,W,Wayfair Inc.,proposed sale $685K,685200,,https://www.sec.gov/Archives/edgar/data/1620052/000195917326007892/0001959173-26-007892-index.htm,LOW
 2026-11-10T15:31:33+00:00,FORM_144,BSY,BENTLEY SYSTEMS INC,proposed sale $17.77M,17767740,,https://www.sec.gov/Archives/edgar/data/1825187/000194984626000649/0001949846-26-000649-index.htm,LOW
+2026-11-10T15:46:33+00:00,FORM_144,CHD,"Church & Dwight, Inc.",proposed sale $2.44M,2438670,,https://www.sec.gov/Archives/edgar/data/2039588/000196922326001151/0001969223-26-001151-index.htm,LOW
