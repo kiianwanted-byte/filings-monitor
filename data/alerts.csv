@@ -6677,3 +6677,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-10T16:06:54+00:00,FORM_144,VZ,VERIZON COMMUNICATIONS INC,proposed sale $51K,50721,,https://www.sec.gov/Archives/edgar/data/1760581/000195917326007894/0001959173-26-007894-index.htm,LOW
 2026-11-10T16:11:30+00:00,FORM_144,HUM,HUMANA INC,proposed sale $188K,187643,,https://www.sec.gov/Archives/edgar/data/1802241/000180224126000008/0001802241-26-000008-index.htm,LOW
 2026-11-10T16:21:36+00:00,INSIDER_CLUSTER,PHIO,Phio Pharmaceuticals Corp.,Bitterman Robert J $20K,20500,1,https://www.sec.gov/Archives/edgar/data/1533040/000168316826008469/0001683168-26-008469-index.htm,HIGH
+2026-11-10T16:46:29+00:00,INSIDER_CLUSTER,BOTJ,BANK OF THE JAMES FINANCIAL GROUP INC,ADDISON LEWIS C $2K,1943,1,https://www.sec.gov/Archives/edgar/data/1354040/000143774926036049/0001437749-26-036049-index.htm,HIGH
+2026-11-10T16:46:31+00:00,FORM_144,FERG,Ferguson Enterprises Inc. /DE/,proposed sale $595K,594757,,https://www.sec.gov/Archives/edgar/data/2011641/000195917326007895/0001959173-26-007895-index.htm,LOW
