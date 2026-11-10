@@ -6683,3 +6683,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-10T16:56:33+00:00,FORM_144,TXRH,"Texas Roadhouse, Inc.",proposed sale $107K,106679,,https://www.sec.gov/Archives/edgar/data/1748313/000194984626000650/0001949846-26-000650-index.htm,LOW
 2026-11-10T17:06:38+00:00,FORM_144,BLK,"BlackRock, Inc.",proposed sale $8.54M,8536873,,https://www.sec.gov/Archives/edgar/data/2012383/000171728926000001/0001717289-26-000001-index.htm,LOW
 2026-11-10T17:06:38+00:00,FORM_144,LFST,"LifeStance Health Group, Inc.",proposed sale $1.10M,1095081,,https://www.sec.gov/Archives/edgar/data/1845257/000195917326007896/0001959173-26-007896-index.htm,LOW
+2026-11-10T17:36:34+00:00,FORM_144,BOX,BOX INC,proposed sale $711K,710940,,https://www.sec.gov/Archives/edgar/data/1606410/000195917326007897/0001959173-26-007897-index.htm,LOW
