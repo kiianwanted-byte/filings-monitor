@@ -6680,3 +6680,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-10T16:46:29+00:00,INSIDER_CLUSTER,BOTJ,BANK OF THE JAMES FINANCIAL GROUP INC,ADDISON LEWIS C $2K,1943,1,https://www.sec.gov/Archives/edgar/data/1354040/000143774926036049/0001437749-26-036049-index.htm,HIGH
 2026-11-10T16:46:31+00:00,FORM_144,FERG,Ferguson Enterprises Inc. /DE/,proposed sale $595K,594757,,https://www.sec.gov/Archives/edgar/data/2011641/000195917326007895/0001959173-26-007895-index.htm,LOW
 2026-11-10T16:51:35+00:00,FORM_144,LFST,"LIFESTANCE HEALTH GROUP, INC",proposed sale $31.92M,31918824,,https://www.sec.gov/Archives/edgar/data/1865531/000162828026072583/0001628280-26-072583-index.htm,MEDIUM
+2026-11-10T16:56:33+00:00,FORM_144,TXRH,"Texas Roadhouse, Inc.",proposed sale $107K,106679,,https://www.sec.gov/Archives/edgar/data/1748313/000194984626000650/0001949846-26-000650-index.htm,LOW
