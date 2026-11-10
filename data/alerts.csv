@@ -6772,3 +6772,25 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-10T21:21:52+00:00,FORM_144,WEC,"WEC ENERGY GROUP, INC.",proposed sale $2.16M,2157319,,https://www.sec.gov/Archives/edgar/data/1185603/000195004726010930/0001950047-26-010930-index.htm,LOW
 2026-11-10T21:21:53+00:00,FORM_144,GSAT,"Globalstar, Inc.",proposed sale $2.00M,2002496,,https://www.sec.gov/Archives/edgar/data/1571391/000157139126000013/0001571391-26-000013-index.htm,LOW
 2026-11-10T21:21:53+00:00,FORM_144,TEVA,Teva Pharmaceutical Industries Limited,proposed sale $10.74M,10742500,,https://www.sec.gov/Archives/edgar/data/1673277/000119312526455498/0001193125-26-455498-index.htm,LOW
+2026-11-10T21:26:43+00:00,FORM_144,P,"Everpure, Inc.",proposed sale $7.20M,7198800,,https://www.sec.gov/Archives/edgar/data/1474432/000195004726010946/0001950047-26-010946-index.htm,LOW
+2026-11-10T21:26:44+00:00,FORM_144,TPR,"TAPESTRY, INC.",proposed sale $15.98M,15983653,,https://www.sec.gov/Archives/edgar/data/1570308/000195917326007925/0001959173-26-007925-index.htm,LOW
+2026-11-10T21:26:45+00:00,FORM_144,ZIP,ZIPRECRUITER INC,proposed sale $291K,291449,,https://www.sec.gov/Archives/edgar/data/1859446/000195004726010945/0001950047-26-010945-index.htm,LOW
+2026-11-10T21:26:45+00:00,FORM_144,CDNA,"CAREDX, INC.",proposed sale $346K,345784,,https://www.sec.gov/Archives/edgar/data/2019976/000195004726010944/0001950047-26-010944-index.htm,LOW
+2026-11-10T21:26:46+00:00,FORM_144,AIZ,"ASSURANT, INC",proposed sale $3.11M,3114367,,https://www.sec.gov/Archives/edgar/data/1267238/000195004726010943/0001950047-26-010943-index.htm,LOW
+2026-11-10T21:26:46+00:00,FORM_144,PGY,Pagaya Technologies Ltd.,proposed sale $186K,185847,,https://www.sec.gov/Archives/edgar/data/1883085/000195004726010942/0001950047-26-010942-index.htm,LOW
+2026-11-10T21:26:47+00:00,FORM_144,ROIV,ROIVANT SCIENCES LTD.,proposed sale $6.73M,6729576,,https://www.sec.gov/Archives/edgar/data/1750094/000195004726010941/0001950047-26-010941-index.htm,LOW
+2026-11-10T21:26:47+00:00,FORM_144,AFRM,"Affirm Holdings, Inc.",proposed sale $136K,136060,,https://www.sec.gov/Archives/edgar/data/1820953/000195004726010940/0001950047-26-010940-index.htm,LOW
+2026-11-10T21:26:48+00:00,FORM_144,AIP,ARTERIS INC,proposed sale $355K,355200,,https://www.sec.gov/Archives/edgar/data/1888542/000195004726010939/0001950047-26-010939-index.htm,LOW
+2026-11-10T21:26:49+00:00,FORM_144,AIZ,ASSURANT INC,proposed sale $1.24M,1237436,,https://www.sec.gov/Archives/edgar/data/2087056/000195004726010938/0001950047-26-010938-index.htm,LOW
+2026-11-10T21:26:49+00:00,FORM_144,P,"Everpure, Inc.",proposed sale $5.14M,5142000,,https://www.sec.gov/Archives/edgar/data/1651902/000195004726010937/0001950047-26-010937-index.htm,LOW
+2026-11-10T21:26:50+00:00,FORM_144,LHX,"L3Harris Technologies, Inc.",proposed sale $5.52M,5519200,,https://www.sec.gov/Archives/edgar/data/1194001/000195824426000711/0001958244-26-000711-index.htm,LOW
+2026-11-10T21:26:51+00:00,FORM_144,LTH,"Life Time Group Holdings, Inc.",proposed sale $88.87M,88873805,,https://www.sec.gov/Archives/edgar/data/1972834/000199937126025078/0001999371-26-025078-index.htm,MEDIUM
+2026-11-10T21:26:52+00:00,FORM_144,P,"Everpure, Inc.",proposed sale $5.14M,5142000,,https://www.sec.gov/Archives/edgar/data/1651902/000195004726010936/0001950047-26-010936-index.htm,LOW
+2026-11-10T21:26:53+00:00,FORM_144,ROIV,ROIVANT SCIENCES LTD.,proposed sale $50.73M,50732321,,https://www.sec.gov/Archives/edgar/data/1647805/000195004726010935/0001950047-26-010935-index.htm,MEDIUM
+2026-11-10T21:26:54+00:00,FORM_144,INTA,INTAPP INC,proposed sale $145K,144794,,https://www.sec.gov/Archives/edgar/data/1565687/000195004726010934/0001950047-26-010934-index.htm,LOW
+2026-11-10T21:26:54+00:00,FORM_144,IRON,DISC MEDICINE INC,proposed sale $1.30M,1303004,,https://www.sec.gov/Archives/edgar/data/1951852/000195004726010933/0001950047-26-010933-index.htm,LOW
+2026-11-10T21:26:55+00:00,FORM_144,ROIV,ROIVANT SCIENCES LTD.,proposed sale $5.15M,5150575,,https://www.sec.gov/Archives/edgar/data/1885841/000195004726010932/0001950047-26-010932-index.htm,LOW
+2026-11-10T21:26:55+00:00,FORM_144,RGS,REGIS CORP,proposed sale $7K,7200,,https://www.sec.gov/Archives/edgar/data/1211005/000195917326007924/0001959173-26-007924-index.htm,LOW
+2026-11-10T21:26:55+00:00,FORM_144,LTH,"Life Time Group Holdings, Inc.",proposed sale $12.21M,12205560,,https://www.sec.gov/Archives/edgar/data/1972856/000199937126025076/0001999371-26-025076-index.htm,LOW
+2026-11-10T21:26:56+00:00,FORM_144,TNL,Travel & Leisure Co.,proposed sale $1.27M,1272379,,https://www.sec.gov/Archives/edgar/data/1691300/000195917326007923/0001959173-26-007923-index.htm,LOW
+2026-11-10T21:26:56+00:00,FORM_144,ACGL,ARCH CAPITAL GROUP LTD.,proposed sale $5.28M,5281899,,https://www.sec.gov/Archives/edgar/data/1718249/000192109426001159/0001921094-26-001159-index.htm,LOW

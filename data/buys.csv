@@ -2185,3 +2185,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-11-10T21:16:38+00:00,2026-11-06,SPXC,"SPX Technologies, Inc.",Deck Brian A,Director,1000,140.75,140750,26.7,0001490816-26-000004
 2026-11-10T21:21:44+00:00,2026-11-06,LILA,Liberty Latin America Ltd.,MALONE JOHN C,10% owner,11017,20.08,221215,NEW,0000937797-26-000039
 2026-11-10T21:21:46+00:00,2026-11-09,KEEL,Keel Infrastructure Corp.,Hofmeister Edith,Director,15000,1.89,28350,6.2,0001812477-26-000046
+2026-11-10T21:26:42+00:00,2026-11-06,FIS,"Fidelity National Information Services, Inc.",Gibson Kourtney,Director,1800,29.00,52200,43.9,0001628280-26-072763
