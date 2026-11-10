@@ -6657,3 +6657,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-10T11:21:28+00:00,FORM_144,CLBT,Cellebrite DI Ltd.,proposed sale $152K,152222,,https://www.sec.gov/Archives/edgar/data/1854587/000162828026072481/0001628280-26-072481-index.htm,LOW
 2026-11-10T11:21:29+00:00,FORM_144,CLBT,Cellebrite DI Ltd.,proposed sale $403K,402945,,https://www.sec.gov/Archives/edgar/data/1875661/000162828026072479/0001628280-26-072479-index.htm,LOW
 2026-11-10T11:21:29+00:00,FORM_144,CLBT,Cellebrite DI Ltd.,proposed sale $13K,13271,,https://www.sec.gov/Archives/edgar/data/1875661/000162828026072476/0001628280-26-072476-index.htm,LOW
+2026-11-10T12:46:31+00:00,INSIDER_CLUSTER,CRH,CRH PUBLIC LTD CO,FEARON RICHARD H $570K,569700,4,https://www.sec.gov/Archives/edgar/data/1188586/000084939526000017/0000849395-26-000017-index.htm,HIGH
