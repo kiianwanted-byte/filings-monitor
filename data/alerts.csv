@@ -6714,3 +6714,11 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-10T20:36:39+00:00,FORM_144,MET,METLIFE INC,proposed sale $19.13M,19134218,,https://www.sec.gov/Archives/edgar/data/1535491/000195917326007912/0001959173-26-007912-index.htm,LOW
 2026-11-10T20:41:39+00:00,FORM_144,SMP,"STANDARD MOTOR PRODUCTS, INC.",proposed sale $56K,55784,,https://www.sec.gov/Archives/edgar/data/1373095/000195917326007914/0001959173-26-007914-index.htm,LOW
 2026-11-10T20:41:40+00:00,FORM_144,STIM,"Neuronetics, Inc.",proposed sale $11K,10654,,https://www.sec.gov/Archives/edgar/data/2143826/000195917326007913/0001959173-26-007913-index.htm,LOW
+2026-11-10T20:46:37+00:00,FORM_144,VCEL,Vericel Corp,proposed sale $409K,408730,,https://www.sec.gov/Archives/edgar/data/1214938/000195917326007917/0001959173-26-007917-index.htm,LOW
+2026-11-10T20:46:37+00:00,FORM_144,CWK,Cushman & Wakefield Ltd.,proposed sale $175K,175050,,https://www.sec.gov/Archives/edgar/data/1747604/000195917326007916/0001959173-26-007916-index.htm,LOW
+2026-11-10T20:46:38+00:00,FORM_144,IBEX,IBEX Limited,proposed sale $937K,936768,,https://www.sec.gov/Archives/edgar/data/1974084/000197449426000330/0001974494-26-000330-index.htm,LOW
+2026-11-10T20:46:38+00:00,FORM_144,IBEX,IBEX Limited,proposed sale $205K,205147,,https://www.sec.gov/Archives/edgar/data/1973708/000197449426000329/0001974494-26-000329-index.htm,LOW
+2026-11-10T20:46:39+00:00,FORM_144,IBEX,IBEX Limited,proposed sale $126K,126207,,https://www.sec.gov/Archives/edgar/data/2043520/000197449426000328/0001974494-26-000328-index.htm,LOW
+2026-11-10T20:46:39+00:00,FORM_144,IBEX,IBEX Limited,proposed sale $355K,354831,,https://www.sec.gov/Archives/edgar/data/1974089/000197449426000327/0001974494-26-000327-index.htm,LOW
+2026-11-10T20:46:40+00:00,FORM_144,IBEX,IBEX Limited,proposed sale $106K,106471,,https://www.sec.gov/Archives/edgar/data/1973684/000197449426000326/0001974494-26-000326-index.htm,LOW
+2026-11-10T20:46:40+00:00,FORM_144,SMP,"STANDARD MOTOR PRODUCTS, INC.",proposed sale $75K,75373,,https://www.sec.gov/Archives/edgar/data/1351057/000195917326007915/0001959173-26-007915-index.htm,LOW
