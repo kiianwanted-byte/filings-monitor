@@ -3191,3 +3191,5 @@ timestamp,chamber,member,ticker,asset,action,amount_low,amount_high,trade_date,f
 2026-11-06T20:31:57+00:00,House,Josh Gottheimer,AMAT,"Applied Materials, Inc. - Common",BUY,1001,15000,2026-10-26,2026-11-05,10,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035770.pdf
 2026-11-06T20:31:57+00:00,House,Josh Gottheimer,BHE,"Benchmark Electronics, Inc. Common",BUY,1001,15000,2026-10-12,2026-11-05,24,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035770.pdf
 2026-11-06T20:31:57+00:00,House,Josh Gottheimer,TLK,"PT Telekomunikasi Indonesia, Tbk",SELL,1001,15000,2026-10-15,2026-11-05,21,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035770.pdf
+2026-11-10T00:12:42+00:00,House,John J Mr McGuire III,WDC,Western Digital Corporation,SELL,1001,15000,2026-10-15,2026-11-06,22,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035775.pdf
+2026-11-10T00:12:42+00:00,House,Nancy Pelosi,WBD,"Warner Bros. Discovery, Inc. - Series",SELL,50001,100000,2026-10-07,2026-11-06,30,MEDIUM,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035780.pdf
