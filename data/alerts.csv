@@ -6705,3 +6705,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-10T19:46:36+00:00,FORM_144,ALL,ALLSTATE CORP,proposed sale $34.04M,34039236,,https://www.sec.gov/Archives/edgar/data/1190466/000195917326007906/0001959173-26-007906-index.htm,MEDIUM
 2026-11-10T19:46:38+00:00,FORM_144,DUK,Duke Energy CORP,proposed sale $101K,101386,,https://www.sec.gov/Archives/edgar/data/1861032/000195917326007905/0001959173-26-007905-index.htm,LOW
 2026-11-10T20:01:37+00:00,FORM_144,MPLX,MPLX LP,proposed sale $199K,199270,,https://www.sec.gov/Archives/edgar/data/1619644/000195917326007907/0001959173-26-007907-index.htm,LOW
+2026-11-10T20:16:32+00:00,FORM_144,GMED,GLOBUS MEDICAL INC,proposed sale $3.13M,3129392,,https://www.sec.gov/Archives/edgar/data/1237831/000197407826000410/0001974078-26-000410-index.htm,LOW
