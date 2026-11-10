@@ -6662,3 +6662,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-10T13:16:31+00:00,FORM_144,CRNT,CERAGON NETWORKS LTD,proposed sale $27K,26847,,https://www.sec.gov/Archives/edgar/data/1982532/000197640826000935/0001976408-26-000935-index.htm,LOW
 2026-11-10T13:16:31+00:00,FORM_144,ALLT,Allot Ltd.,proposed sale $248K,247580,,https://www.sec.gov/Archives/edgar/data/1985446/000197640826000934/0001976408-26-000934-index.htm,LOW
 2026-11-10T13:31:33+00:00,FORM_144,NVMI,NOVA LTD.,proposed sale $1.04M,1040042,,https://www.sec.gov/Archives/edgar/data/1960005/000197640826000936/0001976408-26-000936-index.htm,LOW
+2026-11-10T14:26:42+00:00,FORM_144,HYMC,HYCROFT MINING HOLDING CORP,proposed sale $206K,206102,,https://www.sec.gov/Archives/edgar/data/1952129/000197407826000409/0001974078-26-000409-index.htm,LOW
