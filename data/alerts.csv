@@ -6651,3 +6651,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-10T02:56:33+00:00,FORM_144,KVYO,"Klaviyo, Inc.",proposed sale $35.65M,35648878,,https://www.sec.gov/Archives/edgar/data/1835830/000119312526454185/0001193125-26-454185-index.htm,MEDIUM
 2026-11-10T02:56:34+00:00,FORM_144,KVYO,"Klaviyo, Inc.",proposed sale $57.09M,57094290,,https://www.sec.gov/Archives/edgar/data/1835830/000119312526454183/0001193125-26-454183-index.htm,MEDIUM
 2026-11-10T02:56:36+00:00,FORM_144,KVYO,"Klaviyo, Inc.",proposed sale $42K,41973,,https://www.sec.gov/Archives/edgar/data/1846709/000119312526454181/0001193125-26-454181-index.htm,LOW
+2026-11-10T11:16:32+00:00,INSIDER_CLUSTER,TSM,TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD,Chen Chih-Ho $2K,2326,4,https://www.sec.gov/Archives/edgar/data/2114026/000104617926000744/0001046179-26-000744-index.htm,HIGH
+2026-11-10T11:16:35+00:00,FORM_144,CLBT,Cellebrite DI Ltd.,proposed sale $72K,72047,,https://www.sec.gov/Archives/edgar/data/1854587/000162828026072474/0001628280-26-072474-index.htm,LOW
+2026-11-10T11:16:36+00:00,FORM_144,CLBT,Cellebrite DI Ltd.,proposed sale $8K,8293,,https://www.sec.gov/Archives/edgar/data/1854587/000162828026072472/0001628280-26-072472-index.htm,LOW
