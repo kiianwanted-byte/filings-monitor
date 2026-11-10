@@ -6855,3 +6855,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-10T22:36:35+00:00,FORM_144,IBTA,"Ibotta, Inc.",proposed sale $988K,987916,,https://www.sec.gov/Archives/edgar/data/1881476/000196858226001130/0001968582-26-001130-index.htm,LOW
 2026-11-10T22:36:36+00:00,FORM_144,IBTA,"Ibotta, Inc.",proposed sale $1.53M,1531899,,https://www.sec.gov/Archives/edgar/data/1881476/000196858226001129/0001968582-26-001129-index.htm,LOW
 2026-11-10T22:41:36+00:00,FORM_144,BDX,"Becton, Dickinson and Company",proposed sale $397K,396868,,https://www.sec.gov/Archives/edgar/data/1708067/000162828026072857/0001628280-26-072857-index.htm,LOW
+2026-11-10T22:46:37+00:00,INSIDER_BUY,FUN,Six Flags Entertainment Corporation/NEW,JAFFER REHAN $14.93M,14929000,4,https://www.sec.gov/Archives/edgar/data/1999001/000199900126000113/0001999001-26-000113-index.htm,HIGH
