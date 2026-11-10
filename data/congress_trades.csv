@@ -3193,3 +3193,6 @@ timestamp,chamber,member,ticker,asset,action,amount_low,amount_high,trade_date,f
 2026-11-06T20:31:57+00:00,House,Josh Gottheimer,TLK,"PT Telekomunikasi Indonesia, Tbk",SELL,1001,15000,2026-10-15,2026-11-05,21,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035770.pdf
 2026-11-10T00:12:42+00:00,House,John J Mr McGuire III,WDC,Western Digital Corporation,SELL,1001,15000,2026-10-15,2026-11-06,22,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035775.pdf
 2026-11-10T00:12:42+00:00,House,Nancy Pelosi,WBD,"Warner Bros. Discovery, Inc. - Series",SELL,50001,100000,2026-10-07,2026-11-06,30,MEDIUM,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035780.pdf
+2026-11-10T21:55:21+00:00,House,David Kustoff,WBD,"Warner Bros. Discovery, Inc. - Series",SELL,1001,15000,2026-10-07,2026-11-09,33,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20024921.pdf
+2026-11-10T21:55:22+00:00,House,Thomas Suozzi,,US Treasury Bill,BUY,15001,50000,2026-10-13,2026-11-09,27,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035014.pdf
+2026-11-10T21:55:22+00:00,House,Thomas Suozzi,,US Treasury Bill,BUY,15001,50000,2026-10-15,2026-11-09,25,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035014.pdf
