@@ -6722,3 +6722,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-10T20:46:39+00:00,FORM_144,IBEX,IBEX Limited,proposed sale $355K,354831,,https://www.sec.gov/Archives/edgar/data/1974089/000197449426000327/0001974494-26-000327-index.htm,LOW
 2026-11-10T20:46:40+00:00,FORM_144,IBEX,IBEX Limited,proposed sale $106K,106471,,https://www.sec.gov/Archives/edgar/data/1973684/000197449426000326/0001974494-26-000326-index.htm,LOW
 2026-11-10T20:46:40+00:00,FORM_144,SMP,"STANDARD MOTOR PRODUCTS, INC.",proposed sale $75K,75373,,https://www.sec.gov/Archives/edgar/data/1351057/000195917326007915/0001959173-26-007915-index.htm,LOW
+2026-11-10T20:51:38+00:00,FORM_144,SMP,"STANDARD MOTOR PRODUCTS, INC.",proposed sale $125K,125315,,https://www.sec.gov/Archives/edgar/data/1373096/000195917326007918/0001959173-26-007918-index.htm,LOW
