@@ -6829,3 +6829,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-10T21:51:38+00:00,FORM_144,XMTR,Xometry Inc,proposed sale $600K,600000,,https://www.sec.gov/Archives/edgar/data/2056024/000196922326001161/0001969223-26-001161-index.htm,LOW
 2026-11-10T21:51:41+00:00,FORM_144,ULCC,FRONTIER GROUP HOLDINGS INC,proposed sale $42K,41750,,https://www.sec.gov/Archives/edgar/data/2011128/000196922326001160/0001969223-26-001160-index.htm,LOW
 2026-11-10T21:51:41+00:00,FORM_144,NBIX,"NEUROCRINE BIOSCIENCES, INC.",proposed sale $8.97M,8973487,,https://www.sec.gov/Archives/edgar/data/1818524/000195004726010964/0001950047-26-010964-index.htm,LOW
+2026-11-10T21:56:37+00:00,FORM_144,ETON,"Eton Pharmaceuticals, Inc.",proposed sale $5.34M,5341735,,https://www.sec.gov/Archives/edgar/data/1710340/000197407826000412/0001974078-26-000412-index.htm,LOW
+2026-11-10T21:56:38+00:00,FORM_144,GSAT,"Globalstar, Inc.",proposed sale $199K,198627,,https://www.sec.gov/Archives/edgar/data/1496862/000149686226000012/0001496862-26-000012-index.htm,LOW
+2026-11-10T21:56:38+00:00,FORM_144,CCNE,CNB FINANCIAL CORP/PA,proposed sale $905K,904750,,https://www.sec.gov/Archives/edgar/data/1392628/000100027526000129/0001000275-26-000129-index.htm,LOW
