@@ -6667,3 +6667,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-10T14:51:30+00:00,INSIDER_CLUSTER,GOOD,GLADSTONE COMMERCIAL CORP,Gerson Gary $86K,86264,1,https://www.sec.gov/Archives/edgar/data/1359579/000135957926000006/0001359579-26-000006-index.htm,HIGH
 2026-11-10T14:51:33+00:00,FORM_144,MOH,"Molina Healthcare, Inc",proposed sale $159K,159020,,https://www.sec.gov/Archives/edgar/data/1649773/000162828026072544/0001628280-26-072544-index.htm,LOW
 2026-11-10T14:51:34+00:00,FORM_144,HTFL,"Heartflow, Inc.",proposed sale $2.17M,2168286,,https://www.sec.gov/Archives/edgar/data/1900415/000195917326007888/0001959173-26-007888-index.htm,LOW
+2026-11-10T15:06:31+00:00,FORM_144,LEVI,LEVI STRAUSS & CO,proposed sale $74K,74184,,https://www.sec.gov/Archives/edgar/data/1977617/000195917326007890/0001959173-26-007890-index.htm,LOW
+2026-11-10T15:06:32+00:00,FORM_144,W,Wayfair Inc.,proposed sale $685K,685200,,https://www.sec.gov/Archives/edgar/data/1620093/000195917326007889/0001959173-26-007889-index.htm,LOW
