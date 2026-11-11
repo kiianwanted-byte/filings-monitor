@@ -6869,3 +6869,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-11T01:11:31+00:00,FORM_144,SBRA,"Sabra Health Care REIT, Inc.",proposed sale $213K,213200,,https://www.sec.gov/Archives/edgar/data/1492298/000114524626000017/0001145246-26-000017-index.htm,LOW
 2026-11-11T01:31:31+00:00,INSIDER_CLUSTER,MX,MAGNACHIP SEMICONDUCTOR Corp,Amoruso Cristiano $1.37M,1371146,4,https://www.sec.gov/Archives/edgar/data/2069371/000119312526455960/0001193125-26-455960-index.htm,HIGH
 2026-11-11T01:31:33+00:00,FORM_144,FIGS,"FIGS, Inc.",proposed sale $2.02M,2015100,,https://www.sec.gov/Archives/edgar/data/2029049/000162828026072948/0001628280-26-072948-index.htm,LOW
+2026-11-11T01:36:30+00:00,FORM_144,LKNCY,Luckin Coffee Inc.,proposed sale $5.37M,5370005,,https://www.sec.gov/Archives/edgar/data/1975383/000197538326000001/0001975383-26-000001-index.htm,LOW
