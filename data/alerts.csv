@@ -6867,3 +6867,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-11T00:26:31+00:00,FORM_144,MBX,"MBX Biosciences, Inc.",proposed sale $268K,268248,,https://www.sec.gov/Archives/edgar/data/1776111/000195917326007930/0001959173-26-007930-index.htm,LOW
 2026-11-11T00:56:30+00:00,INSIDER_CLUSTER,ATEC,"Alphatec Holdings, Inc.",Valentine Keith $243K,242550,0,https://www.sec.gov/Archives/edgar/data/1350653/000128940826000006/0001289408-26-000006-index.htm,HIGH
 2026-11-11T01:11:31+00:00,FORM_144,SBRA,"Sabra Health Care REIT, Inc.",proposed sale $213K,213200,,https://www.sec.gov/Archives/edgar/data/1492298/000114524626000017/0001145246-26-000017-index.htm,LOW
+2026-11-11T01:31:31+00:00,INSIDER_CLUSTER,MX,MAGNACHIP SEMICONDUCTOR Corp,Amoruso Cristiano $1.37M,1371146,4,https://www.sec.gov/Archives/edgar/data/2069371/000119312526455960/0001193125-26-455960-index.htm,HIGH
+2026-11-11T01:31:33+00:00,FORM_144,FIGS,"FIGS, Inc.",proposed sale $2.02M,2015100,,https://www.sec.gov/Archives/edgar/data/2029049/000162828026072948/0001628280-26-072948-index.htm,LOW
