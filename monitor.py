@@ -35,6 +35,21 @@ FINNHUB_KEY = os.environ.get("FINNHUB_KEY", "")
 # every post shows as "SCOUT", so this is the only source attribution.
 SOURCE_TAG = "\U0001F3DB\uFE0F"
 
+# Chat-list header (11 Nov 2026), same style as the rest of the fleet.
+# Line 1 is the plain header, line 2 is a row of invisible braille blanks
+# that pushes the rest out of the preview, so the SCOUT chat list and the
+# notification show only "CONGRESS". The emoji and the full alert follow
+# in the body, unchanged.
+PREVIEW_HEAD = "CONGRESS"
+PREVIEW_BLANK = "\u2800"
+PREVIEW_SPACER = 56
+
+
+def with_preview_head(text):
+    """Header + spacer + text. Left unchanged if it would not fit."""
+    out = f"{PREVIEW_HEAD}\n{PREVIEW_BLANK * PREVIEW_SPACER}\n{text}"
+    return out if len(out.encode("utf-16-le")) // 2 <= 4000 else text
+
 # Only alerts at or above this level reach Telegram.
 # Everything else is still written to the CSV for later review.
 # Options: "HIGH", "MEDIUM", "LOW"
@@ -501,7 +516,7 @@ def telegram(text, silent=True):
         log("  telegram not configured, printing instead")
         print(text)
         return False
-    text = f"{SOURCE_TAG} {text}"
+    text = with_preview_head(f"{SOURCE_TAG} {text}")
     url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
     try:
         r = session.post(url, json={
