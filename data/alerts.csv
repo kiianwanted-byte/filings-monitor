@@ -7024,3 +7024,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-12T20:41:31+00:00,FORM_144,SDGR,SCHRODINGER INC,proposed sale $803K,802570,,https://www.sec.gov/Archives/edgar/data/1798179/000162828026073337/0001628280-26-073337-index.htm,LOW
 2026-11-12T20:41:31+00:00,FORM_144,FDSB,"Fifth District Bancorp, Inc.",proposed sale $39K,39124,,https://www.sec.gov/Archives/edgar/data/2030701/000195917326007974/0001959173-26-007974-index.htm,LOW
 2026-11-12T20:46:50+00:00,FORM_144,CON,"Concentra Group Holdings Parent, Inc.",proposed sale $2.96M,2959904,,https://www.sec.gov/Archives/edgar/data/2031707/000195917326007975/0001959173-26-007975-index.htm,LOW
+2026-11-12T21:01:47+00:00,FORM_144,INVX,"Innovex International, Inc.",proposed sale $523K,522528,,https://www.sec.gov/Archives/edgar/data/2025606/000196922326001171/0001969223-26-001171-index.htm,LOW
+2026-11-12T21:01:48+00:00,FORM_144,ZG,"ZILLOW GROUP, INC.",proposed sale $55K,54559,,https://www.sec.gov/Archives/edgar/data/1617640/000192109426001167/0001921094-26-001167-index.htm,LOW
+2026-11-12T21:01:48+00:00,FORM_144,TEVA,TEVA PHARMACEUTICAL INDUSTRIES LTD,proposed sale $1.97M,1973545,,https://www.sec.gov/Archives/edgar/data/1721442/000197337926000372/0001973379-26-000372-index.htm,LOW
