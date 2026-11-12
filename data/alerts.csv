@@ -6922,3 +6922,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-12T13:01:41+00:00,FORM_144,TOST,"Toast, Inc.",proposed sale $235K,234985,,https://www.sec.gov/Archives/edgar/data/1650164/000195917326007948/0001959173-26-007948-index.htm,LOW
 2026-11-12T13:06:37+00:00,FORM_144,HAE,HAEMONETICS CORP,proposed sale $101K,101144,,https://www.sec.gov/Archives/edgar/data/1950052/000195917326007949/0001959173-26-007949-index.htm,LOW
 2026-11-12T13:16:35+00:00,FORM_144,WCN,"WASTE CONNECTIONS, INC.",proposed sale $1.04M,1045000,,https://www.sec.gov/Archives/edgar/data/1544202/000195004726010992/0001950047-26-010992-index.htm,LOW
+2026-11-12T13:26:33+00:00,FORM_144,AEIS,"ADVANCED ENERGY INDUSTRIES, INC.",proposed sale $767K,767244,,https://www.sec.gov/Archives/edgar/data/1940410/000195004726010994/0001950047-26-010994-index.htm,LOW
+2026-11-12T13:26:33+00:00,FORM_144,TTD,"THE TRADE DESK, INC.",proposed sale $97K,96611,,https://www.sec.gov/Archives/edgar/data/2008907/000195004726010993/0001950047-26-010993-index.htm,LOW
