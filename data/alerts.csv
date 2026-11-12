@@ -6881,3 +6881,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-12T11:51:33+00:00,FORM_144,AVNT,AVIENT CORP,proposed sale $355K,354524,,https://www.sec.gov/Archives/edgar/data/1614139/000195917326007931/0001959173-26-007931-index.htm,LOW
 2026-11-12T11:56:33+00:00,FORM_144,TPR,"TAPESTRY, INC.",proposed sale $8.75M,8751146,,https://www.sec.gov/Archives/edgar/data/1607592/000195917326007933/0001959173-26-007933-index.htm,LOW
 2026-11-12T11:56:34+00:00,FORM_144,THC,TENET HEALTHCARE CORP,proposed sale $293K,293000,,https://www.sec.gov/Archives/edgar/data/1986272/000195917326007932/0001959173-26-007932-index.htm,LOW
+2026-11-12T12:01:33+00:00,FORM_144,ATAT,Atour Lifestyle Holdings Limited,proposed sale $2.87M,2872800,,https://www.sec.gov/Archives/edgar/data/1975910/000095010326017314/0000950103-26-017314-index.htm,LOW
+2026-11-12T12:01:33+00:00,FORM_144,STT,STATE STREET CORP,proposed sale $1.12M,1119265,,https://www.sec.gov/Archives/edgar/data/1698378/000195917326007934/0001959173-26-007934-index.htm,LOW
+2026-11-12T12:01:34+00:00,FORM_144,ATAT,Atour Lifestyle Holdings Limited,proposed sale $2.51M,2513700,,https://www.sec.gov/Archives/edgar/data/1975911/000095010326017313/0000950103-26-017313-index.htm,LOW
