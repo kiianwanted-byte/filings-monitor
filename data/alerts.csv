@@ -7018,3 +7018,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-12T19:46:35+00:00,FORM_144,OMC,OMNICOM GROUP INC.,proposed sale $61K,61280,,https://www.sec.gov/Archives/edgar/data/1188735/000195917326007969/0001959173-26-007969-index.htm,LOW
 2026-11-12T19:46:36+00:00,FORM_144,LWAY,"Lifeway Foods, Inc.",proposed sale $839K,839160,,https://www.sec.gov/Archives/edgar/data/1227848/000100027526000131/0001000275-26-000131-index.htm,LOW
 2026-11-12T19:51:33+00:00,FORM_144,CON,"Concentra Group Holdings Parent, Inc.",proposed sale $791K,790529,,https://www.sec.gov/Archives/edgar/data/2029684/000195917326007971/0001959173-26-007971-index.htm,LOW
+2026-11-12T20:26:40+00:00,FORM_144,LTRX,LANTRONIX INC,proposed sale $92K,92376,,https://www.sec.gov/Archives/edgar/data/2076945/000197407826000415/0001974078-26-000415-index.htm,LOW
