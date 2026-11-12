@@ -6944,3 +6944,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-12T13:41:33+00:00,FORM_144,SBGI,"Sinclair, Inc.",proposed sale $150K,150173,,https://www.sec.gov/Archives/edgar/data/1971213/000195004726011007/0001950047-26-011007-index.htm,LOW
 2026-11-12T13:41:33+00:00,FORM_144,BETA,"BETA Technologies, Inc.",proposed sale $283K,283375,,https://www.sec.gov/Archives/edgar/data/2090083/000195917326007950/0001959173-26-007950-index.htm,LOW
 2026-11-12T13:46:35+00:00,FORM_144,MANE,"Veradermics, Inc",proposed sale $37.59M,37595000,,https://www.sec.gov/Archives/edgar/data/1935964/000119312526457122/0001193125-26-457122-index.htm,MEDIUM
+2026-11-12T13:51:41+00:00,FORM_144,NP,NEPTUNE INSURANCE HOLDINGS INC.,proposed sale $2.43M,2431942,,https://www.sec.gov/Archives/edgar/data/2077387/000195004726011012/0001950047-26-011012-index.htm,LOW
+2026-11-12T13:51:42+00:00,FORM_144,ROIV,ROIVANT SCIENCES LTD.,proposed sale $7.32M,7323568,,https://www.sec.gov/Archives/edgar/data/1885841/000195004726011011/0001950047-26-011011-index.htm,LOW
+2026-11-12T13:51:42+00:00,FORM_144,CVX,CHEVRON CORPORATION,proposed sale $1.27M,1272822,,https://www.sec.gov/Archives/edgar/data/2071610/000195004726011010/0001950047-26-011010-index.htm,LOW
+2026-11-12T13:51:56+00:00,FORM_144,AHCO,ADAPTHEALTH CORP.,proposed sale $155K,154712,,https://www.sec.gov/Archives/edgar/data/1820867/000195004726011009/0001950047-26-011009-index.htm,LOW
