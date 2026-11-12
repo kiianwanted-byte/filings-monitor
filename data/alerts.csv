@@ -6921,3 +6921,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-12T13:01:40+00:00,FORM_144,SEPN,"Septerna, Inc.",proposed sale $5.23M,5234000,,https://www.sec.gov/Archives/edgar/data/1984086/000195004726010978/0001950047-26-010978-index.htm,LOW
 2026-11-12T13:01:41+00:00,FORM_144,TOST,"Toast, Inc.",proposed sale $235K,234985,,https://www.sec.gov/Archives/edgar/data/1650164/000195917326007948/0001959173-26-007948-index.htm,LOW
 2026-11-12T13:06:37+00:00,FORM_144,HAE,HAEMONETICS CORP,proposed sale $101K,101144,,https://www.sec.gov/Archives/edgar/data/1950052/000195917326007949/0001959173-26-007949-index.htm,LOW
+2026-11-12T13:16:35+00:00,FORM_144,WCN,"WASTE CONNECTIONS, INC.",proposed sale $1.04M,1045000,,https://www.sec.gov/Archives/edgar/data/1544202/000195004726010992/0001950047-26-010992-index.htm,LOW
