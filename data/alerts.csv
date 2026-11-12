@@ -6879,3 +6879,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-12T11:16:43+00:00,FORM_144,TRI,Thomson Reuters Corporation,proposed sale $217.66M,217660000,,https://www.sec.gov/Archives/edgar/data/1397960/000114036126043250/0001140361-26-043250-index.htm,MEDIUM
 2026-11-12T11:46:34+00:00,INSIDER_CLUSTER,MP,MP Materials Corp. / DE,WEISENBURGER RANDALL J $1.98M,1980000,2,https://www.sec.gov/Archives/edgar/data/1801368/000103160926000009/0001031609-26-000009-index.htm,HIGH
 2026-11-12T11:51:33+00:00,FORM_144,AVNT,AVIENT CORP,proposed sale $355K,354524,,https://www.sec.gov/Archives/edgar/data/1614139/000195917326007931/0001959173-26-007931-index.htm,LOW
+2026-11-12T11:56:33+00:00,FORM_144,TPR,"TAPESTRY, INC.",proposed sale $8.75M,8751146,,https://www.sec.gov/Archives/edgar/data/1607592/000195917326007933/0001959173-26-007933-index.htm,LOW
+2026-11-12T11:56:34+00:00,FORM_144,THC,TENET HEALTHCARE CORP,proposed sale $293K,293000,,https://www.sec.gov/Archives/edgar/data/1986272/000195917326007932/0001959173-26-007932-index.htm,LOW
