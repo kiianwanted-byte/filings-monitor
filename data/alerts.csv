@@ -6895,3 +6895,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-12T12:31:32+00:00,FORM_144,SPT,"Sprout Social, Inc.",proposed sale $452K,452426,,https://www.sec.gov/Archives/edgar/data/1791816/000195917326007941/0001959173-26-007941-index.htm,LOW
 2026-11-12T12:36:31+00:00,FORM_144,RGS,REGIS CORP,proposed sale $10K,9642,,https://www.sec.gov/Archives/edgar/data/1211005/000195917326007943/0001959173-26-007943-index.htm,LOW
 2026-11-12T12:36:32+00:00,FORM_144,PBYI,"PUMA BIOTECHNOLOGY, INC.",proposed sale $121K,121456,,https://www.sec.gov/Archives/edgar/data/1401667/000195917326007942/0001959173-26-007942-index.htm,LOW
+2026-11-12T12:41:33+00:00,FORM_144,KGS,"Kodiak Gas Services, Inc.",proposed sale $44K,44200,,https://www.sec.gov/Archives/edgar/data/1971854/000195917326007944/0001959173-26-007944-index.htm,LOW
