@@ -6998,3 +6998,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-12T17:26:42+00:00,FORM_144,BBNX,"Beta Bionics, Inc.",proposed sale $153K,152680,,https://www.sec.gov/Archives/edgar/data/2048588/000162828026073259/0001628280-26-073259-index.htm,LOW
 2026-11-12T17:36:37+00:00,FORM_144,EE,"Excelerate Energy, Inc.",proposed sale $240K,240053,,https://www.sec.gov/Archives/edgar/data/1907215/000190721526000001/0001907215-26-000001-index.htm,LOW
 2026-11-12T17:36:37+00:00,FORM_144,EPAM,"EPAM Systems, Inc.",proposed sale $1.60M,1603200,,https://www.sec.gov/Archives/edgar/data/1693502/000196922326001167/0001969223-26-001167-index.htm,LOW
+2026-11-12T17:56:33+00:00,FORM_144,CACI,CACI INTERNATIONAL INC /DE/,proposed sale $150K,149958,,https://www.sec.gov/Archives/edgar/data/1699997/000194984626000654/0001949846-26-000654-index.htm,LOW
+2026-11-12T17:56:34+00:00,FORM_144,TXN,TEXAS INSTRUMENTS INCORPORATED,proposed sale $2.71M,2705436,,https://www.sec.gov/Archives/edgar/data/1646850/000196922326001168/0001969223-26-001168-index.htm,LOW
+2026-11-12T17:56:34+00:00,FORM_144,FWONA,Liberty Media Corporation,proposed sale $28.53M,28530424,,https://www.sec.gov/Archives/edgar/data/1560385/000196922326001169/0001969223-26-001169-index.htm,MEDIUM
+2026-11-12T17:56:35+00:00,FORM_144,WTBA,WEST BANCORPORATION INC,proposed sale $200K,200268,,https://www.sec.gov/Archives/edgar/data/1247350/000194984626000653/0001949846-26-000653-index.htm,LOW
