@@ -6938,3 +6938,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-12T13:36:38+00:00,FORM_144,MU,"MICRON TECHNOLOGY, INC.",proposed sale $11.41M,11407062,,https://www.sec.gov/Archives/edgar/data/1311079/000195004726011002/0001950047-26-011002-index.htm,LOW
 2026-11-12T13:36:38+00:00,FORM_144,MGNI,"MAGNITE, INC.",proposed sale $72K,71814,,https://www.sec.gov/Archives/edgar/data/2156224/000195004726011001/0001950047-26-011001-index.htm,LOW
 2026-11-12T13:36:39+00:00,FORM_144,MU,"MICRON TECHNOLOGY, INC.",proposed sale $11.41M,11407062,,https://www.sec.gov/Archives/edgar/data/1311079/000195004726011000/0001950047-26-011000-index.htm,LOW
+2026-11-12T13:41:31+00:00,FORM_144,FIG,"Figma, Inc.",proposed sale $232K,232409,,https://www.sec.gov/Archives/edgar/data/1591294/000162828026073155/0001628280-26-073155-index.htm,LOW
+2026-11-12T13:41:32+00:00,FORM_144,CRVL,CorVel Corporation,proposed sale $920K,920040,,https://www.sec.gov/Archives/edgar/data/1056168/000196858226001131/0001968582-26-001131-index.htm,LOW
+2026-11-12T13:41:32+00:00,FORM_144,GDYN,"GRID DYNAMICS HOLDINGS, INC.",proposed sale $138K,138400,,https://www.sec.gov/Archives/edgar/data/1805694/000195004726011008/0001950047-26-011008-index.htm,LOW
+2026-11-12T13:41:33+00:00,FORM_144,SBGI,"Sinclair, Inc.",proposed sale $150K,150173,,https://www.sec.gov/Archives/edgar/data/1971213/000195004726011007/0001950047-26-011007-index.htm,LOW
+2026-11-12T13:41:33+00:00,FORM_144,BETA,"BETA Technologies, Inc.",proposed sale $283K,283375,,https://www.sec.gov/Archives/edgar/data/2090083/000195917326007950/0001959173-26-007950-index.htm,LOW
