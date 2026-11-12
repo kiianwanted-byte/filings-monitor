@@ -6989,3 +6989,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-12T16:16:38+00:00,FORM_144,ATMU,Atmus Filtration Technologies Inc.,proposed sale $1.80M,1800693,,https://www.sec.gov/Archives/edgar/data/1989065/000195917326007963/0001959173-26-007963-index.htm,LOW
 2026-11-12T16:21:40+00:00,FORM_144,BLCO,Bausch & Lomb Corp,proposed sale $270K,269746,,https://www.sec.gov/Archives/edgar/data/1860742/000195917326007964/0001959173-26-007964-index.htm,LOW
 2026-11-12T16:26:40+00:00,FORM_144,BEN,FRANKLIN TEMPLETON INC,proposed sale $5.79M,5792000,,https://www.sec.gov/Archives/edgar/data/1773856/000177385626000001/0001773856-26-000001-index.htm,LOW
+2026-11-12T16:31:34+00:00,FORM_144,PINS,"PINTEREST, INC.",proposed sale $891K,890751,,https://www.sec.gov/Archives/edgar/data/1773914/000192109426001165/0001921094-26-001165-index.htm,LOW
