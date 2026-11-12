@@ -6996,3 +6996,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-12T17:01:32+00:00,FORM_144,BATRA,"Atlanta Braves Holdings, Inc.",proposed sale $790K,790036,,https://www.sec.gov/Archives/edgar/data/2036190/000194984626000652/0001949846-26-000652-index.htm,LOW
 2026-11-12T17:16:46+00:00,FORM_144,DAL,"DELTA AIR LINES, INC.",proposed sale $1.58M,1580558,,https://www.sec.gov/Archives/edgar/data/1666169/000195917326007965/0001959173-26-007965-index.htm,LOW
 2026-11-12T17:26:42+00:00,FORM_144,BBNX,"Beta Bionics, Inc.",proposed sale $153K,152680,,https://www.sec.gov/Archives/edgar/data/2048588/000162828026073259/0001628280-26-073259-index.htm,LOW
+2026-11-12T17:36:37+00:00,FORM_144,EE,"Excelerate Energy, Inc.",proposed sale $240K,240053,,https://www.sec.gov/Archives/edgar/data/1907215/000190721526000001/0001907215-26-000001-index.htm,LOW
+2026-11-12T17:36:37+00:00,FORM_144,EPAM,"EPAM Systems, Inc.",proposed sale $1.60M,1603200,,https://www.sec.gov/Archives/edgar/data/1693502/000196922326001167/0001969223-26-001167-index.htm,LOW
