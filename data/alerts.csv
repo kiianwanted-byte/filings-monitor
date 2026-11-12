@@ -7107,3 +7107,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-12T21:36:49+00:00,FORM_144,AMPL,"Amplitude, Inc.",proposed sale $192,192,,https://www.sec.gov/Archives/edgar/data/1882913/000195917326007982/0001959173-26-007982-index.htm,LOW
 2026-11-12T21:42:19+00:00,FORM_144,PUBM,"PUBMATIC, INC.",proposed sale $936K,935550,,https://www.sec.gov/Archives/edgar/data/1833465/000195004726011054/0001950047-26-011054-index.htm,LOW
 2026-11-12T21:42:19+00:00,FORM_144,BAND,Bandwidth Inc.,proposed sale $174K,174280,,https://www.sec.gov/Archives/edgar/data/1527937/000152793726000012/0001527937-26-000012-index.htm,LOW
+2026-11-12T21:51:40+00:00,FORM_144,PDFS,"PDF SOLUTIONS, INC.",proposed sale $408K,408211,,https://www.sec.gov/Archives/edgar/data/1209040/000195004726011055/0001950047-26-011055-index.htm,LOW
