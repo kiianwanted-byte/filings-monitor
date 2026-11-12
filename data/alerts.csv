@@ -6884,3 +6884,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-12T12:01:33+00:00,FORM_144,ATAT,Atour Lifestyle Holdings Limited,proposed sale $2.87M,2872800,,https://www.sec.gov/Archives/edgar/data/1975910/000095010326017314/0000950103-26-017314-index.htm,LOW
 2026-11-12T12:01:33+00:00,FORM_144,STT,STATE STREET CORP,proposed sale $1.12M,1119265,,https://www.sec.gov/Archives/edgar/data/1698378/000195917326007934/0001959173-26-007934-index.htm,LOW
 2026-11-12T12:01:34+00:00,FORM_144,ATAT,Atour Lifestyle Holdings Limited,proposed sale $2.51M,2513700,,https://www.sec.gov/Archives/edgar/data/1975911/000095010326017313/0000950103-26-017313-index.htm,LOW
+2026-11-12T12:06:31+00:00,INSIDER_BUY,BW,"Babcock & Wilcox Enterprises, Inc.","BRC Group Holdings, Inc. $648K",647592,1,https://www.sec.gov/Archives/edgar/data/1880803/000121390026118354/0001213900-26-118354-index.htm,MEDIUM
+2026-11-12T12:06:33+00:00,FORM_144,BFLY,"Butterfly Network, Inc.",proposed sale $350K,350000,,https://www.sec.gov/Archives/edgar/data/1804176/000195917326007936/0001959173-26-007936-index.htm,LOW
+2026-11-12T12:06:33+00:00,FORM_144,PGNY,"Progyny, Inc.",proposed sale $28K,28181,,https://www.sec.gov/Archives/edgar/data/2065409/000195917326007935/0001959173-26-007935-index.htm,LOW

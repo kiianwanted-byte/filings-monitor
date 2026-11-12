@@ -2242,3 +2242,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-11-12T11:46:34+00:00,2026-11-09,API,"Agora, Inc.",Zhao Bin,"Director, Chief Executive Officer",27144,4.30,116831,1.2,0001193125-26-456831
 2026-11-12T11:46:34+00:00,2026-11-10,MP,MP Materials Corp. / DE,WEISENBURGER RANDALL J,Director,55000,36.00,1980000,36.4,0001031609-26-000009
 2026-11-12T11:51:32+00:00,2026-11-10,MP,MP Materials Corp. / DE,Rosenthal Michael Stuart,Chief Operating Officer,32000,36.72,1175090,2.4,0001832050-26-000010
+2026-11-12T12:06:31+00:00,2026-11-11,BW,"Babcock & Wilcox Enterprises, Inc.","BRC Group Holdings, Inc.",10% owner,130000,4.98,647592,NEW,0001213900-26-118354
