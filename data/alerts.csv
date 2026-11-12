@@ -7013,3 +7013,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-12T19:11:36+00:00,FORM_144,CON,"Concentra Group Holdings Parent, Inc.",proposed sale $781K,781068,,https://www.sec.gov/Archives/edgar/data/2029837/000195917326007968/0001959173-26-007968-index.htm,LOW
 2026-11-12T19:26:35+00:00,FORM_144,TG,TREDEGAR CORP,proposed sale $2.03M,2026460,,https://www.sec.gov/Archives/edgar/data/1995606/000196530126000181/0001965301-26-000181-index.htm,LOW
 2026-11-12T19:31:47+00:00,INSIDER_CLUSTER,EGBN,EAGLE BANCORP INC,Curley Stephen Russell $150K,149581,2,https://www.sec.gov/Archives/edgar/data/1441890/000144189026000007/0001441890-26-000007-index.htm,HIGH
+2026-11-12T19:36:39+00:00,FORM_144,RM,Regional Management Corp.,proposed sale $366K,365993,,https://www.sec.gov/Archives/edgar/data/1519401/000089914026001289/0000899140-26-001289-index.htm,LOW
