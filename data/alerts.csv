@@ -6977,3 +6977,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-12T15:21:50+00:00,FORM_144,ECHO,EchoStar CORP,proposed sale $1.12M,1118460,,https://www.sec.gov/Archives/edgar/data/1602724/000195917326007957/0001959173-26-007957-index.htm,LOW
 2026-11-12T15:26:44+00:00,FORM_144,VRTX,VERTEX PHARMACEUTICALS INC / MA,proposed sale $8.37M,8374740,,https://www.sec.gov/Archives/edgar/data/1223348/000195917326007958/0001959173-26-007958-index.htm,LOW
 2026-11-12T15:36:34+00:00,FORM_144,GENI,Genius Sports Ltd,proposed sale $184K,184206,,https://www.sec.gov/Archives/edgar/data/2004576/000195917326007959/0001959173-26-007959-index.htm,LOW
+2026-11-12T15:41:38+00:00,FORM_144,EXLS,"ExlService Holdings, Inc.",proposed sale $224K,224400,,https://www.sec.gov/Archives/edgar/data/1762098/000195917326007960/0001959173-26-007960-index.htm,LOW
