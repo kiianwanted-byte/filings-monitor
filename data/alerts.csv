@@ -6968,3 +6968,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-12T14:46:39+00:00,FORM_144,ULCC,Frontier Group Holdings Inc,proposed sale $332K,332393,,https://www.sec.gov/Archives/edgar/data/1854386/000196922326001166/0001969223-26-001166-index.htm,LOW
 2026-11-12T14:46:40+00:00,FORM_144,KINS,"Kingstone Companies, Inc.",proposed sale $194K,193951,,https://www.sec.gov/Archives/edgar/data/1830472/000165495426009709/0001654954-26-009709-index.htm,LOW
 2026-11-12T14:46:40+00:00,FORM_144,ROOT,"Root, Inc.",proposed sale $130K,130416,,https://www.sec.gov/Archives/edgar/data/1977858/000195917326007953/0001959173-26-007953-index.htm,LOW
+2026-11-12T14:51:34+00:00,FORM_144,COST,COSTCO WHOLESALE CORP /NEW,proposed sale $829K,829064,,https://www.sec.gov/Archives/edgar/data/2112687/000195917326007954/0001959173-26-007954-index.htm,LOW
