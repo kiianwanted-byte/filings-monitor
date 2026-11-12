@@ -7108,3 +7108,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-12T21:42:19+00:00,FORM_144,PUBM,"PUBMATIC, INC.",proposed sale $936K,935550,,https://www.sec.gov/Archives/edgar/data/1833465/000195004726011054/0001950047-26-011054-index.htm,LOW
 2026-11-12T21:42:19+00:00,FORM_144,BAND,Bandwidth Inc.,proposed sale $174K,174280,,https://www.sec.gov/Archives/edgar/data/1527937/000152793726000012/0001527937-26-000012-index.htm,LOW
 2026-11-12T21:51:40+00:00,FORM_144,PDFS,"PDF SOLUTIONS, INC.",proposed sale $408K,408211,,https://www.sec.gov/Archives/edgar/data/1209040/000195004726011055/0001950047-26-011055-index.htm,LOW
+2026-11-12T21:56:41+00:00,INSIDER_CLUSTER,CSQR,"Csquare, Inc.",Kelley Philip M $172K,172399,1,https://www.sec.gov/Archives/edgar/data/2105398/000095014226003013/0000950142-26-003013-index.htm,HIGH
+2026-11-12T21:56:43+00:00,FORM_144,BLKB,Blackbaud Inc,proposed sale $42K,42271,,https://www.sec.gov/Archives/edgar/data/1524788/000162828026073470/0001628280-26-073470-index.htm,LOW
+2026-11-12T21:56:44+00:00,FORM_144,SBH,"Sally Beauty Holdings, Inc.",proposed sale $291K,291400,,https://www.sec.gov/Archives/edgar/data/1718810/000196922326001177/0001969223-26-001177-index.htm,LOW
