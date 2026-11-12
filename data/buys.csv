@@ -2283,3 +2283,5 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-11-12T21:11:47+00:00,2026-11-10,ELVR,Elevra Lithium Ltd,Collard Sylvain,President Canada & Group COO,30000,2.49,74778,NEW,0001140361-26-043429
 2026-11-12T21:11:51+00:00,2026-11-09,AMH,American Homes 4 Rent,CORRIGAN JACK E,Director,5000,21.07,105366,25.0,0001227454-26-000018
 2026-11-12T21:11:52+00:00,2026-11-09,ZVIA,Zevia PBC,Ruberti Alexandre,"Director, President & CEO",81300,1.23,99909,6.7,0001847944-26-000007
+2026-11-12T21:16:36+00:00,2026-11-10,LUCK,Lucky Strike Entertainment Corp,Young John Alan,Director,11749,3.32,39004,11.2,0001628280-26-073406
+2026-11-12T21:16:40+00:00,2026-11-09,AFCG,Advanced Flower Capital Inc.,TANNENBAUM LEONARD M,"Director, 10% owner",29982,3.36,100827,0.4,0001628280-26-073398
