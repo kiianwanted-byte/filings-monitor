@@ -6872,3 +6872,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-11T01:36:30+00:00,FORM_144,LKNCY,Luckin Coffee Inc.,proposed sale $5.37M,5370005,,https://www.sec.gov/Archives/edgar/data/1975383/000197538326000001/0001975383-26-000001-index.htm,LOW
 2026-11-11T02:01:47+00:00,STAKE_13D,,"JANA Partners Management, LP", 6.4%,,,https://www.sec.gov/Archives/edgar/data/1998597/000090266426004458/0000902664-26-004458-index.htm,HIGH
 2026-11-11T02:51:33+00:00,FORM_144,CTEV,Claritev Corp,proposed sale $131K,130625,,https://www.sec.gov/Archives/edgar/data/1793229/000121390026118236/0001213900-26-118236-index.htm,LOW
+2026-11-12T11:06:32+00:00,INSIDER_CLUSTER,COHR,COHERENT CORP.,Digirolomo Enrico $223K,222885,2,https://www.sec.gov/Archives/edgar/data/1741413/000089914026001275/0000899140-26-001275-index.htm,HIGH
