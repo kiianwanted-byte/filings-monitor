@@ -7134,3 +7134,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-12T23:16:34+00:00,FORM_144,TPC,Tutor Perini Corporation,proposed sale $15.20M,15195000,,https://www.sec.gov/Archives/edgar/data/906134/000162828026073526/0001628280-26-073526-index.htm,LOW
 2026-11-12T23:16:35+00:00,FORM_144,CPRI,Capri Holdings Limited,proposed sale $1.30M,1298715,,https://www.sec.gov/Archives/edgar/data/1861036/000195824426000718/0001958244-26-000718-index.htm,LOW
 2026-11-12T23:21:36+00:00,INSIDER_BUY,BLMN,"Bloomin' Brands, Inc.",Spanos Mike $502K,501999,1,https://www.sec.gov/Archives/edgar/data/1719998/000171999826000016/0001719998-26-000016-index.htm,MEDIUM
+2026-11-12T23:31:33+00:00,INSIDER_BUY,BKD,Brookdale Senior Living Inc.,WINKLE C CHRISTIAN $358K,358068,2,https://www.sec.gov/Archives/edgar/data/1332349/000133234926000074/0001332349-26-000074-index.htm,MEDIUM
+2026-11-12T23:31:37+00:00,FORM_144,FRMI,Fermi Inc.,proposed sale $20.60M,20600000,,https://www.sec.gov/Archives/edgar/data/2071778/000195824426000719/0001958244-26-000719-index.htm,LOW
