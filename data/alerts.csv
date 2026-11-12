@@ -6963,3 +6963,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-12T14:26:39+00:00,FORM_144,AUGO,Aura Minerals Inc.,proposed sale $4K,3562,,https://www.sec.gov/Archives/edgar/data/2137243/000213724326000001/0002137243-26-000001-index.htm,LOW
 2026-11-12T14:26:45+00:00,FORM_144,PLUS,EPLUS INC,proposed sale $273K,273072,,https://www.sec.gov/Archives/edgar/data/1736723/000196530126000178/0001965301-26-000178-index.htm,LOW
 2026-11-12T14:26:45+00:00,FORM_144,TDY,TELEDYNE TECHNOLOGIES INC,proposed sale $2.93M,2925677,,https://www.sec.gov/Archives/edgar/data/1641318/000197337926000370/0001973379-26-000370-index.htm,LOW
+2026-11-12T14:31:34+00:00,FORM_144,AUGO,Aura Minerals Inc.,proposed sale $617K,617378,,https://www.sec.gov/Archives/edgar/data/2135135/000213513526000014/0002135135-26-000014-index.htm,LOW
+2026-11-12T14:31:34+00:00,FORM_144,PKG,PACKAGING CORP OF AMERICA,proposed sale $2.37M,2372727,,https://www.sec.gov/Archives/edgar/data/1247456/000196530126000179/0001965301-26-000179-index.htm,LOW
