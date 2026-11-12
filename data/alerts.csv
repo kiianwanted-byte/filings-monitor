@@ -6887,3 +6887,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-12T12:06:31+00:00,INSIDER_BUY,BW,"Babcock & Wilcox Enterprises, Inc.","BRC Group Holdings, Inc. $648K",647592,1,https://www.sec.gov/Archives/edgar/data/1880803/000121390026118354/0001213900-26-118354-index.htm,MEDIUM
 2026-11-12T12:06:33+00:00,FORM_144,BFLY,"Butterfly Network, Inc.",proposed sale $350K,350000,,https://www.sec.gov/Archives/edgar/data/1804176/000195917326007936/0001959173-26-007936-index.htm,LOW
 2026-11-12T12:06:33+00:00,FORM_144,PGNY,"Progyny, Inc.",proposed sale $28K,28181,,https://www.sec.gov/Archives/edgar/data/2065409/000195917326007935/0001959173-26-007935-index.htm,LOW
+2026-11-12T12:11:31+00:00,INSIDER_CLUSTER,FIP,FTAI Infrastructure Inc.,Nicholson Kenneth J. $1.53M,1530000,2,https://www.sec.gov/Archives/edgar/data/1899883/000189988326000044/0001899883-26-000044-index.htm,HIGH
+2026-11-12T12:11:33+00:00,FORM_144,ZD,"ZIFF DAVIS, INC.",proposed sale $134K,134275,,https://www.sec.gov/Archives/edgar/data/1491021/000195917326007937/0001959173-26-007937-index.htm,LOW
