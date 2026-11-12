@@ -7124,3 +7124,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-12T22:26:36+00:00,FORM_144,EVI,"EVI INDUSTRIES, INC",proposed sale $632K,632500,,https://www.sec.gov/Archives/edgar/data/1980687/000196922326001181/0001969223-26-001181-index.htm,LOW
 2026-11-12T22:26:37+00:00,FORM_144,ACU,Acme United Corporation,proposed sale $435K,435479,,https://www.sec.gov/Archives/edgar/data/1361783/000196922326001180/0001969223-26-001180-index.htm,LOW
 2026-11-12T22:26:37+00:00,FORM_144,XMTR,Xometry,proposed sale $310K,309715,,https://www.sec.gov/Archives/edgar/data/1847014/000196922326001179/0001969223-26-001179-index.htm,LOW
+2026-11-12T22:31:57+00:00,FORM_144,AUGO,Aura Minerals Inc.,proposed sale $906K,905746,,https://www.sec.gov/Archives/edgar/data/2135135/000213513526000015/0002135135-26-000015-index.htm,LOW
+2026-11-12T22:31:57+00:00,FORM_144,MSI,"Motorola Solutions, Inc.",proposed sale $21.48M,21481200,,https://www.sec.gov/Archives/edgar/data/1201232/000195824426000717/0001958244-26-000717-index.htm,LOW
