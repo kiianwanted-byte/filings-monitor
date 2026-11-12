@@ -7005,3 +7005,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-12T18:06:34+00:00,FORM_144,COST,COSTCO WHOLESALE CORP /NEW,proposed sale $2.74M,2737925,,https://www.sec.gov/Archives/edgar/data/1729360/000195917326007966/0001959173-26-007966-index.htm,LOW
 2026-11-12T18:16:45+00:00,FORM_144,CSGP,"COSTAR GROUP, INC.",proposed sale $93K,92600,,https://www.sec.gov/Archives/edgar/data/1351689/000196530126000180/0001965301-26-000180-index.htm,LOW
 2026-11-12T18:26:33+00:00,FORM_144,LKNCY,Luckin Coffee Inc.,proposed sale $7.27M,7270427,,https://www.sec.gov/Archives/edgar/data/1975310/000197531026000001/0001975310-26-000001-index.htm,LOW
+2026-11-12T18:31:38+00:00,FORM_144,CHD,Church & Dwight Inc,proposed sale $1.29M,1288808,,https://www.sec.gov/Archives/edgar/data/1590794/000196922326001170/0001969223-26-001170-index.htm,LOW
