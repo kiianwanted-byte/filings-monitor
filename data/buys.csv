@@ -2271,3 +2271,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-11-12T17:01:31+00:00,2026-11-10,AQST,"Aquestive Therapeutics, Inc.",Daly Richard J,Director,28025,3.54,99330,NEW,0001214659-26-014004
 2026-11-12T18:16:34+00:00,2026-11-12,ABCL,AbCellera Biologics Inc.,Thermopylae Holdings Ltd.,10% owner,60565,11.54,698920,0.1,0001834449-26-000009
 2026-11-12T18:56:31+00:00,2026-11-09,JCTC,JEWETT CAMERON TRADING CO LTD,"AJB Investment Fund II, LP",10% owner,3806,2.85,10847,0.7,0001536588-26-000047
+2026-11-12T19:01:36+00:00,2026-11-09,PAM,Pampa Energy Inc.,Mindlin Damian Miguel,Vicepresident,20243,64.22,1300012,2.7,0002028916-26-000014

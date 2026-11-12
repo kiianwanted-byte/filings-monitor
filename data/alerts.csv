@@ -7008,3 +7008,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-12T18:31:38+00:00,FORM_144,CHD,Church & Dwight Inc,proposed sale $1.29M,1288808,,https://www.sec.gov/Archives/edgar/data/1590794/000196922326001170/0001969223-26-001170-index.htm,LOW
 2026-11-12T18:36:32+00:00,FORM_144,CRCL,"Circle Internet Group, Inc.",proposed sale $97K,97113,,https://www.sec.gov/Archives/edgar/data/1929125/000195917326007967/0001959173-26-007967-index.htm,LOW
 2026-11-12T18:56:31+00:00,INSIDER_CLUSTER,JCTC,JEWETT CAMERON TRADING CO LTD,"AJB Investment Fund II, LP $11K",10847,3,https://www.sec.gov/Archives/edgar/data/2141919/000153658826000047/0001536588-26-000047-index.htm,HIGH
+2026-11-12T19:01:36+00:00,INSIDER_CLUSTER,PAM,Pampa Energy Inc.,Mindlin Damian Miguel $1.30M,1300012,3,https://www.sec.gov/Archives/edgar/data/2028916/000202891626000014/0002028916-26-000014-index.htm,HIGH
