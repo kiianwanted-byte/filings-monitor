@@ -7114,3 +7114,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-12T22:01:38+00:00,FORM_144,GSAT,Globalstar Inc.,proposed sale $7.76M,7763083,,https://www.sec.gov/Archives/edgar/data/1764225/000196922326001178/0001969223-26-001178-index.htm,LOW
 2026-11-12T22:06:37+00:00,INSIDER_CLUSTER,NYSE:FLG,"FLAGSTAR BANK, NATIONAL ASSOCIATION",Otting Joseph M $496K,496428,2,https://www.sec.gov/Archives/edgar/data/1323101/000132310126000007/0001323101-26-000007-index.htm,HIGH
 2026-11-12T22:06:40+00:00,FORM_144,CTEV,Claritev Corp,proposed sale $603K,602673,,https://www.sec.gov/Archives/edgar/data/1793229/000121390026119038/0001213900-26-119038-index.htm,LOW
+2026-11-12T22:11:37+00:00,INSIDER_BUY,EQPT,EquipmentShare.com Inc,HILL W BRYAN $554K,554116,1,https://www.sec.gov/Archives/edgar/data/1693736/000162828026073491/0001628280-26-073491-index.htm,MEDIUM
+2026-11-12T22:11:44+00:00,FORM_144,KRRO,"Korro Bio, Inc.",proposed sale $165K,164720,,https://www.sec.gov/Archives/edgar/data/1885327/000162828026073489/0001628280-26-073489-index.htm,LOW
+2026-11-12T22:11:44+00:00,FORM_144,KRRO,"Korro Bio, Inc.",proposed sale $795K,795446,,https://www.sec.gov/Archives/edgar/data/1708269/000162828026073488/0001628280-26-073488-index.htm,LOW
