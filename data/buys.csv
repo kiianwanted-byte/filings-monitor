@@ -2329,3 +2329,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-11-12T23:21:36+00:00,2026-11-11,BLMN,"Bloomin' Brands, Inc.",Spanos Mike,"Director, CEO",50000,10.04,501999,20.6,0001719998-26-000016
 2026-11-12T23:31:33+00:00,2026-11-10,BKD,Brookdale Senior Living Inc.,WINKLE C CHRISTIAN,Director,40000,8.95,358068,NEW,0001332349-26-000074
 2026-11-12T23:36:38+00:00,2026-11-11,EQPT,EquipmentShare.com Inc,Schlacks Jabbok,"Director, Founder & CEO",16212,15.42,249989,13.0,0000950103-26-017397
+2026-11-12T23:56:35+00:00,2026-11-10,STKS,"ONE Group Hospitality, Inc.",Segal Jonathan,Director,37001,1.06,39221,1.4,0001581001-26-000010
