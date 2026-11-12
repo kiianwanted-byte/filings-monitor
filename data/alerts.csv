@@ -6900,3 +6900,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-12T12:46:40+00:00,FORM_144,COST,COSTCO WHOLESALE CORP /NEW,proposed sale $976K,975557,,https://www.sec.gov/Archives/edgar/data/2031064/000195917326007945/0001959173-26-007945-index.htm,LOW
 2026-11-12T12:51:31+00:00,FORM_144,MRX,Marex Group Ltd,proposed sale $2.20M,2195425,,https://www.sec.gov/Archives/edgar/data/2114166/000211416626000002/0002114166-26-000002-index.htm,LOW
 2026-11-12T12:51:31+00:00,FORM_144,TLN,Talen Energy Corp,proposed sale $1.26M,1264175,,https://www.sec.gov/Archives/edgar/data/2102527/000195917326007946/0001959173-26-007946-index.htm,LOW
+2026-11-12T12:56:32+00:00,FORM_144,HCAT,HEALTH CATALYST INC,proposed sale $143K,143248,,https://www.sec.gov/Archives/edgar/data/1975281/000195004726010977/0001950047-26-010977-index.htm,LOW
+2026-11-12T12:56:33+00:00,FORM_144,QTWO,Q2 HOLDINGS INC,proposed sale $200K,200001,,https://www.sec.gov/Archives/edgar/data/1938943/000195004726010976/0001950047-26-010976-index.htm,LOW
+2026-11-12T12:56:34+00:00,FORM_144,ADPT,ADAPTIVE BIOTECHNOLOGIES CORPORATION,proposed sale $55K,55050,,https://www.sec.gov/Archives/edgar/data/1820885/000195004726010975/0001950047-26-010975-index.htm,LOW
+2026-11-12T12:56:35+00:00,FORM_144,GL,Globe Life Inc,proposed sale $160K,159790,,https://www.sec.gov/Archives/edgar/data/1732984/000165495426009695/0001654954-26-009695-index.htm,LOW
+2026-11-12T12:56:35+00:00,FORM_144,XNCR,Xencor Inc,proposed sale $402K,402182,,https://www.sec.gov/Archives/edgar/data/2018934/000195917326007947/0001959173-26-007947-index.htm,LOW
