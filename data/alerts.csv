@@ -6971,3 +6971,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-12T14:51:34+00:00,FORM_144,COST,COSTCO WHOLESALE CORP /NEW,proposed sale $829K,829064,,https://www.sec.gov/Archives/edgar/data/2112687/000195917326007954/0001959173-26-007954-index.htm,LOW
 2026-11-12T15:01:44+00:00,FORM_144,JNJ,JOHNSON & JOHNSON,proposed sale $3.72M,3717546,,https://www.sec.gov/Archives/edgar/data/1950802/000195917326007955/0001959173-26-007955-index.htm,LOW
 2026-11-12T15:01:44+00:00,FORM_144,SNAP,Snap Inc,proposed sale $75K,75275,,https://www.sec.gov/Archives/edgar/data/2133255/000192109426001162/0001921094-26-001162-index.htm,LOW
+2026-11-12T15:06:33+00:00,FORM_144,DGICA,DONEGAL GROUP INC,proposed sale $57K,57000,,https://www.sec.gov/Archives/edgar/data/2131696/000197337926000371/0001973379-26-000371-index.htm,LOW
