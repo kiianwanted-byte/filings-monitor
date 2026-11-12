@@ -7100,3 +7100,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-12T21:31:52+00:00,FORM_144,DBX,"DROPBOX, INC.",proposed sale $14.91M,14913273,,https://www.sec.gov/Archives/edgar/data/1734563/000195004726011048/0001950047-26-011048-index.htm,LOW
 2026-11-12T21:31:52+00:00,FORM_144,SNAP,Snap Inc,proposed sale $521K,520770,,https://www.sec.gov/Archives/edgar/data/2156232/000192109426001175/0001921094-26-001175-index.htm,LOW
 2026-11-12T21:31:53+00:00,FORM_144,XMTR,"Xometry, Inc.",proposed sale $180K,180000,,https://www.sec.gov/Archives/edgar/data/2051034/000196922326001176/0001969223-26-001176-index.htm,LOW
+2026-11-12T21:36:46+00:00,FORM_144,W,Wayfair Inc.,proposed sale $12.05M,12048592,,https://www.sec.gov/Archives/edgar/data/1620052/000195917326007983/0001959173-26-007983-index.htm,LOW
+2026-11-12T21:36:47+00:00,FORM_144,NDAQ,"NASDAQ, INC.",proposed sale $545K,545350,,https://www.sec.gov/Archives/edgar/data/1568592/000195004726011053/0001950047-26-011053-index.htm,LOW
+2026-11-12T21:36:47+00:00,FORM_144,VG,"VENTURE GLOBAL, INC.",proposed sale $6.58M,6582400,,https://www.sec.gov/Archives/edgar/data/2050372/000195004726011052/0001950047-26-011052-index.htm,LOW
+2026-11-12T21:36:48+00:00,FORM_144,AMBQ,"AMBIQ MICRO, INC.",proposed sale $2.49M,2489350,,https://www.sec.gov/Archives/edgar/data/2078454/000195004726011051/0001950047-26-011051-index.htm,LOW
+2026-11-12T21:36:49+00:00,FORM_144,AMPL,"Amplitude, Inc.",proposed sale $192,192,,https://www.sec.gov/Archives/edgar/data/1882913/000195917326007982/0001959173-26-007982-index.htm,LOW
