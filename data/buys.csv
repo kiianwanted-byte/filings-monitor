@@ -2317,3 +2317,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-11-12T22:41:53+00:00,2026-11-09,OFIX,Orthofix Medical Inc.,"Juniper Investment Company, LLC",10% owner,689803,7.40,5106708,18.3,0001794034-26-000008
 2026-11-12T22:46:37+00:00,2026-11-10,MXF,MEXICO FUND INC,"Saba Capital Management, L.P.",10% owner,35460,21.30,755308,1.4,0001510281-26-000432
 2026-11-12T22:46:40+00:00,2026-11-11,KGS,"Kodiak Gas Services, Inc.",Montana Margaret C,Director,1000,44.26,44260,3.5,0001193125-26-458807
+2026-11-12T22:56:43+00:00,2026-11-11,LRMR,"Larimar Therapeutics, Inc.",Shankar Gopi,Chief Development Officer,5000,2.71,13549,6.5,0001193125-26-458830
