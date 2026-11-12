@@ -6960,3 +6960,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-12T14:11:44+00:00,FORM_144,LGND,LIGAND PHARMACEUTICALS INC,proposed sale $159K,158659,,https://www.sec.gov/Archives/edgar/data/1223000/000196922326001164/0001969223-26-001164-index.htm,LOW
 2026-11-12T14:11:44+00:00,FORM_144,MOG-A,Moog Inc,proposed sale $1.04M,1037000,,https://www.sec.gov/Archives/edgar/data/1349688/000162828026073174/0001628280-26-073174-index.htm,LOW
 2026-11-12T14:21:37+00:00,FORM_144,PCVX,"Vaxcyte, Inc.",proposed sale $1.15M,1153101,,https://www.sec.gov/Archives/edgar/data/1886794/000196922326001165/0001969223-26-001165-index.htm,LOW
+2026-11-12T14:26:39+00:00,FORM_144,AUGO,Aura Minerals Inc.,proposed sale $4K,3562,,https://www.sec.gov/Archives/edgar/data/2137243/000213724326000001/0002137243-26-000001-index.htm,LOW
+2026-11-12T14:26:45+00:00,FORM_144,PLUS,EPLUS INC,proposed sale $273K,273072,,https://www.sec.gov/Archives/edgar/data/1736723/000196530126000178/0001965301-26-000178-index.htm,LOW
+2026-11-12T14:26:45+00:00,FORM_144,TDY,TELEDYNE TECHNOLOGIES INC,proposed sale $2.93M,2925677,,https://www.sec.gov/Archives/edgar/data/1641318/000197337926000370/0001973379-26-000370-index.htm,LOW
