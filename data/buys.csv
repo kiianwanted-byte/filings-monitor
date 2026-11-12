@@ -2244,3 +2244,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-11-12T11:51:32+00:00,2026-11-10,MP,MP Materials Corp. / DE,Rosenthal Michael Stuart,Chief Operating Officer,32000,36.72,1175090,2.4,0001832050-26-000010
 2026-11-12T12:06:31+00:00,2026-11-11,BW,"Babcock & Wilcox Enterprises, Inc.","BRC Group Holdings, Inc.",10% owner,130000,4.98,647592,NEW,0001213900-26-118354
 2026-11-12T12:11:31+00:00,2026-11-10,FIP,FTAI Infrastructure Inc.,Nicholson Kenneth J.,CEO and President,400000,3.83,1530000,18.4,0001899883-26-000044
+2026-11-12T12:46:38+00:00,2026-11-11,OESX,"ORION ENERGY SYSTEMS, INC.",Washlow Sally A.,"Director, Chief Executive Officer",812,12.20,9906,1.3,0000897069-26-001917

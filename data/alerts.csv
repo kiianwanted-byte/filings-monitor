@@ -6896,3 +6896,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-12T12:36:31+00:00,FORM_144,RGS,REGIS CORP,proposed sale $10K,9642,,https://www.sec.gov/Archives/edgar/data/1211005/000195917326007943/0001959173-26-007943-index.htm,LOW
 2026-11-12T12:36:32+00:00,FORM_144,PBYI,"PUMA BIOTECHNOLOGY, INC.",proposed sale $121K,121456,,https://www.sec.gov/Archives/edgar/data/1401667/000195917326007942/0001959173-26-007942-index.htm,LOW
 2026-11-12T12:41:33+00:00,FORM_144,KGS,"Kodiak Gas Services, Inc.",proposed sale $44K,44200,,https://www.sec.gov/Archives/edgar/data/1971854/000195917326007944/0001959173-26-007944-index.htm,LOW
+2026-11-12T12:46:38+00:00,INSIDER_CLUSTER,OESX,"ORION ENERGY SYSTEMS, INC.",Washlow Sally A. $10K,9906,1,https://www.sec.gov/Archives/edgar/data/1498395/000089706926001917/0000897069-26-001917-index.htm,HIGH
+2026-11-12T12:46:40+00:00,FORM_144,COST,COSTCO WHOLESALE CORP /NEW,proposed sale $976K,975557,,https://www.sec.gov/Archives/edgar/data/2031064/000195917326007945/0001959173-26-007945-index.htm,LOW
