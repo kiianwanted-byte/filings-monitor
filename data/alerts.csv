@@ -7057,3 +7057,19 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-12T21:16:57+00:00,FORM_144,UBER,"UBER TECHNOLOGIES, INC.",proposed sale $2.48M,2482447,,https://www.sec.gov/Archives/edgar/data/1626201/000195004726011022/0001950047-26-011022-index.htm,LOW
 2026-11-12T21:16:57+00:00,FORM_144,PEBO,PEOPLES BANCORP INC,proposed sale $14K,14005,,https://www.sec.gov/Archives/edgar/data/1801924/000195917326007978/0001959173-26-007978-index.htm,LOW
 2026-11-12T21:16:58+00:00,FORM_144,ZG,"ZILLOW GROUP, INC.",proposed sale $176K,175533,,https://www.sec.gov/Archives/edgar/data/1709817/000192109426001173/0001921094-26-001173-index.htm,LOW
+2026-11-12T21:21:54+00:00,FORM_144,MNDY,MONDAY.COM LTD,proposed sale $1.16M,1164600,,https://www.sec.gov/Archives/edgar/data/1969583/000195004726011036/0001950047-26-011036-index.htm,LOW
+2026-11-12T21:21:55+00:00,FORM_144,CDNA,CAREDX INC,proposed sale $1.12M,1120146,,https://www.sec.gov/Archives/edgar/data/1366412/000195004726011035/0001950047-26-011035-index.htm,LOW
+2026-11-12T21:21:55+00:00,FORM_144,ORKA,"Oruka Therapeutics, Inc.",proposed sale $3.16M,3157013,,https://www.sec.gov/Archives/edgar/data/2033974/000195004726011034/0001950047-26-011034-index.htm,LOW
+2026-11-12T21:21:56+00:00,FORM_144,EXLS,"ExlService Holdings, Inc.",proposed sale $4.32M,4324082,,https://www.sec.gov/Archives/edgar/data/1373630/000162828026073421/0001628280-26-073421-index.htm,LOW
+2026-11-12T21:21:57+00:00,FORM_144,XPO,XPO INC,proposed sale $331K,330750,,https://www.sec.gov/Archives/edgar/data/1916244/000195004726011033/0001950047-26-011033-index.htm,LOW
+2026-11-12T21:21:58+00:00,FORM_144,AQST,"Aquestive Therapeutics, Inc.",proposed sale $26K,25765,,https://www.sec.gov/Archives/edgar/data/2094283/000195004726011032/0001950047-26-011032-index.htm,LOW
+2026-11-12T21:21:58+00:00,FORM_144,MTSI,"MACOM Technology Solutions Holdings, Inc.",proposed sale $138K,137922,,https://www.sec.gov/Archives/edgar/data/1792846/000195004726011031/0001950047-26-011031-index.htm,LOW
+2026-11-12T21:21:59+00:00,FORM_144,WAB,WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORPORATION,proposed sale $132K,131790,,https://www.sec.gov/Archives/edgar/data/2016958/000195004726011030/0001950047-26-011030-index.htm,LOW
+2026-11-12T21:22:02+00:00,FORM_144,LFST,"LifeStance Health Group, Inc.",proposed sale $2.28M,2284844,,https://www.sec.gov/Archives/edgar/data/1845257/000195917326007979/0001959173-26-007979-index.htm,LOW
+2026-11-12T21:22:02+00:00,FORM_144,ORKA,"Oruka Therapeutics, Inc.",proposed sale $1.93M,1929060,,https://www.sec.gov/Archives/edgar/data/1266163/000195004726011029/0001950047-26-011029-index.htm,LOW
+2026-11-12T21:22:03+00:00,FORM_144,TASK,"TASKUS, INC.",proposed sale $120K,120130,,https://www.sec.gov/Archives/edgar/data/1862094/000195004726011028/0001950047-26-011028-index.htm,LOW
+2026-11-12T21:22:04+00:00,FORM_144,VIAV,VIAVI SOLUTIONS INC.,proposed sale $443K,443416,,https://www.sec.gov/Archives/edgar/data/1619901/000195004726011027/0001950047-26-011027-index.htm,LOW
+2026-11-12T21:22:04+00:00,FORM_144,MRK,"MERCK & CO., INC.",proposed sale $8.61M,8611874,,https://www.sec.gov/Archives/edgar/data/1421339/000195004726011026/0001950047-26-011026-index.htm,LOW
+2026-11-12T21:22:05+00:00,FORM_144,VRSK,"Verisk Analytics, Inc.",proposed sale $279K,278981,,https://www.sec.gov/Archives/edgar/data/1535419/000196430626000514/0001964306-26-000514-index.htm,LOW
+2026-11-12T21:22:06+00:00,FORM_144,LIVN,LivaNova PLC,proposed sale $227K,227275,,https://www.sec.gov/Archives/edgar/data/1830830/000196430626000513/0001964306-26-000513-index.htm,LOW
+2026-11-12T21:22:06+00:00,FORM_144,FICO,Fair Isaac Corporation,proposed sale $7.97M,7968517,,https://www.sec.gov/Archives/edgar/data/1074500/000196858226001136/0001968582-26-001136-index.htm,LOW
