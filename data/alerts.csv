@@ -6952,3 +6952,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-12T13:56:33+00:00,FORM_144,CRCT,"Cricut, Inc.",proposed sale $1.86M,1864800,,https://www.sec.gov/Archives/edgar/data/1851564/000195824426000714/0001958244-26-000714-index.htm,LOW
 2026-11-12T13:56:34+00:00,FORM_144,JHX,James Hardie Industries plc,proposed sale $711K,710750,,https://www.sec.gov/Archives/edgar/data/1594032/000195824426000713/0001958244-26-000713-index.htm,LOW
 2026-11-12T13:56:34+00:00,FORM_144,COMP,"Compass, Inc.",proposed sale $3.33M,3329987,,https://www.sec.gov/Archives/edgar/data/1847178/000196858226001132/0001968582-26-001132-index.htm,LOW
+2026-11-12T14:01:32+00:00,FORM_144,INDB,Independent Bank Corp.,proposed sale $85K,85280,,https://www.sec.gov/Archives/edgar/data/1319127/000131912726000005/0001319127-26-000005-index.htm,LOW
+2026-11-12T14:01:32+00:00,FORM_144,ADPT,Adaptive Biotechnologies Corporation,proposed sale $2.19M,2192236,,https://www.sec.gov/Archives/edgar/data/1780649/000195824426000716/0001958244-26-000716-index.htm,LOW
+2026-11-12T14:01:33+00:00,FORM_144,SPE,"SPECIAL OPPORTUNITIES FUND, INC.",proposed sale $260K,260264,,https://www.sec.gov/Archives/edgar/data/1542153/000195917326007951/0001959173-26-007951-index.htm,LOW
+2026-11-12T14:01:33+00:00,FORM_144,ARXS,"ARXIS, INC.",proposed sale $816K,815550,,https://www.sec.gov/Archives/edgar/data/2126572/000195824426000715/0001958244-26-000715-index.htm,LOW
+2026-11-12T14:01:37+00:00,FORM_144,COMP,"Compass, Inc.",proposed sale $756K,756443,,https://www.sec.gov/Archives/edgar/data/2117389/000196858226001133/0001968582-26-001133-index.htm,LOW
