@@ -7126,3 +7126,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-12T22:26:37+00:00,FORM_144,XMTR,Xometry,proposed sale $310K,309715,,https://www.sec.gov/Archives/edgar/data/1847014/000196922326001179/0001969223-26-001179-index.htm,LOW
 2026-11-12T22:31:57+00:00,FORM_144,AUGO,Aura Minerals Inc.,proposed sale $906K,905746,,https://www.sec.gov/Archives/edgar/data/2135135/000213513526000015/0002135135-26-000015-index.htm,LOW
 2026-11-12T22:31:57+00:00,FORM_144,MSI,"Motorola Solutions, Inc.",proposed sale $21.48M,21481200,,https://www.sec.gov/Archives/edgar/data/1201232/000195824426000717/0001958244-26-000717-index.htm,LOW
+2026-11-12T23:01:32+00:00,INSIDER_CLUSTER,LRMR,"Larimar Therapeutics, Inc.",Truitt Joseph $10K,9791,1,https://www.sec.gov/Archives/edgar/data/1452429/000119312526458847/0001193125-26-458847-index.htm,HIGH
+2026-11-12T23:01:43+00:00,FORM_144,GSAT,"Globalstar, Inc.",proposed sale $3.45M,3450454,,https://www.sec.gov/Archives/edgar/data/1764225/000176422526000005/0001764225-26-000005-index.htm,LOW
+2026-11-12T23:01:43+00:00,FORM_144,SEPN,"Septerna, Inc.",proposed sale $14.89M,14890681,,https://www.sec.gov/Archives/edgar/data/1984086/000162828026073519/0001628280-26-073519-index.htm,LOW
+2026-11-12T23:01:44+00:00,FORM_144,VTVT,vTv Therapeutics Inc.,proposed sale $1.32M,1315831,,https://www.sec.gov/Archives/edgar/data/1699737/000162828026073518/0001628280-26-073518-index.htm,LOW
