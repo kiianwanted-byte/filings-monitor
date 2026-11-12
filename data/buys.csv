@@ -2301,3 +2301,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-11-12T21:51:38+00:00,2026-11-12,BOOT,"Boot Barn Holdings, Inc.",Watkins James M,CFO & SECRETARY,2000,135.37,270740,7.7,0001562356-26-000004
 2026-11-12T21:56:39+00:00,2026-11-10,FMC,FMC CORP,Tack Luc Jules R,"Director, 10% owner",2514,5.60,14078,0.0,0001140361-26-043461
 2026-11-12T21:56:41+00:00,2026-11-11,CSQR,"Csquare, Inc.",Kelley Philip M,Director,10000,17.24,172399,100.0,0000950142-26-003013
+2026-11-12T22:01:36+00:00,2026-11-11,AIRS,"Airsculpt Technologies, Inc.",Jashnani Yogesh,"Director, Chief Executive Officer",31000,0.78,24046,4.5,0001870940-26-000060
