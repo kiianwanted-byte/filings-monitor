@@ -6981,3 +6981,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-12T15:46:35+00:00,FORM_144,LFVN,Lifevantage Corp,proposed sale $47K,47200,,https://www.sec.gov/Archives/edgar/data/1309611/000194984626000651/0001949846-26-000651-index.htm,LOW
 2026-11-12T15:51:39+00:00,FORM_144,EXLS,"ExlService Holdings, Inc.",proposed sale $465K,465423,,https://www.sec.gov/Archives/edgar/data/1373633/000195917326007962/0001959173-26-007962-index.htm,LOW
 2026-11-12T15:51:39+00:00,FORM_144,JXN,Jackson Financial Inc.,proposed sale $6.89M,6885022,,https://www.sec.gov/Archives/edgar/data/1856349/000195917326007961/0001959173-26-007961-index.htm,LOW
+2026-11-12T15:56:32+00:00,INSIDER_CLUSTER,DOX,AMDOCS LTD,MacDonald John Anthony $42K,41629,2,https://www.sec.gov/Archives/edgar/data/1969942/000119312526457435/0001193125-26-457435-index.htm,HIGH
