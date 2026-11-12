@@ -7002,3 +7002,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-12T17:56:34+00:00,FORM_144,TXN,TEXAS INSTRUMENTS INCORPORATED,proposed sale $2.71M,2705436,,https://www.sec.gov/Archives/edgar/data/1646850/000196922326001168/0001969223-26-001168-index.htm,LOW
 2026-11-12T17:56:34+00:00,FORM_144,FWONA,Liberty Media Corporation,proposed sale $28.53M,28530424,,https://www.sec.gov/Archives/edgar/data/1560385/000196922326001169/0001969223-26-001169-index.htm,MEDIUM
 2026-11-12T17:56:35+00:00,FORM_144,WTBA,WEST BANCORPORATION INC,proposed sale $200K,200268,,https://www.sec.gov/Archives/edgar/data/1247350/000194984626000653/0001949846-26-000653-index.htm,LOW
+2026-11-12T18:06:34+00:00,FORM_144,COST,COSTCO WHOLESALE CORP /NEW,proposed sale $2.74M,2737925,,https://www.sec.gov/Archives/edgar/data/1729360/000195917326007966/0001959173-26-007966-index.htm,LOW
