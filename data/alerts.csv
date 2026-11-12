@@ -6987,3 +6987,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-12T16:16:37+00:00,FORM_144,PCG,PG&E Corp,proposed sale $115K,114686,,https://www.sec.gov/Archives/edgar/data/1723339/000192109426001164/0001921094-26-001164-index.htm,LOW
 2026-11-12T16:16:38+00:00,FORM_144,PEBK,PEOPLES BANCORP OF NORTH CAROLINA INC,proposed sale $42K,42201,,https://www.sec.gov/Archives/edgar/data/1244172/000124417226000012/0001244172-26-000012-index.htm,LOW
 2026-11-12T16:16:38+00:00,FORM_144,ATMU,Atmus Filtration Technologies Inc.,proposed sale $1.80M,1800693,,https://www.sec.gov/Archives/edgar/data/1989065/000195917326007963/0001959173-26-007963-index.htm,LOW
+2026-11-12T16:21:40+00:00,FORM_144,BLCO,Bausch & Lomb Corp,proposed sale $270K,269746,,https://www.sec.gov/Archives/edgar/data/1860742/000195917326007964/0001959173-26-007964-index.htm,LOW
