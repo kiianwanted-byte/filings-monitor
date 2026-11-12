@@ -6889,3 +6889,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-12T12:06:33+00:00,FORM_144,PGNY,"Progyny, Inc.",proposed sale $28K,28181,,https://www.sec.gov/Archives/edgar/data/2065409/000195917326007935/0001959173-26-007935-index.htm,LOW
 2026-11-12T12:11:31+00:00,INSIDER_CLUSTER,FIP,FTAI Infrastructure Inc.,Nicholson Kenneth J. $1.53M,1530000,2,https://www.sec.gov/Archives/edgar/data/1899883/000189988326000044/0001899883-26-000044-index.htm,HIGH
 2026-11-12T12:11:33+00:00,FORM_144,ZD,"ZIFF DAVIS, INC.",proposed sale $134K,134275,,https://www.sec.gov/Archives/edgar/data/1491021/000195917326007937/0001959173-26-007937-index.htm,LOW
+2026-11-12T12:21:29+00:00,FORM_144,LFST,"LifeStance Health Group, Inc.",proposed sale $215K,215252,,https://www.sec.gov/Archives/edgar/data/2036749/000195917326007939/0001959173-26-007939-index.htm,LOW
+2026-11-12T12:21:30+00:00,FORM_144,JXN,Jackson Financial Inc.,proposed sale $3.75M,3753387,,https://www.sec.gov/Archives/edgar/data/1856349/000195917326007938/0001959173-26-007938-index.htm,LOW
