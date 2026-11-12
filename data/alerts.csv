@@ -6948,3 +6948,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-12T13:51:42+00:00,FORM_144,ROIV,ROIVANT SCIENCES LTD.,proposed sale $7.32M,7323568,,https://www.sec.gov/Archives/edgar/data/1885841/000195004726011011/0001950047-26-011011-index.htm,LOW
 2026-11-12T13:51:42+00:00,FORM_144,CVX,CHEVRON CORPORATION,proposed sale $1.27M,1272822,,https://www.sec.gov/Archives/edgar/data/2071610/000195004726011010/0001950047-26-011010-index.htm,LOW
 2026-11-12T13:51:56+00:00,FORM_144,AHCO,ADAPTHEALTH CORP.,proposed sale $155K,154712,,https://www.sec.gov/Archives/edgar/data/1820867/000195004726011009/0001950047-26-011009-index.htm,LOW
+2026-11-12T13:56:29+00:00,INSIDER_CLUSTER,DKNG,DraftKings Inc.,Wendt Gregory Westin $99K,98800,1,https://www.sec.gov/Archives/edgar/data/2088880/000208888026000008/0002088880-26-000008-index.htm,HIGH
+2026-11-12T13:56:33+00:00,FORM_144,CRCT,"Cricut, Inc.",proposed sale $1.86M,1864800,,https://www.sec.gov/Archives/edgar/data/1851564/000195824426000714/0001958244-26-000714-index.htm,LOW
+2026-11-12T13:56:34+00:00,FORM_144,JHX,James Hardie Industries plc,proposed sale $711K,710750,,https://www.sec.gov/Archives/edgar/data/1594032/000195824426000713/0001958244-26-000713-index.htm,LOW
+2026-11-12T13:56:34+00:00,FORM_144,COMP,"Compass, Inc.",proposed sale $3.33M,3329987,,https://www.sec.gov/Archives/edgar/data/1847178/000196858226001132/0001968582-26-001132-index.htm,LOW
