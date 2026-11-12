@@ -7112,3 +7112,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-12T21:56:43+00:00,FORM_144,BLKB,Blackbaud Inc,proposed sale $42K,42271,,https://www.sec.gov/Archives/edgar/data/1524788/000162828026073470/0001628280-26-073470-index.htm,LOW
 2026-11-12T21:56:44+00:00,FORM_144,SBH,"Sally Beauty Holdings, Inc.",proposed sale $291K,291400,,https://www.sec.gov/Archives/edgar/data/1718810/000196922326001177/0001969223-26-001177-index.htm,LOW
 2026-11-12T22:01:38+00:00,FORM_144,GSAT,Globalstar Inc.,proposed sale $7.76M,7763083,,https://www.sec.gov/Archives/edgar/data/1764225/000196922326001178/0001969223-26-001178-index.htm,LOW
+2026-11-12T22:06:37+00:00,INSIDER_CLUSTER,NYSE:FLG,"FLAGSTAR BANK, NATIONAL ASSOCIATION",Otting Joseph M $496K,496428,2,https://www.sec.gov/Archives/edgar/data/1323101/000132310126000007/0001323101-26-000007-index.htm,HIGH
+2026-11-12T22:06:40+00:00,FORM_144,CTEV,Claritev Corp,proposed sale $603K,602673,,https://www.sec.gov/Archives/edgar/data/1793229/000121390026119038/0001213900-26-119038-index.htm,LOW
