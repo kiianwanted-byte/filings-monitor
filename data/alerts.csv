@@ -7131,3 +7131,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-12T23:01:43+00:00,FORM_144,SEPN,"Septerna, Inc.",proposed sale $14.89M,14890681,,https://www.sec.gov/Archives/edgar/data/1984086/000162828026073519/0001628280-26-073519-index.htm,LOW
 2026-11-12T23:01:44+00:00,FORM_144,VTVT,vTv Therapeutics Inc.,proposed sale $1.32M,1315831,,https://www.sec.gov/Archives/edgar/data/1699737/000162828026073518/0001628280-26-073518-index.htm,LOW
 2026-11-12T23:06:30+00:00,INSIDER_CLUSTER,LRMR,"Larimar Therapeutics, Inc.",BEN-MAIMON CAROLE $50K,49953,1,https://www.sec.gov/Archives/edgar/data/1529611/000119312526458853/0001193125-26-458853-index.htm,HIGH
+2026-11-12T23:16:34+00:00,FORM_144,TPC,Tutor Perini Corporation,proposed sale $15.20M,15195000,,https://www.sec.gov/Archives/edgar/data/906134/000162828026073526/0001628280-26-073526-index.htm,LOW
+2026-11-12T23:16:35+00:00,FORM_144,CPRI,Capri Holdings Limited,proposed sale $1.30M,1298715,,https://www.sec.gov/Archives/edgar/data/1861036/000195824426000718/0001958244-26-000718-index.htm,LOW
