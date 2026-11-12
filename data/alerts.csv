@@ -6943,3 +6943,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-12T13:41:32+00:00,FORM_144,GDYN,"GRID DYNAMICS HOLDINGS, INC.",proposed sale $138K,138400,,https://www.sec.gov/Archives/edgar/data/1805694/000195004726011008/0001950047-26-011008-index.htm,LOW
 2026-11-12T13:41:33+00:00,FORM_144,SBGI,"Sinclair, Inc.",proposed sale $150K,150173,,https://www.sec.gov/Archives/edgar/data/1971213/000195004726011007/0001950047-26-011007-index.htm,LOW
 2026-11-12T13:41:33+00:00,FORM_144,BETA,"BETA Technologies, Inc.",proposed sale $283K,283375,,https://www.sec.gov/Archives/edgar/data/2090083/000195917326007950/0001959173-26-007950-index.htm,LOW
+2026-11-12T13:46:35+00:00,FORM_144,MANE,"Veradermics, Inc",proposed sale $37.59M,37595000,,https://www.sec.gov/Archives/edgar/data/1935964/000119312526457122/0001193125-26-457122-index.htm,MEDIUM
