@@ -7138,3 +7138,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-12T23:31:37+00:00,FORM_144,FRMI,Fermi Inc.,proposed sale $20.60M,20600000,,https://www.sec.gov/Archives/edgar/data/2071778/000195824426000719/0001958244-26-000719-index.htm,LOW
 2026-11-12T23:36:38+00:00,INSIDER_CLUSTER,EQPT,EquipmentShare.com Inc,Schlacks Jabbok $250K,249989,1,https://www.sec.gov/Archives/edgar/data/2091677/000095010326017397/0000950103-26-017397-index.htm,HIGH
 2026-11-12T23:36:41+00:00,FORM_144,CROX,"Crocs, Inc.",proposed sale $2.30M,2301855,,https://www.sec.gov/Archives/edgar/data/1334036/000196922326001182/0001969223-26-001182-index.htm,LOW
+2026-11-12T23:46:34+00:00,FORM_144,LINE,"Lineage, Inc.",proposed sale $374K,373930,,https://www.sec.gov/Archives/edgar/data/2018599/000196858226001140/0001968582-26-001140-index.htm,LOW
