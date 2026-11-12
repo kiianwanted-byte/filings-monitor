@@ -6893,3 +6893,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-12T12:21:30+00:00,FORM_144,JXN,Jackson Financial Inc.,proposed sale $3.75M,3753387,,https://www.sec.gov/Archives/edgar/data/1856349/000195917326007938/0001959173-26-007938-index.htm,LOW
 2026-11-12T12:26:32+00:00,FORM_144,VCEL,Vericel Corp,proposed sale $478,478,,https://www.sec.gov/Archives/edgar/data/1841148/000195917326007940/0001959173-26-007940-index.htm,LOW
 2026-11-12T12:31:32+00:00,FORM_144,SPT,"Sprout Social, Inc.",proposed sale $452K,452426,,https://www.sec.gov/Archives/edgar/data/1791816/000195917326007941/0001959173-26-007941-index.htm,LOW
+2026-11-12T12:36:31+00:00,FORM_144,RGS,REGIS CORP,proposed sale $10K,9642,,https://www.sec.gov/Archives/edgar/data/1211005/000195917326007943/0001959173-26-007943-index.htm,LOW
+2026-11-12T12:36:32+00:00,FORM_144,PBYI,"PUMA BIOTECHNOLOGY, INC.",proposed sale $121K,121456,,https://www.sec.gov/Archives/edgar/data/1401667/000195917326007942/0001959173-26-007942-index.htm,LOW
