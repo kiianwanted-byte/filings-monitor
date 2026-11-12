@@ -6959,3 +6959,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-12T14:01:37+00:00,FORM_144,COMP,"Compass, Inc.",proposed sale $756K,756443,,https://www.sec.gov/Archives/edgar/data/2117389/000196858226001133/0001968582-26-001133-index.htm,LOW
 2026-11-12T14:11:44+00:00,FORM_144,LGND,LIGAND PHARMACEUTICALS INC,proposed sale $159K,158659,,https://www.sec.gov/Archives/edgar/data/1223000/000196922326001164/0001969223-26-001164-index.htm,LOW
 2026-11-12T14:11:44+00:00,FORM_144,MOG-A,Moog Inc,proposed sale $1.04M,1037000,,https://www.sec.gov/Archives/edgar/data/1349688/000162828026073174/0001628280-26-073174-index.htm,LOW
+2026-11-12T14:21:37+00:00,FORM_144,PCVX,"Vaxcyte, Inc.",proposed sale $1.15M,1153101,,https://www.sec.gov/Archives/edgar/data/1886794/000196922326001165/0001969223-26-001165-index.htm,LOW
