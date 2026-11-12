@@ -6973,3 +6973,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-12T15:01:44+00:00,FORM_144,SNAP,Snap Inc,proposed sale $75K,75275,,https://www.sec.gov/Archives/edgar/data/2133255/000192109426001162/0001921094-26-001162-index.htm,LOW
 2026-11-12T15:06:33+00:00,FORM_144,DGICA,DONEGAL GROUP INC,proposed sale $57K,57000,,https://www.sec.gov/Archives/edgar/data/2131696/000197337926000371/0001973379-26-000371-index.htm,LOW
 2026-11-12T15:16:39+00:00,FORM_144,THG,"HANOVER INSURANCE GROUP, INC.",proposed sale $3.60M,3596642,,https://www.sec.gov/Archives/edgar/data/1428157/000195917326007956/0001959173-26-007956-index.htm,LOW
+2026-11-12T15:21:50+00:00,FORM_144,STE,STERIS plc,proposed sale $1.50M,1503046,,https://www.sec.gov/Archives/edgar/data/1757898/000192109426001163/0001921094-26-001163-index.htm,LOW
+2026-11-12T15:21:50+00:00,FORM_144,ECHO,EchoStar CORP,proposed sale $1.12M,1118460,,https://www.sec.gov/Archives/edgar/data/1602724/000195917326007957/0001959173-26-007957-index.htm,LOW

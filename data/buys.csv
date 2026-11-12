@@ -2260,3 +2260,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-11-12T14:26:37+00:00,2026-11-11,CLIK,Click Holdings Ltd.,Chan Chun Sing,"Director, Chief Executive Officer, 10% owner",40000,0.71,28568,0.9,0001493152-26-051250
 2026-11-12T14:31:33+00:00,2026-11-10,BDSX,BIODESIX INC,SCHULER JACK W,10% owner,100000,10.02,1001990,18.0,0000905148-26-004745
 2026-11-12T14:56:35+00:00,2026-11-10,PHIO,Phio Pharmaceuticals Corp.,Deming David H,Director,12000,0.84,10066,31.7,0001683168-26-008544
+2026-11-12T15:21:37+00:00,2026-11-09,CHCI,"Comstock Holding Companies, Inc.",Hirsh David Z.,Director,1400,17.08,23911,233.3,0001848554-26-000013
