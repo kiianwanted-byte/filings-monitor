@@ -7120,3 +7120,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-12T22:16:33+00:00,INSIDER_BUY,NFRX,2023 ETF Series Trust,Harrison Street Real Assets Fund LLC $44.50M,44499988,2,https://www.sec.gov/Archives/edgar/data/1969674/000168789826000012/0001687898-26-000012-index.htm,HIGH
 2026-11-12T22:16:34+00:00,INSIDER_CLUSTER,URG,UR-ENERGY INC,Walle Jade $110K,109999,1,https://www.sec.gov/Archives/edgar/data/2089471/000165495426009739/0001654954-26-009739-index.htm,HIGH
 2026-11-12T22:16:38+00:00,FORM_144,ELF,"E.L.F. BEAUTY, INC.",proposed sale $105K,105264,,https://www.sec.gov/Archives/edgar/data/1847339/000195004726011057/0001950047-26-011057-index.htm,LOW
+2026-11-12T22:21:35+00:00,INSIDER_CLUSTER,BW,"Babcock & Wilcox Enterprises, Inc.",Howe Alan B $5K,5140,1,https://www.sec.gov/Archives/edgar/data/1630805/000163080526000085/0001630805-26-000085-index.htm,HIGH
