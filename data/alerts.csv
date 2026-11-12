@@ -6873,3 +6873,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-11T02:01:47+00:00,STAKE_13D,,"JANA Partners Management, LP", 6.4%,,,https://www.sec.gov/Archives/edgar/data/1998597/000090266426004458/0000902664-26-004458-index.htm,HIGH
 2026-11-11T02:51:33+00:00,FORM_144,CTEV,Claritev Corp,proposed sale $131K,130625,,https://www.sec.gov/Archives/edgar/data/1793229/000121390026118236/0001213900-26-118236-index.htm,LOW
 2026-11-12T11:06:32+00:00,INSIDER_CLUSTER,COHR,COHERENT CORP.,Digirolomo Enrico $223K,222885,2,https://www.sec.gov/Archives/edgar/data/1741413/000089914026001275/0000899140-26-001275-index.htm,HIGH
+2026-11-12T11:11:43+00:00,INSIDER_CLUSTER,GSM,Ferroglobe PLC,"Girardeau David Marie, Gabriel $41K",40610,6,https://www.sec.gov/Archives/edgar/data/2116287/000110465926125586/0001104659-26-125586-index.htm,HIGH
+2026-11-12T11:11:48+00:00,FORM_144,TEVA,TEVA PHARMACEUTICAL INDUSTRIES LTD,proposed sale $856K,856154,,https://www.sec.gov/Archives/edgar/data/1726096/000197337926000369/0001973379-26-000369-index.htm,LOW
