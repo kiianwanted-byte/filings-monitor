@@ -7182,3 +7182,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-13T19:16:35+00:00,FORM_144,FLOC,Flowco Holdings Inc,proposed sale $525K,525000,,https://www.sec.gov/Archives/edgar/data/2052005/000162828026073713/0001628280-26-073713-index.htm,LOW
 2026-11-13T19:21:49+00:00,INSIDER_CLUSTER,CCNE,CNB FINANCIAL CORP/PA,Peduzzi Michael D $18K,17817,0,https://www.sec.gov/Archives/edgar/data/1409722/000140972226000015/0001409722-26-000015-index.htm,HIGH
 2026-11-13T19:21:51+00:00,FORM_144,PANL,Pangaea Logistics Solutions Ltd.,proposed sale $471K,470851,,https://www.sec.gov/Archives/edgar/data/1606909/000106509426000001/0001065094-26-000001-index.htm,LOW
+2026-11-13T19:36:31+00:00,FORM_144,MPC,Marathon Petroleum Corp,proposed sale $938K,938300,,https://www.sec.gov/Archives/edgar/data/2069536/000195917326008003/0001959173-26-008003-index.htm,LOW
