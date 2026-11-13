@@ -7288,3 +7288,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-13T22:46:34+00:00,INSIDER_CLUSTER,CTEV,Claritev Corp,Dalton Travis $150K,149927,2,https://www.sec.gov/Archives/edgar/data/1841409/000162828026073944/0001628280-26-073944-index.htm,HIGH
 2026-11-13T22:46:37+00:00,FORM_144,ROIV,Roivant Sciences Ltd.,proposed sale $7.32M,7323568,,https://www.sec.gov/Archives/edgar/data/1885841/000195004726011100/0001950047-26-011100-index.htm,LOW
 2026-11-13T22:46:37+00:00,FORM_144,TPC,Tutor Perini Corporation,proposed sale $72K,72337,,https://www.sec.gov/Archives/edgar/data/906134/000162828026073945/0001628280-26-073945-index.htm,LOW
+2026-11-13T22:51:37+00:00,FORM_144,KNTK,Kinetik Holdings Inc.,proposed sale $532K,532281,,https://www.sec.gov/Archives/edgar/data/1904934/000090514826004802/0000905148-26-004802-index.htm,LOW
+2026-11-13T22:51:38+00:00,FORM_144,KNTK,Kinetik Holdings Inc.,proposed sale $99K,98554,,https://www.sec.gov/Archives/edgar/data/1904934/000090514826004800/0000905148-26-004800-index.htm,LOW
+2026-11-13T22:51:38+00:00,FORM_144,ROIV,ROIVANT SCIENCES LTD.,proposed sale $5.15M,5150575,,https://www.sec.gov/Archives/edgar/data/1885841/000195004726011101/0001950047-26-011101-index.htm,LOW
