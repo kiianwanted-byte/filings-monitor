@@ -7153,3 +7153,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-13T14:46:35+00:00,FORM_144,MKSI,MKS INC,proposed sale $2.20M,2202900,,https://www.sec.gov/Archives/edgar/data/1414656/000195917326007984/0001959173-26-007984-index.htm,LOW
 2026-11-13T14:51:34+00:00,FORM_144,BKR,Baker Hughes Co,proposed sale $27K,27228,,https://www.sec.gov/Archives/edgar/data/1979376/000195917326007986/0001959173-26-007986-index.htm,LOW
 2026-11-13T14:51:35+00:00,FORM_144,ODFL,"OLD DOMINION FREIGHT LINE, INC.",proposed sale $94K,94413,,https://www.sec.gov/Archives/edgar/data/1856545/000194984626000655/0001949846-26-000655-index.htm,LOW
+2026-11-13T15:01:33+00:00,FORM_144,LIF,"Life360, Inc.",proposed sale $347K,346541,,https://www.sec.gov/Archives/edgar/data/1696247/000195917326007987/0001959173-26-007987-index.htm,LOW
