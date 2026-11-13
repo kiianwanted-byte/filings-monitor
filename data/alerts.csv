@@ -7163,3 +7163,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-13T16:31:36+00:00,FORM_144,VCEL,Vericel Corp,proposed sale $109K,108779,,https://www.sec.gov/Archives/edgar/data/1916145/000195917326007994/0001959173-26-007994-index.htm,LOW
 2026-11-13T16:41:35+00:00,FORM_144,SGC,"SUPERIOR GROUP OF COMPANIES, INC.",proposed sale $650K,649883,,https://www.sec.gov/Archives/edgar/data/1204641/000120464126000001/0001204641-26-000001-index.htm,LOW
 2026-11-13T16:56:34+00:00,FORM_144,ICLR,ICON PUBLIC LIMITED COMPANY,proposed sale $2.00M,2001765,,https://www.sec.gov/Archives/edgar/data/1973437/000195004726011058/0001950047-26-011058-index.htm,LOW
+2026-11-13T17:01:34+00:00,FORM_144,TYL,TYLER TECHNOLOGIES INC,proposed sale $4.25M,4248050,,https://www.sec.gov/Archives/edgar/data/1250902/000195917326007995/0001959173-26-007995-index.htm,LOW
