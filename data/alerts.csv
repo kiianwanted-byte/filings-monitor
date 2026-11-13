@@ -7275,3 +7275,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-13T21:46:57+00:00,FORM_144,PLUS,EPLUS INC,proposed sale $484K,484238,,https://www.sec.gov/Archives/edgar/data/1444430/000196530126000186/0001965301-26-000186-index.htm,LOW
 2026-11-13T21:51:48+00:00,FORM_144,GMRS,GMR Solutions Inc.,proposed sale $1.04M,1044000,,https://www.sec.gov/Archives/edgar/data/1898718/000195917326008011/0001959173-26-008011-index.htm,LOW
 2026-11-13T21:52:00+00:00,FORM_144,KRG,KITE REALTY GROUP TRUST,proposed sale $34K,34492,,https://www.sec.gov/Archives/edgar/data/1295834/000197407826000417/0001974078-26-000417-index.htm,LOW
+2026-11-13T22:01:38+00:00,FORM_144,TARS,"Tarsus Pharmaceuticals, Inc.",proposed sale $802K,801500,,https://www.sec.gov/Archives/edgar/data/1827672/000162828026073909/0001628280-26-073909-index.htm,LOW
+2026-11-13T22:01:38+00:00,FORM_144,BETA,"BETA Technologies, Inc.",proposed sale $7.04M,7044800,,https://www.sec.gov/Archives/edgar/data/2090119/000195004726011097/0001950047-26-011097-index.htm,LOW
+2026-11-13T22:01:39+00:00,FORM_144,DIOD,DIODES INCORPORATED,proposed sale $526K,525780,,https://www.sec.gov/Archives/edgar/data/1848176/000195004726011096/0001950047-26-011096-index.htm,LOW
+2026-11-13T22:01:39+00:00,FORM_144,BETA,"BETA Technologies, Inc.",proposed sale $359K,359007,,https://www.sec.gov/Archives/edgar/data/2090083/000195917326008012/0001959173-26-008012-index.htm,LOW
