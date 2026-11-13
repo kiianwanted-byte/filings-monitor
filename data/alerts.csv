@@ -7146,3 +7146,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-13T01:47:05+00:00,INSIDER_CLUSTER,HPP,"Hudson Pacific Properties, Inc.",COLEMAN VICTOR J $182K,182000,2,https://www.sec.gov/Archives/edgar/data/1482512/000119142026000014/0001191420-26-000014-index.htm,HIGH
 2026-11-13T02:41:42+00:00,INSIDER_BUY,ASR,SOUTHEAST AIRPORT GROUP,Perez Anton Jose Antonio $498K,497649,3,https://www.sec.gov/Archives/edgar/data/2122908/000110465926126429/0001104659-26-126429-index.htm,MEDIUM
 2026-11-13T11:11:33+00:00,FORM_144,RDCM,Radcom Ltd.,proposed sale $69K,68580,,https://www.sec.gov/Archives/edgar/data/2046196/000197640826000941/0001976408-26-000941-index.htm,LOW
+2026-11-13T11:16:35+00:00,FORM_144,RSKD,RISKIFIED LTD.,proposed sale $8.46M,8459480,,https://www.sec.gov/Archives/edgar/data/1851112/000197640826000942/0001976408-26-000942-index.htm,LOW
