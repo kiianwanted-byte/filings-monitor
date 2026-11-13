@@ -7178,3 +7178,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-13T18:41:33+00:00,INSIDER_CLUSTER,OVBC,OHIO VALLEY BANC CORP,Michael Seth Isaac $3K,2999,0,https://www.sec.gov/Archives/edgar/data/2016694/000089467126000069/0000894671-26-000069-index.htm,HIGH
 2026-11-13T18:51:37+00:00,STAKE_13G,,HERBALIFE LTD.,HERBALIFE LTD. 9.8%,,,https://www.sec.gov/Archives/edgar/data/1180262/000106176826000014/0001061768-26-000014-index.htm,HIGH
 2026-11-13T19:06:54+00:00,FORM_144,SMG,SCOTTS MIRACLE-GRO CO,proposed sale $240K,239709,,https://www.sec.gov/Archives/edgar/data/1696706/000195917326008001/0001959173-26-008001-index.htm,LOW
+2026-11-13T19:16:34+00:00,FORM_144,DUK,Duke Energy CORP,proposed sale $1.96M,1955043,,https://www.sec.gov/Archives/edgar/data/2017964/000195917326008002/0001959173-26-008002-index.htm,LOW
+2026-11-13T19:16:35+00:00,FORM_144,FLOC,Flowco Holdings Inc,proposed sale $525K,525000,,https://www.sec.gov/Archives/edgar/data/2052005/000162828026073713/0001628280-26-073713-index.htm,LOW
