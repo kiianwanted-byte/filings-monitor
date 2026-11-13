@@ -3262,3 +3262,7 @@ timestamp,chamber,member,ticker,asset,action,amount_low,amount_high,trade_date,f
 2026-11-11T23:40:18+00:00,House,Gilbert Cisneros,WFC,Wells Fargo & Company Common,BUY,1001,15000,2026-10-20,2026-11-10,21,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf
 2026-11-11T23:40:18+00:00,House,Gilbert Cisneros,,Wisconsin State Health &,SELL,250001,500000,2026-10-09,2026-11-10,32,MEDIUM,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf
 2026-11-11T23:40:20+00:00,House,Julie Johnson,WBD,"Warner Bros. Discovery, Inc. - Series",SELL,1001,15000,2026-10-07,2026-11-10,34,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035806.pdf
+2026-11-13T02:52:09+00:00,House,Richard W. Allen,SHW,Sherwin-Williams Company,SELL (partial),1001,15000,2026-10-09,2026-11-11,33,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035821.pdf
+2026-11-13T02:52:09+00:00,House,Richard W. Allen,,US Treasury Note 3.5% DUE 1/31/30,BUY,15001,50000,2026-10-02,2026-11-11,40,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035821.pdf
+2026-11-13T02:52:09+00:00,House,Richard W. Allen,,US Treasury Note 4% DUE 7/31/29,BUY,15001,50000,2026-10-02,2026-11-11,40,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035821.pdf
+2026-11-13T02:52:09+00:00,House,Lloyd Doggett,KO,Coca-Cola Company,BUY,1001,15000,2026-10-01,2026-11-11,41,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035826.pdf
