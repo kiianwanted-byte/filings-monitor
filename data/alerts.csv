@@ -7227,3 +7227,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-13T21:16:47+00:00,FORM_144,WSE,Wise Group plc,proposed sale $12,11,,https://www.sec.gov/Archives/edgar/data/2131409/000095014226003031/0000950142-26-003031-index.htm,LOW
 2026-11-13T21:16:48+00:00,FORM_144,INSW,"INTERNATIONAL SEAWAYS, INC.",proposed sale $418K,418174,,https://www.sec.gov/Archives/edgar/data/1769458/000195004726011066/0001950047-26-011066-index.htm,LOW
 2026-11-13T21:16:48+00:00,FORM_144,IMXI,"INTERNATIONAL MONEY EXPRESS, INC.",proposed sale $117K,116783,,https://www.sec.gov/Archives/edgar/data/1962525/000162828026073836/0001628280-26-073836-index.htm,LOW
+2026-11-13T21:21:54+00:00,INSIDER_CLUSTER,KEEL,Keel Infrastructure Corp.,Freedman Amy $76K,76100,3,https://www.sec.gov/Archives/edgar/data/2115914/000211591426000003/0002115914-26-000003-index.htm,HIGH
+2026-11-13T21:22:09+00:00,FORM_144,CRVL,CORVEL CORPORATION,proposed sale $182K,181612,,https://www.sec.gov/Archives/edgar/data/1754632/000195004726011071/0001950047-26-011071-index.htm,LOW
+2026-11-13T21:22:10+00:00,FORM_144,AMBQ,"AMBIQ MICRO, INC.",proposed sale $2.57M,2572837,,https://www.sec.gov/Archives/edgar/data/2078454/000195004726011070/0001950047-26-011070-index.htm,LOW
