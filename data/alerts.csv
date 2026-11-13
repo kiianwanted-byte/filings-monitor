@@ -7285,3 +7285,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-13T22:27:10+00:00,FORM_144,BOKF,BOK FINANCIAL CORP,proposed sale $233K,233248,,https://www.sec.gov/Archives/edgar/data/1185611/000118561126000006/0001185611-26-000006-index.htm,LOW
 2026-11-13T22:36:41+00:00,FORM_144,UPST,"Upstart Holdings, Inc.",proposed sale $2.95M,2953103,,https://www.sec.gov/Archives/edgar/data/1832808/000192109426001182/0001921094-26-001182-index.htm,LOW
 2026-11-13T22:41:33+00:00,INSIDER_BUY,UPST,"Upstart Holdings, Inc.",Gu Paul $1.03M,1028400,2,https://www.sec.gov/Archives/edgar/data/1832812/000183281226000012/0001832812-26-000012-index.htm,MEDIUM
+2026-11-13T22:46:34+00:00,INSIDER_CLUSTER,CTEV,Claritev Corp,Dalton Travis $150K,149927,2,https://www.sec.gov/Archives/edgar/data/1841409/000162828026073944/0001628280-26-073944-index.htm,HIGH
+2026-11-13T22:46:37+00:00,FORM_144,ROIV,Roivant Sciences Ltd.,proposed sale $7.32M,7323568,,https://www.sec.gov/Archives/edgar/data/1885841/000195004726011100/0001950047-26-011100-index.htm,LOW
+2026-11-13T22:46:37+00:00,FORM_144,TPC,Tutor Perini Corporation,proposed sale $72K,72337,,https://www.sec.gov/Archives/edgar/data/906134/000162828026073945/0001628280-26-073945-index.htm,LOW
