@@ -7198,3 +7198,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-13T20:51:38+00:00,FORM_144,OKLO,Oklo Inc.,proposed sale $268K,267820,,https://www.sec.gov/Archives/edgar/data/2080717/000195917326008006/0001959173-26-008006-index.htm,LOW
 2026-11-13T20:56:37+00:00,FORM_144,CP,CANADIAN PACIFIC KANSAS CITY LTD/CN,proposed sale $14.27M,14267013,,https://www.sec.gov/Archives/edgar/data/1662188/000166218826000001/0001662188-26-000001-index.htm,LOW
 2026-11-13T20:56:37+00:00,FORM_144,RCKT,"ROCKET PHARMACEUTICALS, INC.",proposed sale $9K,9196,,https://www.sec.gov/Archives/edgar/data/1704342/000195917326008008/0001959173-26-008008-index.htm,LOW
+2026-11-13T21:02:05+00:00,INSIDER_CLUSTER,DTI,Drilling Tools International Corp,Neuman Eric C $66K,66335,1,https://www.sec.gov/Archives/edgar/data/1884516/000119312526460560/0001193125-26-460560-index.htm,HIGH
+2026-11-13T21:02:15+00:00,FORM_144,NPO,Enpro Inc.,proposed sale $280K,279660,,https://www.sec.gov/Archives/edgar/data/1623812/000192109426001176/0001921094-26-001176-index.htm,LOW
+2026-11-13T21:02:17+00:00,STAKE_13G,,PointState Capital LP, 0.0%,,,https://www.sec.gov/Archives/edgar/data/1509842/000089534526000484/0000895345-26-000484-index.htm,HIGH
