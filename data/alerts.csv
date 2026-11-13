@@ -7186,3 +7186,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-13T19:51:32+00:00,FORM_144,GIS,GENERAL MILLS INC,proposed sale $671K,670633,,https://www.sec.gov/Archives/edgar/data/1618567/000195779926000203/0001957799-26-000203-index.htm,LOW
 2026-11-13T19:56:34+00:00,FORM_144,DOX,Amdocs Limited,proposed sale $303K,303151,,https://www.sec.gov/Archives/edgar/data/2122638/000119312526460346/0001193125-26-460346-index.htm,LOW
 2026-11-13T20:06:34+00:00,FORM_144,DOX,Amdocs Limited,proposed sale $72K,71850,,https://www.sec.gov/Archives/edgar/data/2122638/000119312526460373/0001193125-26-460373-index.htm,LOW
+2026-11-13T20:11:31+00:00,INSIDER_CLUSTER,GROW,U S GLOBAL INVESTORS INC,"Gator Capital Management, LLC $83K",82690,7,https://www.sec.gov/Archives/edgar/data/1570284/000106299326006003/0001062993-26-006003-index.htm,HIGH
