@@ -2393,3 +2393,7 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-11-13T21:31:56+00:00,2026-11-13,ALT,"Altimmune, Inc.",WEAVER GREGORY L,Chief Financial Officer,10000,1.62,16200,15.9,0001251779-26-000017
 2026-11-13T21:32:00+00:00,2026-11-13,ALT,"Altimmune, Inc.",Pisano Wayne,Director,10000,1.64,16350,20.5,0001743611-26-000008
 2026-11-13T21:32:00+00:00,2026-11-11,ALDX,"Aldeyra Therapeutics, Inc.",DOUGLAS RICHARD,Director,200000,0.64,128899,102.6,0001193125-26-460743
+2026-11-13T21:36:45+00:00,2026-11-13,ARR,"Armour Residential REIT, Inc.",Macauley Desmond,Co-Chief Investment Officer,1000,11.83,11829,10.9,0002016620-26-000011
+2026-11-13T21:36:47+00:00,2026-11-13,GAM,GENERAL AMERICAN INVESTORS CO INC,Stark Eugene S,VP Administration,4000,22.00,88000,400.0,0000040417-26-000056
+2026-11-13T21:36:52+00:00,2026-11-12,BW,"Babcock & Wilcox Enterprises, Inc.",Moeller Philip D,Director,3000,4.65,13950,1.2,0001630805-26-000091
+2026-11-13T21:36:57+00:00,2026-11-11,ALDX,"Aldeyra Therapeutics, Inc.",Alfieri Michael,Principal Financial Officer,10000,0.65,6500,133.3,0001193125-26-460801

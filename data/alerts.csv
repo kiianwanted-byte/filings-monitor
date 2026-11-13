@@ -7255,3 +7255,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-13T21:32:07+00:00,FORM_144,WDC,WESTERN DIGITAL CORPORATION,proposed sale $6.17M,6170426,,https://www.sec.gov/Archives/edgar/data/1729518/000195004726011080/0001950047-26-011080-index.htm,LOW
 2026-11-13T21:32:08+00:00,FORM_144,FSLY,"Fastly, Inc.",proposed sale $543K,543256,,https://www.sec.gov/Archives/edgar/data/2074428/000151741326000363/0001517413-26-000363-index.htm,LOW
 2026-11-13T21:32:09+00:00,STAKE_13G,,PERSHING SQUARE INC.,PERSHING SQUARE INC. 24.9%,,,https://www.sec.gov/Archives/edgar/data/2026053/000119312526460795/0001193125-26-460795-index.htm,HIGH
+2026-11-13T21:36:57+00:00,INSIDER_CLUSTER,ALDX,"Aldeyra Therapeutics, Inc.",Alfieri Michael $6K,6500,2,https://www.sec.gov/Archives/edgar/data/1744687/000119312526460801/0001193125-26-460801-index.htm,HIGH
+2026-11-13T21:36:59+00:00,FORM_144,ODFL,"OLD DOMINION FREIGHT LINE, INC.",proposed sale $1.09M,1092795,,https://www.sec.gov/Archives/edgar/data/1067863/000197248126000303/0001972481-26-000303-index.htm,LOW
+2026-11-13T21:36:59+00:00,FORM_144,WTBA,West Bancorporation Inc,proposed sale $193K,193485,,https://www.sec.gov/Archives/edgar/data/1518982/000151898226000006/0001518982-26-000006-index.htm,LOW
+2026-11-13T21:37:00+00:00,FORM_144,TBBB,BBB Foods Inc.,proposed sale $4.08M,4080000,,https://www.sec.gov/Archives/edgar/data/2123862/000196858226001142/0001968582-26-001142-index.htm,LOW
+2026-11-13T21:37:00+00:00,FORM_144,SLGN,SILGAN HOLDINGS INC,proposed sale $3.69M,3687731,,https://www.sec.gov/Archives/edgar/data/1164469/000084986926000005/0000849869-26-000005-index.htm,LOW
