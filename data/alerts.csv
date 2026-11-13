@@ -7169,3 +7169,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-13T17:31:41+00:00,FORM_144,DGICB,DONEGAL GROUP INC,proposed sale $342K,342000,,https://www.sec.gov/Archives/edgar/data/1839323/000197337926000373/0001973379-26-000373-index.htm,LOW
 2026-11-13T17:31:41+00:00,FORM_144,EGBN,EAGLE BANCORP INC,proposed sale $102K,101930,,https://www.sec.gov/Archives/edgar/data/2019441/000162828026073658/0001628280-26-073658-index.htm,LOW
 2026-11-13T17:41:39+00:00,FORM_144,OKLO,Oklo Inc.,proposed sale $121K,121433,,https://www.sec.gov/Archives/edgar/data/2163354/000195917326007997/0001959173-26-007997-index.htm,LOW
+2026-11-13T17:46:34+00:00,INSIDER_CLUSTER,ABCL,AbCellera Biologics Inc.,Booth Andrew $97K,97438,0,https://www.sec.gov/Archives/edgar/data/1834411/000183441126000010/0001834411-26-000010-index.htm,HIGH
+2026-11-13T17:46:35+00:00,FORM_144,NXST,"NEXSTAR MEDIA GROUP, INC.",proposed sale $415K,415213,,https://www.sec.gov/Archives/edgar/data/1789720/000195917326007998/0001959173-26-007998-index.htm,LOW
+2026-11-13T17:46:36+00:00,FORM_144,NECB,"NorthEast Community Bancorp, Inc./MD/",proposed sale $280K,279762,,https://www.sec.gov/Archives/edgar/data/1847398/000194984626000656/0001949846-26-000656-index.htm,LOW
