@@ -7201,3 +7201,12 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-13T21:02:05+00:00,INSIDER_CLUSTER,DTI,Drilling Tools International Corp,Neuman Eric C $66K,66335,1,https://www.sec.gov/Archives/edgar/data/1884516/000119312526460560/0001193125-26-460560-index.htm,HIGH
 2026-11-13T21:02:15+00:00,FORM_144,NPO,Enpro Inc.,proposed sale $280K,279660,,https://www.sec.gov/Archives/edgar/data/1623812/000192109426001176/0001921094-26-001176-index.htm,LOW
 2026-11-13T21:02:17+00:00,STAKE_13G,,PointState Capital LP, 0.0%,,,https://www.sec.gov/Archives/edgar/data/1509842/000089534526000484/0000895345-26-000484-index.htm,HIGH
+2026-11-13T21:06:33+00:00,INSIDER_CLUSTER,VISN,"Vistance Networks, Inc.",Yates Timothy T $99K,98682,1,https://www.sec.gov/Archives/edgar/data/1517228/000119312526460596/0001193125-26-460596-index.htm,HIGH
+2026-11-13T21:06:41+00:00,FORM_144,DYN,"Dyne Therapeutics, Inc.",proposed sale $93K,92751,,https://www.sec.gov/Archives/edgar/data/1818794/000197248126000301/0001972481-26-000301-index.htm,LOW
+2026-11-13T21:06:42+00:00,FORM_144,DJT,Trump Media & Technology Group Corp.,proposed sale $83K,82606,,https://www.sec.gov/Archives/edgar/data/2074510/000192109426001180/0001921094-26-001180-index.htm,LOW
+2026-11-13T21:06:42+00:00,FORM_144,ICUI,"ICU MEDICAL, INC.",proposed sale $304K,304300,,https://www.sec.gov/Archives/edgar/data/1217439/000195004726011063/0001950047-26-011063-index.htm,LOW
+2026-11-13T21:06:43+00:00,FORM_144,DJT,Trump Media & Technology Group Corp.,proposed sale $94K,93573,,https://www.sec.gov/Archives/edgar/data/1849635/000192109426001179/0001921094-26-001179-index.htm,LOW
+2026-11-13T21:06:43+00:00,FORM_144,DJT,Trump Media & Technology Group Corp.,proposed sale $128K,127818,,https://www.sec.gov/Archives/edgar/data/2015663/000192109426001178/0001921094-26-001178-index.htm,LOW
+2026-11-13T21:06:43+00:00,FORM_144,EWBC,East West Bancorp Inc,proposed sale $4.57M,4572919,,https://www.sec.gov/Archives/edgar/data/1201236/000162828026073800/0001628280-26-073800-index.htm,LOW
+2026-11-13T21:06:44+00:00,FORM_144,STE,STERIS plc,proposed sale $532K,531960,,https://www.sec.gov/Archives/edgar/data/1819129/000192109426001177/0001921094-26-001177-index.htm,LOW
+2026-11-13T21:06:53+00:00,STAKE_13G,,NEXTNAV INC.,NEXTNAV INC. 0.0%,,,https://www.sec.gov/Archives/edgar/data/1865631/000089534526000485/0000895345-26-000485-index.htm,HIGH

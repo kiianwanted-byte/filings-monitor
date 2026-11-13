@@ -2369,3 +2369,5 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-11-13T21:02:05+00:00,2026-11-12,DTI,Drilling Tools International Corp,Neuman Eric C,Director,37267,1.78,66335,10.9,0001193125-26-460560
 2026-11-13T21:02:06+00:00,2026-11-12,DTI,Drilling Tools International Corp,FURST JACK D,Director,1750,1.69,2959,2.2,0001193125-26-460559
 2026-11-13T21:02:07+00:00,2026-11-11,NXTC,"NextCure, Inc.","ADAR1 Capital Management, LLC",10% owner,12333,5.10,62897,1.7,0001940272-26-000032
+2026-11-13T21:06:30+00:00,2026-11-12,LOAN,"MANHATTAN BRIDGE CAPITAL, INC",RAN ASSAF,"Director, President and CEO, 10% owner",10000,3.24,32391,0.8,0001493152-26-051716
+2026-11-13T21:06:33+00:00,2026-11-12,VISN,"Vistance Networks, Inc.",Yates Timothy T,Director,25000,3.95,98682,11.2,0001193125-26-460596
