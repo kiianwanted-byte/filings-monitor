@@ -7260,3 +7260,9 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-13T21:36:59+00:00,FORM_144,WTBA,West Bancorporation Inc,proposed sale $193K,193485,,https://www.sec.gov/Archives/edgar/data/1518982/000151898226000006/0001518982-26-000006-index.htm,LOW
 2026-11-13T21:37:00+00:00,FORM_144,TBBB,BBB Foods Inc.,proposed sale $4.08M,4080000,,https://www.sec.gov/Archives/edgar/data/2123862/000196858226001142/0001968582-26-001142-index.htm,LOW
 2026-11-13T21:37:00+00:00,FORM_144,SLGN,SILGAN HOLDINGS INC,proposed sale $3.69M,3687731,,https://www.sec.gov/Archives/edgar/data/1164469/000084986926000005/0000849869-26-000005-index.htm,LOW
+2026-11-13T21:41:46+00:00,FORM_144,CHYM,"CHIME FINANCIAL, INC.",proposed sale $2.15M,2146156,,https://www.sec.gov/Archives/edgar/data/1795586/000195004726011090/0001950047-26-011090-index.htm,LOW
+2026-11-13T21:41:46+00:00,FORM_144,PUBM,PUBMATIC INC,proposed sale $285K,285300,,https://www.sec.gov/Archives/edgar/data/1833508/000195004726011089/0001950047-26-011089-index.htm,LOW
+2026-11-13T21:41:49+00:00,FORM_144,PUBM,PUBMATIC INC,proposed sale $285K,285300,,https://www.sec.gov/Archives/edgar/data/1833508/000195004726011088/0001950047-26-011088-index.htm,LOW
+2026-11-13T21:41:50+00:00,FORM_144,PUBM,"PUBMATIC, INC.",proposed sale $285K,285300,,https://www.sec.gov/Archives/edgar/data/1833508/000195004726011087/0001950047-26-011087-index.htm,LOW
+2026-11-13T21:41:54+00:00,FORM_144,PUBM,PUBMATIC INC,proposed sale $285K,285300,,https://www.sec.gov/Archives/edgar/data/1833508/000195004726011086/0001950047-26-011086-index.htm,LOW
+2026-11-13T21:41:55+00:00,FORM_144,REAL,"THE REALREAL, INC.",proposed sale $515K,515220,,https://www.sec.gov/Archives/edgar/data/1780940/000195004726011085/0001950047-26-011085-index.htm,LOW
