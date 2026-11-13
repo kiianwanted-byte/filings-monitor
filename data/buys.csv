@@ -2347,3 +2347,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-11-13T13:01:34+00:00,2026-11-11,CSQR,"Csquare, Inc.",Cook Steven R. E.,Chief Financial Officer,2027,17.26,34999,0.5,0000950142-26-003016
 2026-11-13T13:31:32+00:00,2026-11-11,CATX,"Perspective Therapeutics, Inc.",Puhlmann Markus,Chief Medical Officer,41000,0.84,34544,29.8,0001193125-26-459395
 2026-11-13T13:31:34+00:00,2026-11-09,PSEC,PROSPECT CAPITAL CORP,Barry John F,"Director, CHIEF EXECUTIVE OFFICER, 10% owner",4014895,1.51,6054559,4.4,0001294357-26-000020
+2026-11-13T14:06:32+00:00,2026-11-12,EOSE,"Eos Energy Enterprises, Inc.",DIMITRIEF ALEXANDER,Director,25000,1.86,46500,9.3,0001628280-26-073597
