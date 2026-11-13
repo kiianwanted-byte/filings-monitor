@@ -7210,3 +7210,13 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-13T21:06:43+00:00,FORM_144,EWBC,East West Bancorp Inc,proposed sale $4.57M,4572919,,https://www.sec.gov/Archives/edgar/data/1201236/000162828026073800/0001628280-26-073800-index.htm,LOW
 2026-11-13T21:06:44+00:00,FORM_144,STE,STERIS plc,proposed sale $532K,531960,,https://www.sec.gov/Archives/edgar/data/1819129/000192109426001177/0001921094-26-001177-index.htm,LOW
 2026-11-13T21:06:53+00:00,STAKE_13G,,NEXTNAV INC.,NEXTNAV INC. 0.0%,,,https://www.sec.gov/Archives/edgar/data/1865631/000089534526000485/0000895345-26-000485-index.htm,HIGH
+2026-11-13T21:11:33+00:00,INSIDER_CLUSTER,KGS,"Kodiak Gas Services, Inc.",Darden Alexander Newsom $450K,449900,2,https://www.sec.gov/Archives/edgar/data/1969820/000119312526460648/0001193125-26-460648-index.htm,HIGH
+2026-11-13T21:11:40+00:00,INSIDER_CLUSTER,TRTX,"TPG RE Finance Trust, Inc.",Smith Michael Bradley $65K,64600,2,https://www.sec.gov/Archives/edgar/data/1711988/000119312526460639/0001193125-26-460639-index.htm,HIGH
+2026-11-13T21:11:50+00:00,FORM_144,AMPL,"Amplitude, Inc.",proposed sale $507,506,,https://www.sec.gov/Archives/edgar/data/1882913/000195917326008009/0001959173-26-008009-index.htm,LOW
+2026-11-13T21:11:51+00:00,FORM_144,WSE,Wise Group plc,proposed sale $12,11,,https://www.sec.gov/Archives/edgar/data/2131391/000095014226003029/0000950142-26-003029-index.htm,LOW
+2026-11-13T21:11:51+00:00,FORM_144,COLM,COLUMBIA SPORTSWEAR COMPANY,proposed sale $571K,571366,,https://www.sec.gov/Archives/edgar/data/1131061/000195004726011065/0001950047-26-011065-index.htm,LOW
+2026-11-13T21:11:52+00:00,FORM_144,DJT,Trump Media & Technology Group Corp.,proposed sale $150K,149890,,https://www.sec.gov/Archives/edgar/data/2015667/000192109426001181/0001921094-26-001181-index.htm,LOW
+2026-11-13T21:11:52+00:00,FORM_144,IRWD,IRONWOOD PHARMACEUTICALS INC,proposed sale $32K,32330,,https://www.sec.gov/Archives/edgar/data/2061679/000206167926000003/0002061679-26-000003-index.htm,LOW
+2026-11-13T21:11:52+00:00,FORM_144,FENC,FENNEC PHARMACEUTICALS INC.,proposed sale $240K,240000,,https://www.sec.gov/Archives/edgar/data/1589776/000195004726011064/0001950047-26-011064-index.htm,LOW
+2026-11-13T21:11:53+00:00,FORM_144,DYN,"Dyne Therapeutics, Inc.",proposed sale $44K,43810,,https://www.sec.gov/Archives/edgar/data/1818794/000197248126000302/0001972481-26-000302-index.htm,LOW
+2026-11-13T21:11:53+00:00,FORM_144,WSE,Wise Group plc,proposed sale $12,11,,https://www.sec.gov/Archives/edgar/data/2131390/000095014226003026/0000950142-26-003026-index.htm,LOW
