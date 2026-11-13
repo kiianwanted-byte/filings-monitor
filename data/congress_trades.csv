@@ -3266,3 +3266,15 @@ timestamp,chamber,member,ticker,asset,action,amount_low,amount_high,trade_date,f
 2026-11-13T02:52:09+00:00,House,Richard W. Allen,,US Treasury Note 3.5% DUE 1/31/30,BUY,15001,50000,2026-10-02,2026-11-11,40,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035821.pdf
 2026-11-13T02:52:09+00:00,House,Richard W. Allen,,US Treasury Note 4% DUE 7/31/29,BUY,15001,50000,2026-10-02,2026-11-11,40,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035821.pdf
 2026-11-13T02:52:09+00:00,House,Lloyd Doggett,KO,Coca-Cola Company,BUY,1001,15000,2026-10-01,2026-11-11,41,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035826.pdf
+2026-11-13T23:49:43+00:00,House,David J. Taylor,GOOGL,Alphabet Inc. - Class A Common,BUY,1001,15000,2026-11-03,2026-11-12,9,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf
+2026-11-13T23:49:43+00:00,House,David J. Taylor,AMGN,Amgen Inc. - Common Stock,SELL,1001,15000,2026-11-03,2026-11-12,9,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf
+2026-11-13T23:49:43+00:00,House,David J. Taylor,T,AT&T Inc,BUY,1001,15000,2026-11-03,2026-11-12,9,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf
+2026-11-13T23:49:43+00:00,House,David J. Taylor,AVGO,Broadcom Inc. - Common Stock,BUY,1001,15000,2026-11-05,2026-11-12,7,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf
+2026-11-13T23:49:43+00:00,House,David J. Taylor,ETN,"Eaton Corporation, PLC Ordinary",BUY,1001,15000,2026-11-03,2026-11-12,9,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf
+2026-11-13T23:49:43+00:00,House,David J. Taylor,LLY,Eli Lilly and Company Common Stock,SELL,1001,15000,2026-11-03,2026-11-12,9,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf
+2026-11-13T23:49:43+00:00,House,David J. Taylor,HD,"Home Depot, Inc",SELL,1001,15000,2026-11-05,2026-11-12,7,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf
+2026-11-13T23:49:43+00:00,House,David J. Taylor,IBP,"Installed Building Products, Inc",BUY,1001,15000,2026-11-03,2026-11-12,9,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf
+2026-11-13T23:49:43+00:00,House,David J. Taylor,KR,Kroger Company,SELL,1001,15000,2026-11-03,2026-11-12,9,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf
+2026-11-13T23:49:43+00:00,House,David J. Taylor,LRCX,Lam Research Corporation - Common,BUY,1001,15000,2026-11-05,2026-11-12,7,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf
+2026-11-13T23:49:43+00:00,House,David J. Taylor,PG,Procter & Gamble Company,SELL,1001,15000,2026-11-05,2026-11-12,7,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf
+2026-11-13T23:49:43+00:00,House,David J. Taylor,V,Visa Inc,SELL,1001,15000,2026-11-03,2026-11-12,9,LOW,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf
