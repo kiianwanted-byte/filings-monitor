@@ -7220,3 +7220,10 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-13T21:11:52+00:00,FORM_144,FENC,FENNEC PHARMACEUTICALS INC.,proposed sale $240K,240000,,https://www.sec.gov/Archives/edgar/data/1589776/000195004726011064/0001950047-26-011064-index.htm,LOW
 2026-11-13T21:11:53+00:00,FORM_144,DYN,"Dyne Therapeutics, Inc.",proposed sale $44K,43810,,https://www.sec.gov/Archives/edgar/data/1818794/000197248126000302/0001972481-26-000302-index.htm,LOW
 2026-11-13T21:11:53+00:00,FORM_144,WSE,Wise Group plc,proposed sale $12,11,,https://www.sec.gov/Archives/edgar/data/2131390/000095014226003026/0000950142-26-003026-index.htm,LOW
+2026-11-13T21:16:37+00:00,INSIDER_CLUSTER,FF,FutureFuel Corp.,Polet Roeland $136K,136066,1,https://www.sec.gov/Archives/edgar/data/2035380/000143774926036877/0001437749-26-036877-index.htm,HIGH
+2026-11-13T21:16:46+00:00,FORM_144,MOH,"MOLINA HEALTHCARE, INC.",proposed sale $330K,329788,,https://www.sec.gov/Archives/edgar/data/1228861/000195004726011069/0001950047-26-011069-index.htm,LOW
+2026-11-13T21:16:46+00:00,FORM_144,AHCO,ADAPTHEALTH CORP.,proposed sale $77K,77335,,https://www.sec.gov/Archives/edgar/data/1820867/000195004726011068/0001950047-26-011068-index.htm,LOW
+2026-11-13T21:16:47+00:00,FORM_144,DFIN,"DONNELLEY FINANCIAL SOLUTIONS, INC.",proposed sale $3.39M,3394135,,https://www.sec.gov/Archives/edgar/data/1669811/000195004726011067/0001950047-26-011067-index.htm,LOW
+2026-11-13T21:16:47+00:00,FORM_144,WSE,Wise Group plc,proposed sale $12,11,,https://www.sec.gov/Archives/edgar/data/2131409/000095014226003031/0000950142-26-003031-index.htm,LOW
+2026-11-13T21:16:48+00:00,FORM_144,INSW,"INTERNATIONAL SEAWAYS, INC.",proposed sale $418K,418174,,https://www.sec.gov/Archives/edgar/data/1769458/000195004726011066/0001950047-26-011066-index.htm,LOW
+2026-11-13T21:16:48+00:00,FORM_144,IMXI,"INTERNATIONAL MONEY EXPRESS, INC.",proposed sale $117K,116783,,https://www.sec.gov/Archives/edgar/data/1962525/000162828026073836/0001628280-26-073836-index.htm,LOW
