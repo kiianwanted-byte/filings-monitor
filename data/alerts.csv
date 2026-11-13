@@ -7168,3 +7168,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-13T17:21:33+00:00,FORM_144,KTOS,KRATOS DEFENSE & SECURITY SOLUTIONS INC,proposed sale $486K,486500,,https://www.sec.gov/Archives/edgar/data/1695434/000195917326007996/0001959173-26-007996-index.htm,LOW
 2026-11-13T17:31:41+00:00,FORM_144,DGICB,DONEGAL GROUP INC,proposed sale $342K,342000,,https://www.sec.gov/Archives/edgar/data/1839323/000197337926000373/0001973379-26-000373-index.htm,LOW
 2026-11-13T17:31:41+00:00,FORM_144,EGBN,EAGLE BANCORP INC,proposed sale $102K,101930,,https://www.sec.gov/Archives/edgar/data/2019441/000162828026073658/0001628280-26-073658-index.htm,LOW
+2026-11-13T17:41:39+00:00,FORM_144,OKLO,Oklo Inc.,proposed sale $121K,121433,,https://www.sec.gov/Archives/edgar/data/2163354/000195917326007997/0001959173-26-007997-index.htm,LOW
