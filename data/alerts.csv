@@ -7165,3 +7165,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-13T16:56:34+00:00,FORM_144,ICLR,ICON PUBLIC LIMITED COMPANY,proposed sale $2.00M,2001765,,https://www.sec.gov/Archives/edgar/data/1973437/000195004726011058/0001950047-26-011058-index.htm,LOW
 2026-11-13T17:01:34+00:00,FORM_144,TYL,TYLER TECHNOLOGIES INC,proposed sale $4.25M,4248050,,https://www.sec.gov/Archives/edgar/data/1250902/000195917326007995/0001959173-26-007995-index.htm,LOW
 2026-11-13T17:16:31+00:00,FORM_144,WTW,Willis Towers Watson,proposed sale $506K,506117,,https://www.sec.gov/Archives/edgar/data/1881781/000162828026073654/0001628280-26-073654-index.htm,LOW
+2026-11-13T17:21:33+00:00,FORM_144,KTOS,KRATOS DEFENSE & SECURITY SOLUTIONS INC,proposed sale $486K,486500,,https://www.sec.gov/Archives/edgar/data/1695434/000195917326007996/0001959173-26-007996-index.htm,LOW
