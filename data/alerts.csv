@@ -7161,3 +7161,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-13T16:02:00+00:00,FORM_144,TENB,"Tenable Holdings, Inc.",proposed sale $4.15M,4154000,,https://www.sec.gov/Archives/edgar/data/1660280/000195917326007992/0001959173-26-007992-index.htm,LOW
 2026-11-13T16:11:36+00:00,FORM_144,HAYW,"Hayward Holdings, Inc.",proposed sale $673K,672800,,https://www.sec.gov/Archives/edgar/data/1850060/000195917326007993/0001959173-26-007993-index.htm,LOW
 2026-11-13T16:31:36+00:00,FORM_144,VCEL,Vericel Corp,proposed sale $109K,108779,,https://www.sec.gov/Archives/edgar/data/1916145/000195917326007994/0001959173-26-007994-index.htm,LOW
+2026-11-13T16:41:35+00:00,FORM_144,SGC,"SUPERIOR GROUP OF COMPANIES, INC.",proposed sale $650K,649883,,https://www.sec.gov/Archives/edgar/data/1204641/000120464126000001/0001204641-26-000001-index.htm,LOW
