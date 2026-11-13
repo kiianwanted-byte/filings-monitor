@@ -2410,3 +2410,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-11-13T22:56:53+00:00,2026-11-11,CRVS,"Corvus Pharmaceuticals, Inc.",Arcara Jeffrey,Chief Business Officer,4500,11.22,50475,NEW,0001610717-26-000454
 2026-11-13T23:01:33+00:00,2026-11-11,FISN,"DEEP FISSION, INC.",Muller Elizabeth,"Director, CEO, President, 10% owner",10000,2.16,21612,NEW,0001104659-26-127276
 2026-11-13T23:01:33+00:00,2026-11-10,JYNT,JOINT Corp,JOBSON CHARLES E,10% owner,2825,6.65,18786,0.0,0001214659-26-014168
+2026-11-13T23:26:37+00:00,2026-11-11,,"Audax Private Credit Fund, LLC","Audax Private Credit Business, LP",10% owner,585013,24.86,14543432,NEW,0001193125-26-461179
