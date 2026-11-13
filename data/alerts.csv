@@ -7292,3 +7292,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-13T22:51:38+00:00,FORM_144,KNTK,Kinetik Holdings Inc.,proposed sale $99K,98554,,https://www.sec.gov/Archives/edgar/data/1904934/000090514826004800/0000905148-26-004800-index.htm,LOW
 2026-11-13T22:51:38+00:00,FORM_144,ROIV,ROIVANT SCIENCES LTD.,proposed sale $5.15M,5150575,,https://www.sec.gov/Archives/edgar/data/1885841/000195004726011101/0001950047-26-011101-index.htm,LOW
 2026-11-13T23:26:37+00:00,INSIDER_BUY,,"Audax Private Credit Fund, LLC","Audax Private Credit Business, LP $14.54M",14543432,2,https://www.sec.gov/Archives/edgar/data/2076441/000119312526461179/0001193125-26-461179-index.htm,LOW
+2026-11-13T23:41:32+00:00,FORM_144,MPWR,"MONOLITHIC POWER SYSTEMS, INC.",proposed sale $3.48M,3476350,,https://www.sec.gov/Archives/edgar/data/1560945/000128045226000021/0001280452-26-000021-index.htm,LOW
