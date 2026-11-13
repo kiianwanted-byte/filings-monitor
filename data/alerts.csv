@@ -7273,3 +7273,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-13T21:46:56+00:00,FORM_144,ARX,ACCELERANT HOLDINGS,proposed sale $5.37M,5367681,,https://www.sec.gov/Archives/edgar/data/2012400/000195004726011092/0001950047-26-011092-index.htm,LOW
 2026-11-13T21:46:57+00:00,FORM_144,CHYM,"CHIME FINANCIAL, INC.",proposed sale $1.21M,1207213,,https://www.sec.gov/Archives/edgar/data/1795586/000195004726011091/0001950047-26-011091-index.htm,LOW
 2026-11-13T21:46:57+00:00,FORM_144,PLUS,EPLUS INC,proposed sale $484K,484238,,https://www.sec.gov/Archives/edgar/data/1444430/000196530126000186/0001965301-26-000186-index.htm,LOW
+2026-11-13T21:51:48+00:00,FORM_144,GMRS,GMR Solutions Inc.,proposed sale $1.04M,1044000,,https://www.sec.gov/Archives/edgar/data/1898718/000195917326008011/0001959173-26-008011-index.htm,LOW
+2026-11-13T21:52:00+00:00,FORM_144,KRG,KITE REALTY GROUP TRUST,proposed sale $34K,34492,,https://www.sec.gov/Archives/edgar/data/1295834/000197407826000417/0001974078-26-000417-index.htm,LOW
