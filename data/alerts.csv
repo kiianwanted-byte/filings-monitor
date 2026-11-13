@@ -7173,3 +7173,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-13T17:46:35+00:00,FORM_144,NXST,"NEXSTAR MEDIA GROUP, INC.",proposed sale $415K,415213,,https://www.sec.gov/Archives/edgar/data/1789720/000195917326007998/0001959173-26-007998-index.htm,LOW
 2026-11-13T17:46:36+00:00,FORM_144,NECB,"NorthEast Community Bancorp, Inc./MD/",proposed sale $280K,279762,,https://www.sec.gov/Archives/edgar/data/1847398/000194984626000656/0001949846-26-000656-index.htm,LOW
 2026-11-13T18:06:37+00:00,FORM_144,ZYME,Zymeworks Inc.,proposed sale $1.05M,1051944,,https://www.sec.gov/Archives/edgar/data/1938192/000193819226000005/0001938192-26-000005-index.htm,LOW
+2026-11-13T18:21:32+00:00,FORM_144,RBA,RB GLOBAL INC.,proposed sale $547K,547176,,https://www.sec.gov/Archives/edgar/data/1841067/000195917326007999/0001959173-26-007999-index.htm,LOW
