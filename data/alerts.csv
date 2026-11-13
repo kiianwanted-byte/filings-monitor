@@ -7172,3 +7172,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-13T17:46:34+00:00,INSIDER_CLUSTER,ABCL,AbCellera Biologics Inc.,Booth Andrew $97K,97438,0,https://www.sec.gov/Archives/edgar/data/1834411/000183441126000010/0001834411-26-000010-index.htm,HIGH
 2026-11-13T17:46:35+00:00,FORM_144,NXST,"NEXSTAR MEDIA GROUP, INC.",proposed sale $415K,415213,,https://www.sec.gov/Archives/edgar/data/1789720/000195917326007998/0001959173-26-007998-index.htm,LOW
 2026-11-13T17:46:36+00:00,FORM_144,NECB,"NorthEast Community Bancorp, Inc./MD/",proposed sale $280K,279762,,https://www.sec.gov/Archives/edgar/data/1847398/000194984626000656/0001949846-26-000656-index.htm,LOW
+2026-11-13T18:06:37+00:00,FORM_144,ZYME,Zymeworks Inc.,proposed sale $1.05M,1051944,,https://www.sec.gov/Archives/edgar/data/1938192/000193819226000005/0001938192-26-000005-index.htm,LOW
