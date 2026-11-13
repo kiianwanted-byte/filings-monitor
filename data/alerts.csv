@@ -7191,3 +7191,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-13T20:21:35+00:00,FORM_144,NSP,"INSPERITY, INC.",proposed sale $260K,259857,,https://www.sec.gov/Archives/edgar/data/1590858/000195917326008004/0001959173-26-008004-index.htm,LOW
 2026-11-13T20:26:31+00:00,INSIDER_BUY,WY,WEYERHAEUSER CO,BECKWITT RICHARD $307K,306600,2,https://www.sec.gov/Archives/edgar/data/1197193/000119719326000008/0001197193-26-000008-index.htm,MEDIUM
 2026-11-13T20:31:38+00:00,FORM_144,AJG,Arthur J. Gallagher & Co.,proposed sale $2.12M,2122896,,https://www.sec.gov/Archives/edgar/data/2022545/000195917326008005/0001959173-26-008005-index.htm,LOW
+2026-11-13T20:36:47+00:00,FORM_144,FTK,FLOTEK INDUSTRIES INC/CN/,proposed sale $231K,230840,,https://www.sec.gov/Archives/edgar/data/1498132/000196530126000185/0001965301-26-000185-index.htm,LOW
+2026-11-13T20:36:47+00:00,FORM_144,DGICB,DONEGAL GROUP INC,proposed sale $342K,342000,,https://www.sec.gov/Archives/edgar/data/1937034/000197337926000374/0001973379-26-000374-index.htm,LOW
