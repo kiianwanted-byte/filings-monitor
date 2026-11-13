@@ -7160,3 +7160,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-13T15:52:01+00:00,FORM_144,CNVS,Cineverse Corp.,proposed sale $50K,49750,,https://www.sec.gov/Archives/edgar/data/1977756/000195917326007991/0001959173-26-007991-index.htm,LOW
 2026-11-13T16:02:00+00:00,FORM_144,TENB,"Tenable Holdings, Inc.",proposed sale $4.15M,4154000,,https://www.sec.gov/Archives/edgar/data/1660280/000195917326007992/0001959173-26-007992-index.htm,LOW
 2026-11-13T16:11:36+00:00,FORM_144,HAYW,"Hayward Holdings, Inc.",proposed sale $673K,672800,,https://www.sec.gov/Archives/edgar/data/1850060/000195917326007993/0001959173-26-007993-index.htm,LOW
+2026-11-13T16:31:36+00:00,FORM_144,VCEL,Vericel Corp,proposed sale $109K,108779,,https://www.sec.gov/Archives/edgar/data/1916145/000195917326007994/0001959173-26-007994-index.htm,LOW
