@@ -7157,3 +7157,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-13T15:06:44+00:00,FORM_144,ROOT,"Root, Inc.",proposed sale $129K,129113,,https://www.sec.gov/Archives/edgar/data/1977858/000195917326007988/0001959173-26-007988-index.htm,LOW
 2026-11-13T15:11:37+00:00,FORM_144,TMO,THERMO FISHER SCIENTIFIC INC.,proposed sale $2.90M,2898968,,https://www.sec.gov/Archives/edgar/data/1844600/000195917326007990/0001959173-26-007990-index.htm,LOW
 2026-11-13T15:11:40+00:00,FORM_144,CFG,CITIZENS FINANCIAL GROUP INC,proposed sale $400K,400075,,https://www.sec.gov/Archives/edgar/data/1339734/000195917326007989/0001959173-26-007989-index.htm,LOW
+2026-11-13T15:52:01+00:00,FORM_144,CNVS,Cineverse Corp.,proposed sale $50K,49750,,https://www.sec.gov/Archives/edgar/data/1977756/000195917326007991/0001959173-26-007991-index.htm,LOW
