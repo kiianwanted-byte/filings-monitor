@@ -7185,3 +7185,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-13T19:36:31+00:00,FORM_144,MPC,Marathon Petroleum Corp,proposed sale $938K,938300,,https://www.sec.gov/Archives/edgar/data/2069536/000195917326008003/0001959173-26-008003-index.htm,LOW
 2026-11-13T19:51:32+00:00,FORM_144,GIS,GENERAL MILLS INC,proposed sale $671K,670633,,https://www.sec.gov/Archives/edgar/data/1618567/000195779926000203/0001957799-26-000203-index.htm,LOW
 2026-11-13T19:56:34+00:00,FORM_144,DOX,Amdocs Limited,proposed sale $303K,303151,,https://www.sec.gov/Archives/edgar/data/2122638/000119312526460346/0001193125-26-460346-index.htm,LOW
+2026-11-13T20:06:34+00:00,FORM_144,DOX,Amdocs Limited,proposed sale $72K,71850,,https://www.sec.gov/Archives/edgar/data/2122638/000119312526460373/0001193125-26-460373-index.htm,LOW
