@@ -7142,3 +7142,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-13T00:36:33+00:00,FORM_144,LWAY,"Lifeway Foods, Inc.",proposed sale $1.55M,1551420,,https://www.sec.gov/Archives/edgar/data/1227847/000122784726000023/0001227847-26-000023-index.htm,LOW
 2026-11-13T01:01:31+00:00,INSIDER_CLUSTER,ENOV,Enovis CORP,Lalor Angela S $50K,50192,2,https://www.sec.gov/Archives/edgar/data/1420800/000119312526458960/0001193125-26-458960-index.htm,HIGH
 2026-11-13T01:11:31+00:00,FORM_144,FNRN,FIRST NORTHERN COMMUNITY BANCORP,proposed sale $85K,85000,,https://www.sec.gov/Archives/edgar/data/1700166/000143774926036643/0001437749-26-036643-index.htm,LOW
+2026-11-13T01:47:03+00:00,INSIDER_BUY,HPP,"Hudson Pacific Properties, Inc.",BORTZ JON E $680K,680112,3,https://www.sec.gov/Archives/edgar/data/1482512/000122931026000014/0001229310-26-000014-index.htm,MEDIUM
+2026-11-13T01:47:05+00:00,INSIDER_CLUSTER,HPP,"Hudson Pacific Properties, Inc.",COLEMAN VICTOR J $182K,182000,2,https://www.sec.gov/Archives/edgar/data/1482512/000119142026000014/0001191420-26-000014-index.htm,HIGH

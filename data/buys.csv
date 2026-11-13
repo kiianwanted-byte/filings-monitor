@@ -2337,3 +2337,5 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-11-13T01:11:30+00:00,2026-11-09,FNRN,FIRST NORTHERN COMMUNITY BANCORP,Servat Jean-Luc,Director,300,16.83,5049,5.3,0001437749-26-036642
 2026-11-13T01:16:36+00:00,2026-11-09,VISN,"Vistance Networks, Inc.",Watts Claudius E. IV,Director,200000,4.16,831060,14.8,0001193125-26-458972
 2026-11-13T01:21:33+00:00,2026-11-10,VISN,"Vistance Networks, Inc.",Watts Claudius E. IV,Director,50000,3.96,198195,3.2,0001193125-26-458974
+2026-11-13T01:47:03+00:00,2026-11-09,HPP,"Hudson Pacific Properties, Inc.",BORTZ JON E,Director,75000,9.07,680112,211.9,0001229310-26-000014
+2026-11-13T01:47:05+00:00,2026-11-10,HPP,"Hudson Pacific Properties, Inc.",COLEMAN VICTOR J,"Director, Chief Executive Officer",20000,9.10,182000,19.7,0001191420-26-000014
