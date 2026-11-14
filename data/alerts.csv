@@ -7296,3 +7296,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-14T00:01:30+00:00,INSIDER_BUY,IOND,Ionic Digital Inc.,Abbate Michael $1.29M,1291578,2,https://www.sec.gov/Archives/edgar/data/2144899/000118518526005414/0001185185-26-005414-index.htm,MEDIUM
 2026-11-14T00:21:31+00:00,INSIDER_CLUSTER,CTRI,"Centuri Holdings, Inc.",Patton Charles R. $250K,249920,2,https://www.sec.gov/Archives/edgar/data/1981599/000198159926000141/0001981599-26-000141-index.htm,HIGH
 2026-11-14T00:26:31+00:00,FORM_144,LWAY,"Lifeway Foods, Inc.",proposed sale $1.64M,1637677,,https://www.sec.gov/Archives/edgar/data/1227847/000122784726000024/0001227847-26-000024-index.htm,LOW
+2026-11-14T01:16:31+00:00,INSIDER_BUY,INDI,"indie Semiconductor, Inc.",ALDRICH DAVID J $299K,299000,2,https://www.sec.gov/Archives/edgar/data/1841925/000102509226000012/0001025092-26-000012-index.htm,MEDIUM
