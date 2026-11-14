@@ -2414,3 +2414,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-11-13T23:46:47+00:00,2026-11-12,GLXZ,"Galaxy Gaming, Inc.",BOUSHY JOHN M,Director,11250,1.58,17775,25.0,0001193125-26-461218
 2026-11-14T00:01:30+00:00,2026-11-11,IOND,Ionic Digital Inc.,Abbate Michael,Director,19642,65.76,1291578,52.6,0001185185-26-005414
 2026-11-14T00:01:31+00:00,2026-11-11,TRS,TRIMAS CORP,Tredwell Daniel P,Director,66,37.73,2526,0.1,0001399401-26-000010
+2026-11-14T00:21:31+00:00,2026-11-11,CTRI,"Centuri Holdings, Inc.",Patton Charles R.,Director,11000,22.72,249920,37.5,0001981599-26-000141
