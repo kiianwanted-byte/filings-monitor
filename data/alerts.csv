@@ -7301,3 +7301,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-14T02:21:32+00:00,INSIDER_BUY,STWD,"STARWOOD PROPERTY TRUST, INC.",STERNLICHT BARRY S $14.70M,14697681,2,https://www.sec.gov/Archives/edgar/data/1465128/000090514826004805/0000905148-26-004805-index.htm,HIGH
 2026-11-14T02:26:39+00:00,INSIDER_CLUSTER,STWD,"STARWOOD PROPERTY TRUST, INC.",Pollack Jonathan Lee $2.01M,2013450,2,https://www.sec.gov/Archives/edgar/data/1662895/000090514826004807/0000905148-26-004807-index.htm,HIGH
 2026-11-14T02:31:39+00:00,STAKE_13D,,"Centuri Holdings, Inc.","Centuri Holdings, Inc. 12.6%",,,https://www.sec.gov/Archives/edgar/data/1981599/000153949726002987/0001539497-26-002987-index.htm,HIGH
+2026-11-14T03:01:31+00:00,INSIDER_BUY,NXGL,"NEXGEL, INC.",Kieser Brian Joseph $733K,732688,3,https://www.sec.gov/Archives/edgar/data/2133654/000149315226051920/0001493152-26-051920-index.htm,MEDIUM
+2026-11-14T03:01:33+00:00,INSIDER_CLUSTER,NXGL,"NEXGEL, INC.",glassman steven mark $25K,25003,3,https://www.sec.gov/Archives/edgar/data/1853617/000149315226051917/0001493152-26-051917-index.htm,HIGH
