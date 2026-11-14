@@ -2422,3 +2422,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-11-14T02:26:40+00:00,2026-11-12,BHAI,BHAV Acquisition Corp II,BHAV Partners II LLC,10% owner,5098,,0,2.3,0001213900-26-120043
 2026-11-14T02:31:37+00:00,2026-08-18,ADMQ,"ADM ENDEAVORS, INC.",Tsang Chi Kwong,CFO,74250,0.04,2970,NEW,0001493152-26-051904
 2026-11-14T02:36:29+00:00,2026-11-12,VANI,"Vivani Medical, Inc.",Dwyer Donald,Chief Business Officer,20000,0.98,19645,36.4,0001753926-26-002139
+2026-11-14T02:46:36+00:00,2026-11-09,STIM,"Neuronetics, Inc.",Chernett Jorey,10% owner,40000,1.99,79600,0.4,0001193805-26-001472
