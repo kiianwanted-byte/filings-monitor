@@ -8575,3 +8575,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-25T18:23:41+00:00,STAKE_13G,,ADA KAYA,filer not parsed (not on watchlist),,,https://www.sec.gov/Archives/edgar/data/2167105/000216710526000001/0002167105-26-000001-index.htm,LOW
 2026-11-25T18:31:41+00:00,STAKE_13G,,WeRide Inc.,WeRide Inc. (not on watchlist),,,https://www.sec.gov/Archives/edgar/data/1867729/000133707426000007/0001337074-26-000007-index.htm,LOW
 2026-11-25T18:36:49+00:00,FORM_144,LEGH,Legacy Housing Corp,proposed sale $336K,336052,,https://www.sec.gov/Archives/edgar/data/2165383/000100027526000136/0001000275-26-000136-index.htm,LOW
+2026-11-25T18:51:35+00:00,STAKE_13G,,ADA KAYA,filer not parsed (not on watchlist),,,https://www.sec.gov/Archives/edgar/data/2167105/000216710526000002/0002167105-26-000002-index.htm,LOW
