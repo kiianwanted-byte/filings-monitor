@@ -8687,3 +8687,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-25T22:31:42+00:00,FORM_144,PAYC,"Paycom Software, Inc.",proposed sale $352K,351556,,https://www.sec.gov/Archives/edgar/data/2082976/000119312526478704/0001193125-26-478704-index.htm,LOW
 2026-11-25T22:46:40+00:00,INSIDER_CLUSTER,BG,Bunge Global SA,Zenuk Mark N $230K,229956,1,https://www.sec.gov/Archives/edgar/data/1996862/000162828026076025/0001628280-26-076025-index.htm,HIGH
 2026-11-25T22:46:41+00:00,INSIDER_CLUSTER,HBCP,"HOME BANCORP, INC.",RADER CHRIS P $31K,30625,2,https://www.sec.gov/Archives/edgar/data/1676827/000143642526000080/0001436425-26-000080-index.htm,HIGH
+2026-11-25T22:51:38+00:00,STAKE_13G,,"Whitefort Capital Management, LP",filer not parsed (not on watchlist),,,https://www.sec.gov/Archives/edgar/data/1884931/000101359426001228/0001013594-26-001228-index.htm,LOW
