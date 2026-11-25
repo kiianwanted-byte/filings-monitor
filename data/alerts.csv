@@ -8624,3 +8624,24 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-25T21:12:08+00:00,FORM_144,PEBK,PEOPLES BANCORP OF NORTH CAROLINA INC,proposed sale $203K,203485,,https://www.sec.gov/Archives/edgar/data/1183129/000195779926000212/0001957799-26-000212-index.htm,LOW
 2026-11-25T21:12:09+00:00,FORM_144,DTE,DTE ENERGY COMPANY,proposed sale $69K,69102,,https://www.sec.gov/Archives/edgar/data/1491454/000195004726011523/0001950047-26-011523-index.htm,LOW
 2026-11-25T21:12:09+00:00,STAKE_13G,,"Global Water Resources, Inc.","Global Water Resources, Inc. (not on watchlist)",,,https://www.sec.gov/Archives/edgar/data/1434728/000119312526478496/0001193125-26-478496-index.htm,LOW
+2026-11-25T21:17:02+00:00,FORM_144,TEVA,Teva Pharmaceutical Industries Limited,proposed sale $10.03M,10025000,,https://www.sec.gov/Archives/edgar/data/1673277/000119312526478517/0001193125-26-478517-index.htm,LOW
+2026-11-25T21:17:03+00:00,FORM_144,U,Unity Software Inc.,proposed sale $1.59M,1589178,,https://www.sec.gov/Archives/edgar/data/2093167/000192109426001254/0001921094-26-001254-index.htm,LOW
+2026-11-25T21:17:03+00:00,FORM_144,CNVS,Cineverse Corp.,proposed sale $32K,32344,,https://www.sec.gov/Archives/edgar/data/1977756/000195917326008337/0001959173-26-008337-index.htm,LOW
+2026-11-25T21:17:08+00:00,FORM_144,SYK,Stryker Corp,proposed sale $2.00M,1999140,,https://www.sec.gov/Archives/edgar/data/1738369/000196922326001218/0001969223-26-001218-index.htm,LOW
+2026-11-25T21:17:09+00:00,FORM_144,NX,QUANEX BUILDING PRODUCTS CORP,proposed sale $2K,2358,,https://www.sec.gov/Archives/edgar/data/1713905/000195004726011538/0001950047-26-011538-index.htm,LOW
+2026-11-25T21:17:09+00:00,FORM_144,EVER,"EverQuote, Inc.",proposed sale $37K,36697,,https://www.sec.gov/Archives/edgar/data/1983015/000195004726011537/0001950047-26-011537-index.htm,LOW
+2026-11-25T21:17:10+00:00,FORM_144,RELY,"Remitly Global, Inc.",proposed sale $536K,536500,,https://www.sec.gov/Archives/edgar/data/1872886/000195004726011536/0001950047-26-011536-index.htm,LOW
+2026-11-25T21:17:10+00:00,FORM_144,IIIV,"I3 VERTICALS, INC.",proposed sale $80K,80335,,https://www.sec.gov/Archives/edgar/data/1954402/000195004726011535/0001950047-26-011535-index.htm,LOW
+2026-11-25T21:17:11+00:00,FORM_144,U,Unity Software Inc.,proposed sale $2.24M,2238604,,https://www.sec.gov/Archives/edgar/data/2042056/000192109426001253/0001921094-26-001253-index.htm,LOW
+2026-11-25T21:17:11+00:00,FORM_144,RDDT,"Reddit, Inc.",proposed sale $206K,206426,,https://www.sec.gov/Archives/edgar/data/2164682/000195004726011534/0001950047-26-011534-index.htm,LOW
+2026-11-25T21:17:11+00:00,FORM_144,FSS,FEDERAL SIGNAL CORPORATION,proposed sale $3.99M,3990350,,https://www.sec.gov/Archives/edgar/data/1302928/000195004726011533/0001950047-26-011533-index.htm,LOW
+2026-11-25T21:17:12+00:00,FORM_144,RKLB,Rocket Lab Corporation,proposed sale $288K,287558,,https://www.sec.gov/Archives/edgar/data/1819994/000195004726011532/0001950047-26-011532-index.htm,LOW
+2026-11-25T21:17:12+00:00,FORM_144,QLYS,"QUALYS, INC.",proposed sale $384K,384320,,https://www.sec.gov/Archives/edgar/data/1329632/000195004726011531/0001950047-26-011531-index.htm,LOW
+2026-11-25T21:17:13+00:00,FORM_144,POST,"Post Holdings, Inc.",proposed sale $428K,427581,,https://www.sec.gov/Archives/edgar/data/1882375/000192109426001252/0001921094-26-001252-index.htm,LOW
+2026-11-25T21:17:13+00:00,FORM_144,CHYM,"CHIME FINANCIAL, INC.",proposed sale $1.64M,1641035,,https://www.sec.gov/Archives/edgar/data/1795586/000195004726011530/0001950047-26-011530-index.htm,LOW
+2026-11-25T21:17:14+00:00,FORM_144,EVER,"EverQuote, Inc.",proposed sale $30K,30200,,https://www.sec.gov/Archives/edgar/data/1840881/000195004726011529/0001950047-26-011529-index.htm,LOW
+2026-11-25T21:17:14+00:00,FORM_144,RBLX,Roblox Corporation,proposed sale $11K,10965,,https://www.sec.gov/Archives/edgar/data/1875017/000195004726011528/0001950047-26-011528-index.htm,LOW
+2026-11-25T21:17:15+00:00,FORM_144,JHX,James Hardie Industries plc,proposed sale $769K,769170,,https://www.sec.gov/Archives/edgar/data/1594032/000195917326008336/0001959173-26-008336-index.htm,LOW
+2026-11-25T21:17:15+00:00,FORM_144,CHYM,"CHIME FINANCIAL, INC.",proposed sale $1.64M,1641035,,https://www.sec.gov/Archives/edgar/data/1795586/000195004726011527/0001950047-26-011527-index.htm,LOW
+2026-11-25T21:17:16+00:00,FORM_144,PINS,"PINTEREST, INC.",proposed sale $851K,850618,,https://www.sec.gov/Archives/edgar/data/1773914/000192109426001251/0001921094-26-001251-index.htm,LOW
+2026-11-25T21:17:16+00:00,STAKE_13G,,Rice Acquisition Corp 3,Rice Acquisition Corp 3 (not on watchlist),,,https://www.sec.gov/Archives/edgar/data/2074872/000176739326000024/0001767393-26-000024-index.htm,LOW
