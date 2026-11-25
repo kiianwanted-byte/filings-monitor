@@ -3155,3 +3155,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-11-25T13:31:33+00:00,2026-11-24,KDK,"Kodiak AI, Inc.",Burnette Donald L.,"Director, Chief Executive Officer, 10% owner",2000000,1.11,2213400,7.4,0002080471-26-000003
 2026-11-25T13:46:44+00:00,2026-11-24,VISN,"Vistance Networks, Inc.",Bowen Krista R.,"SVP, GC & Chief Admin Officer",25000,3.94,98445,6.1,0001193125-26-476906
 2026-11-25T13:46:46+00:00,2026-11-24,BORR,Borr Drilling Ltd,Troim Tor Olav,Director,1000000,3.94,3937300,2.0,0001628280-26-075874
+2026-11-25T13:56:31+00:00,2026-11-23,BFS,"SAUL CENTERS, INC.",Pearson David Todd,"Director, President & COO",3716,26.84,99718,4.7,0001804456-26-000004
