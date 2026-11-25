@@ -264,3 +264,4 @@ timestamp,symbol,name,code,reason,halted,resumes,market,alerted
 2026-11-25T15:36:38+00:00,AMBO,Ambow Education Holding Ltd. American Depository Shares (eac,M,"Volatility pause, single stock (NYSE or other exchange listed)",10:33:55.663 11/25/2026,,AMEX,no
 2026-11-25T15:56:35+00:00,LRNX,Corgi LRN 2x Daily ETF,M,"Volatility pause, single stock (NYSE or other exchange listed)",10:52:39.066 11/25/2026,,Non NASDAQ,no
 2026-11-25T15:56:35+00:00,MNGB,Yorkville America 2X Inverse MANGOS Plus Daily Target ETF,M,"Volatility pause, single stock (NYSE or other exchange listed)",10:51:45.273 11/25/2026,,NYSE Arca,no
+2026-11-25T17:41:43+00:00,JOBC,Corgi JOBY 2x Daily ETF,M,"Volatility pause, single stock (NYSE or other exchange listed)",12:36:08.863 11/25/2026,12:41 ET 25 Nov (01:41 SGT 26 Nov),Non NASDAQ,no
