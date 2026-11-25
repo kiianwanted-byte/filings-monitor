@@ -8544,3 +8544,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-25T14:46:32+00:00,FORM_144,ITRI,"ITRON, INC.",proposed sale $28K,27721,,https://www.sec.gov/Archives/edgar/data/1571605/000195917326008298/0001959173-26-008298-index.htm,LOW
 2026-11-25T14:51:48+00:00,STAKE_13G,,Maris Tech Ltd.,Maris Tech Ltd. (not on watchlist),,,https://www.sec.gov/Archives/edgar/data/1872964/000101943226000017/0001019432-26-000017-index.htm,LOW
 2026-11-25T15:01:51+00:00,FORM_144,ZD,"ZIFF DAVIS, INC.",proposed sale $131K,131493,,https://www.sec.gov/Archives/edgar/data/1491021/000195917326008300/0001959173-26-008300-index.htm,LOW
+2026-11-25T15:06:45+00:00,FORM_144,VVV,VALVOLINE INC,proposed sale $100K,100442,,https://www.sec.gov/Archives/edgar/data/1809539/000195917326008301/0001959173-26-008301-index.htm,LOW
