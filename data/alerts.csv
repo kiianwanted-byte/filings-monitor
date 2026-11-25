@@ -8672,3 +8672,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-25T21:46:43+00:00,STAKE_13D,,Feng Luo,filer not parsed (not on watchlist),,,https://www.sec.gov/Archives/edgar/data/2130602/000182912626012888/0001829126-26-012888-index.htm,LOW
 2026-11-25T21:51:49+00:00,INSIDER_BUY,NANO,"Forge Nano Holdings, Inc.",Smith Shane $251K,250647,2,https://www.sec.gov/Archives/edgar/data/2101833/000095014226003161/0000950142-26-003161-index.htm,MEDIUM
 2026-11-25T21:57:02+00:00,FORM_144,ROOT,"Root, Inc.",proposed sale $293K,292537,,https://www.sec.gov/Archives/edgar/data/1815994/000195917326008340/0001959173-26-008340-index.htm,LOW
+2026-11-25T22:01:53+00:00,FORM_144,ADPT,Adaptive Biotechnologies Corporation,proposed sale $6.82M,6817131,,https://www.sec.gov/Archives/edgar/data/1780649/000195824426000748/0001958244-26-000748-index.htm,LOW
+2026-11-25T22:01:54+00:00,FORM_144,ALRM,"ALARM.COM HOLDINGS, INC.",proposed sale $556K,556500,,https://www.sec.gov/Archives/edgar/data/1642533/000195004726011551/0001950047-26-011551-index.htm,LOW
