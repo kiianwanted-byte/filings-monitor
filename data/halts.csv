@@ -272,3 +272,4 @@ timestamp,symbol,name,code,reason,halted,resumes,market,alerted
 2026-11-25T18:46:43+00:00,IONC,Corgi IONQ 2x Daily ETF,M,"Volatility pause, single stock (NYSE or other exchange listed)",13:45:27.776 11/25/2026,,Non NASDAQ,no
 2026-11-25T18:51:39+00:00,LASC,Corgi LASR 2x Daily ETF,M,"Volatility pause, single stock (NYSE or other exchange listed)",13:47:01.683 11/25/2026,,Non NASDAQ,no
 2026-11-25T19:01:43+00:00,MINE,Mayfair Gold Corp.,T1,News pending,13:53:22.733 11/25/2026,,AMEX,yes
+2026-11-25T19:06:37+00:00,MSTC,Corgi MSTR 2x Daily ETF,M,"Volatility pause, single stock (NYSE or other exchange listed)",14:02:59.056 11/25/2026,,Non NASDAQ,no
