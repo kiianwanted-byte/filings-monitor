@@ -8666,3 +8666,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-25T21:36:52+00:00,STAKE_13D,,"Vesicor Therapeutics Holdings, Inc.","Vesicor Therapeutics Holdings, Inc. (not on watchlist)",,,https://www.sec.gov/Archives/edgar/data/2000775/000182912626012884/0001829126-26-012884-index.htm,LOW
 2026-11-25T21:41:58+00:00,FORM_144,BALL,BALL Corp,proposed sale $417K,417000,,https://www.sec.gov/Archives/edgar/data/1948384/000197407826000429/0001974078-26-000429-index.htm,LOW
 2026-11-25T21:41:58+00:00,STAKE_13D,,"Vesicor Therapeutics Holdings, Inc.","Vesicor Therapeutics Holdings, Inc. (not on watchlist)",,,https://www.sec.gov/Archives/edgar/data/2000775/000182912626012887/0001829126-26-012887-index.htm,LOW
+2026-11-25T21:46:36+00:00,INSIDER_BUY,COHR,COHERENT CORP.,PAGLIUCA STEPHEN G $34.65M,34652890,2,https://www.sec.gov/Archives/edgar/data/1240386/000089914026001413/0000899140-26-001413-index.htm,HIGH
+2026-11-25T21:46:42+00:00,FORM_144,NMIH,"NMI HOLDINGS, INC.",proposed sale $2.55M,2553010,,https://www.sec.gov/Archives/edgar/data/1547903/000195004726011550/0001950047-26-011550-index.htm,LOW
+2026-11-25T21:46:42+00:00,FORM_144,NXST,"NEXSTAR MEDIA GROUP, INC.",proposed sale $491K,491220,,https://www.sec.gov/Archives/edgar/data/1715344/000195917326008339/0001959173-26-008339-index.htm,LOW
+2026-11-25T21:46:43+00:00,STAKE_13D,,Feng Luo,filer not parsed (not on watchlist),,,https://www.sec.gov/Archives/edgar/data/2130602/000182912626012888/0001829126-26-012888-index.htm,LOW
