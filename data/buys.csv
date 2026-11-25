@@ -3148,3 +3148,6 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-11-25T12:31:46+00:00,2006-11-25,SHMD,SCHMID Group N.V.,Schuetz Arthur Josef Hermann,CFO Schmid Group N.V.,60000,1731429.00,103885740000,142.5,0002125667-26-000005
 2026-11-25T12:51:42+00:00,2026-11-24,SCOR,"COMSCORE, INC.",McLaughlin Matthew F.,"Director, Chief Executive Officer",25907,3.43,88861,20.9,0001853874-26-000020
 2026-11-25T13:16:52+00:00,2026-11-23,DX,DYNEX CAPITAL INC,Popenoe Smriti Laxman,"Director, Co-CEO and President",5167,9.74,50326,1.0,0000826675-26-000134
+2026-11-25T13:21:37+00:00,2026-11-23,VIVO,VivoPower PLC,Chin Kevin,"Director, Chairman & CEO, 10% owner",264693,1.76,465859,7.9,0001493152-26-054124
+2026-11-25T13:21:37+00:00,2026-11-24,TMC,TMC the metals Co Inc.,Karkar Andrei,"Director, 10% owner",500000,1.61,805000,0.8,0001104659-26-131894
+2026-11-25T13:21:38+00:00,2026-11-24,ICU,SeaStar Medical Holding Corp,Schlorff Eric,"Director, Chief Executive Officer",2000,0.95,1900,4.0,0001437749-26-038239
