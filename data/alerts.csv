@@ -8664,3 +8664,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-25T21:31:48+00:00,FORM_144,CLDX,"CELLDEX THERAPEUTICS, INC.",proposed sale $904K,903593,,https://www.sec.gov/Archives/edgar/data/1838114/000195004726011546/0001950047-26-011546-index.htm,LOW
 2026-11-25T21:36:52+00:00,FORM_144,EHC,Encompass Health Corporation,proposed sale $305K,305477,,https://www.sec.gov/Archives/edgar/data/2065822/000196922326001219/0001969223-26-001219-index.htm,LOW
 2026-11-25T21:36:52+00:00,STAKE_13D,,"Vesicor Therapeutics Holdings, Inc.","Vesicor Therapeutics Holdings, Inc. (not on watchlist)",,,https://www.sec.gov/Archives/edgar/data/2000775/000182912626012884/0001829126-26-012884-index.htm,LOW
+2026-11-25T21:41:58+00:00,FORM_144,BALL,BALL Corp,proposed sale $417K,417000,,https://www.sec.gov/Archives/edgar/data/1948384/000197407826000429/0001974078-26-000429-index.htm,LOW
+2026-11-25T21:41:58+00:00,STAKE_13D,,"Vesicor Therapeutics Holdings, Inc.","Vesicor Therapeutics Holdings, Inc. (not on watchlist)",,,https://www.sec.gov/Archives/edgar/data/2000775/000182912626012887/0001829126-26-012887-index.htm,LOW
