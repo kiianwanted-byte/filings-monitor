@@ -8596,3 +8596,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-25T20:26:43+00:00,FORM_144,VRTX,VERTEX PHARMACEUTICALS INC / MA,proposed sale $4.01M,4008036,,https://www.sec.gov/Archives/edgar/data/1847529/000195917326008327/0001959173-26-008327-index.htm,LOW
 2026-11-25T20:31:43+00:00,INSIDER_CLUSTER,BPRE,Bluerock Private Real Estate Fund,MacDonald Ryan S $109K,109056,1,https://www.sec.gov/Archives/edgar/data/1722524/000139834426020608/0001398344-26-020608-index.htm,HIGH
 2026-11-25T20:31:45+00:00,FORM_144,FLYW,Flywire Corp,proposed sale $183K,182980,,https://www.sec.gov/Archives/edgar/data/2116833/000195917326008329/0001959173-26-008329-index.htm,LOW
+2026-11-25T20:36:44+00:00,FORM_144,ORLY,O REILLY AUTOMOTIVE INC,proposed sale $774K,774158,,https://www.sec.gov/Archives/edgar/data/2029122/000195917326008330/0001959173-26-008330-index.htm,LOW
