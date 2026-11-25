@@ -261,3 +261,4 @@ timestamp,symbol,name,code,reason,halted,resumes,market,alerted
 2026-11-25T14:36:31+00:00,LRCC,Corgi LRCX 2x Daily ETF,M,"Volatility pause, single stock (NYSE or other exchange listed)",09:35:19.756 11/25/2026,,Non NASDAQ,no
 2026-11-25T14:41:33+00:00,CRD.B,Crawford & Company Common Stock,M,"Volatility pause, single stock (NYSE or other exchange listed)",09:39:12.826 11/25/2026,,NYSE,no
 2026-11-25T14:41:33+00:00,XX,"Roundhill S&P 500 Target 10,000 2030 ETF",M,"Volatility pause, single stock (NYSE or other exchange listed)",09:36:38.710 11/25/2026,,Non NASDAQ,no
+2026-11-25T15:36:38+00:00,AMBO,Ambow Education Holding Ltd. American Depository Shares (eac,M,"Volatility pause, single stock (NYSE or other exchange listed)",10:33:55.663 11/25/2026,,AMEX,no
