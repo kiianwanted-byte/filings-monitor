@@ -8589,3 +8589,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-25T20:06:37+00:00,FORM_144,NEGG,"Newegg Commerce, Inc.",proposed sale $571K,570874,,https://www.sec.gov/Archives/edgar/data/2114022/000149315226054194/0001493152-26-054194-index.htm,LOW
 2026-11-25T20:11:54+00:00,FORM_144,STT,STATE STREET CORP,proposed sale $57K,56629,,https://www.sec.gov/Archives/edgar/data/1807269/000195917326008324/0001959173-26-008324-index.htm,LOW
 2026-11-25T20:11:54+00:00,FORM_144,MDLN,Medline Inc,proposed sale $19.26M,19261027,,https://www.sec.gov/Archives/edgar/data/2060964/000162828026075940/0001628280-26-075940-index.htm,LOW
+2026-11-25T20:16:57+00:00,FORM_144,FLD,"Fold Holdings, Inc.",proposed sale $3K,2566,,https://www.sec.gov/Archives/edgar/data/2057455/000195917326008325/0001959173-26-008325-index.htm,LOW
