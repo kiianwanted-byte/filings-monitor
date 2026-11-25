@@ -8681,3 +8681,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-25T22:16:38+00:00,FORM_144,JHX,James Hardie Industries plc,proposed sale $865K,864900,,https://www.sec.gov/Archives/edgar/data/1594032/000195824426000749/0001958244-26-000749-index.htm,LOW
 2026-11-25T22:21:39+00:00,INSIDER_CLUSTER,SCM,Stellus Capital Investment Corp,Bilger Bruce R $200K,199831,2,https://www.sec.gov/Archives/edgar/data/1561707/000110465926132174/0001104659-26-132174-index.htm,HIGH
 2026-11-25T22:21:42+00:00,STAKE_13D,,"Clywedog Therapeutics Holdings, Inc.","Clywedog Therapeutics Holdings, Inc. (not on watchlist)",,,https://www.sec.gov/Archives/edgar/data/2094256/000094787126001052/0000947871-26-001052-index.htm,LOW
+2026-11-25T22:26:51+00:00,FORM_144,KYMR,"Kymera Therapeutics, Inc.",proposed sale $4.06M,4057727,,https://www.sec.gov/Archives/edgar/data/1815442/000117893726000048/0001178937-26-000048-index.htm,LOW
+2026-11-25T22:26:51+00:00,FORM_144,KYMR,"Kymera Therapeutics, Inc.",proposed sale $20.71M,20706567,,https://www.sec.gov/Archives/edgar/data/1815442/000117893726000047/0001178937-26-000047-index.htm,LOW
+2026-11-25T22:26:52+00:00,STAKE_13D,,Greenland Energy Co,filer not parsed (not on watchlist),,,https://www.sec.gov/Archives/edgar/data/2093507/000182912626012896/0001829126-26-012896-index.htm,LOW
