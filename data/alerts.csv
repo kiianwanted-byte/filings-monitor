@@ -8570,3 +8570,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-25T17:31:44+00:00,FORM_144,JCAP,"Jefferson Capital, Inc. / DE",proposed sale $1.03M,1031498,,https://www.sec.gov/Archives/edgar/data/2071943/000195917326008313/0001959173-26-008313-index.htm,LOW
 2026-11-25T17:46:52+00:00,FORM_144,HUBS,HUBSPOT INC,proposed sale $4.94M,4936859,,https://www.sec.gov/Archives/edgar/data/1753409/000195917326008314/0001959173-26-008314-index.htm,LOW
 2026-11-25T17:56:46+00:00,FORM_144,HAYW,"Hayward Holdings, Inc.",proposed sale $33K,33440,,https://www.sec.gov/Archives/edgar/data/1834622/000195917326008315/0001959173-26-008315-index.htm,LOW
+2026-11-25T18:16:50+00:00,FORM_144,WM,WASTE MANAGEMENT INC,proposed sale $621K,620757,,https://www.sec.gov/Archives/edgar/data/1997789/000195917326008316/0001959173-26-008316-index.htm,LOW
