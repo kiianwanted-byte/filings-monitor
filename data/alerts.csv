@@ -8679,3 +8679,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-25T22:11:46+00:00,FORM_144,KYMR,"KYMERA THERAPEUTICS, INC.",proposed sale $15.16M,15155316,,https://www.sec.gov/Archives/edgar/data/1815442/000195004726011554/0001950047-26-011554-index.htm,LOW
 2026-11-25T22:11:46+00:00,FORM_144,RL,Ralph Lauren Corporation,proposed sale $3.18M,3179120,,https://www.sec.gov/Archives/edgar/data/1052896/000196858226001180/0001968582-26-001180-index.htm,LOW
 2026-11-25T22:16:38+00:00,FORM_144,JHX,James Hardie Industries plc,proposed sale $865K,864900,,https://www.sec.gov/Archives/edgar/data/1594032/000195824426000749/0001958244-26-000749-index.htm,LOW
+2026-11-25T22:21:39+00:00,INSIDER_CLUSTER,SCM,Stellus Capital Investment Corp,Bilger Bruce R $200K,199831,2,https://www.sec.gov/Archives/edgar/data/1561707/000110465926132174/0001104659-26-132174-index.htm,HIGH
+2026-11-25T22:21:42+00:00,STAKE_13D,,"Clywedog Therapeutics Holdings, Inc.","Clywedog Therapeutics Holdings, Inc. (not on watchlist)",,,https://www.sec.gov/Archives/edgar/data/2094256/000094787126001052/0000947871-26-001052-index.htm,LOW
