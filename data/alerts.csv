@@ -8571,3 +8571,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-25T17:46:52+00:00,FORM_144,HUBS,HUBSPOT INC,proposed sale $4.94M,4936859,,https://www.sec.gov/Archives/edgar/data/1753409/000195917326008314/0001959173-26-008314-index.htm,LOW
 2026-11-25T17:56:46+00:00,FORM_144,HAYW,"Hayward Holdings, Inc.",proposed sale $33K,33440,,https://www.sec.gov/Archives/edgar/data/1834622/000195917326008315/0001959173-26-008315-index.htm,LOW
 2026-11-25T18:16:50+00:00,FORM_144,WM,WASTE MANAGEMENT INC,proposed sale $621K,620757,,https://www.sec.gov/Archives/edgar/data/1997789/000195917326008316/0001959173-26-008316-index.htm,LOW
+2026-11-25T18:23:41+00:00,FORM_144,BJ,BJ's Wholesale Club Holdings Inc,proposed sale $1.04M,1043600,,https://www.sec.gov/Archives/edgar/data/1743889/000162828026075918/0001628280-26-075918-index.htm,LOW
+2026-11-25T18:23:41+00:00,STAKE_13G,,ADA KAYA,filer not parsed (not on watchlist),,,https://www.sec.gov/Archives/edgar/data/2167105/000216710526000001/0002167105-26-000001-index.htm,LOW
