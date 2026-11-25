@@ -266,3 +266,4 @@ timestamp,symbol,name,code,reason,halted,resumes,market,alerted
 2026-11-25T15:56:35+00:00,MNGB,Yorkville America 2X Inverse MANGOS Plus Daily Target ETF,M,"Volatility pause, single stock (NYSE or other exchange listed)",10:51:45.273 11/25/2026,,NYSE Arca,no
 2026-11-25T17:41:43+00:00,JOBC,Corgi JOBY 2x Daily ETF,M,"Volatility pause, single stock (NYSE or other exchange listed)",12:36:08.863 11/25/2026,12:41 ET 25 Nov (01:41 SGT 26 Nov),Non NASDAQ,no
 2026-11-25T17:56:43+00:00,ACHX,Corgi ACHR 2x Daily ETF,M,"Volatility pause, single stock (NYSE or other exchange listed)",12:54:37.853 11/25/2026,,Non NASDAQ,no
+2026-11-25T18:11:34+00:00,PW,Power REIT (MD) Common Stock,M,"Volatility pause, single stock (NYSE or other exchange listed)",13:09:09.950 11/25/2026,,AMEX,no
