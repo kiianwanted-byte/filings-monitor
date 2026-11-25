@@ -8580,3 +8580,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-25T19:16:32+00:00,FORM_144,TYL,TYLER TECHNOLOGIES INC,proposed sale $1.13M,1125066,,https://www.sec.gov/Archives/edgar/data/1086072/000195917326008318/0001959173-26-008318-index.htm,LOW
 2026-11-25T19:21:49+00:00,FORM_144,REPX,"Riley Exploration Permian, Inc.",proposed sale $993K,993422,,https://www.sec.gov/Archives/edgar/data/1756030/000194984626000684/0001949846-26-000684-index.htm,LOW
 2026-11-25T19:26:46+00:00,FORM_144,PEBK,PEOPLES BANCORP OF NORTH CAROLINA INC,proposed sale $41K,40588,,https://www.sec.gov/Archives/edgar/data/2052002/000195779926000211/0001957799-26-000211-index.htm,LOW
+2026-11-25T19:36:49+00:00,FORM_144,ETR,ENTERGY CORP /DE/,proposed sale $500K,499536,,https://www.sec.gov/Archives/edgar/data/2096036/000195917326008320/0001959173-26-008320-index.htm,LOW
+2026-11-25T19:36:50+00:00,FORM_144,RYZ,Ryerson Holding Corp,proposed sale $50K,49841,,https://www.sec.gov/Archives/edgar/data/1682850/000195917326008319/0001959173-26-008319-index.htm,LOW
