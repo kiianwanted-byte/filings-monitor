@@ -8559,3 +8559,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-25T16:01:46+00:00,FORM_144,ADMA,"ADMA BIOLOGICS, INC.",proposed sale $405K,405000,,https://www.sec.gov/Archives/edgar/data/2017423/000114036126045629/0001140361-26-045629-index.htm,LOW
 2026-11-25T16:16:57+00:00,INSIDER_BUY,GOLD,"Gold.com, Inc.","Tether Global Investments Fund, S.I.C.A.F., S.A. $5.75M",5745855,2,https://www.sec.gov/Archives/edgar/data/2130094/000110465926131976/0001104659-26-131976-index.htm,MEDIUM
 2026-11-25T16:16:59+00:00,STAKE_13G,,Getz Linda Mary,filer not parsed (not on watchlist),,,https://www.sec.gov/Archives/edgar/data/2166096/000216609626000002/0002166096-26-000002-index.htm,LOW
+2026-11-25T16:26:35+00:00,INSIDER_BUY,MED,MEDIFAST INC,Kiai Parsa $255K,255224,2,https://www.sec.gov/Archives/edgar/data/1766850/000121390026124035/0001213900-26-124035-index.htm,MEDIUM
+2026-11-25T16:26:36+00:00,FORM_144,AU,AngloGold Ashanti PLC,proposed sale $540K,539671,,https://www.sec.gov/Archives/edgar/data/2044892/000195917326008310/0001959173-26-008310-index.htm,LOW
