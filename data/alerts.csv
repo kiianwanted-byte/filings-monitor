@@ -8645,3 +8645,12 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-25T21:17:15+00:00,FORM_144,CHYM,"CHIME FINANCIAL, INC.",proposed sale $1.64M,1641035,,https://www.sec.gov/Archives/edgar/data/1795586/000195004726011527/0001950047-26-011527-index.htm,LOW
 2026-11-25T21:17:16+00:00,FORM_144,PINS,"PINTEREST, INC.",proposed sale $851K,850618,,https://www.sec.gov/Archives/edgar/data/1773914/000192109426001251/0001921094-26-001251-index.htm,LOW
 2026-11-25T21:17:16+00:00,STAKE_13G,,Rice Acquisition Corp 3,Rice Acquisition Corp 3 (not on watchlist),,,https://www.sec.gov/Archives/edgar/data/2074872/000176739326000024/0001767393-26-000024-index.htm,LOW
+2026-11-25T21:21:51+00:00,FORM_144,EDIT,"Editas Medicine, Inc.",proposed sale $1K,1320,,https://www.sec.gov/Archives/edgar/data/1985604/000165066426000109/0001650664-26-000109-index.htm,LOW
+2026-11-25T21:21:51+00:00,FORM_144,ZG,"ZILLOW GROUP, INC.",proposed sale $61K,60560,,https://www.sec.gov/Archives/edgar/data/2155008/000192109426001257/0001921094-26-001257-index.htm,LOW
+2026-11-25T21:21:51+00:00,FORM_144,U,Unity Software Inc.,proposed sale $2.11M,2106387,,https://www.sec.gov/Archives/edgar/data/1810806/000192109426001256/0001921094-26-001256-index.htm,LOW
+2026-11-25T21:21:52+00:00,FORM_144,EDIT,"Editas Medicine, Inc.",proposed sale $10K,9900,,https://www.sec.gov/Archives/edgar/data/1742084/000165066426000108/0001650664-26-000108-index.htm,LOW
+2026-11-25T21:21:52+00:00,FORM_144,SEPN,"Septerna, Inc.",proposed sale $1.29M,1286442,,https://www.sec.gov/Archives/edgar/data/2040363/000195004726011542/0001950047-26-011542-index.htm,LOW
+2026-11-25T21:21:53+00:00,FORM_144,RKLB,ROCKET LAB CORPORATION,proposed sale $1.69M,1694822,,https://www.sec.gov/Archives/edgar/data/2037530/000195004726011541/0001950047-26-011541-index.htm,LOW
+2026-11-25T21:21:53+00:00,FORM_144,U,Unity Software Inc.,proposed sale $2.75M,2752328,,https://www.sec.gov/Archives/edgar/data/1810806/000192109426001255/0001921094-26-001255-index.htm,LOW
+2026-11-25T21:21:54+00:00,FORM_144,SEPN,"Septerna, Inc.",proposed sale $256K,256450,,https://www.sec.gov/Archives/edgar/data/1984086/000195004726011540/0001950047-26-011540-index.htm,LOW
+2026-11-25T21:21:54+00:00,FORM_144,LYFT,LYFT INC,proposed sale $87K,86962,,https://www.sec.gov/Archives/edgar/data/1973495/000195004726011539/0001950047-26-011539-index.htm,LOW
