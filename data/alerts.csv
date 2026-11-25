@@ -8654,3 +8654,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-25T21:21:53+00:00,FORM_144,U,Unity Software Inc.,proposed sale $2.75M,2752328,,https://www.sec.gov/Archives/edgar/data/1810806/000192109426001255/0001921094-26-001255-index.htm,LOW
 2026-11-25T21:21:54+00:00,FORM_144,SEPN,"Septerna, Inc.",proposed sale $256K,256450,,https://www.sec.gov/Archives/edgar/data/1984086/000195004726011540/0001950047-26-011540-index.htm,LOW
 2026-11-25T21:21:54+00:00,FORM_144,LYFT,LYFT INC,proposed sale $87K,86962,,https://www.sec.gov/Archives/edgar/data/1973495/000195004726011539/0001950047-26-011539-index.htm,LOW
+2026-11-25T21:27:17+00:00,FORM_144,BIO,"BIO-RAD LABORATORIES, INC.",proposed sale $242K,241554,,https://www.sec.gov/Archives/edgar/data/2024911/000195004726011545/0001950047-26-011545-index.htm,LOW
+2026-11-25T21:27:18+00:00,FORM_144,TRUP,"TRUPANION, INC.",proposed sale $275K,275053,,https://www.sec.gov/Archives/edgar/data/1968590/000195004726011544/0001950047-26-011544-index.htm,LOW
+2026-11-25T21:27:18+00:00,FORM_144,GDYN,"GRID DYNAMICS HOLDINGS, INC.",proposed sale $14K,13880,,https://www.sec.gov/Archives/edgar/data/1743725/000195004726011543/0001950047-26-011543-index.htm,LOW
