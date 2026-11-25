@@ -276,3 +276,4 @@ timestamp,symbol,name,code,reason,halted,resumes,market,alerted
 2026-11-25T19:11:46+00:00,MSST,YieldMax MSTR Performance & Distribution Target 25 ETF,M,"Volatility pause, single stock (NYSE or other exchange listed)",14:09:51.660 11/25/2026,,Non NASDAQ,no
 2026-11-25T19:16:32+00:00,TOPP,Toppoint Holdings Inc. Common Stock,M,"Volatility pause, single stock (NYSE or other exchange listed)",14:13:26.536 11/25/2026,,AMEX,no
 2026-11-25T19:36:31+00:00,ENTL,Leverage Shares 2X Long ENTG Daily ETF,M,"Volatility pause, single stock (NYSE or other exchange listed)",14:32:12.203 11/25/2026,,Non NASDAQ,no
+2026-11-25T19:51:39+00:00,MINE,Mayfair Gold Corp.,T3,News and resumption times,13:53:22.733 11/25/2026,14:30 ET 25 Nov (03:30 SGT 26 Nov),AMEX,no
