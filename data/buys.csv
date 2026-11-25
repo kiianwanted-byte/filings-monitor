@@ -3229,3 +3229,5 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-11-25T22:46:41+00:00,2026-11-23,HBCP,"HOME BANCORP, INC.",RADER CHRIS P,Director,500,61.25,30625,2.7,0001436425-26-000080
 2026-11-25T22:56:35+00:00,2026-11-24,ECF,ELLSWORTH GROWTH & INCOME FUND LTD,"Saba Capital Management, L.P.",10% owner,7036,9.98,70219,0.4,0001510281-26-000479
 2026-11-25T23:16:40+00:00,2026-11-24,GRX,Gabelli Healthcare & WellnessRx Trust,"Saba Capital Management, L.P.",10% owner,5289,10.24,54159,0.2,0001510281-26-000480
+2026-11-25T23:21:31+00:00,2026-11-25,TEAM,Atlassian Corp,Cannon-Brookes Michael,"Director, CEO, Co-Founder, 10% owner",13400,138.85,1860561,3.3,0001666120-26-000043
+2026-11-25T23:21:33+00:00,2026-11-23,XBP,"XBP Global Holdings, Inc.",Jonovic Andrej,"Director, Chief Executive Officer",4000,2.27,9083,1.6,0001104659-26-132189
