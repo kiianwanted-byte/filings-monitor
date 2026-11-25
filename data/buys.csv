@@ -3153,3 +3153,5 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-11-25T13:21:38+00:00,2026-11-24,ICU,SeaStar Medical Holding Corp,Schlorff Eric,"Director, Chief Executive Officer",2000,0.95,1900,4.0,0001437749-26-038239
 2026-11-25T13:31:33+00:00,2026-11-24-05:00,VNRX,VOLITIONRX LTD,Reynolds Cameron John,"Director, President and CEO",20000,0.17,3406,10.8,0001477932-26-007296
 2026-11-25T13:31:33+00:00,2026-11-24,KDK,"Kodiak AI, Inc.",Burnette Donald L.,"Director, Chief Executive Officer, 10% owner",2000000,1.11,2213400,7.4,0002080471-26-000003
+2026-11-25T13:46:44+00:00,2026-11-24,VISN,"Vistance Networks, Inc.",Bowen Krista R.,"SVP, GC & Chief Admin Officer",25000,3.94,98445,6.1,0001193125-26-476906
+2026-11-25T13:46:46+00:00,2026-11-24,BORR,Borr Drilling Ltd,Troim Tor Olav,Director,1000000,3.94,3937300,2.0,0001628280-26-075874

@@ -8534,3 +8534,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-25T12:01:39+00:00,INSIDER_CLUSTER,VANI,"Vivani Medical, Inc.",Williams Gregg $160K,160079,1,https://www.sec.gov/Archives/edgar/data/1624919/000175392626002250/0001753926-26-002250-index.htm,HIGH
 2026-11-25T12:31:46+00:00,INSIDER_CLUSTER,SHMD,SCHMID Group N.V.,Schuetz Arthur Josef Hermann $103.89B,103885740000,7305,https://www.sec.gov/Archives/edgar/data/2125667/000212566726000005/0002125667-26-000005-index.htm,HIGH
 2026-11-25T12:31:47+00:00,FORM_144,ZIM,ZIM Integrated Shipping Services Ltd.,proposed sale $2.01M,2011968,,https://www.sec.gov/Archives/edgar/data/1966890/000197640826000969/0001976408-26-000969-index.htm,LOW
+2026-11-25T13:46:44+00:00,INSIDER_CLUSTER,VISN,"Vistance Networks, Inc.",Bowen Krista R. $98K,98445,1,https://www.sec.gov/Archives/edgar/data/2069001/000119312526476906/0001193125-26-476906-index.htm,HIGH
