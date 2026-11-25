@@ -8549,3 +8549,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-25T15:16:49+00:00,FORM_144,KEYS,"Keysight Technologies, Inc.",proposed sale $3.85M,3854872,,https://www.sec.gov/Archives/edgar/data/1712648/000195917326008304/0001959173-26-008304-index.htm,LOW
 2026-11-25T15:16:50+00:00,FORM_144,ANET,"Arista Networks, Inc.",proposed sale $2.18M,2182626,,https://www.sec.gov/Archives/edgar/data/1605809/000195917326008303/0001959173-26-008303-index.htm,LOW
 2026-11-25T15:16:50+00:00,FORM_144,EXLS,"ExlService Holdings, Inc.",proposed sale $597K,597457,,https://www.sec.gov/Archives/edgar/data/1373631/000195917326008302/0001959173-26-008302-index.htm,LOW
+2026-11-25T15:21:54+00:00,FORM_144,DGX,QUEST DIAGNOSTICS INC,proposed sale $265K,265150,,https://www.sec.gov/Archives/edgar/data/1955217/000195917326008306/0001959173-26-008306-index.htm,LOW
+2026-11-25T15:21:54+00:00,FORM_144,AJG,Arthur J. Gallagher & Co.,proposed sale $5.11M,5112700,,https://www.sec.gov/Archives/edgar/data/1410235/000195917326008305/0001959173-26-008305-index.htm,LOW
