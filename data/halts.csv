@@ -258,3 +258,4 @@ timestamp,symbol,name,code,reason,halted,resumes,market,alerted
 2026-11-25T14:01:32+00:00,RMTX,"Remix Therapeutics, Inc.",T3,News and resumption times,19:50:00.000 11/24/2026,09:00 ET 25 Nov (22:00 SGT),NASDAQ,no
 2026-11-25T14:31:33+00:00,GALX,VistaShares Space Supercycle ETF,M,"Volatility pause, single stock (NYSE or other exchange listed)",09:30:35.126 11/25/2026,,NYSE Arca,no
 2026-11-25T14:31:33+00:00,AGOX,Adaptive Alpha Opportunities ETF,M,"Volatility pause, single stock (NYSE or other exchange listed)",09:30:24.690 11/25/2026,,NYSE Arca,no
+2026-11-25T14:36:31+00:00,LRCC,Corgi LRCX 2x Daily ETF,M,"Volatility pause, single stock (NYSE or other exchange listed)",09:35:19.756 11/25/2026,,Non NASDAQ,no
