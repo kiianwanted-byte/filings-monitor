@@ -8590,3 +8590,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-25T20:11:54+00:00,FORM_144,STT,STATE STREET CORP,proposed sale $57K,56629,,https://www.sec.gov/Archives/edgar/data/1807269/000195917326008324/0001959173-26-008324-index.htm,LOW
 2026-11-25T20:11:54+00:00,FORM_144,MDLN,Medline Inc,proposed sale $19.26M,19261027,,https://www.sec.gov/Archives/edgar/data/2060964/000162828026075940/0001628280-26-075940-index.htm,LOW
 2026-11-25T20:16:57+00:00,FORM_144,FLD,"Fold Holdings, Inc.",proposed sale $3K,2566,,https://www.sec.gov/Archives/edgar/data/2057455/000195917326008325/0001959173-26-008325-index.htm,LOW
+2026-11-25T20:21:49+00:00,FORM_144,UVE,"UNIVERSAL INSURANCE HOLDINGS, INC.",proposed sale $970K,970000,,https://www.sec.gov/Archives/edgar/data/1287040/000197407826000428/0001974078-26-000428-index.htm,LOW
+2026-11-25T20:21:49+00:00,FORM_144,MGM,MGM Resorts International,proposed sale $696K,695721,,https://www.sec.gov/Archives/edgar/data/1440053/000195917326008326/0001959173-26-008326-index.htm,LOW
