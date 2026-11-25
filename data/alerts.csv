@@ -8678,3 +8678,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-25T22:11:43+00:00,INSIDER_CLUSTER,BSM,"Black Stone Minerals, L.P.",DeWalch D Mark $295K,295259,1,https://www.sec.gov/Archives/edgar/data/1638259/000163825926000017/0001638259-26-000017-index.htm,HIGH
 2026-11-25T22:11:46+00:00,FORM_144,KYMR,"KYMERA THERAPEUTICS, INC.",proposed sale $15.16M,15155316,,https://www.sec.gov/Archives/edgar/data/1815442/000195004726011554/0001950047-26-011554-index.htm,LOW
 2026-11-25T22:11:46+00:00,FORM_144,RL,Ralph Lauren Corporation,proposed sale $3.18M,3179120,,https://www.sec.gov/Archives/edgar/data/1052896/000196858226001180/0001968582-26-001180-index.htm,LOW
+2026-11-25T22:16:38+00:00,FORM_144,JHX,James Hardie Industries plc,proposed sale $865K,864900,,https://www.sec.gov/Archives/edgar/data/1594032/000195824426000749/0001958244-26-000749-index.htm,LOW
