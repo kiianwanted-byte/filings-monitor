@@ -8684,3 +8684,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-25T22:26:51+00:00,FORM_144,KYMR,"Kymera Therapeutics, Inc.",proposed sale $4.06M,4057727,,https://www.sec.gov/Archives/edgar/data/1815442/000117893726000048/0001178937-26-000048-index.htm,LOW
 2026-11-25T22:26:51+00:00,FORM_144,KYMR,"Kymera Therapeutics, Inc.",proposed sale $20.71M,20706567,,https://www.sec.gov/Archives/edgar/data/1815442/000117893726000047/0001178937-26-000047-index.htm,LOW
 2026-11-25T22:26:52+00:00,STAKE_13D,,Greenland Energy Co,filer not parsed (not on watchlist),,,https://www.sec.gov/Archives/edgar/data/2093507/000182912626012896/0001829126-26-012896-index.htm,LOW
+2026-11-25T22:31:42+00:00,FORM_144,PAYC,"Paycom Software, Inc.",proposed sale $352K,351556,,https://www.sec.gov/Archives/edgar/data/2082976/000119312526478704/0001193125-26-478704-index.htm,LOW
