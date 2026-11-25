@@ -8540,3 +8540,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-25T14:16:46+00:00,FORM_144,EXTR,EXTREME NETWORKS INC,proposed sale $614K,614459,,https://www.sec.gov/Archives/edgar/data/1628567/000194984626000680/0001949846-26-000680-index.htm,LOW
 2026-11-25T14:21:45+00:00,INSIDER_CLUSTER,PRE,Prenetics Global Ltd,Lo Hoi Chun $127K,127140,2,https://www.sec.gov/Archives/edgar/data/2117963/000162828026075888/0001628280-26-075888-index.htm,HIGH
 2026-11-25T14:36:42+00:00,FORM_144,SPOK,"Spok Holdings, Inc",proposed sale $220K,220000,,https://www.sec.gov/Archives/edgar/data/1289945/000194984626000681/0001949846-26-000681-index.htm,LOW
+2026-11-25T14:46:31+00:00,FORM_144,MLI,MUELLER INDUSTRIES INC,proposed sale $103K,103020,,https://www.sec.gov/Archives/edgar/data/1422094/000195917326008299/0001959173-26-008299-index.htm,LOW
+2026-11-25T14:46:32+00:00,FORM_144,ITRI,"ITRON, INC.",proposed sale $28K,27721,,https://www.sec.gov/Archives/edgar/data/1571605/000195917326008298/0001959173-26-008298-index.htm,LOW
