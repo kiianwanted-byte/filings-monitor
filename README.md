@@ -26,7 +26,7 @@ It is an awareness and research queue, not a trading signal. The aim is to know 
 ```
 Apps Script "Filings monitor"                GitHub Actions (this repo)
   Kick.gs    every 5 min  ── dispatch ──►    monitor.yml, halts.yml, congress.yml,
-  Status.gs  daily + pinned link               earnings.yml, events.yml
+  Status.gs  daily + status link + JSON        earnings.yml, events.yml
         │                                    cron backups on every workflow
         │ reads state/*.json                 each run commits state/ and data/ back
         ▼                                            │

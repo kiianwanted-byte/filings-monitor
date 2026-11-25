@@ -15,8 +15,8 @@ Apps Script "Filings monitor" (Google)          GitHub Actions (this repo, publi
   Kick.gs   every 5 min ── workflow_dispatch ──►  monitor.yml (always), halts.yml (US market hours),
             also kicks congress.yml every 30 min,   congress.yml, earnings.yml / events.yml (Mon 07:00 SGT)
             the Monday digests, and csp-scanner     every workflow also has a cron as a backup
-  Status.gs SCOUT STATUS card (pinned link,       each run commits state/*.json and data/*.csv to main
-            daily 09:00 if stale) + stamp endpoint
+  Status.gs SCOUT STATUS card (status link,       each run commits state/*.json and data/*.csv to main
+            daily 09:00 if stale) + stamp endpoint + JSON mode for Builds HQ
         ▲ reads state/*.json from this repo                 │
         └──────────── Telegram SCOUT channel ◄───────────────┘
 ```
@@ -87,7 +87,7 @@ Read a sent message in a test with `body_of(tg.texts[0])`; `flat()` undoes block
 ## Deployment
 
 - Python: pull request → green **Tests** → merge. The `gh` login on the owner's Mac is **kiianlow** (read-only here): push a branch to the fork `kiianlow/filings-monitor` (its Actions are off) and open a PR. Merging needs the owner's account (kiianwanted-byte), e.g. the desktop app's browser pane when he has signed in there and asked you to merge.
-- Apps Script: owner pastes whole files (put one on his clipboard with `LANG=en_US.UTF-8 pbcopy < file`, then verify the saved copy by fingerprint). After any `Status.gs` change: Deploy > Manage deployments > pencil > **New version**. Never "New deployment" (new URL, SNKRS/TCG/CSP go stale silently). Never type code into the Apps Script editor (it auto-inserts characters).
+- Apps Script: owner pastes whole files (put one on his clipboard with `LANG=en_US.UTF-8 pbcopy < file`, then verify the saved copy by fingerprint). After any `Status.gs` change: Deploy > Manage deployments > pencil > **New version**. Never "New deployment" (new URL, SNKRS/TCG/CSP go stale silently). Never type code into the Apps Script editor (it auto-inserts characters). Then run `testStatusJson` (prints the JSON mode, posts nothing). Every new `Status.gs` keeps the JSON mode: Builds HQ reads it (`DEPLOYMENT.md`, "Status.gs JSON mode").
 - After a Python deploy: watch the next Filings Monitor run; run **Diagnostics** and **Filings Heartbeat** by hand.
 - Full procedure, checks and rollback: `DEPLOYMENT.md`.
 

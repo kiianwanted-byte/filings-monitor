@@ -46,6 +46,7 @@ The Apps Script project is shared with the options scanner (`Kick.gs` starts its
 1. Paste whole files. Select all in the editor, paste, save. Copy the file from TextEdit (or, from a terminal, `LANG=en_US.UTF-8 pbcopy < file`): a copy that is not UTF-8 turns characters like `·` into `¬∑`. Never type code into the editor: it inserts its own characters. If someone is helping, have them check the saved file against the source afterwards.
 2. **Never run anything named `setup` or `deleteTriggers`.** The current `Setup.gs` no longer has them. `checkTriggers` is the safe way to look.
 3. After changing `Status.gs`: **Deploy > Manage deployments > pencil > Version: New version > Deploy**. Never **New deployment**: it changes the web address, and SNKRS, TCG and CSP keep reporting to the old one and all go stale with no error.
+   Any new `Status.gs` must keep the JSON mode (see "Status.gs JSON mode" below). Without it, each Builds HQ call gets the plain link's behaviour and posts a SCOUT STATUS card, up to one every 5 minutes per Builds HQ server, and its four SCOUT dots show "Can't check". If the JSON mode has to go, ask the owner to set `SCOUT_STATUS_JSON` to `0` on Builds HQ first.
 4. Deploy the Python side first when both change. `Kick.gs` starts the Monday digests, and only the current `earnings.py` and `events.py` refuse to send a digest twice.
 
 ## Checking an Apps Script deploy
@@ -54,7 +55,14 @@ The Apps Script project is shared with the options scanner (`Kick.gs` starts its
 2. Run `testKick`. Both lines must say `204`.
 3. Run `testKickExtras`. `congress.yml -> 204`.
 4. Run `testKickCsp`. Both lines `204`. (Outside their windows the options jobs exit without sending.)
-5. Tap the pinned STATUS CHECK link in SCOUT. A card arrives with `WARNINGS` in the chat list and six rows: HALTS, SNKRS, TCG, FILINGS, CSP, KICK.
+5. Open the STATUS CHECK link: the message in SCOUT, no longer pinned since 23 Nov 2026, so search the channel for it. A card arrives with `WARNINGS` in the chat list and six rows: HALTS, SNKRS, TCG, FILINGS, CSP, KICK.
+6. Run `testStatusJson`. It prints the same six rows as JSON and posts nothing. This is the mode Builds HQ reads.
+
+## Status.gs JSON mode (Builds HQ)
+
+Since 22 Nov 2026. The status link with `&format=json` added answers the six rows as JSON: `name`, `stale`, `error`, `age_ms`, `limit_hours` and `detail` (the advice, only when stale). It posts nothing to SCOUT. The key check comes first, as for the card. The plain link still posts the card, and the daily card and stamp mode are unchanged.
+
+Kiian's private Builds HQ site calls only this mode: when one of its pages is open, or when his iPhone widget refreshes, at most once a minute per Builds HQ server. After a failed call it waits 5 minutes (20 seconds when a newly started server got no answer at all). It shows a green or red dot for SCOUT SNKRS (SNKRS row), SCOUT TCG (TCG), SCOUT OPTIONS (CSP) and SCOUT CONGRESS (HALTS, FILINGS and KICK, red if any of the three is). The link lives only in Builds HQ's `SCOUT_STATUS_URL` setting on Vercel, never in this repo. Rollback copy of the 18 Nov file: Drive, CONGRESS folder.
 
 ## Rolling back
 
@@ -72,7 +80,7 @@ The Apps Script project is shared with the options scanner (`Kick.gs` starts its
 | `TELEGRAM_CHAT_ID` | GitHub secret, and `Config.gs` | change both |
 | `SEC_USER_AGENT` | GitHub secret | change it |
 | `GH_DISPATCH_TOKEN` | Apps Script Script Property | make a new fine-grained token with Actions read and write on `filings-monitor` and `csp-scanner`, replace the property, run `testKick` and `testKickCsp` |
-| `STATUS_KEY` | Apps Script Script Property, the pinned link, and the SNKRS, TCG and CSP configs | change all of them together or those bots go stale |
+| `STATUS_KEY` | Apps Script Script Property, the status link (the SCOUT message and Builds HQ's `SCOUT_STATUS_URL`), and the SNKRS, TCG and CSP configs | change all of them together, or those bots go stale and Builds HQ's SCOUT dots show "Can't check". If the link is lost, run `showCspSecrets`: it logs the key and the web app address |
 
 ## Recovery
 

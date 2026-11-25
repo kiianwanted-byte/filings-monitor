@@ -29,6 +29,7 @@ GitHub Actions (this public repo, Python 3.11, ubuntu-24.04) + repo as database 
 | Telegram retries and outbox | Tests only | not triggered live |
 | Card message layout (Python alerts) | Verified in tests | all 79 test messages compared with the old layout: every value present, valid HTML, no emoji in blocks, block lines ≤ 32. **Not yet seen on the owner's phone** |
 | SCOUT STATUS card (Apps Script, card layout) | **Verified live** | Version 10 doGet 15:41 SGT completed; owner confirmed the card arrived |
+| Status JSON mode for Builds HQ (`&format=json`, posts nothing) | **Verified live** | owner deployed it on 22 Nov 2026 as a new version of the same deployment and checked the JSON answer; Builds HQ reads it for its SCOUT dots. The status link message was unpinned on 23 Nov 2026 and stays in the channel history |
 | Kick.gs: filings, halts (market hours), congress (30 min), CSP, Monday digests | Filings/congress/CSP kicks **verified live** (executions completed every 5 min, congress dispatched 05:51 and 06:21 UTC); Monday digest kicks unverified until 23 Nov | |
 | Senate trades | Disabled | the Senate site blocks GitHub |
 
@@ -65,6 +66,7 @@ GitHub secrets `TELEGRAM_TOKEN`, `TELEGRAM_CHAT_ID`, `SEC_USER_AGENT` (set). App
 | `python -m pytest` (291) | Passed 291/291 locally (macOS, Python 3.11.18) and on GitHub (PR #7 Tests run) |
 | `pyflakes *.py tests/*.py` | clean |
 | Apps Script Node suite (70, owner's local folder) | Passed 70/70, including the options-scanner parity test |
+| Apps Script Node suite with the JSON-mode tests (140, owner's local folder, 22 Nov 2026) | Passed 140/140 |
 
 ## Deployment
 

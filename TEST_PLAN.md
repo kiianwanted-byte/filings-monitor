@@ -65,4 +65,4 @@ Every test runs in the `sandbox` (autouse: a temporary `state/` and `data/`, so 
 
 ## Apps Script
 
-`Kick.gs`, `Status.gs`, `Core.gs`, `Config.gs` and `Setup.gs` are not in this repo. They have their own suite (70 tests, Node, with stand-ins for the Google services), including a parity test that drives the old and new `Kick.gs` through the same schedule and asserts the options scanner's kicks are identical.
+`Kick.gs`, `Status.gs`, `Core.gs`, `Config.gs` and `Setup.gs` are not in this repo. They have their own suite (Node, with stand-ins for the Google services; 70 tests on 18 Nov 2026, 140 with `json-mode.test.js` since 22 Nov 2026), including a parity test that drives the old and new `Kick.gs` through the same schedule and asserts the options scanner's kicks are identical.
