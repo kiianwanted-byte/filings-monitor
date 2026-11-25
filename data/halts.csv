@@ -251,3 +251,5 @@ timestamp,symbol,name,code,reason,halted,resumes,market,alerted
 2026-11-24T21:06:41+00:00,AMBA,"Ambarella, Inc.",T1,News pending,16:01:00.000 11/24/2026,,NASDAQ,yes
 2026-11-24T21:11:35+00:00,AMBA,"Ambarella, Inc.",T2,News released,16:01:00.000 11/24/2026,,NASDAQ,no
 2026-11-24T21:16:40+00:00,AMBA,"Ambarella, Inc.",T3,News and resumption times,16:01:00.000 11/24/2026,16:35 ET 24 Nov (05:35 SGT 25 Nov),NASDAQ,no
+2026-11-25T05:22:02+00:00,PASG,"Passage Bio, Inc. CS",T1,News pending,19:50:00.000 11/24/2026,,NASDAQ,yes
+2026-11-25T05:22:02+00:00,FNUC,Frontier Nucl & Min Cmn,T1,News pending,19:50:00.000 11/24/2026,,NASDAQ,yes
