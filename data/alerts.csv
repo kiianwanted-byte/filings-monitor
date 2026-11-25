@@ -8538,3 +8538,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-25T14:11:42+00:00,INSIDER_BUY,PRE,Prenetics Global Ltd,Yeung Danny Sheng Wu $733K,733100,5,https://www.sec.gov/Archives/edgar/data/1930070/000162828026075886/0001628280-26-075886-index.htm,MEDIUM
 2026-11-25T14:16:43+00:00,INSIDER_CLUSTER,TROX,Tronox Holdings plc,Engle Jeffrey A. $20K,19873,2,https://www.sec.gov/Archives/edgar/data/2012547/000114036126045601/0001140361-26-045601-index.htm,HIGH
 2026-11-25T14:16:46+00:00,FORM_144,EXTR,EXTREME NETWORKS INC,proposed sale $614K,614459,,https://www.sec.gov/Archives/edgar/data/1628567/000194984626000680/0001949846-26-000680-index.htm,LOW
+2026-11-25T14:21:45+00:00,INSIDER_CLUSTER,PRE,Prenetics Global Ltd,Lo Hoi Chun $127K,127140,2,https://www.sec.gov/Archives/edgar/data/2117963/000162828026075888/0001628280-26-075888-index.htm,HIGH
