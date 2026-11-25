@@ -8566,3 +8566,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-25T16:41:48+00:00,INSIDER_BUY,WMB,"WILLIAMS COMPANIES, INC.",Turner Robb E $979K,978650,1,https://www.sec.gov/Archives/edgar/data/1405444/000140544426000010/0001405444-26-000010-index.htm,MEDIUM
 2026-11-25T16:56:44+00:00,FORM_144,AON,Aon plc,proposed sale $3.12M,3119914,,https://www.sec.gov/Archives/edgar/data/1792850/000195917326008312/0001959173-26-008312-index.htm,LOW
 2026-11-25T17:17:00+00:00,FORM_144,CB,Chubb Limited,proposed sale $2.83M,2829364,,https://www.sec.gov/Archives/edgar/data/1162125/000196922326001216/0001969223-26-001216-index.htm,LOW
+2026-11-25T17:31:43+00:00,FORM_144,CALY,Callaway Golf Company,proposed sale $330K,330000,,https://www.sec.gov/Archives/edgar/data/1072918/000021536026000009/0000215360-26-000009-index.htm,LOW
+2026-11-25T17:31:44+00:00,FORM_144,JCAP,"Jefferson Capital, Inc. / DE",proposed sale $1.03M,1031498,,https://www.sec.gov/Archives/edgar/data/2071943/000195917326008313/0001959173-26-008313-index.htm,LOW
