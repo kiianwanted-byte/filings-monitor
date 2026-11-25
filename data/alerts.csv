@@ -8556,3 +8556,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-25T15:41:34+00:00,FORM_144,TEX,TEREX CORP,proposed sale $1.73M,1728600,,https://www.sec.gov/Archives/edgar/data/2051619/000195917326008308/0001959173-26-008308-index.htm,LOW
 2026-11-25T15:51:51+00:00,FORM_144,BKE,BUCKLE INC,proposed sale $56K,55993,,https://www.sec.gov/Archives/edgar/data/1192952/000194984626000683/0001949846-26-000683-index.htm,LOW
 2026-11-25T15:51:51+00:00,FORM_144,KSS,KOHLS Corp,proposed sale $325K,325000,,https://www.sec.gov/Archives/edgar/data/1791338/000195917326008309/0001959173-26-008309-index.htm,LOW
+2026-11-25T16:01:46+00:00,FORM_144,ADMA,"ADMA BIOLOGICS, INC.",proposed sale $405K,405000,,https://www.sec.gov/Archives/edgar/data/2017423/000114036126045629/0001140361-26-045629-index.htm,LOW
