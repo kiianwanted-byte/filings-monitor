@@ -8690,3 +8690,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-25T22:51:38+00:00,STAKE_13G,,"Whitefort Capital Management, LP",filer not parsed (not on watchlist),,,https://www.sec.gov/Archives/edgar/data/1884931/000101359426001228/0001013594-26-001228-index.htm,LOW
 2026-11-25T23:41:39+00:00,INSIDER_BUY,TMS,Teamshares Inc,Moore Evan Charles $256K,256406,2,https://www.sec.gov/Archives/edgar/data/2134155/000162828026076029/0001628280-26-076029-index.htm,MEDIUM
 2026-11-26T00:11:40+00:00,STAKE_13D,,Platin S.a r.l.,filer not parsed (not on watchlist),,,https://www.sec.gov/Archives/edgar/data/2052525/000110465926132204/0001104659-26-132204-index.htm,LOW
+2026-11-26T00:21:46+00:00,FORM_144,FLGT,"FULGENT GENETICS, INC.",proposed sale $28K,27923,,https://www.sec.gov/Archives/edgar/data/1819718/000119312526478812/0001193125-26-478812-index.htm,LOW
+2026-11-26T00:21:47+00:00,FORM_144,FLGT,"FULGENT GENETICS, INC.",proposed sale $22K,21971,,https://www.sec.gov/Archives/edgar/data/1684532/000119312526478811/0001193125-26-478811-index.htm,LOW
