@@ -277,3 +277,11 @@ timestamp,symbol,name,code,reason,halted,resumes,market,alerted
 2026-11-25T19:16:32+00:00,TOPP,Toppoint Holdings Inc. Common Stock,M,"Volatility pause, single stock (NYSE or other exchange listed)",14:13:26.536 11/25/2026,,AMEX,no
 2026-11-25T19:36:31+00:00,ENTL,Leverage Shares 2X Long ENTG Daily ETF,M,"Volatility pause, single stock (NYSE or other exchange listed)",14:32:12.203 11/25/2026,,Non NASDAQ,no
 2026-11-25T19:51:39+00:00,MINE,Mayfair Gold Corp.,T3,News and resumption times,13:53:22.733 11/25/2026,14:30 ET 25 Nov (03:30 SGT 26 Nov),AMEX,no
+2026-11-26T07:30:54+00:00,PFSA,"Profusa, Inc.",T1,News pending,19:50:00.000 11/25/2026,,NASDAQ,yes
+2026-11-26T07:30:54+00:00,HUDI,Huadi International Gp Ord Shs,T1,News pending,19:50:00.000 11/25/2026,,NASDAQ,yes
+2026-11-26T07:30:54+00:00,GMEX,GMEX ROBOTICS CORP Cl A OS,T1,News pending,19:50:00.000 11/25/2026,,NASDAQ,yes
+2026-11-26T07:30:54+00:00,INLF,INLIF LIMITED Cl A Ord,T1,News pending,19:50:00.000 11/25/2026,,NASDAQ,yes
+2026-11-26T07:30:54+00:00,YAAS,Youxin Tech Ord A,T1,News pending,19:50:00.000 11/25/2026,,NASDAQ,yes
+2026-11-26T07:30:54+00:00,SGLY,Singularity Ft Tch Ltd Cmn,T1,News pending,19:50:00.000 11/25/2026,,NASDAQ,yes
+2026-11-26T07:30:54+00:00,INEO,INNEOVA Hldgs Ltd Cl A Ord,T1,News pending,19:50:00.000 11/25/2026,,NASDAQ,yes
+2026-11-26T07:30:54+00:00,SPRC,SciSparc Ltd Os,T1,News pending,19:50:00.000 11/25/2026,,NASDAQ,yes
