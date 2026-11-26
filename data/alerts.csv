@@ -8693,3 +8693,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-26T00:21:46+00:00,FORM_144,FLGT,"FULGENT GENETICS, INC.",proposed sale $28K,27923,,https://www.sec.gov/Archives/edgar/data/1819718/000119312526478812/0001193125-26-478812-index.htm,LOW
 2026-11-26T00:21:47+00:00,FORM_144,FLGT,"FULGENT GENETICS, INC.",proposed sale $22K,21971,,https://www.sec.gov/Archives/edgar/data/1684532/000119312526478811/0001193125-26-478811-index.htm,LOW
 2026-11-26T01:16:31+00:00,STAKE_13G,,Cavan Holdings Inc.,filer not parsed (not on watchlist),,,https://www.sec.gov/Archives/edgar/data/2167208/000149315226054319/0001493152-26-054319-index.htm,LOW
+2026-11-26T03:00:33+00:00,STAKE_13D,,Furst Rafael,filer not parsed (not on watchlist),,,https://www.sec.gov/Archives/edgar/data/1709739/000149315226054322/0001493152-26-054322-index.htm,LOW
