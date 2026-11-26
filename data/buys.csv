@@ -3236,3 +3236,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-11-26T00:01:35+00:00,2026-11-23,NYC,American Strategic Investment Co.,SCHORSCH NICHOLAS S,10% owner,1230,4.93,6063,0.2,0000950142-26-003167
 2026-11-26T00:11:39+00:00,2026-11-24,DXYZ,Destiny Tech100 Inc.,"Saba Capital Management, L.P.",10% owner,208774,24.25,5062769,4.3,0001510281-26-000482
 2026-11-26T00:36:46+00:00,2026-11-25,VTIX,Virtuix Holdings Inc.,Goetgeluk Jan Roger,"Director, Chief Executive Officer",20000,0.41,8198,0.5,0001213900-26-124256
+2026-11-26T00:51:41+00:00,2026-11-23,SNFI,Stark Novus Financial Inc.,ZYNGIER ALEXANDRE,Director,31241,1.27,39676,9.8,0001493152-26-054317
