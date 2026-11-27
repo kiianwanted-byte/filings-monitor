@@ -8786,3 +8786,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-27T19:11:49+00:00,FORM_144,CRCT,"Cricut, Inc.",proposed sale $4K,3601,,https://www.sec.gov/Archives/edgar/data/1850777/000195917326008365/0001959173-26-008365-index.htm,LOW
 2026-11-27T19:11:50+00:00,FORM_144,PLUS,EPLUS INC,proposed sale $96K,95701,,https://www.sec.gov/Archives/edgar/data/1736723/000196530126000193/0001965301-26-000193-index.htm,LOW
 2026-11-27T19:16:49+00:00,STAKE_13G,,"Alpha Wave Ventures GP, Ltd",filer not parsed (not on watchlist),,,https://www.sec.gov/Archives/edgar/data/2007422/000091957426008281/0000919574-26-008281-index.htm,LOW
+2026-11-27T19:26:42+00:00,FORM_144,BNY,The Bank of New York Mellon Corporation,proposed sale $1.55M,1554009,,https://www.sec.gov/Archives/edgar/data/1950068/000196858226001185/0001968582-26-001185-index.htm,LOW
+2026-11-27T19:26:42+00:00,FORM_144,GNRC,GENERAC HOLDINGS INC.,proposed sale $33K,33000,,https://www.sec.gov/Archives/edgar/data/1474735/000195917326008366/0001959173-26-008366-index.htm,LOW
