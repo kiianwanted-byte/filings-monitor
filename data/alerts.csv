@@ -8762,3 +8762,7 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-27T18:27:12+00:00,FORM_144,EVER,EVERQUOTE INC,proposed sale $546K,546200,,https://www.sec.gov/Archives/edgar/data/1983016/000195004726011575/0001950047-26-011575-index.htm,LOW
 2026-11-27T18:27:15+00:00,FORM_144,DIS,The Walt Disney Company,proposed sale $472K,472130,,https://www.sec.gov/Archives/edgar/data/1969984/000195004726011574/0001950047-26-011574-index.htm,LOW
 2026-11-27T18:27:16+00:00,FORM_144,PI,"IMPINJ, INC.",proposed sale $1.55M,1546200,,https://www.sec.gov/Archives/edgar/data/1677721/000195004726011573/0001950047-26-011573-index.htm,LOW
+2026-11-27T18:36:47+00:00,FORM_144,MSI,"MOTOROLA SOLUTIONS, INC.",proposed sale $13.62M,13622772,,https://www.sec.gov/Archives/edgar/data/1201232/000195004726011586/0001950047-26-011586-index.htm,LOW
+2026-11-27T18:36:47+00:00,FORM_144,CBRS,Cerebras Systems Inc.,proposed sale $11.26M,11261207,,https://www.sec.gov/Archives/edgar/data/2021728/000162828026076068/0001628280-26-076068-index.htm,LOW
+2026-11-27T18:36:48+00:00,FORM_144,URBN,URBAN OUTFITTERS INC,proposed sale $799K,799492,,https://www.sec.gov/Archives/edgar/data/1221848/000195917326008362/0001959173-26-008362-index.htm,LOW
+2026-11-27T18:36:48+00:00,FORM_144,APH,AMPHENOL CORPORATION,proposed sale $35.02M,35020866,,https://www.sec.gov/Archives/edgar/data/1276468/000195004726011585/0001950047-26-011585-index.htm,MEDIUM
