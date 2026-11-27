@@ -8798,3 +8798,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-27T20:41:52+00:00,FORM_144,TXG,"10X Genomics, Inc.",proposed sale $597K,596778,,https://www.sec.gov/Archives/edgar/data/1786720/000196858226001187/0001968582-26-001187-index.htm,LOW
 2026-11-27T21:06:42+00:00,INSIDER_BUY,CCG,Cheche Group Inc.,Zhang Lei $1.24M,1243200,2,https://www.sec.gov/Archives/edgar/data/1965473/000149315226054493/0001493152-26-054493-index.htm,MEDIUM
 2026-11-27T21:06:48+00:00,INSIDER_CLUSTER,SEI,"Solaris Energy Infrastructure, Inc.",TEAGUE AJ $32K,32351,3,https://www.sec.gov/Archives/edgar/data/1697500/000162828026076084/0001628280-26-076084-index.htm,HIGH
+2026-11-27T21:11:43+00:00,STAKE_13D,,Beyman Ezra,filer not parsed (not on watchlist),,,https://www.sec.gov/Archives/edgar/data/1886817/000149315226054496/0001493152-26-054496-index.htm,LOW
