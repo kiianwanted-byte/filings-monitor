@@ -8775,3 +8775,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-27T18:46:49+00:00,FORM_144,ADM,Archer-Daniels-Midland Company,proposed sale $381K,381028,,https://www.sec.gov/Archives/edgar/data/1742205/000196858226001182/0001968582-26-001182-index.htm,LOW
 2026-11-27T18:46:50+00:00,FORM_144,VAL,Valaris Limited,proposed sale $16.59M,16591636,,https://www.sec.gov/Archives/edgar/data/1869594/000195824426000750/0001958244-26-000750-index.htm,LOW
 2026-11-27T18:46:50+00:00,FORM_144,ROOT,"Root, Inc.",proposed sale $196K,196164,,https://www.sec.gov/Archives/edgar/data/1815994/000195917326008363/0001959173-26-008363-index.htm,LOW
+2026-11-27T18:52:05+00:00,FORM_144,VAL,Valaris Ltd,proposed sale $1.54M,1544761,,https://www.sec.gov/Archives/edgar/data/1946778/000162828026076077/0001628280-26-076077-index.htm,LOW
+2026-11-27T18:52:05+00:00,FORM_144,SBH,"Sally Beauty Holdings, Inc.",proposed sale $330K,329580,,https://www.sec.gov/Archives/edgar/data/1850971/000196922326001223/0001969223-26-001223-index.htm,LOW
+2026-11-27T18:52:06+00:00,FORM_144,VAL,Valaris Ltd,proposed sale $5.38M,5377208,,https://www.sec.gov/Archives/edgar/data/1626810/000162828026076075/0001628280-26-076075-index.htm,LOW
