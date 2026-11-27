@@ -8713,3 +8713,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-27T16:51:41+00:00,FORM_144,MDLN,Medline Inc,proposed sale $2.03M,2027192,,https://www.sec.gov/Archives/edgar/data/2060964/000162828026076055/0001628280-26-076055-index.htm,LOW
 2026-11-27T17:06:40+00:00,FORM_144,ANF,ABERCROMBIE & FITCH CO /DE/,proposed sale $529K,529333,,https://www.sec.gov/Archives/edgar/data/1187789/000195917326008350/0001959173-26-008350-index.htm,LOW
 2026-11-27T17:26:41+00:00,FORM_144,AGL,"agilon health, inc.",proposed sale $109K,109170,,https://www.sec.gov/Archives/edgar/data/2062727/000195917326008351/0001959173-26-008351-index.htm,LOW
+2026-11-27T17:31:42+00:00,FORM_144,ITRI,"ITRON, INC.",proposed sale $510K,510000,,https://www.sec.gov/Archives/edgar/data/1571605/000195917326008353/0001959173-26-008353-index.htm,LOW
+2026-11-27T17:31:43+00:00,FORM_144,NI,NISOURCE INC.,proposed sale $862K,862447,,https://www.sec.gov/Archives/edgar/data/1900971/000195917326008352/0001959173-26-008352-index.htm,LOW
