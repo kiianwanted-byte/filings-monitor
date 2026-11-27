@@ -8770,3 +8770,8 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-27T18:41:47+00:00,FORM_144,IRON,"Disc Medicine, Inc.",proposed sale $1.30M,1299427,,https://www.sec.gov/Archives/edgar/data/1816736/000162828026076071/0001628280-26-076071-index.htm,LOW
 2026-11-27T18:41:47+00:00,FORM_144,IRON,"Disc Medicine, Inc.",proposed sale $3.15M,3154693,,https://www.sec.gov/Archives/edgar/data/1816736/000162828026076070/0001628280-26-076070-index.htm,LOW
 2026-11-27T18:41:48+00:00,FORM_144,IRON,"Disc Medicine, Inc.",proposed sale $25K,25098,,https://www.sec.gov/Archives/edgar/data/1816736/000162828026076069/0001628280-26-076069-index.htm,LOW
+2026-11-27T18:46:49+00:00,FORM_144,VAL,Valaris Ltd,proposed sale $229K,228891,,https://www.sec.gov/Archives/edgar/data/2012353/000162828026076074/0001628280-26-076074-index.htm,LOW
+2026-11-27T18:46:49+00:00,FORM_144,BJRI,"BJ'S RESTAURANTS, INC.",proposed sale $546K,545910,,https://www.sec.gov/Archives/edgar/data/1238875/000195004726011587/0001950047-26-011587-index.htm,LOW
+2026-11-27T18:46:49+00:00,FORM_144,ADM,Archer-Daniels-Midland Company,proposed sale $381K,381028,,https://www.sec.gov/Archives/edgar/data/1742205/000196858226001182/0001968582-26-001182-index.htm,LOW
+2026-11-27T18:46:50+00:00,FORM_144,VAL,Valaris Limited,proposed sale $16.59M,16591636,,https://www.sec.gov/Archives/edgar/data/1869594/000195824426000750/0001958244-26-000750-index.htm,LOW
+2026-11-27T18:46:50+00:00,FORM_144,ROOT,"Root, Inc.",proposed sale $196K,196164,,https://www.sec.gov/Archives/edgar/data/1815994/000195917326008363/0001959173-26-008363-index.htm,LOW
