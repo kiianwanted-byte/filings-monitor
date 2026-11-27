@@ -8704,3 +8704,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-27T15:26:45+00:00,FORM_144,ANF,ABERCROMBIE & FITCH CO /DE/,proposed sale $136K,136414,,https://www.sec.gov/Archives/edgar/data/1923467/000195917326008344/0001959173-26-008344-index.htm,LOW
 2026-11-27T15:31:40+00:00,FORM_144,ANF,ABERCROMBIE & FITCH CO /DE/,proposed sale $546K,546000,,https://www.sec.gov/Archives/edgar/data/2045705/000195917326008345/0001959173-26-008345-index.htm,LOW
 2026-11-27T15:36:42+00:00,FORM_144,ANF,ABERCROMBIE & FITCH CO /DE/,proposed sale $1.82M,1817629,,https://www.sec.gov/Archives/edgar/data/1718601/000195917326008346/0001959173-26-008346-index.htm,LOW
+2026-11-27T15:46:58+00:00,FORM_144,OVLY,Oak Valley Bancorp,proposed sale $12K,12412,,https://www.sec.gov/Archives/edgar/data/1442259/000195917326008347/0001959173-26-008347-index.htm,LOW
