@@ -8736,3 +8736,17 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-27T18:16:37+00:00,FORM_144,REGN,"REGENERON PHARMACEUTICALS, INC.",proposed sale $1.19M,1188632,,https://www.sec.gov/Archives/edgar/data/1225471/000195004726011561/0001950047-26-011561-index.htm,LOW
 2026-11-27T18:16:38+00:00,FORM_144,PCVX,"Vaxcyte, Inc.",proposed sale $2.29M,2288520,,https://www.sec.gov/Archives/edgar/data/1649094/000196922326001222/0001969223-26-001222-index.htm,LOW
 2026-11-27T18:16:38+00:00,FORM_144,ARQT,"Arcutis Biotherapeutics, Inc.",proposed sale $267K,266910,,https://www.sec.gov/Archives/edgar/data/1798679/000162828026076065/0001628280-26-076065-index.htm,LOW
+2026-11-27T18:21:42+00:00,FORM_144,QLYS,"QUALYS, INC.",proposed sale $491K,490950,,https://www.sec.gov/Archives/edgar/data/1254781/000195004726011572/0001950047-26-011572-index.htm,LOW
+2026-11-27T18:21:42+00:00,FORM_144,PCTY,PAYLOCITY HOLDING CORPORATION,proposed sale $338K,337678,,https://www.sec.gov/Archives/edgar/data/1742758/000195004726011571/0001950047-26-011571-index.htm,LOW
+2026-11-27T18:21:43+00:00,FORM_144,CBLL,"Ceribell, Inc.",proposed sale $115K,114819,,https://www.sec.gov/Archives/edgar/data/2036112/000195917326008361/0001959173-26-008361-index.htm,LOW
+2026-11-27T18:21:43+00:00,FORM_144,AVLN,Avalyn Pharma Inc.,proposed sale $1.90M,1904199,,https://www.sec.gov/Archives/edgar/data/2127594/000195004726011570/0001950047-26-011570-index.htm,LOW
+2026-11-27T18:21:44+00:00,FORM_144,JOBY,"Joby Aviation, Inc.",proposed sale $14K,13977,,https://www.sec.gov/Archives/edgar/data/1877894/000195004726011569/0001950047-26-011569-index.htm,LOW
+2026-11-27T18:21:44+00:00,FORM_144,JLL,JONES LANG LASALLE INCORPORATED,proposed sale $317K,317157,,https://www.sec.gov/Archives/edgar/data/1206273/000195004726011568/0001950047-26-011568-index.htm,LOW
+2026-11-27T18:21:45+00:00,FORM_144,CBLL,"Ceribell, Inc.",proposed sale $37K,37054,,https://www.sec.gov/Archives/edgar/data/2035786/000195917326008360/0001959173-26-008360-index.htm,LOW
+2026-11-27T18:21:45+00:00,FORM_144,EQH,"Equitable Holdings, Inc.",proposed sale $2.90M,2899214,,https://www.sec.gov/Archives/edgar/data/1486195/000195004726011567/0001950047-26-011567-index.htm,LOW
+2026-11-27T18:21:46+00:00,FORM_144,BDX,"Becton, Dickinson and Company",proposed sale $17K,16593,,https://www.sec.gov/Archives/edgar/data/2034349/000195004726011566/0001950047-26-011566-index.htm,LOW
+2026-11-27T18:21:46+00:00,FORM_144,GLOB,GLOBANT S.A.,proposed sale $257K,257375,,https://www.sec.gov/Archives/edgar/data/1975392/000195004726011565/0001950047-26-011565-index.htm,LOW
+2026-11-27T18:21:47+00:00,FORM_144,MASS,908 DEVICES INC,proposed sale $138K,137625,,https://www.sec.gov/Archives/edgar/data/2115341/000195004726011564/0001950047-26-011564-index.htm,LOW
+2026-11-27T18:21:48+00:00,FORM_144,IRON,DISC MEDICINE INC,proposed sale $1.43M,1432246,,https://www.sec.gov/Archives/edgar/data/1951852/000195004726011563/0001950047-26-011563-index.htm,LOW
+2026-11-27T18:21:48+00:00,FORM_144,INSM,INSMED INC,proposed sale $2.01M,2006249,,https://www.sec.gov/Archives/edgar/data/1402051/000162828026076066/0001628280-26-076066-index.htm,LOW
+2026-11-27T18:21:49+00:00,FORM_144,AVLN,Avalyn Pharma Inc.,proposed sale $2.13M,2129696,,https://www.sec.gov/Archives/edgar/data/1640742/000195004726011562/0001950047-26-011562-index.htm,LOW
