@@ -3260,3 +3260,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-11-27T18:11:48+00:00,2026-11-24,SYRA,Syra Health Corp,Mereddy Radhika,Director,2006,0.36,719,NEW,0001493152-26-054460
 2026-11-27T18:26:59+00:00,2026-11-24,LENZ,"LENZ Therapeutics, Inc.",Leonard Braden Michael,10% owner,138620,2.85,395576,4.5,0001373604-26-000085
 2026-11-27T18:31:36+00:00,2026-11-25,OM,"Outset Medical, Inc.",Leonard Braden Michael,10% owner,19087,2.83,53997,0.7,0001373604-26-000086
+2026-11-27T19:41:30+00:00,2026-11-25,NGS,NATURAL GAS SERVICES GROUP INC,Jacobs Justin,Chief Executive Officer,300,27.50,8250,1.0,0001464667-26-000006
