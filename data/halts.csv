@@ -285,3 +285,11 @@ timestamp,symbol,name,code,reason,halted,resumes,market,alerted
 2026-11-26T07:30:54+00:00,SGLY,Singularity Ft Tch Ltd Cmn,T1,News pending,19:50:00.000 11/25/2026,,NASDAQ,yes
 2026-11-26T07:30:54+00:00,INEO,INNEOVA Hldgs Ltd Cl A Ord,T1,News pending,19:50:00.000 11/25/2026,,NASDAQ,yes
 2026-11-26T07:30:54+00:00,SPRC,SciSparc Ltd Os,T1,News pending,19:50:00.000 11/25/2026,,NASDAQ,yes
+2026-11-27T14:01:35+00:00,PFSA,"Profusa, Inc.",T3,News and resumption times,19:50:00.000 11/25/2026,09:00 ET 27 Nov (22:00 SGT),NASDAQ,no
+2026-11-27T14:01:35+00:00,HUDI,Huadi International Gp Ord Shs,T3,News and resumption times,19:50:00.000 11/25/2026,09:00 ET 27 Nov (22:00 SGT),NASDAQ,no
+2026-11-27T14:01:35+00:00,GMEX,GMEX ROBOTICS CORP Cl A OS,T3,News and resumption times,19:50:00.000 11/25/2026,09:00 ET 27 Nov (22:00 SGT),NASDAQ,no
+2026-11-27T14:01:35+00:00,INLF,INLIF LIMITED Cl A Ord,T3,News and resumption times,19:50:00.000 11/25/2026,09:00 ET 27 Nov (22:00 SGT),NASDAQ,no
+2026-11-27T14:01:35+00:00,YAAS,Youxin Tech Ord A,T3,News and resumption times,19:50:00.000 11/25/2026,09:00 ET 27 Nov (22:00 SGT),NASDAQ,no
+2026-11-27T14:01:35+00:00,SGLY,Singularity Ft Tch Ltd Cmn,T3,News and resumption times,19:50:00.000 11/25/2026,09:00 ET 27 Nov (22:00 SGT),NASDAQ,no
+2026-11-27T14:01:35+00:00,INEO,INNEOVA Hldgs Ltd Cl A Ord,T3,News and resumption times,19:50:00.000 11/25/2026,09:00 ET 27 Nov (22:00 SGT),NASDAQ,no
+2026-11-27T14:01:35+00:00,SPRC,SciSparc Ltd Os,T3,News and resumption times,19:50:00.000 11/25/2026,09:00 ET 27 Nov (22:00 SGT),NASDAQ,no
