@@ -8707,3 +8707,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-27T15:46:58+00:00,FORM_144,OVLY,Oak Valley Bancorp,proposed sale $12K,12412,,https://www.sec.gov/Archives/edgar/data/1442259/000195917326008347/0001959173-26-008347-index.htm,LOW
 2026-11-27T16:12:02+00:00,FORM_144,VRTX,VERTEX PHARMACEUTICALS INC / MA,proposed sale $668K,667556,,https://www.sec.gov/Archives/edgar/data/1312907/000195917326008348/0001959173-26-008348-index.htm,LOW
 2026-11-27T16:16:45+00:00,FORM_144,SKWD,"Skyward Specialty Insurance Group, Inc.",proposed sale $6.24M,6242757,,https://www.sec.gov/Archives/edgar/data/1519449/000194984626000687/0001949846-26-000687-index.htm,LOW
+2026-11-27T16:31:48+00:00,FORM_144,PLUS,EPLUS INC,proposed sale $40K,40074,,https://www.sec.gov/Archives/edgar/data/1736723/000196530126000192/0001965301-26-000192-index.htm,LOW
