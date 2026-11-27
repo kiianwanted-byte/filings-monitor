@@ -8791,3 +8791,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-27T20:01:45+00:00,INSIDER_BUY,QTRX,Quanterix Corp,DONNELLY WILLIAM P $542K,542500,3,https://www.sec.gov/Archives/edgar/data/1503274/000120792826000012/0001207928-26-000012-index.htm,MEDIUM
 2026-11-27T20:06:39+00:00,FORM_144,AMAL,Amalgamated Financial Corp.,proposed sale $121K,121128,,https://www.sec.gov/Archives/edgar/data/1978439/000197407826000430/0001974078-26-000430-index.htm,LOW
 2026-11-27T20:16:39+00:00,FORM_144,FUBO,FuboTV Inc.,proposed sale $211K,211325,,https://www.sec.gov/Archives/edgar/data/1902269/000195917326008367/0001959173-26-008367-index.htm,LOW
+2026-11-27T20:21:47+00:00,FORM_144,LFMD,"LifeMD, Inc.",proposed sale $13K,12619,,https://www.sec.gov/Archives/edgar/data/2057487/000195917326008369/0001959173-26-008369-index.htm,LOW
+2026-11-27T20:21:48+00:00,FORM_144,HYLN,Hyliion Holdings Corp.,proposed sale $85K,85405,,https://www.sec.gov/Archives/edgar/data/2011297/000195917326008368/0001959173-26-008368-index.htm,LOW
