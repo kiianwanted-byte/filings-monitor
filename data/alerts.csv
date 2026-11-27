@@ -8733,3 +8733,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-27T18:11:53+00:00,FORM_144,BETA,"BETA Technologies, Inc.",proposed sale $256K,255521,,https://www.sec.gov/Archives/edgar/data/2090083/000195917326008359/0001959173-26-008359-index.htm,LOW
 2026-11-27T18:11:53+00:00,FORM_144,AAPL,APPLE INC.,proposed sale $19.59M,19594289,,https://www.sec.gov/Archives/edgar/data/2078476/000195004726011560/0001950047-26-011560-index.htm,LOW
 2026-11-27T18:11:54+00:00,FORM_144,PINS,"PINTEREST, INC.",proposed sale $21K,21000,,https://www.sec.gov/Archives/edgar/data/1589043/000192109426001259/0001921094-26-001259-index.htm,LOW
+2026-11-27T18:16:37+00:00,FORM_144,REGN,"REGENERON PHARMACEUTICALS, INC.",proposed sale $1.19M,1188632,,https://www.sec.gov/Archives/edgar/data/1225471/000195004726011561/0001950047-26-011561-index.htm,LOW
+2026-11-27T18:16:38+00:00,FORM_144,PCVX,"Vaxcyte, Inc.",proposed sale $2.29M,2288520,,https://www.sec.gov/Archives/edgar/data/1649094/000196922326001222/0001969223-26-001222-index.htm,LOW
+2026-11-27T18:16:38+00:00,FORM_144,ARQT,"Arcutis Biotherapeutics, Inc.",proposed sale $267K,266910,,https://www.sec.gov/Archives/edgar/data/1798679/000162828026076065/0001628280-26-076065-index.htm,LOW
