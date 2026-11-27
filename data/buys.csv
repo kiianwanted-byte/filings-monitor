@@ -3276,3 +3276,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-11-27T22:36:39+00:00,2026-11-24,BETA,"BETA Technologies, Inc.",Stone Michael Robert,Director,100000,16.02,1601932,5.6,0001193125-26-480448
 2026-11-27T22:36:40+00:00,2026-11-25,ECF,ELLSWORTH GROWTH & INCOME FUND LTD,"Saba Capital Management, L.P.",10% owner,15038,9.83,147823,0.8,0001510281-26-000484
 2026-11-27T22:41:33+00:00,2026-11-24,LAB,STANDARD BIOTOOLS INC.,"Casdin Partners Master Fund, L.P.","Director, 10% owner",3546393,0.59,2102438,4.8,0000919574-26-008286
+2026-11-27T22:51:33+00:00,2026-11-25,GRX,Gabelli Healthcare & WellnessRx Trust,"Saba Capital Management, L.P.",10% owner,1373,10.34,14196,0.1,0001510281-26-000485

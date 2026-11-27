@@ -8805,3 +8805,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-27T22:02:18+00:00,INSIDER_CLUSTER,IESC,"IES Holdings, Inc.",Simmes Matthew J $41K,41150,3,https://www.sec.gov/Archives/edgar/data/1899288/000104826826000200/0001048268-26-000200-index.htm,HIGH
 2026-11-27T22:21:34+00:00,FORM_144,LBSR,"Liberty Star Uranium & Metals, Corp.",proposed sale $5K,5129,,https://www.sec.gov/Archives/edgar/data/1569334/000149315226054523/0001493152-26-054523-index.htm,LOW
 2026-11-27T22:27:10+00:00,FORM_144,BBY,BEST BUY CO INC,proposed sale $682K,682014,,https://www.sec.gov/Archives/edgar/data/1773763/000195917326008372/0001959173-26-008372-index.htm,LOW
+2026-11-27T22:51:34+00:00,FORM_144,AUGO,Aura Minerals Inc.,proposed sale $2.02M,2022780,,https://www.sec.gov/Archives/edgar/data/2135135/000213513526000016/0002135135-26-000016-index.htm,LOW
