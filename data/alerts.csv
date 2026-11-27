@@ -8700,3 +8700,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-27T14:46:55+00:00,FORM_144,WMT,Walmart Inc.,proposed sale $4.39M,4386718,,https://www.sec.gov/Archives/edgar/data/1781198/000195917326008341/0001959173-26-008341-index.htm,LOW
 2026-11-27T14:51:43+00:00,FORM_144,VVV,VALVOLINE INC,proposed sale $23K,23070,,https://www.sec.gov/Archives/edgar/data/1809539/000195917326008342/0001959173-26-008342-index.htm,LOW
 2026-11-27T15:06:59+00:00,FORM_144,ANF,ABERCROMBIE & FITCH CO /DE/,proposed sale $3.65M,3649680,,https://www.sec.gov/Archives/edgar/data/1871578/000195917326008343/0001959173-26-008343-index.htm,LOW
+2026-11-27T15:21:49+00:00,FORM_144,BSY,BENTLEY SYSTEMS INC,proposed sale $26.04M,26037000,,https://www.sec.gov/Archives/edgar/data/1214661/000194984626000686/0001949846-26-000686-index.htm,MEDIUM
