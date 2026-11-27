@@ -8788,3 +8788,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-27T19:16:49+00:00,STAKE_13G,,"Alpha Wave Ventures GP, Ltd",filer not parsed (not on watchlist),,,https://www.sec.gov/Archives/edgar/data/2007422/000091957426008281/0000919574-26-008281-index.htm,LOW
 2026-11-27T19:26:42+00:00,FORM_144,BNY,The Bank of New York Mellon Corporation,proposed sale $1.55M,1554009,,https://www.sec.gov/Archives/edgar/data/1950068/000196858226001185/0001968582-26-001185-index.htm,LOW
 2026-11-27T19:26:42+00:00,FORM_144,GNRC,GENERAC HOLDINGS INC.,proposed sale $33K,33000,,https://www.sec.gov/Archives/edgar/data/1474735/000195917326008366/0001959173-26-008366-index.htm,LOW
+2026-11-27T20:01:45+00:00,INSIDER_BUY,QTRX,Quanterix Corp,DONNELLY WILLIAM P $542K,542500,3,https://www.sec.gov/Archives/edgar/data/1503274/000120792826000012/0001207928-26-000012-index.htm,MEDIUM
