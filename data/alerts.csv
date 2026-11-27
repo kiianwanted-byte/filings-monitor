@@ -8715,3 +8715,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-27T17:26:41+00:00,FORM_144,AGL,"agilon health, inc.",proposed sale $109K,109170,,https://www.sec.gov/Archives/edgar/data/2062727/000195917326008351/0001959173-26-008351-index.htm,LOW
 2026-11-27T17:31:42+00:00,FORM_144,ITRI,"ITRON, INC.",proposed sale $510K,510000,,https://www.sec.gov/Archives/edgar/data/1571605/000195917326008353/0001959173-26-008353-index.htm,LOW
 2026-11-27T17:31:43+00:00,FORM_144,NI,NISOURCE INC.,proposed sale $862K,862447,,https://www.sec.gov/Archives/edgar/data/1900971/000195917326008352/0001959173-26-008352-index.htm,LOW
+2026-11-27T17:41:39+00:00,FORM_144,ZBRA,Zebra TechnologiesCorporation,proposed sale $823K,823000,,https://www.sec.gov/Archives/edgar/data/1999771/000162828026076061/0001628280-26-076061-index.htm,LOW
+2026-11-27T17:41:39+00:00,FORM_144,KSS,KOHLS Corp,proposed sale $350K,350000,,https://www.sec.gov/Archives/edgar/data/1791338/000195917326008354/0001959173-26-008354-index.htm,LOW
