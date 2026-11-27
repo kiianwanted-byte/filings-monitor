@@ -8699,3 +8699,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-27T14:06:50+00:00,INSIDER_CLUSTER,TMC,TMC the metals Co Inc.,Barron Gerard $33K,33400,2,https://www.sec.gov/Archives/edgar/data/1878772/000110465926132347/0001104659-26-132347-index.htm,HIGH
 2026-11-27T14:46:55+00:00,FORM_144,WMT,Walmart Inc.,proposed sale $4.39M,4386718,,https://www.sec.gov/Archives/edgar/data/1781198/000195917326008341/0001959173-26-008341-index.htm,LOW
 2026-11-27T14:51:43+00:00,FORM_144,VVV,VALVOLINE INC,proposed sale $23K,23070,,https://www.sec.gov/Archives/edgar/data/1809539/000195917326008342/0001959173-26-008342-index.htm,LOW
+2026-11-27T15:06:59+00:00,FORM_144,ANF,ABERCROMBIE & FITCH CO /DE/,proposed sale $3.65M,3649680,,https://www.sec.gov/Archives/edgar/data/1871578/000195917326008343/0001959173-26-008343-index.htm,LOW
