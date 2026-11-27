@@ -8717,3 +8717,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-27T17:31:43+00:00,FORM_144,NI,NISOURCE INC.,proposed sale $862K,862447,,https://www.sec.gov/Archives/edgar/data/1900971/000195917326008352/0001959173-26-008352-index.htm,LOW
 2026-11-27T17:41:39+00:00,FORM_144,ZBRA,Zebra TechnologiesCorporation,proposed sale $823K,823000,,https://www.sec.gov/Archives/edgar/data/1999771/000162828026076061/0001628280-26-076061-index.htm,LOW
 2026-11-27T17:41:39+00:00,FORM_144,KSS,KOHLS Corp,proposed sale $350K,350000,,https://www.sec.gov/Archives/edgar/data/1791338/000195917326008354/0001959173-26-008354-index.htm,LOW
+2026-11-27T17:46:49+00:00,FORM_144,FA,FIRST ADVANTAGE CORP,proposed sale $165K,165000,,https://www.sec.gov/Archives/edgar/data/2044531/000195917326008356/0001959173-26-008356-index.htm,LOW
+2026-11-27T17:46:49+00:00,FORM_144,ANF,ABERCROMBIE & FITCH CO /DE/,proposed sale $295K,295479,,https://www.sec.gov/Archives/edgar/data/2045415/000195917326008355/0001959173-26-008355-index.htm,LOW
