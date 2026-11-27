@@ -8695,3 +8695,5 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-26T01:16:31+00:00,STAKE_13G,,Cavan Holdings Inc.,filer not parsed (not on watchlist),,,https://www.sec.gov/Archives/edgar/data/2167208/000149315226054319/0001493152-26-054319-index.htm,LOW
 2026-11-26T03:00:33+00:00,STAKE_13D,,Furst Rafael,filer not parsed (not on watchlist),,,https://www.sec.gov/Archives/edgar/data/1709739/000149315226054322/0001493152-26-054322-index.htm,LOW
 2026-11-27T11:16:46+00:00,STAKE_13G,,Ophir Asset Management Pty Ltd,filer not parsed (not on watchlist),,,https://www.sec.gov/Archives/edgar/data/1844640/000184464026000010/0001844640-26-000010-index.htm,LOW
+2026-11-27T14:06:48+00:00,INSIDER_BUY,WRD,WeRide Inc.,Han Tony Xu $594K,593911,3,https://www.sec.gov/Archives/edgar/data/2056390/000110465926132349/0001104659-26-132349-index.htm,MEDIUM
+2026-11-27T14:06:50+00:00,INSIDER_CLUSTER,TMC,TMC the metals Co Inc.,Barron Gerard $33K,33400,2,https://www.sec.gov/Archives/edgar/data/1878772/000110465926132347/0001104659-26-132347-index.htm,HIGH
