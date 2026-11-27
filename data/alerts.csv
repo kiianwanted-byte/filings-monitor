@@ -8719,3 +8719,6 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-27T17:41:39+00:00,FORM_144,KSS,KOHLS Corp,proposed sale $350K,350000,,https://www.sec.gov/Archives/edgar/data/1791338/000195917326008354/0001959173-26-008354-index.htm,LOW
 2026-11-27T17:46:49+00:00,FORM_144,FA,FIRST ADVANTAGE CORP,proposed sale $165K,165000,,https://www.sec.gov/Archives/edgar/data/2044531/000195917326008356/0001959173-26-008356-index.htm,LOW
 2026-11-27T17:46:49+00:00,FORM_144,ANF,ABERCROMBIE & FITCH CO /DE/,proposed sale $295K,295479,,https://www.sec.gov/Archives/edgar/data/2045415/000195917326008355/0001959173-26-008355-index.htm,LOW
+2026-11-27T17:52:03+00:00,FORM_144,AVA,AVISTA CORP,proposed sale $193K,193355,,https://www.sec.gov/Archives/edgar/data/1466555/000194984626000690/0001949846-26-000690-index.htm,LOW
+2026-11-27T17:52:03+00:00,FORM_144,LEVI,LEVI STRAUSS & CO,proposed sale $4.92M,4922000,,https://www.sec.gov/Archives/edgar/data/1770963/000194984626000689/0001949846-26-000689-index.htm,LOW
+2026-11-27T17:52:04+00:00,FORM_144,LTH,"Life Time Group Holdings, Inc.",proposed sale $11.06M,11056032,,https://www.sec.gov/Archives/edgar/data/1884996/000195917326008357/0001959173-26-008357-index.htm,LOW
