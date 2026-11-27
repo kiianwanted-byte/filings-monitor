@@ -3281,3 +3281,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-11-27T23:06:37+00:00,2026-11-24,AARD,"Aardvark Therapeutics, Inc.",Lee Tien-Li,"Director, Chief Executive Officer, 10% owner",50000,0.97,48300,3.2,0001193125-26-480461
 2026-11-27T23:06:38+00:00,2026-11-25,GF,NEW GERMANY FUND INC,"Saba Capital Management, L.P.",10% owner,10401,9.30,96729,0.3,0001510281-26-000486
 2026-11-27T23:26:37+00:00,2026-11-25,DXYZ,Destiny Tech100 Inc.,"Saba Capital Management, L.P.",10% owner,169040,23.35,3947084,3.4,0001510281-26-000487
+2026-11-27T23:46:42+00:00,2026-11-25,MXF,MEXICO FUND INC,"Saba Capital Management, L.P.",10% owner,112736,20.15,2271239,4.2,0001510281-26-000488
