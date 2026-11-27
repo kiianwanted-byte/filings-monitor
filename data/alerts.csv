@@ -8702,3 +8702,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-27T15:06:59+00:00,FORM_144,ANF,ABERCROMBIE & FITCH CO /DE/,proposed sale $3.65M,3649680,,https://www.sec.gov/Archives/edgar/data/1871578/000195917326008343/0001959173-26-008343-index.htm,LOW
 2026-11-27T15:21:49+00:00,FORM_144,BSY,BENTLEY SYSTEMS INC,proposed sale $26.04M,26037000,,https://www.sec.gov/Archives/edgar/data/1214661/000194984626000686/0001949846-26-000686-index.htm,MEDIUM
 2026-11-27T15:26:45+00:00,FORM_144,ANF,ABERCROMBIE & FITCH CO /DE/,proposed sale $136K,136414,,https://www.sec.gov/Archives/edgar/data/1923467/000195917326008344/0001959173-26-008344-index.htm,LOW
+2026-11-27T15:31:40+00:00,FORM_144,ANF,ABERCROMBIE & FITCH CO /DE/,proposed sale $546K,546000,,https://www.sec.gov/Archives/edgar/data/2045705/000195917326008345/0001959173-26-008345-index.htm,LOW
