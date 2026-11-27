@@ -293,3 +293,4 @@ timestamp,symbol,name,code,reason,halted,resumes,market,alerted
 2026-11-27T14:01:35+00:00,SGLY,Singularity Ft Tch Ltd Cmn,T3,News and resumption times,19:50:00.000 11/25/2026,09:00 ET 27 Nov (22:00 SGT),NASDAQ,no
 2026-11-27T14:01:35+00:00,INEO,INNEOVA Hldgs Ltd Cl A Ord,T3,News and resumption times,19:50:00.000 11/25/2026,09:00 ET 27 Nov (22:00 SGT),NASDAQ,no
 2026-11-27T14:01:35+00:00,SPRC,SciSparc Ltd Os,T3,News and resumption times,19:50:00.000 11/25/2026,09:00 ET 27 Nov (22:00 SGT),NASDAQ,no
+2026-11-27T14:36:40+00:00,BRZX,Corgi Brazil 2x Daily ETF,M,"Volatility pause, single stock (NYSE or other exchange listed)",09:32:07.113 11/27/2026,,Non NASDAQ,no
