@@ -3239,3 +3239,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-11-26T00:51:41+00:00,2026-11-23,SNFI,Stark Novus Financial Inc.,ZYNGIER ALEXANDRE,Director,31241,1.27,39676,9.8,0001493152-26-054317
 2026-11-26T01:06:46+00:00,2026-11-23,SER,"Serina Therapeutics, Inc.",Bailey Gregory,Director,10105,1.38,13894,0.1,0001329505-26-000009
 2026-11-27T11:06:34+00:00,2026-11-24,SPCB,SuperCom Ltd,Trabelsi Arie,Director,10519,6.64,69842,46.1,0001178913-26-005389
+2026-11-27T11:46:44+00:00,2026-11-24,API,"Agora, Inc.",Zhao Bin,"Director, Chief Executive Officer",72608,3.19,231673,3.1,0001193125-26-479131
