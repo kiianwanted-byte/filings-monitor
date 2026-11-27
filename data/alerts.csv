@@ -8782,3 +8782,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-27T18:56:50+00:00,FORM_144,APLD,APPLIED DIGITAL CORPORATION,proposed sale $1.17M,1172437,,https://www.sec.gov/Archives/edgar/data/1166816/000195004726011588/0001950047-26-011588-index.htm,LOW
 2026-11-27T18:56:50+00:00,FORM_144,CBLL,"Ceribell, Inc.",proposed sale $97K,97063,,https://www.sec.gov/Archives/edgar/data/2035784/000195917326008364/0001959173-26-008364-index.htm,LOW
 2026-11-27T18:56:50+00:00,STAKE_13G,,"JANE STREET GROUP, LLC",filer not parsed (not on watchlist),,,https://www.sec.gov/Archives/edgar/data/1595888/000159588826000172/0001595888-26-000172-index.htm,LOW
+2026-11-27T19:06:44+00:00,FORM_144,NU,NU HOLDINGS LTD.,proposed sale $3.24M,3240000,,https://www.sec.gov/Archives/edgar/data/1973445/000195004726011591/0001950047-26-011591-index.htm,LOW
