@@ -8801,3 +8801,4 @@ timestamp,type,ticker,company,headline,value_usd,lag_days,link,priority
 2026-11-27T21:11:43+00:00,STAKE_13D,,Beyman Ezra,filer not parsed (not on watchlist),,,https://www.sec.gov/Archives/edgar/data/1886817/000149315226054496/0001493152-26-054496-index.htm,LOW
 2026-11-27T21:16:57+00:00,FORM_144,SIRI,Sirius XM Holdings Inc.,proposed sale $656K,655596,,https://www.sec.gov/Archives/edgar/data/1318285/000196858226001189/0001968582-26-001189-index.htm,LOW
 2026-11-27T21:31:43+00:00,STAKE_13G,,Orca Capital AG,filer not parsed (not on watchlist),,,https://www.sec.gov/Archives/edgar/data/2052389/000149315226054500/0001493152-26-054500-index.htm,LOW
+2026-11-27T21:56:58+00:00,INSIDER_BUY,IESC,"IES Holdings, Inc.",Gendell David B. $653K,653000,3,https://www.sec.gov/Archives/edgar/data/1408176/000104826826000191/0001048268-26-000191-index.htm,MEDIUM
