@@ -3241,3 +3241,4 @@ timestamp,trade_date,ticker,company,insider,role,shares,price,value_usd,holding_
 2026-11-27T11:06:34+00:00,2026-11-24,SPCB,SuperCom Ltd,Trabelsi Arie,Director,10519,6.64,69842,46.1,0001178913-26-005389
 2026-11-27T11:46:44+00:00,2026-11-24,API,"Agora, Inc.",Zhao Bin,"Director, Chief Executive Officer",72608,3.19,231673,3.1,0001193125-26-479131
 2026-11-27T13:01:49+00:00,2026-11-24,TRBG,Turbogen Ltd.,KATZ ALEX,Director,1826,2.74,4999,0.1,0001213900-26-124326
+2026-11-27T13:06:35+00:00,2026-11-25,ELTK,ELTEK LTD,Nissan Yitzhak,Director,1200,4.33,5193,0.0,0001178913-26-005392
