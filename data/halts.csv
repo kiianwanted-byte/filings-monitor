@@ -295,3 +295,17 @@ timestamp,symbol,name,code,reason,halted,resumes,market,alerted
 2026-11-27T14:01:35+00:00,SPRC,SciSparc Ltd Os,T3,News and resumption times,19:50:00.000 11/25/2026,09:00 ET 27 Nov (22:00 SGT),NASDAQ,no
 2026-11-27T14:36:40+00:00,BRZX,Corgi Brazil 2x Daily ETF,M,"Volatility pause, single stock (NYSE or other exchange listed)",09:32:07.113 11/27/2026,,Non NASDAQ,no
 2026-11-27T14:41:33+00:00,HDLB,ETRACS Monthly Pay 2xLeveraged US High Dividend Low Volatili,M,"Volatility pause, single stock (NYSE or other exchange listed)",09:36:55.830 11/27/2026,,NYSE Arca,no
+2026-11-28T02:01:25+00:00,CHAI,Core AI Hldgs Cmn,T1,News pending,16:50:00.000 11/27/2026,,NASDAQ,yes
+2026-11-28T02:01:25+00:00,LAB,Standard BioTools Inc.,T1,News pending,16:50:00.000 11/27/2026,,NASDAQ,yes
+2026-11-28T02:01:25+00:00,GDHG,Golden Heaven Grp Hld Ord A,T1,News pending,16:50:00.000 11/27/2026,,NASDAQ,yes
+2026-11-28T02:01:25+00:00,BFRGW,"Bullfrog AI Holdings, Inc. Wt",T1,News pending,16:50:00.003 11/27/2026,,NASDAQ,yes
+2026-11-28T02:01:25+00:00,WHLRL,Wheeler Real Est 7 Sr Cnv Nts,T1,News pending,16:50:00.003 11/27/2026,,NASDAQ,yes
+2026-11-28T02:01:25+00:00,PBK,PowerBank Corp Cmn,T1,News pending,16:50:00.000 11/27/2026,,NASDAQ,yes
+2026-11-28T02:01:25+00:00,WHLR,Wheeler Real Estate Investment,T1,News pending,16:50:00.000 11/27/2026,,NASDAQ,yes
+2026-11-28T02:01:25+00:00,BFRG,"Bullfrog AI Holdings, Inc. Cs",T1,News pending,16:50:00.000 11/27/2026,,NASDAQ,yes
+2026-11-28T02:01:25+00:00,MTEN,Mingteng Intl Cl A Ordinary Sh,T1,News pending,16:50:00.000 11/27/2026,,NASDAQ,yes
+2026-11-28T02:01:25+00:00,VBIO,Valion Bio Cmn,T1,News pending,16:50:00.000 11/27/2026,,NASDAQ,yes
+2026-11-28T02:01:25+00:00,NIVF,NewGenIvf Group Limited Os,T1,News pending,16:50:00.000 11/27/2026,,NASDAQ,yes
+2026-11-28T02:01:25+00:00,WHLRP,Wheeler REIT Cl B Prfd Stk,T1,News pending,16:50:00.003 11/27/2026,,NASDAQ,yes
+2026-11-28T02:01:25+00:00,NIVFW,NewGenIvf Group Limited Wt,T1,News pending,16:50:00.003 11/27/2026,,NASDAQ,yes
+2026-11-28T02:01:25+00:00,WHLRD,Wheeler Real Estate PrefD,T1,News pending,16:50:00.003 11/27/2026,,NASDAQ,yes
